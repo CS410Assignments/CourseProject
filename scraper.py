@@ -1,35 +1,53 @@
 """
 this script designed to scrape off information from two major movie rating websites: IMDB and Rotten Tomatoes
-twelve movie ratings are obtained from each sources.
+twelve movie ratings are obtained from each source.
 """
 from bs4 import BeautifulSoup as SOUP
 import re
 import requests
 
 def locate_url(user_emotion):
-    file_path = "url/"
-    emotions = ["Happy", "Sad", "Satisfying", "Anger",
-                "Peaceful", "Fear", "Excitement", "Depressed",
-                "Contentment", "Sorrowful"]
 
+    file_path = "url/"
+    emotions = ["Happy", "Sad", "Satisfying", "Angry",
+                "Peaceful", "Fearful", "Excited", "Depressed",
+                "Content", "Sorrowful"]
+
+    url_lst = []
     with open(file_path + "IMDB.txt") as f1, open(file_path + "RT.txt") as f2:
         f1_lst = f1.read().splitlines()
         f2_lst = f2.read().splitlines()
         for i in range(len(emotions)):
-            if user_emotion == emotions[i]:
+            if emotions[i] in user_emotion:
                 IMDB = f1_lst[i]
                 RT = f2_lst[i]
-                url_lst = [IMDB, RT]
+                url_lst.append(IMDB)
+                url_lst.append(RT)
 
     return url_lst
 
-def scrape_IMDB(url_lst):
-    IMDB = url_lst[0]
+"""sort movies based on their rating, from high to low
+   through this function, the recommender is able to select the movie with highest rating and represent to users
+"""
+def rank_movies(movie_dict):
+    ranked_dict = {}
+    rating = []
+    for movie_info in movie_dict.values():
+        if type(movie_info[-1]) == float:
+            rating.append(movie_info[-1])
+    rating = sorted(rating, reverse = True)
+    for r in rating:
+        for k in movie_dict.keys():
+            if movie_dict[k][-1] == r:
+                ranked_dict[k] = movie_dict[k]
+    return ranked_dict 
+        
+# IMDB should be a single link
+def scrape_IMDB(IMDB, num): 
     response = requests.get(IMDB)
     data = SOUP(response.text, 'lxml')
 
     # we hope to have movie's name, grading, runtime, and rating
-    # TODO: adding number of reviews
     IMDB_dict = {}
     title_lst = []
 
@@ -46,14 +64,14 @@ def scrape_IMDB(url_lst):
         if grading != None:
             grading = str(grading).split('">')[1].split('</')[0]
         else:
-            grading = "Grading information is not found"
+            grading = "N/A"
         IMDB_dict[title].append(grading)
         # runtime
         length = movie.find('span', class_ = "runtime")
         if length != None:
             length = str(length).split('">')[1].split('</')[0]
         else:
-            length = "Film's length is not found"
+            length = "N/A"
         IMDB_dict[title].append(length)
 
     # rating
@@ -65,13 +83,13 @@ def scrape_IMDB(url_lst):
             rating = float(re.search(r'\d+', str(rating).split(' ')[3]).group())
         IMDB_dict[title].append(rating)
 
-    # we need a maximum of twelve movies from each genre >> website based on the algorithm
-    IMDB_dict = dict(list(IMDB_dict.items())[0: 12])
+    ranked_dict = rank_movies(IMDB_dict)
+    ranked_dict = dict(list(ranked_dict.items())[0: num])
 
-    return IMDB_dict
+    return ranked_dict
 
-def scrape_rt(url_lst):
-    RT = url_lst[1]
+# RT should be a single link
+def scrape_rt(RT, num):
     response = requests.get(RT)
     data = SOUP(response.text, 'lxml')
     RT_dict = {}
@@ -93,26 +111,28 @@ def scrape_rt(url_lst):
             RT_dict[title] = []
             title_lst.append(title) #100
 
-        # reviews
-        num_reviews = movie.find('td', class_ = "right hidden-xs")
-        if num_reviews != None:
-            num_reviews = int(str(num_reviews).split('">')[1].split('</')[0]) #100
-            RT_dict[title].append(num_reviews)
+        ## (Do not run) numbers of reviews:
+        # num_reviews = movie.find('td', class_ = "right hidden-xs")
+        # if num_reviews != None:
+        #     num_reviews = int(str(num_reviews).split('">')[1].split('</')[0]) #100
+        #     RT_dict[title].append(num_reviews)
 
-    # TODO: figuring out a way to reduce the time it takes for going through movie profile links
+    # grading and runtime information are inside movie profile links
+    for title, rel_link in zip(title_lst, rel_lst[:12]): #only 12 movies needed
+        link = "https://www.rottentomatoes.com/" + rel_link
+        response = requests.get(link)
+        data_1 = SOUP(response.text, 'lxml')
+        for div_tag in data_1.findAll('li', {'class':'meta-row clearfix'}):
+            movie_label= div_tag.find('div', {'class': 'meta-label subtle'}).text
+            if movie_label == "Rating:":
+                rating_info = div_tag.find('div', {'class': 'meta-value'}).text
+                rating_info = rating_info.replace("\n","").replace(" ", "")
+                RT_dict[title].append(rating_info)
+            elif movie_label == "Runtime:":
+                runtime_info = div_tag.find('div', {'class': 'meta-value'}).text
+                runtime_info = runtime_info.replace("\n","").replace(" ", "")
 
-    # movie_info_lst = []
-
-    # grading and runtime information are inside movie profile link
-    # for rel_link in rel_lst[:12]: #only 12 movies needed
-    #     link = "https://www.rottentomatoes.com/" + rel_link
-    #     response = requests.get(link)
-    #     data = SOUP(response.text, 'lxml')
-    #     for div_tag in data.findAll('li', {'class':'meta-row clearfix'}):
-    #         movie_info = div_tag.find('div', {'class': 'meta-value'}).text
-    #         movie_info = movie_info.replace(" ", "").strip('\n').strip('\t')
-    #         movie_info_lst.append(movie_info)
-
+                RT_dict[title].append(runtime_info)
     # rating
     for title, movie in zip(title_lst, data.findAll('span', class_ = 'tMeterIcon tiny')):
         rating = movie.find('span', class_ = "tMeterScore")
@@ -121,15 +141,9 @@ def scrape_rt(url_lst):
         rating = int(rating)/10
         RT_dict[title].append(rating)
 
-    RT_dict = dict(list(RT_dict.items())[0: 12])
+    ranked_dict = rank_movies(RT_dict)
+    ranked_dict = dict(list(ranked_dict.items())[0: num])
 
-    return RT_dict
-
-url_lst = locate_url("Happy")
-print(scrape_rt(url_lst))
-
-
-
-
+    return ranked_dict
 
     
