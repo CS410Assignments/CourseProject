@@ -1,12 +1,15 @@
 <img src="https://lionbridge.ai/wp-content/uploads/2020/09/2020-09-17_movie-recommendation-system.jpg" width="300" align="right" />
 
-# Mood-Based Movie Recommendation System
-## CS 410: Final Project 
+# MovieMood
+## CS 410 Final Project: A Mood-Based Movie Recommendation System
 
-### Overview
-> A collaborative work done by [Vivian Yu](https://github.com/vilavivida) and [Chenyu Zhao](https://github.com/chenyuzhao98). 
+### Team Introduction
 
-> This is a Python-based movie recommendation system that implemented text-retrieval techniques and Graphical User Interface. One special thing about this system is that its recommendations were tailored around users' emotion of the moment. There are so many existing movie recommender systems available on the market, but only a small number of them were designed based on users' psychological needs. The main objective of this project is to fill this gap by making traditional recommender system more user-driven. <br>
+> A collaborative work done by [Vivian Chuhan Yu (chuhany2)](https://github.com/vilavivida) and [Chenyu Zhao (chenyu5)](https://github.com/chenyuzhao98). Being a Psych major, Vivian applied her expertise in designing the connection between human emotions and movie genres. She is also responsible for designing the graphical user interface using tkinter. Chenyu is responisible for building the web scraper and presenting the infomation gathered. He is also responsible for writing the documentation and narrating the presentation.
+
+### Project Overview
+
+This is a Python-based movie recommendation system that implemented text-retrieval techniques and Graphical User Interface. One special thing about this system is that its recommendations were tailored around users' emotion of the moment. There are so many existing movie recommender systems available on the market, but only a small number of them were designed based on users' psychological needs. The main objective of this project is to fill this gap by making traditional recommender system more user-driven. <br>
 
 ### Emotion associated with Genre of Movie
 
@@ -49,7 +52,7 @@ Here is an example output of the program: <br/>
 
 **Note: Not every movie has all information listed. If the crawler cannot find relevant information, it will automatically fill the space with "Not Found".**
 
-### Requirements
+### Environment Set-up
 Please check out `requirements.txt` for information.<br/>
 You can install all packages at once using `$ pip install -r requirements.txt`. <br/>
 *Please use **Python 3**. Otherwise you will need to import tkinter.ttk separately because it is not a submodule of tkinter in Python2*
