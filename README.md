@@ -62,5 +62,8 @@ After making sure you have all packages installed, activate the program through 
 The program will start runnning immediately.<br/>
 *Please don't close the tkinter window the entire time.*
 
+### Video Presentation
+[youtube](https://youtu.be/ji2GY6Alf-k)
+
 
 
