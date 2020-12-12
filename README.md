@@ -63,7 +63,7 @@ The program will start runnning immediately.<br/>
 *Please don't close the tkinter window the entire time.*
 
 ### Video Presentation
-[youtube](https://youtu.be/ji2GY6Alf-k)
+[YouTube link](https://youtu.be/ji2GY6Alf-k)
 
 
 
