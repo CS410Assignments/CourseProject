@@ -5,7 +5,7 @@
 
 ### Team Introduction
 
-> A collaborative work done by [Vivian Chuhan Yu (chuhany2)](https://github.com/vilavivida) and [Chenyu Zhao (chenyu5)](https://github.com/chenyuzhao98). Being a Psych major, Vivian applied her expertise in designing the connection between human emotions and movie genres. She is also responsible for designing the graphical user interface using tkinter. Chenyu is responisible for building the web scraper and presenting the infomation gathered. He is also responsible for writing the documentation and narrating the presentation.
+> A collaborative work is done by [Vivian Chuhan Yu (chuhany2)](https://github.com/vilavivida) and [Chenyu Zhao (chenyu5)](https://github.com/chenyuzhao98). Being a Psych major, Vivian applied her expertise in designing the connection between human emotions and movie genres. She is also responsible for designing the graphical user interface using tkinter, and presenting the information in Treeview. Chenyu is responsible for building the web scraper, designing the logistic regression algorithm, and implement the Cosine Similarity analysis. He is also responsible for writing the documentation and narrating the presentation.
 
 ### Project Overview
 
@@ -49,7 +49,7 @@ We would pull user rating scores from both IMDb and Rotten Tomatoes. Due to the 
 
 ### Present Movie Information
 
-After users indicate their moods, the program is going to look up the corresponding link to the movie page and present movie informaiton as `Treeview`, which is a module included by the tkinter library displaying a hierarchical collection of items.<br/>
+After users indicate their moods, the program is going to look up the corresponding link to the movie page and present movie information as `Treeview`, which is a module included by the tkinter library displaying a hierarchical collection of items.<br/>
 Here is an example output of the program: <br/>
 
 <a href='https://postimg.cc/14PRxmrS' target='_blank'><img src='https://i.postimg.cc/6648vT78/Screen-Shot-2020-12-10-at-1-31-48-AM.png' border='0' width="590" height="450" alt='Screen-Shot-2020-12-10-at-1-31-48-AM'/></a>
@@ -67,8 +67,8 @@ You can install all packages at once using `$ pip install -r requirements.txt`. 
 
 ### How to use?
 After making sure you have all packages installed, activate the program through `main.py`. <br/>
-The program will start runnning immediately.<br/>
-*Please don't close the tkinter window the entire time.*
+The program will start running immediately.<br/>
+*The scraping process may take up to **30 seconds**. Please do not close the tkinter window when the program is running.*
 
 ### Video Presentation
 [YouTube link](https://youtu.be/ji2GY6Alf-k)

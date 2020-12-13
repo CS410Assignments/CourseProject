@@ -1,4 +1,6 @@
 beautifulsoup4
 lxml
 requests
+sklearn
+nltk
 tk
