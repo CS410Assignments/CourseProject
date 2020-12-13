@@ -74,7 +74,7 @@ The program will start running immediately.<br/>
 *The scraping process may take up to **30 seconds**. Please do not close the tkinter window when the program is running.*
 
 ### Video Presentation
-[YouTube link](https://youtu.be/ji2GY6Alf-k)
+[YouTube link](https://youtu.be/DIIRPvu-ts0)
 
 
 
