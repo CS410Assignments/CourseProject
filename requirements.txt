@@ -1,6 +1,9 @@
 beautifulsoup4
 lxml
 requests
+<<<<<<< HEAD
 sklearn
 nltk
+=======
+>>>>>>> 0f272fe777aa24be7ce78fe8b9835a953b1b9c58
 tk
