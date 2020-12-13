@@ -56,6 +56,10 @@ Here is an example output of the program: <br/>
 
 **Note: Not every movie has all information listed. If the crawler cannot find relevant information, it will automatically fill the space with "Not Found".**
 
+### You May Also Like...
+
+After users chose their favorite movie from the list, we would run a [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) analysis to recommend **3** similar movies based on the summary.
+
 ### Environment Set-up
 Please check out `requirements.txt` for information.<br/>
 You can install all packages at once using `$ pip install -r requirements.txt`. <br/>
