@@ -43,6 +43,10 @@ Here are two example movie pages of *IMDB* and *Rotten Tomatoes*: <br/>
 
 As you can see, comparing to IMDB, Rotten Tomatoes includes the majority of movie information in each movie profile link. Our crawler had to look up each link to capture hidden information, such as *movie length, maturity grading, cast, etc*. Therefore, it is unavoidable that the program takes more time to scrape RT pages.
 
+### Ranking and Scoring
+
+We would pull user rating scores from both IMDb and Rotten Tomatoes. Due to the different rating scales used by IMDb and Rotten Tomatoes, we would first convert both scores to a *10-point scale* for the ease of comparison. We would also take the number of ratings into consideration, as larger number of ratings tends to make the overall rating more credible. Therefore, we would run *logit* function on the number of ratings, and add it as an additional weightage to the final movie score.
+
 ### Present Movie Information
 
 After users indicate their moods, the program is going to look up the corresponding link to the movie page and present movie informaiton as `Treeview`, which is a module included by the tkinter library displaying a hierarchical collection of items.<br/>
