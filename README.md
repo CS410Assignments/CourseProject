@@ -63,6 +63,9 @@ After users chose their favorite movie from the list, we would run a [Cosine Sim
 Here is an example of movies similar to *Toy Story 4*: <br/>
 <a href='https://postimg.cc/zbXBKw00' target='_blank'><img src='https://i.postimg.cc/85L68tWQ/Screen-Shot-2020-12-13-at-4-19-55-PM.png' width="600" height="400" border='0' alt='Screen-Shot-2020-12-13-at-4-19-55-PM'/></a>
 
+### Self-evaluation
+The work is equally distributed between the two teammates, and we were able to complete our mood-based movie recommender system as inteded. We chose not to build a seperate mobile application, but instead spend the time working on additional features like cosine similarity and logit regression. In the end, we have obtained the expected outcome. 
+
 ### Environment Set-up
 Please check out `requirements.txt` for information.<br/>
 You can install all packages at once using `$ pip install -r requirements.txt`. <br/>
