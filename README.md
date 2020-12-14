@@ -45,7 +45,7 @@ As you can see, comparing to IMDB, Rotten Tomatoes includes the majority of movi
 
 ### Ranking and Scoring
 
-We would pull user rating scores from both IMDb and Rotten Tomatoes. Due to the different rating scales used by IMDb and Rotten Tomatoes, we would first convert both scores to a *10-point scale* for the ease of comparison. We would also take the number of ratings into consideration, as larger number of ratings tends to make the overall rating more credible. Therefore, we would run *logit* function on the number of ratings, and add it as an additional weightage to the final movie score.
+We would pull user rating scores from both IMDb and Rotten Tomatoes. Due to the different rating scales used by IMDb and Rotten Tomatoes, we would first convert both scores to a *10-point scale* for the ease of comparison. We would also take the number of ratings into consideration, as larger number of ratings tends to make the overall rating more credible. Therefore, we would run *logistic regression* function on the number of ratings, and add it as an additional weightage to the final movie score.
 
 ### Present Movie Information
 
@@ -64,7 +64,7 @@ Here is an example of movies similar to *Toy Story 4*: <br/>
 <a href='https://postimg.cc/zbXBKw00' target='_blank'><img src='https://i.postimg.cc/85L68tWQ/Screen-Shot-2020-12-13-at-4-19-55-PM.png' width="600" height="400" border='0' alt='Screen-Shot-2020-12-13-at-4-19-55-PM'/></a>
 
 ### Self-evaluation
-The work is equally distributed between the two teammates, and we were able to complete our mood-based movie recommender system as inteded. We chose not to build a seperate mobile application, but instead spend the time working on additional features like cosine similarity and logit regression. In the end, we have obtained the expected outcome. 
+The work is equally distributed between the two teammates, and we were able to complete our mood-based movie recommender system as intended. We chose not to build a seperate mobile application, but instead spend the time working on additional features like cosine similarity and logistic regression. In the end, we have obtained the expected outcome. 
 
 ### Environment Set-up
 Please check out `requirements.txt` for information.<br/>
