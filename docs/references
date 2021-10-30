@@ -1,0 +1,4 @@
+PRAW(reddit scraper api) object properties:
+https://praw.readthedocs.io/en/latest/code_overview/models/submission.html
+https://praw.readthedocs.io/en/latest/code_overview/models/comment.html
+https://praw.readthedocs.io/en/latest/code_overview/other/commentforest.html#praw.models.comment_forest.CommentForest
