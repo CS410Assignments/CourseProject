@@ -44,6 +44,11 @@ def main():
                 'num_comments': 0,
                 'comments': list()
             }
+            test_comment = {
+                'self_text': "",
+                'score': 0
+            }
+            test_submission['comments'].append(test_comment)
             documents[stock['Symbol']][start.strftime("%d%b%Y")]['reddit_data']['submissions'].append(test_submission)
             # print(start)
             # print(start_epoch)
