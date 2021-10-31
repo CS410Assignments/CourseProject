@@ -1,0 +1,38 @@
+name: main
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9]
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - uses: Gr1N/setup-poetry@v4
+
+    - name: Check dependencies
+      run: cd code && make doctor
+
+    - uses: actions/cache@v2
+      with:
+        path: code/.venv
+        key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+
+    - name: Install dependencies
+      run: cd code && make install
+
+    - name: Check code
+      run: cd code && make check
+
+    - name: Test code
+      run: cd code && make test
