@@ -24,9 +24,9 @@ def main():
     for _, stock in stocks.iterrows():
         print(stock['Symbol'] + " " + stock['Name'])
         start = dt.datetime(2020, 1, 2, 0, 0, 0)
-        print(start.strftime("%Y-%m-%d"))
-        one_day = dt.timedelta(days=360)
+        one_day = dt.timedelta(days=1)
         while start.year < 2021:
+            print(start.strftime("%Y-%m-%d"))
             end = start + one_day
             if start.strftime("%Y-%m-%d") not in documents_data[stock['Symbol']]:
                 start = end
@@ -37,20 +37,23 @@ def main():
             documents_data[stock['Symbol']][start.strftime("%Y-%m-%d")]['reddit_data']['submissions'] = list()
 
             submissions = list(
-                ps_reddit.search_submissions(subreddit=SUBREDDIT, q=stock['Symbol'], after=start_epoch, before=end_epoch, limit=10))
+                ps_reddit.search_submissions(subreddit=SUBREDDIT, q=stock['Symbol'], after=start_epoch, before=end_epoch,
+                                             score=">1", size=10))
             for submission in submissions:
                 submission_item = {
-                    'author': submission.author.name if submission.author else "",
-                    'selftext': submission.selftext if submission.selftext else "",
+                    'author': submission.author.name.encode("ascii", "ignore").decode() if submission.author else "",
+                    'selftext': submission.selftext.encode("ascii", "ignore").decode() if submission.selftext else "",
                     'score': submission.score if submission.score else 0,
                     'upvote_ratio': submission.upvote_ratio if submission.upvote_ratio else 0.0,
                     'num_comments': submission.num_comments if submission.num_comments else 0,
                     'comments': list()
                 }
                 for comment in submission.comments.list():
+                    if type(comment) != praw.models.reddit.comment.Comment:
+                        continue
                     comment_item = {
-                        'author': comment.author.name if comment.author else "",
-                        'body': comment.body if comment.body else "",
+                        'author': comment.author.name.encode("ascii", "ignore").decode() if comment.author else "",
+                        'body': comment.body.encode("ascii", "ignore").decode() if comment.body else "",
                         'score': comment.score if comment.score else 0
                     }
                     submission_item['comments'].append(comment_item)
@@ -58,10 +61,9 @@ def main():
 
             start = end
             # sleep to avoid abusing the API
-            sleep(3)
-
-    with open('data/team_yoda_data.json', 'w+') as documents_file:
-        json.dump(documents_data, documents_file)
+            sleep(2)
+        with open('data/team_yoda_data.json', 'w+') as documents_file:
+            json.dump(documents_data, documents_file)
 
 
 if __name__ == '__main__':
