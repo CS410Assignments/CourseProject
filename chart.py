@@ -1,12 +1,29 @@
 import matplotlib.pyplot as plt
 import json
 import pandas as pd
+from statistics import mean
+
+
+def max_value(comments) -> int:
+    return max([comment['score'] for comment in comments])
+
+
+def avg_value(comments) -> float:
+    return mean([comment['score'] for comment in comments])
+
+
+def sum_value(comments) -> float:
+    return sum([comment['score'] for comment in comments])
+
+
+def min_value(comments) -> float:
+    return min([comment['score'] for comment in comments])
 
 
 def main(multi_ticker_dataset=True, ticker="AMZN"):
 
     if multi_ticker_dataset:
-        input_file = 'data/team_yoda_data.json'
+        input_file = 'data/cleaned_team_yoda_data_stocks_with_comments.json'
     else:
         input_file = 'data/' + ticker + '_team_yoda_data.json'
 
@@ -18,10 +35,11 @@ def main(multi_ticker_dataset=True, ticker="AMZN"):
     no_reddit_count = 0
 
     for key in web_data[ticker].keys():
-        if web_data[ticker][key]['reddit_data']['submissions'] \
-                and web_data[ticker][key]['reddit_data']['submissions'] != "TODO":
+        num_of_comments = len(web_data[ticker][key]['reddit_data']['comments'])
+        if num_of_comments > 0:
             stock_price.append([key, round(float(web_data[ticker][key]['stock_data']['Close']), 2)])
-            reddit_score.append([key, round(float(web_data[ticker][key]['reddit_data']['submissions'][0]['score']), 2)])
+            # use avg score of comments for the key(i.e. day)
+            reddit_score.append([key, round(float(avg_value(web_data[ticker][key]['reddit_data']['comments'])), 2)])
         else:
             no_reddit_count += 1
 
@@ -29,7 +47,7 @@ def main(multi_ticker_dataset=True, ticker="AMZN"):
     stock_data_count = len(web_data[ticker].keys())
     reddit_data_count = stock_data_count - no_reddit_count
     print("Total stock data count:", stock_data_count)
-    print("Total reddit count:", reddit_data_count)
+    print("Total reddit data count:", reddit_data_count)
     if reddit_data_count == 0 or stock_data_count == 0:
         print('No data for plotting. Exit!')
         exit(0)
@@ -49,6 +67,6 @@ def main(multi_ticker_dataset=True, ticker="AMZN"):
 if __name__ == "__main__":
     # Call the main(multi_ticker_dataset=Boolean, ticker=String) function to read data and show the plot
     # multi_ticker_dataset: True; use the all-tickers dataset file. False; use single-ticker dataset
-    # ticker: which ticker to be plotted
-    # Otherwise, default values as, multi_ticker_dataset=True, ticker="AMZN"
-    main(True, ticker="TSLA")
+    # ticker: ticker to be plotted
+    # If not provided, default values for def main(multi_ticker_dataset=True, ticker="AMZN")
+    main(True, ticker="AMC")
