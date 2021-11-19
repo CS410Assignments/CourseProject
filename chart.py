@@ -5,7 +5,8 @@ from statistics import mean
 
 
 def max_value(comments) -> int:
-    return max([comment['score'] for comment in comments])
+    max_val = max([comment['score'] for comment in comments])
+    return max_val
 
 
 def avg_value(comments) -> float:
@@ -20,12 +21,12 @@ def min_value(comments) -> float:
     return min([comment['score'] for comment in comments])
 
 
-def main(multi_ticker_dataset=True, ticker="AMZN"):
+def main(multi_ticker_dataset=False, ticker="AMZN"):
 
     if multi_ticker_dataset:
-        input_file = 'data/cleaned_team_yoda_data_stocks_with_comments.json'
+        input_file = 'data/' + ticker + '_team_yoda_data_stocks_with_comments.json'
     else:
-        input_file = 'data/' + ticker + '_team_yoda_data.json'
+        input_file = 'data/team_yoda_data_stocks_with_comments.json'
 
     with open(input_file) as f:
         web_data = json.load(f)
@@ -36,10 +37,14 @@ def main(multi_ticker_dataset=True, ticker="AMZN"):
 
     for key in web_data[ticker].keys():
         num_of_comments = len(web_data[ticker][key]['reddit_data']['comments'])
+        # Only plot chart on the day that has reddit comment
         if num_of_comments > 0:
             stock_price.append([key, round(float(web_data[ticker][key]['stock_data']['Close']), 2)])
-            # use avg score of comments for the key(i.e. day)
-            reddit_score.append([key, round(float(avg_value(web_data[ticker][key]['reddit_data']['comments'])), 2)])
+            # A few options to use comment score
+            # 1) avg_value(), min_value(), max_value(), sum_value() can be used
+            # reddit_score.append([key, round(float(avg_value(web_data[ticker][key]['reddit_data']['comments'])), 2)])
+            # 2) some tickers show better correlation when use score of the first retrieved comment
+            reddit_score.append([key, round(float(web_data[ticker][key]['reddit_data']['comments'][0]['score']), 2)])
         else:
             no_reddit_count += 1
 
@@ -69,4 +74,4 @@ if __name__ == "__main__":
     # multi_ticker_dataset: True; use the all-tickers dataset file. False; use single-ticker dataset
     # ticker: ticker to be plotted
     # If not provided, default values for def main(multi_ticker_dataset=True, ticker="AMZN")
-    main(True, ticker="AMC")
+    main(False, ticker="TSLA")
