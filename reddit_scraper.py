@@ -35,9 +35,9 @@ def main():
                 continue
             start_epoch = int(start.timestamp())
             end_epoch = int(end.timestamp())
-
+            
             documents_data[stock['Symbol']][start.strftime("%Y-%m-%d")]['reddit_data']['comments'] = list()
-
+            
             comments = list(
                 ps_reddit.search_comments(subreddit=SUBREDDIT, q=query, after=start_epoch, before=end_epoch,
                                           sort_type="score", sort="desc", size=25))
