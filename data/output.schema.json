@@ -1,0 +1,95 @@
+{
+  "$id": "https://github.com/Jonathan-Birkey/CourseProject/blob/main/data/team_yoda_data.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "team_yoda_data",
+  "type": "object",
+  "properties": {
+    "symbol": {
+      "type": "string"
+      "properties": {
+        "date": {
+          "type": "string"
+          "properties": {
+            "stock_data": {
+              "$ref": "#/$defs/stock_data"
+            },
+            "reddit_data": {
+              "$ref": "#/$defs/reddit_data"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "stock_data": {
+      "type": "object",
+      "required": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Change",
+        "Change Rate"
+      ],
+      "properties": {
+        "Open": {
+          "type": "number"
+        },
+        "High": {
+          "type": "number"
+        },
+        "Low": {
+          "type": "number"
+        },
+        "Close": {
+          "type": "number"
+        },
+        "Adj Close": {
+          "type": "number"
+        },
+        "Volume": {
+          "type": "integer"
+        },
+        "Change": {
+          "type": "number"
+        },
+        "Change Rate": {
+          "type": "number"
+        }
+      }
+    },
+    "reddit_data": {
+      "type": "object",
+      "required": [
+        "comments"
+      ],
+      "properties": {
+        "comments": {
+          "$ref": "#/$defs/comments"
+        }
+      }
+    },
+    "comments": {
+      "type": "array",
+      "required": [
+        "author",
+        "body",
+        "score"
+      ],
+      "items": {
+        "author": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string"
+        },
+        "score": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
