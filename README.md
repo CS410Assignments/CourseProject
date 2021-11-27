@@ -1,5 +1,9 @@
 # CourseProject
 
+## Dataset Link
+https://drive.google.com/file/d/1wc70jYnUfgGiHCInkFQqTbkFTqTNygsz/view?usp=sharing
+
+## Tutorial
 Please fork this repository and paste the GitHub link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
 
 1. Clone repo
