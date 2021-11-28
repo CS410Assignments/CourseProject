@@ -55,6 +55,7 @@ class MyTestCase(unittest.TestCase):
         result = scrape.get_csv_data(self.test_csv_file)
         self.assertEqual(result[0], "GME")
         self.assertEqual(result[2], "WMT")
+        self.assertEqual(result[3], "BRK-B")
 
     def test_build_json_template(self):
         symbols = ["GME", "TGT", "WMT"]

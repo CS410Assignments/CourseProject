@@ -101,7 +101,10 @@ def get_csv_data(file):
         reader = csv.reader(csvfile, delimiter=',')
         next(reader, None)  # skip csv file headers
         for i in reader:
-            csv_data.append(i[0])
+            symbol = str(i[0])
+            if symbol.find(".") != -1:
+                symbol = symbol.replace(".", "-")
+            csv_data.append(symbol)
     return csv_data
 
 
