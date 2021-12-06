@@ -6,8 +6,8 @@ from gensim.parsing.preprocessing import remove_stopwords
 
 #from query rank subreddits
 #
-#Edit 'n=' in line 34 to change number of results
-#Edit q in line 39 to change query
+#Edit 'n=' to change number of results
+#Edit q to change query
 #Output is printed
 
 def ranker(query) :
