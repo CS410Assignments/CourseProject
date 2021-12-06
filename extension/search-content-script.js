@@ -12,7 +12,7 @@ function getText(){
  * Robust search web document given text
  **/
 function search(query){
-	const Dom = document.querySelectorAll('h1, h2, h3, h4, h5, a, p, li, td, th, span')
+	const Dom = document.querySelectorAll('h1, h2, h3, h4, h5, a, p, li, td, th')
 	for(let text of Dom){
 		console.log(text.innerHTML.includes(query))
 		if (text.innerHTML.includes(query)){
