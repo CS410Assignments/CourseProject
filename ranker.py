@@ -32,12 +32,12 @@ def ranker(query) :
     bm25 = BM25Okapi(tokenized_corpus)
     tokenized_query = thisquery.split(" ")
     #return ranked list with n number of documents with both subreddit and submissions
-    return bm25.get_top_n(tokenized_query, rows, n=1)
+    return bm25.get_top_n(tokenized_query, rows, n=2)
 
 def converter(q):
         #open csv file for wrting
         with open('test.csv','w') as f:
-            #acess each element in the returned list from bm24
+            #acess each element in the returned list from bm25
             for i in range(0,len(q)):
                 #write each subbreddit and submission to file
                 f.write('%s %s\n' %((q)[i][0],(q)[i][1]))
@@ -46,7 +46,7 @@ def converter(q):
     
 if __name__ =='__main__':
     #run ranker
-    q = "turkey"
-    print(ranker(q))
+    q = "what these tiles"
+    #print(ranker(q))
     #convert bm25 list object to csv
     converter(ranker(q))
