@@ -1,0 +1,537 @@
+so uh let's get into the stuff they
+talked about yeah let's do it so
+first up a couple of maps enhancements
+more bike lane stuff obviously the sort
+of general improvements to google maps
+you expect but one of them was
+eco-friendly routes so now
+you can choose the fastest route or the
+route with no tolls
+or whatever other fast best route you
+want this new one is
+eco-friendly route which is cool i don't
+know if i'm ever going to select that
+intentionally that was my my first
+thought of the eco-friendly route is
+like
+i'm always glad anyone's doing anything
+that makes things more eco-friendly but
+i can i'm trying to think of like the
+number you would see on your google maps
+where you get this will take 40 minutes
+and then the eco route takes 45 minutes
+i think even five minutes people are
+gonna pick the just faster route yes
+like typically
+it always sounds good to do eco like you
+feel good about yourself but most of the
+times when you're driving you just wanna
+get there as fast as possible and i
+don't know what what number people are
+gonna
+not choose eco on you know it's funny i
+use waze now almost all the time for any
+navigation
+and waze even though google owns waze
+waze is a little bit more
+hyper like aggressive about saving you
+like
+30 seconds to a minute and a half so
+like if there's even
+a a sniff of traffic on your usual route
+it'll go a bunch of back routes to get
+you like
+you know around that one block of
+traffic and it's like fine sometimes but
+i've noticed it gets a little bit crazy
+i don't know if you use waze but um no
+but i
+first of all waze the ui itself i just
+like
+google maps feels way more clean waze is
+uh very ugly
+yeah but claire and i actually have this
+like little conspiracy that do you know
+when you're on google maps and if you're
+driving
+it'll say like similar eta or
+uh it usually is either similar eta or
+it'll be like five minutes faster five
+minutes
+we're convinced that the first any five
+minute difference they
+don't add because then you might be like
+wondering if you should click on the new
+route or not if it's just a one minute
+difference oh yeah and if like
+that is turning into a safety issue of
+like somebody trying to decide whether
+they should take this turn to save
+one minute i believe so negligible yeah
+now yeah so google will do that
+waze will just take this will be like
+you better get off now or you're gonna
+lose 30 seconds it'll actually
+i'll be coming up to an exit and i'd be
+like nah you know what take this exit
+and i'll be able to
+bet that's just going to start your
+jersey slide right now it'll do it
+and you know what i'm fine with that
+that's ways for you um okay one of the
+interesting things i asked sundar about
+was project lambda
+so this is weird they went on stage and
+they demonstrated a little bit more
+every year they get a little better with
+understanding context and conversation
+with ai and assistant gets better as a
+result yeah
+but they literally used information
+from the internet to create a
+character that you can then speak to and
+have a conversation with
+so it's kind of like deep fake with
+with audio and information so basically
+you go
+and they used pluto and a paper airplane
+so you could walk up walk up
+you could just go hey project lambda let
+me talk to pluto
+and pluto goes hi i'm pluto what do you
+want to know and you go
+you know pluto what's it like being so
+far from the sun and pluto goes oh i'm
+just an ice ball and it just it knows
+everything about pluto
+tell me what i would see if i visited
+you would get to see a massive canyon
+some frozen icebergs geysers and some
+craters
+and it was really interesting to see
+that and the first place my brain went
+was like all right
+this reminds me of deep fakes what how
+far
+are they going to push this what are you
+going to be doing with
+project lambda in the future am i going
+to be able to talk to elvis
+because they know everything about elvis
+can i ask about
+elvis's controversial past and it'll
+give me an answer from something that
+google knows about it's a regular
+conversation everyone has with their
+friends
+i don't know and maybe there's living
+people you want to like have
+conversations with even though you can't
+but then also it's going to give answers
+that that living person might not give
+so i don't know i felt like it was a it
+was a really as sundar put it they gave
+the most
+benign examples which is like what's it
+like to be a paper airplane i'm sure
+like a nine-year-old would want to have
+that conversation
+but project lambda to me immediately
+goes to like
+all right you can simulate a
+conversation with anything
+what's it like being i don't know
+another crazy
+person he was very very he was very
+adamant about saying how it's still just
+research and it's not like necessarily a
+final product but like you said i wonder
+what is going to be that final product
+and and maybe we look back to something
+like uh
+was the name of the like assistant that
+could make you a dinner reservation
+or a google assistant it was just this
+side of the assistant it would let you
+like it would call a restaurant for you
+and reserve a table
+if it couldn't do it through open table
+or or whatever other reservation didn't
+that project have like a name
+probably did and it didn't uh duplex
+there you go
+do okay duplex and they they've made
+adjustments to duplex sensors yeah
+but uh yeah sundar said it's just to
+make
+conversation better with assistant and
+also for better context so understanding
+things
+inside of the rest of the web for
+example if i ask about
+and youtube kind of does this but if you
+search a tutorial on youtube like
+how to change the filter in your sync or
+something or your refrigerator
+youtube google will pull up a youtube
+video for you and then it will pull up
+uh little brackets for a section inside
+the video
+that's most relevant to your search i've
+missed this completely
+it's really useful sometimes like i'll
+because you know how this tutorial will
+open with hi
+my name is please subscribe blah blah
+blah blah blah blah blah blah blah and
+by the time you get to two and a half
+minutes you're like i didn't need to
+watch any of this i just needed the
+thing
+so it'll tell you watch from a minute
+and a half to two minutes for the thing
+you searched for
+which is pretty useful already wait wait
+when did they start doing this
+this was years ago for me like every
+time i search i look up a lot of
+tutorials and how to's and things like
+that and it auto plays in that bracket
+or just
+yep you hit the play button and it
+starts right from the beginning of the
+bracket so if you search
+for just the right thing which is sort
+of a how-to it will
+okay do you think that's ever affected
+any of your videos on like
+searching for iphone 12 camera and like
+it would bring up your iphone video and
+so just bracket the camera section i
+don't think my videos are specific
+enough to that but i wouldn't be
+surprised if something like
+lambda would watch the video and be able
+to deliver that sort of information
+because i give
+chapters in my videos now which i'm sure
+they can already look at but i think
+this is something they could do better
+because i'm learning more from this than
+yeah so
+yeah that's that was cool to see i think
+it'll get better uh so we'll just wonder
+what they're gonna let us use and have
+conversations with
+and hopefully it doesn't get too creepy
+yeah i mean there's a lot of creep
+potential on it
+i've i have accepted that
+my deep fake ability is
+extremely high and there's nothing i can
+do about it yeah you've already had
+videos of you singing
+songs and stuff like that and yeah while
+we thoroughly enjoy them in the office
+they are kind of just just if you just
+think about like
+what types of people will be the the
+easiest to deep fake
+uh people who have a lot of high
+resolution videos them
+on of them online like the president
+because he's photographed and videoed
+from every angle
+or people who voluntarily upload 8k
+videos of themselves
+from here to here on the internet didn't
+dave do a video where he
+did you and lou yeah yeah he deep faked
+himself as
+you and lou from unbox oh man
+i barely remember that i'll have to find
+it
+but just as deep fake technology gets
+better and better
+they're just going to have more and more
+information to pull from like you have a
+decade of videos of the front of my face
+and high resolution audio of me talking
+yup saying like
+thousands and thousands of words and
+this podcast is just even more of that
+so yeah that's uh i've just accepted
+that i think
+all right one more thing from a couple
+more things from i o google and samsung
+merging wear os and tizen on a new
+smartwatch software experience it's cool
+it looked really good yeah but there's
+no hardware yet no i
+really want to see the hardware i think
+like the the main
+one of the main questions i get asked by
+people who know i work here is like
+is there going to be a new google watch
+like when are we getting a google watch
+and you know this isn't necessarily a
+google watch but we're seeing
+samsung who a lot of people really
+really enjoy their watches and them
+coming together which hopefully means
+something's coming in the future and
+it has potential as well they're saying
+it's gonna have improved battery life
+faster loading times for apps smoother
+animations it also makes developers
+lives way easier because now you just
+have one platform to develop on
+between two of them that's important um
+and then there's also
+the other thing they mentioned was
+standalone google maps without the need
+of
+a cell phone which is awesome and then
+spotify's
+got offline downloads for music so this
+like sounds like
+really really good things if you have
+use your watch for fitness and you're
+going for runs and you don't
+you know have your phone with you to
+stay connected too but
+like you said no hardware i mean
+samsung's been doing great with hardware
+i think there's some talk of maybe a new
+google watch but when is there not talk
+of a new google watch coming out
+yeah but they've been rumbling for a
+while and i feel like this is the year
+for them to do it especially if pixel
+happens the way we think pixel is going
+to happen which is they have their own
+silicon and they're starting to
+vertically integrate more and
+they launch a watch alongside it like
+that would all sort of make sense this
+year
+i guess every year it doesn't happen it
+makes even more sense for them to do it
+that year but
+i'm just saying i think this is a good
+year for that um i also
+every time i review the apple watch like
+to look on the other side of the fence
+and see if there's
+anything anywhere close and i reviewed
+the one plus watch lately and it's not
+close
+so seriously yeah i'm excited for this
+um
+cameras being aware of different skin
+tones this is this was i really was
+interested in this one
+so photography how far back do i go with
+this how deep do i go
+photography in standard cameras is
+pretty straightforward there's not a
+whole lot of computation happening
+smartphone cameras with computational
+photography
+make a lot of adjustments and smart
+decisions based on the data that the
+sensor gathers
+so they'll take a bunch of exposures and
+do different
+you know merging of different areas
+based on the exposure so highlights will
+use part of the exposure and shadows
+will come from a different shot
+and faces and then they start to get
+even more like intense where they'll
+take like
+the frame where you're smiling where the
+background is empty because there's no
+lady walking
+blurred in the background so they're
+starting to merge realities
+into one frame so the photos
+that come out of our smartphones are
+actually representative of
+the development that goes into them and
+something we've always at least i've
+always noticed
+is a lot of smartphones have trouble
+especially on the selfie camera with
+darker skin tones
+especially when there's a lot of bright
+objects around you'll just sort of
+become a shadow um and so
+specifically on google on stage they
+decided and announced that they would be
+uh
+adjusting for darker skin tones and and
+trying to make those more accurate
+specifically because people with darker
+skin didn't feel correctly represented
+in their photos
+and this is weird because it's just
+something i like accepted for a while
+i was like smartphone cameras are just
+going to
+do the best they can for the average
+skin tone which is much lighter and
+that's just the way it is and if my skin
+tone's darker than that
+i'm just going to look like not quite
+right in photos and that's just
+something i've just accepted
+and so google making that conscious
+adjustment and i hope to see it actually
+in action pretty soon
+it was really cool yeah a couple things
+i'm interested in is like
+one how well it does when then there are
+multiple skin tones i can only assume
+they're not doing this to just be like
+recognize one person in the photo has
+darker skin and then adjust everything
+around it i'm assuming they're just
+going to be able to adjust parts of
+photos in order to
+correctly yeah expose everything i'm
+really excited
+especially if this comes out this year
+my favorite video every year is the
+smartphone bracket
+and the blind smartphone camera test
+exactly and one of the first shots we
+always do is a photo of you
+and it's generally in a pretty well lit
+could consider
+bright space and it's always the most
+wildly different because phones from all
+over the place just completely
+have their own a mind of their own in
+terms of how they're going to expose
+things i mean
+it gets to the point where i think
+iphone last year two years ago just like
+blew everything just that's where you
+see computational photography at work
+it's like
+the iphone has decided that it wants to
+turn
+a certain thing white or it needs to
+turn a certain thing neutral
+and once it's decided that the whole
+rest of the frame
+just sort of falls in step with that
+decision yeah
+and yeah i feel like a lot of the ones
+that were taking the best photos
+we're just the ones not getting thrown
+off by too many different
+you know stimuli in the photo so yeah
+one of the earliest photos we always
+take is was one of the most telling
+so yeah maybe this uh we'll see how it
+just rolls out in the google photos
+update sometime soon this is
+the other thing about io is almost every
+single thing they announced on stage was
+like
+coming later this year coming early next
+year
+coming in the upcoming months like we
+didn't really get
+dates for any of these things which is a
+little
+worrying some of them you just feel like
+it's uh you'll never see this again for
+the rest of your life like the um
+we keep referencing we keep referencing
+the chain link fence which was a
+software
+google photos feature 2017 i think it
+was announced on stage and it had a big
+wow moment on stage and then it just
+straight up
+never happened never i have photos of
+chain link fences on my phone
+saving them for when it comes out
+someday they'll get rid of the fence but
+it was announced and never happened so i
+guess that's the nature of software but
+that's uh that's interesting to me to
+see how that goes
+um another one do you want to talk about
+this one i just photos
+before before we get to android 12 i
+just like threw this in there's they had
+that like small section of like animated
+google photos where it would take
+your photos and pretty much animate them
+and i
+just want to say it was really weird and
+creepy and
+just to paint a picture it's another
+just like
+blurring of reality is it is it taking
+like a live photo and kind of doing or
+is it
+doing the thing where it like you know
+you can take a singular photo and kind
+of like
+distort the perspective a little bit and
+it looks like somebody's moving is that
+yeah so this is basically taking
+advantage of the fact that most people
+actually take a bunch of photos of a
+single scene
+and that's kind of the way it goes like
+a bunch of people get in front of a wall
+and you just fire fire fire firefighter
+you take like eight nine ten photos
+and you only really need one of them but
+google's noticed
+people don't really use the rest and if
+they look at all of those photos there
+might be like a pattern of something
+someone flips their hair someone you
+know
+walks into the photo something cool
+happens and then they'll just make
+an animation out of that and they've
+kind of been doing that in google photos
+i think i have a
+video or a slideshow of mac doing
+something because i take like
+12 photos of mac trying to get him to
+look at the camera and then he looks at
+the camera
+and then you have this like 20 photo
+long
+sequence if i'm not looking at the
+camera now i'm just gonna have an
+automatic google animation of mac just
+looking at the camera like that
+which is a little creepy it's gonna be
+really funny when those ones like
+bug out and it's like five pictures but
+the fifth one or
+like one in the middle is mac like
+whipping his head to the wrong side and
+just like
+the animation is back turning his head
+and then it just like says like
+it's completely the wrong direction man
+yeah
+that'll be if that ever happens it's
+just gonna have a lot of meme potential
+i feel like true and some people are
+gonna think it's really cool for
+and then show their friends once and
+never use it again
+i think i would chalk that in that that
+category

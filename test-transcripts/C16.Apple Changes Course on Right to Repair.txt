@@ -1,0 +1,1569 @@
+all right what is up fellow tech timber
+sailors hope your seas are smooth
+september
+there we go what's up uh tech member
+crusaders how's it going
+welcome to the wayform podcast uh we're
+your hosts i'm marquez and i'm andrew
+and today's episode we have like a whole
+lot of eevee news we've got some
+announcements some disasters some just
+pure head scratchers uh we kind of guy
+have it all and then apple officially
+announcing some right to repair steps
+they're taking which kind of blew all of
+our heads off really interesting yeah
+but but but first
+marquez is big mad
+why are you mad marquez i am uh i don't
+know if i'd say i'm mad as much as i'm
+just a little bit uh
+confused i don't know i just so okay we
+got the news this week that
+staples center
+the iconic
+you know middle of la arena host the
+lakers and the clippers and i'm sure
+like four or five other teams
+will be rebranded
+i believe starting next year
+as
+crypto.com arena so this crypto.com
+company
+inked a deal they'll be the the name of
+the arena for the next 20 years and i
+was like i was looking it up i was like
+wow that's a that's a long time
+obviously staples center is probably one
+of the most iconic in the states
+and uh
+i was so curious how much that cost and
+it's 700 million dollars the only reason
+i'm confused is like
+i don't know crypto.com doesn't seem
+like a great name for an arena it's the
+crypto.com arena yeah like in terms of
+just catchiness and rolling off the
+tongue staple center is way easier way
+more iconic i mean yeah you mentioned
+it's it's built to the iconic-ness of it
+yeah i was thinking about this i was
+like
+here's my slightly lukewarm take all
+arena names are pretty bad
+but we've gotten used to them over time
+because we say them so often like i've
+seen i've pulled up right now just a
+list of a bunch of them in the us just
+for nba teams
+the milwaukee bucks play at pfizer forum
+forum uh we've got smoothie king arena
+that's in the nba we've got
+the cavs play at rocket mortgage field
+house like nobody really wants to say
+the company names out loud but staples
+is a company and they've paid for their
+name to be on the side of the arena and
+tons of memories have been made with
+iconic lakers teams especially in
+staples center and i still think people
+are going to call it staples center
+that's the funny
+but
+there is going to be like you know
+there's a i think someone's already
+tweeted like a render of like that
+helicopter shot at the beginning of an
+mba broadcast where like
+it it's going to be on the on the front
+on the top on the sides like i i was
+saying i went to crypto.com today for
+the first time ever i didn't know about
+them so it's working and i'm kind of
+surprised this is the first
+crypto company because oh i bet a lot of
+them have 700 million dollars this is
+the first time we've seen a crypto
+company put their name on an arena like
+this yeah i was kind of talking to david
+about how crypto.com we didn't know it
+was a website and i think it's one of
+those sites that suffers from having too
+good of a domain name it's like too
+general it's too broad that crypto.com
+just feels like
+too easy like it doesn't it's not catchy
+it's good i guess it's only it's it
+feels generic but it's kind of what they
+are it's like they're a crypto wallet
+and a crypto trading service like
+coinbase is kind of similar
+but it's a coinbase is like a unique
+name it's a little more specific yeah
+crypto is just now this all-encompassing
+internet currency that they just like
+crypto.com just feels and you have to
+put dot com because if it was just
+crypto arena that sounds better but
+that's not going to send anybody to your
+website right which is the biggest issue
+in terms of
+like advertising it which is what
+they're paying for i think they won the
+seo battle i just yeah it's a weird name
+also one of my favorite hot takes was
+like a lot of urls aren't around for a
+very long time like they expire
+companies are born and die quickly do we
+think crypto.com will still work in 20
+years i can only and i imagine i don't
+you know crypto's pretty young we'll see
+but this is uh that's i'm not mad i'm
+just like yeah a little thrown off by
+that i think crypto will be around there
+whether crypto.com is one of the places
+doing it in 20 years although i'm sure
+all these places try and lock up
+something so long to get somewhat of a
+discount and then oh yeah uber i'm sure
+plenty of people break contracts at a
+certain point if it goes to funky i
+wonder if they pay in advance to 700
+million or if they pay it like every
+year they exist or if they'll be in debt
+who knows i don't know how these deals
+work i don't know how it works i i think
+the biggest thing here that you
+mentioned was that it is still the same
+building which people just have known as
+the staples center for so long like i've
+seen nhl arenas switch but it's usually
+when a building goes down and becomes
+a whole new
+arena much easier because you're not
+referencing specifically that staples
+center will be called staples center for
+the rest of its life until it's a new
+arena yeah until everyone who who knew
+about staples center is dead
+uh
+apple right to repair we got to talk
+about this this one caught us by
+surprise this morning it definitely did
+i i am fascinated by this and i've been
+as we record this which is on a
+wednesday which you know you listen to
+the podcast on friday i've been sort of
+organizing my thoughts into a potential
+video so that may be up by the time you
+see this um but yeah we can sort of
+summarize the announcement and then our
+thoughts about it sure we get this apple
+newsroom press release titled apple
+announces self-service repair program
+which is well okay apple's notoriously
+been against right to repair so what is
+this program so apple will allow
+customers like you and me customers who
+are comfortable with completing their
+own repairs access to apple genuine
+parts and tools available first to
+iphone 12 and iphone 13 lineups and soon
+to be followed by mac computers
+featuring m1 ships
+and self-service repair will be
+available early next year in the us and
+then expand to additional countries
+throughout 2022
+the initial phase of the program will
+mostly be focused on
+commonly serviced modules such as
+iphone's display battery and camera the
+ability for additional repairs will be
+available later next year
+so it goes on to explain all these
+different details but there's a lot in
+those first two paragraphs there that is
+for sure quickly being digested but i
+want to go through each of them because
+i think there's a lot yeah first of all
+we did a video already on write to
+repair if you haven't seen it i
+recommend watching it i'm pretty biased
+but i think it's pretty good we have
+some interviews we talked to louis
+rossman we have a whole breakdown on a
+bunch of different companies including
+apple but apple's one of the biggest
+companies in the world one of the most
+uh influential consumer-facing so when
+apple changes a stance and makes a pro
+right to repair move like this not only
+is it big for apple but it's big for the
+ripples it sends through the industry
+so the first detail is
+they're starting with iphone 12 and
+iphone 13 lineups soon to be followed by
+m1 max yeah so you know a lot of people
+who are probably hoping to get repairs
+done are probably on older iphones and
+older macs fine i imagine those were not
+built with
+uh
+commonly accessed repairs by normal
+people in mind yeah not in mind not that
+they couldn't be done but clearly not
+when apple was thinking of doing this
+because this has clearly been something
+they've thought of doing for a little
+bit which is probably showing in the
+internals yeah to me this says we've
+been thinking about this since at least
+iphone 12 and m1 max so that's good
+um and actually if you look at
+some of the tear downs of like this 60
+inch macbook pro or the 14 inch
+they look a little more friendly at
+least for battery repairs there's like
+tabs under the batteries now and there's
+a couple less screws involved to get in
+yeah which is nice i mean we opened our
+first in that right to repair video we
+opened an iphone 12 i believe it was
+right which is the first iphone i've
+ever opened and and opening that on the
+inside felt like a render it was just so
+neat and everything and i mean i've only
+opened up a couple phones
+none of them i've successfully repaired
+so i'm not claiming to be an expert here
+but like
+that internal looked like
+almost inviting almost like it would be
+fun to play with yeah and i mean you got
+to know what you're getting yourself
+into for sure so basically what's
+happening is individuals like you and me
+paying customers are being added to the
+group of people including uh repair
+shops that have access to these
+documents and parts
+so if your screen breaks for example on
+your phone you have the choice
+to go to an apple store and have them
+repair it however much that costs or to
+go to an independent repair shop and
+have them repair it however much that
+costs
+or your new option is go look online at
+the guides yourself and decide you want
+to do it yourself order those parts and
+the guides straight from apple repair it
+yourself send the parts back to apple
+maybe even get a little bit of credit i
+believe back on your account for the
+stuff you send back for them to recycle
+that's what they said and then you did
+it yourself on your own time on your own
+dime which is a very new option it is
+and it does say in there that they
+provide some sort of a like service a
+repair kit manual that i think they want
+you to read first and and decide if
+you're comfortable doing this before you
+enter in for the
+the parts like get the parts mailed to
+you and to actually do it yourself
+and like you said there it does say that
+they're offering some sort of credit for
+returning the parts now i'm assuming
+that means tools that they send i'm
+assuming it means any parts that you
+replace so that they can properly
+recycle them yeah and that's great
+because apple has been this company that
+has talked a lot about the environment
+lately but it always felt
+super hypocritical when
+you're so stingent on right to repair
+and reusing phones and refurbishing
+phones and basically using phones as
+long as possible and buying new products
+because that's kind of the worst thing
+that can happen like cool your boxes are
+half the size and you don't include a
+charging brick anymore but
+really the phones being able to use as
+long as possible and recycling them is
+what's the biggest impact we can see
+yeah so overall i think a good change on
+the surface but there's still more
+details right so
+um
+the other thing i want to look at the
+initial phase of the program will focus
+on the most commonly serviced modules
+such as the iphone's display battery and
+camera yeah now on one hand that's most
+iphone repairs yeah i'm pretty sure like
+screen and battery are probably top one
+and two right i bet that's like almost
+eighty percent of repairs yeah so that
+makes sense yeah in theory sure
+but this also like if you talk to louis
+rossman which we did in our video or if
+you ask independent repair shops like
+what their biggest problem with the
+program is a lot of them will say like
+they're so strict about what you
+actually have certified access to repair
+versus all the other stuff
+so you know ports
+buttons storage storage face id
+notoriously if you repaired or if you
+replaced a display with a non-apple
+a genuine part yeah and it was like old
+touch id too yeah they would disable
+face id or touch id they recently
+rectified that which is nice but like
+now if you want to replace like your
+port gets loose or water damaged or
+something you just want to replace that
+that's not one of the things covered by
+apple they don't have manuals or parts
+or anything for that you're still got to
+go back to the apple store in apple's
+world so that hasn't really changed
+so again i think it's great that if my
+display cracks or if my battery is
+getting old i can do that myself but
+that's a that's a pretty important note
+which is like this isn't changing for
+independent repair shops it's still true
+yeah and like i think there's clearly an
+optimistic side of reading this and a
+pessimistic side of reading this and i
+think taking a little from both is
+really good like if we're talking pure
+optimism like this is a step in the
+right direction the fact that apple's
+even even
+using the term like repairability and
+stuff like that it's just huge and
+something like i said none of us
+expected we came in this morning we were
+going to record the bottles of april
+fool's yeah this article pops up and
+we're like okay this is now the number
+one thing we're talking about today yeah
+so it's interesting the pessimistic side
+is
+this still feels a little bit like this
+is a small first step because how many
+people in the the world of one of the
+most popular phones in the us at least
+how many of those people want to make
+these repairs themselves and that's
+essentially what this is opening up that
+is
+very very little but that's always been
+the argument so the fact that this step
+happened at all is really interesting
+yeah and i think that i think i was just
+gonna say the question i had right away
+was okay why is apple doing this like
+they didn't have to they never looked
+like they were going to so why are they
+suddenly doing this and uh you know
+david made a lot of good points about
+all the impending legislation around
+right to repair the presidential order
+there's some local orders in new york uh
+a lot of stuff in europe happening where
+it like seems like there's a lot of
+momentum behind the movement yeah for
+sure and apple's squarely in the middle
+of that like target like they're the
+notorious ones everyone mentions so
+they're kind of getting out ahead of
+that a little bit by saying look we let
+you we let you repair phones we give you
+the genuine parts
+but we're not going to let you do too
+much i think it's pretty clear this is a
+like you said a step ahead this is not
+listening to the customers this is uh
+yeah it's not apparent
+this is purely apple focus it's not tim
+cook going oh you'd like to repair it
+yes okay
+this is the first time i'm hearing that
+yeah we should do that what great
+feedback you have um yeah no so i think
+it's a lot of that but it's also and i
+think i'll make this point near the end
+of the video is like it's a great
+headline it's great pr yeah for apple to
+have a right to repair positive headline
+which goes back into the whole like
+getting ahead of legislation thing
+but also i still think it makes ripples
+in a sort of a positive way i still
+think there are the john deeres of the
+world there's all kinds of other
+companies that don't have anything near
+this friendly for like let's say you're
+a farmer and you want to repair your
+tractor like even if it's only the top
+three most replaced parts that's better
+than nothing yeah so we're still going
+to want to see those ripples through the
+industry for other companies to actually
+take a bit more of a positive stance on
+right to repair even just in our own
+tech industry like we're seeing all the
+more and more gadgets getting smaller
+and smarter smaller and harder and
+harder to repair and harder and harder
+to find things because they're realizing
+that apple's done this so well makes so
+much money off of it
+they like to do what apple does yeah and
+it works so seeing apple go this way
+it's gonna make a lot of other
+tech companies go the same way yeah
+that's awesome the uh the note in the
+newsroom thing i want to hit one last
+time is they've said that this
+program will be expanding to more than
+just cameras batteries and screens
+they haven't provided any details on
+what more things that will be maybe it
+will be ports yeah and camera or face id
+or maybe not i don't know
+and the other thing that we don't know
+because it's not anywhere in the article
+is
+what qualifications will there be to get
+these parts and what will the prices be
+prices are huge i think and and what the
+um rebater
+credits are when you return it as well
+yeah so
+that we'll have to see i mean we'll get
+the details early next year when they
+like start the program i'm hoping it's
+not ridiculous prices there's already
+memes on twitter about like oh you'd
+like to repair yourself that'll be like
+a hundred dollars a pop like
+it should be ideally reasonable yeah um
+but we all know how expensive it is for
+a player like a to go to the apple store
+and get a new screen if you don't have
+album care it's it's very expensive so
+we'll see all that is yet to be seen but
+hey it's a positive right to repair
+apple headline who would have thought
+who would have thought that's not on my
+2021 yeah my bingo card did not have
+that on on the square well i'll i'll
+leave that we'll go to a break on a
+happy note there that's a pretty solid
+spot to take a quick enjoy so we'll take
+a quick quick break we'll come back we
+gotta talk evs this episode of waveform
+is brought to you by our crowd so it's
+safe to say everyone who's looking to
+diversify their portfolio wants to
+invest early in the next big tech
+company from personalized medicine to
+quantum computing to cyber security the
+big innovations are happening every day
+in that world it's just about knowing
+where to look that's why our crowd was
+created so our crowd analyzes tech
+companies across the global private
+market and brings those with the
+greatest growth potential directly to
+you so from state of the art labs to
+startups that are originating in
+basements our crowd researches the high
+and low for the next big thing so their
+accredited investors have already put
+over one billion dollars in growing tech
+companies and many of our crowd's
+members have benefited from their 46
+ipos and sale exits of their investments
+so with our crowd to tell you where to
+look you can diversify your portfolio
+and get in early and exciting profitable
+innovations with confidence and ease so
+join the fastest growing venture capital
+investment community at our crowd dot
+com slash wave that's ourcrowd.comwave
+all right we're back
+we're welcome to welcome to the car
+section of the episode we have a bunch
+of random stuff
+in the ether that all happened to be
+related to cars in some way yeah but i
+think they're all really interesting so
+they're all like kind of fun yeah let's
+go through them you'll understand why
+we're talking about these they're all
+talking to tech stuffs but uh first up
+lucid air
+becomes motor trend's car of the year
+okay cool now
+i think uh
+we've had a there's a large variety of
+cars that have one car of the year for
+motor trend like i'm not this doesn't
+shock me but it is interesting
+that uh that this particular one won i
+think tesla model s won a couple years
+ago it has its early years and i think
+there was one other ev that one um i
+mean listen i don't follow motor trend
+that much from after this happened
+there's a lot of people saying that they
+haven't made some of the best choices in
+the past oh yes motor trend in general
+but like this is just one where
+the lucid air
+in both of our eyes as far as i know has
+just kind of been
+we've been wondering is this a fair day
+or is this an actual real thing that's
+going to come to market so to me we i
+did a video on the lucid air riding in
+it very close to fully functioning
+prototype i think like air conditioning
+didn't work which was like yeah
+we were the first people to do that this
+is yeah i was on the job for like four
+months and we went over and did that and
+i was so amped it was so cool yeah so
+we've seen the rolling lucid air
+happen many years ago right and i this
+has happened before where companies are
+like hey marquez come back check out our
+factory hey marquez come back check out
+like this new update to our interiors
+and i'm like i've seen the car i've
+covered the basic idea
+please start shipping them yeah because
+i want to see if they can actually
+deliver on a couple really key things
+which include 500 plus 520 miles of
+range yeah now okay i saw that they had
+like an initial delivery event but that
+got me really amped because i was like
+oh my god there's really evs out there
+in the wild today with 500 miles of
+range please somebody tell me there's
+like a video on youtube or some test or
+something where i can go watch that
+happen haven't seen them yet i'm gonna
+keep looking but
+uh i would really like to see
+like somebody go do the road trip test
+or like actually get the 500 miles of
+range because that if that's real that
+no one's talking about it enough that's
+a huge deal if
+it only gets 80 of that it is still by
+far the best range out of any ev that's
+out there it's like ash astronomical
+like range yeah compared to everything
+else you know plaid plus got cancelled
+and part of the reason why is it's like
+that car would have had like a 500 plus
+mile range also and i think elon had a
+quote on twitter after it got canceled
+saying you know what 400 miles is enough
+like we just don't need more than we rip
+that apart yeah we're like okay but like
+if you could do 500 you would people
+would buy it over the 400. um so the
+fact that lucid is doing it allegedly i
+want to see it but i think that would be
+super cool so the lucid air is out there
+i don't really honestly care who wins
+motor trend car of the year but i think
+it's interesting that it's so brand new
+and barely shipping and we're giving it
+these awards it's like all right well
+motor trend you do you but i want to see
+more of them like in that i want to see
+them i mean it's something where i i
+followed them on twitter from the day
+that we went to visit them and i
+remember like two years ago them
+tweeting
+and i was like i forgot i followed these
+guys this is just like i think when we
+first went their original
+release date was supposed to be 2019
+we're now end of 2021 and i think
+i just cannot find somebody who has this
+as an owner including in the lucid
+motors subreddit
+where people are really excited about it
+people have reservations for it there's
+a whole thread that says who has theirs
+yet there's probably like 50 comments
+and the closest you can get to it is i
+met somebody with vin number zero zero
+six and they really love it
+and that's the closest i can get to
+really seeing this thing in the wild
+interesting yeah and you know i think a
+lot of the the early delivery stuff from
+all these companies are probably like
+super fans or like employees and things
+like that so we don't know where those
+deliveries went but uh i want to bring
+up two things one uh tesla model s got a
+motor trend car of the year also very
+early in its life cycle i think it was
+like before range was proven to the
+public yet probably very few deliveries
+as well so i have actually no problem
+with it winning the award i just think
+well i want to see more of these in the
+wild um but number two
+the lucid air seems awesome
+it seems really good it's very expensive
+that should just it is say that right
+off the top it's like 140 000. we've
+always kind of known that because like
+it was very
+they very specifically told us like that
+top end model with the bucket seats in
+the back that like that was like a
+luxury
+like
+rideshare car that wasn't really
+somewhere between that and like a
+maybach yeah like you want to be in the
+back seat of the yes
+exactly and for that it is awesome and
+for that 160 000 is probably not that
+crazy if you're looking towards like
+bentleys and stuff like that yeah
+with the
+the specs that this thing has
+it's crazy i think it's a good-looking
+car it kind of looks like a like
+updated lincoln which i don't
+know but again
+yeah yeah um
+there's some really really cool things
+1111 horsepower
+1390 pound foot of torque like imagine a
+maybach 2 thousand horsepower what
+there's just like
+some really really crazy numbers about
+this and my issue with it winning though
+is like
+i get that they're trying to do things
+that are like
+breaking trends or like these big new
+things in the category
+we
+are starting to see rivien
+be delivered right now and to me rivian
+like hits this a little better and it
+wasn't even in the finalists yeah yeah i
+think if lucid actually does
+is delivering and delivers a little more
+like it could have been next year's
+where rivian seems a couple steps ahead
+right and is also this pickup truck
+that's coming out evie
+really really great stuff on it
+i'm somewhere between giving them credit
+for not being faraday and just like
+never delivering anything
+and wanting to see more like maybe i
+mean rivian's also barely starting
+deliveries but just a little bit more i
+want to see them in public hands youtube
+tests yeah like we see like maybe plaid
+model s is like barely out now
+to that level maybe um so i'm sort of
+stuck in between them but at the end of
+the day i would love to drive like a
+finished version i'm excited for lucid
+and i think why i've always been so
+excited for lucid is because
+when i started was right when you got
+back from ces where you test drove the
+faraday and it was like the completely
+gutted interior you know like
+absolutely nothing and then we directly
+went to lucid where i was like wow
+they're so far ahead of faraday here and
+it felt so much more promising and it
+felt like something that was right
+around the corner an hour four years
+later and
+waiting yeah so i hope this doesn't
+sound mean against lucid i'm really
+excited to try it but it just felt weird
+i think there's more
+remax in the wild probably right if
+we're talking about that guy saying vin
+number zero zero six uh-huh
+i can almost imagine there's more rimacs
+out in the wild so technically so the
+rimac concept one had i think let me
+look at it it was a single digit number
+i thought it was double digit but in the
+teens
+uh they made student hammond crash like
+one of them
+the what
+he crashed
+oh oh one of them okay yeah yeah so the
+rimac concept one they only ever made
+eight
+wow okay six have been probably wrong
+about that six have been sold
+the one that wasn't sold is the one we
+drew
+and the eighth one is the one that was
+crashed okay so there is only
+uh
+yeah only eight ever made uh and then
+the concept two or the navera that's
+gonna be like 18 right or something yeah
+i don't believe there's any deliveries
+yet but they're doing a lot of tours
+with it and it's coming soon
+nevertheless not only that was a pure
+yeah i thought i was being smart i mean
+like
+the closest i've seen is
+vin number 006
+so there could actually be more concept
+ones out there but i feel like there's
+probably more lucids out there and we
+just haven't seen them i think uh john
+rettinger said he's on a reserve list
+he's in california and they've been
+getting them sooner because it's a
+california-based company so if you're
+listening to this or if you're watching
+this and you have one please get in
+touch please get in touch
+all right we also want to talk about uh
+another kind of quirky story with the
+mustang mock egt
+i spent a couple days with it here
+actually i didn't have a ton of time to
+like really push it because it's just
+sort of driving it around yeah observing
+how new it feels it is the fastest
+version of the mustang machi
+um but there was an edmonds review of
+the maki gt that discovered
+that it is only able to ever put down
+five consecutive seconds of full power
+full power yeah and so they discovered
+this because they're doing track tests
+on it yeah versus the model y
+performance because
+similar sized cars both the like higher
+end sportier performance models love
+them a lot of praise for the maki like
+in general like it's a very well selling
+car
+despite some weird quality control
+issues which like every new car kind of
+has at this point like
+better suspension by a lot of people's
+standards i think it drives just as well
+if not better than the performance model
+y the the guy in edmond said the overall
+package
+until he discovered that felt like a way
+more cohesive track car right then the
+model y now
+it's a whole other debate about whether
+people buying these cars are taking them
+to traffic it's a crossover it's it's
+whatever i don't even wanna it's fine
+but
+five consecutive seconds of power was
+the limit according to ford because they
+wanted to preserve battery life
+how did they not build a button into the
+software that lets you disable yeah like
+track mode tracks that away yeah i don't
+care about preserving battery life if
+i'm on a track even if you are a track
+like if you're someone who brings it to
+the track you're probably still only on
+the track
+at most 10 of the total time you're ever
+driving this car and that's probably
+even being super conservative like
+it's not going to like vastly
+deteriorate this battery um yeah and you
+know you're saying if there's a big
+debate on how many people bring these to
+the track i would argue more people
+bring the g this the mustang
+maki gt
+to a track like you're probably buying
+this because you want to bring it to a
+track mustang already has the legacy
+whether you want to put this in the
+mustang family or not i know that's
+super controversial
+but if you are talking about a mustang
+a car that is just known for performance
+and known for people wanting to get the
+most performance out of it and then you
+also had a gt model like this is meant
+for a track this is meant to get the
+most power and then you just
+cut it at five seconds just feels like a
+slap in the face it was odd it was like
+they were driving it and they would come
+out of a straightaway and they'd get
+five seconds straight and then they
+would out of the next straightaway not
+have to turn part and they'd wonder why
+and then they'd wait a bit and then
+they'd give it full power again but then
+on the next straightaway they'd have
+only like one second of power left out
+of the straight and it was like what is
+going on with this car so props to
+edmund for like putting the car on a
+track and actually finding that but yeah
+ford just confirmed like oh yeah we're
+just we're just doing that to save
+battery life yeah ford if you're
+listening you can push ota updates to
+the ford machi i know you can
+just add a button for track mode so that
+you can not have your power nuked on
+this fun car you've made that's my only
+advice uh i dug the yellow that they
+gave us it was like a papaya i
+i think it's mclaren orange basically i
+thought it was more yellow i felt like
+it was more yellow a little brighter
+yeah i think adam will put something up
+on the screen and if i'm wrong you
+better color correct it to look like i'm
+right it's a good-looking car i kind of
+dug it i liked it more than some of the
+other colors we've had because the gt
+also they put like the black grille on
+the front even though it's plastic it
+does look sportier it's got a little
+more like finish just make it mac
+matte not mac yeah make it matte make it
+matte that would have been nice i mean
+it's going to catch bugs no matter what
+yes but it looks good cool maki gt's in
+the wild by the way random fun fact i
+think i said this on the last episode
+the rivian is
+faster
+is just actually what is the maki gt
+is your 0-60 and 3.5 that's what the
+f-150 does right the riffian does in 3.0
+what wait it's a truck ford make
+even going past that how can ford make
+an f-150 go 3.5 and not make the car
+that's probably half the weight gord
+makes both yeah i guess they just put
+more power bigger bigger motors in the
+f-150 yeah i mean i'm sure you're not
+sport driving an f-150 it's just
+hilarious that it goes that fast now i
+want to put like f-150 motors in like
+the mini cooper ev and watch it just
+take like that's like the future of
+that's the future of mods i think like
+before because everyone would be like oh
+i have a custom built engine in this
+like sleeper chassis like you have no
+idea how fast this like 68 mustang goes
+now it's like yeah i put quad motors and
+a huge battery in the hummer eevee
+regular looking ev and it crushes what
+was the hummer ev 0 to 60. too fast it
+was awesome
+under 10 seconds i think that's a safety
+hazard that thing is it's already a
+safety hazard that yeah i honestly think
+that's going to cause more accidents
+than any other car i just looked it up
+and it's quoted at three seconds flat
+that's faster than the arch audi e-tron
+rs if i'm ever driving and i see a
+hummer ev i'm taking an alternate route
+i need my ways to direct me to avoid
+hummer evs because nope
+at no point will i trust that thing
+anyone driving that on the road when
+they deliver that i can't wait to see it
+it's going to be wild
+okay here's another weird weird one yeah
+tesla model 3s and model ys right now
+have been spotted being delivered
+without wireless charging or the usbc
+ports but not just like gone from the
+car
+the cutouts for the ports are still
+there they're just delivering the car
+without the ports and they're blaming
+the chip shortage for not having the
+part ready yet and they'll retrofit it
+for free in the future but they're not
+telling people
+they're just giving you the car hey
+here's your car would you like to accept
+delivery uh it's missing the usb ports
+which is like i have a picture here in
+the dock which adam can put on the thing
+but it's like
+it's a usb-c port it's small
+no one's like peering into it to make
+sure the actual connector's there like
+i'm sure people i would not doubt if
+there are people who have this car that
+have their their phone plugged in like
+right now no idea and like not paying
+attention and wondering like oh i must
+have not connected it all the way after
+my drive i mean wireless charging not
+working i think that's one of my
+favorite features of the car it just
+sits right up in the front where the gps
+would be and it just wireless charges
+the phone so that's how the first big
+post i saw about this happened was
+somebody had it on the wireless charging
+mat and i mean like we're at the point
+where most people throw it down on
+wireless charger and don't really
+look to see if it's charging and then
+they'll notice later so the guy in the
+post
+noticed that
+noticed it again and then went to go
+plug it in and i'm assuming just didn't
+feel the snap or anything and then
+realize it was just straight up missing
+it yeah and then when they went to the
+tesla service center the people there
+said that
+they will retrofit it in december it
+will be free
+but the fact that he had to go back to a
+service center to guess that and then
+there's a ton of comments in that reddit
+thread and there's multiple people
+reporting this that they're just and
+like sure there is a chip shortage
+it just seems insane to me to one even
+deliver these
+and to to
+not say anything yeah if i was tesla
+like okay put yourself in their shoes i
+don't think you stop delivering the cars
+but you have to tell people i think the
+best way they could have done it while
+still delivering is
+hey you know we're having an issue with
+the chip shortage you can still take
+your delivery now you can wait to take
+your delivery later if you do take it
+now free supercharging for three months
+and will retrofit in december well
+here's the thing about you know keeping
+cars around they don't have a lot of
+space like they're building cars as fast
+as they can and they're flying off the
+shelves or however you want to phrase it
+and so if they offer people the option
+to refuse delivery because of it which i
+guess they do
+they're just going to sell the car to
+someone else who will take it without
+the ports so they're just like
+they're just making the car without the
+ports and it's like here do you want it
+yes or no and if you say yes here you go
+we'll retrofit it later if you say no
+someone else will probably take it
+without the ports it's really hard to
+get these right now but
+tell people tell people that they don't
+have the
+ports yeah so i just can't like
+i know tesla gets a lot of
+a lot of flack for a lot of things that
+happens and they clearly like people try
+and make stories out of things and
+usually they're blown up this one feels
+kind of like the opposite where i'm just
+i can't imagine
+a legacy car manufacturer doing this and
+not having like
+what is going on you're the like a lot
+of weird queries i think if the f150
+came out with this people would go
+bananas it's really it's it's like uh
+yeah no i it's it's weird it's really
+strange a weird issue it's i feel like
+you gotta at least offer like a little
+something yeah tesla's tesla's also been
+one of the companies that's like
+been somewhat unaffected by these
+shortages like they seem to be
+delivering cars just fine like there's
+lots of cars that need ships that are
+just like oh we can't make as many
+hyundai launchers as we thought we could
+this year they all need the same chip
+and there's a million of them yeah so
+tesla's been like sort of cruising along
+seemingly unaffected but it's like this
+is a big deal like ports simple things
+hard to get so that was sort of a wacky
+story but yeah hopefully if you
+if you have a model 3 or model y
+pull over and check out whether your
+ports work or not and if they don't
+definitely uh
+definitely get in touch with your
+service center yeah get those ports for
+sure okay so that's that's some of the
+weirdest stories
+let's get into
+some new ev announcements that have come
+out there's one from
+let's see subaru subaru and nissan which
+one do you want yes sir so both of them
+are like their cars have been announced
+but we didn't see much of them these are
+like almost the full announcements for
+it um i mean i'm going to pick subaru
+let's talk super a little subaru fanboy
+so bias warning although um
+2023 subaru sultera yeah suv
+yeah like crossover ish
+to be honest i think it looks so
+do i like it man you really just are uh
+asking the the hard question right off
+the bat
+i don't think i can just say yes or no
+on this interesting what do you want to
+say so like right off the bat do you
+like it
+normally means design right yeah i like
+how this looks
+it's fine it's fine and then you gotta
+look at like specs and price yeah so the
+design i don't hate it but i don't love
+it it's like pretty typical i feel like
+the crosstrek and the impreza has kind
+of been going this a little harder line
+route my biggest complaint about it is
+i've always loved
+how much of a hatchback you get with
+like an impreza or crosstrek as it goes
+all the way to the trunk of the car
+where this has that really really hard
+slant kind of like a honda cross tour i
+think it's called right don't love that
+i think you're kind of losing space
+um i wish you were a tad bigger but
+again i don't hate it there's some
+design things that aren't my favorite
+but i kind of think the color was kind
+of weird they announced it and also i
+think maybe in a black or a gray or a
+white it might look a lot better
+um i don't mind it yeah that's fine at
+all yeah it's there it's not a head
+turner so then then the specs
+we've got a starting price of 37 000.
+where do you see that did i write that i
+have that on car and driver
+2023 subaru sotera starting at 37 000
+wait what
+hold on hold on this is
+i did not have a price in here and i
+have a lot of price speculation and is
+this real this is estimated wait hold on
+it says est let me let me see what they
+mean by est so they think it'll start in
+the high 30 000 this is not official
+from subaru okay subaru hasn't announced
+pricing yet okay so let's go with that's
+fluttering let's go with that no pricing
+but estimated somewhere in the high 30s
+there's a spec we know is range right
+let's yeah let's talk range let's talk
+specs first and then uh
+pricing i think i have like a lot of
+thoughts on okay let's let's do that
+okay so yeah
+range i've been super pessimistic about
+it i think in a previous episode i guess
+240 miles
+and i even thought that may have been on
+the high side instead
+we have a single motor and a dual motor
+the
+single motor has 329 miles of range and
+the dual motor has 286 miles of range
+now just to be clear here this is wltc
+standard which is a standard in japan
+and generally is
+a little overrated versus an epa rating
+so the epa rating will probably knock
+that down a bit but we're still talking
+at least three 300 miles of range okay
+on the single motor single motor like
+lower performance okay yeah yeah which
+blue blew my expectations out of the
+water i mean we've seen way too many
+legacy car manufacturers come in making
+a v with a
+abysmal range
+i usually will see here's a new ev it's
+available now it has 210 miles of range
+or i'll say i'll see here's a new ev
+it'll have 315 miles of range it's
+coming out in 2024 which is like oh
+that's a good number but it's gonna be
+three years too late which is when we'll
+all expect even higher numbers yeah so
+to have a new solterra assumingly coming
+out somewhat soon and with 300 miles of
+range is pretty good i'm very very
+excited for that i think that's awesome
+awesome
+um let's see it says it supports dc fast
+charging up to 150 kilowatts they didn't
+say about how long it would take to
+charge your battery but
+we're lucky here and this is built on
+the same platform as the bz4x which is
+from toyota because they partnered with
+this got it they look very similar bz4x
+and toyota claim
+that will charge 30 minutes to 80
+capacity so i mean we're looking at
+pretty standard about a 70 kilowatt hour
+battery if if you know the network
+actually turns on so that's always
+something yeah
+question yes um we have subaru talking
+about their x mode which is a pretty
+standard company-wide thing it's an
+all-wheel drive control system and you
+know subaru is known for their all-wheel
+drive that'll only be in the dual motor
+i'm assuming so i mean right it didn't
+specifically say that but i can only
+imagine okay um
+so when it comes to
+i have like two main gripes or questions
+i guess that aren't answered quite here
+um
+number one is price
+if we're pricing this out
+40 000 feels like kind of the sweet spot
+of
+now that we're seeing the model 3 creep
+up in price to like 46
+if we're talking about a car
+kind of
+similar to it i think the sole terra is
+a little bigger clearly does not have
+the performance that the model 3 does
+but
+six thousand dollars cheaper
+and most likely we'll have the tax break
+because it's a new company doing evs
+that seems pretty awesome and similar
+range i mean like the main thing we're
+talking here is range right when we're
+comparing
+i think forty thousand could get quite a
+few people to make the choice if they're
+between
+a model three and a soul terra okay
+if some the thing is is like subaru is
+very well priced for a lot of their cars
+um at least i think so and i do think a
+lot of people think so i bought my
+impreza in 2013 for 21 all-wheel drive
+great car crosstreks enforcers and stuff
+kind of start around like 26 which is
+great great pricing so 40 000 is a big
+jump there if this could somehow be at
+35 000 i i'll buy it i will 100 buy it
+if this is at 35 000.35 you're in i
+don't think it will that would be the
+starting base price probably at best yes
+and i kind of have wonder price wise on
+which model will be which but um
+i'm worried though that this will be
+closer to like 45 and then i think it's
+they will only get sales for subaru fans
+you are not gonna have the person going
+to it over the model 3 when you're at
+the same price yeah and maybe this is
+people cross-shopping i don't know if
+it'll be model 3 or model y more i guess
+crossovers model y which is a little
+more pricey but when you're at the same
+price as model y you have to offer
+somewhat the same stuff to be considered
+if you're priced above model y you have
+to be better at something yeah which
+seems like just the subaru things and
+being a subaru and having like maybe
+more range or sorry maybe more storage
+or uh crosstrek type features model y
+well the hard thing is if you compare it
+to model y because it's a crossover this
+is like a weird this feels like the at
+least by the pictures i haven't seen
+full size but it looks like the lower
+end of like a size of a crossover
+whereas like model y feels like it's
+closer to like compact suv and it's this
+really really confusing but model y is
+58 starting i think
+so like
+i
+no way sultaira's
+that so i like kind of want to compare
+it to model three more but yeah you do
+get some more room probably than a model
+three yeah it's in a weird spot so if
+you undercut if you undercut it you just
+got to do a couple things as well
+obviously it doesn't have a supercharger
+network but that's an advantage that
+they can take if you're cross-shopping
+model y and soltera i think zoltara is
+going to have a great chance even at 45
+to you know if you are not a tesla fan
+or you're not a subaru fan you are just
+looking for an ev around that size i
+think it will split it pretty well which
+is all all
+companies need to do now is split the
+price split the difference for a tesla
+to that um if you're looking for a model
+three or soltera i think the sole terror
+has to be
+35 to 40 to really sway the model 3
+buyer over
+to that for saving enough money let's
+let's make a bet over under
+would you take over under
+or sorry would you guess that the
+solterra's announced price for the base
+model will be over under 39
+over
+okay i'll take that bet you'll go under
+i'm hoping i'm wrong or i'm hoping i'm
+right and it is under but now see if we
+really want to make this bet interesting
+if i win you buy me a solterra and if i
+lose i'll buy myself a soul terror
+because that sounds like a good that
+sounds like a good bet i don't know if
+i'm gonna agree to it right now but it's
+a solid um but so now my next big thing
+kind of loops into pricing and that is
+i'm confused at what is going to be the
+more expensive version of this what is
+going to be the base because
+in every single eevee
+range is like the number one priority
+right yep now
+subaru is known for all-wheel drive
+their thing is that essentially every
+car comes with all-wheel drive super
+great price point for it
+you go to colorado and like 90 of the
+cars in the shopping the shopping mall
+parking lot are going to be a subaru
+because of the all-wheel drive yeah
+driving snow all that stuff yeah
+so if you are now buying a subaru ev
+what is your choice are you prioritizing
+all-wheel drive or are you prioritizing
+range because the all-wheel drive is
+about 50 miles less range according to
+wltc standard the single motor will be
+cheaper the single motor with longer
+range will be cheaper and the extra
+motor which costs a lot more which has
+better performance but has all-wheel
+drive will be more expensive despite
+lower range
+real quick
+what you're saying is correct but like
+the
+the single motor has a higher horsepower
+per motor
+whereas the dual motor yeah there's they
+are technically each motor is less
+performance but the total is larger
+exactly definitely i believe that that
+base model will be the single motor
+front wheel drive with a longer range
+because that gets you longer range the
+all-wheel drive one will cost more it
+will have better performance because of
+the higher overall power and all-wheel
+drive but
+it will have slightly less range
+interest um
+man if the if single motor could be 35
+and dual motor could be 40 that would be
+really awesome yeah also dual motor
+performance though is not going to be
+anything close to a model three no no no
+no like we're all i think i hope we're
+all on the same page that we're not
+comparing it like that yeah um but yeah
+i'm excited well the other one that i'm
+less excited about
+but it exists so i'm happy about it i
+think it's important still yeah is
+nissan's upcoming electric suv
+so nissan is able to claim that they are
+a leader in the ev space because of how
+long the leaf has been around sure i'll
+give you that so now in 2023 they're
+going to drop what's called the aria
+a-r-i-y-a it'll start at 47
+and it will have
+did they say the range you can see
+about 300 miles of range so yeah 300
+miles of range for 47k you can go up in
+performance and also up in price there's
+a 60k option yeah with 265 miles of
+range but a little more power
+it looks
+uh fine okay if you were already buying
+a nissan rogue this this looks like a
+nissan yeah you know what this looks
+like it looks like an eevee nissan which
+is fine it's i don't like it you've
+brought up a pricing of subarus in the
+past this is an expensive nissan
+60k for a nissan is a big ass yeah can i
+look up what a nissan rogue is sure yeah
+like a nissan rogue starts at 26. yeah
+and i'm i believe
+i just want to make sure i'm on the
+murano's 32 the rogue is 26.
+it's not is there 24 to 26 like there's
+not a lot of brand new 60 000 nissans
+yeah this will start at 47 which is you
+know still pretty premium for a nissan
+yeah the leaf if i talk about the leaf
+anymore i'm getting sad but like they
+did they did hop on that early and lots
+of people have leafs because they don't
+have long commutes it had like a
+100 mile range at best and it was like
+all right you can drive this as your
+commuter car back and forth and like
+have a totally good time never pay for
+gas again great but when we talk about
+like the inspiring like let's replace
+every car on the road with an electric
+version you need a couple more versions
+than just a leaf so this is something
+else i do they're accepting deposits i
+don't know if this is going to start
+getting cross shopped with model y it's
+47 so it's cheaper yeah there are two
+main things i have out of this one's
+good ones makes no sense okay 47 000
+for
+this
+buy pictures this looks bigger than like
+a sole tara so i think this is a direct
+competitor yeah the model y yeah 300
+miles of range is also meant at 10 000
+cheaper
+there's def they're gonna sway some
+people okay
+yeah i think that's really cool again
+really happy that we see another 300
+mile range i'm so glad we're actually
+seeing these legacy car manufacturers
+like
+putting real miles on their range the
+thing i don't get is who on earth wants
+a performance
+nissan rogue ev essentially i don't get
+why you'd spend an extra like 15k yeah
+the performance version interesting it
+doesn't look like a sporty car it
+doesn't look like something that you're
+going to go
+drag race or even just like i guess
+that's the thing about evs is they all
+naturally are able to offer performance
+and instant torque and the base model
+will have that
+yeah
+true like enough for what you need so in
+main in normal everyday driving like the
+cv thing the best thing about it is
+merging onto a highway like you don't
+feel stuck yeah but the base model will
+have that like it'll feel better than a
+regular nissan rogue which i by the way
+if you haven't noticed i'm comparing the
+rogue to this thing because they look
+very similar i just don't get why you'd
+pay an extra 15 000 for this like
+performance version of this there's a
+lot of questions that we didn't think
+had there were like solutions without a
+problem like who wants a crossover
+mustang ev but here we are and like this
+might be another one of those where
+we're like looking over the obvious
+answer of like oh yeah i've always
+wanted like a faster like i love my
+nissan and i love this the ui for some
+reason but i really wanted an ev version
+with more storage like here we are yeah
+i don't know
+there are nissans that people mod and
+like to do stuff it's just
+as far as i know it's not the rook it's
+a smaller group if you have a modded
+nissan rogue
+show send us some videos or pictures
+because i'd love to see it but i'm i'm
+not really sure that those really exist
+but like you know good point here
+ten thousand dollars cheaper than a
+model y
+for the people who don't care about the
+model y performance and who are are able
+to
+you know
+not have to use the tesla supercharging
+network right ten thousand dollars is a
+big big price jump price difference so
+yeah so we'll see next to your car so
+that's that's it for evs thanks for
+sticking along with our rambling i i
+thought all of those were pretty fun
+pretty interesting even pretty important
+yeah tv podcast exactly
+wave can we label this one where the ve
+and wave is switched
+yeah switch the ev now it's the waveform
+the waveform we can do that for april
+fools or something but um i just have
+like one psa i want to end this on every
+year we talk about black friday a little
+bit but we always talk about it on
+friday
+where it's too late so we're just gonna
+do our little psa if we're looking
+forward to anything but like
+i think the main thing i always tell
+people on black friday is
+go into it with a plan we all are tech
+heads here we all want to get tech
+cheaper we all know tech gets cheaper on
+black friday
+but stop going on amazon or best buy and
+just like buying things because they're
+on sale do your research
+pick something that you really want hope
+that that goes on sale
+buy it on sale yeah going to whatever
+retailer and buying what's on sale is
+how it's designed for you you should go
+in with your own plan and then buy
+things also i'll give a little psa if
+you're holiday shopping the chip
+shortage and supply shortages are very
+real so if you are not yet getting stuff
+for gifts for family or whatever think
+about that earlier than usual
+as in like right use your pride pauses
+yeah that's it that's it for my psa
+but yeah i uh
+i actually with a new house and stuff i
+do have some i
+i'm ready for black friday i haven't
+bought anything for a really long time
+so you're gonna be part of the like the
+crowd running for the tv section no no
+no online
+on my couch in my slippers under a
+blanket i don't do this i'm looking for
+a new gaming monitor because i haven't
+upgraded since probably black friday
+like five years ago okay really excited
+about that i was ready to look for the
+logitech g pro super light but now they
+just came out with the logitech g303
+wireless which i ordered already that's
+the collab with shroud
+i'm so excited that was like my favorite
+that was my first gaming mouse i had two
+or three of them then they discontinued
+them and i was
+very very sad
+whatever that won't come up and just
+like some smart home stuff there's this
+really good tp uh
+like smart switches hopefully those will
+go on sale they're not too expensive but
+when you're buying them for the majority
+of your house it adds you want to add a
+bunch
+and like
+i mean you should probably be looking at
+these too like all the ego
+electric
+house tools like leaf blower weed
+whacker all that stuff
+if that went on sale i'm yeah i'm buying
+that up yeah it's gonna be sick i'm
+excited all right get your uh get your
+retail on ladies and gentlemen thanks
+for listening to this episode of
+waveform it's been a fun time make sure
+to watch that right to repair video when
+it's out if you haven't seen it already
+but
+that's been it catch you guys in the
+next one
+peace waveform was produced by adam
+molina we are partnered with vox media
+and our intra-outro music was created by
+vayne silver

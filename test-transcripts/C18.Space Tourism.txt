@@ -1,0 +1,2519 @@
+all right welcome back to another
+episode of the waveform podcast we're
+your hosts i'm marquez and i'm andrew
+and today we've got there's not really a
+whole lot of products
+coming out it's july yeah it's the
+middle of the year it's not too crazy
+but
+there is still a lot happening in the
+tech world generally as there is so
+we're going to talk about a bunch of
+these different things some of them
+are more real newsy than others but
+you'll see what we mean by that uh plus
+we got a couple
+hot takes at the end you have to stay
+for hot takes apparently we're making a
+segment out of this
+i like that i really like the idea of a
+hot take segment we'll see how it goes
+yeah we'll see how it goes
+before we do another segment we'll we'll
+definitely fill it out but i wanted to
+start off with um
+the most important one my favorite major
+important headline of this entire week
+for sure which is that apple's weather
+app
+was discovered to not be showing 69
+degrees fahrenheit
+to anyone anywhere now i saw this i saw
+this on twitter first i think the verge
+got the first like they made an art
+about it they wrote an article
+and that was essentially the entire
+point of the article i was like guys
+you can look in your weather app right
+now if you're on ios 14 or earlier
+you can look up a city right now that's
+69 degrees find it in accuweather find
+it in
+dark sky whatever and then open the
+apple weather app
+and it'll say 68 or 70. it refuses to
+show you 69
+in the current temperature in the
+forecast and the highs and the lows
+it just won't do it i've seen it in my
+weather widget
+and as soon as i saw this headline well
+naturally i started looking up cities
+that i figured were about 69 degrees
+fahrenheit we went through
+i think it took us like 90 seconds to
+find a couple like one ends in maine
+i think adam found the first one in what
+it was in some other country but then
+we figured boston boston boston was
+another one and we found
+it was 69 degrees in our accuweather app
+and for some weird reason it wasn't
+a data sourcing error it really just
+refused from the same data source to
+show
+69 degrees so okay immediately the
+reactions
+are like what okay apple like why
+it's not that serious like really
+spending extra energy coding to not
+show 69 what are you that anti-meme like
+is that
+seriously where we're at right now feels
+almost like the like i guess it's not
+exactly the streisand effect but it's
+like if you're trying to not show
+something chances are everybody is going
+to
+show that more often yeah the second
+this article came out i made a video
+like pulling up a city showing that it
+was 69 degrees
+in this city and that it was 68 i think
+it was it was showing
+68 or 70 on my phone 68
+and yeah you know immediately everyone
+starts checking and fact checking their
+own phones and seeing what's going on
+lots of people running ios 15 beta we're
+like you're wrong marquez it shows 69
+right here
+it does show in ios 15 beta but you're
+running a beta os so that's not what i'm
+talking about
+but this immediately became super
+fascinating and
+sort of spread around like a wildfire
+but the mystery has been solved
+the mystery has in fact been solved and
+it turns out it's not
+just apple being some stuffy megacorp
+that doesn't want to show
+time yeah it's not it's not actually
+just that the first
+thing that ticked me off on maybe it
+being a little different
+is someone tweeted if you notice it also
+doesn't ever show
+65 or 67 degrees in the weather app
+either
+again it might show it in the widget
+which is kind of interesting but then
+you open the app and you look at the
+the future forecasts and sure enough in
+boston it was like 68 68 68
+66 64. and i started looking around and
+i also didn't find any other 65s or 67s
+which is weird if you're on an iphone
+right now on ios 14 or earlier you can
+look in the weather app
+and you will not find 69 degrees
+fahrenheit 67 degrees or 65 degrees so
+then it was like okay
+what's what's actually going on why um
+turns out the reason is most likely
+explained
+by where they source their data and how
+they source their data yeah so a lot of
+people are asking well where are you
+uh finding that it's 69 versus 68 maybe
+it's a discrepancy in the sourcing
+it's a weather channel is where now they
+bought dark sky which does have their
+own data but
+at the corner of ios 14's weather app it
+still says the weather channel
+so if you go to weather.com that's where
+they're getting their data from
+but it looks like they're sourcing it in
+celsius
+integers basically now most of the world
+uses celsius so that makes a lot of
+sense but
+here in the u.s we are stubbornly still
+using freedom height
+f for freedom for fahrenheit and no yeah
+so we're
+converting these source data celsius
+integers not decimals
+into fahrenheit and so sure enough
+19 degrees celsius is 66.2 degrees
+fahrenheit
+which rounds to 66 then when you go to
+20 degrees celsius that's 68
+yeah so you just skip 67 and 21 degrees
+celsius
+is 69.8 which rounds to 70. so you'll
+never show 69.
+so this seems to be the most likely
+explanation
+for why you know it's not showing up and
+also probably why you are
+seeing it in ios 15 beta is because
+they've either
+fixed that or adjusted to source
+somewhere else dark sky or they're using
+integers or with you know decimals now
+not just integers
+whatever it is it seems to be fixed in
+ios 15
+but i still thought this was hilarious
+because for a couple of minutes there
+the internet was like wait it's like
+having a ton of fun
+what is going on here if somebody found
+that it was it was nine it was negative
+69 degrees in antarctica and it was
+showing that
+um which is funny because i looked it up
+negative 56 degrees celsius
+is negative 68.8 fahrenheit which rounds
+to negative 69. so it will show negative
+69.
+but not positive 69. i like my first
+thing i want to know is
+because the verge is you said the verge
+got the scoop i'm wondering like
+was this a scoop something like this
+like yeah who thought i
+am dying to know who at the verge was
+just like
+i i'm hoping has this like uh notebook
+of just like days that it has not shown
+69
+to like eventually get to the point
+where he's like i'm writing an article
+and it wound up being like the most
+popular article on the internet
+yeah it probably just happened like
+somebody tweeted or just
+emailed them like hey if you look around
+the app you won't see 69 like probably
+happened the same way with us where we
+don't wait really and then we just
+started searching everywhere for
+finding 69. i found 69 humidity i did
+not find 69 degrees so
+yeah once you once you get that far you
+kind of write it up and just see what
+happens it's one of those things that's
+so small where like you would never
+really think about it the difference
+between
+68 69 and 70 degrees like if you stepped
+outside you wouldn't be like
+this weather app's wrong yeah it's
+definitely not
+yeah this but um well that get that that
+is part of my hot take should i just get
+right into my hot take no i think we
+should save it for the really we should
+save it all right we have to save it for
+the
+i'll save it um retention retention
+one last thing on that though carrot app
+which if you don't know what carrot
+weather app is it's
+hilarious it's just the weather with
+usually something really funny like a
+sassy weather app
+yeah sassy weather app's the best way
+but anyways immediately after all this
+news broke uh someone posted a
+screenshot of just in their carrot app
+it just says
+feels like 17 degrees i promise to
+always tell you when it's 69 degrees out
+i i downloaded it as soon as i saw that
+oh did you that was
+you get it that was what earned my
+download i downloaded carrot and yes
+immediately it was telling me
+is it that's it it's 75 degrees but
+we'll tell you when it's 69.
+so thank you carrot for uh for the nod
+there we appreciate it or maybe the
+verge appreciates it whoever you're
+nodding to
+i'm sure they love it um that's kind of
+it that's my
+that's my important news of the i just
+had to kick that off i'm glad we got it
+out of the way
+now everyone can take a deep breath and
+wait like relax for nice easy
+new stuff after yeah we're all about
+nothing else
+investigative journalism right off the
+top uh
+apple does have a new product out which
+is always you know something we like to
+take note of this one
+is the magsafe battery pack i want to
+give a shout out to brandon
+who tweeted years ago that they should
+do this he's not the only one who
+tweeted this
+but i want to give him a little props
+for that um it's literally just
+a battery pack that slaps onto the back
+of the phone with the magnets from
+magsafe and wirelessly charges your
+iphone
+vin called it a giant denty nice kind of
+looks like it looks just like it's
+an apple logo on it yeah um i like
+i think we all had kind of mixed
+reactions around the studio it
+is one of those things where at first to
+me i was like
+huh that seems like a pretty good idea
+i'd love to just like
+have it in my pocket or my backpack or
+whatever and if my phone's low
+instead of having to carry a wire around
+wait till i get my car wait till i get
+my desk
+have a big battery bank just slap it on
+the back and it charges
+but then you see it's 99
+it's only i think it's under 1500
+million backwards
+so that wouldn't even charge a full
+battery right not only is it smaller
+than the actual physical size of the
+battery
+but wireless charging does lose a lot of
+efficiency to heat
+so you're looking at maybe 70 to 80
+efficiency
+of getting that milliamp hour account
+into your phone so you're
+you're not you're not getting close to a
+full charge know that
+um i i can already see where this is
+going which is like yeah
+the crowd that's like just get a wired
+power bank that can charge it
+eight thousand times and put it in your
+backpack i wanted to be the
+because i knew that like it's obvious
+that's gonna be yeah the the
+suggestion there and like the argument
+and i wanted to argue against it as like
+this is nice because it's small and it
+can it's like super easy
+it's typical apple it's not complicated
+it's just like
+the most perfect way of solving it
+except for now seeing that it
+won't even charge a full battery i just
+don't see why you wouldn't buy
+the anker power core 26 000 milliamp
+hours
+for 70 bucks it's clearly bigger clearly
+needs cables but i can charge anything
+why i can charge my switch i can charge
+my laptop i can charge my phone i can
+charge my
+cell class here like i can charge
+everything with it i just don't get why
+i wouldn't i'd rather just deal with the
+cable because
+apple makes products for a universe
+where other companies don't exist
+so they still have other products that
+exist that this thing could charge it
+doesn't even charge the
+product fully that it's made for and you
+can charge your
+phone with your macbook pro if you
+really want that much battery which i've
+done by the way if you can just plug it
+directly in
+with that cable um i think this is just
+like an easy convenient
+thing this isn't this is like an incase
+of emergency like convenience thing oh
+what's that you have 20
+battery and you still have more stuff to
+do today pop it on the back of the phone
+don't even think about it you'll have
+the rest of the day for enough battery
+like you charge it up with lightning you
+just have it for when you need it it's
+in your bag it's in your purse whatever
+it's a
+it has to be charged by lightning you
+gotta charge you know that but is it
+lightning or is it usbc oh
+it's light i believe it's like adam
+saying it's like it's lightning because
+it's
+it's in the iphone's world where you
+would only buy this if you have an
+iphone
+so you have a lightning charger yeah but
+if it's apple they're assuming you have
+a macbook too right which is usb-c
+well if you have any laptop it's a
+macbook but maybe you don't have a
+laptop
+so yeah it's a lightning charge thing uh
+yeah
+super simple but obviously it's the
+classic apple like wow it's a little
+overpriced it's 100 bucks for half a
+charge
+but it is the one there are other
+third-party ones by the way that do the
+exact
+exact same clip on the back magsafe
+wireless charging
+not not even clipped they just
+magnetized yeah i guess that's what i'm
+doing i think anchor makes one of the
+better ones
+it's not as pretty but i don't think
+this apple one's that
+pretty i think apples would be prettier
+if they match colors to the different
+iphones like
+it feels like something they should do
+let me show you the anchor one
+because i think apples is way better
+looking than the anchor one this is the
+the one that anchor made
+right i'd take the apple one every time
+it's bigger it doesn't taper either
+around the the edges the way out here's
+the thing do you expect so when i first
+see these i'm like
+are people gonna like continue to use
+their phone with this on the back
+yeah yeah yeah yeah like that i guess it
+makes the most sense yeah like it's like
+i'm guessing they're just probably not
+doing the battery case anymore right
+yeah
+i do have to assume that it probably has
+like one or two
+features with it just in the sense of
+like magsafe connecting because it's
+first party
+um and like i would always prefer to do
+first party over anything but it's still
+just
+to me i don't know feels rough
+yeah it's just it's just a apple world
+thing like lots of people are going to
+be in the apple store
+and realize that they want a battery
+case and this is the one that they sell
+for the iphone 12 it slaps on the back
+it's kind of neat it doesn't have to be
+amazing some people just have that money
+to just go okay
+i just want a battery that's just going
+to work with the iphone i also wonder
+how many mag safe accessories you can
+have that then
+like which are taking over the other
+ones so like if i have an apple wallet i
+have to take that off every time now
+to use this charging thing right yes you
+do
+uh if you have a magsafe case
+you can put this on the back of the
+magsafe case and it will charge your
+phone through the case
+like the magsafe charger puck would not
+the most efficient thing in the world
+but it works
+i would really like to see just last
+thing to say on that is how
+from a dead battery how much it actually
+charges what would your guess be
+um so the iphone 12 like pro
+let's just go regular 12. iphone 12 what
+is the battery size iphone 12's got a
+battery
+that is it's like 36 right no it's
+smaller
+it's much smaller uh iphone 12 2
+815 milliamp hours okay wow so
+the thing about that is you're you're
+coming in at 14.60 for this so that's
+half
+if you get all of it out of the battery
+uh yeah i'm gonna go 40
+40 yeah i mean in most days that gets
+you through the day so it doesn't really
+it's fine i'm not i'm not in the target
+demographic
+yeah no i'm not either that one um all
+right let's let's go to something a
+little different i guess
+uh i have no good
+no good segue for this one but it was a
+fun article i thought i found
+okay and it's about planes which is fun
+because there's a plane flying over and
+you might not here
+there's the segway finally finally
+newark airport
+working for us yeah um
+all right so united to buy a hundred
+electric planes for short-haul trips
+wow this is electric planes that's
+exactly what i said when i saw this
+not only are there i guess electric i
+mean clearly we have to assume there are
+people working on electric planes like
+that's just
+gotta be one but the fact that we're
+close enough to being like united's
+pledging
+to buy a hundred of them uh it's from a
+startup company in sweden called
+heart aerospace um
+i think the main thing here is don't
+think immediately like giant commercial
+i'm gonna say 747 i think that's a
+larger plane but i'm sure
+yeah it is okay this uh this article
+says 19 passenger plane
+250 mile range very small so essentially
+the
+what it is actually really good for is
+if you think of like a large
+airport hub chicago o'hare is a perfect
+example because in the midwest
+it connects flights from the east coast
+the west coast and kind of sends you
+everywhere from there but at the same
+time it has a ton of midwest states
+around it that
+you would generally fly into take a very
+small plane to hop
+to michigan or to hop to north dakota or
+something like that
+so it would take over there where a lot
+of those planes are getting
+can't or those flights are getting
+canceled because it's not
+efficient or it's not uh there's not
+enough people getting on the plane to
+make it worth flying yeah to make it
+worth flying with fuel costs and
+everything like that so like they're not
+doing as many of those flights anymore
+so it just would start taking over
+smaller trips like that
+um and that's i think pretty awesome and
+it says these could be
+like in service as soon as 2026 which is
+not that far away five years away so
+that's
+that's pretty amazing it's cheaper it's
+clearly like the biggest thing here is
+just planes have
+crazy emissions and we're clearly in in
+a world where we need to
+reduce emissions and and i appreciate
+them taking a step
+and hopefully it leads to bigger steps
+of eliminating those
+yeah yeah yeah this is i mean i so i
+don't know
+pretty much anything about electric
+planes i've i've heard that this is like
+a thing
+that would be really cool to work on but
+every time it's come up i think i talked
+to nodegrass tyson about this
+the energy density of batteries isn't
+quite good enough yet
+yeah uh to to lift all that weight of
+the battery off and then fly with the
+power
+generated from the battery but as
+battery tech improves maybe that's a
+projection that
+will make this possible by 2026.
+um but the other thing is yeah like
+when you think about sustainable energy
+we're on you know the cars are actually
+starting to see the light we're starting
+to see
+maybe in 10 20 years there will be way
+more electric cars on the road
+and eventually we see a world where
+we've wiped out
+the amount of emissions coming from cars
+there still leaves
+boats trains planes are
+an absolutely massive one as you pointed
+out and uh
+eventually yeah we got to get to those
+too so the fact that we start with the
+small ones like
+the nissan leaf of planes or whatever
+that's fine that's a good start but
+obviously we want to get to the the
+massive planes too yeah i wonder how
+well this would do also in just like the
+private plane sector i mean i know
+that's not
+you know it's not hitting emissions like
+a 747 but there still are a lot of
+private planes flying all over the place
+and it's it's almost
+if you're doing it by passenger it
+probably could be pretty similar to like
+emissions
+per person no no what i mean so like if
+these are smaller planes maybe that
+i'm also this is a total assumption here
+so
+if someone wants to correct me please
+yeah put
+private planes or a very small number of
+passengers very high number
+number of emissions per passenger but
+they are small planes with smaller gas
+tanks they don't really do
+cross-country flights the same way 747
+no which is what yeah why
+something like this is a good place to
+start yeah cool i just thought that was
+really neat yeah i look for i hope in my
+lifetime that i'm able to fly on an
+electric plane that would be really
+awesome
+i think it would still feel exactly the
+same as a passenger
+as a regular plane because it's just
+gonna it's still jets
+i imagine it's still making lots of
+noise because it's instead of burning
+fuel
+it's still running the turbines exactly
+yeah so it's still going to feel like a
+regular jet but i just hope
+that for principle i can in my lifetime
+ride an electric plane that would be
+cool it would be cool it would be cool
+to just also ride in a brand new plane
+every time i'm in a plane and i feel
+like it's nice i like hear someone talk
+about i'm like it's like this is a 30
+year old plane
+it's just oh it's pretty new tells me
+how long those are like uh
+stay in commission last thing
+nothing and stockx i saw this this is a
+weird one that came out like
+20 minutes before we sat down to record
+this and we just
+wanted to talk about it quickly man okay
+so
+you've probably heard by now about
+nothing they're making
+a bunch of products starting with
+headphones the year one
+and we know they're going to be these
+transparent earbuds they
+started to slowly tease information
+about them one by one
+this is like their their whole strategy
+is kind of the same as what oneplus is
+doing because it's
+the same ceos oneplus used to have carl
+from oneplus
+um and they've gone all the way to the
+very
+highest end of hype i've been using the
+word hype to talk about this but i think
+stockx connection sort of solidifies it
+because
+what is a more hype connected company
+than stockx stockx
+is a uh a reseller listing
+site for a lot of apparel and footwear
+for hype stuff hype shoes hype apparel
+so if you find a high pair of shoes and
+you want to buy
+you know somebody bought uh one of the
+limited edition drops and has one in
+your size you want to buy it secondhand
+from them
+does this whole verification process and
+you can buy one or auction
+a pair of shoes and that's kind of what
+they're known for they started branching
+off though
+more recently into like electronics i
+think they got the ps5 on there for a
+while which is interesting one of the
+most hype
+gadgets like partnered with sony or i
+don't know if it was a partner with sony
+but it was definitely available for a
+while
+on stockx with the whole verification
+thing and everything so
+this nothing partnership
+is a it's an auction where they'll be
+auctioning
+the first 100 pairs which will come with
+like a little engraving and a little
+special
+you know box or whatever um to whoever
+submits the 100 highest bids yeah it
+will be available for general
+availability later
+but uh and i think we know the price
+already 100 bucks
+so the 100 people who just want to spend
+however much they want to be
+one of the first hundred can get one
+whether they
+spend 101 or two hundred dollars or
+whatever they want
+they just have to be one of the top
+hundred bits yeah the the engraving
+you're talking about is the
+edition of it so it's like a limited
+edition one to 100
+you get this the serial number
+essentially i'm assuming the rest of
+them after that aren't going to have the
+engraved serial number on it
+so these are like yeah just the first
+100 you're basically paying to
+say that you have one of the first 100
+of a
+company that doesn't really exist yet so
+here's this made a product yeah exactly
+so here's the thing on one hand i get it
+it's the perfect
+engine for like the beginning of hype if
+you're a brand new electronics company
+building hype
+what better way to get people really
+into it and to make a bunch
+of money than to give people the feeling
+of exclusive early access
+and anyone can you if you bid high
+enough you can have one of the first
+hundred
+of these cool gadgets this company is
+making that's like a feeling people
+really like
+exclusive early access whatever it is
+but on the other hand having one of the
+first hundred products that a new
+electronics company makes
+i think is really rarely actually
+valuable like if you had one of the
+first
+100 iphones which is not by the way one
+of apple's first ever products if you
+had an apple one
+okay yeah that's very valuable but
+that's apple
+like imagine if you had one of the first
+hundred
+one plus once because that's you know
+that's a company that's done pretty well
+they've had a couple years of success
+really had to come up same
+ceo that's about as good as a company
+can go
+in in the short term how much is a one
+plus one worth
+if you have one of the first hundred
+today not i don't
+i mean i'm sure it's worth something
+whether it was worth
+holding on to it for that long or or
+even paying extra like
+to get it it's probably worth more than
+they paid for it yeah it's really
+it's a sentimental thing like you you
+have to
+want that rather than like i don't think
+you can depend on that being an
+investment and like you're going to sell
+later
+there's certain companies and certain
+styles of products where that clearly
+works
+and this is a model that you can follow
+like the first thousand tesla roadsters
+costs more than the rest they're the
+founders edition they're going to be
+valuable later because they are part of
+the first thousand
+but that's a company like tesla where
+you imagine they'll be around longer and
+and even the original tesla roadsters
+from back in the day
+are more valuable now than they used to
+be but i just think when you get more
+and more
+gadgety and techy that lifespan of
+people caring about them
+is uh is a little bit weaker i wouldn't
+want to be further from tech
+i would almost well first off adam just
+looked it up on ebay and you can get a
+oneplus one for
+30 bucks yeah right now so yeah not a
+great investment if you there you go
+pull that off
+um i would almost branch out further
+than just
+tech i feel like in today's generation
+just in general not even just with tech
+like collectibles have become
+like such a big thing selling old things
+uh for tons of money has just become
+such a
+something everyone looks out for that it
+seems like it just doesn't happen as
+much anymore
+it's really hard to find that but isn't
+it usually like new products
+i think it's because we we've seen these
+like old like
+i for instance i think uh like is either
+mario 64 like a mario super
+nintendo brand new and box just sold for
+like
+a couple hundred grand i think but but
+in the older generations
+it's because of how rare they are now
+because all those people took them out
+and played them and then probably threw
+them away by now
+we are i mean look at pokemon cards
+people are just buying packs and
+immediately putting them into sleeves
+it's just like
+it's not a thing people are playing with
+anymore things that are getting
+destroyed
+which means there's tons of them around
+there's no rarity to increase the price
+of it so yeah you got to hit this
+this this very special combo of being a
+rare
+classic yeah not easy like
+mario obviously you know a classic
+exactly most people who had those used
+them
+so you'd have to have like when we
+unboxed that bondi blue
+imac that was a rare classic
+in great condition that booted up 30
+years out the box like that's
+that's the type of thing that actually
+maybe you can consider more valuable
+but i guess if you were betting on
+nothing being this huge company in the
+future and this being a
+classic that's like that's a tough bet
+when you're you know a very
+new tech company but you know if you
+believe in that bit
+and you're getting it as an investment
+then maybe you do buy one of these or
+maybe you just
+want the headphones yeah i gotta have
+them early i think when you're when
+you're selling it as like
+basically a collector's item i can only
+imagine the person who gets
+one out of a hundred on this is going to
+never use them and immediately keep them
+as a collector i wonder
+i would wonder i would guess maybe some
+of these first 100s people use
+i think it depends on how much they win
+the auction for true i would also like
+to guess
+prices that we think some of these go
+for if the top one goes for like 500
+bucks
+i think they're going to just use them
+as headphones because they're just
+earbuds like 500 bucks you spent more
+you're like wow i got the first ones let
+me use them i'm gonna unbox them on
+camera and the ceo will retweet me but
+if you spent like
+10 grand like if it gets crazy on stockx
+which it can sometimes
+then i would say probably that person is
+going to also buy another pair at
+general availability and just keep the
+one of
+100 that they spent 10 grand on and hope
+maybe someday it's a classic
+i just don't think it's gonna get that
+we'll see let's let's guess top bid
+and bottom bid i would it would be
+really funny if one of the top 100 bids
+was under a hundred bucks
+so that they actually got it i just
+don't think about that that would be
+hilarious
+from being one of the first hundred um
+uh no i think the top
+let me go top bid i think someone's
+gonna spend
+1500 bucks i was gonna go as high as
+three thousand
+for the number one of a hundred is
+that's my guess do you get to
+well yeah if you're the highest bid you
+get number one of a hundred yeah yeah oh
+yeah sorry that's how it works it's not
+a hundred individual bids like i thought
+it might be it is
+you bid for one and the top 100 bids
+get the top 100 based on so if you are
+the top bid you get one if you are
+the 100th top bid you get number 100 so
+you don't get to decide you want number
+three you just have to hope you're the
+third highest bid
+yeah which i think is kind of
+interesting because
+at least in nfts in the sense of like um
+like top shot
+the number edition was like really
+important with the value of it because
+ultimately even though maybe you know uh
+what numbers lebron so lebron so yeah
+lebron will be like jersey number 23 and
+they'll sell a hundred of this nft
+but the 23rd edition one will be worth
+more because it matches his jersey
+number right
+this one a little different you don't
+get to
+pick you just like you could really bid
+and try and get
+in between a certain one but yeah do you
+again we're assuming this holds value
+afterwards on stockx
+this might be known already but is there
+public public viewability of all of the
+bids
+i assume you only see the highest bid
+when you're bidding
+but this could be different seeing a
+different nft sell similarly to this and
+it had just the leaderboard of bits
+and so it had what number because
+i mean if they wanted to make the most
+money possible
+they probably would not show the last
+ones because you're just gonna
+the number 100 is just going to be like
+a dollar bid over and over like a fight
+at the end probably
+um yeah i'll be interested to see how it
+is i think
+lowest bid
+[Music]
+225 125 125 yeah
+that's my okay it's my guess we'll see
+we'll see we'll keep an eye on it i
+think you might be right on that
+we'll link uh we'll check up on this
+next episode when we know
+but uh let's take a quick break we'll
+come back we'll talk about
+space
+[Music]
+this episode of waveform is brought to
+you by mini cooper se
+so you may or may not know since i try
+to be subtle about it i do really enjoy
+electric cars
+so the mini cooper se is electric it's
+charged for the city and ready to spark
+up your drive
+so it's a zippy little car designed to
+be as stylish as the city you drive it
+in
+and unlike other evs the mini cooper se
+doesn't look like it's out of a sci-fi
+movie
+it still maintains this classic design
+that won't look out of place driving
+through the streets of new york city
+can confirm driving the mini cooper sc
+was really fun
+because it handles it's a mini it
+handles like a go-kart and uh
+maneuvering through traffic
+safely of course on the way to grab
+lunch was a breeze
+parking is super easy in a mini so
+there's some of the stuff
+it is important in new jersey in new
+york so it's actually pretty roomy
+inside considering andrew and i are both
+pretty tall both sitting in the front
+seats
+two people over six foot plenty of
+headroom plenty of foot room
+i was pretty happy with that yeah and uh
+it gets up to 80
+charge in just 35 minutes with fast
+charging at level 3
+dc charging stations or just charge
+overnight at your home with a regular
+ac charging outlet plus the electric
+digital instrument cluster puts all the
+important things right at your
+fingertips so it's this unique looking
+circular instrument cluster in the
+middle of the car makes listening to
+your favorite music or podcast in the
+morning
+as simple as can be plus the lights
+around the screen
+move as a dial when you adjust things so
+if you turn the ac
+up it lights up the outside of the
+circumference of the dial
+we had a lot of fun like trying all the
+different things like volume ac
+and everything same so that was pretty
+cool and it's refreshing actually just
+having real knobs inside of a car to
+change
+mode so that's all there the way it is
+in a normal mini cooper so if you're
+interested
+uh if you're in the market for a compact
+stylish quick little car to get you
+around the city then it's worth checking
+out
+the mini cooper se to see if it's right
+for you all right so
+we're back i have kind of
+a lot to teach you i feel like does that
+make sense
+let's do it okay so i'm sure you saw
+like just in general going to space has
+been
+the topic of headlines everywhere i
+think a lot of it has to do with spacex
+obviously and elon consistently talking
+about
+colonizing mars yep what would you say
+last five years that's really like blown
+off
+plenty of time i mean yeah humans need
+to be an
+interplanetary species that's the that's
+the
+halo sentence i keep hearing sure yeah
+so
+that's a little more intense than what
+we're about to talk about um but
+in this past week a big news headline i
+think it was like two or three days ago
+was richard branson and virgin galactic
+making it to space and i was
+peripherally aware that this was
+happening i wasn't following it
+specifically i was traveling i was
+playing ultimate but i think i was in a
+restaurant and i saw it on tv
+it was just happening somewhere after
+branson went to space oh okay
+got it cool yeah so the first thing i'm
+i'm still struggling what to call this i
+like whenever i think about space i want
+to call it space
+travel but to me that feels like
+something more along the lines of like
+i'm traveling between places in space
+which this is
+very much not space tourism tour okay
+that's what
+that's what we'll call it space tourism
+so so i'll explain a little more the
+like scientific name of what they're
+doing but that's just not fun to say
+over and over again okay um
+all right so like you i kind of just
+peripherally saw this
+on i saw it on twitter instead it was
+this really cool video
+of them like up in space richard branson
+and i believe it's
+five other crewmates were in space
+floating around
+looking down on earth you know like the
+typical in space thing but but what
+really
+really like interests me is they showed
+footage of
+it launching up into the last couple
+like miles into the atmosphere
+and it was like crazy it looked really
+really cool
+it kind of reminded me of when we first
+saw the spacex rockets like
+re-entering and landing upright that
+looks surreal it looked
+literally fake like cgi and that's what
+this kind of looked like so it intrigued
+me enough to
+dive into a rabbit hole of trying to
+figure out what's going on in this kind
+of like
+we'll call it a modern day space race
+because richard branson's not the only
+one doing it we all also know about jeff
+bezos and blue origin
+right going up there was actually a
+headline recently about them passing
+their last regulations and they will be
+launching july 20th so like
+we're talking the same month two people
+that's pretty
+base tourism is jeff personally going
+awesome
+jeff jeff and his brother are going it's
+hilarious yeah
+so that's um all that intrigued me i
+watched a bunch of videos i read a bunch
+of articles
+the best one to me was uh from a channel
+called everydayastronaut um i'm sure
+you've heard of them
+if you are a long time fan of the
+channel you've probably heard of them
+because we
+participated in something called project
+love day which was shooting a commercial
+for tesla he made a great one he made a
+fantastic one
+yeah he did was he a placement finisher
+yes
+right he was i i don't know if they did
+first second third we
+we won i'm still very proud of that
+video i liked it a lot i re-watched it
+last night um
+but if i'm being honest i kind of think
+his was the favorite one that we
+didn't make
+yeah sure i i thought his was fantastic
+but he made a
+wonderful like 30 minute video comparing
+virgin galactic
+and blue origin and everything that's
+going on i will definitely link it
+and their project love day in the show
+notes you should check it out um i'm
+going to try and do
+a much more condensed but still pretty
+long explanation of what's going on and
+i want to see your
+your thoughts i'm not excited all i know
+all i know right now is
+it's basically a race between these
+billionaires to get
+to space for bragging rights it is the
+billionaire midlife crisis
+i think adam described it as and i
+thought it was hilarious we're past
+corvettes we are now
+building spaceships as
+your mid-life crisis so a bigger
+spaceship so if we get past the point
+that these are just a bunch of
+billionaires racing to get into space
+the rest of it's really interesting
+okay sure um okay so
+what kind of amazed me is how different
+despite
+launching in the same month how
+different both of these ways of getting
+into space are
+um and and the big thing here that's
+different between spacex which is going
+up and bringing people to like the space
+station
+and literally going into orbit is these
+are sub-orbital rides yeah
+which is very very different these are
+not going high enough to actually get
+into orbit hence the name and
+while it's still breaking the barrier
+into what we consider space
+and getting into space it is a very
+short ride
+into space yeah i think this is where
+i'm like
+you know it's probably semantics but
+like calling it going to space is maybe
+a bit
+generous like obviously planes are going
+up to let's call it 30 000 feet
+that's what six miles up something like
+that but then you've got you know
+other much more higher flying aircraft
+military planes other things like that
+flying
+much much higher in the atmosphere but
+they're not in
+orbit in space like when i think of in
+space i think like the space station
+orbiting the earth 250 miles from earth
+that's
+that's in space so i'll give them that
+so there's sort of a couple
+like you know lines that have been drawn
+where you pass this line what is it 50
+something miles so there's something
+something called the cameron line which
+is like widely known as the start of
+space and that's 60 miles
+above the earth's surface okay and so
+then but you're still not orbiting the
+earth you can do a temporary free fall
+and have that weightless feeling but
+you're not orbiting the earth at that
+height so
+so they're just getting past that line
+just for bragging rights is that what's
+happening
+sort of all that's one of the key
+differences between the two and i'll
+explain it um
+but uh let's see so that got me a little
+off track but i
+will get on track here what we're going
+to do is i'm just going to kind of
+describe both
+both of the ships to you so where do we
+start then uh i'm going to start with
+virgin atlantic they did it first
+um also one little note i thought was
+funny they weren't supposed to launch
+until
+august or richard branson wasn't
+supposed to go until august i think they
+were still doing test flights
+and he decided to just go a little
+earlier i wonder why
+yeah i wonder why jeff bezos is right
+around the corner he claims
+not for that but like come on also just
+admit it i think that'd be
+yeah just say it just i want it to be
+just i wanted to be and i did
+eat it jeff yes just say it okay um all
+right so the virgin galactic
+spaceship where it is called the
+spaceship two unity and i still have a
+little confusion here because it's
+actually
+two separate vehicles um in how they
+launch
+so i believe the unity is the name of
+the vessel that the
+pilots and the people are in and the uh
+and one thing between these two what's
+very different between them is that
+these are like
+for non-trained like this is for
+commercialized
+space travel tourism whatever you want
+to call it whereas you know
+nasa and spacex is much more
+like those people are trained to do
+stuff you have to be yeah yeah so these
+pedestrians can be in this exactly these
+are being made
+for the commercialized space tourism um
+so anyone can get a c
+and the plane for virgin galactic is
+imagine almost two medium-sized planes
+and they're connected at the inside wing
+it almost looks like if you had a
+catamaran boat i think that's what i saw
+on the news
+yeah this crazy looking like plane but
+it was like three planes connected
+it was a very strange site but exactly
+and then the one the people and the
+pilots are in are is actually like
+underneath it in the middle okay so if
+it then
+takes off it flies to a certain altitude
+which i still think was
+two or three times the altitude of what
+a regular plane
+flies at so still very high i think it
+is actually
+high enough to where you still see the
+dark edges around
+the earth okay so like that's pretty
+impressive and then
+this is what got me interested in all of
+this there's a video of
+the bottom craft it detaches from the
+plane as it is flying
+falls rocket the thrusters the boosters
+whatever you want to call it i'm sure
+there's official name that i'm doing
+wrong
+take off and it just launches past
+the the initial docking plane i guess
+you would call it okay
+and then goes mach 3 i believe three
+times the speed of sound
+straight up into the air and into space
+and it
+was it looks like straight out of a
+james bond movie it looks like it was
+some sci-fi thing like it was another
+one of those like the spacex
+rockets landing that no part of me
+believed it was real
+at first yeah um and then essentially
+what that accomplishes is
+after it detaches launches into space
+it gets you just high enough i believe
+it's 55 miles above the earth's surface
+so not quite the cameron line
+and all right let me watch this so
+what am i saying describe it also for
+audio listeners so i'm seeing the
+virgin galactic plane go up it does
+really look like
+two planes attached to each other which
+is pretty funny
+oh there goes your speed 600 miles an
+hour 2000 miles an hour all right this
+thing is
+popped out of the bottom of the plane
+and is now rocketing to 30
+000 feet that doesn't seem
+i don't think that is okay now they're
+sub
+orbital falling yeah that part is cool
+i like that you still can feel this
+you can feel zero g which is which is
+obviously super cool
+but also the fact that you're so far out
+of
+the normal atmosphere that you can see
+the curvature of the earth and you can
+see the spheres around
+you you're definitely high enough that
+you're seeing the space around earth so
+that's what i think is like the big
+difference here kind of between
+what you're talking about like there's
+no there's no other airplane that's
+getting that high and what it actually
+does is
+it launches itself straight up and then
+if
+the wings it almost looks like a paper
+airplane with the wings it has these
+like
+very flat wings that go all the way to
+the back and those
+turn and then use um air compression
+to actually flip it kind of upside down
+so then you're looking back at earth
+because it has windows above the seats
+that's smart and then for
+here's the kicker it's only about three
+to four minutes that you're in space
+you unbuckle yourself you experience
+weightlessness for a couple minutes they
+have these
+really cool windows that have like
+handles on them so you can you know grab
+yourself because you're floating around
+once you're unbuckled
+uh grab yourself look out the window
+check out earth
+um for four minutes buckle back in and
+then because it looks like kind of a
+small
+private plane then you come back down
+and you just kind of
+coast like a regular plane and land
+totally normally on a uh
+an airstrip honestly that sounds pretty
+fun it does that sounds pretty fun
+so what is sanao the jeff or the jeff
+blue bezos blue origin version how is
+that different
+very different so the ship it is the
+blue origin new shepard is the name of
+the ship
+and it is much more similar to what we
+expect as like a regular like
+nasa rocket a rocket a rocket it is yeah
+and i i always get kind of confused
+about the rocket engine i
+believe is the large standing booster
+that sends the thing into space and
+generally comes back
+down to earth what's cool about this
+is essentially the passenger capsule is
+on top of the rocket so imagine a rocket
+with maybe a little more of a
+circular top because that's where we're
+putting the passengers again this is six
+people that can fit in here okay the
+difference here is that it's fully
+autonomous
+so in the other one you need two pilots
+interesting this is fully autonomous
+anyone in there doesn't need any
+training on how to land this capsule
+okay so first i i think that sounds kind
+of freaky it sounds
+terrifying because they're like what if
+something goes wrong who's gonna save us
+but okay
+there are a lot of really cool safety
+measures that i don't remember
+everything about them so i would check
+out the video if you get a chance
+yeah but um it's basically just this
+circular table
+or not even a table a circular like ring
+of seats looking at what is actually the
+largest windows to ever go to space i
+think that's pretty cool which makes
+total sense in like a tourism consumer
+fashion
+rocket launches up straight into the air
+when it gets to its peak the capsule
+detaches
+throws you up around 62 miles in the air
+so this is
+over the official cameron line which is
+definitely a bragging right although
+because the other one richard branson's
+did not cross the line i didn't cross
+the cameron line
+technically but from everything i've
+read most scientists agree that there's
+almost no concernable difference between
+the two when you're at that point
+i'm sure the difference between 55 miles
+and 75 miles
+above earth is it's like when you're
+starting to lose scale
+exactly it's very far both of them but
+okay yeah um so
+that does bragging rights to uh blue
+origin you're making it over the cameron
+line
+exactly um again though three to four
+minutes you get up there you can
+unbuckle you can float around
+and then what happens here is you start
+floating you descend you descend
+three parachutes come out you float back
+down into the desert of texas
+and then a bunch of air compressors
+shoot out at the bottom to make it like
+a really smooth landing which i thought
+was actually really neat because
+these thrusters do so like exert so much
+power to even you out
+actually when you look at it it looks
+like it's impacting really hard because
+dust is flying everywhere but that's
+from the booster
+yeah um so much that if two of the
+parachutes were to fail
+it would still get you down without
+life-threatening injuries which
+probably still means it's pretty
+impactful but you're not dying but yeah
+um
+good backup but yeah another just
+capsule you float up in the air
+uh three to four minutes space again
+pretty cool i guess so here's a question
+here's my question for you
+is three to four minutes worth it
+well i guess we need the dollar value do
+you want the dollar value because
+oh we have that virgin galactic sold 600
+reservations already
+okay so what how much is that that's
+it's very expensive take a guess okay
+well uh i'm gonna go with uh
+ten grand a seat
+two hundred and fifty thousand two
+hundred
+fifty thousand dollars so i guess the
+novelty of these
+early tickets is you're one of the first
+yes so less than a thousand people have
+been up that high
+just that's that's the novelty ever
+that's what you're paying for yeah
+that's exactly what you're paying for
+okay actually if you want to even go a
+crazier price which is totally
+not comparable blue origin doesn't have
+a price yet i don't believe they've
+taken reservations they've done a ton of
+test flights and this one coming up will
+be the first time
+anyone's in it it's jeff bezos his
+brother i don't know the other but
+apparently one other
+seat was sold for them and it was like
+26 million dollars
+but this is you're going up with jeff
+bezos and like all that so i'm sure
+clearly another oh man billionaire
+probably dollars per minute that's
+hilarious
+per minute oh that's the other thing
+though is the total flight trip of blue
+origin is probably is like 10 to 15
+minutes because you're just
+launching up and you're coming straight
+back down yeah the total round trip for
+virgin galactic is closer to two hours
+because it takes you
+so long to ascend to that initial launch
+point
+and then you're flying the whole way
+back down
+so in some cases it's maybe like all
+right i have more time to experience
+everything honestly honestly when i'm
+hearing this described i think the
+the the virgin galactic one sounds
+better like as an experience like i'm
+not gonna do this anytime soon most of
+us
+probably would but if i'm imagining like
+all right
+i want i have this crazy amount of money
+i want to blow on the novelty of going
+to space
+um both of them are going to give you
+three to four minutes of
+in space weightlessness space tourism
+that whole experience
+but i think the uh flying up in an
+airplane part will probably be more
+comfortable than a rocket launch yeah i
+actually
+they didn't talk much about about like
+the initial thrusting and everything
+yeah
+like i i feel like i've seen enough
+rocket launchers to know that's that's a
+very different experience than
+flying up on a plane flying i've flown
+in a plane it's you know
+maybe that's a little more comfortable
+but then
+but then yeah just having that that
+crazy
+three to four minutes and then it's over
+and then you just have to remember that
+forever maybe they'll record it like a
+disney world ride oh my god and then
+what charge you ten thousand dollars
+yeah you spent 20 mil on the tickets so
+you got another 500 grand for this video
+of you oh my god
+um yeah wow well i
+so in the future someday like really far
+in the future
+yeah this will be just another theme
+park attraction
+right that's the goal is you want to be
+able to do space tourism
+commercially viably repeatedly often for
+everyone like let's make space a
+curiosity that anyone can
+check out go to the zoo one day go to
+disney world one day go to space one day
+i don't know how far in the future that
+is but that's
+something i'm optimistic about and like
+hoping i get to do someday and i hope
+like you know everyone gets to everyone
+as many people as possible get to try
+out
+but uh yeah it's as you know as long as
+today a
+a you know a plane ticket costs 100 200
+bucks then i feel like that's about as
+low as you can go for a
+flight to space yeah i don't think we'll
+see a hundred two hundred dollars in
+space in our lifetime but um
+i think you you did mention something
+that i didn't talk about that i think is
+really important is you said
+you know doing this consistently all of
+this is reusable like
+the the planes are obviously the blue
+origin since it's a rocket engine it's
+similar to spacex and where it can
+it lands itself again and they've done
+like 12 trial runs and it's worked every
+time
+it actually has enough thrust
+to get to the point of hovering before
+it lands so it actually lands
+softer than falcon the difference is
+falcon is
+massively bigger than blue origin yeah
+well
+falcon's not landing with the people
+still on it is it no yeah yeah
+um but still much much different scale
+size but uh that's pretty awesome
+and then for those of you this is like
+my main thing when i think
+why clearly space is an interesting idea
+but when i originally thought why it's
+like
+that is a lot of fuel is it worth just
+like
+throw like blowing emissions out to just
+like
+go into space for four minutes i have
+good news and bad news
+virgin galactic is just using like
+pretty
+standard fuel and has a lot of emissions
+blue origin is using
+liquid hydrogen and liquid oxygen so it
+has almost no emission
+wow i believe so at least it is the much
+greener option out of the two if that
+changes your mind at all and that's
+the largest windows and in space that
+part is really cool i think it's for me
+maybe uh i've seen too many failed
+rocket landings to where like if i could
+have a horizontal takeoff and a
+horizontal landing i'd prefer that like
+you said 12 tests
+and like i hear you oh no trust me i'm
+not getting in either of these
+anytime but you tell me like all right
+they've done this rocket it's launched
+12 times in a row and it's been great
+all 12 times so you want to get on the
+13th one
+no not really oh yeah i've seen a lot
+more successful
+flights like take off hardly if i'm
+being honest if i could pick anyone
+right now it would just be if i could
+somehow get on the plane that launches
+the virgin galactic and just
+getting to that you know about three
+times higher than a regular commercial
+plane seeing the dark edges and i think
+i would be pretty
+down with that we were talking about the
+concord a little while ago about how
+that plane was supersonic and i have to
+go higher than normal in the atmosphere
+because it's thinner up there
+it would go way higher and go across the
+atlantic in like two hours and land and
+that was crazy but
+yeah i just i want to see i want to see
+the curvature of the earth
+and a little bit of that that edge of
+the atmosphere type space that would be
+it would be awesome um cool i have one
+more question for you okay
+we we obviously see spacex talking about
+going to mars and everything like that
+and elon seems very interested in space
+in fact i think he may have already
+booked a flight on one of these um i
+think the virgin galactic
+but um do you think spacex ever
+looks at this route of like consumer
+space tourism or are they just gonna be
+full-blown on the like
+we're trying to colonize mars we're
+trying to get into space
+do you think spacex is going to go this
+tourism route or more
+focused on their mission of you know
+intergalactic
+it's a good question yeah from what i
+can tell
+that is the mission okay is um i kind of
+think so
+yeah making reusable rockets where you
+when you inevitably
+need to take a flight to mars and
+obviously you you get the boosters
+to get you out of the atmosphere and out
+of orbit and then you bring the boosters
+back down like you need to get
+a lot of stuff to mars a lot of people a
+lot of cargo
+and so to be able to reuse those rockets
+over and over again like that's the
+thing that they're trying to solve
+and i think maybe a consequence of the
+technology getting good
+enough is you are able to also bring
+people to space
+and make these cool you know suborbital
+flights for space tourism and that's
+pretty neat and that satisfies a lot of
+the curiosity
+that we're interested in i'm sure neil
+degrasse tyson would be pumped about it
+but uh i still think yeah the the
+primary
+mission of improving rockets
+and making them reusable is to
+eventually
+be able to move things to other planets
+and to other places and then humans are
+interplanetary and then everybody's
+happy
+but again this is all like a will any of
+this happen in our lifetime type thing
+like i don't know i want to be
+optimistic
+maybe when your grandkids are keeping
+waveform going in like
+200 years they can talk about it that
+would be cool
+we'll see that'd be cool um yeah so i
+think last thing on there is if you
+really want like a way more in-depth
+video on this
+uh everyday astronaut great channel has
+a lot of cool stuff on this and
+obviously we'll probably be making a ton
+of content because blue origin launches
+in like two weeks
+yeah yeah so i'm ex i'm really excited
+to then see
+that launch as well and see some video
+from up there and kind of compare the
+two
+because it's really awesome that we live
+in an age with such great cameras that
+we kind of get to experience it with
+them
+100 all right let's take a quick break
+we'll come back and we got to talk about
+one last thing which is uh the hot take
+we mentioned at the beginning
+we'll see how it goes this episode of
+waveform is brought to you by
+sennheiser so while the truly wireless
+earbud market is uh really exploding
+over the past couple years i feel like
+no one has really put
+high quality sound as their first
+priority but sennheiser has changed that
+with their momentum
+true wireless 2. now we've all tested a
+bunch of headphones here
+do you have a go-to song you listen to
+when you do
+you plug in headphones for the first
+time what are you what are you trying i
+mean we get a lot of headphones here so
+yeah
+um i think i have to go with
+ever since i started listening to dead
+mouse let go
+it's just like he has so many different
+instruments and synths and stuff that he
+uses that i feel like when i'm using
+better headphones i really start hearing
+like little things out like so that's my
+fun one
+yeah that i hadn't heard before i know
+how i know exactly how ongoing thing
+sounds like every pair of headphones um
+sennheiser has always been a go-to when
+it comes to
+audio equipment for the channel i've
+tested everything from the the
+hd6xx to the hda20s that i've edited
+with i've always loved how focused they
+are on delivering the best
+quality sound possible uh so sennheiser
+always puts their sound first so these
+new momentum
+true wireless twos deliver the best
+listening experience
+and they have been finely crafted for
+even the most discerning listener of
+earbuds
+so you can customize them with the free
+smart control app
+and adjust the sound to your personal
+preference with the built-in equalizer
+and you can also switch off your
+surroundings and dive deep into that
+impactful sound
+because there is active noise
+cancellation in these as well and the
+momentum true wireless 2 also have a 28
+hour total battery life
+with the case so you never have to worry
+you'll be able to last a whole day with
+these
+and uh if you're looking for something
+other than earbuds sennheiser actually
+has
+over-ear headphones and sound bars and
+all kinds of stuff for your audio needs
+i can't say i'm surprised cnn called
+these the earbuds to get if you value
+sound quality over everything else
+because
+that's what i would say too so why
+settle for anything other than
+great sound come hear the difference
+with the sennheisers
+right now for my first hundred listeners
+who go to cenazer.com
+podcast and use promo code waveform uh
+you'll get
+15 off the momentum true wireless two
+earbuds or any other
+sennheiser's amazing headphones so
+that's 15 off when you go to
+s e n n h e i
+s e r dot com slash podcast and use
+promo code
+waveform all right welcome back to our
+new segment
+introducing the hot takes segment we're
+your hosts
+uh that's all this far i got with the
+intro
+wonderful but we'll workshop that i
+think it'll be fun basically
+uh the tech world is full of hot takes
+and we always have random
+you know things that we were thinking
+but we don't really
+say but also maybe other people are
+thinking them too and we'll just put
+them out there and see how it goes
+um my i'm starting off kind of spicy
+with my hot take and we've got
+i don't you you don't have any hot i
+couldn't think of one i might have to
+borrow some i think adam's got a couple
+over there though so we'll let him toss
+a few out
+we'll have him we'll borrow some of
+those but let's just uh let's just dive
+right in because i want to see
+how far this gets before i end up either
+canceling myself or we'll see
+we'll see all right number one i'm gonna
+start with uh we were talking earlier
+about
+uh celsius and fahrenheit yeah so this
+is my
+this isn't even my hot take this is
+something i saw on twitter and thought
+about and i was like yeah you know what
+i agree with that
+that yes the u.s should
+move to metric but okay
+fahrenheit is better for weather
+and that will be the reason we don't
+that will be
+oh okay yeah there's a lot to impact
+there because that didn't start off that
+was like
+cold so i think yeah we can all agree we
+should probably go to metric right right
+right the imperial system is insane we
+have feet we have
+all these weird like degrees fahrenheit
+versus like ounces and all these crazy
+things we don't really
+gowns versus liters all these terrible
+and we're not even that consistent with
+it like
+soda is sold in liters but milk is sold
+in gallons
+gallons gasolines and gallons versus
+fluid ounces
+like i'm asking google for conversions
+all the time i would love to switch to
+wait wait can i throw out just a little
+gripe i have that's really relevant
+right now
+google home when i ask you to convert
+something
+just tell me the freaking conversion i
+don't need to know how to convert it i
+bought you for a reason
+please just say yes that is you like one
+cup is equal to
+x amount of grams you have to ask it the
+perfect way or it'll go
+i don't want to that's its job that's
+not my job it's not paying me money to
+learn how to do it
+okay anyway yeah so my my thing is
+fahrenheit and just the the scale that
+we use for weather this isn't even for
+anything else like water boils at 32 or
+freezes at 32 but boils at 212 in
+fahrenheit like there's
+it's a weird system but uh for weather
+humans are very sensitive to temperature
+change and there is a real difference
+between
+68 and 72 and
+you know obviously decimals aren't the
+hardest thing in the world to get
+but that was the one argument i saw on
+twitter which is like
+if we could just use fahrenheit just for
+weather just to go from like
+our you know negative 10 or whatever to
+105 degrees
+that that granularity it's right there
+in the system itself you don't have to
+use decimals
+nearly as often that's the reason i
+think
+fahrenheit so stubbornly stays and if
+you keep
+fahrenheit for degrees then i guess you
+got to keep fahrenheit for all
+temperature measurement instead of just
+weather you also now measure like water
+boiling and
+all the other things now we're just
+stuck on imperial forever so
+i think i think because of how great
+fahrenheit is for weather
+we're stuck i still that's my hot tub i
+kind of
+understand your point in that like
+if there's a difference between the like
+generally four degrees
+in like you know 68 to 72
+i don't know if i really buy that that
+much i don't think there's much
+i i will agree if i look on the weather
+and it says
+70 if it says a number in the 70s versus
+number in the 60s like that to me
+i'm happier i don't know if i go outside
+and i generally
+feel the difference all that much i
+still think it gets confusing though
+where it's like
+snow at 32 degrees not at zero
+yeah i mean we're clearly not hitting
+boiling yet i mean we're well on our way
+to getting boiling outside but um
+i don't know i sound like such a
+fahrenheit stand but let's
+listen temperature like think about like
+grades you get in school
+like the difference between a b between
+a b and a b plus no oh really it's like
+84
+is a b such a different 85 is a b then
+86 is a b
+plus like why did we go from 85 to 86
+being b
+to b plus you'd rather have a b plus
+than a b and that difference
+is one and that's like a zero to 100
+scale our temperature that we live in
+here is generally a zero to 100 scale
+sometimes it's a little below zero or a
+little above 100 but generally that's
+where we're living
+like the granularity in that perfect set
+of numbers
+just from zero to 100 is what makes
+fahrenheit
+great everywhere else it sucks yeah
+everywhere else it sucks
+i'll give you this if it were a
+if we were in a bubble and the only
+thing that would change
+if i could only pick fahrenheit versus
+celsius and nothing else like really
+mattered like
+sure i'll pick fahrenheit over celsius
+because it's a tad bit
+nicer but if we're just talking there it
+is agreed if we're talking about the
+whole thing like i would rather change
+everything to metrics and then get
+celsius and of course
+do away with fahrenheit and be like oh
+no it's
+60 or it's 20.5
+degrees celsius yeah i just remember
+like changing the degrees in the car
+would be like 19.5
+20 20.5 i'm like that's interesting it's
+going by 0.5
+whereas like i'm just going by the car
+argument might be a better argument if
+you want to make that
+i think because like if i'm in a lot of
+cars now the temperature gauge it's not
+just you know
+red and blue it's like you're doing an
+actual number and when i'm picking a
+number
+i'm picking sometimes i am just going
+down two degrees fahrenheit
+yeah so like that that's probably i
+think that's the better way of like
+air conditioning air conditioning
+temperatures there is a very small range
+of air conditioning temperatures you
+might go from
+65 fahrenheit to 75 fahrenheit that
+at least in this region in the u.s like
+65 to 75 fahrenheit is
+10 fahrenheit degrees which is probably
+about 5
+celsius degrees so now you're doing
+anyway this is all nitpicking
+i would much rather have everything go
+metric and accept
+the one downside of celsius being less
+accurate in the middle
+i'm tired of feeling like an idiot going
+to other countries just not
+understanding
+anything at all yeah i mean that's
+mostly on me but if i can blame it on
+the us i would prefer to blame it on
+someone else oh school systems
+all right adam yeah it's hot take time
+okay are you ready to potentially have
+both of us go out oh i'm ready bring it
+on okay
+okay my hot take is foldable phones are
+not the future
+foldable phones and do you have a reason
+or it's just uh not feeling it
+i think that they're gonna be very niche
+in the way that like the note series for
+the galaxies were niche but most people
+are not gonna wanna deal with
+one extra step before getting to their
+phone i think by the time that foldable
+phones are
+ready quote-unquote there's gonna be a
+different form factor that we're all
+using
+you know what's funny i actually don't
+think that's a hot take damn
+i think that's probably what most people
+also think they see a folding phone
+i agree i think it's funny because i'm i
+i'd consider myself
+pretty optimistic where i think if the
+tech gets good enough
+that folding in half is just one more
+feature i've said this before
+then maybe people will just get the
+folding version
+and it's just a no-brainer but that is a
+lot of assumptions
+that's that's a lot of tech that has to
+improve to make that possible
+i would go i don't think folding phones
+are in the next 10 years are going to be
+anything more than
+super niche um i think if they do get to
+a point
+so your main argument i feel like is the
+extra step
+we're seeing the outside screens where
+like in general they should be just as
+capable as your regular
+candy bar phone right now um the problem
+is they're super thick and they're just
+not
+like we're not at that point yeah we're
+actually the first full that was
+terrible that was the first one yes so
+we're in like
+generations generations two and three
+right now so if we're going the next 10
+years imagine it gets better the next
+one and the next one and the next one
+and the next one
+and the cameras get better and the
+screens get better and the batteries get
+thinner and everything about every
+single component that makes them too
+thick right now
+or a little too unwieldy right now all
+the hinges get smoother
+everything gets better for eight more
+generations in a row
+will that still not be good enough don't
+know
+i'm optimistic i think it has to reach
+that point
+and has to reach that point with a price
+point that's
+competitive prices and everything else
+yeah yeah price of the future um
+yeah i don't know yeah i don't think so
+i don't think even if everything got
+perfect i still don't think do you have
+a
+guess at what the different form factor
+might be because i i love this question
+we've had this conversation before
+and i really enjoy people thinking about
+different form factors of phones
+so this is going to be very boring but i
+think we have the perfect form factor
+already
+yeah just a slab of glass and i think
+about that a lot yeah when you see a
+future a movie that takes place in the
+future
+they inevitably just have like a candy
+bar factor form factor thing with like a
+projection at best
+i was gonna say i is the new form factor
+essentially like a projection
+or even like a almost like a
+non-physical thing like let's imagine
+google glass in the future
+where now you are seeing your phone in a
+viewpoint that only you can see
+and like you know hand movements or
+something is what's actually doing the
+typing
+well that's that's more than 10 years
+because like who cares about who cares
+about a screen that can fold to be
+six inches when you can have a screen
+that's 60 inches that only you can see
+i think there's going to be a lot of
+that but i think that the main hub
+of all of the computing that's going on
+is still going to be the phone
+in your pocket yeah i agree i think i
+think i've
+i consider myself short-sighted when i
+think that
+but i i can't help but think that so i
+would still call it a hot take though i
+think there's a lot of people that would
+disagree with that
+and i just we'll see about those
+comments yeah i'm actually really
+interested in people
+if people on our discord in the podcast
+uh discussion section i would really
+like to hear your opinions because
+i kind of do i don't know i think
+they're going to be a thing
+eventually i just think we're way
+farther than we think it might not be a
+hot take but it's a slow burn
+slow burn yeah all right hit us with
+another one
+all right another one garmin makes the
+best smart watches
+that is a hot take i i would say
+now i've never i've never used a garmin
+smartwatch
+but when you say the best smartwatch my
+brain immediately goes to apple watch so
+now you have to kind of probably qualify
+best smartwatch overall or best
+smartwatch
+that isn't for the iphone i would argue
+best smartwatch overall
+because even with apple devices the only
+thing that people
+genuinely care about is notifications
+and health features
+and garmin is just as good if not better
+with health features
+and the higher end models which are
+super expensive also handle
+notifications very well
+they just don't plug into iphone the way
+that the apple watch does for obvious
+reasons
+i think that's maybe the reason the
+apple watch has such a strong foothold
+and i think the reason the apple watch
+is the most popular watch in the world
+isn't because it's like
+you know technically better than the
+garmin's
+but it does plug into the iphone user
+in a way that none others can and it's
+almost unfair that that's what makes it
+the best smartwatch
+but that's a big part of why it's the
+best smartwatch popular or best
+both it is the most popular because it
+is the best option and i also think
+aesthetics might be a little of a
+underrated thing since it is
+technically a fashion accessory a lot of
+people do you think it goes in favor of
+in favor of the appalachia
+i would argue the exact opposite i would
+argue
+the majority of people who enjoy and i'm
+sure adam consists
+he's a watch person that's true if you
+are a watch person the apple watch is
+not something you're excited to get
+but how many how many humans on earth
+are large people
+uh watch person there are
+there are a lot i mean you can be a
+watch person without being like a
+rolex like expensive watching person
+like
+but watches just in general like in
+terms of the fashion accessory that they
+are
+and like if we're talking about wearing
+a watch with like a suit or something
+like that or as a like
+kind of dress up fashion apple watch
+doesn't quite
+hit that where sure regular watches do
+and garmin watches are closer to that
+now i
+also have a garmin watch that i would
+not consider like
+really looking that much like a normal
+watch because it's a very standard
+version of it but i do
+love it for the health features that it
+has i'll only really wear it when i'm
+working out
+um it's fine i think the one adam has is
+much much nicer than i have and it looks
+like it just looks like a watch that's
+what watches look like these days
+i think you might i think i could agree
+with that the garmin watch is a better
+smart watch for some people
+but i think the apple watch
+is actually for a lot of iphone users
+the best
+available overall smart watch for iphone
+use well so here's the thing
+there's a lot of people and i also think
+in terms of most popular
+if you are looking at a garmin watch to
+buy and you're not 100
+sold on it already you're looking at
+other companies that make things that
+are similar
+if you are in the market for just a
+smart watch and you only have one option
+apple watch doesn't have competitors in
+my eyes because the people who
+an apple watch works for it doesn't have
+a
+competition really yeah does that mean
+it's the best
+you could probably argue that yeah yeah
+well i mean that they're saying
+it's because iphones are very popular i
+gotta try one
+that is a hot tape i do i'll i'll end it
+with this i need to try a garmin
+smartwatch because i have not tried one
+yet if you want to go into a lot of good
+looking ones because i
+do believe also there are a lot of ones
+that also have the secondary
+uh like monitors that you can hook up if
+you're trying to get like really intense
+uh yeah because most body measurements
+and stuff like that most of what i use
+most of what i use to watch for is the
+health features
+meaning fitness tracking and that sort
+of thing uh
+time and notifications and then sort of
+like a
+once in a while i'll be like what's the
+weather on my watch or i'll ask siri
+something but that's very rare so
+yeah i'm gonna try one of those out
+garmin definitely has everything you
+were just talking about sweet
+all right maybe one more one more more
+hot
+tape do you have any more i have another
+one what's the spiciest available
+remaining tape
+the spiciest one i have is clubhouse
+will be back it is not done
+interesting i think it is with a new
+with a new like feature is that how it
+comes back really i just think everyone
+kind of wrote it off already as a social
+media thing that flopped and failed it
+was just a pandemic kind of
+thing i think they're not done yet i
+think they're going to come back
+here's one thing i actually saw someone
+i used to work with who is not in the
+tech world at all
+posting that they were hosting a
+clubhouse just to like talk about
+something they were interested in and i
+was like
+this is not where i was expecting to see
+clubhouse talk yeah it pops up
+once in a while yeah yeah i i thought
+that was really interesting it's
+definitely broken into the mainstream
+which is sometimes for us tech people is
+hard to like
+really remember that there's not nerds
+out there
+well this is what happens the way i
+observe clubhouse was it was ios only
+and i i pay attention to numbers so i
+was looking at like how many people that
+i follow were actually using it in
+hosting rooms i think i
+when it was iphone only i think i had
+about 30 000
+uh followers on clubhouse oh wow and
+i i slowly stopped using it i kept
+getting notifications from it so i was
+like
+you know i could see when it was being
+used by people i followed
+and then one day i just checked back
+after android joined and i think i have
+300 000 followers on clubhouse so when
+you say broke into the mainstream
+i just think it became much more widely
+available and whenever that happens it's
+it drops a little bit of the allure of
+like how
+cool it was and that's like a very vain
+thing like it doesn't actually matter
+yeah but now it's like it is much more
+used now than it ever has been but not
+in that in the same hype
+type of way where like elon was dropping
+into random clubhouses when's the last
+time that happened
+um the the most popular show that i
+follow on clubhouse the good times
+uh i guess it's sort of a podcast
+basically uh you know had mr beast on
+and had
+you know addison ray on and had all
+kinds of these really interesting people
+on and i
+haven't really heard about any of these
+lately and maybe it's because i'm not
+paying enough attention but
+i'd be curious what clubhouse coming
+back
+looks like i guess what i'm saying when
+i when i said mainstream
+it's like all of what you said you know
+mr beast and
+addison ray aren't tech people but
+they're still like in this creator
+community kind of thing like people who
+follow
+social platforms and like the person i
+saw was just someone i
+used to work in a restaurant with that
+just like is not attached to
+any of these and this was recent it was
+like last week yeah
+and hosting a clubhouse room and posting
+about it on facebook
+and probably not getting a ton of people
+but just like even if they're just
+trying stuff like that i'm assuming
+they're getting a couple
+and like that does kind of feel like
+it's hitting a small
+social platform the early stages of it
+but
+it's a good yeah it's a good anecdotal
+indicator
+i just don't know it's about as
+anecdotal as you yeah i don't know i
+i remember zuckerberg get a room and
+like i don't know
+i just that sort of thing it's been a
+while since i've seen
+that kind of stuff so i wonder if they
+what
+what would it take for clubhouse to come
+back is my real question is it going to
+be
+some big social push is it going to be
+some
+big event that happens on clubhouse do
+you have a specific reasoning as to why
+you think it's going to come back my
+reasoning is very optimistic i'm kind of
+looking at it the same way that
+the same thing that happened to snapchat
+where snapchat came out with stories
+instagram copied them everything has
+stories now but snapchat still carved
+out a niche where it's killing it
+and i think clubhouse is gonna be the
+same thing but for audio
+where they can keep innovating and being
+creative with audio features
+they're going to have that niche audio
+audience
+i think that's possible because if you
+consider snapchat's current state a
+success i think clubhouse can
+can do that snapchat hated success by
+pivoting
+essentially though because like their
+big thing now is ar
+and like bitmoji is something they have
+a bunch of shows and
+they still do stuff they are not good
+i'm just saying they do them
+a show on snapchat like that might be
+one of the dumber things
+i've heard of but that's because we're
+not in the target audience they are men
+it's
+very true massive um so yeah
+yeah i guess i i would i can see that
+being something similar but then they
+would have to create
+some sort of special specialized
+something for audio that changes the
+industry and
+they might i mean clubhouse changed the
+industry already
+and it has a million competitors um it
+birthed all of its competitions
+yeah yeah interesting i like that one
+yeah we'll see we'll check back in in a
+year and see how wrong i was we'll see
+i want to leave we still haven't used
+clubhouse oh well i'm going to bring it
+back
+we're bringing it you can now we're not
+bringing it back i'm going to leave this
+question with people at the end because
+i think i feel like you can tweet at us
+or let us know in the comments section
+is clubhouse a feature
+or a social network is it an entire
+thing i think we've we've sort of
+dabbled in this but let us know what you
+actually think the answer is in the
+comments because at this point it's
+clear that
+lots of other companies believe it's a
+feature and that they can just build
+into their app
+and then there it is they've done it
+they've done what they had to do
+but clubhouse by itself could have
+something to it so let us know what you
+think
+in the comments i can just say if i were
+a clubhouse i would have sold out like
+immediately and just
+made a ton of money and then never sold
+to linkedin i would
+actually clubhouse would work really
+good on linkedin that sounds like the
+perfect place for a bunch of
+that is pretty funny hustle gurus to
+just like spew nonsense for a while
+there it is there's my hot take there's
+our first round of hot takes
+i thought that was a fun segment i'm
+really i'm kind of bummed i didn't think
+of one but i will definitely think of
+one for next time we have this segment
+we'll bring it back yeah bring it back
+well any of the case we'll be back next
+week
+we've got a bunch more exciting stuff
+coming up
+an exciting video i'm hoping to drop
+pretty soon and maybe an exciting car
+will be in our hands soon so we'll see
+about all that
+by next week but in either case make
+sure you're subscribed if you haven't
+already been
+on youtube and anywhere you listen and
+we'll catch you guys
