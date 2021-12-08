@@ -10,13 +10,13 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 ## The following are the project file structure for the Reddit Recommenders:
 
-<b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br></br>
-<b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br></br>
-<b>output-submissions.csv</b> - contains the submissions scraped from reddit in csv format, comma delimited</br></br>
-<b>output-submissions.xml</b> - contains the submissions scraped from reddit in xml format</br></br>
-<b>output-subreddits.csv</b> - contains the subreddits scraped from reddit in csv format, comma delimited</br></br>
-<b>ranker.py</b> - code for doing the ranking calculations of the pulled reddit/subrredit</br></br>
-<b>results.csv</b> - contains the results for the ranked filed</br>
+- <b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br></br>
+- <b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br></br>
+- <b>output-submissions.csv</b> - contains the submissions scraped from reddit in csv format, comma delimited</br></br>
+- <b>output-submissions.xml</b> - contains the submissions scraped from reddit in xml format</br></br>
+- <b>output-subreddits.csv</b> - contains the subreddits scraped from reddit in csv format, comma delimited</br></br>
+- <b>ranker.py</b> - code for doing the ranking calculations of the pulled reddit/subrredit</br></br>
+- <b>results.csv</b> - contains the results for the ranked filed</br>
 
 ## Module Details
 
@@ -24,7 +24,7 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 - <b>Description</b>: The scaper module is responsible for scraping reddit, subreddits and its submissions. In this module we are using libraries praw and pandas. Praw is the main library to scrape the tool and pandas for manipulating the retrieved data. Authentication is done via client id, and client secret and user id and password.</br>
 
-- The code file for this module is redditScraper.py
+- The code file for this module is *redditScraper.py
 
 - <b>Usage</b>: to use this tool, simple type "python redditScraper.py -l1 10 -l2 10"
 
@@ -33,10 +33,12 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 ### 2. Ranker Module</br>
 
-- <b>Description</b>: 
+- <b>Description</b>: The ranker module is responsible for ranking the list of reddits and submissions retrieved. This is using BM25 as the main ranking function.
+- The code file for this module is *ranker.py
 - <b>Usage</b>: 
 
 ### 3. UI/Flask Module</br>
 
-- <b>Description</b>: 
+- <b>Description</b>: The UI is done in html and the module for the web application is flask micro-web framework.
+- The code file for this module is *flask_main.py
 - <b>Usage</b>:
