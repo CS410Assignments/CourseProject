@@ -7,8 +7,9 @@ from gensim.parsing.preprocessing import remove_stopwords
 #from query rank subreddits
 
 def ranker(args) :
-    num = args.num
-    query = args.query
+    if type(args) != str:
+        num = args.num
+        query = args.query
     #remove stopwords from query
     thisquery = remove_stopwords(query)
     #read csv file
