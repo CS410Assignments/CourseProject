@@ -22,14 +22,14 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 ### 1. Scraper Module</br>
 
-The scaper module is responsible for scraping reddit, subreddits and its submissions. In this module we are using libraries praw and pandas. Praw is the main library to scrape the tool and pandas for manipulating the retrieved data. Authentication is done via client id, and client secret and user id and password.</br>
+- The scaper module is responsible for scraping reddit, subreddits and its submissions. In this module we are using libraries praw and pandas. Praw is the main library to scrape the tool and pandas for manipulating the retrieved data. Authentication is done via client id, and client secret and user id and password.</br>
 
-The code file for this module is redditScraper.py
+- The code file for this module is redditScraper.py
 
-<b>Usage</b> - to use this tool, simple type "python redditScraper.py -l1 10 -l2 10"
+- <b>Usage</b> - to use this tool, simple type "python redditScraper.py -l1 10 -l2 10"
 
-The first parameter "-l1" is the number of subreddits you want to scrape. The default is 5, and you can put any integer value
-The second parameter "-l2" is the number of submissions you want to scrape. The default is 5, and you can put any integer value
+- The first parameter "-l1" is the number of subreddits you want to scrape. The default is 5, and you can put any integer value
+- The second parameter "-l2" is the number of submissions you want to scrape. The default is 5, and you can put any integer value
 
 ### 2. Ranker Module</br>
 
