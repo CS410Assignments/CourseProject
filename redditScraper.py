@@ -52,7 +52,7 @@ if __name__ =='__main__':
     import argparse
     # Create the parser
     my_parser = argparse.ArgumentParser()
-    my_parser.add_argument('-l1','--limit_subreddit',type=int,default=10)
+    my_parser.add_argument('-l1','--limit_subreddit',type=int,default=1000)
     my_parser.add_argument('-l2','--limit_submissions',type=int,default=10)
     args = my_parser.parse_args()
     main(args)
