@@ -10,7 +10,9 @@ from gensim.parsing.preprocessing import remove_stopwords
 #Edit q to change query
 #Output is printed
 
-def ranker(query) :
+def ranker(args) :
+    num = args.num
+    query = args.query
     #remove stopwords from query
     thisquery = remove_stopwords(query)
     #read csv file
@@ -32,11 +34,11 @@ def ranker(query) :
     bm25 = BM25Okapi(tokenized_corpus)
     tokenized_query = thisquery.split(" ")
     #return ranked list with n number of documents with both subreddit and submissions
-    return bm25.get_top_n(tokenized_query, rows, n=2)
+    return bm25.get_top_n(tokenized_query, rows, n=num)
 
 def converter(q):
         #open csv file for wrting
-        with open('test.csv','w') as f:
+        with open('test.csv','w', encoding = 'utf-8') as f:
             #acess each element in the returned list from bm25
             for i in range(0,len(q)):
                 #write each subbreddit and submission to file
@@ -46,7 +48,11 @@ def converter(q):
     
 if __name__ =='__main__':
     #run ranker
-    q = "what these tiles"
-    #print(ranker(q))
+    import argparse
+    # Create the parser
+    my_parser = argparse.ArgumentParser()
+    my_parser.add_argument('-n','--num',type=int,default=10)
+    my_parser.add_argument('-q','--query',type=str,default="subreddit ranker")
+    args = my_parser.parse_args()
     #convert bm25 list object to csv
-    converter(ranker(q))
+    converter(ranker(args))
