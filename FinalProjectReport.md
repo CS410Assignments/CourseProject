@@ -1,6 +1,6 @@
 # <b>CS410 - Final Project Report</b>
 
-<b>Team Reddit Recommenders</b>
+## <b>Team Reddit Recommenders</b>
 
 Nico Calderon nac7@illinois.edu
 
@@ -12,7 +12,7 @@ Miguel Paulo Riano mriano2@illinois.edu
 
 Anthony Safo as95@illinois.edu (team coordinator)
 
-The following are the project file structure for the RedditRecommenders:
+##The following are the project file structure for the RedditRecommenders:
 
 <b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br>
 <b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br>
@@ -22,7 +22,7 @@ The following are the project file structure for the RedditRecommenders:
 <b>ranker.py</b> - code for doing the ranking calculations of the pulled reddit/subrredit</br>
 <b>results.csv</b> - contains the results for the ranked filed</br>
 
-<b>Module Details</b>
+##<b>Module Details</b>
 
 <b>Scraper.py</b></br>
 
