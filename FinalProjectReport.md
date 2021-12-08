@@ -3,16 +3,12 @@
 ## <b>Team Reddit Recommenders</b>
 
 Nico Calderon nac7@illinois.edu
-
 Ethan Choi ethansc2@illinois.edu
-
-Kimberly Martin kjmarti2@illinois.edu 
-
+Kimberly Martin kjmarti2@illinois.edu
 Miguel Paulo Riano mriano2@illinois.edu
-
 Anthony Safo as95@illinois.edu (team coordinator)
 
-## The following are the project file structure for the RedditRecommenders:
+## The following are the project file structure for the Reddit Recommenders:
 
 <b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br>
 <b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br>
