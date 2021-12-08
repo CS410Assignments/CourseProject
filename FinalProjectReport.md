@@ -2,20 +2,20 @@
 
 ## <b>Team Reddit Recommenders</b>
 
-Nico Calderon nac7@illinois.edu
-Ethan Choi ethansc2@illinois.edu
-Kimberly Martin kjmarti2@illinois.edu
-Miguel Paulo Riano mriano2@illinois.edu
+Nico Calderon nac7@illinois.edu</br>
+Ethan Choi ethansc2@illinois.edu</br>
+Kimberly Martin kjmarti2@illinois.edu</br>
+Miguel Paulo Riano mriano2@illinois.edu</br>
 Anthony Safo as95@illinois.edu (team coordinator)
 
 ## The following are the project file structure for the Reddit Recommenders:
 
-<b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br>
-<b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br>
-<b>output-submissions.csv</b> - contains the submissions scraped from reddit in csv format, comma delimited</br>
-<b>output-submissions.xml</b> - contains the submissions scraped from reddit in xml format</br>
-<b>output-subreddits.csv</b> - contains the subreddits scraped from reddit in csv format, comma delimited</br>
-<b>ranker.py</b> - code for doing the ranking calculations of the pulled reddit/subrredit</br>
+<b>redditScraper.py</b> - code for scraping reddit and subreddits. This uses praw for retrieving data from reddit, and pandas for storing and arranging the relationship between reddit, subrreddit and submissions.</br></br>
+<b>flask_main.py</b> - code for the web application, it uses flask library as the micro web framework</br></br>
+<b>output-submissions.csv</b> - contains the submissions scraped from reddit in csv format, comma delimited</br></br>
+<b>output-submissions.xml</b> - contains the submissions scraped from reddit in xml format</br></br>
+<b>output-subreddits.csv</b> - contains the subreddits scraped from reddit in csv format, comma delimited</br></br>
+<b>ranker.py</b> - code for doing the ranking calculations of the pulled reddit/subrredit</br></br>
 <b>results.csv</b> - contains the results for the ranked filed</br>
 
 ## Module Details
