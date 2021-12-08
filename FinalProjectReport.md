@@ -1,4 +1,4 @@
-<b>Project Report Outline</b>
+<b>CS410 - Final Project Report</b>
 
 The following are the project file structure for the RedditRecommenders:
 
