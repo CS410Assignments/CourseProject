@@ -1,8 +1,8 @@
 h1 {
     text-align: center;
-    font-family: Copperplate, Copperplate Gothic Light, fantasy;
-    color: #8B0000;
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
     font-size: 50px;
+    color: #FF7F50;
 }
 
 #query {
@@ -10,9 +10,7 @@ h1 {
     position: absolute;
     text-align: center;
     width: 100%;
-    padding-top: 150px;
     margin: none;
-    height: 100px !important;
 }
 
 #searchAgain {
@@ -27,4 +25,18 @@ h1 {
     font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
     font-size: 30px;
     margin-bottom: 20px;
+    color:  #2F4F4F;
+}
+
+#main_items {
+    padding-top: 150px;
+}
+
+#enter_query_text {
+    padding-left: 305px;
+    color:  #2F4F4F;
+}
+
+html {
+    background-color: #ADD8E6;
 }
