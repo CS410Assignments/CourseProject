@@ -7,7 +7,7 @@ from gensim.parsing.preprocessing import remove_stopwords
 #from query rank subreddits
 
 def ranker(args) :
-    if type(args) != str:
+    if !(type(args) is str):
         num = args.num
         query = args.query
     #remove stopwords from query
