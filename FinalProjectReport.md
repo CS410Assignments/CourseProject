@@ -1,4 +1,16 @@
-<b>CS410 - Final Project Report</b>
+# <b>CS410 - Final Project Report</b>
+
+<b>Team Reddit Recommenders</b>
+
+Nico Calderon nac7@illinois.edu
+
+Ethan Choi ethansc2@illinois.edu
+
+Kimberly Martin kjmarti2@illinois.edu 
+
+Miguel Paulo Riano mriano2@illinois.edu
+
+Anthony Safo as95@illinois.edu (team coordinator)
 
 The following are the project file structure for the RedditRecommenders:
 
