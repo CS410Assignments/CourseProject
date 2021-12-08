@@ -26,10 +26,11 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 - The code file for this module is *redditScraper.py
 
-- <b>Usage</b>: to use this tool, simple type "python redditScraper.py -l1 10 -l2 10"
+- <b>Usage</b>: to use this tool, simply type "python redditScraper.py -l1 10 -l2 10"
 
   - The first parameter "-l1" is the number of subreddits you want to scrape. The default is 5, and you can put any integer value</br>
   - The second parameter "-l2" is the number of submissions you want to scrape. The default is 5, and you can put any integer value
+  - Once it runs, it will generate the following files, *output-submissions.csv, *output-submissions.xml and *output-subreddits.csv
 
 ### 2. Ranker Module</br>
 
