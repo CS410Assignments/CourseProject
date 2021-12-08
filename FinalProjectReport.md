@@ -37,7 +37,7 @@ Anthony Safo as95@illinois.edu (team coordinator)
 - <b>Description</b>: The ranker module is responsible for ranking the list of reddits and submissions retrieved. This is using BM25 as the main ranking function.
 - The code file for this module is *ranker.py
 - <b>Usage</b>: To run ranker.py type 'python ranker.py -n 10 -q "subreddit ranker"'
-				Edit 10 and "subreddit ranker" to be the number of results and the query, respectively.
+  - Edit 10 and "subreddit ranker" to be the number of results and the query, respectively.
 
 ### 3. UI/Flask Module</br>
 
