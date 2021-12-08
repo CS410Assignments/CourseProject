@@ -26,10 +26,11 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 - The code file for this module is *redditScraper.py
 
-- <b>Usage</b>: to use this tool, simple type "python redditScraper.py -l1 10 -l2 10"
+- <b>Usage</b>: to use this tool, simply type "python redditScraper.py -l1 10 -l2 10"
 
   - The first parameter "-l1" is the number of subreddits you want to scrape. The default is 5, and you can put any integer value</br>
   - The second parameter "-l2" is the number of submissions you want to scrape. The default is 5, and you can put any integer value
+  - Once it runs, it will generate the following files, *output-submissions.csv, *output-submissions.xml and *output-subreddits.csv
 
 ### 2. Ranker Module</br>
 
@@ -39,6 +40,9 @@ Anthony Safo as95@illinois.edu (team coordinator)
 
 ### 3. UI/Flask Module</br>
 
-- <b>Description</b>: The UI is done in html and the module for the web application is flask micro-web framework.
+- <b>Description</b>: The UI is done in HTML/CSS and the framework for the web application is Flask.
 - The code file for this module is *flask_main.py
-- <b>Usage</b>:
+- <b>Usage</b>: to start the website, type python flask_main.py from a terminal. This will provide an address to enter into a web browser.
+  - On the website, type your query into the textbox and press submit.
+  - This will send you to another page that lists (up to) 10 subreddits we recommend based on your query.
+ 
