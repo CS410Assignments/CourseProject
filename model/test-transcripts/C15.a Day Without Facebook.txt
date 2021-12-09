@@ -1,0 +1,122 @@
+I'm marquez and i'm andrew and today we've
+got a couple pretty big stories we've
+got the adventures of the day without
+facebook all the stuff that happened and
+and why and what went down which was a
+monday of course
+and then we've got the new surface
+products which is a whole new lineup and
+we made a video about them and then
+we've got one single
+new cringy intel ad that i just want to
+go over from rant about yeah uh so we've
+got you here with me we'll have david on
+in the second half of the podcast as
+well we'll talk surface stuff but i say
+we start with facebook yeah that was
+that was the big story of the internet
+this week is on a monday bright and
+early i'm sure
+in california time it was probably like
+seven eight a.m when all started one p.m
+eastern so okay so eleven ten eleven
+twelve yeah something like that facebook
+goes down and you probably kind of
+noticed the the series of things that
+happened which is you try to go on
+facebook
+you realize it's not loading you check
+your wi-fi you're like why is my wi-fi
+not working but your wi-fi is working so
+you're like oh is facebook down so then
+you go to i don't know instagram just to
+see if it works yeah yeah yeah
+instagram's also down and then you go
+start
+figuring out connecting the dots most of
+us are like we're on twitter and we're
+seeing everybody else say that facebook
+is down and instagram's down and all
+that yeah i don't i don't check facebook
+that often so i found out because it was
+trending on twitter and i hadn't checked
+instagram yet that day so it was all
+sort of trending on twitter at once that
+a bunch of stuff that facebook runs and
+owns is down at the same time they're
+all connected yeah i think that's what
+it didn't hit me what the magnitude of
+that was at first because i saw facebook
+down on twitter thought
+cool i don't use it that much just like
+you i mean i use it to communicate with
+my family sometimes that's down who
+cares yeah then you realize instagram's
+connected and that's the first pretty
+big one it's like okay i like instagram
+way more than facebook yeah that one
+kind of hurts a little bit
+and then it just keeps going like you
+don't realize what it's and then
+whatsapp's down which right facebook
+also owns whatsapp and we don't use it
+that much we use sms mostly i mean we
+still have like slack and some other
+messaging apps but whatsapp is gigantic
+internationally it's massive yeah
+millions and millions of people use
+whatsapp and we'll go over that in a
+second yeah but like we've seen outages
+like this in the past like when amazon's
+web services go down when aws goes down
+you realize how many sites on the
+internet depend on aws and they're all
+down at once and usually it's brief but
+you'll notice like wow there's a lot
+that's actually all connected here so
+yeah we we saw the the solar small world
+of the internet as facebook.com and all
+those services
+facebook messenger instagram all of that
+whatsapp even oculus yeah oculus was
+kind of funny to me because it's just
+like oh like just the last thing i would
+ever imagine to be
+hit by facebook being down is like i
+can't play vr now that's facebook but it
+just makes total sense yeah you have to
+log in through oculus which brings me to
+my next thing where
+when we first start seeing it kind of
+outside of the general facebook realm
+because you know like facebook instagram
+whatsapp they're all directly owned by
+facebook so it all makes sense yeah then
+i saw like michael fisher tweeting about
+how he couldn't even go on his to-do
+list because
+he had he logged in through facebook on
+his to-do list app
+yes so imagine all this i mean the
+second order the majority of times when
+i download some new app that i'm not
+that excited about but i just want to
+have it because maybe it does one nice
+thing if it gives me the option to log
+in through facebook or google i'll do it
+because it's so much quicker than just
+oh interesting um making a new account
+every time yeah there's different
+philosophies with that i
+never ever log in through facebook
+that's my that's been my mentality i do
+log in through google with some things
+and then apple now will let you
+literally make a new fake email address
+to sign up so if you sign in through
+apple you can just bypass all of that
+sort of tracking but i i want to go over
+the explanation for exactly what
+happened first and then we can go over
+like the experience and the effects
+because there were a lot of them
