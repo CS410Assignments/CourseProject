@@ -56,3 +56,7 @@ Anthony Safo as95@illinois.edu (team coordinator)
 -Kimberly and Miguel worked on using PRAW and pandas to scrape and index text data from various subreddits</br>
 -Ethan and Anthony worked on implementing the ranking algorithm using the mined subreddit post text data</br>
 -Nico worked on implementing the interface for the recommendation system based on the results from the ranking algorithm.</br> 
+
+## Software Tutorial Presentation
+
+For a tutorial video detailing the usage of the software, visit https://youtu.be/FlrMZn2ehzU
