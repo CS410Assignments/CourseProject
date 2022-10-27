@@ -1,0 +1,111 @@
+So what we've been talking about so far
+are the molecular structures that constitute ion channels and this is a way
+of discharging those gradients that are essential for generating electrical
+signals. Now, let's turn to the molecular
+mechanisms that are responsible for establishing those gradients in the first
+place. I mentioned when we first introduced this
+topic that those gradients are established by ion pumps and ion
+transporters. And here we see a variety of pumps and
+transporters. Probably the most important that I should
+emphasize is right over here on the left hand side of figure 4.9.
+It's the Sodium-Potassium ATPase. This is, arguably the most important
+molecule in the nervous system. It seems a little ridiculous to even make
+such a claim, but if it were possible to identify one molecule of supreme
+importance this would be it Sodium-Potassium ATPase.
+It consumes a significant portion of all of the energy that is burnt up in the
+function of a nervous system. And it's one of the principal reason why
+the brain requires such a constant and highly regulated flow of blood to deliver
+oxygen and glucose the principal substrates for oxidative metabolism in
+brain tissue. There are other pumps besides the
+Sodium-Potassium ATPase. As we see here there are pumps for
+calcium. There ion exchangers that move sodium and
+calcium and protons. There are co-transporters that can take
+advantage of a concentration gradient for one ion to transport another and we don't
+need to get into all of this complexity at the present time.
+Rather, what I want to do is consider in a little bit more detail, the function
+of. Our principal pump, the Sodium-Potassium
+ATPase. Now, the story of how this function works
+is the result of a lot of empirical research that had been done in various
+ways one can imagine based on our prior consideration of the action potential
+that one can study this pump by removing either sodium or potassium from the
+solution and asking how these manipulations might affect pump activity.
+One might also gain some insight by depriving that pump of its supply of
+energy to find out what's happening. So these kinds of experiments, were done.
+and what's shown here in figure 4.10 is an experiment where a, tagged sodium
+molecule was allowed to flux across the plasma membrane, due to the activity of
+this pump. So sodium was loaded up within a cell and
+the efflux of sodium which represents the activity of the pump is measured over
+time. So as this experiment unfolds there is
+some discharge of sodium ions that can be measured experimentally.
+And if one removes potassium from the medium outside of the cell, now there's a
+sudden drop in the activity that's being indicated by the efflux of sodium.
+So this suggests that there must be some kind of codependency between the Influx
+of potassium ions into the cell, and the efflux of sodium.
+Well, when potassium is restored, and the fluid's around the cell.
+Now, the rate of discharge of sodium is restored.
+But now, a key experiment is imposed upon this model system.
+the energy that's required to drive this activity is depleted by adding a compound
+which blocks the synthesis of adenosine triphospate which is the main energy
+currency for active cells. And, as this metabolic, poison, if you
+will, is introduced, there is a precipitous decline in the efflux of
+sodium ions providing strong evidence for the energy requirement of this transport.
+When ATP is restored, then there is a somewhat rapid rise again of efflux of
+sodium, back towards the rate at which this experiment was run.
+So taking these two phases of the experiment together, we know that there's
+some kind of co-dependency between the influx of potassium and the efflux of
+sodium, and we also know that this process is energy dependent.
+So these kinds of experiments have led to the following model.
+There is some kind of integral membrane protein, that constitutes a pump for
+sodium and potassium. And this integral membrane protein has
+enzymatic activity that can cleave ATP and consume energy in the form of
+breaking that high-energy phosphate bond. So, we have good reason to believe that
+there is a configuration of this protein that allows for the binding of sodium
+ions to the exposed cytoplasmic domain within the central region of this
+integral membrane protein. There seems to be a particular
+stoichiometry to the transport of sodium and potassium.
+We think there're likely three binding sites for sodium ions that are available
+in this configuration. And then with the consumption of energy,
+in the form of cleaving this high-energy phosphate bond from ATP, there is a
+conformational change, such that this protein appears to flip within the
+membrane. We don't know exactly how this happens.
+But it seems to change conformation allowing these three sodium ions now to
+be discharged. On the extracellular face of the
+membrane, and at the same time, this conformational change has exposed now
+binding sites for potassium ions. Now, with the binding of these potassium
+ions, the inorganic phosphate is lost, and the conformational change occurs.
+And we are restored to the starting configuration of this protein.
+And this allows for these potassium ions now to be discharged and enter the
+intra-cellular space. So now this protein is ready to return to
+its starting position. In this schema, where sodium ions can
+aggregate. So with the consumption of a high-energy
+phosphate bond, there is a cycle of this pump that transports 3 sodium ions from
+inside the cell to outside the cell. While at the same time allowing for 2
+potassium ions to travel from outside of the cell to the interior.
+So as this pump churns and burns energy we establish a concentration gradient
+with higher sodium ions outside of the cell compared to inside, and higher
+potassium concentrations inside the cell compared to outside.
+All of this requires energy. Now, notice the stoichiometry.
+There's more positive charge leaving the cell than entering the cell with each
+turn of a cycle. From this point of view, we say that this
+pump activity is electrogenic, that is, it has the potential to generate a small
+current. That current typically is negligible
+unless we're talking about a very small compartment where the concentrations of
+ions might actually change during the course of a high frequency burst of
+action potentials. Such compartments exist in the smallest
+of our axons we find in peripheral nerves.
+So, in such situations as ionic concentrations might be altered by a burst
+of action potential activity, pump activity will increase, more positive
+charge will leave the cell as a result of the pump, and the inside of the cell will
+hyperpolarize. So that would be the impact of this
+electrogenic nature of pump activity. Again, it's typically negligible, except
+for the very smallest of axons, or the very tightest of compartments where pump
+activity can have an impact on the resting memory potential.
+Well we can summarize and have an opportunity to review these mechanisms of
+pump activity by viewing a animation from chapter four you can follow this
+animation. by navigating to the website that
+supports our textbook or by clicking on the hyperlink that you have available to
+you at the bottom of your tutorial notes. Well, I hope this has been helpful.
+Our next tutorial will focus on the means by which electrical signals can propagate
+along an axon. And we will return to some of these
+concepts related to the structure of ion channels and pumps when we consider
+synaptic neurotransmission in forthcoming tutorials.

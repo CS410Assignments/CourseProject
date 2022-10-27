@@ -1,0 +1,73 @@
+All industries are struggling with the
+concept of big data. With servers across the country
+capturing tens of thousands of terabytes of data each day regarding all facets of business, the
+challenge is not finding usable data; the challenge today is how to
+effectively review and manage the data you have. This section of the course will examine
+some of the methods Fraud Examiners use to analyze data to help find fraudulent
+activity. It's important for the fraud examiner and
+forensic accountant to understand how data is collected and
+what are some of the specific tools and techniques that help you locate that fraud needle in the business haystack. Fraud
+prevention is an important part of every organization. If you do nothing to
+prevent fraud, it will flourish and ultimately consume
+your business. But at the same time you cannot completely eliminate fraud.  It
+is amazing how often a fraud perpetrator can find the one hole in an otherwise
+solid set of internal controls. For example, failures may occur within
+internal control such as even duties are separated, people work
+together to circumvent controls. Sharing or stealing usernames or
+passwords belonging to other employees, they could then be used to commit fraud,
+or you may have a situation where adequate controls are just not in place
+to stop a particular risk. One of the keys are fraud prevention is a
+concept called perception of detection.  Not only can data analysis detect fraud, the fact that an
+organization regularly analyzes data for fraud can be an
+effective control mechanism all by itself. If employees and vendors
+know that an organization is conducting
+vigorous tests to detect fraud that may cause them to
+think twice about committing it. One of the primary considerations is
+whether or not data are available to find a particular
+type for fraud.  But in order to know what data to look at,
+you must also understand how particular frauds occur. When designing data analysis tests,  you
+must think about the various operations of the business and how they are vulnerable to fraud.  For
+example, let's say you have a purchasing manager
+who's taking payments or kickbacks from a vendor for every order placed. If these payments are made in cash to
+the manager outside working hours, then how could you find this activity through data analysis? Is there any way to detect it?
+Surprisingly to most people, there are several ways to possibly
+detect such a fraud. A careful review of purchasing transactions can reveal if one vendor has seen a
+dramatic increase in purchases. Additionally, tests can be run to
+determine whether there's been a dramatic increase in
+inventory or supply. Unusual activity should be reviewed
+to determine if there is a legitimate explanation for anomalies or whether
+fraud could be at play. But being able to find such activity also involves two other important items: one is understanding what the data
+should look like (this requires not only
+knowledge of the business operations but an understanding up the historical
+data available); additionally, effective data analysis means understanding the software and
+other tools available to conduct the analysis. As we mentioned, one of the problems
+today is the overabundance of data.  Almost everything is captured somewhere. It's important for the fraud examiner to
+work closely with the information technology or IT department to identify
+the potential sources of data. Much data are gathered inside the
+organization. If you are working with their foreign
+organization, you and the IT representative can identify
+what types of data might be of most assistance in proactive fraud detection analysis.  The IT representative will
+understand what data is collected but it will take the fraud examiner's skill
+to understand what types of schemes the organization is at risk for.  There
+are also a lot of data available external to the organization. For example,
+if a company is publicly traded, a wealth of financial filings are available from
+the SEC or other government regulators. Other
+types of non-financial information are available through the Internet, newspaper, magazine articles, and trade
+journal reports. These sources should also be reviewed for information that is relevant to the particular case under investigation.
+There have been many instances of investigators finding references in
+newspaper articles regarding company employees having been charged
+with theft in previous jobs or locations. You won't find such information on the
+individual's resume, but you may find it through careful
+records searching. Financial data analysis is an extremely
+sophisticated endeavor. Not only is it necessary to understand
+what data is available and how to capture it, but you also have to know what you're
+looking for. Historical comparisons are extremely
+important. If there's an unexplained and dramatic
+increase in one item from one period to the next, that could
+be a sign a fraud, or could simply be normal operations. In order to find out, you need to
+understand how the business operates and what you would expect the numbers to show.  For example, if sales remain steady but inventory
+goes down dramatically, what is the cause?  It could be that older obsolete inventory has been written off the books, or it could mean that inventory is being
+stolen. You'll need to review the records and
+conduct more inquiries to know for sure, but understanding the
+business and its operations is critical to understanding the data you've
+analyzed.

@@ -1,0 +1,133 @@
+Okay, well we're ready to shift gears now
+and talk about our metabotropic receptors.
+So again, these are receptors for neurotransmitters that are not ion
+channels, rather these receptors interact with a series of second messenger
+pathways within cells, that lead to a variety of postsynaptic effects.
+Perhaps the opening and closing of ion channels, but maybe a, a great diversity
+of other kinds of postsynaptic effects as well.
+So here's a typical example of a, a metabotropic receptor, also known as a G-
+protein coupled receptor, because the receptor itself Is a monomeric integral
+membrane protein, that is associated with g proteins on its cytoplasmic surface.
+When the receptor is activated by the neurotransmitter, these g protein systems
+then become active, and those g protein's then can then interact with the effector
+proteins, and those effector proteins can produce a variety of intercellular
+messengers, that potentially can gate some ion channels.
+So in this example, an ion channel does indeed open, following the binding of a
+neurotransmitter. So between the binding of the transmitter
+to a receptor, and the opening and closing of an ion channel in this
+example, are a series of metabolic reactions, and that takes time.
+So the metabolic steps are what accounts for the slower action of metabotropic
+receptors on postsynaptic conductances, relative to our ionotropic receptors
+where the effects are essentially instantaneous with the binding of a
+neurotransmitter to its receptor. So let's look at a couple of different
+examples. So the receptor itself is typically a
+monomeric integral membrane protein. But the intracellular second messenger
+systems related to G-proteins can be quite diverse.
+we have our more canonical heterotrimeric G-protein systems illustrated to the
+left, and so activation of G-proteins alpha, as well as the beta and gamma G
+proteins can go on and mediate a variety of postsynaptic effects, interacting with
+effector proteins. Some of which may produce second
+messengers themselves, others which may activate enzymes that can lead to the
+phosphor relation of target proteins in the activation of a variety of systems
+within postsynaptic cells. Other receptors for neurotransmitters are
+associated with monomeric G-protein systems such as the ras system.
+And activated Ras can go on and mediate a variety of postsynaptic effects itself.
+Here's some specific examples. our receptors for many of the bio-genetic
+means such as dopamine, norepinephrine, serotonin, they interact with G-protein
+coupled receptors. Illustrated to the left is the beta
+adrenegic receptor for Norepinephrine . It activates a gs version of the
+heterortrimeric g protein system, which leads to the activation of Adenylyl
+cyclase and an increase in the amount of cyclic amp that's produced within the
+cytoplasm. Cyclic AMP is an important second
+messenger system, that can then lead to the increased phosphorylation of target
+proteins. Glutamate binds not only to the
+ionotropic receptors, like the AMPA and NMDA receptor, but also to metabotropic
+receptors. Here glutamate is bonding to a receptor
+that activates gq proteins, and these can lead to the activation of phospholipase
+C, and the activation of other kinds of second messenger systems such as the ip3
+pathway, and the diacylglycerol pathway. Again, leading to the phosphorylation or
+perhaps the dephosphorylation, of target proteins within the cell.
+And then lastly, we see that dopamine binds to metabotropic tropic receptors.
+We'll talk more about this when we talk about the circuitry of the basel ganglia.
+Dopamine is binding to a D2 receptor here, which interacts with a GI protein,
+in this case, leading to the inhibition of adenylylcyclase, and a reduction in
+the levels of cyclic A and P, and that leads to a decrease in protein
+phosphorylation in the target site. Now one benefit of the g protein coupled
+receptor family, is that there can be tremendous appli, amplification of the
+signal as these metabolic steps play out. So imagine activation of a single
+receptor leads to the production of a fairly large number of g proteins, so
+there's amplification in this step. Well, in the pathway for example
+following beta-adrenergic receptor activation, these g proteins can activate
+adenylyl cyclase enzymes, which then produce cyclic AMP.
+So another significant amplification step happens, where a large number of cyclic
+AMP molecules are derived from the activation of a smaller subset of
+adenylyl cyclase molecules. These cyclic AMP molecules, then can
+interact with protein kinases which leads to the massive phosphyorylation of
+numerous target proteins. So significant amplification Is the end
+result of activating a G protein coupled receptor.
+G protein coupled receptors can not only activate conductances in the post
+synaptic cell, they can also interact with transcription factors that can
+modify gene expression. And these kind of interactions, mediate
+the longest lasting effects of G protein coupled receptor activation.
+So there are pathways that follow the activation of heterotrimeric G protein
+system, that lead to the activation of regulatory elements, such as the CREB
+binding domain, in our genes. And activation of CREB, can lead to
+modification of gene transcription. similar CREB modifying pathways can
+converge upon the same machinery within the nucleus, through different pathways.
+Here's an example of a Ras mediated pathway also activating CREB.
+sudden rises in intracellular calcium, likewise, can interact with calmodulin
+independent kinases to activate CREB. so there may be a variety of ways that we
+can influence the transcription of the genome, based on the interactions that
+are happening out at the plasma membrane of a neuron.
+And g protein coupled receptors, are one important means for doing so.
+If we look at the molecular structure of g protein coupled receptors, what we find
+are typically seven trans membrane domains.
+these seven trans membrane domains are characteristic of this gene family.
+And so we now know that they encode a variety of G-protein coupled receptors,
+that show up in some surprising places. So what they have in common, is that they
+are a monomeric protein. There is an extracellular domain, which
+typically includes an interminus and a site for the binding of a
+neurotransmitter. in this example what we're seeing is the
+muscerinic variety of acetylcholine receptor.
+there is of course a cytoplasmic side of the molecule that interacts with the G
+proteins, so we expect to see that as well.
+And again, the defining feature are these seven trans membrane domains that run
+through the plasma membrane. So, as I said, there are a variety of G
+proteins, and they show up in some surprising places.
+We'll find G proteins, for example, involved in sensory transduction, in some
+of our special sensory systems, including the olfactory system, and even the visual
+system. So the transduction of photons into
+electrical energy, requires the activation of the G-protein coupled
+receptor system. So there's a variety of metabotropic
+receptors for a large family of small molecule neurotransmitters as well as for
+our peptide neurotransmitters. And, the complexity of this system is
+just now beginning to be appreciated. What's important for you to take away is
+the idea that the metabotropic receptor's give rise to these more slowly evolving,
+but potentially much more, long lasting effects of the binding of a transmitter
+to it's receptor. So now that we've talked about the
+diversity of receptors that are present that interact with the neurotransmitters,
+I think you can understand why we cannot judge the physiological effect of a
+neurotransmitter, by only knowing something about thee identity of the
+transmitter. And the kind of chemical structure of
+that transmitter. No, that's not enough.
+We have to know about the receptor in order to understand the physiological
+effect. And that receptor might be an ionotropic
+receptor emediating a fast effect on a postsynaptic conductance, or it might be
+a metabotropic receptor emediating a slowly evolving effect that impacts a
+post-synaptic conductance, but could also alter gene transcription, and thereby
+have a long lasting effect on that postsynaptic cell.
+Well, we're going to come back to some of these themes.
+And we will return to our metabotropic receptor family as I mentioned they show
+up in some pretty surprising places. We'll discover G protein coupled receptor
+systems, in our special sensory pathways such as our olfactory system, and in our
+visual system. and perhaps you'll be surprised to
+discover that the act of seeing, requires the activation of a G protein coupled
+receptor, very much like the same kinds of receptor structures we've just been
+looking at. So stay tuned for that.
+But meanwhile, now that we understand some of the basic molecular and cellular
+mechanisms that are responsible for chemical neurotransmission, we're ready
+to talk about the integration of electrical signals in a postsynaptic
+cell, and then that will allow us to talk more about synaptic plasticity, and how
+the effectiveness of the synapse can be altered by its very use.
+So, I look forward to having those discussions with you in the next few
+tutorials.

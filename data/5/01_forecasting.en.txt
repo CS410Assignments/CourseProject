@@ -1,0 +1,164 @@
+So today I want to talk about
+the Efficient Markets Hypothesis. The history of the hypothesis, reasons
+to think that markets are efficient, and reasons to doubt it. Let me start with the dinner
+experiment on Friday. So we had a nice dinner at
+Berkeley College, and as an experiment, those of you who were there
+will know my experiment. I passed out slips of
+paper with this chart. So the chart shows
+the Standard & Poor's 500 from 1950 until a couple days ago where it was. There it is, that is the stock market. And then I left room on the right,
+up to the year 2050. And I asked each of you independently, and I asked you not to look at
+each other when you did this, to pencil in a forecast for
+the stock market from 2016 to 2050. So I'll just give you a couple
+examples that you filled in, this person is forecasting,
+what does that look like? Another 20% drop in the market. Then a correction, then a drop, and then another boom, and
+then another crash, and then another boom. So, I picked this one out as
+just typical of what was seen. I should have shown you more, I only have
+one other here, this is another one. So you are very pessimistic bunch. What would Efficient Market Theory
+say should be the forecast? There are one or two of you actually
+did that, or maybe it was three, so more or less. If markets are completely unforecastable,
+what should it be? Well, one interpretation
+of efficient market, your forecast should have been zoom,
+straight across, it's not going to leave. I mean, the central tendency is, tomorrow's price is
+the same as today's price. Because I can't forecast changes up or
+down, who knows? That would be efficient markets. But there is another version
+of efficient markets and some of you actually did this,
+but not many of you. Your forecast would be
+not straight across but perfectly growing exponentially
+along an exponential growth path. That would be the efficient
+markets hypothesis taking account of the fact
+that there's a growth. It's not a random walk, but
+it's a random walk with growth. But almost none of you did that. Maybe my instructions
+weren't clear enough. But what you're doing is
+showing plausible paths for the stock market rather the expected path. That's how people seem to interpret
+when I say, please forecast it. You are trying to show what's plausible. So you're making,
+if you look at the recent history, this person made it look like
+the recent history, right? But this is not unless you can tell me,
+I don't know who did this forecast. But unless you can tell me, why did you have a turning point here in,
+what year is that? 2020, why did you have this turning point, why did you have this turning
+point where you put it? They have no reason, this looked plausible
+to them so they called that a forecast. I know you might have done better if
+you had more time to think about it. But I think this gets back to, it's related to a concept in behavioral
+economics that and talked about, those are two psychologists,
+called the representativeness heuristic. People don't behave like forecasters. They think that something
+they saw in the past is representative of what
+will happen in the future. Now I'm not defining their theory exactly,
+but I think this is how most people take
+it when they have to give a forecast. The random walk theory is a theory,
+first, the term was coined by statistician Karl Pearson in
+the scientific journal Nature in 1905. And he said,
+a random walk is a process that changes in such a way that each
+change is independent of previous changes and
+totally unforecastable. So it has become popular
+lore to think of a random walk as the walk of a drunk
+at a lamp post, okay? And this toy, right here, is a mock-up that someone once made and
+sold. If you want that,
+I found it on the web, you can buy it. It's amazing [LAUGH]
+what you can buy today. But there's your drunk. Now if the drunk is so totally drunk
+that every step is completely random, so your job, according to Pearson, is to forecast the position
+of the drunk in 10 minutes, in 20 minutes, in 30 minutes, okay? So what is your forecast? What do you think? What would be Karl Pearson's forecast? Well, the forecast is he's going to
+be right at the lamp post. And the reason you'd make that as your
+forecast is you have no idea whether it's to the right, or to the left, or
+whatever the direction is random. So he's probably not going to
+be at the lamp post but since you can't predict which way, you
+might as well predict at the lamp post. That's why I was saying on the previous
+slide that, I'll go back here. Your forecast should have been zoom
+straight across if stocks are few or random walk. But that's not what you did. In 1973, Burton Malkiel who was
+a professor at Princeton and, I guess, still is, he came to Yale for some years
+as Dean of the Yale School of Management. But he wrote a best selling book in 1973
+called A Random Walk Down Wall Street, arguing that, it wasn't original in
+the book, this was a popularization. But it's a best seller and
+it sold millions of copies. The idea was coming out then that stock
+market prices are really random walks, it's all an illusion that you
+think you can forecast it. So, you shouldn't try to forecast it. You should just hold
+a diversified portfolio. And that became conventional wisdom,
+starting around that time. Burton Malkiel, his book was very well
+timed and a very appropriate title. The funny thing about Malkiel's book,
+though, is that he didn't really believe the efficient market hypothesis
+that he made the title of his book. Because if you look in at
+the last chapter of the book, he had investing advice and he told
+you to do various things that, well, I thought inconsistent with
+random walk hypothesis. I finally met him at a cocktail party. And I asked him, I said, some of your investment advice
+doesn't quite fit with random walk. And then he said, well, I know. I can't quote him exactly, so
+I can't get these other kinds of thinking completely out of my mind,
+something like that. So, it's like psychologically, we're not
+attuned to understand the random walk. Now another alternative to a random walk,
+a random walk has the property x sub t, if x is the random walk at time t,
+is equal to its previous value plus noise epsilon sub t, and
+the noise is totally unforecastable. An alternative to a random
+walk model is a first-order autoregressive model, an AR-1 model. In this case, 100 represents the lamp
+post, it's the starting point. And then x sub t, the position at time t, is equal to the starting point +
+rho where rho is between -1 and plus one, usually positive,
+times xt -1- 100. So what this is, is a model which is modifying the drunk
+at the lamp post a little bit. He's now has a piece of elastic
+wrapped around his ankle. And the elastic is tied to the lamp post. So if he starts walking away from
+the lamp post in any direction, he gets tugged a little bit back to it. And the further away he goes,
+the more he's tugged back. So, in this case, this is xt-1-100 is how far
+he is from the lamp post. And if rho is some high value, then, that means there isn't that much of a tug,
+that it's a weak piece of elastic. So he can go wandering off, but
+eventually, he's going to come back. So this is mean reverting,
+it's reverting back to the lamp post. Now the question is, there were a lot of studies suggesting
+that the stock market is a random walk. But how do we know whether it's
+really a random walk or it's an AR-1? Maybe when the stock market gets
+really high, it's going to go back. But not right away. But eventually, there's something
+tugging it back to a normal level. And when it gets really low,
+it's going to go back up. The problem is that it's hard to
+tell a distinction, if rho equals 1, you can see these hundreds drop out,
+and it's just a random walk. But if rho is lower than 1 but
+not a whole lot lower than 1, then you really can't tell whether
+it's a random walk or not. So this is an example of
+a realization of a random walk, the blue line, and
+an AR-1 with rho equals 0.9. And I defy you to tell me which one
+of those is the, well, you can tell. In comparison,
+this one started not at 100 but at 1, so you can see that the AR-1 it's
+come closer that's the red line. It's come closer back
+to the starting point. The random walk has no tendency to
+come back to the starting point. If stock prices are an AR-1, then it means
+you should stay out of the market when the price is too high and
+go back in when the price is too low. Which is different advice
+than the random law theory. >> Many would argue that when
+you're forecasting the future, whether economists or people in finance
+who are working in Wall Street, for instance, forecasting what the future
+of a market is going to look like, to look at what's happened in recent
+history, and try to project it forth. And using a rational, logic model-
+>> Right. >> To try to project into the future. But, of course, you talk a lot about
+sort of the irrational nature of the market and how we're behavioral,
+how we're rational beings. But what I'm curious is, how do you
+build in risk management to factor into sort of the irrational
+nature of the markets and to capture sort of some of that irrational
+exuberance that you talked about and the bubbles that might arise in
+such things as housing markets? >> Well, deep question, how do we handle? Why do we have irrational
+exuberance at some times and not other times, and
+what can we do about that [LAUGH]? Our principle to all that you talked
+about is Central Bank policy. And Central Banks when they
+think that the market is becoming overpriced, can tighten credit. And alternatively, when they think it's
+underpriced, they can loosen the credit. That is a tool that is being used. Although Central Banks don't seem too
+enthusiastic about trying to stabilize financial markets, it does seem to
+influence their decision making. But that doesn't get at
+the basic psychology very much. So the problem is people are looking at the price of a speculative
+asset as something largely separate from the underlying business that
+is paying the bills, paying the dividends. They seem to often be looking
+at the psychology of the market. They're looking at trends
+of technical analysis and they become unfocused on
+the real fundamental which you might think ought to determine
+the long run value of an investment. They're focus is too much on the
+short-term, predicting what it will do in the next month or so,
+between the time I buy and sell. So there have been proposals
+that might limit or reduce that short-term
+speculative component. So one idea is to put a transactions
+tax on securities trades. So that would more force people to, or encourage them to be longer-term
+in their investment. We have a distinct, that we have limited. We also have a capital gains tax that
+distinguishes between short-term and long-term capital gains. And a reason to do that is to discourage
+people from being short-term holders. They'll end up paying
+a capital gains tax on profit. There's other longer term proposals. Mike O'Brennan at UCLA proposed that
+we should create separate markets for corporate dividends at various horizons,
+so that you're focused on a dividend that some day in
+the future you're making an investment. You thought that would focus people
+thinking on the fundamental. Well, now we do have markets for
+claims and dividends that hasn't
+had any major impact. The problem is here that human
+psychology is not easily managed. Talk to a psychiatrist and
+you'll hear that. We have antipsychotic drugs, they help,
+but they don't cure in a routine way. The same thing is true for anything you
+might think of that might deal with irrational exuberance in the market. I wish we had lithium which is what
+they use for irrational exuberance and bipolar disorder, but
+it is not functioning in the stock market. >> Sure.

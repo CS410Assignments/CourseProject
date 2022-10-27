@@ -1,0 +1,216 @@
+[MUSIC]Welcome to this set of tutorials
+about the auditory system. we'll begin with this session speaking
+about peripheral mechanisms that are important for transferring the energy in
+the environment. In the form of sound waves, into
+electrical signals that will be processed by the brain.
+These topics will relate to several of our core concepts in the field of
+Neuroscience. we'll be speaking of the complexity of
+the brain. we will introduce a new core concept with
+this session, and that is that the brain makes it possible to communicate
+knowledge through language. So while this session is not explicitly
+about language, certainly any discussion of the auditory system would not be
+complete without at least some mention of human speech.
+And well, of course it's our brain that brings us here this evening.
+And endows us with natural curiosity to understand how the world works.
+I have two learning objectives for us this evening.
+First, I'd like for you to be able to describe the biomechanics of sensory
+transduction in the middle and inner ear. Including the important concept of
+tonotopy, that is established in the basilar membrane.
+I want you to be able to characterize the neurophysiology of sensory transduction,
+in auditory and vestibular hair cells. Now our focus is on the auditory system,
+but as you'll see, the very same mechanisms apply to the sensory
+transduction apparatus. Of the hair cells in the vestibular
+system, which will be a topic for a tutorial that we will come to very
+shortly. Well, I want to begin with providing you
+an overview of the auditory system and auditory function.
+And we're just going to step right through this if you don't want to read as
+I'm talking then just listen. But otherwise, I want to put the words in
+front of you because these next two slides really provide a bulleted
+framework for our discussion of the auditory system.
+Well. Let me begin by just stating for you,
+what is the challenge in auditory function?
+Well, the, the challenge really is to transduce energy that comes in the form
+of sound waves. Well, this is what the auditory system
+does. It transduces sound waves, into distinct
+patterns of neural activity that are then integrated with other sensations.
+And motivations to guide behavior. So, once again, in a sensory system, we
+need to consider the process that begins with sensory transduction.
+And ends with the guidance of behavior. Now, let's see how the auditory system
+accomplishes these goals. First of all sound waves are collected
+and amplified but the physical structures.
+That comprise the external ear and the middle ear.
+And these structures transfer that energy to neural elements that are present in
+the inner part of the ear. The biomechanical properties of the inner
+ear, then decompose complex sounds, such as the sound of my own voice.
+Into sinusoidal components, so that the component frequencies, their amplitude,
+and their phase can then be encoded in the firing of the receptor cells.
+What comes next is the establishment of a principal form of mapping that we see in
+the auditory system, which is called tonotopy, or the mapping of auditory
+tone. So in the inner ear, and then throughout
+the rest of our central processing stations, tonotopy is preserved.
+The story continues in the brainstem. What we see is that auditory information,
+is first processed and divided into several parallel pathways in the
+brainstem. Some of these pathways will compare the
+signals derived from the two ears, and this allows for the localization of sound
+in auditory space. Within the brain stem, there are centers
+that relay information, up to the midbrain, and there an important
+integrative center is the inferior caliculous.
+So the inferior caliculous of the midbrain, in turn, sends projections to
+the auditory division of the thalamus. A region called the Medial Geniculate
+Complex. And then as we've seen in our other
+sensory systems, the specific thalamic division that receives this ascending
+sensory information, projects to the cerebral cortex.
+And therefore defines what we will call the primary auditory cortex.
+So within the auditory cortex, information's received from the thalamus,
+and of course it's further processed and further elaborated.
+And the more complex aspects of sound are represented, including the sounds of
+human speech. With that broad overview of the functions
+of the auditory system behind us, now let's consider each step along the way
+beginning with the nature of sound. Well, sound comes from spherical pressure
+waves of vibrating air molecules, and one simple way to and do such vibrations, is
+with a tuning fork. [SOUND] Well, I happen to have a tuning
+fork with me right here, and if I just tap it appropriately, I can hear the
+vibrations of the tines, at a frequency of 440 cycles per second, or 440 Hz.
+[SOUND] Perhaps you can hear that as well.
+Of course, another way to produce that kind of a tone would be with a musical
+instrument. So I happen to have my guitar with me.
+And here's the tone that I just produced by the tuning fork.
+Well, of course if my guitar is in tune that is.
+[SOUND] That should be very close to the frequency of 440 hertz.
+Here's another tone which I'm particularly fond of.
+For some reason. [MUSIC] That is the tone of an F sharp
+which is just below 440 hertz. As I've set in motion the tines of the
+tuning fork or the string of my guitar, what I've done is created spherical
+pressure waves. And these pressure waves can be
+characterized. Really in terms of three fundamental
+properties the amplitude which has to do with the depth of this modulation of the
+contraction. And expansion of these pressure waves as
+they travel through air. So, amplitude is, what we interpret as
+the intensity of the sound. Another parameter has to do with the
+pitch, or the frequency of the wave. That is, what is the distance between one
+peak and another? Or one trough and another.
+So the frequency is what we interpret as the pitch of that tone.
+And as sound is perceived by the two ears, which sit on either side of my head
+Another aspect of this spherical pressure wave, that's traveling through space
+becomes important. If we imagine sound coming from one side
+of our location or another, then there will be a temporal shift or a phase
+difference. Between the waveform that's encoded in
+one ear compared to the other. So a difference in phase becomes an
+important property. Of sound, as we perceive it in our two
+ears that becomes encoded in the firing patterns of auditory nerve cells.
+Now, if sounds in the environment and the sounds that we, ourselves, produce in
+speech were simply[SOUND] single frequencies of sound.
+[SOUND] That could be characterized by a simple sine wave.
+Well, perhaps the job of auditory processing would be quite simple.
+But, then again, perhaps life would be a little less interesting.
+Now this F sharp by itself[SOUND]. Makes a rather pleasant tone, but I'm
+rather fond of it in the context[SOUND]. Of a chord.
+[SOUND]. That is more complex and includes other
+tones and even human speech is incredibly complex.
+It seems like it might be a rather simple auditory stimulus, but there are all
+kinds of frequencies with varying pitch. And varying phases depending upon how
+these different temporal frequencies are combined as we make different speech
+sounds. so human speech presents a great example
+just as appreciating a complex pattern of tones in music presents a great example
+of the challenge faced by the auditory system.
+So now lets talk about how this energy in the environment actually is collected.
+And then transduced by the structures of the ear, and ultimately converted into
+electrical signals that travel in to the brainstem.
+So just quick bit of anatomy of the human ear.
+So, we see a very nice illustration here, of anatomy of the external the middle,
+and then the inner portions of the human ear.
+And the external ear looks a little bit odd.
+a little bit odd in some of us more so than others.
+But it's structure it's structure has a particular purpose.
+What this external ear is doing, is it's collecting sound frequencies from our
+environment. And the shape of this external ear
+including the pinna and the concha is acting to collect those frequencies that
+are particularly germane to our environment.
+And especially to the sounds that we ourselves produce.
+So, our external ear gathers sound and allows that sound then to be focused and
+concentrated. As the sound pressure waves enter the
+external auditory meatus, on their way to the tympanic membrane, which we find on
+the medial edge of the external auditory meatus.
+These structures also filter sounds. And are very useful in helping us
+localize sounds in the environment. We become attuned to those sounds that
+are specifically filtered, and funneled down into the external auditory miatus.
+Next let's turn our attention to what we find, in the middle region of the ear.
+So if we look more closely at this region, what we find is the Tympanic
+membrane, which is a diaphragm that sits at the junction of the external.
+And the middle ear, and just on the medial side of the tympanic membrane, we
+find three of the most exquisite bones of the human body.
+That one can discover these are called ossicles, the ossicles of the middle ear.
+They are the malleus, the incus, and the stapes.
+And they articulate in a particular way, to achieve a biomechanical leverage over
+the sound energy that's being transmitted from the vibrations of the tympanic
+membrane. In fact, there's about a 200 fold
+amplification of energy, from the impact of that sound energy on the tympanic
+membrane, to the piston-like action of the stapes, pressing against the inner
+ear. The stapes makes contact with a region
+that we call the oval window and it vibrates in and out.
+And again, about a 200 fold amplification of energy occurs through the way the
+biomechanics of these ossicles align and transmit their energy as they articulate.
+And next, let's have a look at the inner ear.
+The inner component of the ear, is comprised of a beautiful set of
+membranous canals, that run through the petrous temporal bone.
+There are essentially two divisions of this structure.
+there's an auditory division,[SOUND] , which is found here.
+And it's represented by a snail shell like structure called the cochlea.
+And there is a vestibule division, which will come to in a subsequent tutorial.
+That includes a set of sensory structures, that are sensitive to the
+movements of the head. So for sound, the cochlea is the
+structure of interest. This cochlea really has a twofold
+purpose. It has a biomechanical function, and a
+neural function. The biomechanical funciton is to
+decompose complex sounds, into their component frequencies.
+The neural function then is to transduce this mechanical energy, into neural
+signals that are then communicated, through the auditory nerve and into the
+brain stem. Now let's look more closely at the
+anatomy of the cochlea. So cochlea is a Greek word that means
+snail, and it refers to this coiling that we see, resembling the shell of a snail.
+And if we were to look at a cross-section through that cochlea, what we're, what we
+would see is a set of membranous channels.
+In fact, we see two large channels that appear to be bisected right through the
+middle. And if we look carefully at that
+structure of bisection, we see yet a third channel.
+So here's an enlarged view over to the right, and what we find are these large
+fluid filled channels, and this partitions that separates those two large
+channels has, buried within it, a smaller channel.
+And a set of exquisite structures that are present on the base of this
+partition. So just a bit of nomenclature here, so
+they coil structure that we find is called the cochlea, and the partition
+that we see is called cochlear partition. And then the base of this cochlear
+partition is a structure that we call the basilar membrane.
+The basilar membrane has a roof, you may remember from the neuroanatomy of the
+midbrain that another word for roof in brain anatomy is tectum.
+So there is a roof over this structure called the Tectorial membrane.
+So there's a basilar membrane below and a tectorial membrane above.
+And making contact between the basilar membrane and the tectorium, are the
+sensory cells. And these sensory cells are called hair
+cells. From the apical surface of these air
+cells or celia and these celia make the contact with the tectorial membrane, that
+forms the roof over this epithelium that sits on the basilar membrane.
+The coclea petition is innervated by the peripheral processes of nerve cells, that
+sit in a ganglion that spirals around the turns of the cochlea.
+So this ganglion is called the spiral ganglion, and it's the ganglion, or it's
+the location of the cell bodies that grow the auditory component of the eighth
+nerve. The peripheral components of these spiral
+ganglion cells, grow out and make contact with the basal region of the inner hair
+cells. We also find an additional collection of
+hair cells called outer hair cells. And these outer hair cells really are not
+sensory cells at all. Rather, they serve an important
+biomechanical function. Where they actively tune the vibrations
+of this structure, as the basilar membrane articulates with the tectorial
+membrane. And then lastly, I will highlight this,
+inner channel that runs through this cochlea partition.
+It's called the scala media, and it contains a very different kind of fluid.
+Than what's found in these other larger spaces, the scala vestibuli and the scala
+tympani. And as we'll see, the fluid in the scala
+media is critical, for the process of sensory transduction in the inner hair
+cells. One more point to make about these
+channels that run through the cochlea, as the spirals of the cochlear reach the
+apex. The scala vestibuli and the scala tympani
+actually come together, around the tip of the basilar membrane, right here at the
+apex of the cochlea. So there's actually continuity in the
+fluids that are present in these two large channels that run the length of the
+cochlea.

@@ -1,0 +1,160 @@
+Hopefully you were able to come up with
+what I was looking for in that study question.
+if not, you'll see it appear shortly as we progress in this tutorial.
+Alright, well let's consider now, what are some of those molecular signals that
+guide the growth of the axon? that, that influence the decisions made
+by that growth cone as it explores the environment through which that elongating
+axon is traversing. Well we consider, basically, two classes
+of molecules. There are molecules that are associated
+with membranes of cells of the developing embryo.
+And these molecules may also be embedded in the matrix that lies between the
+cells. We call that the extracellular matrix.
+So these are our bound molecules, cell-associated molecules or
+extracellular matrix-associated molecules.
+That's one category. Another category, are diffusible
+molecules, so as that implies these are not cell associated, they are not bound
+to a membrane or to the matrix, but rather they are freely defusing in the
+extra cellular spaces of the developing nervous system or the developing embryo.
+So let's look at, specifically what we have in mind here.
+So, again these cell associated molecules are on the surface of cells or they're
+embedded in the extra cellular matrix. And they mediate molecular interactions
+between the developing growth cone and the parenchyma.
+That is whatever the sub stratum is that that growth cone is exploring.
+Now the interactions between the growth cone and the surfaces can trigger second
+messenger systems within the growth cones that transduce extra-cellular signals
+into patterns of directed growth. Some of these cell associated molecules
+play a role in stabilizing the linkages between axonal membranes And the
+structures that surround them. One important element will be the glial
+cells that begin to form myelin or begin to lay down a sub-stratum, over which
+that axon will be laid down. So, there needs to be not just direction
+of growth but also stabilization of the axon That is elongated in the wake of
+that growth cone. Now, the diffusible molecules, as I
+mentioned, they are secreted by target structures, and diffused into the
+extracellular spaces. So, then by definition, the diffusible
+molecules can act over a much greater distance, within the central nervous
+system, or outside the CNS in the embryo, then can the cell-associated molecules
+that are anchored to a membrane, or the extra-cellular matrix.
+Okay, what I'd like to do next is to consider some specific examples of our
+cell-associated molecules to give you a feel for what kinds of actions they may
+mediate. So here's a figure from your text that
+just illustrates some of the important cell-associated molecules that we know
+about beginning with those that are associated with the extracellular matrix.
+So here is a representation of that matrix, and the idea is that there are
+proteins. And other kinds of molecules that present
+sort of a fibrous matrix in the extra-cellular spaces.
+And molecules can interact then with receptors, which are often the very same
+molecule. We call this a homophillic interaction
+because its the same molecule interacting with itself, in this case what we see is
+interactions among the integrin receptors.
+Now these integrin themselves are not, do not have enzymatic activity in the
+cytoplasmic surface of the molecule, but rather they interact.
+With other kinds of molecules. that do have that sentimatic activity.
+for example connaises and other kinds of signaling molecules that can activate
+other second messenger systems for further signal transduction downstream.
+Well those are the integrents there's a variety of individual members of that
+family. Next I'd like to mention the cell
+adhesion molecules. These are very important for mediating
+several different specific aspects of pathway development.
+We'll talk about some as we move along here.
+There are certain classes of cell adhesion molecules that don't require the
+activity or the presence of calcium. And so that's what's shown here on panel
+B. So, these cell adhesion molecules, or
+CAMs for short that are depicted here would be the L one cam, as well as the
+neuronal cell adhesion molecule called NCAM.
+So, these do interact with similar kinds of Kinases and other effector systems
+within the cell that can influence transduction cascades within the cell
+that's interacting with these molecules. Now notice again there's homophilic
+interaction of one kind of cell adhesion molecule with the very same type of
+molecule on the surface of another cell. Now, there are cell adhesion molecules
+that are calcium dependent. They require calcium for their activity.
+Here's an example of one. It's called a Cadhedrin.
+So here, we have Cadhedrins that require the binding of calcium ions in order to
+engage their activity. And these activities the are mediated via
+a variety of second messenger systems, some of which can have positive effects,
+some can have negative effects depending upon the system in question.
+this particular cadhedrin interacts with the beta catenin pathway, which can have
+an impact on the assembly of actin filaments in the cell that is receiving
+this signal. And then lastly I would mention the
+ephrins. So the ephrins are very important class
+of molecules. the, the ephrin proteins are presented on
+the surface of cells, and they interact with receptors.
+That we call ephs, or ephrin receptors. These are tyresine kinase receptors, and
+they can activate a variety of different kinds of second messenger systems within
+cells. Here we see an ephrin receptor
+interacting with the row GAP system that likewise can have an impact on the
+assembly or dis-assembly of actin filaments.
+Now I'll you one example of the importance effrans and effran receptors
+in the development of circuitry. Lets consider for example the development
+of a topographical map. This requires axons from kind of
+structure in the developing nervous system to project into a target
+structure, and to do so in an orderly way.
+We saw many examples of this as we talked through unit 3 and considered our sensory
+systems. And perhaps we took it for granted that
+it is possible to establish such topographic maps connecting one station
+in neural pathway with another. but it's really quite an amazing
+accomplishment in neural development, and for a long time neuroscientists suspected
+that there may be chemical molecules that somehow are establishing the basic
+framework for a map. And then, in subsequent stages of
+development, perhaps neural activity can be used to refine those connections.
+And in deed that seems to be the basic para dine by which topographic maps were
+established. We now know that ephrins and ephrin
+receptors play an important role in establishing topography in such systems.
+Here's an example that demonstrated rather dramatically The nature of the
+recognition between one supply structure and its target in the brain.
+And here what I'd like to present is a bit of a scenario derived from studies of
+an amphibian system, the frog visual pathway which connects the retina to the
+frog's version of the superior colliculus that we call the optic tectum.
+And what's known about the anatomy of this system is that the posterior, or the
+temporal part of the retina, from the frog eye Tends to send its axons into the
+anterior region of the tectum, preferentially avoiding the posterior
+region. Meanwhile, the more anterior or nasal
+part of the frog's retina sends its axons past the anterior part of the tectum.
+To arborize mainly in the posterior part. Well, one fairly dramatic demonstration
+that there must be some kind of recognition that allows temporal retina
+to affiliate with the anterior part of the tectum, and nasal retina to affiliate
+with posterior part came from experiments that involve rotating the eye of a frog.
+Now unlike mamals and amphibians, if you destroy the optic nerve it will actually
+regrow into the brain and what was done in this experiment is that the eye was
+surgically rotated and then reattached. And after some time, the axons that were
+cut in the optic nerve were able to regenerate and reinnervate the brain.
+And so, the behavior of the frog was then observed, and what was very clear was
+that after rotating the eye of the frog, its behavior was off by precisely 180
+degrees, which was the extent of the rotation.
+So a visual motor target appears, to the upper left, and the frog protrudes its
+tongue to the lower right. not good for the frog, maybe good for the
+fly. It indicates the identity of the retinal
+ganglion cells continued to be recognized by the appropriate domain of the optic
+tectum. Irrespective of the surgical rotation of
+the eye. So what this experiment illustrated is
+that the anatomical structures of the eye remapped to the same divisions of the
+optic tectum. irrespective of the rotation of the eye.
+So in this case we imagine that the fly is out in the temporal part of the visual
+field, which ought to be seen with a normal eye by the nasal part of the
+retina. The problem is that the eye has been
+rotated. So now what should be the temporal part
+of the visual field is being seen by the temporal part of the retina.
+Following rotation, well that part of the retina is going to innervate and project
+into this anterior part of the tectum which is going to be responsible for
+inducing this reflexive motor action down into the right.
+Which is now exactly 180 degrees off of where the appropriate strike should have
+been to acquire the target. So this experiment shows us that this
+mapping seems to be of a chemical nature, rather than a functional nature, fully
+tuned and fully accomodated to the behavior of the animal.
+So, many years had passed. decades, as a matter of fact, of, that
+established this topographic map were worked out.
+So we know that in this system what mediates the topography of this
+connection between the retina and the tectum, are ephrins and their receptors.
+So rather than there being a precise lock and key mechanism on a point by point
+basis, what we see is the establishment of gradience.
+Gradience of the ligand and gradience of the receptors.
+And the matching of ligand concentration to available receptor is what establishes
+the continuity. And the topographic mapping.
+Such that the most posterior temporal portion of the retina is mapped to the
+most anterior portion of the tectum. And then a gradient is established for
+the rest of the posterior temporal retina.
+And that gradient then is what allows for the exclusion of axons, that then come to
+be mapped into the posterior part of the tectum.
+Those axons being derived from the nasal part of the retina.
+So efferent signal is critical we think for the establishment to typographic maps
+not just in the optic tectum of the frog, but we think, where ever we find
+topographic maps in the developing central nervous system, including ours.

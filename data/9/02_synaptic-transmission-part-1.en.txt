@@ -1,0 +1,277 @@
+[SOUND] Hello.
+Welcome to this tutorial on synaptic transmission.
+Our core concept is, once again, that neurons communicate using both electrical
+and chemical signals. Now that we've discussed the means for
+generating electrical signals, we're ready to talk about how chemical signals
+are used in neuro transmission. We have a couple of learning objectives
+for you today. first I want you to be able to compare,
+contrast the structural functional similarities and differences between
+electrical and chemical synapses. I want you to be able to describe, the
+sequence of events that's responsible for transmission of neural impulses from one
+neuron to the next, via a chemical synapse.
+I want you to consider that process in more depth, and characterize the critical
+role of calcium in chemical neurotransmission.
+And lastly, I want you to be able to discuss the mechanisms of action, by
+which Botox, which is a compound found in nature, and now produced for various
+clinical and cosmetic procedures, how this compound affects neurotransmission.
+[SOUND] Let's begin by considering the general structure and function of
+electrical and chemical synapses. Electrical synapses which are illustrated
+on the left hand side, function by means of proteins that form channels, called
+Gap junctions. And these channels, allow for the passage
+of small ions that carry current directly from the cytoplasm of one neuron to
+another. Now in contrast, the way chemical
+synapses work, is via the release of these packages of neurotransmitter into
+the synaptic cleft. These packages are called synaptic
+vesicles, and the transmitter itself could be one of a variety of chemical
+compounds, that has to diffuse across the gap, between neurons in order to have an
+effect, on the post synaptic neuron. Now in order to compare and contrast, the
+general function and structure of electrical and chemical synapses, I would
+invite you to turn to the very end of the tutorial notes that I've given you, and
+look at the table, where I've try to lay out some general properties that allow us
+to compare and contrast, electrical and chemical synapses.
+So, let's begin with some general functional considerations.
+Electrical synapses allow for, a very rapid communication of electrical
+signals, from one cell to the next. And this is often very useful.
+if. it's important to synchronize a local
+population of cells, that might be in contact with one another via these gap
+junctions. So here's a slightly more detailed
+rendering of what a gap junction might look like.
+So what we see here are, the close apposition of two membranes.
+so much so that it allows for the pairs of complimentary gap junction proteins,
+to actually line up in registeration with one another, from across the two cells
+that are coming together here. So these proteins that form these gap
+junctions, are called connexons. And they aggregate, to provide an aqueous
+channel that allows for a current carrying molecule to pass directly from
+the cytoplasm of one neuron to another neuron.
+So here's another look at what this might, might look like.
+So, you can see a variety of connexons that are all, arrayed.
+Here allowing for ions to pass from one location to another, and with it
+potentially carrying let's say a positive charge thereby exciting one cell and it's
+neighbor. Now, as I mentioned, this mediates very
+rapid synaptic affects so rapid that this is the fastest way that neurons have to
+communicate one with another. Here in this illustration we see that
+virtually the same instance that a presynaptic neuron fires an action
+potential the postsynaptic neuron begins to depolarize towards thresholds, so that
+it fires an action potential just a fraction of a millisecond after the first
+action potential in the presynaptic neuron.
+Now, this can be very useful in a variety of physiological contexts.
+One is when it's important to synchronize a local population of cells.
+So look here, we have two neurons that are connected via gap junctions.
+And when one fires an action potential, not perfectly in sync but very nearly in
+sync, there are other cells that fire action potentials.
+So this is important in, certain parts of the central nervous system, such as the
+hypothalamus. Where a certain quantity of a chemical
+might be, released into the bloodstream. And in order to get enough of that
+chemical into the bloodstream, to have the physiological effect, there needs to
+be synchronization of a whole population of neurons.
+So that they release their hormone, or they're releasing hormone, virtually at
+the same moment in time. Now if we back up for just a moment,
+let's look again at the structure here, of the typical electrical synapse.
+And I want you to notice that, what's not present.
+So a few things that are not present: We do not have any vesicles within a
+presynaptic terminal containing a chemical neurotransmitter.
+likewise, we do not have a significant synaptic cleft, that is, a gap between
+the presynaptic neuron and the postsynaptic neuron that must be bridged
+through some chemical mediator. Rather, we have two membranes that are
+coming right close together so that the connexon proteins in either membrane can
+associate with one another forming the gap junction.
+Now these kinds of electrical synapses can form as two membranes come together,
+they can form from one dendrite to another from a dendrite to a soma or a
+cell body, or between two cell bodies, two somatas.
+Now, one other point about the permeant species that can travel from one cell to
+another through a gap junction. they're often a current carrying
+molecule, such as an ion. but there might also be some other small
+molecule, that's important in second messenger, signalling inside cells, or
+otherwise important for intercellular communication.
+small molecules that typically pass through these gap junctions can include
+calcium ions, they can include ATP, adenosine triphosphate.
+both of these molecules are important in mediating either tasks that require
+energy, or the second messenger system, such as a calcium mediated system.
+That can coordinate the activities between two neurons that are so
+connected. Now notice also even though the arrows
+here in this figure are illustrated just going in one direction, that the signals
+may be bi-directional. That is, ions are free to diffuse down
+the concentration gradients, or what other permeable molecule we have in mind,
+such as calcium or ATP. so there's no directionality to the
+communication here. It can go in both directions.
+Now, one other point here. The probability of transmission is, is
+very high. That is, when the gap junctions are open,
+when the connexons form their channels. Molecules are simply free to diffuse down
+their concentration gradients, meaning that an electrical signal generated in
+one cell, will be transmitted to the neighboring cell via the passage of a
+charge carrying ion with almost 100% certainty.
+Okay. Now we're ready to consider some general
+properties, both structural and functional of the typical chemical
+synapse. And so if we look again at figure 5.1
+from your book, we see on the right hand side an illustration of a typical
+chemical synapse. And here, a few obvious morphological
+features stand out. First of all, there are synaptic
+vesicles. that contained chemical substances, that
+are the neurotransmitters, that will be released as those vessicles fuse with the
+pre-synaptic terminal. There's a distinct cleft, between the pre
+and the post synaptic element. And that cleft is an extra cellular space
+through which the neurotransmitter must diffuse.
+Now the chemical synapse, this is the principal type of synapse we find in the
+adult nervous system. I should have made this point earlier,
+electrical synapses are much more common, throughout the nervous system, as the
+nervous system is first being constructed in embryogenesis.
+But with the exception of a few special populations such as in the hypothalamus
+where we have those hormone secreting cells, and perhaps among some inhibitory
+cell networks in the cerebral cortex, electrical synapses are not terribly
+abundant. the principal transfer of information
+that happens throughout the central nervous system is mediated via chemical
+synapses. So those are the synapses that we're
+going to spend the most time over the next couple of tutorials, thinking about
+their, their function. So, as I mentioned there is a distinct
+synaptic cleft, so it's not posible then to have, connexin proteins, forming gap
+junctions or aqeuos pores through which ions can pass directly from one cell to
+the next. Rather, there's a cleft.
+So, there's a gap that must be mediated with some chemical message that diffuses
+across that synaptic cleft. Now in addition to the presence of
+neurotransmitters of course, we also have receptors for those neurotransmitters,
+that are found in the post-synaptic membrane.
+Another distinctive feature of the chemical synapse.
+chemical synapses typically are from an axon to a dendrite, or more specifically
+to a small protuberance called a dendritic spine.
+But chemical synapses can be from an axon terminal directly to a cell body.
+They can even be from one axon terminal to another.
+So quite a lot of morphological variations can be seen with chemical
+synapses as well as with electrical synapses.
+Now notice that, current does not flow directly from one cell to the next with a
+chemical synapse. There's this mediator, this
+neurotransmitter. So once a chemical neurotransmitter has
+bound to its receptor, something has to happen for there to be the generation of
+current flow and another action potential in that post synaptic cell.
+So we're going to take some time to think through exactly how that happens, over
+the next couple of tutorials. Now with respect to timing, all synapse
+are fast, but clearly the electrical synapse is designed for the most rapid,
+most efficient form of transmission. So there's virtually no synaptic delay
+when it comes to an electrical synapse. But for a chemical synapse, all of these
+processes that we see outlined here to the right of this figure they all take
+some time to unfold. So relative to the electrical synapse,
+the chemical synapse is about maybe four or five times slower.
+still fast, still maybe about a half millisecond delay at each synaptic
+junction but still not nearly as fast as the electrical synapse.
+So chemical synapses are going to be less effective, at synchronizing local
+populations of neurons than the electrical synapse.
+A few other points to make. the chemical synapse is unidirectional.
+That is there's release of transmitter, from the presynaptic terminal and it
+binds to receptors on the postsynaptic terminal.
+Now for the aficionados, you'll recognize that there are presynaptic receptors for
+transmitters. And there might be retrograde signals
+given off by the postsynaptic cell. But for the most part, information flow
+is from presynaptic terminal to postsynaptic terminal.
+Unlike the bidirectional transmission that can clearly happen at the electrical
+synapse. And lastly, before we leave our table.
+it's worth noting that the probability of transmission at the chemical synapse, is
+surprisingly low. for synapses in the brain typically, the
+probability of there being a postsynaptic spike, given a presynaptic spike is on
+average somewhere on the order of five to 10%, of course, it varies depending upon
+the synaptic connection in question. But for the most parts, chemical synapses
+in the brain, are very weak and they're very unreliable, and there's actually a
+pretty good reason as to why that might be adaptive.
+Which we'll talk about when we discuss synaptic plasticity.
+Okay, at this point, I think we're ready for closer look, at the structure of a
+typical chemical synapse. So, let's jump back to the first page of
+your tutorial notes, and Roman numeral three, if you're following along, and
+let's have a closer look at a chemical synapse.
+Now, firgure 5.3 is from your textbook. And if you've got the textbook I would
+highly commend this figure to you. I think it's a very useful figure, for
+spending some time and studying, and maybe drawing out some of this out for
+yourself. Because it will really help you
+understand, some of the fascinating cell biology and the molecular biology that's
+responsible for chemical synaptic transmission.
+So, let's follow this figure. And we can, follow along in our notes,
+which are designed to go right along with what we see in the figure.
+So, let's consider the sequence of events that unfolds, as an action potential,
+leads to the release of neurotransmitter in the generation of a post-synaptic
+signal. This process begins in the steady state
+and what we find there in the presynaptic terminal are a variety of organelles that
+are involved in the production of energy. The production of the membrane that's
+needed to package up neurotransmitters into vesicles, and then the machinery
+itself. That manages the flow of vesicles and
+ultimately their fusion with the presynaptic terminal.
+So we find a variety of important proteins and structures that are present
+within the synaptic terminal. And I'll show you that in more detail in
+a few minutes. And we'll just highlight a few of the
+important members of that cellular machinery as we go along.
+Now I want you to notice what we have here in this presynaptic terminal, with
+respect to our synaptic vesicles. So there are some vesicles that seem to
+be floating freely in that presynaptic terminal.
+And then there are others that seem to be attached to the presynaptic terminal
+membrane. So there's a pool of vessicles that are
+free, and there are a pool of vessicles that are attached.
+Those that are attached, we call docked. And so these vessels that are docked, are
+localized near what we call the active zone, which is going to be the site of
+fusion of those vessicles with the plasma membrane.
+Those dock vesicles are the ones that are docked and ready to go when an action
+potential arrives. Okay, so sure enough, an action potential
+does indeed arrive, at the presynaptic terminal.
+So this is step number two now, and so a wave of depolarization passively diffuses
+along this preterminal membrane, until we encounter a voltage gated calcium
+channel. So near the active zones that are, are
+numerous voltage gated calcium channels, that are present and as the wave of
+depolorization hits, those channels open, and now calcium rushes in to the
+presynaptic terminal. So, step number four here.
+And this is because there is a steep concentration gradient with more calcium
+outside, in the extracellular fluid, than inside that presynaptic terminal.
+The influx of calcium is really key, because as calcium rushes in to that
+presynaptic terminal. That is the key event that happens in
+space and time. At the active zone.
+And in time following the wave of depolarization that hits the active zone.
+Calcium is what triggers the fusion event that leads to the fusion of the synaptic
+vesicle with the presynaptic terminal. And the release of neurotransmitter.
+Okay so, Calcium rushes into the cell and it causes these vesicles to begin to
+fuse, with the presynaptic terminal membrane.
+That allows their neurotransmiter to be released into the synaptic cleft via
+excytosis, a very similar process happens with all other secretory cells in the
+body. So, the axon terminal, is not
+particularly unique in that regard, but it certainly is specialized to release
+neurotransmitter via synaptic fusion events, very rapidly very efficiently.
+Now, once the neurotransmitter, is released into the synaptic cleft.
+Then that neurotransmitter, defuses. Where it can interact with a number of
+post-synaptic receptors. Some of that neurotransmitter, of course,
+is just free to diffuse away, which it does.
+But the interaction of the nerve transmitter of the postsynaptic receptor,
+is what triggers the transfer of the information from presynaptic terminal, to
+postsynaptic process. If the neurotransmitter binds to a
+receptor, that happens to open a cation selective channel, then catis can enter
+that pre-synaptic terminal. That can lead to the depolarization of
+that post-synaptic site. If this happens over many hundreds, or
+potentially thousands of terminals on a cell.
+Then that, very likely, will summate and lead to the depolarization, to threshold
+of the postsynaptic neuron and an action potential might be generated.
+without such massive summation, our typical synapse, in the brain is not
+likely to de polarize the postsynaptic neuron to action potential generation.
+But nevertheless, this is the general process: Transmitter binds to receptor;
+receptor can open a cation-selective channel; cations can flow into the cell,
+leading to their depolariazation. But that's not the only thing that can
+happen. neurotransmitters can bind to channels
+that can allow for negatively charged ions, anions, to flow into the cell, such
+as a chloride ion. That might lead to the sub threshold
+depolarization of the cell, or, or the hyperpolarization.
+Depending upon, what the reversal potential is, of the ion channel in
+question. There are also receptors that, mediate
+channel closing events. So that can either lead to
+depolarization, or hyperpolarization depending upon the permeability of that
+particular channel. So, there's a lot of activities that can
+occur when a neurotransmitter binds to its postsynaptic receptor.
+We'll talk about them in more detail over the next couple of tutorials.
+Alright. So what happens to the neurotransmitter?
+After it's been released, well I mentioned neurotransmitter's free to
+diffuse away. for some neurotransmitters at some kinds
+of synapses, there may actually be an enzyme that degrades that transmitter.
+In other, systems the glial cell, typically the astrocyte , which is going
+to be present around synaptic junctions, can actually take up the
+neurotransmitter. .
+Or perhaps the metaboloid of that neurotransmitter, and begin a process
+that will recycle that substance back to the presynaptic terminal.
+And then finally, the last thing that typically happens, is that the membrane
+from the synaptic vestical is retrieved ,and recycled.
+So that the specialized proteins associated with that membrane can be
+reused, and the membrane itself can be recaptured.
+Obviously if a synapse, were to simply fuse with all of its vesicles over time,
+the surface area of that synaptic terminal would continue to expand and,
+that would not be consistent with the viability of that synaptic structure.
+So it makes great sense that there's some kind of process that would recycle that
+synaptic membrane. And indeed there is.

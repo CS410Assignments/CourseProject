@@ -1,0 +1,368 @@
+Hello, everyone.
+Welcome to medical neuroscience and welcome to our first tutorial on the
+Functional Micronanatomy of Neurons. As we think together, I have three
+learning objectives for us to consider. First, I want you to be able to describe
+in very basic terms the classes of cells found in the central nervous system.
+I want you to be able to focus on one particular class that we'll spend much of
+our time in unit one of this course considering, the neurons, and I want you
+to think about the functional microanatomy of neurons.
+Now, I'll spend this tutorial explaining what I mean by that, but essentially I
+want you to be able to differentiate between the different parts of a typical
+neuron in terms of their structure and their function.
+And then lastly, I want you to be able to describe how that microanatomical
+structure of a typical neuron is compounded many thousands of times into
+the structure of neural tissue. And when we think of neural tissue, we're
+basically talking about grey matter, and white matter.
+Okay. Well let's begin by looking deep into the
+brain. And to do that, I'm going to show you a
+slide that I prepared some years ago. Through the motor cortex of human brain.
+So we're looking at just a few hundred square microns of tissue that has been
+stained with a particular dye called Thionine to reveal the presence of what we
+called Nissl substance, which is basically the.
+the rough endoplasmic reticulum or the machinery that's making proteins within
+cells. So it's just a great way to look at the
+cells that are present in tissue and to appreciate something about the composition
+of this tissue. So we're looking here and we can see a
+variety of different types of cells. And, indeed, the brain is a very
+complicated place even from a histological perspective.
+So, there are a variety of types of cells here and I think we can roughly categorize
+them into three types. There are neurons, which are the primary
+processors of neural signals. And as I mentioned we're going to spend a
+lot of time together thinking about neurons.
+There are neuroglial cells, which are the subject of the next tutorial.
+And neuroglial cells, or just glia for short, perform a rich variety of
+functions. And just to summarize those functions I
+would say they support the electrical And the chemical function of neurons.
+And then of course, the brain being a high, highly vascular structure requiring
+a constant supply of blood and that blood comes nutrients, such as glucose, oxygen
+and the ability to eliminate waste substances like carbon dioxide.
+So with that rich supply of blood that we find throughout the central nervous system
+we'll find vascular endothelium cells in brain tissue as well.
+So let's focus now on a neuron, and I'll make a few general remarks first and then
+we'll get on with our survey of the microanatomy of a typical neuron.
+So neurons are the fundamental unit of function in the central nervous system.
+This is a very important point and this is the reason why we'll spend so much of our
+time and energy in unit one thinking about how neurons actually, actually function.
+Now, for those of you who have a bit more background in the field of neuroscience or
+are more in tune with contemporary thinking in the field of neuroscience
+you'll realize that some might challenge this dogma that's been with us since the
+debate of Ramon y Cajal and Camillo Golgi more than a century ago.
+So with the more modern discussions for the aficionados acknowledged, I would
+continue to assert that the fundamental unit of function in the central nervous
+system is indeed the neuron. Now, neurons possess all the metabolic
+machinery that are common to other somatic cells so there's a region of the neuron
+that contains the nucleus and many of the organelles that are necessary.
+For cellular life so in that respect neurons are very much like other somatic
+cells. But in several important respect neurons
+are quite distinct. Neurons come in a rich diversity of form.
+And we call that form morphology, so when one sees diversity of morphology you
+should be thinking that there might also be diversity of function or physiology.
+And indeed, that's the case as form and function and structure are intimately
+connected within the central nervous system, even at the level of individual
+brain cells. Neurons have unique bioelectrical
+properties that distinguish them from most, but not all other somatic cells.
+For example, the machinery that's necessary to generate electrical signals
+in muscle cells is quite similar to what we see in most nerve cells.
+And finally, there are specializations for intercellular communication that are
+pretty unique to the nervous system. And for many neurons, most neurons in the
+mature central nervous system. This involves the secretion of special
+chemical molecules called neurotransmitters.
+Now again neurons have not evolved this capacity, independently of other kinds of
+cells in the body, there are other secretory cells that are well known in
+other kinds of tissues. But the challenge of inter-cellular
+communication demands some pretty interesting and some pretty unique
+specializations that we'll come to shortly.
+All right. Now lets survey the different parts that
+make up a typical neuron such as the one illustrated here.
+And this will give us the chance to think about what I consider to be the functional
+microanatomy of neurons. And let's begin with the cell body.
+So neurons have cell body which as I mentioned contains all the essential
+organelles importantly including the nucleus that are common to other somatic
+cells. And for most neurons, the cell body is
+actually quite rich in organelles because of the incredible synthetic capacities
+that are required for neurons to maintain their morphology as well as to support
+their function. So we find an abundance of endoplasmic
+reticulum, both smooth and rough, for example, for the synthesis of lipid
+molecules and proteins, respectively. We find an abundance of mitochondria for
+the generated the enormous energy supply that's necessary to keep neurons functions
+within their homeostatic states. So, for a variety of reasons, the cell
+body is a very important component of the neuron.
+Now from that cell body grow out numerous different sorts of protoplasmic
+extensions, and I would like to draw your attention to one set of extensions which
+are typically short, about 100 microns in length, and they emanate in all different
+directions from the cell body. These are called dendrites.
+Now, dendrites are very important for the microanatomy of a neuron, because what
+they do is that they extend the surface area that allows the cell to receive
+inputs from other neurons. So wherever we see dendrites we think of
+this as an input zone because dendrites are the means by which cells receive
+synaptic contacts from other neurons. Now some synaptic contacts are made
+directly into cell bodies, but for the most part we find them on dendrites.
+Now, dendrites also have some very peculiar, very fine microstructural
+features and these called spines. So, if I can illustrate just the length of
+a dendrite for you. I'll show you what I mean.
+Imagine that's a dendrite, and if we were to look at very high power, we might see
+under a microscope that there are these tiny, mushroom-shaped protrusions.
+Out the side of that dendrite, these are called spines.
+Sometimes they're not quite so mushroom like in they're shape, they're more of a
+filament that extends some short distance away.
+And sometimes there seems to be a little stalks and a protrusion at the tip of that
+stalk. So collectively, these yet increase the
+surface area of even a single dendrite, and provide a place for synaptic contact
+from other neurons. So wherever we see a spine, we can be
+quite confident that there is a synapse in one state of formation or another from the
+axons that are surrounding that dendrite. Now, not all dendrites grow out spines.
+Some dendrites are smooth. And where we see cells that grow out
+smooth dendrites we know that these cells tend to be those that have an inhibitory
+effect on the cells that they make synaptic connections to.
+So the presence or absence of spines on dendrites is one means by which we can
+classify neurons. And we know that, that classification
+based on the morphology of the dendrite. Gives us some insight into the functional
+properties of those cells. The morphology of dendrites is one way
+that we can differentiate various classes of neurons.
+Even among those that do in fact grow out spines.
+One of the very interesting types of cells that we find in the cerebral cortex is
+call the pyramidal neuron, and it's called that because the cell body is shaped
+something like a little pyramid. And from that cell body grow out a series
+of dendrites, and from the apex of the pyramid is one rather thick, stout
+dendrite that we call the apical dendrite because it grows out from the apex towards
+the surface of the brain. At the base of the pyramid are a variety
+of other dendrites called basal dendrites. And this special apical dendrite might
+have some unique ...properties, with respect to its role in receiving signals
+from other neurons, and those might be somewhat distinguished from those in the
+basal dendritic tree. So the distribution of dendrites is,
+again, another important way that we have of classifying different kinds of neurons.
+Some neurons are multipolar. And these neurons give rise to dendrites
+that seem to just emanate in all different directions without necessarily growing out
+a single apical dendrite. So again, another example of how dendritic
+morphology can give us some insight in to the structure and physiology of different
+cells in the brain. All right, so let's continue our survey.
+Now growing out from the cell body is a very particular protoplasmic extension,
+that has unique properties that allow it to generate electrical signals.
+And this process is call the axon. Now, whats illustrated here is a fairly
+simple picture of what a typical axon might look like.
+Its a single process often that grows out from the cell body and can grow for some
+distance some axons are short. Being less than 100 microns and others are
+very long. In fact, some are incredibly long.
+Consider for example a cell that might have it's cell body in the motor cortex
+right about here inside your head and that cell has to grow an axon all the way down
+through the brain, through the brainstem and into the spinal cord.
+Perhaps some length in the spinal cord, maybe even to the lumbar or sacral
+segments of the spinal cord. So that could be maybe a half a meter or
+more, depending upon your height. Or consider the motor neuron in the spinal
+cord itself that's going to send an axon out in a spinal nerve to innervate a
+muscle. If you're a very tall person that axon
+might be close to a meter in length, really an amazing dimension considering
+the fact that the cell body itself is probably close to about 50 microns in
+diameter. So that gives you the sense of how much
+bio synthetic capacity must be built in to these neurons as well as some insight as
+to their Need for, the energy. And the raw materials that's necessary to
+grow out and maintain the function of that axon.
+Now, on the function of that axon.This axon has the ability to generate an
+electrical signal. It's a special signal that we call an
+action potential. And we'll talk more about that in a later
+tutorial. That action potential is regenerated along
+the length of the axon and in that way it propagates from cell body towards the
+terminal ending of that axon. So for that reason, we think of the tissue
+that contains the axons as a conducting zone and allows for the flow of
+information from cell body towards axon terminal.
+Now, at the end of these axons, that's where we find our synaptic terminals, or
+synapses. And these are specialized contacts that
+allow one neuron to transfer a signal to another.
+They come basically in two varieties. We'll say more about these in a later
+tutorial. There are electrical synapses that have
+specialized junctions that allow charged molecules to pass directly from one neuron
+to another, and with it is conveyed the electrical signal.
+Other kinds of synapses are chemical, which is that there is a space or a gap or
+a cleft from one neuron to the next. In that cleft is breached by a chemical
+that synthesize and released by one neuron, diffuses across that space, and
+then interacts with receptors on another. So, there's a chemical message that
+mediates the electrical signal from one neuron to another.
+We'll have a lot to say about synapses, how they work what are the important
+regulatory mechanisms that control synaptic activity as we progress through
+unit one. So much more on synapses as we go.
+Now, what I'd like for us to do is to consider how this brief survey of the
+micro anatomy of a single neuron could be compounded many tens of thousands times in
+the structure of neural tissue. Now, imagine tens of thousands of neurons
+arraigned in parallel, very much like the one we're looking at here.
+And what I want you to appreciate about this parallel organization is that where
+we find the cell bodies and the dendrites, that is, the input zone of one neuron,
+we'll find the input zone of many thousands of neurons that are arrayed in
+parallel In tissues such as the cerebral cortex, and we have a name for that.
+We call this gray matter. So as we begin to look into the inside of
+the human brain I'll be highlighting for you various divisions of gray matter.
+Those are distinguished from white matter. And now, we can think about the cellular
+components that help us define what exactly do we mean by grey matter and
+white matter. So grey matter is where we find the cell
+bodies, the dendrites and the synaptic connections of neurons.
+White matter is the conducting zone, that's where we find axons and the
+special insulation forming cells that surround
+those axons called glial cells. Specifically in the brain the
+oligodendrocyte. So that is another component of white
+matter. And then of course, both grey matter and
+white matter require nutrients in the form of vascular supply.
+So there are a vascular endothelial cells in both kinds of tissue.
+Both grey matter and white matter. And then, finally, let me again emphasize
+that, where we find the output zone of one neuron, we find the input zone of many
+others. So, grey matter is both input zone and
+output zone, depending upon which neuron we have in mind.
+Okay. Well, enough illustrations, let's look at
+some actual brain cells. So, here are some pyramidal neurons in the
+cerebral cortex that I prepared myself. And what we're looking at is a stain that
+shows us beautifully. A pyramidal shaped neuron here.
+There's it's cell body, sort of a pyramid looking, something like that, and a thick,
+stout apical dendrite progressing off towards the surface of the cortex, which
+is out here somewhere. Here is another pyramidal neuron and it's
+thick apical dendrite. We also see some basil dendrites extending
+out away from the cell bodies here. Now, we also have an axon.
+At least one that I can recognize. And it is this process right here.
+It's extending away some distance away from that cell body.
+So that's the means by which this particular cell is going to generate
+electrical signals and then propagate those signals to its neighbors, some quite
+near. And then some at a great distance away.
+Here's another pyramidal cell in the visual cortex, but we don't see it's
+apical dendrite because we're looking down from the top, so it's apical dendrite is
+actually right about there. And then here's it's cell body.
+And from it's cell body are all these beautiful, branching basal dendrites.
+Now, if we look very closely at these dendrites.
+And I know this image is not quite as clear as we would want it to be.
+We can see some spines on these dendrites. In that region and here again down there.
+So, if we have a careful look at one such area I think you'll be able to appreciate
+that there are, in fact, some small little mushroom shapes, some filaments that are
+extending away from those dendrites. And so this would be an example of a
+typical pyramidal neuron that grows numerous spines along.
+It's, basal dendrites as well as on an apical dendrite, but typically, a little
+bit further away from the cell body. Okay, here's another view.
+Had a, a large collection of pyramidal neurons.
+And we can see, again, their cell bodies. There are little pyramidal shapes here,
+apical dendrites heading towards the surface of the brain and then lots and
+lots and lots of multipolar basal dendrites going off in all different
+directions. Now, we also can detect the present of
+axons that are coming out and extending down into this white matter.
+That's what all these thin filaments are that we can recognize heading down through
+this relatively unstained background tissue.
+So, here we see all the various components of the functional anatomy of a neuron, the
+dendrites, the cell bodies, the axons. Well, we can't quite see everything
+because we haven't yet seen the synaptic terminals.
+And to give you a sense of that, I want to show you, you've got a different view of
+brain tissue. So this is tissue that's stained with a
+green dye that has labeled axons as they make their way through brain tissue,
+specifically the gray matter of the cerebral cortex.
+And I would just draw your attention to these little points of light.
+These little spots that we can see along many of these axons.
+So, these little points of light are actually places of synaptic contact.
+Now, some axons, they would grow out a terminal ending, and then there'd be
+synaptic junction at that terminal ending. Others tend to make this beaded type of
+structure and that's what we see here along these green axons.
+Synaptic boutons and they're making what we say en passant or in-passage synaptic
+connections. So along these boutons there may be
+synaptic contacts with dendrites out along the sides here.
+I know I drew them as if they look like they perhaps are spines but they're really
+boutons because this is an axon not a dendrite.
+So this is what we see here in these little points of light, synaptic boutons.
+Here's one last view of neurons and their axons, so we see cell bodies of retinal
+ganglion cells and axons that are growing out away from them towards the optic nerve
+head. And these are axons that are going to form
+the optic nerves that allow the retina to connect up with the brain and send visual
+signals into visual processing centers in the brain.
+Now, let's return to some illustrations of different kinds of neurons and recognize
+some of the various classes of cells that are present in the nervous system.
+We've talked a fair amount about the cortical pyramidal cell already and this
+is a great example of what we call a projection neuron.
+And the reason why we call it that is because, as I've alluded to, it grows out
+an axon. That can then project for quite some
+distance within the central nervous system.
+Maybe hundreds of microns, maybe even millimeters, tens of millimeters, maybe
+even tens of centimeters depending upon whether the cell is projecting within the
+brain or whether it's growing out an axon down through the brain stem and into the
+spinal cord. So projection neurons are called that
+because they grow axons that project outward away from the cell body over a
+considerable distance. And these cells often are excitatory,
+meaning that they have a excitatory effect on their synaptic partners.
+They make their synaptic partners more likely to generate their own electrical
+signals. Now, in addition to the long axon that
+projection neurons send off in a great distance away, I'll just point out as it's
+illustrated here that the axon can actually give rise to more local
+branches. That can activate cells that are sitting
+right next to the cell of origin of that axon.
+So there are local connections as well as a single axon that projects over a great
+distance. Now let's look at these cortical pyramidal
+cells in context. Here to the left we have our illustration
+of the individual pyramidal cell. And now we can see the pyramidal cell that
+is present within the cortex itself. So a body, apical dendrite, basal
+dendrite, and then a long axon. And here are two other cortical pyramidal
+cells. So this is a typical view of what a
+projection neuron looks like and where it might be found in the brain.
+So the pyramidal cell is a projection neuron, it sends axons over considerable
+distances that have the effect of exciting their synaptic partners.
+They may also give rise to local collaterals that might just excite their
+near neighbors as well. So they sort of have a dual function of
+activation local cells but also cells at a distance.
+Now in addition to these projection cells, we can also recognize some neurons that
+send axons over a much shorter distance. Only perhaps 100 microns.
+Or a few hundred microns. One example is found here.
+And this cortical stellate cell. So the cell has a cell body, it's
+typically multipolar, there are dendrites that go off in different directions, and
+then there is an axon. And that axon may branch over the nearby
+territory within the dendritic tree of that cell or just beyond it.
+So this is called an interneuron, because it doesn't project very far at all.
+So within the same bit of gray matter we can have projection neurons and we can
+have interneurons. Now the interneurons come basically in
+two physiological classes. There are those that excite their
+neighbors. And then there are those that inhibit
+their neighbors. And they're roughly equally divided with
+about as many excitatory interneurons as there are inhibitory interneurons.
+If we look into the spinal cord we can also see examples of projection neurons as
+well as interneurons. Here's an illustration of a very simple
+circuit that we have throughout our spinal cord and in the sensory and motor elements
+of our brain stem as well, and this is an illustration of the knee jerk reflex also
+known as the myotactic reflex. So we have two kind of projection neurons
+that are involved here. We have a sensory neuron with its cell
+body, in the dorsal root ganglia. Associated with our spinal nerves very
+close to the spinal cord itself. And it has a long axon that runs out
+through a spinal nerve. And in this case, innervating a sensory
+structure embedded within the skeletal muscle itself.
+This dorsal root ganglion cell grows a essential process of it's axon then enters
+the spinal cord. Now, it's worth pointing out this
+particular type of neuron to make the following point.
+This sensory axon is sending signals into the spinal cord.
+For that reason we call it an afferent neuron sending information centrally.
+There's another type of projection neuron here in the spinal cord and it's called
+the motor neuron. It has a multi-polar cell body in the
+spinal cord and it grows an axon out to the muscle.
+And the motor axon is sending signals away from the central nervous system to the
+muscle and for that reason we call it an efferent axon.
+So get comfortable with this difference between afferent and efferent.
+Afferent means signals coming in to the central nervous system.
+An efferent, meaning signals going out of the central nervous system.
+Sometimes we use these terms to talk about the flow of information with respect to
+the cell body itself. We can think of the dendrites as being
+afferent because information is coming in towards the cell body.
+And we can think of the axon as efferent because signals are going away.
+Now, we also have within the spinal cord a short axon interneuron.
+And that's found right here. So this interneuron has the effect of
+inhibiting the antagonistic motor neuron.
+So that when our hammer tap hits our patella tendon,
+the quadriceps can contract. While the antagonistic muscle, the
+hamstring muscle, is going to be more relaxed.
+Because the suppressive or inhibitory effect of this interneuron on the motor
+neuron that supplies that hamstring muscle.
+Okay, well this concludes our survey of the microanatomy of neurons, as well as a
+brief discussion of different classes of neurons.
+I hope it's helped you understand the different parts of neurons, what they
+look, how they function. So to help you consolidate your
+understanding of all of this, I'll leave you with just a couple of study questions.
+Concerning what we've been talking about as the functional micro-anatomy of a
+neuron, I want you to talk about how does information flow through a neuron.
+And think about the various parts that are listed out in these response options and
+go ahead and select your choice. And then lastly, let's take this concept
+and compound it. And apply it to understanding the
+structure of neural tissue. Specifically in this case, white matter.
+I want you to think about what are the cellular components that we find in grey
+matter and white matter? And in this question consider those
+components found in white matter, and choose your appropriate response option.
+Okay, well that concludes our first tutorial.
+I'm sorry it went on as long as I did. I will try to be more concise in the
+future, but I hope you enjoy thinking with me about these topics.
+I know I enjoyed sharing them with you. So on to our next tutorial, considering
+the non-neural cells that make up the central nervous system.
+See you next time.

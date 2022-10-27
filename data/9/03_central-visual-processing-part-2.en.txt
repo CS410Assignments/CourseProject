@@ -1,0 +1,170 @@
+Now, in the original experiments done by
+Hubel and Wiesel and then many experiments done by many hundreds of
+workers since then. we know that if such a micro electrode is
+inserted into the cortex vertically, that is, in the radial axis of the cortical
+microcircuit. What we find is a series of neurons that
+we might encounter at different depths through the cerebral cortex that pretty
+much all report the same aspects of the visual stimulus.
+That is if we plotted their spacial receptive fields we all we find that all
+of these spatial receptive fields more or less overlap, across the depth of this
+recording. And when we look and test for the
+orientation selectivity of these cells, we find that they are all pretty much
+sharing the same orientation preference. In this example, again, all preferring
+angles very much near 90 degrees. Now a different story would be observed
+if the angle of the electrode penetration is made much steeper.
+And that's what's shown in this experiment.
+So now the micro electrode is coming in the cortex at a very sharp angle, such
+that we are passing across a set of cortical micro columns progressing from
+one to the next. And what we find when we move across the
+cortex in this way, is that receptive field position slowly begins to drift
+from one location through adjacent locations until finally we reach a
+separation of a full receptive field after we advance a micro electrode about
+a millimeter or so in the cortical tissue.
+If we consider what happens with the advance of that micro electrode with
+respect to the orientation selectivity of the neurons, we find a similar shift.
+In one position, we may find neurons that prefer horizontal.
+And as we progress across the cortex, moving, let's say, in hundred micron
+increments, what we might see is a gradual progression of orientation
+preference, as we move from one sight to the next.
+And finally, we may discover that after movement of about half a millimeter or
+so, that we might have a tuning function that is entirely non-overlapping with the
+first neuron recorded, in this series across a penetration.
+So this suggests that there is a columnar organization of circuitry where all the
+neurons in the column tend to respond to the same stimulus, and that this columnar
+circuitry is organized in some systematic fashion, such that neighboring locations
+across the cortical surface are representing nearby aspects of the visual
+stimulus. And there is a smooth progression of
+change that occurs. Now, since the time that David Hubel and
+Torsten Wiesel did their experiments that earned them the Nobel Prize additional
+methods have been developed. Some of which allow neuroscientists to
+look at large scale patterns of activity. Not at the single cell level, but at the
+level of large populations of neurons over several millimeters of visual
+cortex. One such method Is known as optical
+imaging of intrinsic signals and it's based upon the fact as brain regions
+become active, they draw oxygen off of the hemoglobin that's being supplied to
+local regions. That creates a bit of oxygen debt, and as
+a consequence arterials dilate and blood flow increases to those regions.
+And there is exquisite coupling between brain activity and blood supply that
+makes these signals a robust indicator of neural activity.
+Now the method in question is called optical imagining, because we don't need
+radioactivity as we would with PET imaging.
+We don't need a magnet as we would with MRI imaging.
+rather, using experimental animals and in patients undergoing neurosurgical
+exposure of the brain, it's possible to directly illuminate the brain surface
+with light and record the subtle changes in the absorbance of light that happens
+as this oxygen and blood flow dynamic changes in brain tissue.
+So what you're looking at here is the results of an experiment that I actually
+performed. And in this study, we looked at the
+responses of the visual cortex in an experimental animal where the cortex is
+exposed to light and visual stimuli are presented on a screen in front of the
+anesthetized animal. So this panel that we have here in the
+upper right hand side of the image is a view of a the living brain and all the
+little lines that you see, these are all blood vessels that are supplying the
+brain with the blood that it needs to be active.
+Now if we take an image of the brain with no stimulus on the screen and compare
+that to an image taken while a stimulus is presented, we can subtract those
+images and look for the very small change in the absorbance of light that is a
+reflection of brain activity. When we do, we have the image that is
+shown here on the left. So we're looking at roughly about 8
+millimeters by 6 millimeters to the visual cortex.
+And what we see are a series of dark spots and small bands.
+And these dark spots and bands are cortical columns that were activated by
+the stimulus. Now it's interesting to look at the
+literature from the time of Hubel and Wiesel's original writings back in the
+60s and 70s and see how even though they were probing the brain with
+micro-electrodes, they still had a sense of the organization that this method
+makes now quite clear. And that is that there are columns of
+neurons that are responding to the same visual stimulus that are distributed
+across the visual cortex. And columns shift their preferences
+gradually from 1 location to the next. Such that, if we compared the responses,
+let's say, to a horizontal stimulus, with those to, let's say, a vertical stimulus,
+what we would find is that the columns that are present in these 2 images
+precisely interdigitate. So the image we see here in the upper
+right is the result of the subtraction of the images acquired while the animal
+viewed horizontal stimuli and vertical stimuli.
+And it's a way of looking at how selective is the response.
+That is how well can we differentiate the responses to one visual angle horizontal,
+from another vertical and we can repeat this method over and over again with
+different kinds of stimuli different pairs of orthogonal stimuli and generate
+a family of images that reflect the interdigitation of columns that are
+representing orthogonal orientations. Now there's a different way to represent
+this data that I'd like to show you here by looking now at a dynamic
+representation of a set of these images where we will just loop around and see
+how the illusion of motion in these images gives us some insight into the
+organization of the functional map for orientation preference.
+What I'd like to show you are some data from my lab and the lab of my colleagues.
+Where we've looked at different experimental animals and have measured
+the distribution of orientation columns in their brains.
+And we've created an animation that runs through all the images that were required
+as the orientation of the visual stimulus was changed.
+So if I start this animation, and it will just run over and over.
+What you can see, I think, is this beautiful dynamic array of functional
+representation in the brain. Of course, it looks like something's
+moving in the brain, nothing's moving in the brain.
+What is changing is the distribution of functional activity over time as the
+visual stimulus is rotated. And one point I would like for you to
+appreciate is really how similar these patterns look in three very different
+species of animals. the Treeshrew is a small animal that
+makes its home in Southeast Asia. The Galago is a Prosimian primate from
+Central and South America. And the third of course is a domesticated
+carnivore. So we're looking at the visual cortical
+patterns from animals that diverged about 65 million years ago.
+And yet there are very similar patterns and seemingly a highly conserved cortical
+network that's giving rise to these patterns.
+And if we look in even more detail I find it interesting that we can localize
+certain locations in these images where it looks like these dark domains of
+activity are swirling around small points, or singularities.
+And we call these points pinwheel centers.
+And it appears as though the organization of this representation of orientation
+preference is one of a large collection of pinwheel structures that are arrayed
+across the visual cortex. Well one way that we can represent this
+kind of a dynamic set of experimental data in a static fashion is to perform a
+little bit of image math and then apply a color code which allows us to show what
+we call the map of orientation preference.
+So we're looking at the very same region of the visual cortex in an experimental
+animal. And now we're using color to represent
+the preferred orientation at each location in the visual cortex.
+So for example, where we see the color red is representation of horizontal
+visual stimuli. So these are all cortical columns or
+bands of cortex that prefer horizontal among all possible orientations.
+And where we see blue regions in the brain, or rather brain regions that have
+been colorized blue, these are cortical columns that are representing near
+vertical. And between red and blue are all possible
+orientations that are represented in the brain.
+Now, the dark bands that we see, these are structures that we can't resolve the
+preference. But with newer techniques that allow us
+to see the activities of individual neurons in the living brain, we know that
+these zones are really not dark at all. Rather, they have cells that represent
+orientation just as robustly with as sharp tuning functions as any other place
+in the brain. But rather these cells with different
+preferences come together in very tight spaces.
+And with this method, we can't resolve their differences but with a cellularly
+based method of resolution called two photon imaging of calcium signals, it's
+possible to detect the preferences of neighboring neurons.
+Well when we do so, what we discover is that there are locations such as right
+here, right here, and there, for example, where there are point singularities,
+around which a set of cortical columns are arrayed in a radially symmetrical
+fashion. And at that point singularity, nearby
+neurons have very different orientation preferences.
+Such that we're looking at the center of one of these pinwheel formations.
+Well, I can go on and on about this as my colleagues and I have in our research.
+I won't belabor this point any further. But rather, I wanted to give you a bit of
+an inside look at the circuitry and the physiology of this wonderful part of the
+mammalian brain, the primary visual cortex.
+And all of this really has just been to illustrate one computational property,
+and that is the property of orientation preference.
+Now we and others have done experiments where we've plotted out the activity
+maps, not just of, let's say a horizontal bar moving along a particular axis of
+motion. But let's say, a horizontal bar that's
+either drifting in just one direction or drifting in the opposite direction.
+And what we discover is that we may find a domain in the brain that represents a
+horizontal stimulus but that domain may be subdivided.
+And across half of its region, there may be cells that prefer upward motion of
+that horizontal bar. And in the other half of that domain, we
+may have a clustering of neurons that prefer downward motion of that horizontal
+bar. This is what we call direction
+selectivity. And as Hubel and Wiesel discovered, there
+are numerous neurons throughout the visual pathways that respond best to
+motion presented in just one direction with much weaker responses, if at all, in
+the opposite direction. So, neurons in the visual cortex can be
+characterized by their orientation and directional selectivity.

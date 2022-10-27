@@ -1,0 +1,141 @@
+Hello!
+And welcome back to Introduction to Genetics and Evolution. The previous two videos we've talked
+about how the variance in male reproductive success leads to
+the opportunity for sexual selection. We talked about different
+kinds of sexual selection, particularly different forms
+of male competition and different kinds of female choice and
+how females were choosing. Now, the thing we didn't address yet, the subject of this video is what
+are the evolutionary causes? Basically, why is it that females
+prefer particular kinds of males? So, let's explore that. Now, we have these female preferences,
+and we have male characters. We are going to assume that there's
+heritable variation for both. Okay, so we're gonna assume that there
+alleles that confer stronger versus weaker preferences. We're gonna assume that there are alleles
+that make the characters towards the more preferred or not. Now importantly, the male characters will
+evolve in response to the preferences of females in that population. So if you're looking at for example, this
+long tailed widow bird and its population, the males have a very long tale
+as illustrated by the name. The females prefer the longer tails,
+all right, and thus males that have the long tails
+have a reproductive advantage. And these male long tale alleles
+will spread in the population. But again,
+we were trying to take a step back there. We're trying to see how these
+preferences came about to start with. Why did so many females in
+the population have this preference? By the way in this particular example, how do we know that these kinds
+of things are actually preferred? Researchers have done these experiments
+where they experimentally elongated the tails of these birds. They found that the males would have
+even higher mating success if they had artificially lengthened tails. Okay, so let's look at the first
+of these possible explanations. This is one referred to as sensory bias,
+okay. In this case, females basically
+prefer the male trait for some reason unrelated to mating. So they have some sort of bias such
+that they prefer something about this trait that has nothing to do with
+the fact that the male has it whatsoever. So one possibility would be that
+the color perhaps matches that of food. And in fact there's a real example of this
+from guppies that some of these guppies actually have a preference for the color orange matching some
+of the fruit that they eat. And the females like
+orange spots on the males. And this preference likely evolved
+in the context of food detection. Essentially they were attracted
+to anything orange colored. A random mutation arose in a male
+giving him this orange spot, and that made the female come to him and
+increased his reproductive success. So that's why this preference existed. It had nothing to do
+with the male whatsoever. And sometimes it may in fact just be
+kind of random with respect to the male. Another possible explanation is
+that somehow traits are depicting a direct benefit the female can receive,
+right? So one possibility is that females may
+acquire resources directly from the male in response to mating with them. So in a lot of animals, you can actually get nourishment
+associated with the mating. So here we have a picture
+of the bush cricket. Now, what she has here, she has
+a big spermatophore and an ampulla. So this is all something that was secreted
+by the male and given to the female. This A part here, or
+the ampulla, has the sperm and you see that going into
+the female right now. But attached to it is this
+massive spermatophylax which has nourishment that
+she will then consume. So there you go, there's a direct
+benefit to particular kinds of males, the ones that are giving you
+this nourishment directly. Sometimes females can acquire
+other sorts of resources from males such as a better territory. Maybe they'll pick a male that will be
+better at taking care of her offspring, maybe a male that will provide protection
+from other males or from predators. Or this last one sort
+of relates into this. It's possible you want to pick, as
+a female you want to pick a male that is less likely to infect
+you with something bad. This is sometimes referred to
+as the healthy mate theory. If somebody looks like this, you may be
+disinclined to mate with them just because you don't want to catch
+whatever it is that they have. Females will tend to avoid
+sickly looking males, right. That makes sense. Now, let's look at some more
+indirect possibilities here. There's one theory
+referred to as good genes. This is a case of
+an indirect benefit here. Now this was proposed and tested by
+two researchers, Hamilton and Zuk. And what they saw was
+a negative relationship between bird plumage brightness and number of
+parasites that these birds had, okay. Basically the idea is that colored
+feathers are costly to produce so you can't actually produce them easily
+if you're physiologically stressed. So if you imagine that resistance
+disease is hereditary, that some individuals have genotypes
+that are good for resisting disease. Particular traits signal this
+hereditary resistance then females will prefer to mate with males
+that have this resistance. They basically, they're making
+sure their kids have good genes, and therefore their kids are better
+at passing on their alleles. So this is the idea of
+the good genes thing. The trouble with this is, it's very hard to distinguish
+from the previous hypothesis, one of direct benefits, and particularly
+that sort of healthy mate idea. So, this is one of the challenges there. Now it's possible that both
+are actually true at some level, but it's hard to distinguish
+their relative contributions. There's another indirect one,
+it's a little bit harder to sort through. And we're gonna walk through
+this in multiple steps. Now, this is referred to
+as the sexy son model. Now, let's walk through this,
+again, in pieces. Now, let's imagine that there's
+variation in a female preference, and this variation is genetic. So some females have a preference,
+say for long tails, and some females have no preference,
+they'll mate with whoever. So we're gonna say the ones that have
+this genetically determined preference are the ones here that have
+these red triangles, okay. Now let's assume that the preferred
+trait is also genetic. Okay, so let's say it's long tails. So a subset of these males, these ones
+with the stars here, have the long tails. We'll refer to them as the sexy males. And again this is genetic that
+they have those long tails. The rest of these males out
+here do not have long tails. Now let's imagine that those
+with the preference will only mate with long tailed ones. So these three females here with
+the red triangles will only mate with these two males with the stars. So what's going to happen? Well, let's take this piece by piece, and let's see what's happening in terms
+of the next generation's sons. So if you look at these females over here
+on the left that have no preference, they will mate with any of these males, and
+probably in proportion to what they have. So let's say that each of them, each of
+these four females produces two sons, and let's say they do it from
+this whole set of males. So we'll see among the sons
+of the non-choosy females, they will be representative of
+the males of the previous generation. So two out of eight of these
+sons have the long tail. Two out of eight of the males of the
+previous generation have the long tail, so nothing's changed there. Now, let's look at the offspring
+from the choosy females. Well, the choosy females,
+again if they have two sons each, they're only having sons
+from these couple of males. So, all of these will have both
+the female preference allele, and they'll have the male long tailed allele. We're sort of ignoring a little bit
+here issues of having two copies or one copy and things like that. So, let's just take this
+as a simplified example. So in this case, all these sons will have both the
+preferred character and the preference. So what happens after that? So let's put them all together. Here's the full set of sons
+from the next generation. There's obviously an advantage to the sexy
+males because they could mate with more females, so that's why we see a higher
+fraction overall of the sexy males here. But importantly here, we notice that
+a lot of these sexy males also now carry the alleles for the female preference. They will pass those on to their daughter. So because the sexy males
+are preferentially picked by the females that have the preference, they're preferentially passing
+on these preference alleles. So essentially the preference kind of
+hitchhikes alongside the sexy trait. So there's an advantage
+to the preference because it actually is producing these sexier sons
+that pass along the preference itself. So in this case the female preference
+spreads just because both it and the preferred character exists. Notice there was not intrinsic
+benefit to the preference. It wasn't like you were
+better at finding food. It wasn't like you were necessarily
+picking healthier males, you were just picking sexy males. So what happens from this is by
+having a female preference and having the preferred trait of the population,
+automatically both of them kind of spread. Now this process can cause the spread
+of somewhat random preferences. This is a very interesting idea, and
+it's referred to again as the sexy son. Now I present to you multiple models. How do we test among these models for
+sexual selection? Unfortunately, it's very, very difficult. This is a very active area of research. Now the set of models I just presented
+to you are by far not comprehensive. This is just a subset of models for
+why female preferences may exist. Unfortunately as I mentioned,
+many of the predictions overlap. It's very hard to distinguish,
+for example, direct benefits from the good genes model. And they're not mutually exclusive. It's possible that all of these are true,
+and they may all contribute. There have been a lot of computer
+simulation models, direct analytical models, and all of them have some merit,
+so it could actually work. So this by far is one of the most active
+areas of animal behavior research. And this is one of the things people
+are really trying to figure out. Well, I hope you found
+this was interesting. Thank you for your time.

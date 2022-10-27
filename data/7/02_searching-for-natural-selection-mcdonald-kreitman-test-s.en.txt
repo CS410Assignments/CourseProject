@@ -1,0 +1,213 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In the previous video we talked
+about looking for evidence for natural selection at individual genes. And try to focus on differences
+say between humans and chimps. And infer whether these differences
+that we see may have been the result in part from the action of natural
+selection versus genetic drift. dN/dS test is useful in this regard. This is looking at the number
+of non-synonymous changes, per non-synonymous site, divided by
+synonymous changes per synonymous site. The advantage of scaling
+the synonymous changes, is these are expected to be neutral. Whereas the non-synonymous changes
+may be advantageous, may be neutral, may be detrimental. The problem though is
+the dN/dS can sometimes mix up constraint with adaptive evolution and
+just call it neutral. So this is a little bit of a challenge and
+dN/dS is generally believed to be fairly conservative when looking for
+adaptive amino-acid. When I say conservative I mean
+there's too many false negatives. There's too many times when you fail to
+see positive selection that actually has potentially operated in the evolutionary
+history of a particular gene. Now we can leverage some aspect of neutral
+theory that we haven't talked about yet. And that is that we predict the ratio
+of nonsynonymous to synonymous changes should be roughly constant through time,
+right? The ratio that you see among
+individuals within species should be roughly similar to
+the ratio you see between species. You may be wondering,
+why should this be constant through time? Well, there's an assumption about the
+neutral theory that most non-deleterious, non-synonymous mutations are neutral. Basically, those mutations that you see
+within a species that are just segregating around, they are at some frequency,
+those tend to be neutral, because the bad ones are eliminated,
+and the advantageous ones spread. So you tend to see a lot of these. So these non-deleterious, nonsynonymous mutations will
+behave like synonymous mutations. And they'll rise at some
+sort of constant rate. And they'll fix with about the same
+probability as a synonymous change. This idea of the allele
+frequency should predict 1/(2N). Now two fellows, John McDonald and
+Marty Kreitman, suggested this test, which has subsequently
+been named after them. They didn't call it the McDonald-Kreitman
+test, they just named it a test. Now they proposed that you can test for
+a selection by seeing if this ratio is constant within species and
+between species. The importance here is this within
+species is looking at the present day, we're taking a snapshot of
+a population right now. What do we see in terms of nonsynonymous
+variation, synonymous variation? The between species indicates
+historical changes, what's happened over
+the evolutionary history. So what they do is,
+they align sets of sequences, and identify their variable nucleotide sites. They basically just have
+this four cell test, where they identify each difference as
+a nonsynonymous difference within species, a synonymous difference within species, a
+nonsynonymous difference between species, or a synonymous difference. So let's try this, that was a lot
+of words, let's try it in practice. So here we have an example, let's say that
+we have four individuals in species one, and one individual in species two. For the sake of argument,
+let's say species one are humans and species two are chimps. Now here's our code on table again and
+what we're looking for are these two parallel categories. First, what is fixed between, so these
+are differences between species one and species two. We have polymorphism within, so basically what is variable within,
+in this case species one, and then we can also categorize any of these
+differences as being nonsynonymous or amino acid changing, or
+synonymous where they don't change. So what we do is we just walk through. In this case we're not looking for a site,
+we're actually just looking for overall. So where are the differences
+between species here? Well, here is a difference,
+within or between species. So there's a difference
+here between species, this is within species, this is between
+species, this is within species. This is within species. So we have an amalgam here, we have
+some within species difference, and some between species difference, okay? Now let's walk through them. So this first site here, this is a
+non-synonymous change as you can see here, CT anything to ATG, which is Methionine. That is a non-synonymous difference and this is a non-synonymous
+difference between species. So that goes in this cell. We skip this one because
+we're not going per site, we're just gonna skip the next one and
+go to the third nucleotide site. In this case we have a difference within
+species, but they all are making Leucine. So it's polymorphic within, all right? And synonymous. So let's jump now over a little bit. This one right here is a difference
+between species, but again AC anything is Threonine so this is a synonymous but
+between species difference. Jump over a little bit this is
+a within species difference but second position,
+second position is always non synonymous. So it should be nonsynonymous within and the last one over here, ACC or
+ACA those are both threornines. So there should be another polymorphic
+within species because the variation is just in species one, species two has
+one of the ones from species one and is synonymous. So we basically tally these things up and
+we have these four numbers that come out, we'll just call them A, B, C,
+and D for the sake of argument. If all nonsynonymous
+differences are neutral, then we expect A/C, this ratio you see between species,
+is essentially reflecting the historical, should be equal to the ratio B/D, what you
+see within species, or the present day. In contrast if some, or especially
+if there's a lot of non-synonomous differences between species
+that were advantageous and selected, like let's say
+something helped us humans be able to digest things that
+are unique to our diet better. Then this ratio should be greater
+than this ratio, that the AC > B/D. What's happened then is these difference
+will have spread within humans. They're changing the amino acid ratio. Since they spread within humans,
+they're now a between-species difference. They're not something that's neutral
+that's just kind of hanging out in the population, okay. So let's look at a couple of examples. Here's some actual data from a few genes. Here's SEMP1, that enables cellular
+survival under low oxygen. This is a case where we see a large
+difference in terms of nonsynomis or synomis between species
+relative to within species. This would be a good candidate for
+positive selection. There's been some sort of adaptive
+difference between humans and chimps. In contrast, this one CIAS1, which
+affects an auto-inflammatory response, that one is pretty
+similar between the two. So, this is a case where
+we can't reject neutrality. The ratio here, five tenths,
+is equal to one half. Now what about the opposite? This is what we haven't talked about. What happens when,
+instead of being greater between species, or equal,
+what happens if it's the other way? So here's the gene AGT. The mutations in AGT affect hypertension,
+associated with coronary artery disease. What happens if you have a high number of
+non-synonymous differences among humans? A higher ration non-synonymous
+difference among humans, than between humans and chimps? What do you think that might mean? So now we have to think about what
+kind of variation would do this. So what kind of variation persists for
+a long time, but doesn't fix? Well the answer in this case,
+Is unfit recessive alleles. So let me show you a picture, and
+this is a picture you saw before. Let's say over here on the x
+axis is time and generations. On the y axis is allele frequency. Now, let's imagine hypothetically that you
+had an allele that was actually bad, but it was recessive. What you might see is you might see
+something that looks like this. We saw this, actually, in previous videos, when we talked about the action on
+the actual selection, that it's actually kind of hard to completely get
+rid of these recessive bad alleles. These bad alleles can stick around for a
+long time, because what's happening here, let's say, for example, the bad one is aa. And then the good ones are AA and
+Aa, right. What happens is it gets very rare, almost all of the little as
+are present in the heterozygous form. So they're basically masked and selection
+doesn't get rid of them very well. Only the very small number of aa
+are actually being eliminated by natural selection. So the better dominant allele
+never quite gets to fixation. Now a lot of diseases, as I mentioned
+way back when, tend to be recessive. And as a result these mutations
+causing disease will stick around within populations but never fix,
+and they eventually do get lost, but it takes a very long time for
+them to get lost. So this is a variation that you'll see
+that will stick around within the species and it effects the within
+the species numbers, but does not effect
+the between species numbers. And these diseases will tend to
+be associated with non synonymous bad variations, so
+this is what causes that. Essentially, here's the ratios
+again we talked about, between species nonsynonymous over
+synonymous versus within species nonsynonymous over synonymous. That if all nonsynonymous
+differences were neutral we expect these ratios to be similar. If some of these nonsynonymous differences
+were advantageously selected then we expect this ratio, A/C > B/D. Right, because the advantageous
+ones would spread, they would come between species
+non-synonymous variation. In contrast, if you have maladaptive
+non-synonymous differences, they will persist within species and never be converted to between
+the species differences. In that case A/C < B/D. The that's what will happen if you
+have diseases lingering around. So looking at the McDonald Kreitman
+test we have this A/C = B/D. That's a case where you
+can't reject neutrality. Again, it doesn't mean it's neutral,
+it can be a mix, but you can't reject it. If A/C is greater than B/D, then we have increased non
+synonymous changes between species. We have more non synonymous changes than
+we expected between species relative to within And that is indicative of positive
+selection or advantageous variation. So you're running. In contrast, if A/C is less than B/D then
+you have decreased nonsynonymous changes between species. What that means is you have some variation
+that's lingering within species and doesn't quite get fixed. That is often the result
+of negative selection. There are other possibilities, things like
+overdominance that we talked about earlier will also do this same sort of pattern. But it's thought that over dominance
+is not especially common, so a lot of this is going to be in
+the boat of negatives selection or bad variations sticking around. So what happens when
+we look at the genome? I showed you a couple of examples. This is looking at a lot
+of genes studied across or the difference between humans and chimps. The blue marked genes are ones that have McDonald-Kreitman tests results
+indicative of positive selection. The red ones are indicative
+of negative selection. You notice there's a lot more
+red out there than blue. But again,
+we know that most mutations are bad. We know that most bad mutations
+are recessive, therefore, it's gonna make it so
+they're just kind of lingering around. So instead of just looking at this figure,
+let me give you some of the numbers. The positively selected genes from that
+particular study I was just showing you, there are about 304. Again, what are they associated with? The same sorts of things as the high
+dN/dS values, immunity protein genes, gamete formation ones,
+also some for sensory perception. In terms of negatively selected ones,
+many of these are involved in cytoskeleton formation and they're often associated
+with diseases like, muscular dystrophy, cardiovascular disease, etc. So let me give you one to try here, so you
+can have a little bit of practice within the video before you even try
+any of the practice problems. So this is a hypothetical sequence for
+arsD. This is something that controls
+arsenic resistance, okay? So I want you to go through here and
+calculate and interpret the McDonald-Kreitman test. So, you may want to pause the video before
+you actually get to the in-video quiz. Yep.
+I hope that wasn't too difficult for you. Let's go ahead and take a look. So what I'm gonna do is I'm gonna
+highlight things in blue and red first. So the blue ones here are indicating
+differences between species, so this is comparing humans to chimps. The blue ones are indicating
+differences between species. The red are indicating sites that
+are variable within species, to make it a little bit easier to see. So let's look at those. We're looking at between species. We have one non-synonymous difference,
+that's this one right here, this is non-synonymous. And we have two synonymous
+differences between species. All right, so
+this is a synonymous difference here, and synonymous difference here. When looking within species,
+what do we see? We have two nonsynonymous. This one is nonsynonymous. Remember, always the second
+side's nonsynonymous. This one's also nonsynonymous. And this one right here is synonymous. So one synonymous within so
+our ratio's 1:2 versus 2:1. So again, which one is bigger? And of course we see it's bigger
+in the within species category, that this is a result in
+the direction of negative selection. That there is potential bad variation
+sticking around within species and not being eliminated. So let's recap real quickly,
+here's the McDonald-Kreitman test. Again if A/C, A being the between
+species nonsynonymous divided by between species synonymous for C is equal to B/D,
+the same for within species, you can't reject neutrality,
+does not mean that it is neutral. If it greater between species
+than within species, then you have increased nonsynonymous changes, that
+interesting positive selection, right. In you have A/C < B/D, you have decreased, you have been holding back
+the nonsynonymous changes. They're staying within species and not
+converting to differences between them. That is negative selection. Now I've shown the dN/dS test and I've shown you the McDonald-Kreitman test,
+there are other metrics out there. There are many that also exist
+that we won't use in class, the one popular one is
+referred to as Tajima's D. That uses the frequencies of alleles
+to test for recent selection or recent changes in
+population size in example. But importantly these are implemented
+to understand what's going on. There's two general approaches for study. One is to scan the whole genome
+using these metrics and look for possible selection and
+then try to interpret it. All right, so
+that's like the picture I showed you. They're showing all the red and
+blue labelled genes. That's where we look at everything and
+try to interpret how much positive selection versus
+negative selection in the genome. The other is the look at candidate genes, to pick out the subset of genes
+that you know effect brain size or effect speech and look for
+the signatures of the selection of those. Or maybe even individual genes. Now, both of these are active
+areas of research. And both of them have given us some
+clues as to what's been important in our divergence or the divergence of any
+other species that have been studied. So closing out, what makes humans special? Well, these DNA sequence-based tests have
+shown that, again, hundreds of genes have undergone selection to change, and a lot
+of that seems to be, when I say selection to change, I'm referring to this positive
+selection, this adaptive variance. More genes are under some
+selection to stay the same. Nonsynonymous changes are bad,
+and therefore they're held back. They don't ever become
+differences between species, but may linger as differences within species. Therefore some of these bad alleles are
+sticking around, and this also makes it so a lot of our sequence is a lot
+more similar chimpanzee, than if we were evolving purely neutrally. But importantly, and
+let me just close with this, there's no single gene change
+that made us what we are today. Yet, we're not as
+different from chimpanzees, genetically, as we might like to think. Well, I hope you found this interesting. Thank you for joining.

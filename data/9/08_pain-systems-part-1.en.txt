@@ -1,0 +1,242 @@
+Welcome back to Medical Neuroscience.
+Today, we're going to talk about the Pain Systems.
+This topic is one of the most complex that we can conceive in the whole field of
+Medical Neuroscience. So it's not surprising that we're going to
+be once again reinforcing our core principles that the brain is the body's
+most complex organ. We're going to be talking about the
+circuits that arise in early brain development that give rise to our
+perceptions of pain. And then what we do with those perceptions
+as pain becomes part of what our cognitive faculty now integrate into our integrated
+perception of self. And, of course the human brain endows us
+with a natural curiosity to want to know how all of this works.
+And, as we begin to discover more about the nature of pain processing.
+And the interactions between our pain systems and other aspects of cognition.
+We're on the threshold I believe to really understanding how to best manage
+individuals who suffer from pain of various sorts.
+So it's a very exciting time To be learning about neuro science and it's
+applications in the world of healthcare. Our learning objectives today are to be
+able to discuss with some foundation the complex phenomenology of pain.
+I want you to specifically be able to describe the two basic categories of pain
+that we often differentiate clinically. They're called first and second pain.
+And explain the neural foundation of each. I want you to be able to characterize the
+peripheral and the central mechanisms underlying hyperalgesia.
+I want you to be able to characterize the neural mechanisms for the feedback
+modulation of nociceptive processing. And I also want you to consider the feed
+forward modulation of pain processing. And lastly, I want you to be able to
+discuss the effective dimensions of pain. And identify the neural systems that are
+involved in pain affect. It might be useful in our discussions to
+consider that no nociceptive aspects of pain from the affective or the emotional
+aspects of pain. And it's from the latter that we believe
+arise the notion of suffering. So let's begin by discussing the complex
+phenomenology of pain. Well, we're going to spend a little bit of
+time on the neurophysiology of pain systems.
+And we will begin by considering pain as one submodality of somatic sensation.
+And the word we use to describe this is called nociception, which means pain
+perception. But we know that the phenomenology of pain
+goes well beyond nociception. There's an affective component to pain
+that has bearing on our emotional lives. And then there's a phenomenon that we call
+secondary affect, which refers to how the impact of chronic pain begins to work it's
+way into our emotional life. Especially as we consider the future
+consequences of living in pain. And all of this, of course, happens within
+the psychosocial context that can have a significant impact in modulating the
+experience of pain. So I think you get the idea.
+That, to understand pain. One needs to understand the transduction
+of signals in our nociceptive pathways. But one needs to go well beyond the
+concept of nociception. Well, for those of you that are headed
+towards careers in the health care systems.
+There is, quite a lot of change that has taken place over the last decade.
+And will likely to continue to take place, as the impact of pain in health care
+management, continues to evolve. We've seen, a, a, a radical, change in the
+way that we assess pain. At least here in the United States
+thankfully. Assessments of pain is now part of
+standard procedure. Every time a patient enters the health
+care system. But even the best practice for how we
+assess pain is not so clear. There are changing strategies for pain
+management. And I think we're seeing A welcomed
+introduction of interdisciplinary approaches in pain management.
+And I think that's going to be a key strategy towards dealing with not just
+nociception but the consequences of pain as well.
+And as a result of all of this I think we will continue to see a changing role for
+health care professionals. In the management of pain.
+Well, I share this with you just to give you the broader context of the problem of
+pain in medical neuroscience. Okay, well, let's begin to talk about the
+neurophysiology of pain beginning with the neurophysiology of nociception.
+Well, as you remember from last time nociception begins at the peripheral
+ending of a dorsal root ganglion neuron. And in the case of our pain and
+temperature afferent fiber, that dorsal root ganglion neuron grows an axon that
+ends a structure called a free nerve ending.
+The central process extends into the spinal cord where there is a synaptic
+connection with a neuron in the dorsal horn.
+And note, that's an important distinction between our mechano sensory pathways and
+our pain and temperature pathways. The mechano sensory pathway extends
+essential the central process, then enters the dorsal column.
+And then grows up to the caudal level of medulla before making a synaptic
+connection along the mechanosensory pathway.
+But for pain and temperature the first synapses right here at the dorsal horn, we
+will come back to that point. For now, let's turn our attention to this
+receptor ending. And what we discover Is that within the
+tissues of the body, there is a type of ending that we call a free nerve ending.
+Because these free nerve endings are not encapsulated.
+They're not associated with any particular specializations of Schwann's cell,
+Lamelly, nor are they affiliated with special cells, such as Merkel discs cells.
+So they're free nerve endings. Thy distribute fairly broadly within the
+tissues. Suggesting that they have a fairly large,
+receptive field size relative to some of our finer processes, like these Meissner's
+corpuscles, for example. So these free nerve endings.
+These are the structures that will transduce the signals the signals that
+lead to the generation of action potentials in our pain and temperature
+fibers. Well let's look at those fibers.
+The pain and temperature fibers are among the smallest sensory fibers that we have
+in our spinal and cranial nerves. They come, basically, in, in two classes,
+one of which can be further sub-divided. Those classes are the A delta fibers and
+the C fibers. The A delta fibers include axons that end
+in receptors that are sensitive to mechanical stimulation that can lead to
+nociception. There's also a type of delta fiber that is
+sensitive to both mechanical energy and thermal energy when it threatens to damage
+tissue. Now, notice that these A delta fibers are
+a little bit thicker. They have in axons that diameter a couple
+of microns, they tend to be lightly myelinated.
+In contrast our C fibers on the other hand, are very small indeed.
+And most of these are very poorly myelinated or perhaps unmyelinated all
+together. So that suggests that the conduction
+velocity of the A delta is going to be greater than the conduction velocity of
+the C fibers and indeed that's the case. We'll come back to that point about speed
+in just a moment. So these C fibers they are polymodal.
+And what we mean by that is that they respond to multiple modalities of energy
+or of chemical conditions that potentially can signal damage to the tissues of the
+body. So they respond to thermal, mechanical and
+chemical stimuli. So lets think now about the transduction
+mechanisms at the ends of these axons. So what we find at the end of these axons
+is a type of channel that was discovered not too long ago.
+And it's a type of channel that is a member of the Transient Receptor Potential
+family of ion channels. So we call these TRP channels for short,
+and there's a whole variety of TRP channels that have since been
+characterized. These TRP channels.
+Might be sensitive to one of a variety of stimuli.
+They may be sensitive to heat. There are TRP channels that are sensitive
+to cold. There are TRP channels that are sensitive
+to the presence of protons indicating acidic conditions developing, often.
+Secondary to tissue damage and inflammation.
+And then there are modulatory sites on these channels that combine organic
+compounds such as Capsaicin. So Capsaicin is a substance in chile
+peppers that give it its heat. And isn't it interesting.
+That we've come to use this word to describe the experience of eating a chile
+pepper. We say that it's hot we say that my mouth
+is burning. When in actuality this substance is
+modulating the activity of a TRP channel that otherwise might very well be
+sensitive to heat. So, it seems like we've gained some
+insight into nueroscience through the culinary arts, so I think that's, that's a
+wonderful idea. Okay.
+So, these TRP channels then can be modulated by a variety of substances.
+And they can be gated via the interaction of these channel proteins.
+With, protons, heat, cold. Other factors that are released by the
+mediators of inflammation in damaged tissue.
+And what these channels do when they are open, is they allow for the passage of
+cations, like sodium and calcium. So as sodium enters the cell it will
+depolarize the cell. Produce a generator potential.
+And potentially an action potential if the threshold is crossed.
+Calcium as you will recall, is an important mediator of second messenger
+signaling within the cell. So as calcium levels change within the
+terminals of these free nerve endings, then there may be a variety of
+consequences which respect to protein posphorylation and deposphorylation.
+And that will be important for understanding the impact of inflammation
+and the sensitivity of these free nerve endings.
+Now, let's move to consider what happens in the central nervous system.
+When the cental process of these first order axons enters the spinal cord.
+So, here, we're looking at a cross section through the lumbar level of the spinal
+cord. And we imagine that somewhere out here is
+a dorsal root ganglion cell that ends in a free nerve ending.
+And the central process enters this dorsal root entry zone and synapses on neurons in
+the dorsal horn. And I'll just highilght one very
+interesting part of the dorsal horn. I've told you elsewhere that the dorsal
+horn is a series of layers of cells. And one layer that's very important in
+processing signals related to pain is called layer two or laminae two.
+And it's identified on the left side of this panel.
+This is called the substantia gelatinosa for the appearance of this layer in a
+myelin stain such as what we're seeing here.
+So it appears rather bright. Meaning that it's densely populated by
+small cell bodies. With the exclusion of most heavily
+myelinated axons. So, within this region, this laminae two.
+We have a rich assortment of projection neurons and interneurons that are going to
+be receiving the input from these first order axons.
+The circuitry of the dorsal horn is going to be an important mediator of signals
+coming both down from the brain as well feeding forward into the spinal cord that
+will modulate the transmission of pain signals.
+From the first order axon, to the second order cell body, so we'll come back and
+talk more about that circuitry near the end of this tutorial.
+Here's yet a more schematic look at this circuitry here the dorsal horn.
+So there are, are pain and temperature afferets, are C fibers or a delta fibers
+coming in to the dorsal horn. And here's our substantia gelatinosa, our
+layer two. And deeper down we have additional cells
+that receive this incoming Information about pain and temperature.
+Near the base of the dorsal horn in laminaes five and six.
+And notice that the C fibers they tend to terminate more superficially.
+Mainly in what's called the marginal zone and in the substantia gelatinosa, this
+more posterior cap of the dorsal horn. Whereas the delta fibers tend to terminate
+more deeply, on these large projection neurons that are found in laminae five and
+six. The delta fibers might also give rise to a
+superficial collateral. So I think it's helpful to just remember
+that the C fibers predominately terminate out in the region of the substantia
+gelatinosa. Whereas the A delta fibers tend to project
+more deeply at the base of the dorsal horn.
+Well, from both places from the more superficial parts of the dorsal horn as
+well as the deeper part second order axons arise from neurons that will then project
+all the way up through the brain stem. And terminate among targets there and in
+the thalamus, as we'll see in more detail in a different tutorial.
+But for now, what I want to do is highlight the difference we think, from a
+functional and clinical perspective between the signals conveyed via the A
+delta fibers and those conveyed via the C fibers.
+Now, imagine the unpleasant scenario of banging your thumb with a hammer.
+Or perhaps, closing a door on your fingers.
+That's going to hurt. And the way it's going to hurt is that
+there will typically be a very rapid, sharp shooting pain.
+So we call that first pain. And that first pain typically subsides in
+just a matter of seconds. And what's left is more of a throbbing
+pain, that we call second pain. So there's this first pain and a second
+pain. And we think that these two qualities of
+pain that follow slightly different temporal dynamics correspond to signals
+that are transduced by A delta fibers and C fibers.
+We think the A delta fibers are associated with the first pain.
+And the C fibers are associated with transducing the second pain.
+We know that because in experiments when it's possible to silence or to take out
+the a delta fibers, all that's left is the second pain.
+And in complementary experiments, where the C fiber has been silenced.
+What we have is the sharp shooting pain, but not so much this dull, aching pain
+that evolves more slowly and persists for a longer period of time.
+Well, as it turns out, the dorsal horn neurons that are receiving this input from
+the A delta and the C fibers seem to give rise to different connections.
+The dorsal horn neurons that sit down in those deeper layers, layers five and six
+of the dorsal horn, give rise to projections that travel directly to, to
+the thalamus. And from there, there is a relay in the
+ventral posterior complex. Sending signals into the somatic sensory
+cortex In the post central gyrus. So this is a relatively rapid pathway for
+the transmission of signals from the A delta fiber to the thalamus, and then on
+to the somatic sensory cortex where the localization of injury can be quite
+precise. Because this information is now being
+elaborated within the context of this exquisite map of the contralateral body
+surface that's found in the post central gyrus.
+Now, in contrast, the C fiber system gives rise to much more diffused set of
+projections. And we might have inferred that, that
+would be so if second pain is associated with more of an emotional or affective
+component. One might imagine that the C fiber
+information should gain access to those parts of the brain that are concerned with
+emotion. And indeed they do.
+The c fiber pathway enters the dorsal horn synapses in the more superficial parts.
+Like the marginal zone, and the substantia gelatinosia.
+And from those more superficial layers, projection neurons grow axons through the
+spinal cord into the brainstem. And along the way, these axons terminate
+among a variety of structures in the brainstem.
+Structures that have widespread influence over the activity of cells in the
+forebrain. Some of these fibers will also make it to
+the thalamus. But rather than synapsing in the ventral
+posterior complex, they tend to synapse in medial nuclei in the thalamus.
+Those that, likewise, give rise to widespread projections to parts of the
+brain that are more concerned with aspects of cognition, than they are with the
+localization of somatic sensory stimuli. Those regions are in the ventral and
+medial parts of the forebrain, what we might call the limbic forebrain.
+So, these pathways then suggest something about the functions of our A delta and C
+fibers. They seem to provide information that runs
+in parallel, but serves quite different purposes.
+With the first pain pathway helping us to localize the source of the injury to our
+tissues. Whereas the C fiber pathway seems to
+motivate in response to that injury.

@@ -1,0 +1,149 @@
+Welcome to this tutorial on early brain
+development. This topic today will relate to several
+of our core concepts in the field of neuroscience.
+in this session, we're going to talk about how neurons communicate, but in a
+different context than what we did in Neural Two.
+So, yes, indeed, neurons communicate using both electrical and chemical
+signals, but today, we're going to focus on the earliest events that led to the
+development of the nervous system, and we will explore, in some detail, a means of
+chemical communication that doesn't involve synapses, but it's cell to cell
+communication via chemicals nevertheless. And, it is a mode of signaling that
+results in the acquisition of cellular identity, cellular fate, and the regional
+specification of structure in the developing brain.
+I think you'll find that a fascinating example of how specific molecules can be
+used to build a brain. Well, we will also be talking about the
+expression of specific genes in the the developing brain.
+So, in a sense, we can apply actually, core concept number three, that
+genetically determined circuits are the foundation of the nervous system.
+we will not be talking about the formation of circuits, in this tutorial,
+we'll save that for a later one. But, we will definitely be exploring
+examples, where the specific expression of genes is essential for building the
+foundations of the central nervous system.
+And then lastly, I think the core concept that I'd like to allude to, just briefly
+as we go through this tutorial, is that life experiences can change the nervous
+system, and the kinds of life experiences that I have in mind here are not the
+sensory motor experiences that we've been talking about in the last couple of units
+of this course, but, rather the environment that the developing brain
+might find itself in depending upon factors such as diet the presence of
+environmental toxins. We can think of these as being very early
+life experiences that can shape the formation of the brain, unfortunately,
+often for the worse. Well, okay, with that as a bit of
+context, let's look at our learning objectives for this tutorial.
+first I want you to be able to characterize the events that occur during
+some really important stages of early embryonic development called gastrulation
+and neurulation. I want you to be able to state the
+significance of neuroinduction. This is a really important process that
+I'd like for you to be able to understand and, and be able to discuss with a friend
+or a family member as a result of this tutorial, and neural induction is one of
+the key mechanisms that leads to the initial development of the central
+nervous system. Thirdly, I'd like to be able to have you
+discuss the factors that guide the migration of neuroblasts, which are the
+primordial cells that will give rise to the neurons and glia of the brain, and
+they have to migrate to get to their final destinations.
+So, I want you to be able to have some capacity to discuss how, how that
+happens, how they migrate through the developing nervous system.
+I want you to be able to characterize the cellular mechanisms that influence the
+differentiation of neurons and glia. Obviously, they are distinct type of
+cells in the nervous system that serve distinct functions.
+And in some point in development, cells need to make a decision about what kind
+of cell they will become, a neuron or a glia, and we're beginning to gain some
+insight as to how that happens. And then, lastly, in this tutorial, I
+want you to be able to describe the role of programmed cell death, we call that
+apoptosis, and the development of the central nervous system.
+Obviously, we have an aggressive and ambitious agenda for this tutorial, so
+let's go ahead and get started. And, I'd like to set the state by talking
+in very broad terms about what I consider to be the three major forces that shape
+the developing brain and I might even argue that these forces are critical for
+shaping the evolution of the mammalian brain, but that's a different topic for a
+different day. In the context of development, I want you
+to consider how these forces interact, and we will return to this theme as we
+progress on through our unit on the changing brain.
+So, let me introduce these ideas and give you a sense of what I have in mind here.
+So, when we think about the factors that shape the developing brain, I think a lot
+of us might come quite quickly to the notion of, well, okay, there's nature and
+there's nurture. But, what do we really mean by these
+terms? Well, by nature what I mean are, lineage
+derived signals that reflect the expression of specific genes.
+so, these are genetic instructions, or what I like to call genetic
+specification. Okay, so nature reflects the genome that
+a cell has inherited from its parent cell and there are specific patterns of gene
+expression that are responsible for much of the early formation of the nervous
+system. We'll spend a lot of time in this
+tutorial emphasizing this particular force in brain development.
+Well, as the developing nervous system acquires a functional capacity then other
+kinds of developmental forces take shape. Well, we often think about nurture as
+something that might come a little bit later in brain development as the
+developing nervous system acquires the capacity for sensory experience and motor
+behavior. nurture can be thought of as
+environmental interactions, that is, experience dependent modulation of brain
+activity. There is brain activity going on at later
+stages in development once synapses begin to form and that activity is endogenous
+that is, it isn't necessarily reflecting the interactions of sensory receptors
+with stimuli in the environment. But increasingly, as the brain does
+develop, and certainly in postnatal life, a topic we'll come to in a later
+tutorial, the experience of the infant becomes an important shaper of ongoing
+development of the brain. So, we can think of nurture then, as
+environmental interactions of the developing brain, and obviously, when we
+consider genetics specification in sensory motor experience, we recognize
+that these factors interact. Well, until fairly recently, I probably
+would have been ready to move on at that point, but thanks to some wonderful
+collaborators that I've worked with over the last few years who come from a very
+different discipline, my collaborators, my friends they're actually theoretical
+physicists, and they've helped me understand that there's really a third
+major force in brain development that biologists ought to confront.
+And so, I've been happy to be educated and to really embrace this, this idea,
+and actually make it part of my research program.
+And that is to recognize that self organization is a very important force
+that shapes, that developments and the maturation of circuitry in the central
+nervous system. So what do I mean by self-organization?
+Well, self-organization, reflects the interactions of one cell to another, or
+many cells with respect to their neighborhood environments, and these
+interactions are mediated via activity based mechanisms.
+So, self-organization reflects the dynamical systems property of the
+developing brain. So, as systems form synaptic connections
+and they acquire the capacity to generate electrical signals and activity now
+becomes possible. Self-organization begins to shape the
+distribution of synaptic connections and, and axonal arbors, and the structure,
+what we call the functional architecture of neural networks.
+And I, and I, I've been slow to come to appreciate this concept because, until
+fairly recently, it hasn't really been possible to apply quantitative tools to
+characterize the organization of circuitry in the brain.
+But, now that we can do so, it's becoming, really quite compelling, I
+think, that the structure and the form and the precision of synaptic connections
+that we see in neural networks, is, is far greater than what can be accounted
+for from the genome, from genetic specification and we've done some
+experiments. And others, I think would concur that the
+degree of specification, of circuitry in the brain, couldn't possibly be
+instructed by a sensorimotor experience. So there must be an additional force,
+additional factor at play and that additional factor is self-organization.
+And so, self organization interacts with sensorimotor experience, it interacts
+with, genetically encoded mechanisms, and together, these 3 forces shape brain
+development. Now, as you might imagine, as these
+forces interact, there's opportunity, unfortunately, for things to go awry.
+Well, there are various ways in which these basic mechanisms of development can
+go awry in brain development. There can be mutations of genes that
+affect how, these genetic instructions are read out, how the genes are
+transcribed and how the messenger RNA molecules are translated into proteins
+and then how those proteins are actually processed and inserted where ever there
+functional role happens to require their presence.
+there are also, interactions among cells, that are mediated via these activity
+based mechanisms, that are responsible for self-organizing networks in the
+brain. And, well, self-organization seems to be
+remarkably robust against perturbations. One can imagine that the self
+organization of the brain might be forced into some different, kind of state or
+some different kind of dynamical system depending upon the interactions, perhaps,
+with molecules present in the environment that might effect how genetic
+instructions are played out. And then, lastly, one can imagine that
+sensory motor experience could be important in later stages of brain
+development and indeed, perhaps across the life-span as the experiences of the
+body begin to feedback upon the structure and function of the human brain.
+And, I think what we've learned from a variety of, of sources is that sensory
+motor experience can cut both ways. It can be beneficial.
+It can promote the maturation of the nervous system or it can be detrimental.
+It can reinforce functional impairment. Well, these are topics that I want to
+progressively unfold, but I, I do want to get them out there in front of you as we
+begin this consideration of the development of the nervous system and how
+the nervous system changes across the life span.
+Alright, so, what I'd like to do now is talk about the early stages of the
+formation of the nervous system which will largely reflect the expression of
+genetic specification in the developing brain.

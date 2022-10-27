@@ -1,0 +1,150 @@
+Welcome back to our tutorial on the
+cerebellum. And in this part, I'd like to take a
+closer look at the circuitry of the cerebellum.
+And my learning objectives for you, are that I want you to be able to make a
+sketch, of the major inputs and outputs of the cerebellum.
+So, as all sketchers that I encourage you to make, the bigger the better.
+As you're making your sketch, I want you to be able to have a discussion.
+perhaps with a friend, a family member. Maybe someone who's taking the course
+along with you. But have a discussion.
+Even if it's just to hear the sound of your own voice.
+I would encourage you to describe the circuitry, that's involved in the
+processing that runs through the cerebellum.
+And as I'd like to describe for you, we can conceptualize this circuitry as
+involving a main excitatory loop that runs through the deep nuclei of the
+cerebellum. And then an inhibitory side loop, that
+runs up through the cortex and then back down to the deep cerebella nuclei.
+Before output leaves the cerebellum to influence circuits of upper motor
+neurons. Well, before we talk in detail about
+those circuits. I want to give you just a broad overview
+of the inputs to the cerebellum, and then talk just a little bit about function.
+So, the main inputs for the cerebellum come from a couple of different sources.
+they come from the pontine nuclei. These would account for the majority of
+the inputs to the cerebellum.. And notice the relationship of the pons
+to the cerebellum. The input from the pontine nuclei crosses
+the midline of the brain stem and projects into the contralateral
+hemisphere of the cerebellum. And the pathway by which it crosses the
+midline and enters the cerebellum, is the middle cerebellar peduncle.
+Now, notice that these pontine nuclei are in turn supplied by inputs that are
+derived from the cerebral cortex. So, the cerebral cortex then has the
+means by which it can send signals into the cerebellum, but only indirectly,
+through a replay in the pons. And as we discussed in the opening to the
+first part of this tutorial, one important function of the cerebellum, is
+to integrate executive commands about how we intend to move our body.
+Well, this is how this happens. Through input from the cortex to the
+pontine nuclei that are at the base of the pons, there's a synaptic connection.
+And then a relay from the base of the pons into the contralateral cerebellum.
+And notice that the input is being distributed both to the cortex of the
+cerebellum as well as to its deep nuclei. Well that's one massive and very
+important source of input to the cerebellum.
+Another important source of input to the cerebellum comes from our sensory
+systems, and specifically, from our proprioceptive systems, concerning the
+movements of our arms and legs. And this is fed into the cerebellum, via
+relays from the spinal cord in the caudal part of the medulla.
+And then there are inputs concerning the movements of our head.
+And these are conveyed into the cerebellum via the vestibular nuclei of
+the dorsal lateral tegmentum of the upper medulla and the caudal pons.
+And at least for some ganglion cells in the vestibular division of the eighth
+nerve, there may be direct connections from the eighth cranial nerve into the
+Cerebellum. So the cerebellum is getting this very
+important sensory feedback about how we're moving our bodies with respect to
+spinal cord inputs. And then, how our head is moving through
+three dimensional space. Well, there's a third major source of
+input to the cerebellum that I want to mention.
+And it's coming from a really fascinating nucleus of the ventral, and, somewhat
+intermediate aspect of the medulla. It's called the inferior olive, or the
+inferior olivary nucleus. This nucleus sends axons across the
+midline, then into the cerebellum from below, via the inferior cerebella
+peduncle. And the inferior olive is providing a
+learning signal for the cerebellum, and we're, we'll, we will talk about this in
+some detail. But, essentially, what this signal is
+doing is, it's conveying to the cerebellar cortex a time for synaptic
+change. And this synaptic plasticity appears to
+be the cellular and synaptic basis for motor learning in the cerebellum.
+Now, this inferior olive, in turn, is getting inputs that are descending from a
+pathway derived from the cerebral cortex. And the relay in this pathway is the red
+nucleus. So notice that the cortex is sending it's
+executive signals into the cerebellum via relay in the pons.
+But it's also informing the red nucleus, which is in turn activating the inferior
+olive. And when the inferior olive is active,
+now the cerebellum will engage in synaptic plasticity.
+And we think produce an error correction signal that can improve performance.
+Now, let me say just a few more words about the organization of these inputs,
+before we look at a more fine grain level at the organization of the circuits in
+the cerebellum. So, we have some anatomical terms that I
+want to define for you. they reflect the names the anatomists
+have given to the appearance of the inputs that we see under the microscope
+when we look at the cerebellum, at the cortex and at the deep nuclei.
+What we see when we look at the inputs that are coming from the pons, and those
+that are coming from the spinal cord and the vestibular nuclei.
+What we see is a morphological appearance of the input that we call the mossy
+fibers. So these inputs give rise to what we call
+mossy fibers, and this is now a bit of a shorthand term to describe all of this
+afferent input that is converging on the circuitry of the cerebellum.
+All except for one, very special kind of input, and that is the input that's
+coming from the inferior olive. This one type of input we call the
+climing fiber, and the reason we call it the climbing fiber should be obvious in
+just a few minutes. It has to do with the intimate
+relationship of the axons of this inferior olivary neuron, with respect to
+the principle cell type that we find in the cortex of the cerebellum.
+Now let me emphasize that both the mossy fibers and the climbing fibers, terminate
+at both levels of cerebellar processing, in the cerebellar cortex, and also in the
+deep nuclei. Now perhaps, it will be helpful just to
+remind you a bit of the inputs, to the cerebellum with a little bit more detail.
+you will recall that the inputs to the cerebellum from the spinal cord, convey
+signals about the movements of our body that are sensed by our preparative
+receptors. And they are conveyed the pathways that
+serve the lower extremities and the upper extremities.
+The pathway that serves the lower extremity involves a relay in the dorsal
+nucleus of Clarke, which is found in the thoracic segments of the spinal cord.
+The dorsal nucleus of Clarke grows an axon, that runs up the dorsal lateral
+white matter of the spinal cord and forms a tract that we call the dorsal spinal
+cerebellar tract. This is the major relay of proprioceptive
+signals from the lower extremities into the cerebellum.
+This pathway runs on the ipsilateral side of the cerebellum and the spinal cord.
+So the cerebellum is getting information about the movements of the ipsilateral
+side of the body. the same is true for the upper extremity,
+and this pathway runs from the first order neuron in the spinal nerves that
+enter the dorsal column. And then there's a synapse in the
+external cuneate nucleus the most lateral of our dorsal column nuclei.
+And from there the second order neuron projects, into the cerebellum via the
+inferior cerebellar peduncle in parallel with that dorsal-spinal cerebellar tract.
+And the cuneocerebellar tract is now involved with conveying proprioceptive
+signals about the movements of the upper extremities, into the cerebellum.
+So that's what we find here in the input from the spinal cord.
+So this input from the spinal cord is going be directed again, mainly at that,
+median zone of the cerebellum that we call the spinal cerebellum.
+The cerebral cerebellum on the other hand, is going to get information that is
+principally relayed via these pontine nuclei.
+So this massive connection from cortex to pontine nuclei to cerebellum is mainly
+going into the lateral hemispheres, into that region that we call the cerebral
+cerebellum. And then these vestibular inputs, that
+are being sent in some cases directly from the eighth nerve into the
+cerebellum. And others in a relay through the
+vestibular nuclei of the brain stem. these are being conveyed to the
+vestibular cerebellum, that flocculonodular lobe that's tucked
+underneath the posterior part of the cerebellum.
+One final point to make about the organization of the circuitry that should
+have been evident to you as we've been talking about it.
+And that is that the cerebellum is representing the ipsilateral side of the
+body. So perhaps I'm belaboring this point just
+a bit, but it certainly is worth some added emphasis.
+perhaps the spinal cord is what first sets up this ipsilateral representation
+by virtue of it's Ipsilateral dorsal spinal cerebellar pathway, that runs in
+via the inferior cerebellar peduncle. But, this principle of ipsilateral
+presentation in the cerebellum creates a bit of a problem, does it not?
+Because you now understand, that when it comes to the cerebral hemispheres, the
+principle is contralateral representation.
+So this means that, one side of the body is going to be represented in the
+opposite cerebral hemisphere, but in the same sided cerebellar hemisphere.
+And perhaps this provides a helpful way to just think through the necessity of
+this connection from cortex to pons, and then from pons to cerebellum.
+This will also be a challenge when think about the outputs of the cerebellum.
+That provide a means by which the cerebellar hemisphere on one side of the
+midline, can relate to circuits of upper motor neurons on the opposite side.
+So we'll face that challenge when we see an analogous figure that will be
+illustrating the output pathways of the cerebellum.
+But with respect to input, we can see how the spinal cord seems to set up this
+ipsilateral representation. And then the relay from the cortex meets
+the appropriate constraints, allowing one side of the cerebrum to interact with
+the appropriate hemisphere of the cerebellum.

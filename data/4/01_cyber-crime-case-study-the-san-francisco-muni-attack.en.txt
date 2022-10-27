@@ -1,0 +1,74 @@
+[MUSIC] Hi, welcome back to cybersecurity for
+everyone. I'm Dr. Charles Harry. In our last episode we talked about the
+threat actor type criminal organizations. And in this episode, I want to actually
+walk through a particular case study of a cyber attack
+conducted by a criminal. So this particular case study involves
+an organization called the municipal transportation Agency of San Francisco. SFMTA, sometimes referred to as MUNI. So city, it's a city government
+organization in San Francisco. That operates buses, light rail and
+the historic cable cars of San Francisco. The bus and light rail systems run
+24 hours a day, 365 days a year. Roughly weekly ridership
+approach is about 700,000. Operates 75 transit lines and
+roughly 151 light rail cars. So fairly significant sized transportation
+organization for a major city. >> The San Francisco municipal
+transportation agency has contained a cyber attack that
+disrupted its ticketing systems over the thanksgiving weekend. The cyber intrusion forced the agency,
+known as MUNI, to offer free services over the weekend. According to an agency spokesman, they
+decided to disable fare gates to spare their customers any
+troubles with traveling. The hack had no other effect on
+the transit services operations. MUNI announced in an update on their site
+that the situation has been contained. Now they are prioritizing restoration
+of their internal computer systems. >> So starting in November 25th 2016, riders encountered a variety of signs,
+including out of service, free entry. And in fact,
+several of the computer terminals, including ticketing kiosks at a variety
+of different stations throughout the immune system had, you are hacked
+sprawled across their screens. So the initial assessment of this
+particular cyber event, with that over 2100 computers might have been directly or
+indirectly impacted by this event. That all ticketing kiosks across 120 light
+rail stations had to be taken offline. All gates to the rail
+platforms were left open. And free admission was
+provided to passengers. Bus schedules that were normally done
+on a computer had to be developed and delivered by hand. Payroll systems in some administrative
+functions completely disrupted. Their email system taken offline. It is estimated that they lost over
+half a million dollars a day because of this particular event. So the investigation of this
+particular cyber event, indicated that they had been
+penetrated by ransomware spread throughout a large segment
+of its operational network. The initial access factor
+was likely a year old vulnerability in one specific
+internet connected device. The piece of ransomware that
+was used to shut down and disrupt portions of community network
+was a common ransomware variant. A large number of machines,
+well, over 900 suggests that this particular attack
+use network infrastructure to move that piece of malware
+throughout most of its network. The payment that was demanded $73,000, was typical of other recent ransomware
+attacks in the United States. So how did MUNI recover from
+this particular attack? Well, first of all, the organization decided that they
+were not going to pay the ransom. They had also done something really smart. Which was to create not only backup files,
+they containerized their system so that they could recover very
+quickly over three days. 75% of the computers that were affected,
+are restored within a single day. The remaining 25% were down for
+more than 24 hours. Some taking as long as three
+days to fully recover. But the important thing was that buses,
+light rails and the cable cars are actually able to
+operate normally during this time period. Even if they're not collecting
+revenue from the tickets. We've seen similar attacks in the years
+since against other municipal governments. These include Atlanta,
+Baltimore, New Orleans, and over 23 local governments
+in the state of Texas. So what can we take away from
+this particular case study? Well, first of all,
+possibly a single thread actor. But we don't know for certain it could have been part of
+a broader criminal organization. Leveraged a vulnerability in
+a single internet connected system. They leverage that vulnerability
+to push a variant of ransomware across an entire operational
+network at the MUNI system. Most of the ticketing chaos and
+many of the administrative functions, including their apparel system and
+their email was taken offline. The threat actor in this
+case demanded roughly $73,000 in ransom to unlock those systems. But MUNI refused to pay and
+they were able to recover most of their systems in
+a relatively short period of time. But we're starting to see in
+the years since this attack, increasing numbers of ransomware
+attacks against municipal governments. Including in places like Atlanta,
+in Baltimore and in 23 specific municipalities
+in the state of Texas. So this problem is not going away. In this case study did a nice job
+of framing some of the issues that municipal governments are facing
+from criminal organizations. In our next episode, we're going to talk
+about a different threat actor, activists. I hope to see you next time.

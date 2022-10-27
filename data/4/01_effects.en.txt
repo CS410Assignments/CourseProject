@@ -1,0 +1,77 @@
+Welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. We've been talking about
+hacking as a process. At the end of that process, hackers create an effect
+on the targeted machine. As you recall,
+hacking is a process. It starts with the
+reconnaissance of the target, that leads to weaponization,
+delivery, exploitation, installation of your malware, eventually setting up command
+and control networks, all to take an
+action on a target. It's at the end of the day, that's why you're there. What kind of effects
+do hackers generate? Well, hackers can generate
+a lot of different effects. Everything from stealing data, to generating a disruption, to a service or process. Some of these impacts are
+going to be easily remedied. Still, others can be
+much more significant. How do we measure the
+effects of the cyber event? Well, there are different
+ways to think about effects. It could be everything
+from a loss of privacy, to the number of records lost, revenue loss and response
+costs, market capitalization, brand effects, diplomatic impacts, even
+strategic stability. What constitutes
+a private problem versus a public concern? How do we actually
+measure those effects? What it appears to be a fairly straightforward
+question, gets really complicated. What kind of effects
+do hackers generate? Well, there are what we
+call direct impacts. This could be the
+confidentiality of data, the integrity of data, or the accessibility
+of a system. Any of those can be compromised, and so those are what we
+would term direct impacts. However, there are
+larger effects that can also cascade from
+those direct impacts. It's not just about the single device that
+loses a bunch of records, there can be cascading impacts. How do we create an inability to execute
+a business process? For instance,
+hackers might affect the accessibility of a particular device
+in a phone center, that could create
+a real problem. There's also the potential of loss of confidence
+in your company. There could be a
+drop in share value. There can be physical impacts due to the cascading failures. If you gained access, let's say to the sluice
+gates of the dam, and open them up and
+create a flood downstream, there can be a direct impact on the actual topology of the
+area that you're impacting. There are effects on IT systems, direct interactions between the hacker and specific devices. You can have data stolen, you can make things inoperable. Those effects might be
+measured in terms of amount of data loss or impacts
+to productivity. Those direct impacts on IT Systems can cascade to
+effects on the enterprise. They could have direct
+impacts on human processes. Those IT systems support
+human processes like payroll. Those human processes support
+organizational goals, like the ability to
+manufacturer tires. Effects in these case, may be measured in
+terms of revenue loss, remediation costs, impacts to market capitalization
+or even brand effects. Those effects on enterprises can cascade to
+effects on society. As specific organizations fail, they can impact even other
+organizations or individuals. If you have a particular
+port facility that is compromised, that could lead to
+a whole range of cascading effects on logistics supply chains for
+organizations downstream. In this case, effects can be measured in terms
+of physical damage, impacts to the broader economy, or even changes in people's perceptions
+about information. An example of that would be the recent ransomware
+attack on Garmin. A threat actor tied to a
+Russian criminal group executed an attack against the Garmin
+Corporation in July of 2020. Ransomware in this case, it was a variant called
+WastedLocker was used, but it created severe
+disruptions to the location services
+for over a week. The original request by the threat actor was
+for $10 million. We're not quite certain
+how much they settled for, but the effects
+were broadly felt, not just on the specific devices impacted by the ransomware, but more importantly, on the organizational
+process they support, the broader enterprise
+level goals, and even society in general that is reliant on
+Garmin devices. There were specific
+effects on the IT systems. Russian hackers directly
+impacted specific machines that created direct impacts to productivity and access to data. But then those cascaded, are to the human processes that those IT systems supported. They created outages
+and impacted revenue for the enterprise. Then the outages of services impacted millions of customers and businesses that were reliant on those Garmin GPS services. What are some of the takeaways? Well, hackers can
+interact directly with devices to
+create an end effect, and those impacts can
+generate direct impacts. But those direct impacts can
+create cascading effects. A cyber attack, therefore can generate a range of
+impacts on IT systems, business processes, and the broader enterprise
+or even to society at large. In our next module, we're going to
+explore this concept of effects much more deeply, and we'll talk about primary, secondary, and
+second-order effects. I hope to see you next time.

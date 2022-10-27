@@ -1,0 +1,140 @@
+[Music] Dr. Richard Riley, PhD: As
+described previously, the actions of some fraud and
+financial crime perpetrators are more closely aligned with
+the behavior of a predator. In this real world example, a 10
+year old boy is strangled by his father for life insurance money
+and is left on the side of the road near a lake. To cover up the murder, the
+father starts a fire in his home and blames his son for
+accidentally starting that fire. The murder and the fire allowed
+the father to collect insurance proceeds The scheme was perpetrated to
+repay the father's most recent employer for restitution for
+a fraud that he had committed. What the employer did not know
+is that this incident was the third time the father
+had perpetrated a fraud. In the prior instances, previous
+employers had quietly terminated the man after discovering
+the defalcation. The choices made by each of his
+former employers allowed the perpetrator to quietly move on
+to his next victim and in this scenario, eventually create the
+ultimate victim, his own son. The father was a predator. The predator seeks out
+organizations where he or she can start the scheme almost
+immediately upon being hired. At some point, the accidental
+fraudster, if not caught early, moves from the behavior
+characterized by the accidental fraudster. Research by Dorminey et
+al asserts that most fraud literature fails to recognize
+predators focused on deliberate and malicious
+criminal activities. Yet concerns for auditors and
+practitioners are warranted. Predators are likely better
+organized, perhaps more capable, have more complex concealment
+schemes, and are better prepared to deal with auditors and
+other oversight mechanisms. Finally, because the central
+focus of the predator's opportunity, risk assessments
+centered on pressure and rationalization, hallmarks of
+the fraud triangle, SAS 99. and auditing standards is
+unlikely to identify predator schemes. Now that we've expanded beyond
+the fraud triangle, we will explore other
+fraudster attributes. The fraud scale was developed
+through an analysis of 212 frauds in the early 1980s. Based on the results of their
+study, Steve Albrecht and his colleagues proposed relying
+on two components of the fraud triangle, pressure and
+opportunity, but replacing rationalization with personal
+integrity, an attribute that may be observable for
+past behaviors. For example, if you see persons
+whose ethical decisions and actions are not what you believe
+they should be, maybe that person would also consider
+perpetrating a fraud. Operationalizing the fraud
+scale, the degree of fraud risk is determined by jointly
+considering three criteria; pressure, opportunity,
+and integrity. For example, in this
+illustration everything is in balance and the fraud risk is
+neutral but when situational pressures and perceived
+opportunities are high and personal integrity is low, then
+fraud is more likely to occur than when the opposite is true. With regard to the fraud
+triangle, personal integrity affects the probability that
+an individual may rationalize inappropriate behavior. For example, persons with
+greater integrity would be less likely to form rationalizations
+for justifying inappropriate behavior. From that perspective,
+integrity is a refinement of the rationalization construct as
+presented in the fraud triangle. Around 2004, Wolfe and Hermansen
+argued that the fraud triangle could be enhanced to improve
+both fraud prevention and detection by considering a
+fourth element, capability. In addition to addressing
+incentive and opportunity, and then the rationalization,
+the author's four sided fraud diamond gives consideration to
+an individual's capability which is described as an individual's
+personal traits and abilities that play a major role in
+whether a fraud may actually occur. The authors examine evidence
+that suggests that many frauds, especially some of the multi
+billion dollar ones, would not have occurred without
+perpetrators having the right capabilities. As described by Wolfe and
+Hermansen, opportunity opens the door to fraud. Incentives and rationalizations
+draw the fraudster closer to the door, but the fraudster must
+have the capability to recognize the opportunity to walk
+through that door to commit the fraudulent act and cancel it. The essential traits thought
+necessary for committing fraud especially for large sums over
+long prose of time include a combination of intelligence,
+position, ego, and the ability to deal well with stress. The person's position or
+function within the organization may furnish the ability to
+create or exploit an opportunity for fraud. The largest frauds are committed
+by intelligent, experienced, and creative people with a solid
+grasp of company controls and vulnerabilities. This knowledge is leveraged
+to use the person's over or authorized access to
+systems or assets. This type of person has a strong
+ego and great confidence that he or she will not be detected
+or the belief that they could easily talk themselves
+out of trouble if caught. In the context of the fraud
+triangle, capability modifies opportunity by limiting
+opportunity to a small set of individuals thought to have
+the necessary capability. Thus capability likely affects
+the probability that an individual will be able to
+exploit opportunities in the controled environment
+of the organization. In addition to an examinations
+of the theories centered on the white collar criminal, the
+actor, we extend our discussion to include the characteristics
+of the white collar crime, the action. A corollary to the fraud
+triangle is the lesser known triangle of fraud action
+sometimes referred to as the elements of fraud. While the fraud triangle
+identifies conditions under which fraud may occur. The Triangle of Fraud Action
+describes the actions that the individual must perform
+to perpetrate the fraud. The three components of the
+Triangle of Fraud Action are the act, concealment,
+and conversion. The act represents the execution
+and methodology of the fraud, such as embezzlement, check
+kiting, or material fraudulent financial reporting. Concealment represents
+hiding the fraud act. Examples of concealment include
+creating false journal entries, falsifying bank reconciliations,
+or destroying files. Conversion is the process of
+turning ill gotten gains into something usable by the
+perpetrator in a way that appears to be legitimate. Examples include money
+laundering, cars, or homes. Evidence of the act concealment
+and conversion can be collected and presented
+during adjudication. Further, when considered in
+total, the triangle of fraud action makes it difficult for
+the perpetrator to argue that the act was accidental or to
+deny his or her role in the act. Evidence of concealment in
+particular provides a compelling argument that the
+act was intentional. We put all of this together in
+what is known as the Dorminey et al Meta Model. First the model identifies the
+pre fraud state of nature as perceived by the perpetrator,
+the left hand side depicting the fraud triangle. The model characterizes the
+perpetrator as the initial decision maker, the one who must
+examine his or her personal and professional situation as well
+as deterrence prevention and detection fabric in place to
+determine if a fraudulent act can be successful in both
+execution and concealment. Moving to the far right, the
+model examines the post fraud state and focuses on the
+specific elements of the fraud or the financial crime. The criminal act, the efforts
+to conceal the act, and an identification of what and
+how benefits accrue to the perpetrator. Between the perpetrator and
+the criminal act are the organizational and societal
+interventions such as internal controls, broader elements of
+corporate governance, legal and regulatory environment, and
+other prevention techniques aimed at producing the incidence
+and impact of the fraudulent acts. These interventions have been
+characterized by deterrence, prevention, and the
+perception of detection. Each of these is at least
+partially outside the control of the perpetrator yet they
+influence the perpetrator's assessment of the probability of
+success in terms of completing
+164
+00:09:30,033
+and concealing the criminal act.

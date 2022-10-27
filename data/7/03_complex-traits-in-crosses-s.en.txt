@@ -1,0 +1,128 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous video, we talked about the
+principles associated with mapping complex traits and how we do this in both crosses
+and using genome wide population studies. In this video,
+we'll elaborate on the previous one, to look at actually what's done in
+genetic crosses, to pinpoint the location of genes that affect,
+that have a affecting some sort of trait. Now again, as I said at
+the very end of the last video, the ultimate prediction is that if we
+looked at many linked markers, we should be able to pinpoint the location of the
+QTL by where the association is strongest. And we talked about exactly what
+that meant in that context. So what we'll do is we'll follow
+the trajectory of association strength to infer the location of the QTL. Now, let me illustrate this with
+an example so you know what I mean, cuz trajectory of association strength may
+be a little bit difficult to understand. So let's use an example
+from the mapping cross. We'll stick with the same example
+of corn that we used last time. This was a cross where we crossed
+a tall stream to a short stream, a tall stream is five feet tall,
+a short stream is one foot tall. We got F ones that were intermediate,
+they were three feet tall. And then we crossed the F ones to each
+other and got a lot of variation, where some individuals were five foot
+tall, some individuals were one, and a lot of them were kind of in the middle. We got sort of that bell curve. Now what we're not trying to do, is we're not trying to get
+recombination fractions this time. This is different from what we did in
+the context of simple genetic traits. It's much more complicated when something
+is complex, so we're not gonna do that. What we're just gonna be doing is looking
+at the association of genotype and phenotype, okay. Just looking at that association. Now we can see how strong it is, remember
+strength is defined by the average difference between the genotypes, okay. So what we'll do is we'll genotype five
+markers rather than two this time, and look at how they associate with
+height in these corn, okay. So let's dive in. So let's say you're looking at
+five close markers to the trait. These markers are about 2
+centimorgans apart from each other. So the markers recombine from each other,
+the alleles of these markers recombine from each other at
+an average rate of about 2%. Now lets say we're gonna
+put on our divine glasses, where we now can see what
+the actual answer will be. So with our divine glasses we see
+that the height gene is next to C. Now we don't know that, as scientists,
+we don't typically know that, but for this example, let's say that we do. Would we see an association of
+height with the E genotype? Okay, so
+we know the height gene is next to C. But we see an association
+with the E genes. Well the E gene is only about
+4 centimorgans away, so sure! Of course we'd see an association with it. It's pretty darn close to that
+gene configuration in height. We might see something like this
+where the E gene, if you're big E, big E, you're 3.5 feet tall. In this case again, I'm using a case where
+all the capital letters are derived from the tall parent, and the lower case
+letter's derived from the short parent. The big E, big E ones are 3.5,
+the little e, little e ones are 2.5. Okay? So again, we do predict some
+association between E and height because it's only
+about centimorgans away. But what about D? Do we think there'll be any
+association between D and height? Well obviously, the answer is yes. Sure, but the important thing
+here is we see the genotypes at D are more strongly associated with height. So you see the difference
+here between big E, big E and little e, little e was about one foot. Here between big D, big D and
+little d, little d it's 1.4 feet, so more the variation is explained by
+genotypes at D than by genotypes at E. And that's because the D marker is
+closer to the gene that's causing the height difference. So let's fill in the rest of these. There we go, so
+we see the same sort of thing here. What we see is, as you get further
+away from the height gene, less variations explain. So when you're four centimorgans out, you're explaining about one
+foot in difference in height. When you're a little bit closer,
+explain 1.4, and when you're right on it, you're explaining almost too feet
+of the height difference, okay? So the prediction is that we
+see a stronger association when we are looking at markers closest
+to the gene affecting the trait, which in this case is corn height. Now this has been done quite a bit. And this is often predicted using
+what is referred to as a LOD plot. So, what they do is they use math, which we're not gonna cover this lecture,
+to translate this observed and expected associations to identify a likely position
+of genes affecting the trait of interest. So, in this case, this is looking at
+various traits associated with tomato, and pH here is very well explained, and
+you see looking across chromosome ten, there's an area here where there's
+a lot of the variation of pH explained. There's areas where it's not. Typically speaking with LOD plots, a high number means more likely
+a location for genes causing the effect. Often the cutoff of about three is used,
+and if you see a LOD score above about a three, that means you see
+a statistically significant association. So what this would actually
+mean is they looked at markers at all these different places,
+right? The markers aren't actually drawn on here,
+and this one right here had a very strong difference between individuals
+that were big P big P, and little p little p in terms of pH. This one had a weaker one,
+this one had a weaker one, etcetera, so we infer that a gene affecting pH
+is probably right around there. Okay, now it's an inference,
+it's not an exactly pinpointing but it's an inference of likely location for
+it. So how does this differ from when
+we were mapping simple traits? Well, the big difference now is that we're
+looking at markers in multiple regions of genome associated with trait and
+a lot of marks explaining it. So this picture here is from a map of
+QTLs that are associated with Drosophila mating success. As you can see,
+there's a lot of these little peaks. This is a same sort of LOD
+plot as I just showed you. So here, this is the X chromosome,
+second chromosome, third chromosome. There are three different places
+on the third chromosome, at least, maybe a fourth that are associated
+with variation and mating success. These little triangles, that are a little
+hard to see on the very bottom, those are actually
+the locations of the markers. So we can infer that the association of
+this marker right here is bigger, with the association with these markers here,
+which is effectively negligible, okay? Same sort of thing here. Big association with this marker,
+negligible with that one, relatively speaking. So you're inferring from this trajectory, where the likely positions are of
+these genes affecting the trait. Now let me give you one to try. Infer the location of the QTL by
+the trajectories of association here. This is a little bit, this is basically
+the same principle as before. But what would you predict in this case? Here we have an association with A,
+B, C and D. Hopefully, that wasn't too difficult for
+you. What you saw is that A and
+D had weaker associations than B and C. B and C had similar associations. So probably, as you're looking at this
+trajectory to association strength, we see it getting stronger this way,
+we see it getting stronger this way. So you probably infer that
+the gene causing this height difference is probably
+somewhere between B and C. That's the difference from
+what we did before, right. In this case, it wasn't right at C, but
+it was actually between two of them. So you might make a LOD plot that looks
+something along the lines of this. I mentioned to you before, these things
+are hypotheses, and there are dangers, you can actually be misled. Well let's imagine that we looked at
+another gene right in the middle, another marker, we'll say it's marker T. What we expect is T should have a stronger
+association with this trait than B or C. But what if we do that, and we see this? What does that imply? Well in this case,
+adding the T marker in there, we see the T has a weaker
+association than B or C. So, rather than having one
+single large mapped effect, it looks like maybe we're potentially
+mapping two different genes that have allelic variation
+contributing to this. So maybe there's one near B and
+one near C, rather than a single one near the middle. This happens quite a bit in
+the course of genetic mapping. Something which looks like
+one strong association, therefore a single gene
+with a large defect. So you map a little bit more finely,
+it ends up being, actually, there's a couple of different
+genes in that same area. They just happen to be a little
+bit close to each other. So we don't know what
+makes the QTL effect. We see these effects in mapping,
+and there are inferences of the locations of a factor, or factors,
+that are contributing to this variation. There may be multiple genes that are close
+together, or there may be a single gene. The reason I stress this, and this is very
+important, the QTL mapping, whether it's by cross or pedigree or by population
+association study, is not conclusive. It is a hypothesis of where one or
+more genes are affecting the trait. And ultimately you have to go in and do
+other techniques to confirm that is truly where there is a gene that has a allelic
+variation contributing to this trait. Hope that was helpful. Thank you for joining us.

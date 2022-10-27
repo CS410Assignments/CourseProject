@@ -1,0 +1,35 @@
+Now I wanted to give you a lesson, which,
+I somehow have the impression you learned in high school,
+did you learn compound interest? It's supposed to be such a basic math
+point but let me just reiterate it. Suppose there's an annual rate of interest
+r, and suppose that you're putting your money in a savings account in a bank
+that promises to compound once per year. What does that mean? That means that your interest is
+applied to the account once a year and you start earning interest on your
+interest at the end of the year. So if I put $100 into an account
+paying 3% compounding once a year, and
+I go to the bank after six month and I say I'd like to cash out of my account,
+what's it worth? They would say $100.00 because we haven't
+credited your annual interest yet. So then you go [LAUGH] if you wait a full
+year you can come back to the bank and now you get $103, now your account
+is marked up for compounding. If you go back to the bank in 18
+months since you deposited it, and you ask for your money,
+they'd say well now you have $103 [LAUGH] because we haven't credited your
+new interest for this year. You have to wait two years and
+after two years how much do you have? You have 1.03 times $1.03, is little over $1.06,
+if you have annual compounding. Now the banks often compound
+more often than once a year so suppose they compound twice per year. You put in $100 in a 3% compounding twice
+per year, if you went to get your money in the first six months,
+you would still just get $100 back. After six months, you'd get $101.50, if you went back after nine months,
+you'd get $101.50. You'd have to wait two years, no,
+one full year, did I say that right? Yeah, you'd have to wait a full year and then you would get 1.015
+squared times $100. You see where we're going on this,
+if it's compounded twice per year the balance is 1 plus r
+over 2 times 2t after t years. Where t is any number,
+which is either one or, one plus, it's either an integer or an integer plus a half,
+in between it's a step function. And if it's compounded n-times a year, the balance is one plus r
+over n to the nt-th period. Now if you take the limit of this
+expression as n goes to infinity, you get what's called
+continuous compounding, and then the balance is e to the rt,
+where e is the natural number. So if they continuously compound, it improves your interest
+payments a little bit more, unless r is really big it's not, or t is
+really big, it's not a huge difference.

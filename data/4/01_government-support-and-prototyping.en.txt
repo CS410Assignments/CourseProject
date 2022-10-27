@@ -1,0 +1,114 @@
+[MUSIC] Hi, I'm Dr Charles Harry and
+this is cybersecurity for everyone. In today's video, I want to talk about
+how we move away from the origins of the internet, the theoretical origins of
+the internet into something that is akin to a small prototype, specifically how
+the government supported that effort. The challenge that we're confronted
+with is that in the early 1960s, you had a series of researchers all
+over the world that it conceived of a world of interconnected devices. These are really just solid ideas,
+good ideas. And the question is that foundational
+technologies had not been invented yet. So you have this vision
+of a different world, but new technologies need to be developed. And the challenge is, how do you convert good ideas into
+a model that allows you to test them? And more specifically,
+where do you find the resources to do so? So by the mid 1960s, research had
+continued at academic institutions on this notion of an interconnected
+world using packet ties data. And by 1966,
+Lawrence Roberts moves over to DARPA, the Defense Advanced
+Research Projects Agency. And this is a, think of it as a think
+tank for the federal government. And when Lawrence Roberts
+moves over into this space, he decides that through a white paper
+that submitted, he decides that he is going to fund in 1968, a project
+that becomes known as our ARPANET. And ARPANET has in essence just
+a handful of nodes to demonstrate at a prototype level,
+a series of interconnected networks. And those nodes are at
+the universities of UCLA, Stanford, UC Santa Barbara and
+the University of Utah. These nodes and here's a map of the early
+network topology of ARPANET in 1969. And you can see that it's limited. But the goal of the DARPA project
+is not to go from good idea to worldwide communications network. It's to demonstrate that there is
+a real ability to move packet ties, traffic or data from one part of the earth
+to the next, in this particular case, mostly focused around the western
+coast of the United States. So this internetwork concept,
+we later shortened it to internet. But this internetwork concept is
+based on the idea that computers can talk to one another by interlinking
+multiple independent networks together so you can create a separate network at UCLA,
+separate network at Stanford, University of Utah, UC Santa Barbara,
+but they can talk to one another. So ARPANET which was funded in 1968
+by DARPA by the federal government, the US federal government is the first
+packet switching network in human history, and there's some very
+specific protocols or instructions that
+are developed at this time. Two of which are Internet
+protocol which really deals with the location of computers. It's kind of like your address
+similar to your home address. But this is an address
+worth computer resides. And the other is transmission
+control protocol, which really is about the instructions of
+how to transfer data between two devices. It's a set of instructions
+that everyone can agree to. Now it's important because
+both of those protocols developed in the late 1960s
+are still in existence today. In fact are fundamental to
+the way that the internet works. This is important. So there's some general
+rules of this internetwork. The first rule is that each distinct
+network has to stand on its own, they're independent. The second is that communication is made
+on what we call a best effort basis. So if for whatever reason because
+we have taken a bunch of data and we've chopped it up into small pieces
+that we call packets, if one of those packets when it's being transmitted
+does not make it, it gets retransmitted. So that's the second rule. The third is that there's something,
+we don't have a name for it at this point, but
+that we would call a black box, something that allows us to
+interconnect these various networks. These black boxes later become
+what we know as routers. We'll talk more about
+that in other videos. And then fourth, and this is really
+important, there is no global control. This internetwork concept does
+not require that a single organization or
+government owns the entire network. There is no global control. This is a groundbreaking idea. We have this vision of a limited set
+of networks that are working together. And it's important to note when
+we think back to the 1960s, the late 1960s,
+we didn't have a world of smart devices. We didn't have a world in which
+we streamed our entertainment. It was a very, very different world. Something that most folks today
+probably wouldn't recognize would have a hard time if they went
+back in time 56 years ago. They would want to reach for
+their smartphone, whether it was to connect on the road
+with their family or friends or to be able to watch entertainment on
+demand, that world did not exist. And so back in the 1960s, the researchers
+and the folks at DARPA had never really considered that the number of networks
+would be greater than just a handful. The idea was that a small number of
+networks would be required primarily for research purposes and that ARPANET
+could serve very useful function by facilitating interactions
+between research groups. In fact, in the early days of the ARPANET,
+it was conceived that no more than 256 networks
+would be required worldwide. Think of that. Only 256 as ARPANET gets built. Well, obviously want to be able to use
+this network for some purpose and so we need a couple of good
+applications that are useful for people to actually use this network. And so at the time,
+only a few applications are available. Things like file transfer protocol or
+what we call FTP, is really an ability for us to simply transfer files from
+one point of the earth to the next. You think about it back in the 1960s
+if you wanted to move information, let's say it's a report
+that you've written and you want to send it from
+California to let's say Boston. How did you do it? Well, guess what? You probably stored that information
+may be on a magnetic tape. You put it in a package and
+you mailed it, or you gave it to someone, they jumped on an airplane and they flew. That's how you moved information. So file transfer protocol,
+this ability to use interconnected networks to move data is
+groundbreaking at the time. We also may want to allow people to
+remotely log into other computers. If I'm in Utah and I want to use
+a computer at Stanford University if I don't have the ability
+to remotely log in and use this new internetwork,
+then what am I doing? I'm either driving there or I'm flying there from Utah to
+Stanford to use that computer. So TELNET the ability to remotely
+logging is really important. And finally, this concept of electronic
+mail, email that we all know and love. Maybe some of us don't
+like email that much. I know I get several 100 email a day and
+sometimes it's a little hard to manage it. But email is also developed
+in this same time period. Once we've developed a small prototype, a small model of this revolutionary set
+of ideas, now we have a new challenge. How do we scale it? Government provided the funding
+to build that small network to build ARPANET at what we
+would call a bench scale. But the question is, how do we expand
+this concept of internetworking and allow it to evolve with other
+technologies that we start to see emerge in the 1970s and
+into the early 1980s? Can we leverage this
+emerging set of datas and technologies to increase
+business productivity? And this becomes a fundamental
+set of questions in the 1970s and into the early 1980s. In this video, we've talked
+about how we were able to move from a good idea into a small model
+prototype that was functional. In our next video we're going to talk
+about how the private sector and private sector ingenuity and communities
+of interest helped develop this internetworking concept even
+further to set us up for a large scale explosion of internet
+technologies in the 1980s and the 1990s. See you next time.

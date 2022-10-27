@@ -1,0 +1,177 @@
+Just a word about the timing of all of
+these events. So chemical synapses are slower than
+electrical synapses, but chemical synapses are still quite fast.
+And it really is remarkable how quickly these activities can unfold.
+for example, the process of forming a synaptic vesicle and filling it with
+neurotransmitter, docking it, having it ready to go in an active zone.
+it might take place in less than a minute.
+The actual fusion events, where the membrane fuses, causing a release of
+neurotransmitter, can happen in about a millisecond or less.
+And then, finally, the recycling of that membrane back into an endosomal
+compartment can take place in less than a minute.
+So, very quickly, this process can unfold at every synaptic terminal in our brain.
+Now, let's consider the critical role of Calcium in the fusion of presynaptic
+vesicles with the presynaptic terminal membrane.
+So, I'd like for us to, again, to consider some evidence that supports the
+important role of Calcium in the process of vesicles fusing with the presynaptic
+terminal. This data come, once again, from our
+favorite animal model for these kinds of studies, the squid.
+Where there are some really huge synapses that allow experiments to be done, like
+can't be done in nearly any other known system.
+And what's being done here is a presynaptic neuron is being stuck with
+microelectrodes that allow for clamping the voltage or for injecting current.
+And there's a postsynaptic process, postsynaptic neuron for which the
+postsynaptic membrane potential is going to be recorded.
+And so, what's being demonstrated here in these data is the important role of
+Calcium. So, if the presynaptic terminal is
+depolarized, which is what we see here there's an inward current, and that
+inward current is carried by Calcium. So basically, Calcium is rushing in to
+the presynaptic terminal as voltage-gated calcium channels open.
+That leads to an action potential in the postsynaptic neuron, okay?
+Now, this presynaptic terminal is large enough that the scientists can actually
+infuse a compound that blocks Calcium channels.
+And when that's done, the same kind of depolarization of the presynaptic
+membrane fails to result in the opening of these voltage-gated Calcium channels.
+So, there's pretty much no change and no action potential.
+So, without Calcium in the presynaptic terminal, we do not record an action
+potential in the postsynaptic process. Likewise, a series of experiments were
+done that further this theme, which illustrate that Calcium is both necessary
+and sufficient to trigger vesicle fusion and the release of neurotransmitter.
+Now using the same preparation, it's possible to inject Calcium directly into
+the presynaptic terminal. And when you do that, you can measure a
+depolarization of the postsynaptic neuron.
+So, this suggest that infusion of Calcium to the presynaptic terminal leads to some
+vesicle fusion events, the release of neurotransmitter, the opening of cation
+selective channels in the postsynaptic membrane, and the depolarization of that
+cell. Here, again, is further evidence for the
+importance of Calcium in the controlled experiment.
+The presynaptic membrane is depolarized such that an action potential is
+generated. About a millisecond later, an action
+potential is recorded in the postsynaptic cell.
+But if a Calcium chelator is injected into the presynaptic cell, this is a
+compound that is going to prevent a sudden rise of intercellular Calcium.
+So, so now we're not blocking the Calcium channel, we're just sucking up the
+Calcium that enters the presynaptic terminal.
+So, even though we have a nice robust action potential In the presynaptic
+neuron, there's only a very modest sub-threshold depolarization seen in the
+postsynaptic cell. So, this experiment suggests that a
+sudden rise of Calcium in the presynaptic terminal was critical for the release of
+neurotransmitter and the generation of an action potential in the postsynaptic
+cell, Okay? Well, so far, we haven't really discussed
+how all of this comes about. And to begin that discussion, we need to
+consider some of the molecules that are affiliated with the synaptic vesicle
+membrane, as well as the membrane at the presynaptic terminal.
+So, here's a rather fanciful look at a synaptic vesicle.
+And what we see is an artist rendition, now a couple of years old but still just
+conveys the point of the complexity from a molecular perspective of the surface of
+the vesicular membrane. And this complexity reflects the precise
+means by which the presynaptic terminal regulates the trafficking of synaptic
+vesicles and controls their fusion with the presynaptic terminal.
+So, I show you this just to make the point that there are dozens of molecules
+in the vesicular membrane that are important for regulating the activity at
+a chemical synapse. One of these molecules is particularly
+important, and I will highlight that for you.
+It's a protein called Synaptotagmin. And here, it is illustrated here.
+So, Synaptotagmin appears to be the molecule in the vesicular membrane that
+binds to Calcium. So, as Calcium rushes into that
+presynaptic terminal, Synaptotagmin seems to be the Calcium sensor that interacts
+with Calcium. And eventually, sets into motion the
+events that quickly unfold leading to the fusion of the membrane in the pre
+synaptic terminal. The way that this happens is through the
+activation of the set of proteins, some of which are found in the synaptic
+vesicle membrane. Others are found in the membrane of the
+presynaptic plasma membrane. Together, these proteins form something
+called the SNARE Complex. So, SNARE is actually an acronym.
+you don't need to be concerned with knowing that acronym but it's helpful to
+use this acronym because it reminds you as to the function of this complex of
+proteins. So, the SNARE complex is involved in
+snaring the vesicle membrane to the cytoplasmic face of the presynaptic
+terminal. This is, in fact, the docking process.
+So as these membranes approach one another there is an interaction among
+these proteins. Basically, these proteins, such as
+Synaptobrevin SNAP-25, and some others, they associate with one another and
+perhaps form some sort of helical interaction that allows the synaptic
+vesicle to be docked to the presynaptic terminal.
+Now, notice the proximity of the SNARE complex to Synaptotagmin.
+Synaptotagmin, again, is the molecule that binds Calcium ions as Calcium enters
+this presynaptic terminal with the arrival of depolarization.
+So, let's sort of step through that process and see how this works.
+Initially, we have proteins affiliated with the vesicle membrane, we have
+Synaptobrevin, SNAP-25 and Synaptotagmin. But, not yet do we have sig, significant
+depolarization arriving. So, the SNARE complex begins to dock a
+vesicle membrane. And this happens in a Calcium independent
+fashion. This allows a vesicle to be docked, even
+without an inrush yet of Calcium into the presynaptic terminal.
+So, when the SNARE complex forms, we can say that these membranes have been pulled
+together, and this vesicle is now docked. So, this is a picture of what a docked
+vesicle looks like. The SNARE complex is formed, this vesicle
+is primed and ready for action with the arrival of a wave of depolarization.
+So, once that happens voltage-gated Calcium channels open, Calcium rushes
+into the presynaptic terminal. And now, Calcium binds to Synaptotagmin.
+And the interaction of Calcium in Synaptotagmin leads to a series of
+confirmational changes in the SNARE complex that tugs these two membranes
+together. And as that happens, then the membranes
+will fuse and neurotransmitter now is free to diffuse out of the synaptic
+vesicle through what's called Fusion Pore that forms as the vesicle membrane in the
+presynaptic terminal unite. Well, now that the neurotransmitter is
+diffused out of the synaptic vesicle what's left is the retrieval of the
+membrane from the synaptic vesicle. And this involves a variety of proteins
+some of which are illustrated here in this slide.
+I would highlight just a couple of them for you.
+one that's very important is this protein called Clathrin.
+so Clathrin coats the vesicle membrane and with interactions with other proteins
+such as this Dynamin protein. we have the retrieval of those membranes,
+and here's a picture of what this looks like.
+So, the Clathrin molecule has an interesting geometrical shape.
+We see it up here to the upper left. It forms a structure called a Triskelion,
+and that Triskelion then can associate with other molecules and essentially form
+this buckyball-like ring around the membrane.
+And so, as these Clathrin, Triskelion begin to form, then the vesicle membrane
+is pulled back away from the presynaptic terminal.
+at some point in here, Dynamin gets involved and appears to nip these vesicle
+membranes, allowing for a completely coated vesicle membrane to now be
+retrieved. And via interactions with Actin filaments
+and a variety of other proteins this vesicle membrane is retrieved.
+The Clathrin coat is removed, and the vesicle is now ready for repackaging with
+neural transmitter without loss of all of those specialized proteins that are
+associated with this vesicle. Like Synaptotagmin in the SNARE complex
+that are important for the function of this membrane as it's recycled and
+repackaged with more neurotransmitter. Now, I'd like to conclude this tutorial
+by thinking about the activity of a toxin that's found in nature, from the
+Clostridium family of bacteria. And it's over the last couple of decades
+or so, has been used relatively widely in clinical practice.
+and also, unfortunately been somewhat abused perhaps, in the cosmetic industry.
+And, of course, what I am speaking of is Botulinum Toxin, otherwise known as
+Botox. So, Botox can be used in the therapeutic
+setting to reduce muscle tension, to reduce muscle spasticity perhaps to quiet
+a twitching muscle. these are all very good and appropriate
+uses of botox. botox can also be used cosmetically to
+try to reduce muscular activity that might give rise to wrinkles or furrows in
+the skin. And for a variety of reasons, botox has
+become a fairly widely used drug in our time.
+So, how does it work? Well, the way botox works is by cleaving
+the SNARE complex. So, botox is a Protease.
+And it is a Protease that disrupts the SNARE complex in one of several sites
+depending upon exactly what formulation of Botulinum Toxin we're speaking of.
+one of the most common and widely used forms of botox is, is BoTX-A, and we now
+know exactly where. The cleavage site for BoTX-A is within
+the SNARE complex. And a variety of other botox formulations
+have their own cleavage sites on one member or another of the SNARE complex.
+So, you can imagine why this works so well.
+So, if the SNARE complex is cleaved, then no matter how much Calcium rushes into
+the presynaptic terminal, that vesicle is very unlikely to fuse on it's own.
+The SNARE complex is what facilitates bringing together these membranes and
+twisting and turning, resulting in the fusion of the vesicle membrane with the
+presynaptic terminal. Without the SNARE complex to pull those
+membranes together, we're very unlikely in having a fusion event.
+Therefore, we're very unlikely to release a neurotransmitter at that synaptic
+terminal. So, botox is a very powerful molecular
+tool that can be used to silence a chemical synapse.
+Okay? Well, we've come to the end of the
+tutorial. And I would encourage you to view one of
+the animations that will review these processes that are involved in synaptic
+transmission. It's animation 5.1.
+You can follow the hyperlink at the end of the handout or navigate there via our
+website. Next time, we'll talk about
+neurotransmitters, and after that, the receptors for neurotransmitters.
+So, I'll see you then.

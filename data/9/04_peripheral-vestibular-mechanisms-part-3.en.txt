@@ -1,0 +1,147 @@
+Okay.
+So, now, let's focus in on the ampulla of a semicircular canal.
+So, this is a bulbous expansion at the base of the semicircular canal.
+So, this is where we find our sensory epithelium, which is called the crista.
+And overlying that crista is a gelatinous mass through which protrude the
+stereocilia of the hair cells. So, this gelatinous mass here is called a
+cupula. And so, we see the bundles of hair cells
+that are projecting into this cupula. Now again, there's no axis of symmetry
+that bisects the sensory epithelium as we saw in our otoliths so there is simply
+one axis for depolarization that's present in a crista of a semicircular
+canal. Now, this cupula creates a barrier to the
+flow of endolymph. And so what this means is that if we
+accelerate our head around an axis of rotation it's something analogous to,
+let's say, rotating a cup of water. So, the glass would be the membrane, and
+the fixed components, and this cupula is indeed fixed here at its base along the
+crista as well as on the, a more distal part of the ampulla.
+So, if we were to turn that glass of water, the glass turns, right, but the
+water has some lag because of the force of inertia.
+The same thing is going to happen here in the semicircular canals.
+We turn our head, the force of inertia is going to cause a deflection of this
+cupula. So, let's have a look at that.
+So, here's the semicircular canal at rest.
+And then, if we were to rotate it so we are actually accelerating our sensory
+epithelium with a turning of the head. the lag or the inertial force causes
+endolymph to essentially flow in the opposite direction.
+Really, it's the fixed structures that are moving, the endolymph is staying more
+or less in the same place that causes displacement of this cupula.
+And as you could see, this displacement is going to deflect the hair cells in
+this crista towards the longest stereocilium that's going to lead to
+depolarization of all of the hair cells together in this one crista.
+Now, we're turning our heads to activate this particular ampulla of a semicircular
+canal, it has a functional pair on the opposite side of the head.
+The turning of the head in one direction is going to activate the crista on the
+side of the turn and it will deactivate or hyperpolarize the hair cells on the
+opposite side of the head in the corresponding member of the pair.
+So, let's see what this looks like from a physiological perspective.
+So now, we are recording the discharge rate of an axon that receives a synaptic
+input from a hair cell in the crista of a semicircular canal.
+And we see that as we accelerate, that is as we begin to turn our head, we see that
+there is now a transient response where there's a temporary increase over the
+course of a couple of seconds in the firing rate of this 8th cranial nerve
+afferent. But as we attain constant velocity, so
+you can imagine if you start to turn around in circle, circles, I'm not
+going to be able to do this very long, because I'm going to get dizzy real
+quick. But in the first few seconds of rotation,
+my left horizontal canal began to increase its firing rate.
+But as I was maintaining that rotation, essentially, the movement of the
+endolymph caught up with the movement of the fixed structures, and so, the
+deflection of the cupula now relaxed back down to its neutral position.
+And so the velocity of rotation was maintained but the deflection of the hair
+cells relaxed after several seconds of rotation.
+So, that is why this response in the hair cells and in the 8th nerve axons that
+innervate the semicircular canals is phasic, okay?
+It's only transitory. Now, as we decelerate, we essentially are
+producing the opposite biomechanical effect, that is we are reducing the rate
+of rotation, and that's causing the endolymph to flow against the
+decelerating crista or the decelerating cupula.
+And so, that's going to now deflect the hair cells in the opposite direction and
+that will produce hyperpolarization and a reduction in the release of transmitter
+on the 8th nerve aferrent, and therefore a reduction in firing rate.
+And it will again take a few seconds to equilibrate the flow of endolymph and the
+flow of the fixed structures. So, this is why the semicircular canals
+only operate with a phasic response, rather than the sustained response that
+we saw in the otolithic membrane. I would encourage you to think through
+this again on your own. If you don't quite understand why would
+the otoliths give rise to, give rise to a sustained response where the semicircular
+canals ephasic response you might want to go back and think through this again to
+make sure that makes sense to you. It basically is explained by the
+biomechanics of sensory transduction. And lastly, I want to to talk about the
+function of these pairs of organs on either side of the head.
+I alluded to this just a moment ago. but this is very important for
+understanding central processing in the vestibular system and this is what we'll
+come to in the next tutorial. I want you to appreciate the fact that
+are otolith organs come in pairs. There are two utricles in either side of
+the head. There are two secules in either side of
+the head. They, they tend to work together because
+they are arranged in the same plane. The semicircular canals, however, are a
+little bit more complicated becasue they're actually arranged orthogonally to
+one another within the same side of the head.
+So, that means the functional pairs need to be thought of as those canals that
+operate in the same plane, okay? So, for the horizontal canals, it's
+pretty straightforward. Both horizontal canals operate in the
+same plane. But when it comes to the superior and the
+inferior canals, then we need to recognize that the superior canal in one
+side of the head is actually operating in the plane of the inferior canal in the
+opposite side of the head, and then vice versa.
+My right superior canal will be a functional pair with my left inferior
+canal. So, this means that, in order to activate
+these functional pairs, I would really need to rotate my head along the axis or
+within this plane orthogonal to the axis of rotation defined by this orientation.
+So, this forward tilt to the right would activate my right superior canal and
+deactivate my left inferior canal. And tilt back would do the opposite, it
+would activate, the left inferior canal, deactivate the right superior and, and so
+forth, okay? So, if I rotated down into the left, I'm
+activating my left superior canal, rotate my head back, and to the right, I'm
+activating my right inferior canal. Now, you may be wondering just about the
+head nod kind of motion. Well, we're going to activate both
+superior canals to some degree, not as perfectly as if we turned directly in
+their axis of rotation. But a forward tilt is going to produce
+phasic activation in both superior canals and a backward tilt is going to produce
+phasic activation in both inferior canals.
+Now the simplest of all to understand would be simply the shaking of the head
+left and right along with the z axis of rotation, okay?
+So, what would happen there is that as we turn our head towards one side let's just
+say the head turns to the right, we would activate the right horizontal canal.
+So, here is the ampulla of the right horizontal canal.
+And because of the inertial effect the endolymph is essentially a force against
+the crista along its axis of depolarization.
+So, we have a nice increase in the firing rate of the 8th cranial nerve on the
+right side of the head. That very same right word, head turn,
+causes the endolymph to actually move In the opposite direction that would be
+consistent with depolarization for the left semicircular canal.
+Consequently, if the left semicircular canal is firing away when we make that
+head turn, now it's going to decrease its firing rate.
+And then after a few seconds, if we keep rotating around then we would expect it
+to recover back to its natural position. So, the key principle that I want you to
+take away from the slide is that we activate the semi circular canal on the
+side of the turn. So, if we turn to the left, we're
+activating the left semicircular canal, the horizontal canal.
+If we turn to the right, we're activating the right horizontal canal, and so forth.
+Forward turn activates the superior canals, backward turn activates the
+inferior canals. So, what I really want you to understand
+is that when we get to the brainstem and talk about central processing, the
+brainstem is comparing the activity that's coming from both vestibular
+nerves. And if we turned our head to the left,
+you can imagine that in the horizontal canal system, leftward head turn would
+elevate activity in the left vestibular system and decrease activity in the right
+vestibular system. Whereas, if we turned our head to the
+right, we'd have the opposite effect, okay?
+So, what the brainstem is really doing is comparing the afferent activity that's
+coming from these two 8th cranial nerves. Now, imagine what would happen if you had
+a, a lesion, or some kind of injury, to the hair cells or to the 8th cranial
+nerve, you may find that the activity on the lesion side begins to drift downward.
+We call this unilateral vestibular hypofunction.
+If I had hypofunction on the right side, what's that going to make me feel like?
+Well, it's going to make me feel like I'm spinning to the left and vice versa.
+If I had injury or damage to my left vestibular labyrinth or left 8th nerve,
+there will be hypofunction on the left and it's going to make me feel like my
+head is spinning to the right. Well, that's a very unpleasant sensation
+as you might imagine, maybe some of you have experienced it for yourself.
+It illustrates the power of this vestibular system.
+And it's important that you understand these peripheral biomechanics and the
+means for sensory transduction. And this will allow us to now understand
+and discuss how the central processing stations operate, and what are the
+consequences for the integration of these vestibular signals.
+So, when I see you next time, we'll talk about central mechanisms of vestibular
+processing.

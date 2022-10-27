@@ -1,0 +1,159 @@
+.
+Welcome to today's tutorial on the cranial nerve nuclei.
+This topic pertains to one of our foundational core concepts in the field of
+neuroscience. And that is, the brain is the body's most
+complex organ. And we turn our attention in this lesson
+to one of the most complex regions of that organ, the brain stem.
+So my learning objectives for you in this tutorial are for you to be able to
+identiry the major subdivisions of the brain stem.
+And the spinal cord. Although our focus will be on the brain
+stem, primarily. And I want you to be able to do so in
+representative transverse cross sections. That, is, not just from looking at the
+outside, but from looking at the inside. And I want you to be able to have a
+discussion. Maybe with a family member or a friend or
+a classmate. And I want you to discuss the relationship
+between the cranial nerves, that I trust you have some familiarity with now, and
+the nuclei that we find within the brain stem.
+And so, what I'm referring to are the clusters of cells that receive sensory
+information from the cranial nerves or the clusters of motor neurons that grow out
+the axons that run through cranial nerves on their way to muscle.
+Okay. So let me just remind you of the basic
+organization of our sensory and motor systems.
+Beginning with our sensory system. So obviously we have information coming
+from the outside world and information coming from within our own body.
+That is feed into the central nervous system via our special sensory cells that
+we find in our special sensory organs like the eye, and the ear, and the nose, and
+the tongue. But we also have this vast sensory
+surface, our skin, as well as sensory cells that are growing out receptor
+endings in our muscles, in our joints, in our tendons.
+And all of this information informs the brain about the internal state of the body
+and the movements of the body through this environment.
+Well, all of this information is conveyed via axons that run in nerves.
+And those nerves are spinal nerves and cranial nerves.
+So these nerves are grown from cells. And those cells typically reside in
+ganglia, which are small clusters of cells just outside of the central nervous
+system. Now, the special sensory organs are a bit
+different, and we'll talk about them in due course.
+So when we focus on the cranial nerves now I want you to just have in mind a nerve
+which is very much like one of our spinal nerves.
+Except these nerves are attached to the brain stem.
+Alright, so these are sensory components that are fed up into higher levels of
+processing through pathways that we'll come to study one at a time over the next
+couple of weeks. So, that's the sensory side.
+There's also a motor component to most of nerves and most of our cranial nerves.
+And that motor component is concerned with activating skeletal muscles, and
+activating muscles associated with the viscera.
+That is, smooth muscles, the muscles of the heart, cardiac muscle, as well as the
+secretory cells in our glands. These effector elements are engaged by
+axons that grow out of hte central nervous system.
+And for skeletal muscle, for example, those axons are derived from motor
+neurons, that reside in the ventral horn of the spinal cord.
+And in a collection of nuclei in the brain stem.
+Now, the activation of smooth muscle, cardiac muscle, glandular tissue is just a
+bit more complicated. That gets us into a division of the motor
+system that we call the visceral motor system, or sometimes it's called the
+autonomic nervous system. And here, we have.
+A chain of neurons that connect the central nervous system to the effector
+cells that, do the contraction, be it in the heart or in the blood vessels or in
+the, viscera. So we'll talk about that topic in, a few
+weeks from now. And hopefully, the organization of that
+autonomic nervous system will be clear. For now, I just want you to get the big
+picture that the motor output is derived from, from two principle kinds of motor
+systems, a visceral motor system and a somatic motor system.
+And as we'll see, the somatic motor system can be further derived in terms of the
+embryological origins of the tissue that. Is innervated.
+Now what we're leaving out from this diagram of course, is the wonderful
+integration of sensation, and the production of commands from motor output
+that takes place at higher levels of processing.
+Namely in the cerebral cortex and in circuits that run through sub cortical
+structures like the basal ganglia, the thalamus and even the cerebullum.
+Well, all of the sensory motor integration will be the topic of forthcoming tutorials
+so, so hang tight on that. Alright so, with that as the background
+lets now focus in on the cranial nerves themselves.
+And the brain stem. So, I will remind you of what the surface
+features of the brain stem look like. First beginning with the basic
+subdivisions of the brain stem. The brain stem is conventionally divided
+into a mid brain, pons, and the medulla oblangata.
+All of which sits between the forebrain, which would include the Thalamus and parts
+of the basal ganglia. Which is basically what we have from about
+this region on in the anterior direction and the superior direction, and then below
+the madela we have the spinal cord. So the brain stem is an intermediate part
+of the central nervous system between forebrain and spinal cord.
+It's a very complicated place. And it includes most of what we call the
+hind brain. From embryological development of the
+nervous system. So the fore brain sits the anterior and
+superior. The hind brain is the brain stem, and the
+spinal cord is inferior or cottal to the brain stem.
+Okay, now let's look at the ventral surface of the brain stem and just quickly
+review the cranial nerves. And they're laid out for you in this
+figure from the textbook that we refer to. I would also refer you to my tutorial
+where I actually showed you the surface of the human brain stem in the lab.
+And I also have with me today the same model of the brain stem that we used.
+And, I think, rather than going through this figure, I'll just show you quickly
+this model. And if you feel like you're good on the
+brain stem and the superficial aspects of it, feel free to skip over this part.
+But otherwise let's just take a few minutes and review the surface features of
+the brain stem. Well, I trust that you all can see this,
+and this brain stem is also produced for you and fully annotated and movable within
+Sylvius software. So if you have access to Sylvius, you
+might want to get that out and follow along, and click along with me.
+Alright, so what we're looking at is the ventral surface of the brain stem.
+This resembles the drawing that we had in the previous slide in the upper right.
+So, from about this level on up is actually forebrain, so what we're looking
+at here, these large egg, egg-shaped structures, that's actually part of the
+basal ganglia. Okay, and the hypothalamus and the
+thalamus on the dorsal aspect. Which I'll show you more in just a moment.
+So the brain stem would be this region right in here.
+So we have the mid brain, pons, the medulla oblongata.
+And just below we have spinal cord. And I want you to notice the cranial
+nerves that are visible here in this model.
+Well, we've been talking mainly about the brain stem, so we're concerned with
+cranial nerves 3 through 12. Cranial nerve one, the olfactory nerve, is
+not present in this model, and it doesn't attach to the brain stem.
+Neither does cranial nerve two, the optic nerve.
+However for completeness, we do have the optic nerve here in this brain stem model.
+And the nice thing about this model is that you can follow the optic nerve to the
+chiasm and then we can turn the model around and note its progression from the
+optic tract right to the posterior. Pole of the thalamus, a region called the
+lateral geniculate nucleus that we'll talk about in a later session.
+Well, that's cranial nerve two. As I said, it does not attach to the brain
+stem so we won't be talking about it further in this tutorial, but let's find
+the rest of the cranial nerves in this model.
+So, cranial nerve three This right here. That's the oculomotor nerve, it's the
+nerve that emerges from the space right between these massive stalks that define
+the ventral surface of the midbrain. These stalks are the cerebral peduncles.
+The space between them is the interpeduncular fossa, and Cranial nerve
+three, the ocular motor nerve, emerges right in that fossa.
+Okay, cranial nerve 4 is a bit unusual. As you may recall, it's the trochlear
+nerve. It's unusual because it emerges from the
+dorsal aspect of the brain stem. It's the only motor ax, the only motor
+nerve to do so. All the other motor nerves exit the
+ventral. And lateral regions of the central nervous
+system. But here's the trochlear nerve.
+You can see it's a fine little thread that wraps around the posterior lateral aspect
+of the quarter mid-brain. And then joins up to make its way to the
+orbit, with the other ocular motor nerves. So trochlear nerve, nerve 4, nerve 5, is
+this very large protruding nerve, very obvious nerve.
+It plunges right through the fibers of the pons, the transverse fibers of the pons,
+so it's a very easy nerve to recognize in a whole brain specimen or in our
+illustrations. So that's the trigeminal nerve, nerve 5.
+Now next we come to the junction of the pons and the medulla, and along that
+junction are three pairs of cranial nerves.
+From medial to lateral, they are the abducens nerve, nerve 6, the facial nerve,
+which is the seventh cranial nerve, and then the vestibulocochlear nerve.
+The eighth cranial nerve. So 6, 7, and 8.
+If you notice where cranial nerve 8 is, just below it are the nerve roots, nerve
+rootlets of 9 and 10. So we have the nerve rootlets of the
+glossopharyngeal nerve, nerve 9. The rootlets of the vagus nerve just below
+the glossopharyngeal nerve. So the vagus nerve is cranial nerve 10.
+Cranial nerve 11, is a series of rootlets. Which, in the model, it looks like these
+wings that come off on either side of the, Lateral medulla, but really there's a
+series of rootlets that join up to form the spinal accessory nerve, cranial nerve
+11. This nerve then enters the foramen magnum,
+and then loops back out through the jugular foramen.
+So its source is actually in the upper part of the cervical spinal cord, but we
+consider it a cranial nerve nevertheless because it does enter the cranium.
+And then finally nerve 12, the hypoglossal nerve are these fine little rootlets here
+that emerge between the medullary pyramid along the mid line and the olive.
+A bulging structure in the ventral lateral aspect of the medulla.
+So there's the hypoglossal nerve, nerve 12.

@@ -1,0 +1,80 @@
+Hi, welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. In our last episode, we finished up talking about how the Internet actually works, how data moves from one point
+in the Earth to the next. But remember, when we
+started off this course, we talked a lot
+about how cyber was this mix between human
+and technical systems. Where do the humans
+come into play? In this episode, I want to
+talk about how we actually can think about managing something as complex as the Internet. Remember, the Internet is this broad collection of independent networks that
+all have to work together. As we saw in our
+last few episodes, there's a lot going on. How do we actually manage that? The problem is, how do we manage the broad set of issues
+surrounding this technology? Those issues aren't
+necessarily all technical. What do I mean by that? What type of concerns do I mean? Well, they might be
+technical in nature. I might have a new
+technology that I want to leverage
+on the Internet. Well, who comes up with
+the rules to do so? What are the institutions and processes I need in order
+to make that happen? They might be concerns
+surrounding the private sector. Companies have to
+make decisions on what type of information
+they need to protect. Who gets to make that decision? It could be public in nature. Governments might want to make a determination
+that there are some organizations that are so critically important that they
+have a right to regulate. How do they make that decision? Who decides? These are important questions. Finally, there might be broad-based
+international concerns. How do governments
+interact with one another? Are there certain
+rules of the game that they want to
+come up with that determine whether
+something is allowable under international
+laws and norms? This concept of process
+and institutions working together to actually
+create a set of rules is something
+that we call governance. In order to manage the myriad of technical privacy
+operational issues, we need human processes. The technology is not
+going to get us there. The set of processes we use
+constitutes governance. There are multiple, what we call stakeholders involved
+in this process. It's not simply about
+national leaders. The private sector is involved, not-for-profit
+institutions are involved. Local, state, federal
+policymakers are involved. All of them together, working together
+constitute a variety of different stakeholders and a multi-stakeholder
+process that allows us to govern all the various complexities
+of the Internet. Something as large as the Internet requires
+governance structures. But it is important to
+remember that governance is not simply about
+managing the technology, it also requires us to have processes that manage the myriad of
+organizational challenges. How do we assess risk in
+critical infrastructure? How do we manage the
+relations between countries? These are fundamentally
+non-technical questions. They are informed
+by the technology, but they themselves are human processes that we
+need to be able to manage. Some of these institutions
+and processes even discuss cyber activity that is permissible under
+international law. What I mean by that is, our country is able to apply cyber activity
+in an offensive way. If so, what are the
+rules of the game? Are there certain things
+that are too critical that we absolutely want to make
+sure that no one touches? Those are agreed to
+rules between nations. Those are happening at a
+non-technical level and require a governance structure from multiple stakeholders. What do we take away from
+this particular episode? The complexity of the Internet
+requires institutions and processes to help manage the broad level of complexity
+we see in the Internet. Remember the last
+several episodes talk specifically about the technology and
+talked about how data moved from one point of
+the Earth to the next. Those are rules that
+are established. Those rules are
+established by people. That's fundamentally
+important to understand when we want
+to talk about security. Because based on decisions
+that people make, there might be some vulnerabilities
+that are introduced. We need to understand
+that process. Governance is that process
+by which we manage the technical information on organizational
+problems that arise. Finally, multiple
+stakeholders are involved in this process. It's not simply about
+national leaders. The private sector is involved, individual citizens
+are involved. Not-for-profits, local,
+state, federal governments, and frankly, even international
+government structures are heavily involved. In our next episode, we're going to talk
+about a few of the Internet governance
+structures that exist. I hope to see you next time.

@@ -1,0 +1,168 @@
+Hello everyone, welcome to this tutorial
+on Lower Motor Neuronal Control. This is really the first of a set of new
+topics that we will consider, where the primary focus will be on understanding
+the way the brain controls voluntary movement.
+And we begin by considering the lowest level of this set of neural elements that
+run between the cerebral cortex and the muscle tissue that actually does the
+movement of the body. So, this tutorial will unfold in 4 parts.
+this first part, I'd like to give you a bit of an overview of the somatic motor
+system and define for you and talk just a little bit about motor units.
+For this first part of our tutorial, I have two core concepts in the field of
+neuroscience in mind, again, the complexity of the brain is always before
+us, and so I'd like to not miss an opportunity to remind you that the brain
+is the body's most complex organ. And again, most of what we'll be talking
+about today pertains to the organization and function of circuits that are
+genetically determined, and they form the foundation for the nervous system's
+ability to execute voluntary movement. So, I've got some learning objectives
+that pertain to this first part of the tutorial.
+I'd like for you to be able to discuss the general somatotopic organization of
+the motor neurons that are found in the ventral horn of the spinal cord.
+And I'd like for you to be able to characterize the motor unit and discuss
+different types of motor units. Okay.
+So, let's get into this by talking in broad terms about the organization of the
+human central nervous system. Now, you've seen this figure before.
+And I used it to introduce the concepts of central nervous system, peripheral
+nervous system, and the general phenomenon that is so critical for
+understanding human behavior, and that is sensory motor integration.
+Well, now that we have completed our survey of the sensory systems that take
+information from the internal and external environment, process that
+information along the way between the spinal chord, the brain stem, the
+diencephalon and then finally up to the level of the cerebral cortex.
+Then that information becomes synthesized and integrated and circuitry that is
+distributed across the lobes of the cerebral hemispheres and runs loops into
+subcortical structures, such as, the basal ganglia and even back down through
+the thalamus. And through emotional centers including
+structures like the amygdala, memory centers, structures like the hippocampus
+and the parohippocampal gyrus. Well, ultimately, this process of
+sensorimotor integration gives rise to behavior.
+And it's to the behavioral response that we now turn.
+And so, what we're going to be talking about are components of our motor
+systems. And as this chart is attempting to make
+clear, there are parallel pathways that allow our motor system to produce
+behavior. there's a channel that we'll have a
+tutorial about in just a little while talking about the autonomic nervous
+system, or what we sometimes call the visceromotor system.
+But for the next couple of sessions, I really want to focus in on what we'll
+call the somatic motor system. This is usually what we think about when
+we consider human movement. We're thinking about the activation of
+musculoskeletal effector systems and the production of physical movement of our
+frame. And so, this involves the activities of
+central nervous system stations that send signals out through motor nerves to
+striated or to skeletal muscles and that actually produces the movement.
+So, we're going to work our way into this motor system one step at a time.
+And this figure now really lays out a framework for understanding this somatic
+motor system. And let me highlight a few of the key
+features here. First of all we'll work our way from
+below, and then up through this motor system.
+And we begin with this idea that the skeletal muscles are the effector
+systems. And so, if we want to understand the
+control of the skeletal muscles, we need to consider the neurons within the
+central nervous system that motivate those skeletal muscles and cause their
+contraction. These we call lower motor neurons.
+And so, these lower motor neurons exist with in a lower motor neural circuitry
+that is found at every segment of the spinal cord and for the cranial nerve
+motor nuclei, also in the brainstem in association with our cranial nerve motor
+nuclei. This circuitry that we find, receives
+sensory inputs. And so, one dimension of activity that we
+will explore today is this idea of local segmental circuits that perform reflexive
+adjustments of movement in response to specific sources of sensory information.
+So, the local circuitry of the spinal cord and brain stem mediates reflexes.
+There are also circuits that span the segments of the spinal chord, and in some
+instances, span levels of the brainstem where we find different kinds of cranial
+nerve motor nuclei. These kinds of circuits, we call
+intersegmental circuits, because they are required to coordinate the activities
+across the longitudinal length of the central nervous system where we find our
+lower motor neurons. One example might be swimming or perhaps
+swaying our arms while we are ambulating on our two feet.
+So obviously, in both of those activities, there's coordination between
+the movements of our arms mediated via the cervical enlargement of the spinal
+cord in the movements of our legs which are coordinated at the level of the
+lumbosacral outflow from the spinal cord. Now, let's move up the nervous system
+just a bit and consider how is the outflow from these circuits that govern
+the lower motor neurons controlled. Well, they're controlled by a set of
+neurons that we call upper motor neurons. And these upper motor neurons exist in
+the motor cortex and in the brainstem. Now, I want you to notice, the upper
+motor neurons themselves do not innervate skeletal muscle.
+Rather, they provide descending input that are governing the way the local
+circuits work to organize the outflow of the lower motor neurons.
+And in some very special instances, there maybe direct projections, from upper
+motor neurons to the alpha motor neurons, that actually do supply innervation to
+skeletal muscle. But notice for the most part this arrow
+is a lot larger than the one providing direct input to the alpha motor neuron
+which is to imply that the way our motor system is organized is that the upper
+motor neurons largely coordinate the local circuits that then do the job of
+organizing the output to skeletal muscles.
+Now, when we're thinking of movement, we are often thinking about voluntary
+movement, movement that we consider, and that we actually express through active
+will. When we are thinking about voluntary
+movement, you should be thinking about activities that are planned, that are
+coordinated, that are initiated at the level of the motor cortex.
+The motor cortex is the posterior part of the frontal lobe, where our executive
+functions are integrating sensory, and emotion, and mnemonic signals, and
+devising plans for the production of behavior.
+And the actual final signal to produce that behavior is a complicated process
+that we'll talk about in subsequent tutorials.
+For today, I want you to understand that these are the kinds of activities
+performed by the motor cortex as we prepare to execute a voluntary behavior.
+And then ultimately, of course, that information is relayed down to our lower
+motor neurons. Now, in addition to the motor cortex,
+there are also upper motor neurons in the brainstem and these motor neurons are
+involved in setting the stage for the execution of voluntary movement.
+Now much of the voluntary movement that we make, we can think of it as the
+expression of skill. Consider, for example, typing on a
+keyboard or using a pen or a pencil, or some other writing implement, perhaps
+performing dance or music with a musical instrument.
+These are all aspects of skill and primarily, skill is expressed through the
+activities of our hands, our feet, and the lower oral regions of our face.
+Well, in order to be skilled in these body parts, we need to have proper
+adjustments of posture and we need to have the proper amount of tone present
+within the muscle systems that actually express that skill.
+And this is largely where these brainstem centers come in.
+So, well, I don't particularly think of these brainstem centers as expressing
+voluntary behavior, I do think of them as being essential for the expression of the
+skilled voluntary motor acts that we normally think about when we consider
+human movement. So, from these brainstem centers, for
+example, we have the coordination of posture as well as the organization of
+basic movements that are essential for sustaining goal directed behavior such as
+locomotion. and other aspects of sort of rhythmical
+highly stereotypical activities including things that we do with our cranial
+structures, like chewing. Well, there's another aspect of upper
+motor neuronal control that we'll talk about a few tutorials down the line.
+And this is perhaps somewhat at the interface between what we might call
+voluntary and involuntary behavior. And what I'm thinking of is the
+expression of emotional behavior. Emotional expression reflects the
+coordination of both somatic motor and visceral motor activities.
+And this is not so much a function of the posterior part of our frontal lobe.
+Rather, it's a function of those parts of the brain that tend to be present mostly
+on the ventral and the medial aspects of the forebrain, involving structures like
+the orbital aspect of the frontal lobe or the medial midline aspect of the frontal
+lobe. And these structures are interconnected
+with structures in the temporal lobe including the amygdala and the
+hippocampus, where emotion and memory can impact our motivation for behavior.
+And these behavioral systems that are integrated and can produce motor output,
+not from the posterior frontal lobe where voluntary goal-oriented behaviors are
+planned and initiated, but rather through deeper parts of the ventral forebrain
+where motivations come from. Okay.
+Lastly, as we continue to provide a broad overview of our motor systems, I want to
+talk about these structures that we find over here to the right-hand side of this
+figure, the basal ganglia and the cerebellum.
+Now, the basal ganglia and the cerebellum are not considered to be upper motor
+neuronal systems. you might wonder why, neither the basal
+ganglia nor the cerebellum connect to muscle so that might qualify them to be
+called upper motor neurons. But, the basal ganglia and the cerebellum
+they don't project directly to those circuits that govern the output of our
+lower motor neurons, which is the usual way that we define what constitutes an
+upper motor neuronal system. Rather, the basal ganglia and the
+cerebellum, they interact directly with networks of upper motor neurons.
+So, notice that the arrows enter this block diagram at the level of our upper
+motor neuron systems, okay? So, we'll see how this works in
+subsequent tutorials but for now, let me simply say that the basil ganglia is
+especially involved in the initiation and suppression of movement.
+Whereas, the cerebellum is involved in the coordination of ongoing movement.
+We'll see an important role for the basal ganglia just as movements are getting
+started. And now, once the movements are ongoing,
+then the cerebellum has a critical role to play in coordinating their ongoing
+activity. Okay, well, let's now turn out attention
+to the organization of our lower motor neurons,.
+And we will eventually be talking about our segmental reflexes that are
+coordinated at this level of lower motor neurons in the spinal cord and brainstem.

@@ -1,0 +1,100 @@
+So again,
+when someone buys a futures contract, one agrees with the exchange through
+a daily settlement procedure. Now on the floor of the exchange, they traditionally used hand signals
+because, and this goes back to Dojima. This shows that Dojima
+is really the source of the whole idea of futures trading. So you get all these people
+together today in a so-called pit, where traders talk to each other. But there's so much noise that you can't
+hear someone standing right next to you, they're all shouting. So they developed a sign language. So you if wanted to buy futures, you'd
+put up a hand like this, meaning buy. And then you'd had ways of
+signaling your number, the price. And if you sell, I guess you have your
+hand out, meaning I want to sell. The Dojima contract also
+had some funny features. They wanted to impose a trading hours
+in Japan, back then, a long time ago. And so they didn't have clocks. So you couldn't put up a nice
+clock on the wall in those times. So they had a burning fuse. And just before the closing of trading,
+they would light the fuse and everyone would see the fire. And when the fire went out, that was
+a warning, like a five minute warning, the market will be closed as of that time. And they wanted to stop trading
+after the market closed. So they had what were called water men,
+who came with buckets of water. And they walked around the trading floor,
+and they looked for someone who was still trading. And they splashed them with
+water [LAUGH] to stop trading. We don't do that anymore. In fact, now it's all largely electronic. There still are.
+You can still go to the CME in Chicago and see people on the floor trading
+with their hand signals. But the last time I heard,
+I was there on the floor a few years ago. It looked awfully quiet. It's dying down because so
+much more is electronic. So as I mentioned before,
+there's Daily Settlement. Every day until expiration, a margin
+account is credited or debited with an amount equal to the change in the
+settle price times the contract amount. By the way, the settle price, you might think of that as
+the last trade of yesterday. But the problem is that they're worried
+about people trying to manipulate the last trade of yesterday. Because it could be a small trade, and then there would be big
+settlements based on the trade. So, in order to protect that,
+they have a settlement committee that looks at the final trades and
+asks whether they're representative. And they might choose a settle price, which is not the same as
+the closing price, the last price. All right, but
+the only difference is the last day. So if it's a physical delivery futures
+market, the last day is different. If you haven't closed out by the last day,
+if you're a seller, you'd better be there with
+your trucks of grains. And if you're a buyer, you'd better be
+there with empty trucks to load it in. Everyone else is closed
+out before the last day. The only people who do
+that are arbitrators. So a farmer in Iowa who's
+planting a crop expected to yield 50,000 bushels is essentially
+long 50,000 bushels. And so sells, let's say,
+ten Chicago September corn contracts for the price on that date and post margin. A corn produced products manufactured
+plants to buy corn at that time and buys the ten contracts. But again, they never talk to
+each other or meet each other or worry about each other, because they're
+both doing this with the exchange. So they locked in the price for
+both of them. >> I'm really curious about the role
+of arbitrage in the futures markets. Someone could, for example,
+take possession of rice or iron ore, but then if the price is too low,
+sell it at the spot price. However, if the underlying commodities
+actually index rather than a tangibly traded future,
+what is the role for arbitrage in creating some
+of that layer of efficiency? >> Okay, good question. So let me get back to the core
+idea of a futures market. Let's start with, as you described,
+physical delivery. So let's talk about a corn futures market. We have that at the Chicago Mercantile,
+CME Group. 1 contact is 5,000 bushels. You can buy corn for a year in the future. What does it mean to buy
+corn a year in the future? What it means is, I put up margin today. So 5,000 bushels might cost something
+like $50,000, depending on the price. So if I agree to buy 5,000
+in 1 year at $10 a bushel, do I have to put up $50,000 today? No, you only have to put up margin today. And then your margin
+account is credited or depleted as the price changes. And at the final,
+there's a final settlement at the end where you either
+have to deliver the corn and take the, at the then futures price. And what tends to bring the futures price in line with corn price in the future is,
+as you say, the fact that if the futures price
+differed a lot from the price of corn. If the futures price were,
+let's say, below the spot price of corn on that date, then people
+would be buying the futures and bringing the corn for
+delivery and selling it. Which they tend to make the two convert. That's what you understand already. [LAUGH] But the other side is,
+what if the contract is cash settled? Then you have the same daily resettlement. So if I buy S&P 500 Index futures for
+delivery in one year, what it means is that the price today,
+if it never changed, would lead me to a settlement at the end. Well, there's two S&P Index futures. There's one, the regular conventional one,
+which is $250 times the index. And there's the E-mini,
+which is $50 times the index. Now there's nothing you can deliver. You can't deliver the S&P 500 Index. It's just a number. But it's the same thing, that you have
+to put up margin at the beginning. And then the daily resettlement, based on changes in the futures market,
+will raise or lower your margin account. But when you come to the end,
+there's a final settlement. Now this is maybe what is a little
+bit tricky to understand. The final settlement does not involve you
+coming with 5,000 bushels of corn and arriving at the facility
+that receives corn. Or 5 empty trucks to receive
+5,000 bushels of corn. There's no such thing. But on the last day, there's a final
+settlement, which is the difference between the last futures price and
+the actual index. It represents the profit or loss you would've made if you
+actually delivered the index. So that means that if the future's
+price is below the S&P 500 Index on the day before the final settlement,
+you can be an arbitrator just the same. All you have to do is buy a contract, and that's all you need to do because it'll
+automatically settle at the end as the difference between the index and
+the futures price. So, it's even easier to arbitrage
+the financial futures contract. So it happens quite reliably. That is, what's quite reliable is,
+on the last day, when the delivery day,
+that corn price future is going to be exactly the same as
+the price of, well, a bushel of corn. And the S&P 500 Index
+future is going to be, within a tiny margin of error,
+the same as the S&P 500 Index. So it's a clever system. I hope that I made that clear. But cash settlement opens up the
+possibility of doing many more kinds of. I was mentioning my home price future,
+that's a cash-settled contract. We can't deliver homes. That would be kind of tough. [LAUGH] How would you deliver a home? And also, homes are not standardized. They're all different. When you have a physical delivery
+as a settlement procedure, it has to be possible to define
+precisely what it is that's delivered. But homes are so variable, and
+some of them are beat up and run down. And some of them are beset by crime, and
+some of them are wonderful neighborhoods. It's all so intangible. So you need cash settled futures. It's kind of remarkable that
+cash settled futures didn't really occur until a few decades ago,
+because it's a great idea. It's one of those inventions in
+finance that I like to talk about.

@@ -1,0 +1,214 @@
+Welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. In our last episode, we talked about the
+concept of governance. In this episode, I want to
+drill into that a little bit and specifically talk about
+governance of the Internet. In this particular episode, I want to talk about
+a couple of areas of governance as it
+relates to the Internet. We're going to talk a
+little bit about how we manage technical structures
+on the Internet, we're going to talk a little bit about the protection
+of information, the governance surrounding that, we'll talk about the idea of risk to critical infrastructure, those critical systems that
+support everyday life, and finally, a little bit about governance at the
+international relations level. Let's talk about
+technical governance and the standpoint of
+a single technology. In this particular diagram, I've just indicated that we
+have an automobile that is connected to a set of services somewhere
+out on the Internet. What we're starting
+to see more and more of in a lot of cities across the world is so-called
+smart city infrastructure. Oftentimes, that's a way for the infrastructure on
+the roadways to actually communicate with the car and provide information
+to city planners and the users of particular roadside
+infrastructure to help alleviate
+things like traffic. In this particular diagram, I've just indicated a couple
+of connection points. The first, the car
+is connected to not only some of the sensors
+that are existing on, let's say, streetlights,
+but it's also maybe connected to other cars as well. There are certain types of technical questions that
+have to be answered, such as what kind of encryption, if any is needed? Further, that information is communicated more broadly to other networks on the Internet, it may traverse over satellites. Who actually decides the
+orbits of those satellites? That's a governance question
+at a very technical level. That information may
+flow to a datacenter. There might be a
+question about, well, what country should I allow my citizens' information
+to be stored at? That's a good question. Further, there might be other connections
+that are occurring. The question might be, well, what frequency am I
+allowed to communicate on? Who makes that determination? Further, what are the
+instructions that I need to follow in order to
+route that information? What are the institutions and processes involved with that? Finally, what constitutes
+private information? Is the information
+that's actually being transmitted protected
+or not protected? Who makes that decision? What's the threshold? Even for a single technology, it can get really
+complicated very quickly. Technical standards exist
+for the application layer. They have to be
+developed and agreed to. At the routing level, there are routing
+protocols that have to be potentially strengthened, agreed to, and adopted. The privacy standards might
+need to be refigured. Who comes up with
+those standards? Are those standards applied
+only at the local level, the state level,
+the federal level? Who makes that determination? Finally, there might be services that are
+being provided by a private organization
+that actually need to be regulated
+by the public sector. That particular set of sensors
+that is communicating with the car may actually be controlled by a
+private organization. Should the government
+have the ability to regulate their operations? Well, it might depend. These are all good examples, even for a single technology of all the different types of
+questions one has to answer. How do we manage those
+technical structures? We need institutions
+and processes that are associated with the
+deep research and the engineering requirements
+of the technology. We need institutions that
+align technical standards and the policy needs at all different parts of that stack:
+at the application layer, the network layer, and
+at the physical layer. One example would be the World Wide Web Consortium as a way to manage standards
+at the application layer. Another example might be the International Corporation
+for Assigned Names and Numbers or ICANN. We talked a little bit about
+that in a prior episode. Those are examples
+of institutions and processes that are involved
+in managing this technology. That's a governance structure. One other institution I
+want to talk a little bit about is the Internet
+Architecture Board or the IAB. The IAB provides long-range technical direction
+for Internet development. They create essentially architectural oversight
+for the Internet, for a variety of
+protocols and procedures. They are providing a lot of
+that technical governance. It's a common way that
+people from all over the world can collaborate and come up with the
+rules of the game. They manage a lot of those Internet
+standards through what is called the request for
+comment or the RFC series. That's technical
+structures, but how do we manage the protection
+of information? What is kind of a
+governance structure for protecting information? Well, it's a distinct set of governance challenges
+around this issue. Because unlike
+technology, which you're seeking a central standard
+globally for how things work. When it comes to
+the protection of information, there
+different viewpoints. What is considered
+protected information? Is your name alone, your first name, last
+name, consider protected? Maybe, maybe not. Is your address
+considered protected? How about your
+biometric information? That might be a
+little different. Who comes up with those rules? Customer records, health
+information, login information, geolocation, all may be
+protected or not. It depends. Different standards exist that define different thresholds.
+What do I mean by that? There might be industry-specific
+standards that exist. Some very specific
+industries have definitions for what
+is to be protected. Examples might be
+something called HIPAA, the Health Insurance Portability
+and Accountability Act, that talks about the privacy related to information
+associated with your health, or the Gramm Leach Bliley Act, which deals with financial
+protections of information. You might have protections that are defined at the state level. A couple of examples
+might include the Maryland Personal
+Information Protection Act or the California
+Consumer Privacy Act. They defined different threshold
+for what is protected. You might seem to think, "Well, this is pretty straightforward. Any information about me
+should be protected." Well, really, there might be certain
+thresholds that need to be met. For instance, if there's a cybersecurity breach on a particular organization and
+they steal a single record. Is there now an onus on the
+business to notify all of its customers that there was a breach and only one
+record was stolen? State jurisdictions
+may say, "No, that seems to be an undue
+burden on that business." We'll establish a
+threshold 1,000, 10,000, 15,000, a
+million records. They have to make
+that determination of what that cutoff is. That's important when it
+comes to the level of protection that businesses need to apply for cyber attacks. There might be
+national standards. An example coming from
+the European Union is the General Data Protection
+Regulation, or GDPR, that establishes pretty
+strict guidelines on what is to be protected and the roles and
+responsibilities for people that are holding
+consumer information. We might also need to manage the risks to
+critical systems. There are some systems
+that we rely on as part of our everyday life that are so important that we need
+some level of governance. Power, water, sewer,
+transportation are all examples of
+critical infrastructure that needs some
+level of protection. The challenge is, is that
+the vast majority of these critical systems are actually owned by
+private organizations. Those private organizations
+have to work in contexts of local state and
+federal officials who help to identify the
+overall risk to society. There's a governance
+structure that is needed, processes and institutions that need to manage these risks. Finally, we have the issue of managing
+international relations. This is really complicated. Countries define cybersecurity
+slightly differently. Some are concerned not only
+with protection of systems, just protecting those
+technical systems, but they're also
+concerned about content. Countries like China, Russia, Vietnam, I couldn't
+include several others, are concerned about the
+content on the Internet, and they perceive that
+as a potential threat. So when they define
+cybersecurity, it's not simply about protecting critical systems or trying to prevent breaches of information, they are also concerned about the information that's
+been posted online, and they consider that
+is cybersecurity threat. Why does that matter?
+There have to be international agreements if you want to come up with the
+standard set of rules. What are the international
+forums that exist that can determine what is to be
+protected? How do we do that? What is the form by
+which countries can decide what type of
+offensive actions, for instance, can
+be permissible? Can we come to an
+agreement that there are in fact some instances in which offensive use of cyber capability
+can be leveraged. Likewise, are there
+some things that are so egregious that we actually
+don't want those approved? Maybe we come to
+an agreement that all countries will choose not to use cyber means to take
+down a hospital network. Maybe that's a standard rule
+that we want to agree to. We use something, in
+this particular case, the United Nations Group
+of Government Experts as a way to try to come up
+with a common understanding. But this is really challenging, because oftentimes
+countries can't even agree on a
+standard definition. This is a real problem. The point of all of this
+in this entire episode is to talk about governance not simply from a
+technical level, but governance addressing
+a myriad of problems. Why does this matter? Why does this really
+matter for cybersecurity? Technology and human
+systems interact. Going back to that
+very first episode, remember cyber is about
+the intersection between technology and human systems
+and generates complexity. The standards and the means
+in which we implement those standards are agreed to by humans. We're not robots. There are people that get together and make
+these rules up. Some changes in technology
+might be warranted. We might decide we want to adopt this new technology
+because there's some beneficial aspect
+of human society, but it might be difficult
+to actually implement that technology and
+practice and uniformly. Because we may only
+be able to implement technology in some areas
+and not in other areas, we create an uneven
+surface that sometimes exposes vulnerabilities
+across an entire stack. Different standards
+of protection, different governance across
+those technical structures and organizations create
+those vulnerabilities, and hackers can take
+advantage of it. That it's that
+complexity of what we call the attack surface is what hackers use in order to take advantage
+of the situation. What are the takeaways
+from this episode? First, governance
+of the Internet takes place across a variety
+of different topics, it's not simply a question
+of managing the technology. Technical governance
+happens across all elements of the stack. The application layer, the network layer, the
+physical layer, all have specific questions
+that have to be answered, that technology has
+to be developed and agreed to and it has
+to be rolled out. That requires human processes. Information is governed by a
+variety of national, state, and local governments; the ability to determine what
+should be protected. Remember there isn't
+a uniform definition. Critical infrastructure, the risk posed by
+hackers against critical systems
+is managed both by the private sector and
+the public sector. Relations between
+governments happens in an international environment, and oftentimes countries
+don't even agree on simple definitions like
+what is a cyber attack? Governance of this complexity exposes
+possible vulnerabilities. This is really at the
+heart of cybersecurity. In our next episode, we're going to take all
+this information that we've learned about the
+history of the Internet, and how the Internet
+actually works, and governance, and
+now we're going to actually start talking
+about the threat actors. Who are the people that are taking advantage of
+these vulnerabilities? Why are they doing it?
+See you next time.

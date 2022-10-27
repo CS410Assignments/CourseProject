@@ -1,0 +1,155 @@
+[MUSIC]. Well, welcome back to this second
+tutorial on the auditory system. In this tutorial I'd like to talk to you
+about central processing of auditory stimuli in the brain stem and in the
+fore-brain. Again, we are considering some of the
+very complex aspects of sensory processing that takes place within our
+special sensory systems. And, the circuitry that does this job is,
+by and large, genetically determined. And it provides the foundation for all
+that we hear. These systems acting together make it
+possible for the brain to communicate knowledge through language.
+One of the highest achievements of the human brain.
+And of course again, we wouldn't be here together having this discussion were it
+not for the curiosity that our brain gives us about how systems such as this
+actually work. I have two learning objectives for you in
+this tutorial. I want you to be able to identify and to
+discuss the neural mechanisms for localizing sounds in space.
+This is a very important aspect of job that the auditory system does.
+And then I want you to be able to discuss more broadly, the organization of the
+auditory cortex. Which really points to a second major
+role for the auditory cortex. In our brains and that is the
+understanding of human speech. So let me again step through an overview
+of auditory function with you. Well, auditory function begins when sound
+waves are collected and amplified by the physical structures in the external and
+middle ear. And these sound waves are then
+transferred to the neural elements in the inner ear.
+There, the bio-mechanical properties of the inner ear, decompose sound waves from
+their complex frequency spectrum into sinusoidal components.
+so that their component frequencies, including other aspects of their energy
+envelope including their amplitude and their phase, can be encoded in the firing
+of the receptor cells. Those receptor cells are found in the
+inner part of the ear. And at that station of auditory
+processing, we see for the first time the establishment of a kind of a map, a
+frequency space. This is called tonotopy.
+So, tonotopy is established in the inner ear and it's preserved in each of the
+central processing stations that we will be discussing in this session.
+We're going to spend some time talking about the brainstem here.
+And in the brain stem, this is where we find auditory information, that is
+divided into parallel pathways. And along those pathways, there are
+various special functions performed, including your comparison of the signals,
+that are derived from the two ears and this critical, for the localization of
+sounds and space. These brainstem centers will process
+auditory signals in other ways, as well. And relay information to the mid-brain,
+to a structure there known as the inferior colliculus.
+And the inferior colliculus in turn sends projections to the auditory division of
+the thalamus, a structure called the medial geniculate complex.
+The auditory thalamus, in turn, provides input to the cortical division that first
+receives information about sound. And that's our primary auditory cortex,
+it's found in the superior aspect of the temporal lobe.
+This auditory cortex receives it's input from the thalamus.
+And processes more complex aspects of sound including those that are related to
+human speech and even music and other aspects of our culture that are based in
+the auditory modality. Okay, well, this tutorial is focused on
+central processing. So, we need to confront some details
+regarding the anatomy of the auditory pathways.
+So, I have good news and bad news for you.
+well depending upon your tolerance for complex Neuro-anatomy.
+Well, the good news is that I am not going to be showing you cross sections
+through the brain stem. Highlighting the location of gray matter
+and white matter pathways in the manner that we did for the systematic sensory
+system. These pathways are often not so clear,
+not so compact, some of them are, and I certainly could point you to some gray
+matter structures but I won't. I will name them, and I will invite you
+to find them on your own. There are really just a couple that I
+care for you to be able to recognize because they are significant and
+discernible in different views of the nervous system.
+And I'll mention them as we go. the white matter structures however, I
+just won't even attempt to show you exactly where they are.
+Rather, we will be satisfied with the schematic illustration that I'm showing
+you here from chapter 13 of our companion textbook.
+Now I know the details are small, and you probably can't see them on the screen
+that you're using right now. So I'm going to break this diagram into
+two parts and that way we'll have a better look at each station.
+And let's begin in the inner ear and recognize that action potentials have
+been generated. Now in the peripheral process of our
+spiral ganglion neurons, and those action potentials very well will propagate back
+through the vestibular cochlear nerve, the eighth cranial nerve, and then enter
+the brainstem on the lateral aspect of the junction between the pons and the
+medulla. Hopefully you will recall the location of
+that eighth cranial nerve as it connects up with the brain stem.
+If not, maybe you want to go back and look at one of the earlier video
+tutorials to remind yourself of exactly where that occurs.
+Well, the eighth cranial nerve. Conveys, two modalities of special
+sensation. Our auditory sense and our vestibular
+sense. We'll come back to the vestibular sense
+in the next tutorial. But, for now, let's just isolate our
+thinking on the auditory component of that eighth nerve.
+Well the auditory component enters the brain stem at this lateral aspect of the
+tegmentum just below the junction of the pons and the medulla.
+And what we find is a set of nuclei that seem to form a bit of a cap along the
+dorsal lateral aspect of the inferior cerebellar pinochle.
+We call these nuclei the cochlear nuclei, and several divisions can be recognized.
+I won't worry about those divisions but I will just mention that they exist.
+And this cochlear nucleus then is the first structure to receive the afferent
+signals that are conveyed to the brain stem from the eighth cranial nerve.
+The cochlear nucleus has its own circuits that do some measure of processing and I
+won't get into that at all. The cochlear nuclei serve an important
+function of distributing the auditory information to additional brain stem
+centers that perform their own computations.
+One of them in the upper part of the pons is called the nucleus of the lateral
+lemiscus. This nucleus gets input from the
+contralateral cochlear nucleus. And on that basis, it's processing
+signals that are derived principally from one ear.
+Now, another very important set of nuclei also in the pons but now in a more
+inferior position are nuclei of the superior olivary complex.
+And so, we find that here very near the level of the facial motor nucleus and the
+superior olivary nuclei are, are really quite special.
+They receive input from the cochlea nu, cochlear nuclei on both sides.
+Of the upper medulla. So, here in the superior olive we have a
+comparison of signals that are derived from the two ears.
+I want to come back and talk in more detail about exactly how the divisions of
+the superior olive assist in the localization of sound based on that
+comparison between the two ears. But for the time being let's move on up
+the auditory pathway. So here is this nucleus of the lateral
+lemniscus in the superior aspect of the pons that I eluded to earlier.
+That's mainly concerned with processing monaural signals, or signals derived from
+just the contralateral ear. Well, the nucleus of the lateral meniscus
+and the superior olive not shown here in this cut through this figure these
+structures send input on up into the mid-brain.
+And that's where we find an important integrator of ascending auditory
+information, the inferior colliculus. Now, you'll recall, if we look at the
+dorsal side of the mid-brain, we have these four little bumps or four little
+hills, which is what colliculus means. There's a superior pair and an inferior
+pair. The inferior colliculus is the auditory
+relay that I want you to be able to find and recognize.
+If I were to ask you where is the inferior colliculus?
+I would expect you to say that it is in the dorsal aspect of the mid brain or the
+tectum to be more particular about the term we use for this region of the
+mid-brain. And its the inferior of the two pairs of
+small bumps that we find there. Well, within the Inferior colliculus, we
+have the convergence of all this ascending auditory information, and we
+still struggle to really understand exactly what inferior colliculus is
+doing. But it seems to be the first place in the
+auditory pathway where a complete map of the auditory world is computed.
+This includes both the distribution of space in terms of azimuths and also
+elevation. Well the inferior colliculus performs a
+variety of computations that are still subject to on going investigation.
+And we have only a partial understanding of exactly how the different components
+of the inferior colliculus integrate the ascending auditory information and
+compute that map of the auditory world. but nevertheless it happens and the
+signals that are processed in that inferior colliculus are then relayed from
+the mid-brain on up to the thalamic nucleus that receives this auditory
+information. And that nucleus is called the medial
+geniculate complex of the thalamus. We use this word, complex, because it's
+really not a single nucleus, it's comprised of several subdivisions.
+and those subdivisions then further distribute this auditory information to
+various targets in the fore-brain. So the largest division of the medial
+geniculate complex grows it's axons and sends input into our primary auditory
+cortex which is found in the superior plane of the superior temporal gyrus.
+Buried deep in the lateral fissure, which as you'll recall, is the name we give to
+the space between the temporal lobe and the overlying operculum formed by the
+perietal and frontal lobes. We'll come back and talk, in just a
+little bit, about the organization of that auditory cortex.
+At this point, what I'd like to do, is return back down this pathway, to the
+level of the lower pons. And I'd like to talk a little bit about
+these very interesting computations performed in the superior olivary nuclei,
+that help us to localize the source of sound in space.

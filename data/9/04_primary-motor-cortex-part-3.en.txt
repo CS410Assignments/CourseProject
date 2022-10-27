@@ -1,0 +1,144 @@
+So what is represented in the primary
+motor cortex? it doesn't seem to be a strict
+representation of the body and its muscles.
+So, I think what we can conclude then, based on the evidence to date, is that
+what's represented in the cortex is movement, not muscle.
+In fact, we might go so far as to hypothesize that truly whats represented
+is movement intention and I'll give you some examples of what I mean by that.
+Now we do know from a long history of investigation in this part of the brain,
+that there various dimensions of movement that are represented in the motor cortex.
+For example, the amount of force that we generate with muscle contraction.
+the directionality of movement if we're talking about moving an articulated
+muscular skeletal structure like the upper extremity.
+the amplitude of the movement. whether it's a small movement or a large
+movement. These features, these dimensions of
+movement seem to be encoded in our cortical network.
+but we also seem to have representation of movements that are ethologically
+meaningful. For example, the primary motor cortex
+seems to be concerned with coordinating movements of the hand and the lower part
+of the face. for example, moving the hand to the
+mouth. That's one aspect of movement that seems
+to be organized in the primary motor cortex.
+And perhaps that's one advantage of having the representation of the face
+adjacent to the representation of the hand in the body map.
+We also see evidence that organized in the motor cortex is representation of
+skilled manual behavior in the space that's right in, right in front of us.
+What we call central personal space. this might be very important for bringing
+objects in to our near visual field so that we can inspect and examine them.
+imagine the importance for example of having a careful look at a piece of fruit
+to make a judgement about whether it's truly palatable or not.
+Well, with all of this being represented in the primary motor cortex, we can make
+some predictions as to what we might find in a patience that has had damage to this
+part of the brain, or to the pathway that emanates from it.
+Generally speaking, what we find is that lesions of the primary motor cortex
+impair the fractionated or the skilled movements of our distal extremities in
+the lower part of our face. So, for example, some kind of
+fractionation of the fingers of the hand would be impaired with damage to the
+primary motor cortex. So I want to come back just for a minute
+and say more about my first point here, that what's encoded in the primary motor
+cortex may very well be the intention of the movement.
+So, I think a really interesting series of studies were performed by Michael
+Graziano and his colleagues where they were probing the movements that could be
+generated in the brain of a rhesus monkey when the motor cortex was stimulated.
+One of the interesting features of this study that I think it is, make it
+especially noteworthy, is that the duration of stimulation was longer than
+is typically done in the kinds of body mapping experiments that were done
+throughout the 20th century. rather than stimulating for just a very
+brief moment in time Dr. Graziano and his colleagues decided to
+extend the period of stimulation to a period a few seconds.
+Which was thought to mimic the more natural evolution of activity that
+emerges in the motor cortex during the performance of motor behavior.
+And what was found, was micro stimulation of certain sites in the motor cortex
+produced behaviors. Not just movements, but behaviors and
+here's one example. what we're looking at here, is a record
+of movement. With stimulation of the hand region, of
+the pre-central gyrus in this rhesus monkey.
+And the the blue the blue plus signs indicate the starting position of the
+hand, at the onset of stimulation. And then the red circles indicate the end
+position of the hand at the termination of the movement that was elicited with
+micro stimulation. And I think what's obvious here, is that
+at the particular site of stimulation, what was observed is, movement of the
+hand from peripheral regions. Be they to the left, or to the right of
+the mid line, it didn't seem to matter. And what we found here, is hand to mouth
+movement. So, where ever the starting position of
+the hand happened to be at the time of stimulation, it was brought towards the
+mouth. And it seems as though in this particular
+location, what's really important are the kinds of movements that would be needed
+for feeding. When Graziano and his colleagues moved
+the micro electrode in a slightly different direction in the primary motor
+cortex what was discovered is a site. Where the hand was moved not to the
+mouth, but more towards this central personal space.
+Where an animal could inspect through vision and presumably other such special
+sensory systems just what was being held in the hand.
+So these kinds of studies suggests that what's represented in the primary motor
+cortex is movement intention. Bringing the hand to the mouth or
+bringing the hand to central mid line for visual examination.
+So how might such movement be encoded in the firing patterns of neurons in the
+primary motor cortex? Well one idea might be, that for each
+particular movement that is illustrated here with the black line, there may be a
+neuron that is specifically tuned for the expression of that movement.
+Well that would be one idea, and it turns out that that is highly unlikely.
+Rather, what we find is encoding not by 1 neuron at a time, but by populations of
+neurons. And encoding for the various dimensions
+of movement that I alluded to earlier. The direction of movement.
+The, force that's generated. the amplitude of the movement.
+And I'd like to show you an additional experiment done some years earlier.
+that really made this point, that movement direction is encoded in the
+population activity of the motor cortex, not by any single neuron.
+So here's the simple experiment that's being illustrated here.
+There is a monkey that's trained to move a central joystick in the direction of
+some kind of target. And that target might be a green light
+that would eliminate at a particular location in this apparatus.
+So there's a particular directionality to the movement.
+And then question then is, well how does the motor cortex encode this
+directionality of movement towards a visual target.
+And the answer seems to be that the encoding is done at the level of the
+population. So what we're looking at here are series
+of raster plots that report the action potentials that were recorded during
+particular trials. So each row that we see here, we have
+one, two, three, four, five rows. These are five trials.
+And then each little tick mark that we see represents the occurrence of an
+action potential. Now, as the monkey moved the joy stick
+towards various visual targets and these various directions, what was generally
+observed in the firing of individual cells in the motor cortex is that they
+tended to respond very broadly. With movements directed towards the left
+and in the upward direction. So these movements that are represented
+by this yellow wedge of this circle here are those that led to an increase in the
+firing of action potentials around the time of the movement.
+And movement is represented by this red line here, which indicates at time 0,
+when the movement actually occurred. The firing of this cell seems to increase
+a few hundred milliseconds before the movement was made and continues during
+the course of the movement. Now notice what happened as the animal
+moved in the opposite direction. So as the animal moved broadly to the
+right, what we find is a suppression of activity.
+Just before and during the course of the movement.
+So there seems to be a very broad measure of tuning that can be reported at the
+individual neuronal level. In fact, if we look at the peak responses
+as the animal moves in different directions, what we see is a, is a very
+broad tuning function. And this is noteworthy, because it
+suggests that no one neuron encodes precisely the direction of movement.
+the responses, the contributions of any one neuron are simply too broadly tuned
+to achieve the functional goal. So, how must this happen?
+Well, the functional goal is achieved through encoding of direction in a
+population of neurons. So what was found as many neurons were
+recorded in the pre-essential [UNKNOWN] during directional movement, is that well
+no one neuron seem to be sufficiently tuned to produce the moment that a vector
+could be defined by the active population.
+That aligned quite precisely with the movement that was actually performed.
+So for example, as the monkey moved the joystick up into the right, we see this
+big red arrow that indicates the direction of the movement that was
+performed. there is a population of cells that are
+active. And if one then computes the vector
+average of their tuning functions during the execution of the movement, we find a
+vector average that aligns very nicely with the direction of movement.
+So, for each movement that was executed, there's a population of neurons that are
+contributing to the directionality of the movement that's actually expressed.
+It's as if there is some kind of ensemble code for the direction of movement, with
+many neurons contributing information from which the precise movement is
+governed. So this then, is an example of what we
+call a population code in the cerebral cortex.
+We find similar codes, we think, all over the cerebral mantle.
+with the idea being that for the most part single neurons are not sufficiently
+tuned to express behavior. But rather, the behavior is the product
+of an ensemble code reflecting the activities of the entire population of
+neurons.

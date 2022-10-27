@@ -1,0 +1,208 @@
+Okay.
+Now, I think we're ready to apply this embryological framework to understand the
+organization of the cranial nerve nuclei in the brainstem.
+So this is a chart you might want to have in front of you for a little while, so
+that you can begin to make sense of all of this new anatomical information that I'm
+sharing with you in this tutorial. So what this chart does is it organizes
+the brainstem according to embryological division, that is midbrain, pons, and
+medulla. And also, organizes across are various
+ways of breaking down motor outflow and sensation according to our embryological
+framework. So we have six columns in this chart.
+We have three to the left of center for motor control and three to the right for
+sensation. And for motor control, we recognize a
+somatic motor division, a branchial motor division, and a visceral motor division.
+So here is how I want you to think about this.
+I want you to think about each embryological division of interest for
+motor control and for sensation, and consider what's in the midbrain, what's in
+the pons, what's in the medulla? So, for example, let's think about the
+motor control for the muscles that are in the cranial region that are derived from
+cell mites. And it's fairly simple.
+It's the muscles that move the eyes in the orbit and the muscles that move the
+tongue. So the muscles that move the eyes are
+related to cranial nerves III, IV, and VI. Cranial nerves [inaudible] and IV are
+found in the midbrain. Cranial nerve VI attaches to the junction
+of the pons and the medulla, but the nucleus that grew out those axons is found
+in the caudal pons. The axons that move the tongue are derived
+from the hypoglossal nucleus, which is found in the rostral part of the medulla,
+so we have a hypoglossal nucleus. So one way to approach this challenge is
+to consider how the outside of the brainstem is related to what we find on
+the inside. So, again, taking our somatic motor nuclei
+as an example, we have the nerves that move the eyes, the oculomotor nerve,
+trochlear nerve, and the abducens nerve. Two nerves associated with the midbrain.
+One associated with the caudal pons. Up here in the midbrain, we have our
+oculomotor nucleus growing out these axons to move the eyes.
+The trochlear nucleus growing out the axons in the fourth nerve.
+And the abducens nucleus, growing out the axons in the abducens nerve.
+Now the muscles derived from the pharyngeal arches we call those
+branchiomeres or branchiomeric muscles and the motor nuclei that innervate those
+muscles are called the branchial motor nuclei.
+And, we just think about what are they. Well, they are the muscles of mastication,
+that is the muscles involved with chewing. They are innervated by a motor component
+of the trigeminal nerve. There's the muscles of facial expression
+that are innervated by the facial nerve. So, these axons are grown out by the
+facial motor nucleus so both the trigeminal motor nucleus and facial motor
+nucleus are going to be found in the pons. Now, a little less obvious, but important
+nevertheless, are the muscles that are deep within our neck region, around our
+larynx and our pharynx. Those muscles are controlled by components
+of cranial nerves IX and X. The glossopharyngeal nerve and the vagus
+nerve. And the axons that are governing these
+muscles deep in the larynx and the pharynx are grown from neurons in what's called
+the nucleus ambiguus for reasons that I think will be obvious to you shortly.
+And then finally, we have our spinal accessory nerve.
+The spinal accessory nerve innervates also muscles derive from the pharyngeal arches
+that are involved in turning the head and shrugging the shoulders.
+That would be the sternocleidomastoid muscle and part of the trapezius muscle.
+Now, let's move on, and think about our visceromotor elements.
+So, within, within our eyes, we have a smooth muscle in the iris that constricts
+the pupil. And that constrictor function is derived
+from parasympathetic neurons that send their axons out through the oculomotor
+nerve. And these parasympathetic preganglionic
+axons live in a small nucleus that sits right on top of the oculomotor complex.
+That nucleus is called the Edinger-Westphal nucleus.
+So that is our most superior visceral motor nucleus in the brainstem.
+Deep in the pons, and we won't see them here in this view from the outside, are
+the nuclei that are responsible for the secretion of saliva and also the secretion
+of tears from the lacrimal gland. So we have these salivatory nuclei that
+sit deep in the pons and they send axons out through cranial nerves VII and IX to
+their respective targets in the orbits, and in the, oral pharynx.
+Also in the junctional region near the pons and the medulla, we have the neurons
+that are associated with cranial nerve X. The vagus nerve that control the visceral
+that are found in the thorax and the upper, upper part of the abdomen.
+So these axons are grown out by the nucleus ambiguus and by the dorsal motor
+nucleus of vagus. Now notice that we've named the nucleus
+ambiguus twice, and I don't want you to be confused about why that is the case.
+There is some historical reason why we call two different sets of neurons that
+convey two different modalities and motor control part of the same nucleus.
+But they are not the same cells that supply the pharynx, larynx on the one
+canned for the branchial motor control. And the cardioinhibitory output that slows
+the heart via the vagus nerve on the visceral motor side.
+So, two different populations of neurons that sit within the same nuclear complex
+of the upper part of the medulla. Moving on now to the sensory side, we have
+our general sensory signals that are coming from the skin surfaces of our face
+and our head and some of the deeper structures associated with the muscles of
+our face. These are giving rise to signals about,
+like touch, about movement, about pain, and temperature sensitivity and all of
+this information is conveyed to the central nervous system across four cranial
+nerves, cranial nerves V, VII, IX, and X. And all this information is fed into that
+long trigeminal nuclear complex. And if I look again at the brainstem
+model, we see a long nucleus that seems to just snake its way down from the midbrain
+or the mesencephalon through the pons and into the medulla.
+That's our trigeminal nuclear complex. And so the mesencephalic portion of it,
+that is the midbrain portion of this, this is where we find our movement-sensitive
+somatic sensory signals related to the movements of muscles in our face,
+especially the movements or our chewing muscles and the movements of the temporal
+mandibular joint. The sensory signals that are derived from
+our skin surfaces pertaining to light touch and other aspects of mechanical
+sensation are fed into what's called the principal nucleus of the trigeminal, which
+is that large, bulbous structure in the pons.
+And these signals are derived mainly from the trigeminal nerve, but also a small
+contribution related to a little patch of skin in the external ear that's conveyed
+across cranial nerves VII, IX, and X. And then lastly, we have the spinal
+trigeminal nucleus. And this is the inferior or caudal
+extension of this nucleus that receives pain and temperature information.
+We'll talk much more about both of these two preceding divisions of the trigeminal
+system as we get into a discussion of mechanosensation and pain and temperature
+sensitivity. Okay.
+Well, this leads us then, with a brief consideration of our special sensory
+systems, and then, our visceral sensory systems to our special sensory systems
+that are connected to the brainstem. Are those related to our sense of hearing
+or auditory system and our sense of balance being derived from the vestibular
+system deep within the petrous temporal bone.
+So both of these two special sensory systems are sending signals to the
+brainstems via the eighth cranial nerve. And those signals, diverge once they enter
+the brainstem into different sets of nuclei.
+There's a set of nuclei related to hearing, called the cochlear nuclei, and
+then, a set of nuclei related to our sense of balance, equilibrium.
+Basically, the accelerations of our head and the static positions of our head.
+That's the vestibular nuclear complex of the brainstem.
+Both of these nuclei are found near the junction of the pons and medulla.
+And finally, we have our visceral sensory signals that enter the brainstem via
+cranial nerves VII, IX, and X. We can divide them into special visceral
+sensory, meaning, basically our sense of taste, and that sense innervates the
+rostral part of this nucleus of the solitary tract.
+The other aspect of visceral sensation is more of a general sense of visceral
+sensation that is conveyed to the same nucleus, but to a caudal division of it.
+So the nucleus of the solitary tract is all about visceral sensation.
+I'll just put this table in front of you again which runs through the cranial
+nerves and gives you a sense of where the nuclei are to be found.
+And what they are as they relate to these cranial nerves and also says a word about
+how one might think about testing the function of these, these nerves.
+So you might want to take a moment at some other point, come back to this table and
+maybe try to do some of these tests on a friend or a family member.
+They're pretty easy to do, they don't really require any special equipment and
+if you just think about the actions of our muscle systems and the activities of our
+sensory systems, I think you can very readily figure out how a clinician might
+go about testing the integrity of the function of each of these cranial nerves.
+And, if you want to see how a clinician might do this, I would refer you to an
+excellent website that is, maintained by a fantastic neurologist and author, Dr.
+Hal Blumenfeld. That website is neuroexam.com, so check it
+out. You'll see lots of cranial nerves, being
+tested and the standard way the neurologist would do it, so, I would
+encourage you to have a look at that, neuroexam.com.
+Okay. Finally, we are ready to actually look at
+into the brainstem and find these cranial nerve nuclei.
+So, we can do that by looking at some cross sections and the figure in front of
+you here shows cross sections through various levels of the brainstem, beginning
+at the top of the brainstem with the mid brain.
+So, in a section through the midbrain, we should be thinking about, okay, what are
+the nerves that connect to the midbrain again?
+Remember, nerve III, nerve IV. So nerve [inaudible] is in a more superior
+position. And that's what we find in this first
+slice. We find the oculomotor nucleus and the
+Edinger-Westphal nucleus, both growing axons out to the third nerve.
+Now, not illustrated here because we'd have to be right at this level, would be a
+view of the truncular motor nucleus, but we'll see that in a few minutes.
+Now, below into the pons, at two different levels of the pons we first find the
+principle trigeminal nucleus. And the trigeminal motor nucleus sitting
+right next to one another at the level at which the trigeminal nerve, actually,
+sends its axons into the brainstem. So that's the level at which we have this
+slice number two. Slice number three is just below it, and
+the purpose of catching this slice is to show you the facial motor nucleus, which
+as a brachial merric motor nucleus, it is just a little bit off of the dorsal aspect
+of the tegmentum. Because of the anterior or ventral
+migration of these motor neurons in development.
+So that's where we find our facial motor nucleus.
+We also have some nuclei associated with sensation here, the spinal division of the
+trigeminal nucleus. In red here, we have the somatic motor
+nucleus, the abducens nucleus. And then lastly, the vestibular nuclei
+that we're beginning to see as we get into the caudal part of the pons.
+Now, we go just a little bit further down near the junction of the pons and the
+medulla. We find additional vestibular nuclei in
+about the same position, but we also see the cochlear nuclei, which seem to sort of
+cap the dorsal lateral aspect of the upper medulla.
+We're continuing to progress through the caudal medulla.
+So we would expect to see the spinal nucleus of the trigeminal complex, which
+we have here in this blue shape. It's extending all the way down through
+the medulla, and in fact, will seem to merge with the upper part of the spinal
+cord as the spinal nucleus of the trigeminal complex merges with the dorsal
+form of the spinal cord. Well, there are a number of other nuclei
+to note here in the tegmentum of the medulla, all in that dorsal region.
+And again as we, as we look at this, I want you to recognize that the
+embryological framework helps us to interpret this.
+So right along the dorsal midline, we're going to expect to find a somatic motor
+nucleus, that's were we find the hypoglossal nucleus.
+Now just to the lateral side of that somatic motor nucleus.
+We might expect to find a visceral motor nucleus and we do.
+We find the dorsal motor nucleus of vagus. Alright, now just lateral to our motor
+nuclei, we should expect to get into sensory nuclei.
+And indeed we do. First we find the nucleus of the solitary
+tract, which is found right there in purple shade and just lateral to it we
+find our special sensory nuclei, the vestibular nuclei.
+So, again, motor nuclei are medial, sensory nuclei are lateral.
+And then, finally, in the far lateral region, that's where we find our
+trigeminal system. Okay, and finally down in to the section
+number six that we see here in this illustration, we have the caudal part of
+the medulla getting close to merge with the upper part of the spinal cord.
+And we essentially see the same set of cranial nerve nuclei just in a slightly
+different positions. And some are reduced in size, with the
+exception of the spinal trigerminal nucleus that continues to be a prominent
+feature of the medulla throughout its entire link.
+Okay, so, what I like to do with you next is to get into Sylvius and show you what
+these nuclei actually look like in histological sections taken through the
+brainstem. So, if you're ready for a break, this
+would be a good time to pause and open up Sylvius and, get ready to, perhaps, go
+back and forth between the remaining segment of this tutorial.
+And Sylvius, should you have it. If you don't have Sylvius, that's fine.
+Just refer back to my tutorial notes, as well these images, and this movie file,
+and follow along as I give you a tour of the brainstem through our histological
+atlas that we have in Sylvius.

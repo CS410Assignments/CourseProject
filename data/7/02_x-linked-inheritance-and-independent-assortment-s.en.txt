@@ -1,0 +1,204 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous video we talked about
+basic single-gene inheritance, or basic Mendelian inheritance. It's called this because this was
+elaborated first by Austrian monk Gregor Mendel. We saw how you get single copies of
+genes or alleles from one parent and then they combine with single copies of
+genes or alleles from another parent. In this video we'll talk about
+a special case of inheritance that of X-linked inheritance. What happens when genes are on the X
+chromosome, some of you may have heard of. The other thing we'll talk about
+is following what happens with multiple genes. This is something we'll doing
+quite a bit later in the course. Where we will begin at now looking at
+the principle of independent assortment. This is something that was also elaborated
+by Austrian Monk Gregor Mendel. Now some chromosomes have slightly
+different patterns of inheritance from what I described previously. In terms of the single copy from males, single copy from females
+going to offspring. And this was first hypothesized partially
+because there are some hereditary diseases that pop up much more
+frequently in males than in females. And this is true even when both
+sexes are likely to get the disease. You just see a lot more men
+having it than women having it. There are some cases of muscular
+dystrophy, for example, which fit this description. Now Drosophila geneticist
+Thomas Hunt Morgan studied this around the turn of the 20th century. He was working with fruit flies, and specifically working with
+a white-eyed mutant fly. He found that inheritance
+was sometimes different depending on the sex of individual. If you tracked what was happening with
+particular genes in males versus in females you're getting
+completely different pattern. He inferred from this the principle
+of sex linkage or X-linkage. We now know that there are some
+genes that are actually not present in two copies in all of them. That quite often you'll find that,
+in humans, males may have one copy of a gene, and
+females may actually have two copies. And these are genes that are on what's
+referred to as the X chromosome. So often across species, males are XY. So they have one copy of the X chromosome, and instead of having a second copy
+have this other chromosome called Y. Whereas females have two copies,
+so females are called XX. You've probably heard this one. Now, there's not the same
+set of genes on the X as on the Y despite the fact these
+two chromosomes pair and separate. You'll see the principle using them is
+very similar to what we discussed before. Except that the X has one set of genes and
+the Y often has a different set and in fact, often has very few functions. In humans, one of the few genes on
+the Y chromosome is a gene which basically makes the embryo become a male. Now again, in this case, you get different patterns of inheritance
+depending on who's the mom, who's the dad. And whether you're looking at male or
+female offspring from them. Now I mentioned muscular dystrophy. Another example is green color blindness. Now this is an X-linked
+recessive in humans. Meaning that if you have,
+if you're a female and you have two copies of this particular
+mutation then you will be colorblind. Males only get one because it is on the X
+chromosome, so if they have the one copy, they are colorblind. This picture on the screen depicts what
+somebody with green color blindness may actually see when you're
+looking at the pictures. So on the, in the picture on the left,
+it has the number 74 very clearly visible. In the picture on the right,
+if you're green color blind, you actually won't see the 74, in fact,
+you may see a different number in there. Now inheritance of genes on
+the X chromosome can be studied very similarly to what we described. And again, using the Punnet square,
+just like we did before. And what happens in this case is
+you just insert a Y instead of the second allele that
+would go into males. So let's try this now. Let's imagine that you're studying
+red-green colorblindness, something that I just mentioned is something
+that's inherited on the X chromosome. Let's say hypothetically that you have
+a male which is red green color blind. So here he is. Here's his X chromosome and
+I'll put a little rcb on there for red green color blind. For the female, let's say that she is
+just normal, she does not have this. She just has two regular Xs. So we can follow what happens in
+this case just like we did before. So again, the male is equally
+likely to either give this X, which has this mutation, or the Y. I've already drawn in the Ys there for
+us, so here, let's put this in. Here's the male's X rcb, X rcb, okay? The female will always give
+her just regular X, regular X, regular X, regular X. Well what do we see here? The male offspring are the two on
+the bottom because those are the ones that have the Y chromosome. You don't become a male unless
+you have a Y chromosome. So this is true in humans,
+it's not true in all species. So looking at these
+individuals on the bottom, would they be red-green colorblind or no? So look at it carefully. There is no red-green colorblind
+mutation on them, right? So the two males here would be just fine,
+write the word fine. What about the females? Well the females do get the red-green
+colorblind mutation, but I mentioned it's recessive. So they have one normal copy and
+one sort of broken copy. So in this case, again,
+the females would also be [INAUDIBLE]. Well that was interesting. Well, let's try something
+a little bit different. Let's switch it around. This time, let's say the mom
+was red-green colorblind, and the dad had perfect vision. Okay, so, this case here is dad,
+he's got just a regular X. Mom's got X with a rcb mutation. X with a rcb mutation. So let's follow patterns of inheritance. Again, the dad's always giving a Y,
+in this case, he's giving an X. And mom is always giving an X rcb. So now what do we see? Well let's look first at the girls. So the girls are the two X's. So they have one normal X chromosome and one with the mutation for
+red-green colorblind. So again,
+the daughters in this case would be fine. So this is similar to
+what we saw last time. However, look at the boys. The only X chromosome the boys
+have has this mutation. So in fact the boys are actually
+red-green colorblind. So we see a different pattern
+of inheritance in this case depending on whether your looking
+at the daughters or the sons. And depending on who is the mom and
+who is the dad. So this illustrates some
+principles of X-linked. Now let's look a little bit
+more broadly at the gene. Now everything we've focused on so far has
+been looking at single genes in isolation. But the genome's a very big place. A human genome for example has on
+the order of 23,000 protein coding genes. These are genes that
+actually make protein. It has many other
+important things in there. There are other things that affects
+how much a protein are made, etc, these are called regulatory regions, etc. Now, again, we have 23 pars of
+chromosomes, one pair being that X and Y. The other pairs being ones that follow
+just regular Mendelian inheritance, as we described before. Interestingly, you see all these pairs
+of 23 chromosomes in the picture on the bottom left here, they're
+actually all inherited independently. So, let's say, for example, I have
+a particular chromosome two from my dad, I have a particular
+chromosome two from my mom. I have a particular
+chromosome three from my dad, I have a particular
+chromosome three from my mom. If I give to my daughter,
+my dad's chromosome two, there is no way that you can know which copy of
+my chromosome three I'm may be giving. I'm equally likely to give my dad's or
+my moms chromosome three. And basically what's happening
+with the chromosome is independent of what's happening on
+these other chromosomes. You're not more likely to give
+both your dad's copies or both your mom's copies when you're
+looking at different chromosomes. This is referred to as Mendel's Law
+of Independent Assortment. So what happens when you're studying two
+traits that are inherited from genes are different chromosome. Well, let's look at two traits. In this case I'm looking at two
+that show patterns similar to being single-gene inheritance. They're not actually inherited
+through single genes. One of them is what happens when you
+put your hands together like this. Watch.
+Put your hands together like that and see which thumb is on top. In my case my right thumb is on top, for
+a lot of people the left thumb is on top. For a long time people though this
+was inherited as single gene. That actually probably isn't' true, but just pretend that's the case for
+right now. If you study the inheritance of this,
+it looks like the left one on top one is dominant,
+the right thumb on top is recessive. The other trait we'll look at, is again dealing with thumbs
+because they're easy to show. It's straight thumb,
+which looks like this. Or hitchhiker's thumb, mine is definitely
+hitchhiker, it comes really far back. Well, it's thought that straight thumb is
+dominant, so I have both recessive in this case, whereas the hitchhiker's
+thumb is recessive. So, let's say you were following
+these two traits together, let's say you're following
+inheritance of them. Let's do a hypothetical example. Let's say that you have a dad who has
+left thumb on top and straight thumb. Having kids with a mom that has
+right thumb on top and hitchhiker. So let's call them just using these letters right here to make it
+a little easier to follow, big T big T, big S big S crossed with
+little t, little t, little s, little s. In this case this is referring to
+straight versus hitchhiker for the S and left versus right
+where capital T is a left. So let's follow what happened. Well the offspring will
+obviously get one big T, one little t, one big S,
+one little s, right? Because there's no alternative. So here we go, here is the kids. Big T little T, Big S little S. And let's say the kids marry
+each other and have kids. That's a little gross, I'm sorry but
+let's pretend this just for a moment. What will we see in their offspring? Well, the kids can give
+different alleles right? This boy right here could give his
+big T or he could give his little t. He could give his big S or
+could give his little s. And the same thing's
+happening with the girl here. So it's a little bit more complicated
+then what's going to happen. These T and S alleles are going to be
+inherited independently from the parents. But again if you give the big T,
+you are not more or less likely to get the big S or
+the little s. So, I showed here on the picture for
+possible gametes, big T, big S, big T, little s, little t,
+big S and little t with little s. Those are the four possible
+gametes you can get. Now there's two ways you can try to
+predict what the offspring would be like. The better way which I'll show you second
+is to actually multiply probabilities. We'll come back to that in just a moment. The other thing you can do which
+is maybe more intuitive but definitely more laborious is to follow
+what's happening with all the gamete. Workout all sixteen possibilities. So let's do that one first. I won't do the whole thing,
+I'll just show you how it would go. So again, here's the thing. We can fill this in, remember all
+four gametes we have are big T big S, big T little s, little t big S, little T
+little s, so that's true for one of these. Let's do the other one. Big T little s, little t big S, and you can follow what's going to
+happen with each of these things. This case mom will always be giving
+a big T, always be giving a big S. Dad will be giving a big T,
+he'll be giving a big S. So there's one individual. This is gonna take forever if I do this so let me just fill in what
+all the answers would be. Boom!
+[LAUGH] So here is all the possible outcomes there. And I have here up in the upper
+left corner a little cheat sheet. So you can see what, what happens in terms of what they
+would look like or their genotype. But if you have a big T you
+got your left thumb top. If you have a big S then you're
+straight rather than checkered. So let's look at the ratio here. How many individuals would be left and
+straight? Remember, left and
+straight are both dominant. Let's count them. This one, this one, this one,
+this one, this one, This one. Am I missing some? This one. [INAUDIBLE]
+there's one. There's one. So one, two, three, four,
+five, six, seven, eight, nine. So we have nine that are dominant for
+both. How many would be right straight? Right thumb on top, straight. So in this case, right thumb on top
+straight would be little t but big S. Little t but
+big S would be this one, this one. There, those three, okay? So you have three that are dominant for
+one, recessive for the other. The opposite would also be three. This would be what happened if you're
+left thumb on top, but hitchhiker. That would be these three over here,
+I'll put X in this time. I misspoke sorry,
+this would be left thumb on top and hitchhiker The other one was
+right thumb on top and straight. So again, three for
+when you have one dominant and one recessive and
+finally one that's the double recessive. So the ratio you get is 9 to 3 to 3 to 1. So again, there's 16 possible outcomes
+here and this is the ratio we expected. That was laborious. [LAUGH] So let's see how we could do
+this a little bit more straightforward. Well there's a very simple thing you
+could use for basic probability. That if you have two independent events,
+all you have to do is to multiply the probabilities with for
+the joint probability. Just like when you're flipping a coin. What are the odds you flip a coin and
+get heads twice? Well, the odds of you flipping a coin and
+getting heads the first time is one half, odds of you flipping it a second time and
+getting heads is also one half. So it'd be one quarter. We can apply this same
+principal to this problem. Here is all the possible outcomes when you
+are looking at just one gene in isolation. So we have here, this what we would see if
+we were just looking at what's happening with the T gene. The one that controls left
+versus right thumb on top. Using the four possibilities when
+you are looking at hitch-hiker versus straight thumb. So, all you have to do is just multiply
+the probabilities to get these different genotypes. So we say big T big T, big S, big S. That would be one sixteenth. Big T, big T, big S, little s,
+that will be one quarter times one-half. Half, quarters,
+this would be this case one-eighth. And we can fill in this whole thing. There we go. We filled them all in. Now, if we do the same thing, let's add which ones will be
+left thumb on top straight. Well, we can just add them up, let's do
+it by 16ths so it's a little bit clear. So there's one here,
+this'll be plus another two, cuz one-eight is two-sixteenths, right? So this would be three. So one plus two is three. Plus two is five. In this case plus four is nine. So again we have 9/16 have
+left thumbs straight. So again if you do this whole thing
+it becomes 9/16, 3/16, 3/16 and the last one over here being the 1/16. We get that same overall ratio and this time we can do it just
+by multiplying probability. So let me give you one
+to try on your own and then I'll give you
+a problem at the end of it. So again, assume independent
+assortment between A and B genes. What will the genotypes and proportions be
+of the offspring if you're looking at big A, little a, big B, little b? So this is the double-header zygote again. Crossed with big A,
+little a, little b little b? It's a little bit different in this case. So what I suggest you do is to
+multiply the probabilities. So look at what's happening
+just with the A gene, and look at what's happening
+just with the B gene. And multiply those probabilities together. Let me give you a moment to try
+this out and solve this problem.

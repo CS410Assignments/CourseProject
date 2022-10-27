@@ -1,0 +1,203 @@
+Hi everyone.
+Welcome to this tutorial on the general principles of sensory systems.
+We are at a bit of a pivot point in the course where our focus has been on gross
+brain anatomy. As well as the principles of
+neurophysiology that underline neural signaling and even a discussion of
+neuroplasticity. Now we're going to begin to bring these
+concepts together. On the one hand, the discussion of
+anatomy, in the other, the discussion of cellular physiology and we want to bring
+them together. As we discuss the organization and
+function of our sensory motor systems. So this is the beginning of that pivot
+and what I'd like for you to be able to focus on in this tutorial are some of the
+general principles that will help us understand the organization of our
+sensory systems which is what we'll discuss first and then we'll move on and
+discuss the motor systems. So this topic pertains once again to our
+key concept or foundational core concept in the field of neuroscience pertaining
+to the complexity of the brain. And this tutorial I trust will help break
+down some of that complexity for you as we consider how sensory systems are
+organized, and how they function. And this will allow us to maybe reflect
+for just a moment on this incredible capacity we have to explore our world.
+Even the world with inside our own brain. You know, I'm reminded of a student I
+once had some years ago who I will not name in case you're out there somewhere
+but he showed up one day to the lab and he said, you know I just don't think the
+brain should be allowed to study itself. And I thought, what a profound
+observation you know, the kidney doesn't get to study itself nor does the liver,
+but somehow the brain has the credentials that allow it to study itself.
+And I think that is an interesting thought to consider.
+Well let's move on and consider what we have to learn from this tutorial today.
+So I have several learning objectives for you, I want you to be able to account for
+the generation of action potentials in peripheral axons in response to somatic
+sensory information. Now, the somatic sensory system will be
+the first of the sensory systems that we consider, so I thinks it's useful to see
+how this general problem of action potential generation in a sensory system
+is realized in this one domain of sensation, that of somatic sensation.
+I want you to be able to account for differences in mechanosensory
+discrimination across the surface of the body.
+Again, we're going to take somatic sensation as our model paradigm, but the
+basic principles will apply to our other sensory systems as well.
+And I want to consider in fairly general and broad terms, how information is coded
+in the nervous system. So, I'd hope that you'd be able to have a
+discussion of the important factors that influence information coding.
+And one very important concept in sensory physiology is that of the receptive
+field. So I want you to have a thorough
+understanding of what the receptive field is.
+And one way to ensure yourself of that is to have a discussion with someone about
+it. Okay, what I'd like to do next is to
+consider some general organizational principles that will apply to our
+consideration of our sensory systems. And we'll see how they played out
+specifically in different systems over the next several tutorials, but today I'd
+like to keep it fairly general. So let's begin with one principal, and
+that is the principle of neuronal pathways.
+So let me illustrate for you, in very simple terms, what I mean by a neuronal
+pathway. Let's imagine that there's some kind of
+sensory surface out here perhaps this is the skin.
+And the skin is innervated by nerve fibers and those nerve fibers are grown
+by cells in this case cells that reside in the dorsal root ganglion so an axon
+extends out and there's some kind of specialized receptor structure as the
+axons reaches the skin surface. So this is what we call the peripheral
+axon of this neuron. So this neuron can be considered a first
+order neuron in this pathway. Well there is a central process that
+enters the nervous system. So let's say this is now into the central
+nervous system. And that first order neuron synapses on a
+second order neuron. And that second order neuron projects
+some distance through the central nervous system.to typically a third neuron.
+We'll call that a third order neuron. And then, that third order neuron
+provides input to a vast network of interconnected cells.
+And some processing station within the brain, perhaps this processing station is
+the cerebral cortex. So, we might have some, some complicated
+network that allows all this to function. So we might call this now the cortex.
+So the neural pathway would be the first order neuron, the second order neuron,
+the third order neuron and then once we get into our complex network that is
+being modulating by this ascending input, we sort of give up on our numbering
+scheme. So, we'll see how that works?
+But the pathway, in essence, is a series of neurons that are connected.
+But the pathway is essentially a set of neurons that are connected in a serial
+fashion. And this allows neurosignals to be
+generated at some receptor surface and then be transmitted into the nervous
+system ultimately to be processed at the level of the cerebral cortex.
+Now, I drew this pathway in the horizontal dimension across the screen
+just to make use of the space that I have, but I want to make an important
+point about how we talk about our pathways in the brain.
+So, let me clear that and redraw this in the vertical dimension.
+So often we have some receptor connected to our first order neuron, which projects
+to a second order neuron. But now we often think about this as
+ascending into the nervous system and here's our complicated network again
+representing the cerebral cortex. So here's our first order neuron, our
+second order neuron, our third order neuron and then the cortex.
+Now, this we might consider to be a sensory pathway and the information is
+essentially flowing in the ascending direction.
+Well, this cortical network also has a motor component to it where these sensory
+signals are eventually integrated within some kind of a network that coordinates
+and produces an output. And that output eventually reaches our
+motor neurons and behaviors result. So we can imagine that there's some
+output neuron here that is going to grow an axon which will probably synapse on
+some kind of local circuit cell. That modulates the output of a series of
+neurons that ultimately supply some kind of defector such as a skeletal muscle.
+So this now is an output pathway which can be conceptualized as descending.
+From a higher level from the cerebral cortex for example, down to a lower level
+maybe in the spinal cord where we have a motor neuron leading to the contraction
+of a skeletal muscle. Okay, so pathways can be either ascending
+or descending. Ascending typically implies a sensory
+function, descending implies a motor function.
+In our nervous systems that are bilaterally symmetrical there's a very
+interesting principle of organization in play, and that that is a principle of
+contralateral representation. So, let me illustrate that for you.
+Imagine that we have some body part in question here, maybe it's an upper
+extremity, and that upper extremity is going to be represented in the
+contralateral, or the opposite side, of the cerebral hemisphere.
+So this is the cortex, let's say this is the post central gyrus, which is where we
+find our somatic sensory cortex. So this body part will find its
+representation in the somatic sensory cortex, something like this.
+Now, contralateral representation implies that there must be some sort of crossing
+of the midline. Somehow this information has to get from
+one side of the body to the other in order for the ascending sensory pathway
+to relay it to the appropriate processing station at the level of the cortex.
+So as we work through our studies of our sensory pathways, please pay attention to
+this issue of decussations. So decussations simply means midline
+crossing. So we're talking about where in the
+nervous system does this pathway cross the mid-line?
+So that the principle of contralateral representation can be understood.
+Now this is not just an academic exercise for future clinicians, this is a critical
+point. One of your challenges in the examination
+of your patients will be to understand, to have a mental model of what's wrong
+with the nervous system. There may be a focal lesion somewhere in
+this nervous system. And understanding where sensory and motor
+pathways cross the midline, will be critical for your proper understanding of
+what level of the nervous system has been impaired.
+Now this issues of decussation, it's not just for sensory systems, it's also for
+motor systems. Now if we get just in front of the post
+central gyrus, we may be in the pre central gyrus which is where we have our
+motor control networks and there may be a neuron there in the pre central gyrus
+that gives rise to a descending axon. And that descending axon has to confront
+the same challenge of contralateral representation.
+At some point, there has to be a crossing of the midline, a decussation and as it
+turns out the decussations. For sensory and motor pathways, are not
+in exactly the same place. Even within our somatic sensory systems,
+different pathways cross the midline at different locations.
+And that will be critical for understanding the neurological signs and
+symptoms of injury and disease, that you may observe in your patients.
+Now let's turn to a new topic, the topic of sensory transduction.
+By sensory transduction what I mean is the process that allows for the energy
+that's present in the environment. Either in physical or chemical form, to
+be converted into electrical signals within nerve cells.
+And sensory transduction is a problem for each of the sensory systems that must be
+solved in some ingenious way. And in fact it often is and many times
+there are highly conserved mechanisms that are employed across animals with
+nervous systems, including us. And sometimes those methods seem quite
+surprising. so I hope you have some fun discovering
+how sensory transduction works in each of the sensory systems that we will consider
+in this course. Let's consider one example from the
+somatic sensory system. Well, we know that the somatic sensory
+system is concerned with Touch with physical contact is one modality of
+stimulation. And it must happen that physical contact
+leads to the generation of eletrical signals.
+So, sensory transduction would be part of that story in addressing the question,
+well. How does this mechanical contact lead to
+the generation of electrical signals? Here's how this works for the receptors
+that are sensitive to mechanical deformation of the body surfaces.
+Imagine that we have some kind of receptor ending at the end of our first
+order neuron This happens to be a beautifully laminated structure called a
+Pacinian corpuscle. And this Pacinian corpuscle contains a
+nerve ending that has cations selected channels.
+And these ion channels are sensitive to stretching forces that are applied to the
+membrane. So when there's some kind of mechanical
+interaction with the structures containing these pacinian corpuscles,
+these ion channels will open. Not because they're voltage gated or
+because they are activated upon by neurotransmitters as we saw in our
+previous tutorials on neuro signalling. But rather, because the mechanical forces
+open these channels, so here's what we observe.
+When a physical force is applied to this tissue, these ion channels will open,
+this will allow our cations to enter. In this particular case, the principal
+permiant ion is a sodium ion. And so, as I think should now be familiar
+to you, as sodium rushes in to a neuronal cell it carries with it its positive
+charge. And that leads to the depolarization of
+the sensory ending of this axon. Let's have a physiological perspective on
+this process now. Imagine that a fairly weak stimulus is
+applied. And that weak stimulus will lead to the
+influx of relatively small number of sodium ions.
+So one can imagine a fairly weak depolarization of this receptor.
+Now, we have a term that we use to apply this kind of depolarization.
+We call this a receptor potential, because we're talking about a change in
+membrane potential, in a receptor ending, of a primary sensory axon.
+Now, if the strength of this stimulus is increased, what we would expect to see
+has a greater response and indeed, that's what we see.
+So with the stronger stimulus, we see an increase in the amplitude of this
+receptor potential. But notice that, we don't yet generate an
+electrical signal that can propagate, as long as this potential stays below
+threshold, for generating an action potential.
+But with a stronger stimulus, it very well may be that this receptor potential
+is now sufficient magnitude to achieve the threshold for generating an action
+potential. Once that threshold is achieved, an
+action potential fires. Now notice what's going on here, the
+generator potential is a function of the stretch activated ion channels.
+But once that membrane is depolarized to achieve the threshold for generating an
+action potential, now our friends the voltage gated sodium and potassium
+channels are activated and an action potential is generated.
+So different kinds of ion channels contribute in different phases to the
+transmission of information along the axon of the primary sensory neuron.
+Now in the case of our sub-threshold potential receptor potential that fail to
+elicit an action potential. We're never going to know about that
+contact through this sensory ending because there has been no action
+potential. There's been no signal transmitted into
+the central nervous system that requires a receptor potential of significant
+amplitude to achieve threshold.

@@ -1,0 +1,137 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. I created this bonus video because some
+of the students in the class said they'd really like to see a more challenging
+recombination problem of the types that we discussed, but going further than the
+examples that you saw in the early videos, so let's dive right in,
+let me start with a few assumptions. The assumptions that we'll be looking at
+here is that we're scoring offspring from a backcross, this is a key word here. So, a backcross is a pairing between an individual that is heterozygous for
+all three markers that we're looking at. To another individual that's
+homozygous for all three markers. So, the offspring from this are called the
+backcross offspring, ro backcross progeny. Thos are what we're scoring. Now, in scoring those offspring,
+what we're actually measuring is recombination that occurred And
+the meiosis of the heterozygous parent. That's what we're actually examining by
+looking at the genotypes of the offspring. Now, the way we're gonna do this
+is we're going to identify and delete the contributions from
+the homozygous parent to all the offspring Now, the homozygous parent may very
+well have had plenty of recombination. We actually can't tell
+since they are homozygous, if they have a recombination event,
+for example, between A and BG. And if they're homozygous big A, big A,
+big B, big B, we can't tell the difference between one big A and the other big A or
+one big B and the other big B. So, what we'll do is we'll
+look at the offspring and we'll figure out what the homozygous
+parent contributed and just take that out. What that leaves us with is
+effectively what was in the gametes of that heterozygous parent, whose meiosis
+and recombination were steadying. So, the second step will
+then be to infer the phase of alleles in the heterozygous parent. Basically, the combination of
+alleles that were on the same chromosome that came into that parent. This is sometimes referred
+to as gametic phase as well. The third step will be to infer gene
+order in the heterozygous parent, basically again like what
+happened in the earlier videos, we'll try to figure out which gene it
+was most likely to be in the middle and the last step will be determining
+the recombination fractions. So, here's a sample problem, if you like, feel free to pause the video
+right now try this on your own. Otherwise, I'm just going to go ahead and
+launch in. Here's the problem, we see that the set of individuals
+on the left are heterozygous for D. The individuals on the right
+are homozygous for little d. We see individuals here
+are EEEe We see Ff. We see ff. So, what are we do? Well the first step, as I said, was to identify the contributions from
+the homozygous parent and delete. Now, how to we figure out what
+the homozygous parent gave? Well the homozygous parent is
+always giving the same alleles. So, looking at all of
+these offspring here. So, looking at for example the D gene. What does every single individual here in
+the left column and right column have? They have one allele that is shared by
+all individuals, which allele is that? Well, that would be the little D. For the E gene, it's the capital E,
+and for the F gene, it's the little F. So, these are clearly the contributions
+from the homozygous parent. So, the homozygous parents,
+let's just say it was the dad Would have been little d little
+d big E big E little f little f. So, we've identified their contributions,
+the next step we do is we delete them. So, we literally just boom they're gone,
+[LAUGH] so now we're looking at basically
+the eggs of the mom. So, these are the eggs from the mom
+because we've taken out what the dad put into the offspring, so now what we
+have here is what was in the egg Eggs, the unfertilized eggs from the mom. So, the next thing we do is we try to
+infer the phase, and again this is sometimes called gametic phase if
+you try to Google it or something. The way we identify that is you look
+at the two most abundant classes and those are the ones that
+are in the parental phase. So, looking at this,
+these two are the most abundant, big D, little e, little f, and
+little d, big E, big F. So, what that suggests is the heterozygous
+parent had one homologous chromosome with big D, little e and little f,
+another one with little d, big E, big F. I should emphasize, that the heterozygous parent thing in
+the top right there is un-ordered. We don't know that
+the order of genes is Def. But we know that is the phase that
+capital DU is with a little e,u, with little f for example. So, we infer the phase here, that we don´t
+know the order so let´s figure that out. Well, the next step is to
+infer the order of the genes. So, do you remember how we did that? In the past the way we did
+that is we looked at the two least abundant genotypic classes. In this case, it would be these two. Big D, big E, big F,
+little d, little e, little f. So, these are the double crossovers,
+right? They're double recombinants, excuse me,
+double recombinant individuals. So, let's compare those two
+classes with the parental phase. So, we have the parental phase this
+is just the same thing from this top right corner brought down, and
+here's the double recombinant. Now, when we look at that,
+there should be alleles, that are basically in same same phase
+as the parent and one that's different. Right, so in each of these things. And if you look at the top,
+if you look at the top row, little e and little f are together,
+in the parental and the double recomment. D is different. On the bottom side, little d, or I'm sorry
+we have big E and big F, big E and big F, but we see the d's are not
+in the same orientation. What that suggests is this is a double
+recombinant d must be in the middle. Because in order to go from the parentals
+to the double recombinant you need two recombination events okay? So, since d is the oddball d is the one
+that is not in the same phase as the other two That suggests that the heterozygous
+parent had this gene order. We already had the phase from before but now we know that the D
+gene is in the middle. So, we have little e, big D, little f,
+on one homologous chromosome and big E, little d,
+big F on the other homologous chromosome. Ok? So, now we have both the phase and
+we have the gene order. So, the last step is to figure
+out the recombination fractions. Well we have the phase here, so
+this is fairly straightforward. So, we look and see which are recombinant
+relative to that parental phase. So, let's start doing these in order. Let's compare D to E. So, comparing gene E to gene D, the ones
+that are in red there are the recombinant ones because you see they are not
+in the same Phase as to the parent. Because in the parent little E is with
+big D, and big E is with little D. In these ones I've highlighted big D and
+big E are together or little D and little E are together. So, when we total up those four
+numbers it comes out to 36. There's 1000 total individuals so the
+recombination fraction here is point 036, Or 3.6%. Do the same thing for genes D and F. And again we see the same
+sort of pattern here. Again, D and F in the parent are in
+phase big D little F, or little d big F. So, big D big F, or
+little D little F are now recombinant. So, when we add those
+numbers up we get 94, okay? So, the recombination fraction in
+this case would be 0.094 or 9.4%. We can stop there because
+that's probably good enough. But let's go ahead and
+take it one step further and look at between Gene E and Gene F. It should be close to but not exactly
+the sum of those two fractions. So, we do that,
+okay in these case genes little e and little f are together and big e and
+big f are together in the parent. So, recobinants would be the ones
+that are in opposite case, so these ones are all recombinant okay? And we total up those numbers. It's a 122. Again that is close to but
+slightly smaller than the sum total of the distance from gene e to gene
+gene d plus from gene d to gene f. So, at this point, we've solved the entire
+thing., we can actually draw it out. This is what we expect
+the parent looked like, so that we have the order,
+the phase, and the distances or the recombination fractions
+between each of those genes. So, there we go. We've solved a more complex problem. I hope you didn't think
+that was too difficult. I know I did it a little bit quickly, but
+feel free to go through the video again. Pause and work it through yourself. One thing I want to come back to though is
+looking at the overall procedure, first we identified and deleted the contributions
+from the homozygous parent, right? That was the first step, the second was to infer the phase of
+alleles in the heterozygous parent which again we use that by looking at
+the most abundant two genotypic classes. We then infer the gene order in
+the heterozygous parent by looking at the least abundant two genotypic classes
+and comparing that to the phase of the parent, and the last one is
+determining the recombination fractions. So, I wanna bring things back and connect to the videos that
+are coming up by pointing this out. Why should you care,
+like this cute kid here? Well, again genetic mapping is used for localizing genes that
+effect traits of interest. It's not letters there's no gene d,
+gene e, gene f but this used this is procedure that is done
+everyday to localize genes causing human disease, to localize traits of
+agriculture interest for example and yes even though you have a gene sequence
+even for humans we don't know the function of all the bases, so we don't necessarily
+know where the gene of interest is. We don't necessarily know just
+by having a genome sequence there's the spot that causes
+Alzheimer's when it mutates. And we also don't know the phase or
+order of genes automatically. This is the procedure by
+which genes are found. When people talk about
+finding genes influencing likelihood of getting diabetes or
+something like that. This is the kind of thing that happened. There are other procedures as
+well which we'll go into shortly, but this is the type of
+procedure that happens. Well, I hope you found this helpful. I hope this was a useful bonus video for
+you. Thank you so much, have a great day.

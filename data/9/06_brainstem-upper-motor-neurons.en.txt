@@ -1,0 +1,199 @@
+Welcome back to this tutorial, on upper
+motor neuronal control of movement. now I'd like to turn our attention away
+from the cortex, and into the brain stem. My learning objective for you here, is
+that I want you to be able to discuss the neural centers, that give rise to medial
+descending projections. From upper motor neurons in the
+brainstem, to lower motor neurons associated with eventual horn of the
+spinal cord and even in the brain stem itself, in the motor nuclei of the
+cranial nerves. So our brainstem upper motor neurons
+include, primarily two sorts of populations of cells.
+There's a population of neurons associated with the vestibular nuclei.
+And we've talked some about these, in a previous tutorial.
+And then there's a population of neurons, that emanates form the central core
+region of the brainstem. That is the core of the tegmentum of
+brainstem, we call this core the reticular formation.
+And the reticular formation really extends throughout the entire brainstem,
+but the portion of it that gives rise to projections to lower motor neurons, is
+primarily found in the pons and the medulla.
+Okay. So, let me just take a, a minute or two
+to remind you, of the projections that arise from the vestibular nuclei and
+descent and terminate in the spinal cord. you'll recall that there are
+vestibulospinal connections, that are concerned with mediating reflexes that
+are sensed by our vestibular apparatus. And the sensory signal is going to be
+some kind of an acceleration, or movement of the head.
+So this movement could be a rotational acceleration of the head, which would be
+sensed by our semicircular canals. It could be a linear acceleration or a
+tilt of the head, sensed by the otolithic organs.
+and these signals might very well necessitate an adjustment of posture.
+And in postural adjustments imply that there must be some change in the output
+of the spinal cord involving the axial muscles, the proximal limb muscles, and
+perhaps even the distal muscles of the limbs.
+And these reflexes connecting head movement to postural adjustment, are
+mediated near these vestibulospinal connections.
+So there is a lateral vestibulospinal tract, which arises from our lateral
+vestibular nucleus. One division of this vestibular nuclei
+complex. And this projection is primarily an
+ipsilateral projection, that runs down the spinal cord and terminates among the
+cell groups, that are concerned with extensor tone, primarily in the lower
+extremities. So one example that I've given you before
+would be, standing up on a bus or a train.
+That is unexpectedly encountering bumps or jolts along the path.
+And so these are sensations, that are being detected by the vestibular system.
+And in order to stay upright, to not fall over as the floor is moving under you
+feet, there needs to be a moment to moment adjustment in posture.
+And that's what's mediated via this lateral vestibular spinal tract.
+Now, there are other divisions of this vestibular nuclear complex, that give
+rise to a medial vestibular spinal tract. And this projection is much more
+bilateral, than our lateral vestibulospinal tract and it's
+terminating among medial lower motor neuronal columns.
+And these columns are mainly found in the cervical region of the spinal cord, so
+one example of the operation of this medial vestibulospinal tract.
+would be the reflexes that are elicited with a sudden forward rotation of the
+head. So what I'm thinking of is, tripping and
+falling. So in order to brace ourselves for the
+impact with the ground, we want to get our face out of the way, so we dorsiflex
+our neck, and we often extend our arms to brace ourselves against the fall.
+So that's a reflex. So the forward acceleration of the head,
+triggers this reflexive response that's mediated via the cervical levels of the
+spinal cord. That's our medial vestibulospinal
+pathway. Now, I want to make just a couple of
+points and then we'll be ready to move on.
+I don't want you to be confused about the nomenclature of these vestibulospinal
+pathways, especially the lateral vestibulospinal pathway.
+This pathway, is somewhat lateral in the anterior and medial white matter of the
+spinal cord, but we still consider it part of our descending medial systems,
+for upper motor neuronal control of posture.
+And the more proximal muscles of the limbs.
+So, consider together these vestibulospinal projections, part of that
+medial descending system. That adjusts posture and sets the gain of
+local segmental reflexes. One additional point I would make about
+these vestibulospinal connections, is that they're operating on sensory
+feedback. So there is some kind of action that's
+being sensed, and then an adjustment is made subsequent to that action.
+So this is a feedback operation, adjusting posture in response to a sensory
+signal. Okay, let's move on and talk about the
+reticulospinal system. So, the reticular formation is really a
+complicated network of structures, that we find throughout the tegmentum of the
+brainstem. So indeed the reticular formation is a
+complicated network of nerves, that spans the the cord of the brainstem.
+one can even argue that its continuous with the intermediate gray matter of the
+spinal cord inferiorly. And continuous with the lateral portions
+of the hypothalamus, on the superior side of the brainstem.
+Well, within this network of cells, we now know that there are actually discreet
+circuits. And many of these circuits, have specific
+functions with respect the visceral motor control and somatic motor control.
+There are elements of the reticular formation, that do in fact project
+broadly and diffusely throughout the nervous system.
+And those are projections that have an important role, in modulating brain
+function in various regions. Broadly speaking, we recognize the
+rostral part of the reticular formation, coming from the mesencephalon.
+And from the rostral part of the pons, as having those kinds of projections that
+modulate activity in the forebrain. the more inferior part of the reticular
+formation. And the caudal pons and in the medulla.
+That's where we tend to find these circuits, that have a kind of pre-motor
+function. That is, they help to coordinate the
+output of lower motor neurons. Many of these lower motor neurons are
+concerned with visceral motor functions, including cardiac rhythms and breathing
+rhythms, and perhaps even digestive rhythms.
+Other, other networks are concerned with somatic motor function.
+And here's where we imagine our paramedian pontine reticular formation
+coming in, and helping to organize horizontal gaze movements.
+But there are other circuits, within this reticular formation that are concerned
+with modulating the gain of segmental reflexes in the spinal cord.
+As well as, making adjustments of posture.
+So, to go back to the previous slide for a moment, I would highlight that there
+are. Indeed projections from this reticular
+formation, down through the anterior medial white matter of the spinal chord.
+And then near their level or termination, they tend to bifurcate and supply
+bilaterally, the medial columns of lower motor neurons that are found in the
+spinal chord. Now, one key way to differentiate the
+contributions of the reticulospinal connections from those of the
+vestibulospinal connections, has to do with time.
+You'll recall that I made the point that the vestibulospinal projections, are
+operating as a feedback circuit. taking a sensory signal, the movement of
+the head and implementing a motor adjustment.
+So in this sense, the vestibulospinal system, is operating based on the
+information acquired in the past. The reticulospinal system, is concerned
+primarily with making anticipatory adjustments of posture.
+That is, making adjustments of posture that anticipate, the actions that are
+about to happen. So, here's an example that helps me
+understand differentiation of these two systems.
+Imagine a sprinter, and that sprinter is in the blocks awaiting the sound of the
+starter's pistol. So that sprinter has just heard the
+words, ready, set, and now there's an anticipation.
+There is a time of preparation of the body, especially the lower body, for this
+explosive motor action, of sprinting out of the starter's blocks.
+And engaging in this pattern of locomotion, that is essential for
+competing in this activity, this, this sprint.
+That moment of ready and set, is where our reticulospinal system, will be
+engaged in setting the tone of the segmental circuits.
+So that an explosive motor action can be executed with maximum energy, and
+performance, and skill. So this reticulospinal connection, is
+going to be especially active during this time of ready and set.
+It will be preparing the circuitry of lower motor neurons, for this explosive
+action that's about to happen. Okay, now you're that sprinter the gun's
+going off. You've exploded out of blocks, and now
+you're running down the lane in the course of this race.
+Imagine that you stumble, that stumble is not something that you planned and its
+not something that you necessarily anticipated.
+It just happened. Well, that stumble is going to evolve
+some unexpected acceleration of your head.
+That will engage the distributive system and hopefully.
+You'll be able to catch yourself, and maybe break stride a little bit.
+But you'll make some adjustment, I trust, and continue on in the race.
+Well, that stumble, and the adjustment that allowed you to continue in the race,
+is a function of our vestibulospinal system.
+Vestibular systems sensed the unexpected acceleration of the head, and an
+adjustment in posture, and in the mechanics of locomotion were implemented
+via the vestibulospinal system. Well, I hope this image of starting and
+then running a race has been helpful and helps you to differentiate the
+contributions of the reticulospinal system from the vestibulospinal system.
+Well, if the reticulospinal system is going to serve to prepare you for action.
+To anticipate the activity that is being planned for, then it implies that it must
+know what that planned activity is all about.
+The implication anatomically is that there ought to be connections from our
+pre-motor cortex, down to the reticular formation, and indeed there are.
+there are projections that emanate from our motor cortex, that are informing
+these neurons in the reticular formation, probably bilaterally about the activity
+that's about to be performed. And then the reticulospinal connections,
+are those that actually make the appropriate adjustments of gain and
+muscle tone for the actions that are necessary.
+Now, there's one other structure that is often considered to be a collection of
+upper motor neurons, in the brainstem that I want to mention.
+And it's found right here, in the dorsal part of the midbrain.
+And what I'm attempting to identify for you here is the superior colliculus.
+Recall that the superior colliculus, is one of the little hills that forms the
+tectum or the roof of the midbrain, just above the cerebral aqueduct which we see
+here. So there's the inferior colliculus.
+That's an auditory relay and then the superior colliculus which is the
+structure that I'd like to just mention very briefly here.
+So the superior colliculus, is a motor structure that integrates sensory
+information from vision, from audition, from the canal sensation.
+And probably also from pain and temperature sensation.
+So these sensory signals are integrated in the networks of the superior
+colliculus, and a motor signal emanates out of the deeper layers of the
+structure. The superior colliculus is concerned with
+making reflexive adjustments of gaze and posture.
+Towards a sensory stimulus. So I already gave you the example of a
+bolt of lightening perhaps there could be a unexpected pinch of the skin.
+Or maybe a sound that comes from some lateral position in our auditory
+environment that captures our attention. Either one of those three examples will
+often induce a reflexive shift of our gaze and our attention, towards a
+particular stimulus. Well how does the superior colliculus do
+this? Well we've talked elsewhere about the
+role of the superior colliculus. In coordinating saccadic eye movements,
+through a portion of the reticular formation, that coordinates movements in
+the horizontal plane or in the vertical plane.
+But there are also adjustments of the cervical spinal cord, that are concerned
+with the turning of our head and the adjustments and the stabilization of our
+posture. Those adjustments that are mediated in
+the spinal cord, are carried out by projections from the superior colliculus
+into the reticular formation, which then projects to the spinal cord.
+There may also be direct projections in the human nervous system from the
+superior colliculus, to the lower motor circuits of the cervical cord themselves.
+But we know that at least there is a role for the reticular formation in mediating
+the signals that are coming out of the superior colliculus.
+So, it's fair enough to include the superior colliculus in our conversation
+about upper motor neurons in the brainstem okay.
+We'll shift gears again and talk about the neural circuits for expressing
+emotional behavior.

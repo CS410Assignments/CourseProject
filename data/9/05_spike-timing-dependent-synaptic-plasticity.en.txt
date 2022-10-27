@@ -1,0 +1,226 @@
+Welcome to the second of the three
+tutorials that I have for you about synaptic plasticity.
+In this tutorial, we're going to talk about spike timing-dependent plasticity.
+So again our concern is for three very important core concepts in the field of
+Neuroscience. We continue to talk about the
+communication among neurons, using electrical and chemical signals.
+And how life experiences can change the structure and function of the nervous
+system. And as we learn more about these
+fundamental properties. We are going to learn how better to
+promote healthy living and the treatment of disease.
+So again, this is a very exciting field in modern Neuroscience.
+And the future couldn't be brighter in terms of anticipating how discovery in
+the field of Neuroscience is going to improve the human condition.
+Our learning objectives are again to characterize general cellular mechanisms
+for synapatic change. And then I want you to be able to discuss
+the importance of the timing of the postsynaptic response relative to the
+presynaptic activity. For the mechanism of synaptic plasticity
+that we observe in the postsynaptic cell. So those are our learning objectives.
+And to get started, let's review, again, the general cellular mechanisms that lead
+to synaptic plasticity. Well, we went over this in the previous
+tutorial and perhaps it bears repetition. synaptic plasticity begins when neural
+activity triggers the activation of postsynaptic second messenger systems.
+The trigger in that postsynaptic cell is typically an alteration in the level of
+intracellular calcium. The level of intracellular calcium is
+critical, because calcium-dependent second messenger systems are then
+activated. And those systems can then activate
+either protein kinases, which phosphorylate target proteins.
+Or protein phosphatases, which dephosophorylate target proteins.
+And it's the alteration in protein phosphorylation that either turns on or
+turns off target proteins. And together, these events mediate the
+early stages of long-term synaptic plasticity.
+So these are mechanisms that are operating upon cellular molecular
+machinery already present within the postsynaptic cell.
+Long-term synaptic change, however, requires alterations in gene
+transcription. So this is the general scenario by which
+plasticity plays out typically in a calcium dependent manner.
+And the key difference between one valance of plasticity, if you will.
+Or another, is the level of intracellular calcium that's triggered by the synaptic
+activity. Well, what I want to tell you about today
+in this tutorial is, something called spike timing-dependent plasticity.
+And I want to make clear, I'm not talking about a totally different form of
+plasticity. Than what we've already discussed in
+terms of long-term potentiation and long-term depression.
+Rather, I want to help you understand through this spike timing-dependent
+framework. How plasticity plays out in ongoing
+patterns of activity in the brain. Spike timing-dependent plasticity
+provides for us a framework for understanding plasticity in the brain one
+postsynaptic spike at a time. And here's what I mean by that.
+Real synapses seldom, if ever, experience brief trains of high frequency
+stimulation of the sort. That were used in the hippocampus slice
+preparations, in order to demonstrate long-term potentiation.
+So one might reasonably ask. How, then, does plasticity work in real
+circuits? if they don't experience the kind of
+stimuli that typically were used at least in the classical studies of long-term
+potentiation. Well, here's the spike timing-dependent
+plasticity framework. again, it allows us to understand these
+principles of plasticity. One spike at a time without necessarily
+depending upon a special train of stimuli in order to induce a synaptic change.
+So, consider a synapse where we've got a presynaptic input to a postsynaptic
+neuron. And in our experiements that I'll be
+talking about here. It's possible to stimulate the
+presynaptic axon. And induce a action potential at that
+presynaptic terminal, at some period of time.
+Either before or after an action potential is recorded in the postsynaptic
+neuron. Now if this is a mature, strong synapse.
+You might anticipate that activity in the presynaptic terminal will lead to the
+generation of an action potential in the post synaptic cell.
+And indeed it's possible to find such synapses for which that behavior is
+observed. And that's what we find in this
+illustration here in figure 8.18 from your textbook.
+So, there is an action potential in the presynaptic cell.
+And about 20 milliseconds later, there is an action potential in the postsynaptic
+cell. So we call this presynaptic activity
+before postsynaptic activity. This is what we might expect if our
+presynaptic cell, let's call that neuron A is firing an action potential.
+And that leads to the activation of our second cell, we call call that neuron B.
+So for such a synaptic connection, it's possible to look over time.
+What is the amplitude of the postsynaptic potential or the postsynaptic current.
+following some, structured pairing of activity between the pre and the
+postsynaptic element. And so that's what's being shown here in
+this recording we have excitatory postsynaptic current amplitude on the y
+axis. And time on the x axis relative to some
+structured stimulation between the pre and the postsynaptic element.
+And what we find is that when we provide that stimulus.
+Where the presynaptic input happens before the postsynaptic input.
+Then there is an elevation of the excitatory postsynaptic current.
+So, the amplitude is increased by about 40%.
+And so this is evidence of long-term potentiation in this pre-before
+postsynaptic regime. Now, since we can control the activity
+with our microelectrodes. It's possible to stimulate the
+presynaptic terminal. at a time that actually comes following
+the generation of a postsynaptic action potential.
+Now, I'll just ask you to remember that our typical neurons that we have in
+structures like the cerebral cortex recieve inputs from many hundreds even
+thousands of different synaptic connections.
+Different exonal inputs converging upon the dendrex at the very same cell.
+So that cell might fire an action potential in response to activity.
+And one of these many other hundreds or even thousands of inputs.
+So, we're studying one particular synaptic connection.
+And we're varying the timing at which that input is activated relative to the
+firing of a postsynaptic action potential.
+So if we stimulate such that the postsynaptic action potential actually
+happens before the presynaptic action potential.
+We might find a recording that looks like this.
+So, the large action potential represents the postsynaptic spike.
+And then some period of time following it, maybe 30 milliseconds or so later.
+The presynaptic input is stimulated. And we see some post synaptic potential
+that's recorded. But that post synaptic potential
+importantly in this regime follows the triggereing of the action potential.
+And under that situtation where post synaptic activity happens before pre
+synatptic activity. Notice that there, now is the development
+of a weakening. And the amplitude of the excitatory
+post-synaptic current. This is long-term depression.
+This is what happens, basically when the postsynaptic neuron is being influenced
+to fire an action potential by some other input.
+Other than the one that we're stimulating in this experiment.
+When experiments such as these can be done over and over again, varying the
+interval between presynaptic activity and postsynaptic activity.
+It's possible to generate a function that now accounts for spike time-independent
+plasticity. And what we see is that in the pre before
+post regime, that is, when a pre-synaptic input is in a position to fire the
+postsynaptic cell. There may be a marked degree of
+potentiation. So this then is long-term potentiation.
+That can be recorded if the interval between the pre synaptic firing and post
+synaptic firing is less than about 20 miliseconds.
+Now 20 milliseconds it's, it's kind of magical interval.
+if you follow me here, that's an interval that's suggestive of a milo synaptic
+connection. Where the input in question, the one that
+we can control with the micro-electrode. Is effective in triggering the action
+potential in the postsynaptic cell. We might think of this as their as
+providing some coordination of activity. If you will, between the pre and the
+postsynaptic element. Where the presynaptic input is reliably
+leading to the activation of that postsynaptic cell.
+So pre before post leads to long-term potentiation.
+On the other hand, again, we're calling that postsynaptic neuron is going to be
+receiving hundreds of thousands of other inputs.
+It may fire an action potential in response to some other input than the one
+that we have control of with our microelectrode.
+Well, should that happen before the stimulus is applied to the input in
+question. We might have long-term depression in
+this post before pre-regime. So this now is long-term depression where
+the excitatory postsynaptic current is actually diminished.
+When the firing of the postsynaptic cell precedes the firing of the input in
+question. So we might imagine that this post before
+pre is a picture of incoordination between the pre and postsynaptic elements
+in question. Well, here, in this part of the country,
+especially as winter is turning into spring.
+one sport that is popular in my own family, anyway, is baseball.
+And baseball involves a pitcher throwing a ball at a batter, that has a, wooden or
+a metal bat. And the batter has to time the swing just
+right in order to hit that baseball. Well, if the batter begins to swing the
+bat just at the right moment in time. Then he or she might strike the ball and
+might hit a homerun. That's a good thing for the batter.
+We might consider that to be a mediphore for long-term potentiation.
+If the swing of the bat occurs at just the right time.
+As the ball is entering the hitting zone. Then the batter begins to pass the bat
+through the hitting zone and the two make contact and well.
+That's a good thing for the batter. So we'll call that long-term
+potentiation. Well, there's a particular kind of pitch
+in the sport of baseball that's intended to deceive the batter.
+The batter sees the pitcher release the ball.
+And the batter anticipates that the ball is going at a faster rate than it
+actually is. This is called a changeup pitch, meaning
+a change in the speed of the ball. Well, an effective changeup will result
+in the batter swinging too early. That is, the bat will pass through the
+hitting zone before the baseball arrives. I like to think of that, as post before
+pre. The bat passes through the hitting zone
+too soon before the opportunity to hit the ball arrives.
+Well that's not a good thing for the batter.
+We might call that long-term depression. Well, I was actually invited to think
+about this metaphor by a student I had a few years ago.
+Who thought about this spike timing-dependent plasticity function and
+said, oh, so long-term depression is a near miss.
+And I thought, exactly, it's a near miss. Like, swinging through a changeup.
+It's a near miss. The batter swings the bat, but
+prematurely, before the arrival of the baseball.
+The postsynaptic activity happens just before the presynaptic activity.
+That's actually quite bad for that synaptic connection.
+That leads to the depression of that connection.
+Whereas if the batter never swung the bat, if it stayed on his or her shoulder,
+there'd be no strike. Well, I think that's an important lesson.
+In order for the synaptic connection to be depressed, it actually has to be used.
+But it has to be used poorly. That is to say, there has to be some
+incoordination at that synapse. Where the postsynaptic neuron fires in
+response to some other input. Not the one in question.
+But it needs to be a near miss. That postsynaptic neuron needs to fire
+before, but just before the presynaptic neuron.
+Now, I want you to notice something about the shape of this function.
+Notice that the shape of the long-term potentiation phase,[SOUND], is roughly
+about half the width of the shape of the long-term depression function.
+Well, I think that's kind of interesting. my background is in developmental
+neurobiology. So I like to think about how plasticity
+works out in the context of development. And as neural circuits become active,
+there seems to be a lot of noise and those activity patterns that develop in
+the brain. We might think of that noise as being
+somewhat unstructured. And somewhat unshaped by either the brain
+itself or by it's interactions with the outside world.
+Well, if the interval for depression is twice as large as the interval for
+potentiation. Then that suggests that more of that
+noise is going to fall in the phase of this function that favors depression.
+Such that the noise is going to tend to lead to the depression of those active
+synaptic connections. Whereas those synaptic connections that
+are mediating some structure, where there is preactivty, presynaptic activity
+leading to postsynaptic activity. That's coordination.
+So as signal emerges out of the noise of the developing brain, there's the
+potential to focus in on that signal. Potentiate those synapes that are
+effectively driving activity in those circuits.
+And meanwhile depress the other weaker inputs that are out of sync, that are not
+being coordinated, not being structured. So this may be one mechanism by which the
+brain imposes a temporal filter on i'ts own activity patterns.
+As a way of selecting those that are leading to an increase in the
+coordination of firing across synaptic connections.
+Well, one way that the brain has of imposing some structure over it's spatial
+and temporal patterns of activity is through interactions with the
+environment. And in context of the developing brain,
+it's intriguing to hypothesize that sensory experience might be one source of
+structure. That favors the potentiation of
+functional synaptic connections. Whereas, the noise that otherwise is not
+being well structured by sensory experience, might lead to depression.
+And perhaps the weakening, and maybe even the loss and the pruning away of synaptic
+connections that are, that are not functional.
+Well, this brings us to the close of this tutorial.
+The third and final tutorial in this series will put all of this together in a
+very powerful framework. That has been with us through many
+decades now and continues to inspire our understanding of synaptic plasticity.
+So we'll talk about Hebb's Postulate in our next session.

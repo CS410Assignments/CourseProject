@@ -1,0 +1,106 @@
+Last week, we mentioned the importance of
+internal controls when trying to prevent and detect fraud. Now, let’s spend a few minutes
+talking about some specific internal control concepts.
+Many of you have probably heard the term, “internal controls”, and it may have a
+variety meanings to you. Very basically, an internal control is an
+activity or process to make sure that what you want to get accomplished, gets done.
+For example: as a manager you probably have a goal to make sure that each of your employees
+is paid for the time they work – and ONLY for the time worked.
+Can you think of some activities that make sure you accomplish that goal? First, you might use manual time-cards.
+With manual time cards, each employee can record when they arrive at work, and when
+they leave. This may work for your organization. But if your employees are not trustworthy, they might
+write down that they got to work earlier then they actually did, or write down a late departure time, and leave early. Another activity, with ELECTRONIC data collection,
+would be for the employees to “swipe” their ID when arriving and leaving. The computer
+would record the actual times. This is more likely
+to capture accurate times. A third activity you might consider is to
+use a camera to record all activities at the workplace. This might be “OVERCONTROLING” for most
+organizations, but it is a way to determine who is at work, and if they are working! It
+may also be expensive for the person preparing payroll
+to have to review every tape every day and record everyone at work.
+From these examples,I want you to understand that for most goals, there are a wide range
+of activities, with varying degrees of costs and appeal. You have to find the one that BEST
+fits your goal. In addition to general business goals, we
+also need to think about some goals that are important from the fraud perspective.
+One of these is the goal to reduce the risk that the organization will be exposed to a
+harm, danger or loss – this includes loss caused by fraud and other intentional and unintentional acts. Additionally we need to make sure the organization
+is in compliance with laws and regulations. Frequently, we have “GOAL OVERLAP”, for
+example, where the potential loss is monetary AND it breaks a tax law. Next, let’s talk about categories of internal
+controls. First, we have preventative controls – they
+PREVENT problems from occurring. To do this, we need to anticipate a problem and put a
+procedure in place to prevent the problem from happening. For example, an employee is entering the hours
+he works into an automated timesheet program. He works 30 hours, but by mistake, he enters,
+300 hours. Knowing that errors in data entry may
+happen, we have a “PROGRAM EDIT CHECK” control that does not allow any entries greater
+than 168 hours for a week (24 hours X 7 days). The
+edit check PREVENTS the error from being introduced into the system. The second category of is DETECTIVE CONTROLS.
+These controls do not PREVENT a problem, but rather identify problems that have occurred.
+Our control example here is to compare the sales
+information from a cash register program to the cash in the register’s cash drawer.
+This will help to determine if cash is missing. Obviously
+this did not prevent the loss, but it helped identify that a loss occurred. The final category is CORRECTIVE controls. These resolve a problem that occurred. Corrective
+controls do not PREVENT or DETECT a problem. One example of a corrective control is a fidelity bond, which could be described as employee
+embezzlement insurance. It does not prevent, nor detect theft by an employee, but it does
+reimburse for the loss after the fraud. There are many, many opportunities to incorporate
+internal controls into an organization. Let’s spend a few minutes looking at some that you
+may have been exposed to. First consider some controls that may be used
+to prevent and detect fraud. Cameras at cashier stations in retail stores
+are there to DETECT problems. BUT, just knowing that someone is viewing the area may PREVENT
+a fraud by the cashier. Passwords on computer programs keep people
+from accessing certain routines. This can prevent frauds such as inappropriate adjustments
+to accounts.
+Approval processes, such as for cash payments, may prevent an accounts payable clerk from
+making fraudulent payments to relatives. It should be noted that not all controls are
+fraud related. There are also many controls to make sure that company operations work
+smoothly. Examples of these include having preset, automatic
+inventory reorder points. This control prevents stock-outs, and customer dissatisfaction because the item they want is not available. Another operations control is the automatic
+calculation of employee payroll. Automatic calculations typically reduce errors in every
+process where they are used. This control may also
+PREVENT intentional calculation errors by a fraudster. No matter what organizational objective you
+are considering, if possible, PREVENTATIVE controls are preferred. It is much better
+to PREVENT a fraud than to deal with the issues of detecting
+or correcting the problem. Fraud prevention and detection is directly
+related to internal control from a business perspective. To meet the requirements of being
+a good steward of the resources of an organization,
+management is expected to prevent fraud when possible, and disclose it when prevention
+efforts did not succeed. Internal controls are a major
+part of the framework to support this responsibility of management.
+In additional to the business perspective, in the USA and many other countries, management
+has a legal responsibility related to fraud and internal controls. The USA’s Foreign Corrupt Practices Act
+of 1977makes management legally responsible for an organization’s internal control system.
+The Sarbanes Oxley Act’s impact on corporate financial
+reporting not only addresses corporate fraud, but also includes penalties should it occur.
+The importance of preventative controls cannot be over-emphasized when studying fraud. Control
+failures can result in not only business failure, but also personal financial penalties,
+and criminal prosecution for individuals. The primary preventative control in any financial
+system is separation or segregation of duties. There are four functions that we are concerned
+about when processing of a business event: authorizing, executing, recording, and safeguarding.
+Separation of duties is the assignment of these four functions related to events to
+different people. When duties are properly separated, no individual
+job or role includes the capability to commit fraud without collusion.
+To help understand the concept, let’s look at the following example. An employee in the marketing department needs
+a new lamp. Consider the activity of purchasing the lamp.
+The authorization of the lamp purchase would likely be the responsibility of the supervisor
+of the department where the lamp is needed. The execution of the purchase, buying the
+lamp, is performed by a purchasing agent in the company’s purchasing department.
+The transaction will be recorded by an accounting clerk. And finally, the lamp will be safeguarded
+by the original requesting employee in the marketing department.
+When the controls are not segregated, fraud may result, The worst-case example would be
+all functions performed by a single individual. In that instance, the individual could approve and
+execute the purchase, record the transaction, and possess the item. For example, if funds
+were available, the individual could approve, purchase
+and take possession of a personal automobile, while recording it as business equipment -- and the fraud might go undiscovered. With duties segregated, it is unlikely such
+a fraud could be performed, and less likely it would go undiscovered.
+As we have discussed, while ALL controls are important, but separation of duties is likely
+the most important of controls. In this section, we learned that there are
+certain individuals that are actively seeking opportunities to commit fraud. These individuals
+don’t steal because they need money, they steal
+because they are greedy. When we are designing anti-fraud programs
+and controls, we must be careful to keep these predators in mind. The Triangle of Fraud Action
+is a valuable tool in understanding how certain
+conditions can lead opportunities to commit fraud. We also learned how important internal controls
+are to fraud prevention. One of the most effective controls is segregation of duties.
+Protecting an organization’s assets through good internal controls protects against both
+the accidental fraudster and the predator. You can find more information on this week’s
+topics on the West Virginia University and Association of Certified Fraud Examiner websites. Thank you for your participation today. We
+hope this segment has helped you with your understanding of Fraud Accounting and Forensic
+Examination.

@@ -1,0 +1,132 @@
+Okay, so I think we're ready to move on
+from considering our conjugate eye movements to a discussion of our
+disconjugate eye movements. [SOUND].
+And what we have in mind here are called vergence eye movements and there are two
+varieties of vergence eye movements. There's convergence and then there's
+divergence. So, imagine the situation where you are
+changing your fixation from some point at distance away from you towards a near
+point so maybe you're [SOUND] looking off in the distance and you decide now to
+hold up your finger and look at what might be on the end of your finger.
+When you do that you're changing fixation from let's call it point b to point a.
+[SOUND] And such a change in fixation is going to involve a rightward rotation of
+your left eye. And a leftward rotation of your right
+eye. So both eyes are in AD-duction,
+adduction. And so this is activity that's driven by
+the ocular motor nerve causing contraction of the medial rectus muscles
+in both orbits. And so that's what's necessary to go to a
+near point of fixation. Now, if one was going to go from that
+near point of fixation to a distant target, divergence is necesary.
+So divergence is going to cause the left eye to rotate to the left and the right
+eye to rotate to the right. This will bring our point of fixation
+from point a out to something distant target, point c.
+Okay, so going from near to far involves divergence.
+So, you can imagine that there is likely to be a different kind of circuitry
+involved with different kinds of internuclear connections.
+That allow for the coordination of the activation of the medial rectus and
+lateral rectus muscles as we go from a near target to a far target.
+So, how are such movements organized by the nervous system?
+Well, we won't answer in-depth for all kinds of eye movements.
+But I do want to give you a bit of a feel for the organization of circuitry that
+helps to coordinate the output of our brain stem ocular motor nuclei to govern
+these six pairs of extra ocular muscles. And I want us to consider, really, two
+aspects of the challenge of moving our eyes.
+One is to produce the correct amplitude of movement, and the other, to move the
+eyes in the appropriate direction for whatever the challenge might be.
+So concerning amplitude, the amplitude of movement, of the eyes, is encoded in the
+rate and duration of activity in the appropriate alpha motor neurons.
+So this is illustrated, in the panel here to the left.
+So imagine that we want to shift our eye position from let's say more or less
+straight in front of us, off to the left. Well, for the left eye, let's call this
+the left eye that's going to require activation of our lateral rectus muscle.
+So the lateral rectus muscle is going to contract and that's going to allow the
+eye to rotate towards the left or to AB-duct, to abduct.
+Okay? So now if we are recording from the alpha
+motor neurons and innervate that lateral rectus muscle, what we find is that these
+motor neurons start firing action potentials just as we're beginning to
+actually contract that lateral erectus muscle.
+And very soon after the onset of contraction, within just a few
+milliseconds, there is an adjustment in eye position.
+Now, if we're just making a very small deviation from our neutral resting
+position, then that motor neuron might go quiet again.
+But if we want to continue to move further and further out to our left, we
+will need to induce another burst of action potentials in this abducens motor
+neuron that's going to cause this eye to deviate even further.
+And now, if we get beyond some critical distance where we actually need to, pull
+our eye in order to keep fixation at that particular angle, relative to the neutral
+position of our orbit, there may be some ongoing activity in that abducens motor
+neuron. Let's say we now make a far extreme eye
+movement. Abduction, moving our eye out far to the
+left. Now another barrage of action potentials
+is needed. But so will a higher rate of sustained
+activity in order to keep that eye pulled off to the left.
+We need to contract that lateral rectus muscle in order to prevent the eye from
+being pulled back, or relaxing back to this neutral position.
+Now notice what happens if we were to make a eye movement back in the opposite
+direction, in the direction of adduction, towards the midline.
+This abducens motor nucleus neuron will go silent during that period.
+And this reflects the activity of some kind of interneuron that will suppress
+the activity of this abducens alpha motor neuron.
+In this way, the signals that are coordinated between the motor neurons
+that adduct the eye and abduct the eye can be coordinated.
+And they can work in synergy with one another.
+So when the eye is AD-ducted, adducted, the abducens neurons fall silent and vice
+versa for the ocular motor neurons that innervate the medial rectus muscle.
+Now what about direction of movement? Well, direction of movement can be a
+challenge in various ways because objects of interest that we might want to look at
+can happen really in any position relative to our head and our frame of
+reference. So we need the ability to integrate
+signals that will allow us to direct our eyes towards any location in the visual
+world. And so part of the solution to this
+challenge of directing our, our gaze at an object of interest has to do with the
+biomechanics of the extra ocular muscles. So, we have the six pairs of extra ocular
+muscles that have particular actions. They rotate the eye around particular
+axis of rotation. Part of this challenge is solved by
+simply coordinating the appropriate pairs of extra-ocular muscles.
+So the direction of motion then, is specified by which pairs of extra-ocular
+muscles are activated. These muscles are coordinated by circuits
+of inter neurons that are found in the core of the brain stem.
+In this structure that we've been talking about from time to time, as the brain
+stem reticular formation. Well, as I've said elsewhere, the
+reticular formation really isn't one structure, it's really a large collection
+of circuits. And there are a couple of circuits that I
+would highlight here. And these are circuits that coordinate
+the horizontal movements of the eyes and the vertical movements of the eyes.
+And what's illustrated in figure 20.8 is the circuitry that coordinates the
+horizontal movements of the eyes. And that circuitry in the reticular
+formation is known as the PPRF. And that stands for Paramedian Pontine
+Reticular Formation. And one way to think about this circuit
+is a set of interneurons that are integrating signals that may be command
+signals from other motor structures or they may be sensory signals.
+And the output of this circuitry of this interneurons is to coordinate the
+appropriate firing of abducens motor nucleus neurons and ocular motor nucleus
+neurons that govern the lateral and medial rectus muscles respectively, so
+that our eyes can move in a conjugate fashion along the horizon.
+Okay. Well, suppose I want to look off to my
+right. imagine I'm just going to look to see if
+someone's over there or maybe to see what time it is on a clock on the wall.
+that's going to require the abduction of the right eye moving out laterally away
+from the mid line and the abduction or the adduction of the left eye.
+For the right eye, the lateral rectus muscle needs to contract for the left eye
+the medial rectus muscle needs to contract.
+Well here's the circuitry in the brain stem that makes this possible.
+I want to look towards the right, so there are circuits in this right
+paramedian pontine reticular formation that will drive the output from the right
+[UNKNOWN] nucleus. And that's going to cause the contraction
+of the right lateral rectus muscle. There will also be an internuclear neuron
+that will cross the midline and supply the appropriate alpha motor neuron in the
+contralateral ocular motor nucleus. That motor neuron, then, will fire away
+and cause contraction of the left medial rectus, allowing me to turn both eyes to
+the right in a conjugate way. So, again, this paramedian pontine
+reticular formation is what we call the horizontal gaze center.
+Now, not illustrated here is another gaze center that's actually present up here in
+the midbrain. And it's a gaze center that coordinates
+vertical eye movements. Okay?
+And we simply call this the vertical gaze center.
+And like the paramedian pontine reticular formation, the vertical gaze center is a
+network of interneurons that will coordinate the output of the appropriate
+motor neurons in the ocular motor nuclei that are governing superior and inferior
+rectus muscles. And there's probably also some input to
+the [UNKNOWN] nuclei to govern the superior oblique, as well as to the alpha
+motor neurons in the occular motor complex that govern the inferior oblique
+muscles. Those four pairs of muscles together are
+responsible for moving the eyes upward and downward.

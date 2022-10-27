@@ -1,0 +1,79 @@
+Well, one benefit of the center surround
+antagonism is that what these ganglion cells really convey to the brain is a
+signal, not so much about the overall illumination of the environment.
+But rather, about contrast, about an edge of light that might just be perfectly
+dividing the center from the surround region for any one receptive field
+structure. Well, with this sensitivity to contrast,
+the retina now can respond over a tremendous range of environmental
+conditions. What we're looking at here is a plot that
+illustrates the dynamic range of the response of a ganglion cell.
+And each of these lines here, represent the discharge rate of a ganglion cell over
+some range of test spot illumination in the center.
+The different lines correspond to these different amounts of background
+illumination. And the point here, is that, a ganglion
+cell can respond to more than six log units of illumination.
+Depending upon the amount of contrast that's present between the center and the
+surround. This allows vision to happen under a
+remarkably broad range of environmental conditions.
+Just as I've been speaking to you in this tutorial, the sun has set.
+And, the environmental conditions are much less bright now than they were at the
+start of this tutorial. Believe it or not, if I were to look at a
+piece of print, the light reflected from the white paper would be less than the
+light reflected from the dark print at the start of this tutorial.
+So what appeared to be dark when the sun was still up still looks dark to me now,
+even though the amount of light that's being reflected is actually considerably
+less. And similarly, the white paper still looks
+white even though it's now dusky and the sun is going down.
+So that's just one example of the functions that are illustrated here in
+this curve, where, what's our retinas are really conveying to the brain is contrast
+defined by edges of light and shadow. Well, I, I want to show you one example of
+this and for this, I'm going to pause just a moment and navigate over to the website
+of a good colleague of mine and friend and mentor, Dr.
+Dale Purves, who has one of the best websites that pertains to any field of
+science available on the World Wide Web. And I would invite you to navigate there
+yourself. His website is purveslab.net.
+Well, I've just landed on the website of Dr.
+Dale Purves, who you'll recognize as being the senior author and senior editor of the
+textbook that I've been referring to. Again a good friend and colleague for many
+years now here at Duke University and of, and a mentor of mine throughout the last
+couple of decades of my career. So I'm going to click on the domain in his
+website called SEE FOR YOURSELF. And if we go to SEE FOR YOURSELF, I, I
+want to draw your attention to one particular animation here, under the
+Lightness/Brightness category. Now hopefully, you can see this dot that's
+moving back and forth. It's a circular patch.
+And I hope that, as you watch it move, you'll be able to see that there's an
+apparent change in the brightness of this circular patch as it passes through what
+looks like a bit of a veil or a bit of a fog.
+As it moves to the right, we see that it appears to be, dark and as it moves to the
+left it appears to be bright. So there, now, it's getting brighter and
+then as it moves back to the right, it's getting darker.
+I hope that's exactly what you see. So here, it's getting bright.
+Now, it's getting dark. Well, I just want to see if you're paying
+attention, of course, that's not what I see and I hope that's not what you see.
+As it moves to the left, it's getting dark.
+You see that? It's getting dark.
+Now, it moves back to the right, it's getting bright.
+To the left, it's getting dark. To the right, it's getting bright.
+Well, this is a demonstration of exactly the functions that I showed you in the
+last slide. So there is a change in the background
+illumination, and as that happens, our visual system continues to be responsive
+to the contrast between the center and the surround.
+Now, if you read a little bit more about what Dr.
+Purves has to say about this demonstration, he'll tell you that the
+physiology of retinal ganglion cells just can't possibly explain this phenomenon.
+There must be something deeper in how these signals are processed in the brain
+that gives rise to this percept. And he very well, maybe correct about
+that. But all of this begins in the retina and
+the physiology of the receptor fields of the ganglion cells has much to say about
+our ability to detect this patch of gray as it moves across this background
+illumination. Now, in case any of you have doubted
+whether this is actually a grey spot. This website has this nice little
+interactive feature. So here, I can just mask out, the
+background. And move this with the spot.
+And you can see that, indeed, it's a uniform gray spot that moves across this
+field. We can let that pass out and see how
+indeed the luminance is a function of the interaction of the spot in the background.
+Well, we could spend quite a bit of time here on this website and I would invite
+you to do so. I think it's a fascinating set of
+demonstrations of visual physiology. And we'll look at a few more in our next
+tutorial.

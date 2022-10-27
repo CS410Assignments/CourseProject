@@ -1,0 +1,52 @@
+Now the idea is the price of a stock should be the present discounted
+value of expected dividends. We'll come back to present values last,
+but what we have here is that,
+oops, the price is equal to what I'm assuming
+earnings equals dividends. Price equals earnings
+divided by a discount factor, which is the discount rate minus
+the growth rate of earnings. So price equals earnings over some number. This is called the Gordon model. So and these are not necessarily
+exactly today's earnings, but we'll use that as an approximation. So what it implies then is that unless the
+risk factor is different from some stock to another making for a different discount
+rate, the price earnings ratio should be the same in every stock,
+that's the Gordon model. So efficient market theory has
+to explain why some companies are priced higher relative to
+their earnings than others. And it would have to be,
+if you believe the Gordon model, it have to be something about risk or
+growth opportunities. So if you're company is price high
+relative to earnings it would either have to be because it's low
+risk as measured by beta, so we willing to pay more for
+it because it's low risk. Or would have to be that people
+have reason to think that they're earning path the gross rate g is high. So that you're dividing
+by a smaller number. So the efficient markets here
+able to tribute, it would explain differences in
+price relative to earnings. In terms of either the discount rate or
+the growth rate of earnings. So that this markets are all priced right, even though in some markets the price
+is high relative to earnings. So if this then gets that some stocks
+are much more expensive than others. Some sell at a price earnings ratio of
+as much as, sometimes is even more, but let's say 100 times earnings. And you might ask, why would anyone
+pay 100 times earnings for a stock? Well, efficient market theory would say,
+well, in its infinite wisdom, the market has decide either
+that this stock is very good, in terms of risk, that's r, or that the growth rate of the earnings of
+this company is going to be phenomenal. So that high price-earnings ratio should
+predict high growth rates of earnings. So these are ideas, why do people
+think markets ought to be efficient? There's the marginal investor. The smart guys are the ones
+that trade regularly. They trade fast and immediately,
+and they dominate trading. There's also a survival
+of the fittest argument. That some people go to Wall Street who
+look smart, but they're really not smart. [LAUGH]
+>> On the P/E ratios though, do you think that different industries
+should have different P/E ration averages? >> Good question. There are historic long run
+differences across industries, and across countries in price earnings ratios. A good example is Japan. Which if you go back to the 1980s had, the overall Japanese market had a price
+earnings ratio almost up to 100. People back then were
+saying in everywhere, but Japan, they were saying this is crazy,
+what with those Japanese? That's too high, but if you go to Japan,
+it seemed different. I actually did a questionnaire
+survey comparing US and Japan, attitudes towards the Japanese market, and
+I know this is true that US people where as highly skeptical, but
+the Japanese were very enthusiastic. So the price earnings ratios did
+come way down in Japan after that. I think it's because the Japanese,
+they're human like all, I'm not criticizing the Japanese, but they got kind of carried away with their
+success and they bid the price up. And that can be a psychological cause for
+differences and it can be prolonged differences
+in price earnings ratios. There could also be other
+of course differences, like differences in accounting standards.

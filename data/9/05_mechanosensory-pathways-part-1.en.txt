@@ -1,0 +1,189 @@
+Welcome back to our discussion of the
+mechanosensory systems which are part of our broader systems we have within our
+bodies for processing somatosensory information.
+All of this pertains to several foundational concepts in the field of
+neuroscience. Two in particular that I would highlight
+are, of course, our first one that should be very familiar to you now that the brain
+is the body's most complex organ. And also, that there are genetically
+determined circuits within the brain that are truly the foundation for the
+operations of the nervous system. And so we're going to focus, in this
+tutorial, on 1 such circuit. We'll call it a pathway.
+It's a pathway that allows mechanosensory signals to get from our surfaces where
+they're detected, such as our skin surfaces on the tips of our fingers, all
+the way up to the appropriate processing stations in the cerebral cortex.
+So, our learning objectives are for you to characterize and recognize, and you'll see
+these pairs of terms played out across several distinct mechanosensory pathways.
+First I'd like for you to be able to characterize the pathway known as, known
+as the dorsal-column medial lemniscal system.
+I'd like for you to be able to recognize components of this pathway when you
+actually confront them in images of the central nervous system.
+Be they views of the brain from the outside, histological sections through the
+brain or the spinal cord, or some other conceptualization of elements of these
+pathways. So here we're focusing on the
+dorsal-column medial lemniscal system which is long term but very descriptive.
+It tells you about one particular pathway. Another pathway is the corresponding
+mechanosensory pathway for the face, and this runs through the trigeminal nerve.
+And components of the trigeminal nuclear complex of the brain stem, so again I want
+you to be able to characterize the pathway and recognize the elements when we
+actually look inside the nervous system. And lastly I want to introduce you to a
+pathway that gets mechanosensory feedback about the movements of the body into the
+cerebellum. The cerebellum is a marvelous organ that
+facilitates agility. Be it agility of bodily movement or
+agility of thought and, and, we'll spend an entire set of tutorials thinking
+together about the cerebellum. For tutorial, I want to introduce the
+pathway. That gets information about movement from
+the spinal cord into the cerebellum. And as usual, I want you to be able to
+recognize components of that pathway, when you're confronted with them.
+And the recognition part is really key in this tutorial and it will be key for the
+rest of the course. Because I want you to begin to build up.
+A mental model of the nervous system and being able to recognize the components as
+they actually appear will be key for the success of your mental frame work or your
+mental model so that way you can consider what happens when elements of that model
+becomes damaged Or dysfunctional. And that will help you translate your
+foundational knowledge in medical neuroscience to the care and treatment of
+individuals with neurological injury and disease.
+Well let me introduce again the pathways and then we'll look at them one at a time.
+So for our conscious awareness of mechanosensory stimuli there are two
+pairs of pathways, one for the body below the back of the head including the back of
+the head. We call this the post-cranial body, "post"
+meaning posterior to the cranium, and there is a pathway that we call the dorsal
+column medial lemiscal system. It has elements of the dorsal columns of
+the spinal cord and the medial lemniscus, an important pathway in the brain stem.
+Now there's also a pathway that mediates pain and temperatures that we'll look at
+in a separate tutorial for the post cranial body.
+That pathway is called the anterolateral system.
+I include it here for completeness. And now for the face we have a
+corresponding pair of pathways. For mechanical, sensation, we have a
+pathway that runs through the division of the trigeminal complex of the brain stem,
+called the chief or principal sensory nucleus of the trigeminal complex, so that
+will be a pathway for Mechano-sensation. For pain and temperature, there's a
+pathway of the trigeminal nerve that runs through a different part of the trigeminal
+brain stem. A subdivision of that complex called the
+spinal trigeminal nucleus. Okay, well, let's begin by thinking
+together about this pathway for the mechanical stimulation for the post
+cranial body, called dorsal-column medial lemniscal system.
+Now, we have a view of the entire pathway taken from our companion textbook and this
+is probably really small on whatever size screen you're using to view this right
+now. So let me just give you the broad overview
+of this pathway and then we'll look at more magnified views of this figure so
+that you can see things more clearly. Well, I'll make a few points in general
+terms. This pathway from mechanosensation
+involves three neurons. As we go from skin to cortex.
+Okay? So I want you to focus on these three
+neurons. I want you to consider where are their
+cell bodies. I want you to consider the distribution of
+their axons. And thirdly I want you to be able to
+discuss and to illustrate the location of the synaptic connections from 1 axon to
+the dendrites of another neuron in the serial pathway.
+'Kay so, so three things to focus on in this pathway and all the others we'll look
+at in the next few tutorials. That is the location of cell bodies, the
+distribution of the axons of those cell bodies, and then the locations of the
+synaptic junctions. So, let me just ask you, where would we
+find cell bodies? Hopefully your answer is, well somewhere
+in gray matter within the central nervous system or perhaps in a ganglion if we're
+talking about something outside the central nervous system.
+That's great if that was your answer. I might ask you where would we find axons?
+Well hopefully you would say in the central nervous system we'd find axons in
+white matter. And for the peripheral nervous system,
+we'd find axons and nerves, also a great answer.
+Well, what about synapses? Where would we find synapses?
+Well, maybe just a little bit more thought about that leads you to answer, well, gray
+matter. Synapses are the output zone of one
+neuron, but it's also the input zone of another.
+So we would find synapses in grey matter. Great.
+Well, let's keep those thoughts in mind as we look at this pathway in some detail.
+So, this paths, pathway begins with a first order neuron.
+Which is a dorsal root ganglion neuron. Okay.
+So here it is right there in the cervical enlargement of the spinal cord.
+And here's the dorsal root ganglion in the lumbar enlargement of the spinal cord.
+These are the first order neurons. So they have a peripheral process as we
+saw in the last tutorial. Specialized to establish some labeled
+lines some particular aspect in mechano-sensation.
+And then the central process enters the spinal cord.
+That central process enters the dorsal column and ascends, it runs the
+longitudinal length of the spinal cord until we hit a set of nuclei on top of the
+dorsal column and those nuclei exist in the caudal part of the medulla.
+Specifically in the dorsal part of the tegmentum.
+We call them dorsal column nuclei, or DCN for short.
+That's what we have at this level. So that's where we find the synapses for
+the next neuron in the pathway, so those neurons then grow axons that do something
+really important. They cross the mid-line and as they do
+they, establish the location of the decussation of this pathway.
+So for every pathway we consider, we want to remember that for the cerebral
+hemispheres there's a principle of contra-lateral representation that we must
+solve. So in the case of the mechanosensory
+pathway, contralateral representation is established in the caudal medulla with the
+outgrowth of the second order axon. It sweeps across the tegmentum of the
+medulla, and ascends the rest of the way through the brain stem.
+And synapses on the next neuron in the pathway which is in the thalamus,
+specifically the ventral posterior lateral nucleus of the thalamus and that's what we
+have here, our third neuron. So the dorsal column nuclei was our second
+order neuron, and our third order neuron is in the ventral posterior lateral
+nucleus. So that's our third-order neuron.
+And from there, the thalamic cells provide input on up to the post-central gyrus.
+Once we reach the post-central gyrus, we basically abandon trying to order the
+neurons, because we recognize that When the thalamus projects to the cortex we're
+providing input to a vast network involving, hundreds a millions of neurons
+that potentially could be modulated by this sensory stream.
+So, at that point, given that scale, it just doesn't service well to continue the
+numbering scheme that Has served us well along the pathway from skin up through the
+thalamus. Alright, well, let's have a bit of a
+closer look. And we'll focus in on the first-order
+neuron making a connection to the second-order neuron.
+So again, our first-order neuron is a dorsal-root ganglion cell.
+Now we can see a little bit more clearly, I, I trust.
+An important distinction between the afferents/g that arise in a cervical
+enlargement and those that arise in the lumbar enlargement.
+The first order axons from the lower part of the spinal cord enter the dorsal column
+near the more medial aspect of. The dorsal column on one side of the
+spinal cord. As we contribute axons from increasingly
+superior directions, those axons add to the lateral aspect of that dorsal column.
+Consequently, when we reach the cervical cord, the input, which is significant of
+course, because we're talking about mechanosensory signals from the upper
+extremity. They simply add to the lateral side to the
+dorsal column. So there's a medial to lateral progression
+as axons contribute. As a result of this progression in the
+cervical spinal cord we recognize a division of the dorsal column into two
+parts. There is a medial gracile tract, and a
+lateral cuneate tract. We'll see them shortly in Sylvius.
+These two pathways run the length of the spinal cord, the gracile tract runs the
+entire length, the cuneate tract begins to form in the upper thoracic cord and then
+runs on up through the entire cervical enlargement.
+And these tracts meet a nucleus at the top of the column there was 1 nucleus on top
+each tract there's a nucleus called the gracile nucleus that sits on top the
+gracile tract and then a nucleus called the cuneate nucleus.
+That sits on top of the cuneate, tract. Okay?
+So that's where we find our first synapse in this pathway.
+And the second order neuron, then, which is part of this dorsal column nuclear
+complex grows an axon that sweeps across the mid-line.
+And as these axons sweep across the mid-line, I'll just draw a bunch of them
+here, we give that a particular name. We call that the internal arcuate fibers.
+It's simply the second order axons as they cross the midline.
+Now once they cross the midline, now they make a sharp turn.
+And project in the superior direction. It's really the very same axons, OK.
+We just give them different terms and different locations.
+When they're crossing the mid-line, they're the internal arcuate fibers.
+After they've crossed the mid-line, they form a distinctive medial ribbon of white
+matter that we call the medial lemniscus, or ML for short.
+We'll let's see the medial lemiscus as we blow up the top half of this figure from
+our book. So now, we have an indication of at least
+two axons that are ascending from the dorsal column nuclei To the ventral
+posterior lateral nucleus of the thalamus, the vpl.
+And it's this fiber bundle that we call the medial lemniscus.
+Okay? So, again, these are second order axons.
+They make synaptic connections in the thalamus.
+In the vpl, in particular. And then, from there, the axons project
+into the post central gyrus. And they do so in sematotopic order.
+For example, the fiber that is projecting here into the para-central lobule is a
+fiber that was activated by the gracile tract.
+And that fiber Is communicating somatic sensory signals from the lower extremity.
+The thalamic neuron from the VPL that terminates here near the middle of the
+precentral gyrus is being driven by an axon that entered the spinal cord in the
+cuneate tract. So this is an input that's being driven by
+what we did with our contra-lateral arm or hand.
+Okay. So the exquisite body map that we talked
+about in the previous tutorial is established by the systematic ordering of
+axons from the thalamus projecting into the precentral gyrus.
+Okay, well I hope that was clear. I took some time to go through this quite
+slowly. We won't take quite so much time as we
+talk through the next two pathways.

@@ -1,0 +1,101 @@
+The idea of covariance. When you have two separate stocks,
+for example. >> Okay. [COUGH] I'll try to start
+keeping things really simple. There's two different companies. They're both startups and they're
+both trying some risky new venture. And they both,
+it's like a coin toss, right? They both have a 50,
+50 chance of succeeding. And if they succeed they're
+worth a million dollars, and if they fail they're worth zero dollars. So we have two probability distributions, one for the stock one, right? This is one million and
+this is zero and this is 0.5. I'll leave it at 50, 50 for now. And this is stock two, 0, 1, 0.5. So it looks the same. [COUGH] Now the question is, are these
+two businesses really independent? We've shown their
+probability of succeeding. But if I'm going to invest
+in both of them as a smart venture capital firm might do,
+what do I make of that? Are they the same or different? So let's say the mean is 0.5 for
+both of them. It's like a fair coin toss, all right? And so, they will deviate
+either plus 0.5 for the mean, or minus 0.5 for the mean, both of them. Now but the question I want to
+know as an investor, are they going to do the same, or
+are they independent of each other? There's four possibilities,
+the covariance, C-O-V, covariance between the two returns is probability rate average of,
+so now it gets to variance. But it's between two companies. So let's consider,
+what's the first possibility? They both succeed. So it has a 0.25, one and four chance of being a half
+above the mean for both of them. So that's 0.5 times 0.5, right? And then it has a 25%
+chance of both being 0. So it's 0.25 times -0.5 times -0.5. But then there's the chance that one of
+them succeeds and the other one doesn't. That has a probability of 0.5, because
+there's two different ways it can go. >> Right.
+>> It could be A, that succeeds and B, fails or otherwise. So we have 0.5 probability of -0.5 times 0.5. So what does that add up to? It adds up to 0 right? Because these are both positive numbers,
+but these are 1. So the product -0.5 times -0.5 is plus. And so, this is equal to
+a half times a quarter, right? The two terms here. >> Right.
+>> And that's the same here, but with a minus sign, so it cancels out. So if they're really independent
+like that then the covariance is 0. >> Okay. >> And we like that as investors,
+we don't want to get in trouble. So we want to see
+an independent investment. But on the other hand it could be that
+the two companies are really the same, they really betting on the same idea. And so, these are not possible, all right? This probability goes from 0.5 to 0. And then this probability goes to 0.5, and this probability goes to 0.5. >> I see. >> So now we have a covariance of 0.25. It's not 0 anymore, and that's a flag that there's danger here. And the other possibility is that
+they're exact opposite of each other. Only one of the two will succeed,
+one will succeed and the other fails. And that would be a negative covariance. So these things matter, and they become central to our theory
+in the capital asset pricing model. This is something that is not in the habit
+of thinking of most amateur investors. They look at their investments
+one at a time, and they don't, you always have to go back and
+say, what's the covariance? That's what really matters for
+what happen to your portfolio. Because when you invest in a lot of
+companies that are all the same, you're asking for trouble, because the
+whole thing is going to either blow up or succeed. And you can't live like that. You have to be looking for low covariance. The theory of capital S
+pricing theory tells you how to take a count of covariance. >> Okay, so then really this
+covariance kind of changes based on how we assign the probability
+of each pair of outcomes occurring. So what's the probability
+of them both succeeding? Here we put 0.5. And what's the probability of them both,
+which is like 0 and 0, so that would be 0.5. And we gave no probability to the case
+where one succeeds and one fails. So that kind of, is the fact that
+the covariance is positive is kind of indicating that these
+two stocks tend to do this. They move in the same direction. >> Right.
+>> But they're kind of simultaneously moving in the same direction. >> So this is the basic bottom lesson. Risk is determined by covariance. >> Right.
+>> Especially if you hold a large number of assets. Idiosyncratic risk just doesn't matter. It all averages out. It's this kind of thing where they do the
+same thing that you have to worry about. And this is a basic lesson in finance. It just doesn't come naturally to
+most people, you have to ponder this. >> So that's really interesting, because
+when we come to finance most people think of that risk is just
+the variance possibly. But actually we're saying it's
+actually more granular than that. It's actually the covariance of a stock
+with, let's say the broader market. >> Well yeah, because any investor has
+the option of investing in everything. >> Right.
+>> Because there are mutual funds hat will do, there are world funds that put
+their money all over the world And so, why shouldn't you do that? It sounds like it's a pretty
+good thing to do actually. But the one thing they can't get rid of
+is the market risk for the whole world. That's there,
+because if you hold the whole world, you're still subject to the world's risk. But that's what an investor
+needs to be focused on, and this is a bad habit among
+many individual investors. They just look at one stock and
+they think, I'm going to put all my money in that. >> Right. >> And they just don't consider
+how many different options for risk spreading they have in this
+vast world that we have around us. >> Okay, and this idea seems very
+quite similar to when we were talking before about the market
+return versus Apple and we had-
+>> It is. >> So then we had different betas, and
+so that's kind of getting at covariance- >> In fact the beta of the i stock is its covariance-
+>> Okay. >> With the market. Divided by the variance of
+the return on the market. It's just a scaled covariance. >> Okay? >> And the average beta has to be one, because I could substitute
+the average return on the assets. And that's the return of the market, so then the covariance of anything with
+itself is equal to the variance. It just equals one. >> Okay.
+So then, if you're more than that versus less than,
+I see, okay. >> So you want to be careful. In other words, the basic says, that the market demands higher
+returns from higher beta stock. That means high covariance
+with the market stock. And they're willing to take no
+returns if the beta is low, because that means it's less
+contributing to risk in the portfolio. >> Okay. >> In fact, if you can find a negative
+betta stock, or lets say goals, it may not always be negative data. But lets say in theory
+it is negative beta. Putting gold into your portfolio,
+it has no return at all. It doesn't pay dividends, nothing. >> Right.
+>> But it moves opposite your other investments. That's the theory. >> Okay, and
+everything we're talking about here, we have this presumption
+that we're all risk averse. And so, I just want to state that's a key part to why we
+care about covariance. >> Yeah. >> But
+if there's somebody like George Soros or Warren Buffett,
+maybe they're less risk averse. >> I have no fundamental insights into
+either George Soros or Warren Buffett. My guess is though,
+that they have this theory firmly in mind, and they may want to take risks at times. See, the real world is not so
+cut and dried as I showed here, but we know the probability of everything. So they may disagree with other people,
+and maybe they're smarter,
+maybe they work harder. >> Right. >> So
+they won't always minimize their risk. The CAPM model is an abstraction,
+an idealization. And it assumes that there are well-defined
+probabilities for everything. But in fact, I don't think anyone behaves
+entirely in accordance with this model. I'm thinking of it as, it's actually a fabulous model as a first
+step in thinking about financial markets. Because it can prevent you
+from making a lot of mistakes.

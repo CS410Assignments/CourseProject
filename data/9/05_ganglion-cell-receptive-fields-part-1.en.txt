@@ -1,0 +1,157 @@
+Well now let's turn our attention to the
+structure of receptive fields of the ganglion cells, Again these are the cells
+that generate the action potentials that sent signals from the retina to the brain.
+We talked about receptive fields but we introduced them in the somatic sensory
+system. And the definition of the receptive field
+that we gave, was a region of the body, that when stimulated can modulate the
+activity of nerve cells. Well the same basic principle can apply to
+our retina. Only now the stimulation of the body would
+be the retina itself. A patch of photoreceptors that would
+modulate the activity of the ganglion cell.
+Well, because that stimulation is coming from light in the environment, we could
+also define the receptive field in terms of the location.
+In the visual environment that when illuminated or when there's some change in
+the level of illumination, can lead to a modulation in the firing of retinal
+ganglion cells. One additional point about receptive
+fields for ganglion cells in the retina Is that they also bear the center surround
+structure that we saw in the somatic sensory system, that is, there is a
+central region that is specially sensitive to changes in luminance and then there's a
+surrounding region that has an antagonistic relationship with the center.
+Well, putting these things together we can recognize that there are these two kinds
+of ganglion cells, that have different center surround configurations.
+There's the on-center ganglion cell that responds best when light strikes the
+center of it's receptive field. And then there is the off-center ganglion
+cell That responds best when light strikes the surround.
+So let's see how these two cells would respond when we illuminate the center of
+their receptive fields. So at time t1, a little spot of light goes
+off that illuminates the center What we see is a nice barrage of action potentials
+in our on center ganglion cell. Meanwhile, in our off center ganglion
+cell, what activity might have been present in the dark condition goes away.
+And when the spot of light in the center goes off, now there's a bit of a rebound
+discharge. So we have an increase in action
+potentials when the light goes off. Now, because we're talking about light and
+we can alter the level of light, we an imagine now, decreasing the amount of
+illumination to the center of the receptive field.
+And when that happens, the on center cell decreases its firing.
+And when that dark sport is removed, For essentially there's now an increase in
+illumination to the center. There's this nice rebound discharge.
+So that's the on center. Now let's look at the off center cell.
+Off ganglion cell. Then there is an increase in discharge.
+And when you return to that higher level of elimination then the cell becomes less
+active. Well, this may seem a bit curious but
+putting these classes of[UNKNOWN] together we have cells that might be sitting right
+next to each other in the[UNKNOWN] One member of the pair will increase its
+firing when light goes on and the other will decrease its firing but light can go
+off and when that happens we see the converse.
+The on-center cell will decrease its firing while the off-center cell will
+increase its firing. Putting these 2.
+Kinds of cells together makes each location in the retina sensitive to
+changes in the levels of light. Would be, they increases or decreases.
+Now, 1 additional consequence of the center surround organization I should
+mention is shown here in the final panel, panel c.
+When we evenly eliminate both the center and the suround notice taht there is not
+nearly so much change in the firing patterns of the cells.
+While the small spot in the center gave rise to a nice robust discharge and more
+even elimination across the receptive field.
+Gets rise to a much lower level of activity on our[UNKNOWN] cell.
+And the same sorts of realtionships would be seen for the off-center cell.
+The off-center cell stops firing with the presence of light in it's center and with
+more even illumination, it now begins to fire just a little bit, but not as much as
+when the dark field is once again returned.
+When the light goes off. But let's look at this behavior in a
+different way. So now imagine that we have an on center
+cell, and we have a small spot of light that is passing across the receptive field
+from right to left. As we pass that spot of light...
+From the center of the receptive field, we noticed that there is a initially, a
+pretty strong response in the firing rate of this on center ganglion cell.
+But as this spot of light acquires an increasingly more peripheral position,
+notice that the response. Falls and when we are illuminating the
+surrounding part of the receptive field there's actulaly a decrease below
+spontaeous level and firing. So this is the classic behavior of the on
+center ganglion cell that I just described.
+How do. These center surround receptive fields
+really contribute to visual perception. While there's still a lot of work
+addressing the possible answers to that question, but one provisional answer seems
+to be that this center surround structure Gives us the ability to be sensitive to
+edges of light. Now imagine rather than a small spot of
+light going across your retina that perhaps might have been a satellite that
+you might be looking up into the night sky and seeing the satellite passing overhead.
+Now imagine the much more common experience of having light and shadow in
+more of a linear configuration falling across your retina.
+When that happens, we can see that the best response from this on-center ganglion
+cell. Is when there's shadow across a
+significant portion of its off surround, while its center is completely on the
+illuminated side of this boundary. So when there's a luminance boundary, when
+there's light and shadow. And that edge is completely aligned with
+the center surround boundary. Then we have the greatest modulation of
+activity coming out of that particular cell.
+Well, we're getting close to the end of this tutorial, there's a few more things
+to be said about the organization of these Ganglion cell receptive fields.
+I want to address why we have on and off center responses in the first place.
+It does seem a bit odd that we should have these dichotomously arranged ganglion
+cells, that respond in exactly opposite ways to the very same stimulus.
+Well, how is that possible? So the neurotransmitter that's released by
+the bipolar cell is glutamate. And the receptors that are expressed on
+these two different types of bipolar cells are quite distinct.
+In the on center bipolar cell the receptor is a metabotropic receptive for glutamate,
+and that metabotropic cascade that's initiated results in the hyperpolarization
+of that bipolar cell. For the off-center bipolar cell the
+receptors are ampa receptors and we glutamate binds to ampa receptor there is
+a depolarizing response. So this is what's happening in the dark
+when the cell is depolarized at the level of about minus 40 millivolts and glutamate
+is being released constantly in the dark. It's keeping that on center bipolar cell
+hyperpolarized. Meaning that it is not releasing its
+neurotransmitter on the on center ganglion cell.
+So the on center ganglion cell is essentially turned off in the dark.
+Meanwhile, glutamate being released, and interacting with the off bipolar cell.
+Is going to lead to the depolarizaion of that off bipolar cell, the release of it's
+own transmitter and the activation that of the off cell.
+So different receptors for the same transmitter provides the basis for our on
+and off responses in the center of the receptive fields.
+So now let's consider what happens when light strikes the center of the photo
+receptor receptive fields that are driving activity in these two parallel channels.
+So recall that when light strikes the photo receptor, there is hyper
+polarization. Hyper polarization means much less release
+of glutamate, the neuro transmitter of the photo receptor.
+When we release less glutamate, then the on center bipolar cell is going to
+depolarize. Remember the metabotropic receptor
+mediates hyper polarization. So if you withdraw the transmitter that's
+interacting with that receptor, then this cells going to depolarize.
+It will depolarize, it will release it's neurotransmitter, which leads to the
+activation of this on center ganglion cell.
+And that cell now responds to the illumination of the center of its
+receptive field. Now let's think about what happens to the
+off center bipolar cell. So when there's less glutamate being
+released, that means that there's going to be less glutamate to interact with the
+NMDA receptor, and that's going to lead to the hyperpolarization of this off bipolar
+cell. If there's hyperpolarization then there's
+going to be less excitatory neurotransmitter release, and that's going
+to have a suppressive effect on this off-center ganglion cell.
+Again, the key principle here is that we have 2 very different receptor systems
+available for the neuro transmitter photo receptor and those different receptors set
+up these dichotomous responses in these bipolar channels to the ganglion cells.
+So now let's consider what happens when we decrease the illumination of the center of
+the receptive field. If we do that then we imagine that we are
+withdrawing photons from that photoreceptor, allowing it then to
+depolarize even more than where it was with background illumination.
+So now with greater depolarization, there is going to be an increase in the release
+of synaptic glut amide from the terminals of that photo receptor.
+So with an increase in synaptic glutamate, the on center bipolar cell is going to
+hyper polarize due to the activity of the metabotropic receptor system, whereas the
+off center bipolar cell. Is going to depolarize because glutamates
+activating its ample receptors. And as a consequence, the off-center cell
+is going to fire a barrage of action potentials with this decrease in light
+level of the center. Meanwhile the on-center cell is going to
+be supressed. Well, there's one more issue to consider
+here with respect to the organization of the receptive fields of ganglion cells,
+and that is the center surround interaction.
+Well, I'm not going to discuss in detail how all this works.
+What I'll rather simply say is that the horizontal cells are key to mediating.
+The center surround interaction. There is a bidirectional signal that is
+antagonistic or we call this a sign inverting signal.
+The glutamate that's released by the photoreceptor activates horizontal cells
+which in turn release GABA on the terminal of the photoreceptor as well as
+surrounding terminals over some considerable spatial extent of the retina.
+And this antagonistic interaction between the photo receptor and the horizontal cell
+is what gives rise to this antagonistic relationship between center and surround,
+with the surround signal suppressing the center signal.

@@ -1,0 +1,159 @@
+Welcome to this tutorial on the Ionic
+Basis of the Resting Membrane Potential. This tutorial will relate to one of the
+core concepts in the field of neuroscience.
+It's core concept number two, as defined by the society for neuroscience.
+I would encourage you to visit BrainFacts.org and navigate to core
+concepts to learn more about what these concepts are all about.
+but for our purposes, it's useful to just highlight how this tutorial, right now,
+related to the broader field of neuroscience.
+And it does so, because we're going to begin a discussion about how neurons
+communicate. Using electrical and chemical signals.
+The concept for today's tutorial, the resting membrane potential, really sets
+the stage for all manner of communication among neurons.
+I have some learning objectives for you today.
+I want you to be able to describe the concept of electro-chemical equilibrium.
+And relate this concept to the resting membrane potential of neurons.
+I want you to be able to explain why the permeability of the neuronal plasma
+membrane at rest to potassium ions. The concentration gradient of this ion
+across the neuronal plasma membrane together account for the resting membrane
+potential of neurons. I want you to do so in a rather formal
+way. I want to introduce to you something
+called the Nerst equation, and challenge you to use the Nerst equation to predict
+the resting membrane potential of neurons given knowledge of the concentration
+gradients of permeant ions. Okay, well let's begin.
+Okay, to begin with let's consider two important mechanisms that support all
+manner of electrical signaling that we find in nerve cells.
+These mechanisms are supported by two very different kinds of proteins that we
+find in membranes of neurons. One type of protein is an ion pump, or an
+ion transporter. It's illustrated on the left hand side of
+the slide. What these pumps and transporters do is
+translocate ions. From a region of low concentration to a
+region of high concentration which is why I've drawn this large arrow over to the
+left indicating an active mechanism that's pumping ions up stream, if you
+will, that is against the concentration molecule binds an ion from a region of
+low concentration inside the cell and delivers it across the membrane to a
+region of high concentration, there's the to be an example of active transport.
+Now, on the right side of this slide, we have an illustration of the second kind
+of mechanism that's critical for neuro-signaling.
+Once we establish concentration gradients of ions, we can discharge those gradients
+to create electrical signals. But that requires some means of
+regulating the permeability the neuronal plasma membrane to a permeate ion.
+And this is accomplished via the function of ion channels.
+So these are integral membrane proteins that create aclei's pore for the passage
+of an ion from a region of high concentration to low concentration.
+So what we see on the right is a means for allowing for ions to diffuse down
+their chemical concentration gradients. So I want you to see how these two
+mechanisms work hand in hand. Pumps establish the concentration
+gradients that provide the driving force. For the diffusion of ions across the
+neuronal plasma membrane. Now, in order to understand how all this
+works and the significance of ions passing across a permeable membrane,
+let's begin by considering a simple model system.
+So, in this case what we have is a semi-permeable membrane that divides some
+kind container into two kinds of compartments.
+And that membrane has ion channels in it that allows for the passage of potassium
+ions. So, what we've done here.
+Is we've simply filled a container with a one millimolar potassium chloride
+solution, with this membrane running right down the middle.
+So under these conditions, potassium ions are free to pass from one side of the
+membrane to the other. And there is no net flux of potassium.
+That is, just as much potassium goes to one side as back across the membrane and
+to the other. And as a result if we were to insert
+wires into either side of this chamber, and then record a electrical potential.
+We'd see that there's essentially no potential difference that is the
+voltmeter would record a potential of zero.
+Now, imagine what would happen if we replaced the solution on one side of this
+chamber, let's say on the left side of the chamber, with a ten millimolar
+potassium chloride solution. Such that on the left side, we'd have ten
+times the concentration of potassium as on the right.
+So, if we were to do this kind of an experiment, what we would find is that,
+very quickly, we would go from the condition to some kind of equilibrium.
+And that equilibrium will be established as potassium ions diffuse down their
+concentration gradient from the left side of the chamber to the right.
+Now, what will happen? Well, potassium ions will move, and
+potassium ions carry a positive charge. So, as potassium ions diffuse down their
+concentration gradient, what we will discover is the accumulation of positive
+charge on the right side of this membrane.
+That is the right side of this membrane will become slightly positive, relative
+to the left. And in a complimentary fashion, we'll
+have the accumulation of the negative charge.
+On the left hand side of this membrane in the compartment of higher potassium
+chloride solution. So the positive charge is conveyed via
+potassium ion. The negative charge is reflected in the
+dissociation of chloride ion from the potassium chloride compound.
+Now, of course, these movements of ions across this membrane happen in just an
+instant. So this equilibrium is established very
+quickly. And what will happen at equilibrium is
+that an electrical potential, will become established across that membrane.
+With a predictable magnitude of that potential.
+In fact, in this case, the potential has a magnitude of 58mV with compartment
+number 1 on the left hand side the 58mV negative to compartment number 2 on the
+right hand side. So, when we establish electrochemical
+equilibrium, we have achieved a state at which the flux of potassium ions from one
+side of this membrane to the other side This is in fact the definition of
+equilibrium. So let me repeat myself and try to make
+this even more clear to you. So as potassium diffuses down it's
+concentration gradient and electrical force builds up that is exactly equal and
+opposite. To the strength of the chemical gradient.
+So in conceptual terms we have a conceptual gradient because we chose to
+put on one side of this membrane a tenfold more concentrated solution of
+potassium chloryde. But once that was done, potassium
+diffused across this semipermeable membrane to the point where an electrical
+gradient was established that's equal and opposite in magnitude.
+And that gradient, as measured by our volt meter, is precisely minus 58 mV.
+And I want you to understand intuitively. No so much quantiatively, but
+intiuitvely, what that magnetude of electrical potential actually is.
+And how to get a feel for understanding changes in that potential across the in
+the membrane if you know something about the permeant ions and their
+concentrations. But before we get to a more formal and
+quantitative approach to understanding this memory potential at equilibrium.
+Let's just emphasize again the key factors that are responsible for setting
+up this potential in the first place. The key factors that are needed for the
+generation of this bio-electrical potential are a mechanism for
+establishing the concentration gradient. And that happens via the activity of ion
+pumps and ion transporters, as illustrated on the left hand side of the
+figure. Now, we established the concentration
+gradient. But there will be no membrane potential
+unless there's the passage of ions through some permeability channel.
+And that's where the integral membrane protein that creates and ion channel
+comes in. So the ion channel allows for this
+membrane to be selectively permeable to a particular ionic species.
+Now, for real neurons in real nervous systems, both of these mechanisms.
+Are in operation with respect to potassium ions.
+In fact, at first approximation, the movement of potassium ions across a
+semipermeable membrane is sufficient to explain the resting membrane potential of
+neurons. Now, I'd like to make just a couple of
+other points as we Pass through this discussion of resting membrane potential.
+One is that we don't actually have to move a large number of potassium ions in
+order to establish this potential. So it happens very quickly, and it
+happens with the movement of a relatively small number of ions.
+And as a consequence we really aren't fundamentally changing the concentration
+of solutions on one side of that membrane or another.
+So we still have a ten milimolar solution on one side, a one milimolar solution on
+the other in our module system. Another consequence is that because we
+have chloride ion on either side of our membrane and that chloride ion has no
+channel, in this model system anyway that will allow it to permeate.
+We can establish overall electrical neutrality.
+that is to say That while there is a separation of charge on either side of
+the membrance the solutions themselves on The positive charge is balanced out by
+negative charge. And then lastly I would say that the
+separation of charge is really only limited to this membrane.
+Sometimes I like to think about being inside of a cell and maybe the walls of
+this room being the plasma membrane surrounding this wall and if there's
+overall electrical neutrality I can move But if I were to touch the wall, such as
+what I might do. If I were to touch the wall maybe I would
+get a bit of a shock because the Well, I'm not sure how well that worked
+for you on camera, but I think you get the idea.
+So the separation of charge is limited just to the perimetery of that cell.
+That is to either of the neuronal plasma membrane.
+From time to time, I'm going to point you to what I think are pretty helpful
+animations that are at the website that supports the textbook.
+That I'm recommending that you read as we work through these tutorials in medical
+neuroscience. So, if you follow the link in the handout
+that I gave you or if you navigate to the website from Sinauer Associates that
+supports neuroscience fifth edition, you'll get to a series of animations.
+And I would direct your attention to the animation in Chapter 2, called The
+Resting Membrane Potential. So if you simply click the link in the
+PDF file, that should take you right there.
+Otherwise, you can navigate there on your own.
+And helpfully, you'll find this animation a useful summary of what we've discussed
+so far. And even more.

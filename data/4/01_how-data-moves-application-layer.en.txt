@@ -1,0 +1,127 @@
+Hi. I'm Dr. Charles Harry and welcome back to
+cybersecurity for everyone. In our last episode, we introduced the idea
+of encapsulation. This notion that, in order to move data from one part
+of the Earth to the next, we had to include a bunch
+of instructions together in order for applications
+to understand how to work, how networks can route
+with one another, and how the physical mediums
+can transmit that energy. We introduced the concept
+of the OSI model. If you recall, we talked
+about seven different layers. In today's episode, I want to specifically talk about
+the application layer. When we use an application, whether you're talking about an email client or
+your web browser, applications will have their
+data package and tagged with instructions so that
+the recipient system understands what to do with it. Those instructions
+are interpreted by that recipient's application and eventually are
+displayed to them. The application
+layer, therefore, acts as an interface between your computer and
+the programs on it, and the network you
+want to communicate on. Lots and lots of instructions exist on
+the application layer. There are different examples
+of different types of applications and different sets of protocols that we might find. Remember protocols are
+just simply instructions. We might have instructions
+related to how to transfer files or how to manage the
+network at the app layer, how to manage domain names, browsers, even remote
+logon, and email. These are just examples of the different types of instructions that occur
+at the application layer. In this particular episode, I want to talk a little bit
+more about just one of these; the domain name
+management system. I want to give basically a very simple set of examples
+of how this actually works. Let's talk a little bit
+about a website address. When you use a web browser, you're allowing a
+user to either send or receive information
+in a very visual manner. Now think about it,
+when you get down a web browser and you
+go to a search engine like google.com
+or it can be Bang or any of your other
+favorite search engines, you are visually interacting
+with that web content. The question is, how
+does the computer know where to go to actually
+request that information? Is not like Google or Microsoft has all their
+computers in your house. They're hosting
+all those websites somewhere in a different
+part of the world. How does your computer
+actually know where to go? It's probably something
+that a lot of us don't really think
+about all that much. A computer needs to translate
+a human-friendly term like Google or Bang into something that it
+actually understands. Something we call an IP address. Now we'll talk more about IP addresses in
+the next episode. But it's enough to understand
+that in order for us to be able to actually send
+and/or receive web content, we need to translate a
+human-friendly term like Google into a value that a computer
+actually understands, in this case, an Internet
+Protocol address. How do we go from google.com to something that the computer
+actually recognizes? We use something called the
+Domain Name Service or DNS. Think of DNS as the
+phonebook of the Internet. Basically, it's a set of
+lists that pair names like google.com with a value that the computer understands. In this case, an Internet
+Protocol address. The computer retrieves that
+Internet Protocol address, so humans actually don't
+have to memorize it. You can imagine with
+the millions and millions of websites that
+exist on the Internet today. If you were to memorize all of those website
+addresses, good luck. It just wouldn't happen. DNS is actually a really, really helpful service to be able to allow us to do
+this simple translation. The goal of DNS is to find out where on the Internet to
+establish that connection. If I have this large set of independent
+interconnected networks, how do I know where to go? In order to find google.com, our computer first needs to find the right telephone book. Once they've found that
+right telephone book because there's different
+versions of it, then they can find
+the right entry, and only then can it return the right internet
+protocol address that pairs with google.com. There really are four
+components to the DNS system. There's what's called
+the local DNS server, a root DNS server, a TLD or a top-level
+domain DNS server, and an authoritative DNS server. Let's walk through how
+this actually works and we want to start off
+with our own PC. Your PC is interacting with a local DNS and the local DNS is in essence acting
+as a middle person. It is doing the translation and the work with
+the root DNS and the TLD DNS and the
+authoritative DNS in order to get the right internet
+protocol address. The local DNS server first reaches out to
+the root DNS server. It's really about, who
+actually knows about.com? Because there are actually a variety of
+different root DNS'. There's.com,.edu,.net. You've heard about
+a lot of these. We got to find the
+right telephone book. Who knows about.com? The root DNS then
+will respond back to your local DNS server
+with that information. It says, oh, if you're
+interested in.com, this is where you need to go. The local DNS server
+will then reach out to the top-level
+domain DNS server. It says, I'm in the right place, I'm in the right building, or I'm in the right
+shelf of books, who knows about google.com? It returns that value
+back to the DNS, the local DNS server. Then that local
+DNS server reaches out to the authoritative
+DNS server and says, I'm in the right place, tell me where google.com is. It says, oh, I know
+are google.com is. It's at 8.8.8.8 and it returns that value back
+to the local DNS server. The local DNS server is now armed with the information
+it was seeking, and it returns that
+information back to your PC. When you register a domain
+name like google.com, that namespace, that
+value that you're looking to register is actually managed by
+an organization. That organization is known as the Internet Corporation
+for Assigned Names and Numbers or ICANN. Those root zones
+are geographically distributed and the location of those TLD DNS servers
+are managed by those specifically geographically
+focused institutions. Why does this matter? Why
+are we talking about this? Well, the problem is, as we discussed in
+our last episode, is that vulnerabilities exist in several of these protocols. At the application layer, there are some vulnerabilities in how those instructions
+are actually executed and it's those
+vulnerabilities that are used by hackers to gain access to achieve
+some level of effect. Software developers
+who are not careful of the design of their
+software might introduce new vectors of attack. Network administrators who
+leave vulnerabilities in their systems might also
+introduce new attack vectors. We need to understand
+not only how data moves, but the instructions
+associated with every single layer
+in that OSI stack. Because if you don't, you may miss certain
+vulnerabilities that exist. What do we want to take
+away from this episode? How information is
+translated and how that information then
+interacts with the network is done at the app layer
+or the application layer. Translating human-friendly
+domain names like google.com into
+something that a computer understands like an Internet
+Protocol address is done by something called
+DNS or the DNS protocol. In our next episode, we're going to talk about
+the network layer and how data is actually routed
+on the Internet. I hope to see you next time.

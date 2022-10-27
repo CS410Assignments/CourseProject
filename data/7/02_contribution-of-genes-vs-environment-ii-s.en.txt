@@ -1,0 +1,190 @@
+Welcome back to Introduction
+to Genetics and Evolution. In the previous video we were looking at this dichotomy between genetics and
+environment. And what we did in that context was
+trying to figure out whether or not there's a genetic component to
+particular trait differences you see, or whether there's an environmental
+component to trait differences we see. Now what we want to really so
+is to actually get this part. We want to say how much do each contribute
+to particular traits of interest. We want to quantify how
+much they contribute. And again, when we're inferring whether
+genetics or environments contribute, typically the answer is very
+often both are contributing. In that regard, it's not really
+that satisfying to just say, yes, there's a genetic component, or yes,
+there's an environmental component. It's much more satisfying to actually
+infer their relative contributions. To say for a particular trait, this is
+something that 90% of the variation you see is genetic, or 90% of the variation
+you see is environmental. Well, this comes to the concept that
+we'll refer to as heritability. I'll define that in just a moment but
+first let me go through a couple of quick mathematical concepts that will
+be relevant to this lecture. Let's talk about mean and
+variance, please. And I apologize for those of you who already have
+a lot of statistics background, I just need to go over this. Now most traits you look
+at tend to be variable, that not everybody has
+exactly the same trait value. So you can use height as an example there. Now, if a trait is continuously variable,
+all right? Meaning that you have all these different
+steps, so something like height. You can be 5'9" tall, 5'10" tall,
+5'11" tall, 5'11.5" tall. Then we can calculate a mean,
+and we can calculate a variance. Now, many of you are familiar with
+variance in the context of just thinking of it as the spread of values. And I can depict this. Let's say you're looking
+at height in the classroom. So let's say this is
+the height in the classroom. This is saying 5'0" to 6'2",
+this is 5'0" to 6'2". What is the mean? Well, in both of these classrooms, it looks like the mean is
+right below 5'7", okay? In contrast, which one has more variance? And again,
+if we think of variance just as spread, we see here the graph on the left
+has a lot more variance in height than the one here on the right
+where basically everybody is 5'7". Well making this more quantitative,
+the mean is simply the numerical average, that if you have three numbers, one,
+two and three, the average is two. You sum them all together and
+you divide by the total number of values. The variance is a spread, or basically how spread out individual
+measures are from the mean. The calculation for it is this, the summation of all the individual
+measures, minus the mean, and for each one of those squared,
+divided by the total number of measures. Okay, that's the formula for the variance. So if you had ten individuals all
+with height 69 inches, right? So now, let's imagine that's their height,
+everybody has height 69 inches, and there's ten of them,
+what is the mean going to be? Well them mean's obviously
+gonna be 69 inches. What is the variance? Well in fact, in this case,
+there's absolutely no spread whatsoever, because we said everybody
+has exactly the same height. So the variance would actually
+be zero in that example. Let me give you a few others,
+here are two sets of measures. And let's say these are again heights of
+people in a classroom, height in inches. And I have the formula here in
+case you want to refer back to it. So in classroom one,
+63, 65, 67, 67, 69, 71. Those are the heights you see. For classroom number two,
+65, 66, 67, 67, 68, 69. Which one has greater variance? Is it classroom number one,
+classroom number two, or are they equal? Well you can probably do
+this without the math, let me encourage you to try
+though without the math. Answer on the next question
+within the video here. And then I'll show you how to work it out
+both with the math and just eyeballing it. Okay, well, I think eyeballing this,
+this is a pretty easy problem. Looking at the spread here, they're
+both perfectly symmetric, right, but this one goes further out. This one is much more clumped together. So the answer is number one definitely
+has more variance than number two. Well let's try this out numerically. So if we get the height in inches,
+the means for both are 67. That's just adding all
+the numbers together and dividing by the number of measures. The variance, in this case, comes out
+to 6.66 for classroom number one. And this is taking each individual measure
+minus the mean, and then squaring it, adding all of those together and then
+dividing it by the total, so this is 6. This comes to 6.66. For those of you interested in sampling
+variance, now you can put that in there. For the class number two comes up to 1.66. So clearly there's more variance
+in classroom number one than classroom number two. Well variance, and don't worry about the
+math for this right now, we'll come back to the math later, variance, think of it,
+again, just as the spread that you see. As the variance is larger
+there's more spread, as there's less spread
+the variance is smaller, okay? So what causes this variance
+in traits like height? Well let's use this example right here. Let's say here on the y-axis
+we'll get number of offspring that have a particular height and
+on the x-axis we're looking at height. Such that this would be short at this end,
+and this will be tall at this end, okay? So we see here, in this particular case,
+there's some variance in the phenotype, the phenotype being height. Now we have some individuals
+that are on the tall end, some individuals that are intermediate,
+some individuals that are short. Now with this example, we're looking at two alleles at a single
+gene that are controlling height. We're assuming there's no dominance to it,
+and there's no effect to the environment. That's why these are perfect lines. That if you're aa,
+then you're exactly that height always. If you're Aa, there's more of you and
+you're exactly that height. If you're AA,
+then you're exactly that height. So in this case there's no
+effect to the environment and there's some variance there
+among the individuals. That variance, in this case,
+is all genetic, right? Because we said there's no
+effect to the environment, so all the variance is genetic. Now what if we saw this? This is still 2 alleles at
+a single gene controlling height, Aand there's no still no
+effect of environment. But we see a bigger difference in
+height between some of the individuals. In this case, the lower graph here has more genetic
+variance than the upper graph. Both of them still have no
+environmental variance. But the lower one has more genetic
+variance because you see there's bigger difference in phenotype among individuals
+with no environmental partner and it's purely controlled genetically. It's controlled by your
+genotype that the A gene. Now what would happen if we said, well,
+there's a little bit of environmental variance here,
+there's a little bit of mush? Well, we might see
+something more like this. In this case, AA individuals are still
+intermediate, aa are on average taller, AA are on average taller. But we have some effect of
+the environment here too, where some AA individuals might be
+almost as big as a Aa individual. Some aa individuals
+might be as short as Aa. But what we've done here is we've
+added some environmental variance, some effect of the environment. There's still a genetic variance here,
+because there's still a difference among the genotypes on average, but
+there's also some environmental variance. This is probably the more typical
+scenario where you have this mix of genetics and environment. Now the formula that we use for
+this is very simple. Vp, which is the phenotypic variance,
+so you calculate the variance in height just like we did
+before, in the beginning of this video. And we say that's a sum of that
+fraction of the variance that's genetic with that fraction of the variance
+that's environmental. It's a very simplistic formula,
+that the overall phenotypic variance has a genetic component and
+it has an environmental component,okay? Now, how do we calculate this? Well, that's the big question. I'm gonna show you in this video one mean, and that's using an F2 cross between
+some strains that are isogenic. In the next several videos, you'll
+actually see other means for calculating heritability, and specifically, what
+fraction is genetic versus phenotypic. Now, let's say that you're looking at
+genetic variation in the F2 of a cross. And let's say there's 6 genes for height. Let's start with the very artificial
+scenario that we know these 6 genes are involved, and you've got AABBCC,
+just like the example we used awhile back. So these are some 6' tall people and this is the exact gene type
+that's causing that height. And let's say they have kids with
+these ones that are 5' tall, okay? How much genetic variance is
+there in the tall parents? Well we're saying there is none, because
+we have their actual genotype there and they're exactly the same. In this case right here we're saying
+there's absolutely no genetic variance in the short parents either. What about the offspring? They're all heterozygous. Is there any genetic variance? The answer is actually no, because every one of the offspring
+has exactly the same genotype. Even though they're heterozygous, even
+though they have two different alleles, there is still no genetic
+variance in these F1. In the F2, however, you'll have a lot of
+variance, some of which will be genetic, because you'll start to get
+some individuals that are AA, some individuals that are aa, etc. And if you're unlinked,
+then there's many possibilities and you saw this before with
+the slide I used earlier. So let's do this cross. Again, we're saying there's no
+genetic variance in the parentals, in this parental, in the tall parents or
+the short parents. Between the parents, yes,
+sure there's genetic variance, but we're not looking at that. We're looking within this parent,
+within this parent, or within the F1s. There's no genetic variance. When we see this genetic
+variance in the F2, right, we see that there's this massive
+increase in genetic variance in here. We can use that, we can leverage it. Let me show you how. Let's say, for example,
+in actual height among the tall people, among the 6' tall people,
+there is no phenotypic variance. This is important now, I'm saying phenotypic variance,
+no phenotypic variance there. Remember phenotypic variance
+comes from genetic variance and environmental variance. Since we already knew there was no genetic
+variance there, if there's no phenotypic variance, then there can be no
+environmental variance, okay? So Vp is 0, Vg is 0, and Ve is 0. This is true for all three of those. Now, let's add another step here. Let's say there is a little
+bit of environmental variance. That's okay, I mean, we can say that maybe
+all these people aren't exactly 6' 0" or these people aren't exactly 5' 0". But let's say we know they have
+this particular set of genotypes. In this case there's still
+no genetic variance but there is some environmental variance. You note the environmental variance
+should be about the same for all three. Okay, we're assuming that these are all
+grown in, say, the same garden, or if they're people,
+they're obviously not grown in a garden, but you know what I mean. Now what'll happen is in the F2, even though you had a little bit of
+environmental variance here but no genetic variance, in the F2 you'll have genetic
+variance and environmental variance. Well we can leverage this, because up
+here the phenotypic variance which this, you can measure. You can measure the phenotypic variance
+in the F1's or the parents, right. You can measure it just the way
+I was showing you with height, where it's the difference
+between individual measures minus the mean squared,
+divided by the total number assayed. You can measure the phenotypic variance, in this case you're
+getting an estimate of Ve. Over here, you can again measure
+the phenotypic variance, and you're getting Vg plus Ve. So all you have to do is
+subtract this phenotypic variance minus that phenotypic variance and
+you get Vg, right? If you take this phenotypic variance,
+which is Vg plus Ve, subtract from it this phenotypic range
+which is just Ve, you get Vg, right? Very simple. Well again,
+these are the components we have, and we want to know how much is
+genetic versus environmental? How much is that contributing to
+the overall phenotypic variance? Well the fraction of
+the total phenotypic variance that is genetic is called heritability. So heritability is called (Vg/Vp) or you can think of it as ((Vg/(Vg+Ve))
+because that's just synonymous with Vp. So this ranges from 0, there's
+absolutely no genetic component to 1, when there's all genetic component. So you can say something, for example,
+is 90% of the variance is genetic, or 10% of the variance is genetic,
+using this very simple formula. So let's try this out. Here are some examples. Let's say you manually calculate
+the variance in the F1s to be 5. So here, this number's equal to 5. We manually calculate the phenotypic
+variance here in the F2s, and you calculate that to be 25, okay? So what is the heritability? Well I have the formula right here. Heritability is Vg/(Vg+Ve). Well we know Ve, right, Ve is 5. And we're assuming the same Ve here as
+over here, we're assuming it's the same. So we're assuming that environment is
+basically the same in the F1 as it was in the F2, right? So the genetic variance must be what? Well if Ve was 5, Vg must be 20. So the heritability in this case,
+heritability is often abbreviated h squared, is equal to Vg which is 20/Vp,
+and we'll use this one right here, cuz we're measuring
+this is in the context of the F2's, 25. So the answer in this case would be 80% or
+0.80. Now this may seem like an artificial
+scenario because what's happening here is you're starting with lines that
+you know have no genetic variance. Now in terms of human height,
+sure, you'd never apply this. However, this is something that is quite
+commonly used in the context of say, crops, where you have this pure breeding
+tall corn crossed with pure breeding short corn, you want to look at
+the heritability of corn height or something along those lines. The same with model organisms such as
+Drosophila, fruit flies, things like that. So this is used quite a bit but
+it's not used the in the context of, say, human height, or
+anything dealing with humans. But how do we deal with
+things like humans? Well that's the subject of the next video. Thank you.

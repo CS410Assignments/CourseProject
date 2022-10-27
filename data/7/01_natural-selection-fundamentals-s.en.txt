@@ -1,0 +1,225 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous videos we talked about
+the Hardy-Weinberg equilibrium and we started looking at deviations from it. Now the times when a population is at
+Hardy-Weinberg are, as I mentioned, when basically nothing interesting
+is happening in that population. That you don't have, for example,
+gene flow among populations. You have an infinite population size and very importantly you have
+no natural selection. Natural selection is, of course,
+one of what we would consider to be one of the most interesting things that
+could be happening in the population. And that is what people tend to think
+about when they think about evolution. There's a long history,
+of course, to this. Charles Darwin said that this
+preservation of favorable variation and the rejection of injurious variation,
+I will call Natural Selection. This is from his 1859 book. Now, as you may recall, Darwin was
+not alone in introducing this idea. But in fact,
+this idea of evolution by natural selection was introduced
+simultaneously by Darwin and Alfred Russel Wallace, who's depicted
+here on the left side of this slide. Their emphases differed but
+they were both correct. And Darwin very much emphasized
+competition within species as being very important. We talked about that recently,
+in the context of population growth. Wallace, in contrast,
+emphasized more environmental pressures. Both are true but they're just
+different facets that are allowing for natural selection to happen. Now, at the very beginning of this course,
+I showed you this slide, looking at whether evolution by
+natural selection is just a theory. And this is the example I said, let's imagine you're working
+with a population of squirrels. That you have Type A, that run randomly,
+and Type B that fear asphalt. And importantly, now, we're adding
+that this is heritable, that basically Type A squirrels have Type A offspring,
+Type B squirrels have Type B offspring. We start a population with 100 A's and
+100 B's. We assume that on average A's have one
+offspring each, the B's have two offspring each, but then they themselves
+don't go to the next generation. We'll start with 100,
+100, 50% of them being B. The next generation of
+these 100 produce 100. Because, again,
+they each produce one offspring. In contrast, the Bs would have 200, right? Because each of these
+produces two offspring. And we're assuming the parents
+are not still around. So what fraction of
+the population is Type B? Now it's at 66% B. We can iterate this over and over again. 100, 400 and now we're at 80% Type B. And finally 100, 800, and
+now we're at 89% Type B. So we've had this change in the abundance
+of one type of squirrel in this example, these Type B squirrels, over time. We've had this change abundance over time. That is evolution. In this particular case,
+it is evolution by natural selection. The important thing is that
+evolution by natural selection is a mathematical inevitability. There was nothing here that was
+expressing any sort of morality or immorality, or anything like that. But it is just explaining what happens
+when you have three conditions met. These three requirements for for evolution
+by natural selection are very simple. You have variation in traits. So the previous example,
+that variation was illustrated as squirrels fearing asphalt
+versus running randomly. You can see the same sort of thing
+in this picture from the Freeman and Herron textbook, with peppers that
+vary in how hot or spicy they are. There is heritability of traits. The previous example, those
+Type A squirrels had Type A offspring, Type B squirrels, that feared asphalt,
+had Type B offspring. Or, in this case, the hot peppers
+have hot pepper kids, the not so hot peppers had not so
+hot pepper kids [LAUGH]. And finally, that this trait,
+this variation affects survival or reproduction. In the previous example, you were more likely to reproduce more
+if you didn't die if you were Type B. In this case, you're more likely to
+produce more if you're spicy because you're gonna be eaten up by mice. That is natural selection,
+there's nothing controversial about it. Now, there's at least two ways
+that this can be studied. You could look at natural selection
+by examining variation and quantitative traits. We'll come back to this near
+the end of this lecture. Or you can look at it
+looking at single loci, single places in the genome,
+like one gene, for example. Now we already discussed
+the former a little bit, in the context of heritability. Recall heritability was this
+response over selection. And again, a genetic component there,
+how much of the variation is genetic, will dictate how much of a response
+you get to selection happening. And this response will often come from
+changing allele frequencies at many, many loci. Not at one locus, but at many loci. We depicted this in that
+example with hight before, but you can't actually study this looking
+at a single locus, or a single gene. We'll come back to the phenotypes
+in a little while. But let's focus now at
+single gene selection. We'll do that both for
+this video and the subsequent video. So what does selection do to
+alleles at individual loci? Well, it affects the abundance
+of particular genotypes. Let's imagine that this example here, which is described at the top, that we
+have three genotypes, AA, Aa, and aa. Let's assume that aa
+ones are less healthy, or in the extreme case, that if you're aa,
+you're just instantly dead. Well, if you start the population and
+all three types are present, you see that the aa's are removed
+from the population, right? So you're affecting the frequency
+not only of the genotypes, not only are you eliminating aa's,
+but in the example here, there would be fewer aa
+alleles in the population. If you count the number of
+little a alleles before and after selection, there is a difference. Now very importantly, unlike a lot of other things we described,
+the dominance of the alleles. You'll recall we talked about dominance in
+our transmission genetic section way back. The dominance of alleles matters for
+selection. Cuz imagine that, again, aa is bad, but
+a is dominant over A, in that situation, if a was dominant over A, then these
+individuals over here would also be dead. So you would lose all of them. But in this particular example,
+that was not the case. Instead we said that a was recessive. So again, dominance does matter
+in the context of selection. So how much selection is there out there? Well, there is definitely some
+strong selection in humans. Again, we've talked before how spontaneous
+bad mutations are actually quite common. And some extreme examples, when you think
+about chromosomal abnormalities and things like that,
+those do happen quite often. In fact, half of pregnancies are never
+detected because they spontaneously abort very, very early on, so
+you don't even know it happens. And about half of those spontaneous
+abortions come from genetic problems. So you can imagine about 25% of all human
+fertilization are immediately eliminated. Immediately eliminated. And this elimination is because of
+natural selection, that they are unfit, they are inviable, right? So that's a very extreme
+example of strong selection, I think, but it is definitely there. Now let's talk about weaker selection. Weaker selection does happen as well,
+and we see it still, in humans. One great example to look
+at is lactose intolerance. If you go way back, let's say you
+went back in time 7,000 years. Everybody, all humans,
+were actually lactose intolerant. That's the ancestral state. Now, estimates suggest that maybe
+individuals who were lactose intolerant had maybe about 5% fewer kids than
+those that were lactose tolerant. So when you had this new mutation
+that came up that allowed this extra source of nutrition, this lactase
+persistence or lactose tolerance, these individuals had 5% more kids and
+therefore were more fit. Now, you might think, 5% more kids,
+I mean, you can't have 5% of a kid. Now, again, we're thinking of
+averages across individual. You can think of it as 5% more
+likely to have another kid. But is 5%, is this serious selection? Will this actually make any sort of change
+over any kind of observable time period? Well, we can simulate the effects of
+selection, whether it's strong or it's weak,
+using various software packages. One very popular one is called AlleleA1, at the link here if you'd ever
+like to play with it yourselves. So let's simulate this. Let's say the fitness of AA's is .95. Basically have 95% the fitness of
+individuals that are lactose tolerant when you're intolerant. And let's say these lactose tolerant ones,
+Aa and aa, let's say their fitness is 1.0. Now, in this case these
+are relative fitness. This is just saying that you have 5%
+higher fitness when you're tolerant than when you're intolerant. And in this case, tolerance is dominant. We know this, in fact,
+in the case of humans. So let's look over the course
+of just 5,000 years. That's a reasonable amount of time
+because a mutation that conferred lactose persistence, or a lactose tolerance,
+arose in Africa about 5,000 years ago. About the same time the step pyramid
+was actually built in Egypt. So, what would happen if you had this
+5% fitness advantage over 5000 years? Well, this is an approximation
+using AlleleA1. We're starting out 5000 years ago,
+where basically everybody was intolerant. Right, so this is the frequency of
+the big A allele, the intolerant allele. And look, over 5,000 years we
+get down to the present and very few individuals are actually lactose
+intolerant, maybe only about 20%. That's actually not very far off from
+what we see in human populations today. There's a lot of variation among
+different populations, but this isn't a crazy far off thing. That weak selection,
+over a long periods of time, can lead to very big changes
+in allele frequencies. This was actually one
+of Darwin's insights, not specifically with respect to allele
+frequencies, but he suggested that weak selection over very long periods of
+time could create big changes in traits. Now in doing this, we used this idea
+of relative fitness of genotypes. And we said the individuals who are AA,
+the ones who are lactose intolerant, right, they had a fitness of 0.95,
+whereas the others had 1.00. So again, the AA had, on average, 5% fewer
+kids that were successful than Aa or aa. Now again, just because
+something is selected against, doesn't mean it's intrinsically bad. Obviously, as I know here,
+humans survived for a very long time as AA,
+when we're lactose intolerant. We all had kids and
+didn't go extinct as a species. But, this is just saying,
+on a relative scale, you're better off this way than that way. It doesn't mean that it's actually bad
+to have the other one, just not as good. Let me give you an analogy. This is a kind of silly musical analogy. You could think of a new
+mutation as a released cover of a previously released song. So an example we might use is
+the song I Love Rock and Roll, which is a very exciting song. There was an original of this
+introduced by the Arrows in 1975. Most of you who are watching this
+probably have never heard that version to this song. In contrast, Joan Jett did a version of
+this in 1982 that was extremely popular, everybody knows it. So in this particular example, imagine
+the original song may have been popular or somewhat successful. The cover may be more successful or it spreads, and
+everyone forgets the original. Same sort of concept. In contrast, the cover may be less
+successful, such as Britney Spears, who released a terrible version
+of this particular song, that hopefully people will forget soon. But in this case, people still tend to
+associate this song with Joan Jett rather than with Britney Spears. Well it's the same sort of idea when
+you're looking at new mutations, that again, you have a new mutation in
+a gene that creates this new allele. It may be more successful
+than the previous one, even though the previous one was
+just perfectly well enough good, and then it would spread. Or it may be less successful, in which
+case it's just forgotten and eliminated. So let me give you an example just so you again don't think of ones that
+have a low relative fitness as bad. You can imagine BB genotypes produce
+on average 3.2 surviving offspring, Bb produce, on average, 3.0,
+bb produce, on average, produce 2.4. Well all of these are producing
+more than two offspring, so again, you can potentially
+more than replace yourself, but in one case you do so
+better than the others. So that when you are in competition,
+BB's are the best. So the most fit genotype is BB. So we can call it 100% of the maximum. And that's why we say this
+relative fitness of it is 1.0. And the others that will be expressed
+is a percentage of the maximum. So Bb would be be 3.0 over the maximum,
+which is 3.2 or .94, bb with 2.4 over 3.2,
+so it would be .75. So one of them is 6% less fit than BB,
+the other one is 25% less fit. This just gives you some way of
+thinking about relative fitness. Now let's apply these sorts
+of things to Hardy-Weinberg. Well, what is the effect
+of Hardy-Weinberg? Well, let's use an extreme example. Let's say aa individuals
+are perfectly fine as kids, but then at age ten they all
+instantly die, they pop or something. It's kind of gruesome,
+but I saw it, I'm sorry. So at age eight, let's say you had
+a population here with 490 AA's, 420 of the Aa's, and 90 aa's. So is this population Hardy-Weinberg? The answer is actually yes. If you want, you can try out
+the math as a good practice problem. This population is,
+in fact, at Hardy-Weinberg. So if we want to calculate this out,
+we can say the total number of individuals here, total number of individuals,
+which we'll call N, is equal to 1000. Your allele frequencies,
+in this case, it would be so 490/1000, I'm sorry,
+these genotype frequencies. This would be what, 0.49. This 1/1000 = 0.42, this 1/1000 = 0.09. Okay, our allele frequencies,
+again, as we did before, we have all of this plus half of this. So the allele frequency for A will be equal to 0.49
+plus one half of 0.42, actually, that'll will be 0.21, all right? So in this case, it will be 0.7. If it was only for a, it wouldl be 0.3,
+and this is at Hardy-Weinberg. Let's take that as for granted. Our frequency of A is 0.7 to start with. Age 25, we've gone through that
+step where the aa individuals die. So now what happens? Well, we're no longer at Hardy-Weinberg,
+because we know this was at Hardy-Weinberg and we know one set of
+genotypes has changed. So clearly we can't be at
+Hardy-Weinberg anymore. Now we can calculate the new allele
+frequencies which we'll actually do that in the next slide, so you'll see
+that very shortly how you do it. But just briefly,
+A would be 490/910 which is the total plus one half of 420/910 so
+it's now 0.769. So we actually have a change in
+allele frequency from 0.7 to 0.769. A is more abundant because
+we've lost some of the a's. And we have this deviation
+from Hardy-Weinberg. Now, importantly, we've had a change
+both in the genotype frequencies and in the allele frequencies. So you see it in terms of the alleles here
+and obviously in terms of the genotype, since we've eliminated the subset there. Now, are the aa's gone for good? What happens next? So we've lost the aa's here. Are they gone for good? No.
+Well, let's look at what happens next. So here's, these are the same individuals
+we saw last time, the 490, 420 and 0, so there's the total number we have, is 910. To this is filling in the calculation
+I just did very briefly, before. So 490/910 would be 0.538,
+this is your genotype frequency. This one is 0.462,
+this is your genotype frequency for Aa. Obviously your genotype frequency for
+aa would be 0/910 or a 0. So these two add up to 1.0. For your allele frequencies, again,
+we take all of these plus half of these. So in this case it's that
+0.769 I showed you before. Or it was 0.7 before, so this is that
+change due to selection from 0.7 to 0.769. For a,
+all of the zeroes plus half of 0.462, so 0.231, this is your frequency of a. These are your allele frequencies now,
+and again, they add up to 1.0. So now what do we do? The next generation, if we assume random
+mating, assuming that they're spewing out their gametes,
+these are the genes that we actually get. This would be equal to 0.769 squared,
+so we'd have 0.591. This was 2 times .769 times .231,
+remember it's 2 pq. This one's P squared. And the last one is Q squared. And look at that! We have brought back some
+aa's into the population. But we see they're less
+abundant than they were before. So we've had a change in
+the allele frequency of little a. Little a is now less abundant than it was. It went from a frequency of 0.3 to 0.23. The aa's are also less
+abundant than they were. We've had change over time at a single
+gene as a result of selection, where one particular genotype has
+a different fitness from the other two, in this particular example. And we'll talk about different forms of
+selection that can operate on single loci in the next video. Thank you.

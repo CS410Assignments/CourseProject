@@ -1,0 +1,230 @@
+Visual cortical neurons can also be
+characterized by whether one eye or the other drives the activity to a greater or
+lesser degree, this is called ocular dominance.
+Now let's return to the organization of the visual pathways for just a moment to
+explain where this property arises. So, as the 2 retinas send their axons
+into the optic tract, representing the same side of the visual world.
+It might be quite natural to assume that that information is combined in the
+lateral geniculate nucleus. but it's not.
+The lateral geniculate nucleus is a layered structure.
+And alternating layers of the lateral geniculate nucleus receive input from one
+retina or the other. Actually, there are two inner layers that
+are a bit different from the four outer layers, and the two inner layers are
+divided into these two components where one layer, layer one receives input from
+the contralateral eye, layer two from the ipsilateral eye and then the four outer
+layers,are divided with layers four and six receiving input from the
+contralateral eye and layers three and five.
+Receiving input from the ipsilateral eye. So the point is, is that even within the
+thalamus, the information from the two eyes, while it's representing the same
+half of the visual world. It's still monocular at this single cell
+level. In fact, as the lateral geniculate
+nucleus projects to the visual cortex the information remains monocular, which is
+to say that these binocular layers of the lateral geniculate nucleus project in an
+interdigitated fashion to nearby regions and the visual cortex.
+As if my fingers are representing the inputs driven by either the left eye or
+the right eye. And you can see that the fingers of my
+left and right hands are interdigitating as this thalamic input reaches layer four
+of the visual cortex. This establishes a set of columns that we
+can see both physiologically and anatomically .
+And we call them ocular dominance columns.
+So the input layer to the cortex, layer 4, remains monocular.
+It's only in the upper layers of cortex as layer 4 projects to the circuitry
+above layer 4, layers 2 and 3 does information from the two eyes begin to
+get mixed for the first time. And that mixing of input from the two
+eyes is quite important because this makes possible the phenomenon of
+stereopsis. And stereopsis is that component of
+binocular vision that requires two eyes seeing slightly different views of the
+same object. And this is a perspective of depth that
+is possible for objects that are near within about a meter or so is where it
+works best. And beyond that distance or so, the lines
+of sight become increasingly parallel and therefore, increasingly similar.
+But for objects that are within about an arms length this dimension of depth is
+really quite rich as it's elaborated by convergence by these two monocular
+channels in the upper layers of the visual cortex.
+So, here's how this works. Imagine that we are fixating with our two
+eyes on a particular location in space And all objects that are closer to us and
+that fixation point are going to be seen by what we call non-corresponding regions
+of the retinas. That is, there, there are points on the
+retina that don't project to the same point in the thalamus so, these slightly
+offset regions of the retina project their axons centrally.
+And the slight disparity in inputs that are rising on to the same cells in the
+upper layers of the visual cortex from these two disparate locations of the
+retinas give rise to signals that allow us to appreciate the fact that an object
+at location a is near in depth relative to the fixation point.
+A similar phenomenon would occur for background objects where we might have a
+stimulation of non corresponding points, but now on the opposite side of the
+fixation point. So locations indicated by this letter A
+would give rise to near disparities, and locations at a distance, indicated by
+letter C, would give rise to far disparities.
+Of course, there are other cues about depth, other than stereopsis.
+we can convince ourselves easily of this fact.
+All one has to do is cover an eye. And the world does not all of a sudden
+seem to collapse from 3D to 2D. As we move our head around, we can see
+the movement of foreground objects relative to background objects.
+And that gives us important information about depth.
+but nevertheless, stereopsis can be a, a quite valuable tool.
+As we navigate the world around us. And especially as we interact with
+objects within arms length. One can demonstrate for yourself
+stereopsis by getting two pencils and holding them out at arms length.
+And then bringing them together and you can see how well you can get those tips
+to touch. So I'm not so bad at this.
+But if you close one eye and make stereopsis go away we'll see if this
+presents any further challenge. So I'm going to close my left eye, and
+now try the same, touching of the pencil tips.
+Whoa, I'm not so good anymore. Okay that's a little better.
+Let's try the, the a right eye now. So I'm closing, I'm going to close my
+right eye. So let's try now closing my right eye and
+seeing how well I do with my left. And, I seem to be worse when I try to use
+my left eye. Okay so, the increased performance of
+using your two eyes together is not so difficult to demonstrate.
+So next we come to the topic of parallel pathways.
+So we've been talking about parallel pathways in different context, first in
+the somatosensory system, now in the visual system so it should be no surprise
+to you to discover that there are parallel pathways even arising from the
+very same retina as visual information is processed and then projected back into
+the brain. If one were to look at the ganglion cells
+that are present in the retina we find actually a rather rich assortment of
+ganglion cells. They can be characterized in different
+ways, by size. By morphology and as investigators over
+the years have done so, we've adopted a nomenclature for different types of
+ganglion cells in different species and here's a nomenclature of that is used in
+the primate retina, there are small cells that we call P ganglion cells.
+Much larger cells that we call M ganglion cells and then an intermediate type of
+cell that's called the K ganglion cell. And the different morphologies that we
+see here are associated with different physiological properties.
+more so, these different types of cells give rise to axonal projections that
+terminate in different parts of the lateral geniculate nucleus.
+There are projections from those small p-cells that terminate Among the small
+celled layers of the lateral geniculate nucleus.
+These are called the Parvo cellular layers.
+Parvo means small. And we've illustrated them here in green.
+These are layers 3 through 6. meanwhile, the larger m type ganglion
+cells terminate in the first two layers of the
+laterals geniculate nucleus, illustrated here in blue layers one and two.
+So conveniently, the m cells project to the magnocellular layers and the p cells
+project to the parvocellular layer. Now the k cells project to a zone in
+between the layers, so there's a region Between each of these layers that we call
+the koniocellular layers. It's a region where there's a band of
+white matter or a[UNKNOWN] of white matter between these cell dense layers
+that have the numbers. So the k cells terminate in those spaces.
+These different neurons in the lateral geniculate nucleus, send distinct
+patterns of projection on up to the visual cortex.
+The Parvo-cellular layers of the lateral geniculate nucleus A synapse into the
+bottom part of layer four, a zone in the primate that we call layer 4c beta.
+The magnocellular layers from the anterior part of the lateral geniculate
+nucleus, send their axons into layer 4c alpha, right on top of the input derived
+from those parvocellular neurons. The koniocellular cells of the lateral
+geniculate nucleus do something just a bit odd.
+They don't project to layer four at all. Rather, they send their axons up into
+layer three, where they synapse in the zones that are rich in oxidative
+metabolism. And you may have heard about them.
+If you're more familiar with visual cortical anatomy or physiology.
+They're called blobs. literally blobs of high enzymatic
+activity for oxidative metabolism. So this is an example of parallel
+processing. We have a small cell pathway that's
+concerned especially with form and with color that runs through the
+parvocellular layers of the lateral geniculate nucleus, and into the bottom
+of layer 4, 4c beta. There is a large cell pathway that runs
+through the magnocellular layers of the lateral geniculate nucleus.
+It's not particularly concerned with high special detail or color, but rather it's
+concerned with broad patterns of notion and this signal is terminated in layer C4
+alpha just above that parvocellular termination.
+And what about the koniocellular layers? Well, these are the more mysterious of
+the lateral geniculate nucleus layers. It's, they've been not as well studied
+but they do devise to this very peculiar projection up until layer three.
+And we think these koniocellular cells May have a particular role to play in
+color vision. But that remains an issue for ongoing
+investigation. Now you may be wondering what happens to
+these parallel pathways once we get beyond the primary visual cortex.
+Well this remains a matter of active investigation, it was very attractive to
+assume that the parallel organization is highly conserved.
+And rather quite rigid. I think we now know that that's probably
+not the case. That there's likely to be some mixing of
+information from one parallel pathway to another.
+Nevertheless when we look beyond the primary visual cortex, it's possible to
+recognize two broad streams of processing that emanate out from the primary visual
+cortex through a set of areas that we call extrastriate visual cortex.
+so recall that that striavginary helps us to recognize a cortex that we call the
+striate visual cortex, area v1. And then beyond that we see these
+concentric zones of cortex almost like concentric rings that surround our
+primary vision cortex. And it was attractive to call them areas
+of ET, B3, and B4 and so on. to emphasize our presumption that they
+represented progressively higher levels in some kind of visual hierarchy.
+well that to remains an object of ongoing investigation.
+Nevertheless, it is safe to conclude that beyond our primary visual cortex There
+are rings of higher order visual areas. Now what we're looking at here on the
+right is a cortical representation as if it were possible to peel off the cerebral
+hemisphere, flatten out the cortex and then map out these visual areas.
+Well, in order to make that hemisphere flat, we have to make a cut along the
+cortex in the calcerine sulcus so that we can relax this three-dimensional shape
+into a two-dimensional sheet. And that's what we're looking at here.
+Now I want to draw your attention to a particular location.
+Which is found out here in the inferior border region between the lateral
+temporal cortex and lateral occipital cortex.
+It's where we find a couple of visual areas that we call area MT or sometimes
+we call it the MT plus region. And this is a area that was named for the
+corresponding location in the macaque brain, where a middle temporal visual
+area was discovered that is enriched in motion sensitive cells.
+So this region, area mt, which is roughly in this position in the human brain,
+likewise. Seems to be especially enriched in
+motion, in motion sensitive cells. And in fact, it's from the circuitry here
+in this area mt plus that we derive our notion of motion.
+As our chairman of neurobiology here at Duke University likes to say So this is a
+higher order visual area that represents the kind of specialization that we
+encounter as we get further away from our primary visual cortex.
+From this area, mt, these motion signals seem to inform a spatial analysis of the
+visual world. That is happening in the parietal cortex.
+So we can think about this parietal area as addressing the question: where am I
+looking, or where are the objects that I'm looking at that happen to be in
+motion? So this, this dorsal parietal stream, as
+we sometimes call it, is about Mapping the world.
+Achieving a spatial analysis of motion patterns.
+It's not particularly concerned with detail, with form, with color.
+With the recognition of faces. Or the identity of objects that we happen
+to be observing. Those kinds of functions happen along a
+ventral processing stream. That emanates from the primary visual
+cortex through its near higher order areas and then out into the inferior
+temporal lobe. So this process extreme addresses the
+question, what am I looking at? So, we have our where and our what
+pathways. Where going dorsally through the[UNKNOWN]
+lobe and then what. Running ventrally through the temporal
+lobe. Now you can imagine with this functional
+dichotomy that people can have brain injuries in the parietal pathway or the
+temporal pathway. And have deficits in one domain of visual
+function or another. And that is exactly what is seen People
+can have injury that result from let's say, stroke or tumor or trauma that
+affects this where pathway. And consequently, there may be deficits
+in understanding spacial awareness in the world around us or perhaps very
+particular deficits in building a notion of motion.
+On the other hand, there may be strokes or other kinds of brain lesions affecting
+the what pathway in the inferior part of the temporal lobe.
+Those kinds of deficits can be quite particular affecting our ability to
+answer this question: what am I looking at?
+Or in human relations, who am I looking at?
+There's a particular region of this posterior occipitotemporal gyrus in an
+area that's sometimes called the fusiform gyrus where, when damaged leads
+to a deficit in the Ability of people to recognize faces.
+It's called prosopagnosia which means face blindness or not knowing the
+identity of human faces. People with such injuries will have
+problems of recognizing the faces of even loved ones, even their spouse or their
+near family members. So it's really quite a, quite a tragic
+situation for those individuals and you can imagine how devastating that must be
+to their social relations. Now thankfully we acquire other cues
+besides the visual that assist in recognition and these individuals get
+along reasonably well using these alternative cues Never the less, they
+remain impaired in their ability to understand and recognize the visual
+features that we associate with the human face.
+Now, it's important to emphasize that these people, that they're actually
+they're not blind. What they fail to do is take the
+structure of the visual image. That is reflected off of the human face
+and interpret that in terms of the identity.
+Nearby regions of this ventral or inferior visual pathway likewise seemed
+to represent other kinds of, of objects that we encounter in our world, perhaps
+inanimate objects. So one might be able to see but not be
+able to recognize. Well, this concludes this tutorial and
+this tour of visual processing. I wish we could spend more time on this
+topic, I think as you've picked up today, this is an issue that has been of concern
+in my own academic life and I'd love to share with you more of my research,
+perhaps I'll have a chance to do so when we move on a little deeper into the
+course. So, I'll leave you here for now and look
+forward to speaking with you next time.

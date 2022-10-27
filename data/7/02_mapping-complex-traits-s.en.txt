@@ -1,0 +1,161 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In previous videos we talked about
+mapping simple genetic traits. Those are traits whose variation is
+caused by alleles at a single gene. In the last set of the videos we talked
+about how most traits are not simple and various complications associate
+with genetic mapping. In this set of videos, we'll look at
+how we actually map complex traits. In this first video we'll look
+at some of the principles used in mapping such complex traits. So let's get started. Now as I mentioned before,
+most variable traits that people study tend to be controlled by many many genes,
+not one gene. There is not a single cancer gene. There is not a single diabetes gene. Matter of fact,
+there are many genes that contribute to the likelihood you can get something
+like cancer, diabetes, schizophrenia etc. Now a couple of other traits that people
+have studied extensively are fruit size, this is actually one of the first traits,
+fruit size and tomatoes. One of the first traits that was
+nailed down to a single gene's effect. There are many genes
+that contribute to it but one of the genes was actually identified. Human height is definitely one that
+would be controlled by many genes. And a funny one, that a lot of geneticists
+study, is bristle number in Drosophila. So, on the back of a fruit fly, you have
+all these hairs, these are their bristles. And, something a lot of people try
+to map as a quantitative, sort of, trait, where there's a lot of
+variation among individuals, are the number of bristles
+on the backs of flies. But, obviously, a major focus, especially
+coming from the Human Genome Project, was understanding,
+the genetic basis of disease. In the last video we use this
+fictional simplified example of six genes contributing to human height. And as you saw, each of these genes is
+contributing an effect, the a gene, b gene, c gene, d gene, etcetera. These are all contributing
+to this variation. And yet, we see this bell curve,
+this normal distribution of height. So how do we go about mapping
+all these different genes? And again, there's not one height gene. There's a lot of different genes. Well, the concepts for doing this are very simple for
+mapping simple single gene traits. Nonetheless, as I mentioned
+there many genes contributing. Well again, just like before,
+there is two general approaches, we'll come back to these
+in subsequent videos. I want to emphasis in this video,
+just some of the overlying principles. One of them is mapping the difference
+using crosses or pedigrees. And this is exactly what we
+do with the simple traits. The other one is mapping variation
+within populations, and we'll talk about the genome-wide association study,
+often abbreviated as GWAS. I'd like to emphasize a few
+points before we get started. First, we often know the locations of
+the markers being used ahead of time. So, for using something like, say, mapping
+in humans, we have a fully assembled human genome sequence,
+we have sites that we know are variable. These so-called SNPS, or
+single nucleotide polymorphisms. These have been identified
+from genome sequences. So we know where the markers are. However, we don't know the locations
+of the genes causing traits or diseases ahead of time, okay? So we know where the markers are but we don't know where the genes
+contributing to cancer are. We know there are genes that
+are contributing to cancer, but we haven't identified
+them ahead of time. The purpose of mapping is to identify
+where they are relative to markers. So we're using their linkage to
+the markers to find these genes that are causing traits or diseases to identify
+where in this vast gene sequence they are, all right? Now we map complex traits
+to things we call QTL, that's short for quantitive trait locus. Or if plural, quantitative trait locile
+now these are places in the genome, a locus with allelic variation
+that influence a phenotype. Now again, ahead of time,
+we don't know where these QTLs are. These QTLs are things that we infer from
+the data, from the mapping data, right? And at some level, you can think
+of them as almost a hypothesis, that we're inferring it's here. But it may not actually be right there,
+and we'll come back to this
+a little bit later on. How something that we map as a QTL may
+not actually be the location of the gene causing the trait. But none the less we infer the approximate
+location from the association with market genotypes. Now, very often we detect many
+QTLs affecting single traits, so something like height, for example. But, just as before,
+the fundamental underlying principle is, we're looking for an association
+of marker genotype with phenotype. We're looking for that. And the reason for this is that markers
+that are near or linked to the genes, causing different phenotypes, should show
+some association with the phenotype. I'll show you what I mean
+by this in just a moment. Now if there are many genes, or
+if the effect is complicated, the association may not be very strong. So this isn't going to be as precise and
+as clear cut as it was before, where we could say, oh, it's one [INAUDIBLE],
+1% recombination away from this. This is going to be far less precise. But, it's none of the less possible to
+localize the location of these QTLs and therefore the genes are affecting traits. Let me give you an example. Let's imagine you're
+crossing some corn strains. Let's say you have some tall corn,
+let's say it's five feet tall and some short corn which we'll
+say is one foot tall. It will be anomalies short corn,
+but let's pretend that's okay. Let's say the F1s,
+the offspring, are intermediate. So they're three feet on average. They're pretty consistent
+about being three feet tall. Now we cross the F1s together,
+to get an F2. And F2 is just a cross from F,
+is the offspring from a pair of F1s. Now let's say the F1s show this
+range from one feet to five feet. So they recapitulate,
+the range seen in the parents. So we get something like a bell curve
+around three feet, something like this. Here's one foot, here's five feet. We get a lot of the three feet ones, some
+four feet ones, some two feet ones, okay? Now, assuming the height variation is
+genetic, how many genes are involved? Is this likely to be something
+that is a single gene effect? The answer is really unlikely. There have to be a lot of different
+alleles there doing this. So, probably not. It's much more likely to be something
+that's caused by many genes. Nonetheless, we know that this height
+difference is at least partially genetic. So there are genes affecting height, okay? So let's say we've got a genotype for two markers in the process of mapping this
+height difference among the core ones. And let's say the capital letter
+ones are the ones from tall, as we're using here A and Z. So let's say we look for
+an association between genotype and average phenotype that
+comes with that genotype. So here, individuals with markers,
+homozygous for the AA marker of three and
+a half feet tall. Individuals that are heterozygous for
+Aa, three feet tall, and aa are two and a half feet tall. Contrasting the Z marker, ZZ is three feet tall on average, Zz is
+three feet tall, zz is three feet tall. Now, when I'm saying this I don't mean
+every single individual that's ZZ, Zz, and zz is three feet tall. But the average among individuals
+with that genotype and that marker, is three feet tall. So is either marker
+associated with a phenotype? Do we see genotypes at these markers,
+differentiating the phenotype. Well, obviously the answer is yes. In this particular example, Z is not
+associated with a phenotype, right? Because we don't see any difference among
+these genotypes in terms of the phenotype. Right here we do see a difference among
+the genotypes with the phenotype. Now let me ask you a different question. Why wasn't the association of alleles with
+the A marker gene much more complete? Why weren't AA individuals five feet tall? And aa individuals one foot tall? Cuz that's what we saw with the parentals. Why didn't we see that? Well the answer is, all the answers
+we talked about last time and one. So there's the possibility that there's
+multiple genes affecting the phenotype, this one's very likely to be true. It's possible that there's interactions
+among the genes who are at the stasis. All the things we talked about last time,
+all these complication. But an additional one that
+I wanna factor in here, this is the essence of genetic mapping. There's been recombination between
+the marker genes, basically these A and Z genes, and
+the genes affecting the phenotype, so an actual gene effecting height. There's some recombination
+between those two. What happens then is this
+recombination between the marker and genes affecting the phenotype
+weaken the association. If you had no recombination at all
+between the marker and the trait gene then the marker genotype should very
+well predict the phenotype, okay? This especially true if it
+was a single gene trait but it's somewhat true even if
+it's a trait with many genes. If you have a little bit of recombination
+you weaken that association. It still may have some association but
+it's weaker. And if there's lots of recombination
+then there's no association. Again, this is the fundamental underlying
+principle of all genetic mapping. Now, let me ask you this question, how do we pinpoint gene locations
+in the middle of all this madness? All right, on a very,
+very crude level we can just look for associations between marker
+alleles to phenotype. They can say that there's a gene
+near there affecting that trait. That's not particularly satisfying. That would be like you're trying to
+find somebody who's missing, and you pinpoint them like this. There in this area of
+the state of North Carolina. Well, that's not very helpful [LAUGH]. What we really want is fine localization. In this case we wanna be able to point
+at a particular spot in the geo, or using this example, a spot on a map and
+say the person is in this building here. So what we wanna do to do this is
+we want to look at increasing of neighboring markers. We're going to look at
+a trajectory of association. We'll look at markers in a sequence,
+and as we get closer and closer to the gene with variation
+affecting the trait with these different markers, we should see
+stronger and stronger associations, okay? Now fine localizations, I mentioned, requires examining associations of
+multiple linked markers with the trait. Not completely linked, but
+markers that are very close together. And we'll look for a stronger
+association i some markers than others. Maybe you'd be asking yourself,
+what do I mean by a stronger association? Well, stronger association means
+there's a bigger difference between the average phenotypes
+associated with the genotypes. So where the Z marker I drew
+out before had no association. I'll actually draw that on here
+just as an illustration here. So the, oops. The Z marker at three feet,
+three feet, three feet. This had no association whatsoever with the trait of interest in
+this case being height of course. We'll look at the A one, and
+we do see this difference, this is the one we saw before. Here's a B one. Well if you look at this B one,
+there is actually a bigger difference between the average phenotypes
+associated with the genotype. So let's assume that A and B are near each
+other, that let's say here is A, here's B, and let's say Z is very far away. If we see this we say okay,
+A has a weak association. B has a stronger association because
+we see this bigger average difference. We might infer that the gene causing this
+difference in height is probably closer to B than it is to A. So, essentially where we wanted
+to focus in near this markerd B. Now again, association will be stronger
+when there's less recombination between a marker and
+the causative gene or the QTL. So from this we generate a prediction,
+if we look at many linked markers, we should be able to pinpoint
+the location of the QTL by where the association is strongest or
+where we predict it to be strongest. We'll infer a continuing association
+going further along there. So to do this, we'll follow
+the trajectory of association strength to infer exactly where this QTL will be
+and we'll do this in the very next video. Thank you very much for your time. I hope this was helpful.

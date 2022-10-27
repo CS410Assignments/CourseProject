@@ -1,0 +1,132 @@
+[MUSIC] To better understand why people commit
+fraud, consider the fraud triangle. A model developed by Donald Cressy,
+a Sociologist and Criminologist that studied the behavior
+of white colour criminals. The Fraud Triangle is based
+on the premise that for an ordinary individual to commit fraud,
+three components must exist. There must be a perceived pressure,
+a perceived opportunity, and a rationalization. Let's spend a few minutes looking
+at each of these components, the first leg of the triangle
+represents pressure. This pressure does not
+need to actually exist. A perceived pressure is real to
+the individual committing fraud. A potential fraudster must feel
+that the pressure is non-sharable, that it must be dealt with alone. The individual usually believes that the
+problem is impossible to resolve legally. And if the problem continues, the ultimate
+result will be financial collapse. Frequently, the current issue
+is related to a personal or external problem such as excessive debt or
+loss of employment. Many of the problems originate with
+vices such as drug or alcohol abuse, gambling, extramarital affairs or
+living beyond ones means. Perceived pressures are a challenge for
+the forensic auditors to deal with. Because the auditors have limited
+contact with the individuals, and therefore have no baseline for
+the symptoms of the problem for which the fraudster is dealing. The second leg of the fraud
+triangle related to opportunity. Before an individual commits fraud, there
+must be the perception of an opportunity to take advantage of the system
+without being caught. Allowing removing the pressure in secret. The primary source of
+opportunity relates to poor or inadequate internal controls within
+the organizations financial system. We'll talk about internal
+controls in detail next week. But basically,
+internal controls only allow an individual to access the specific task required for
+that individual's job. Separation of duties are a set
+of controls that split accounting functions among various
+people to prevent problems. Collusion exists when two or
+more people cooperate or collude to get access to each
+other's parts of the system. Combined they have
+the opportunity to commit fraud, where individually neither
+had that opportunity. For example, when someone that has
+the authority to order an item, but not approve payment the item,
+teams up with or colludes with an individual that has
+the authority to approve payment. But not to order the items, together
+through collusion, they can order and pay for items that are not related
+to the organization’s mission. You can see why collusion
+is difficult to detect, everyone is doing their individual job. Another difficult to address issue is management's opportunity to
+override internal controls. Management with full authority
+within the system can override or ignore controls that are in place. This is a difficult issue because
+employees that see what’s going on may not have a framework to report the problem
+other than to their manager. And we know that if the manager is the
+problem, that reporting will not happen. Other items that relate to the fraudster's
+perception to opportunity include poor or inadequate training. Which often leads to the defense,
+I did not know any better. Another is lack of supervision. People are less likely to identify
+a situation as an opportunity if they're adequately supervised. Unfortunately, opportunities
+are identified and taken advantage of when organizations do not prosecute fraudsters
+or have otherwise weak ethical cultures. If the tone of the organization is to
+look the other way when a problem occurs someone with a perceived pressure will
+likely find opportunities to commit fraud. The last leg of the fraud
+triangle is rationalization. People are generally honest,
+fraud involves theft. To prevent fraudsters from
+perceiving themselves as criminals, there is rationalization. Rationalization helps
+justify the crime in a way that makes in acceptable
+in the mind of a fraudster. One of the most common rationalizations
+is I deserved it, or they owe it to me. Employees that believe that they're
+underplayed or otherwise financially taken advantage of, frequently use
+this form of rationalization. They treat me bad is a non-financial
+variation of the I deserve it rationalization. Another rationalization is
+I'm just borrowing the money, mainly it's much easier to
+justify borrowing than stealing. The problem is that the pressure to
+take the money is usually not gone when repayment needs to be made so
+the borrower never repays the debt. Another problem with this excuse is that
+when one borrows it's only reasonable for the lender to know about the transaction. The final rationalization
+where mention is, it's not my fault, which is used
+to transfer blame to someone else. This can be used in many circumstances,
+those prevalent when the individual has access to
+something that should be protected. For example, a computer is found logged on
+in the company's pay maintenance screen. The rationalization is not my fault, someone left the computer unattended,
+enabling me to change my pay rate. The fundamental premise of
+the fraud triangle suggests that when an ordinary person or
+accidental fraudster commits fraud, all three of the legs of
+the triangle must be present. There must be a perceived problem
+that cannot be shared or pressure. Additionally, there must
+be an opportunity available that the fraudster believes can
+be used to solve the problem. And finally,
+the person will rationalize the fraud, to help in the denial
+that the action is wrong. Understanding the fraud triangle, helps
+us understand the person behind the fraud as well as helping us in
+the detection of the fraud. Now that you understand
+the fraud triangle, it may be obvious to you that the easiest
+leg to address is opportunity. >> When trying to provide
+an understanding of fraudsters, this example from
+the Wall Street Journal was perfect. While the article appeared in 2005,
+the lessons learned are timeless. The alleged perpetrator pictured is
+a man by the name of Thomas Coughlin. Before his alleged fraud came to light,
+Mr. Coughlin was the Vice Chairman of Walmart. So there's the chairman of the board, vice
+chair and then the executive management. Mr. Coughlin is basically
+second in command. According to the article, he needed
+some alligator boots, a dog pen, and a hunting vacation. Now a question, is it appropriate
+to ask Walmart to pay for this? As fraud examiners and forensic
+accountants, we need to be careful. Depending upon Mr.
+Coughlin's terms of employment, his contract Walmart Travel and
+Entertainment policies. It is possible that he was entitled
+to reimbursement for the cost. However, the Wall Street Journal article
+would suggest that reimbursements were not in compliance with Walmart policies. Because Mr. Coughlin used false
+documentation and fake invoices so the expenses would qualify. As a side note, it's the deception,
+the act of concealment, that convinces fraud examiners that the perpetrator
+knew his or her actions were wrong. If they were not wrong,
+why attempt to hide the act? Back to Mr. Coughlin, according to
+the article, estimates suggest that Mr. Coughlin may have defrauded Walmart by
+as much as $500,000 over three years. Mr. Coughlin never admitted
+any wrongdoing, so the actual amounts may never be known. If we assume $500,000 over three years that works out to be about
+150 to 175,000 per year. Where this story gets
+interesting is the following. In your mind, guess how much Mr. Coughlin
+made in salary and bonus in a single year, before he resigned in disgrace and
+was tried in court for his act. How much salary and bonus? $6 million dollars, yes,
+$6 million, at some level, it appears that Mr. Coughlin was
+willing to sacrifice everything. His income, his employment,
+and his reputation, for an extra 150 to 175,000 per year. Does that make sense to you? There are couple of important lessons. One, do not inflict your values system
+when trying to understand what others might do, often times fraud in related
+financial crime do not make sense. When examining the facts and circumstances and evidence of a fraud,
+always keep an open mind. Follow the evidence, document
+the evidence, and do not make assumptions. Use the evidence to determine who,
+what, when, where, and how. Mr. Coughlin is a great example
+of the accidental fraudster. The typical fraudster is often
+depicted as the first time offender, who is doing something
+seemingly out of character. The Fraud Triangle suggest
+that the perpetrator has a non-sharable problem that is
+grounded in financial short comings. And when align with opportunities
+in rationalization, and otherwise good citizen
+succumbs to committing fraud. This person might be characterized
+as the accidental fraudster. Not withstanding the fraud act, the
+accidental fraudster is considered to be a good, law abiding person who
+under normal circumstances would never consider theft,
+breaking felonious laws or harm others. When discovered, family members, fellow
+employees, and others in the community are surprised or even shocked by
+the perpetrator's alleged behavior. Cressey's fraud triangle hypothesis helps
+the anti-fraud community understand the accidental of fraudster.

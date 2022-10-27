@@ -1,0 +1,129 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. This is gonna be the first
+video talking about genetics or the patterns of inheritance. I'm very excited to go into this with you. Now, before we go into the details, there are a few basic terms
+I'd like you to know. If you're not familiar with these terms,
+I'd encourage you to use some of the resources that are linked from the
+online site to go learn more about them. So, I'll introduce these terms very
+briefly, because I'll be using them repeatedly throughout this video and
+other later videos. So, the basic terms I'd like you
+to know are first that of DNA. That's short for deoxyribonucleic acid. DNA, as many of you know,
+is the hereditary material that is used by most species, and it's comprised
+of nucleotides or building blocks. Those building blocks are labeled A,
+C, G, and T. So, there's four different forms
+that are commonly used in DNA, and that's how they're often abbreviated,
+A, C, G and T. Now, genes are the fundamental units
+of biological information, and they're made of DNA. Typically, a gene will be on
+the order of a couple of hundred or maybe a few thousand DNA nucleotides long. So, these pieces put together to make
+this particular set of instruction. Chromosomes are organized packages of DNA. We humans, many of you probably know,
+have 23 pairs of chromosomes. The most famous pair being that of the X
+and Y, which determine our gender. Now, these packages bear
+genes along their length. These are very long stretches of DNA. There are millions of bases long,
+typically, and they have genes along them. So, basically, they are the scaffolding
+for genes within our body. And finally, the genome is the entire
+set of DNA instructions in a cell. So, all the chromosomes and any other
+material like that is the genome. Or you'll often hear a reference
+to the human genome. So, I hope you already appreciate this,
+but I'll say it nonetheless. Genetics is very cool, as illustrated
+by this handsome young man right here, playing with genetics. So, genetics is this code that's found
+inside every single cell of your body, and it affects everything about you. It affects how you feel. It affects how you learn. It affects how you look. It affects everything. It affects how long you'll live. It affects what diseases you'll have. I mean, it's just amazing how
+much it is affected by genetics. Now, when I say affected, I don't mean that it's completely
+explained by genetics. But genetics has a big effect
+on everything about you, and not just about you, but
+also about your pets. In fact, why are your pets
+the particular species they are? They probably came from an egg that
+wasn't too dissimilar from the egg that you came from. But they changed into, over time,
+this puppy, or this kitten, or something like that. Again, this is pretty cool. This is all within this code. Livestock, we can actually help breed better cattle by understanding
+the genetic basis of traits. We can attack pests of our crops. We can attack parasites better within
+our body by understanding the various pieces of their genetics. And ultimately, and
+you'll see this later on in the course, we can understand evolution much better by
+having a good understanding of genetics. Now, poor Darwin was able to come up
+with the ideas of evolution by natural selection without having access
+to a lot of detailed genetics. But over time, in the last over 150 years
+since his famous book was published, we've actually been able to support a lot
+of his theories in much more detail than he would have even dreamed
+of back in his day. So, many of you have heard of DNA testing. This is a context in which
+genetics comes up repeatedly. In the media, we often see references to
+it in these particular three contexts. Paternity tests, trying to identify among two possible dads which one is
+actually the father of the baby. Now, sometimes you can tell because
+the kid looks far more like one potential father than the other. But you can do a DNA test even if
+the kid looks very intermediate, and you can't really tell. It's often used in the context of criminal
+investigations, where we look for DNA at a place where
+a crime was collected, and then try to identify who it was who
+actually committed the particular crime. May be interesting to see who that is,
+by the way. And of course, DNA testing is often
+used in the case of forensics. If they find a tooth, or they find some
+small bit of skin or something like that, can you actually identify who was there,
+who was the person? Or if there's a body that you
+can't identify very easily, again, DNA testing may be used to
+narrow down who that is. Now, these are examples that have been
+seen for the last several decades, for the last tens of years. More recently, we've seen much more
+exciting forms of DNA testing, and these come up in the context of
+personal genotyping services. Many companies offer these, 23 and Me being just one example of
+companies that offer this. But what happens is, individuals will
+pay the companies to study their DNA, typically from spit. So, they'll spit a little bit into there,
+mail it off to the company, and what information do they get from this,
+from the personal genotyping service? Well, they get quite a bit. That, for one single price
+from many of these companies, you'll get information on your ancestry. You can get to find out, where did
+your father's, father's, father's, father's, father's, father come from? Where did your mother's, mother's,
+mother's, mother's, mother's, mother's come from? Do you have,
+does your lineage lead back to Asia? Does it lead back to South America? What part of the world does it come from? You can even potentially
+identify other relatives. Some of these companies
+actually offer things where, if somebody's a relative who also did
+the DNA test, maybe they would let you, with your permission, hook up with
+them to actually get to meet them. The other thing that they'll
+tell you about is health. They will use the information
+in your genetic code to tell you your relative likelihood
+of getting particular diseases. Now, this is one that we're gonna
+talk about extensively in this class, because it's something that there's
+issues that you should be aware of. First, let's address the question of,
+where do they get this information. How did they identify health
+risks associated with genes? Well, many of you see references
+to diseased genes in the news. And here's a few headlines out there. Gene Increases Diabetes Risk,
+Scientists Find. This is from 2006 in the New York Times. Researchers Find Big Batch of Breast
+Cancer Genes, on a cable news network. Scientists Spot Genes
+Behind Heart Disease. This is a good one right here. This is a mutation protecting
+against Alzheimer's. So, this is a particular gene variance
+that, if you happen to have this variance, you're actually less likely
+to get Alzheimer's disease than if you don't have it. So, these kinds of things come
+up all the time in the news. A lot of genes that have variance
+associated with disease, or have alleles associated with disease,
+have been genetically mapped, where people have found where
+these genes are in the geno. What chromosome and position are they? This picture shows you
+several genes identified from various chromosomes across the genome. So, for example, sickle cell anemia is
+known to be associated with this little stretch here of chromosome 11. The actual gene is known for that. Cystic fibrosis, there's a factor contributing
+to it there on chromosome seven. There's a lot of these disease
+genes that have been mapped to particular parts of the genome. And it's not just disease genes. A lot of other genes have come up in
+the news, sometimes kind of silly ones. Like I love the name of this one,
+the fat gene, was found by scientists. That was published in the Times. A gene for left-handedness is found. The gay gene has been found in
+female mice in Popular Science. Some of these are clearly
+sensationalized in the media, but there's some underlying truth. There's some gene that has a variant
+which seems to be associated with, for example, heart risk,
+or being lean, okay. The other thing that you often hear about is that there is some sort of raging
+debate between nature versus nurture. I love it when I'm
+sitting on the plane and somebody asks me when I
+tell them I'm a geneticist, they say, well, where are you on
+the nature versus nurture controversy? That's just kind of silly. There is no real controversy. Pretty much any trait, not all, but
+pretty much any trait you look at, has some contributions from genetics and
+some environmental effects, as well. The other thing that comes up is a lot
+of the genes that are identified don't always hold up. That when further study is done,
+they can't replicate this effect of this particular variance
+being associated with this disease, or trait, or things like that. Now, it could be that there actually
+is a variant associated with it, but it only affects a certain subset
+of individuals and not others. Maybe that's based on ethnic group or
+based on something else. Or maybe there was just
+a flaw in the original study. So, here's a couple of examples here. Scientists Debunk So-Called Fat Gene. And this next one was one is one
+of my favorite headlines ever. Exercise Blocks Effects of Fat Gene. [LAUGH] I love that headline. That's so funny. Another one here, New York Times. Breast Cancer Gene Risk May Be Overstated. Well, in the upcoming videos,
+what I'd like to do, and basically, for this first half of
+this course overall, is to get you all to understand
+how these genes are identified. How do we find risk factors associated
+with diseases like cancer or heart disease, things like that? And so, these genes are made up of
+the genetic code and people think, well, we have a human genome sequence,
+we should be able to just look at it. The problem is when you look at it,
+you see A, C, G, T. It doesn't come labeled with cancer
+[LAUGH] or something like that. So, what has to happen is we have to go
+through this process known as genetic mapping. Even when you have
+a fully sequenced genome, you have to go through this process
+of mapping to see which genes have variants associated with
+particular traits of interest. We'll get into this in a lot more
+detail in subsequent lectures, but I wanted to give you
+this brief introduction. Thank you.

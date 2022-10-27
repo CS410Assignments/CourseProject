@@ -1,0 +1,250 @@
+Let's look anatomically for
+just a moment, and consider the source of some of these biogenic amine
+transmitters, beginning with dopamine. Well, I mentioned some of the places
+where dopamine is released. Dopamine is derived from cells that have
+their cell bodies here in the midbrain, which is at the very top of
+the brain stem in a collection of compact cells known as
+the substantia nigra pars compacta. And right adjacent to that is a region
+called the ventral tegmental area. Here we have cells that
+have their somata here and they send axons to important parts of
+the brain, such as the basal ganglia, specifically the striatum which
+is part of the basal ganglia. And from the ventral tegmental areas
+projections into medial temporal lobe structures such as the amygdala,
+as well as to this ventral and medial aspect of the prefrontal cortex. So dopamine is a very important
+neuromodulator in all of these places. Here, just to highlight
+a little bit of neuroanatomy, we have a cross-section through
+the forebrain as illustrated in the upper-right of this slide,
+shows you about where we're looking. And I want to draw your attention
+to the center of this slice. You'll notice label number 11, here we have this dark substance,
+which sits in the midbrain. And that dark substance is in fact
+the substantia nigra, which of course, is Latin for dark substance. So here we've got the cell bodies
+of the neurons that synthesize and release dopamine at some distance
+of their axon terminals up in the basal ganglion and in the cortex. And in the medial part of this
+region where we have dark substance, that's our ventral tegmental area. And that too, is a place where the cell
+bodies of these neurons reside that send their axons up into structures
+associated with the limbic forebrain and release dopamine there. Well, norepinephrine is another important
+small molecule neurotransmitter, and norepinephrine is derived from cells who
+have their home in the brain stem but now in the dorsal part of the pons in
+a structure called the locus coeruleus. The locus coeruleus is another place
+where we find black substance, or actually the locus
+coeruleus means blue spot. If we are lucky enough
+to cut a section through the tegmentum of the pons just right, we might see these two little spots that
+look sort of a deepish grayish blue color. Those are the locations of where we
+find our cell bodies of neurons that are producing norepinephrine and releasing
+it in various places in the brain. Really just about
+everywhere in the brain and even down into the spinal cord
+do these cells grow their axons. So all of these biogenic means
+have in common a limited number of cells whose cell bodies are in the
+brain stem that grow axons that branch and grow profusely throughout
+various parts of the forebrain, hindbrain, and even the spinal cord. One last example is the neurotransmitter,
+serotonin. So serotonin comes form a group of cells that are found in a couple of
+different places in the brain stem. They tend to be found
+right along the midline in a group of nuclei that we call
+the seam nuclei, or the Raphe nuclei. Raphe means seam, so right along a seam where the two sides
+of the brian stem come together. That's where we find our cell bodies that
+release serotonin and as I mentioned, serotonin's a very
+important neuromodulator. Serotonin appears to be
+a molecule that when out of proper physiological balance can
+lead to various affective disorders. Many of our drugs that
+we use to restore normal health with respect to
+affective disorder act by selectively blocking the re-uptake
+of serotonin, thereby increasing the synaptic concentrations of
+that drug in important brain structures. Okay well,
+there are more animations to view. If you care to see some summary,
+some of the biochemistry, and some of the molecular
+biology regarding the function of these
+biogenic synaptic systems. I would encourage you to
+view animation 6.3 and 6.5 that review the organization of
+dopamine and serotonin serotonin synapses. Okay, at this point I think we're
+ready to switch gears just a bit and talk about the neuropeptide
+neurotransmitters. So as I mentioned, the neuropeptide
+neurotransmitters are larger molecules. They're made of a number of amino acids
+that are covalently bonded to small peptides. Sometimes they can be rather short or sometimes they can be
+of considerable size. So, as you might imagine, these molecules must be handled somewhat
+differently in the presynaptic terminal, and, indeed, they are, and
+we'll come back to that in just a minute. But before we talk more about how they're
+handled in the presynaptic terminal, let's just make a few points
+about their physiology. So, the neuropeptides mediates slower and more long lasting effects than most of our
+small molecule transmitters and that's because the neuropeptides seem to interact
+with metabotropic types of receptors. And as we'll discuss these
+are receptors that require cellular metabolism in order to mediate
+their function, and all that takes time. So the neuropeptides mediate slower and
+more long lasting synaptic effects, some of which can even go on for
+hours to days, depending upon the downstream effects of
+the metabolic pathways that are activated. Some of the important
+neurotransmitters in this category include what's shown here in this slide. The enkephalins, so there are a number of
+different enkephalins that are important. The enkephalins are opioids that have
+henogesic effects in the brain and so these bind to receptors in various
+places including the spinal cord. Other important peptide
+transmitters are substance P, which is very important in
+modulating the transmission of pain signals in the dorsal
+horn of the spinal cord. And many of our hypotholamic releasing
+hormones that are secreted into the porter circulation from the hypothalamus to
+the anterior pituitary are neuropeptides. As are the hormones that are released
+directly in the posterior pituitary into the blood stream from hypothomlamic
+neurons that send their axons into the neurohypothesis. So these hypothalamic hormones
+are other examples of neuropeptides. And lastly, let's consider the activities
+of some neurotransmitters that are still relatively poorly understood,
+and for that reason, we call them unconventional
+neurotransmitters. Not because they are necessarily so
+different from our small molecules and our peptides. In some cases they are, but
+mainly because we don't yet have a full understanding of
+their mechanisms of action. And so let's begin by talking about
+the purinergic neurotransmitters. So these include our purines,
+such as adenosine triphosphate. So you're all familiar with molecule from
+your studies of cellular metabolism. You know that ATP is the energy
+currency for cells, and what you may not have known
+is that it actually has some biological activity at synapses
+in the nervous system. So ATP can be co released with other
+small molecule neurotransmitters. Once it's in the extracellular space, ATP
+is typically metabolized into adenosine. And adenosine itself can have
+it's own biological activity. Adenosine tends to bind
+to various receptors, and these receptors have various functions
+in different kinds of brain circuits. One important circuit where adenosine
+is important is in the hypothalamus. And adenosine appears to build
+up throughout our day and appears to be an important
+trigger that leads to drowsiness. So, the more our cells in
+the hypothalamus are consuming energy, the more adenosine builds up
+in the extracellular fluids. That seems to be something like an index of our state of fatigue, and
+the degree of which we require sleep. Well, one thing many of us do,
+I myself am guilty of this, is that we fight this system by
+consuming caffeinated beverages. And what these caffeinated beverages
+do is they block adenosine receptors. So the xanthines including caffeine and
+theophylline, they are blocking the receptors that are mediating this
+natural sense of drowsiness that will, we think, in some way have a restorative
+function on brain circuits. Another of the so called unconventional
+neurotransmitters that's fairly recently been
+discovered are a series of molecules that are derived from
+membrane lipids called endocannabinoids. These molecules are hydrophobic, so when synthesized they can freely
+diffuse across plasma membranes, and they bind to receptors that are also
+bound by the psychoactive components of cannabis,
+hence their their name endocannabinoids. So these include some very
+interesting receptors, such as the CB1 receptor which is present in high concentrations in structures
+associated with the brain's reward system. It's also present throughout
+the cerebral cortex and in the cerebellum, in the basal ganglia. So lots of places where we
+think that the drug of abuse, the cannabinoids derived from cannabis, have their effects on cognition and
+sensory and motor function. So these endocannabinoids seem to
+have some interesting physiological roles in modulating plasticity. Especially plasticity
+at inhibitory synapses. And you can read more about that in
+the textbook if you like and figure 6.19. We'll come back to this when we talk
+about mechanisms of synaptic plasticity in a future tutorial. One final neurotransmitter
+to discuss is nitric oxide. So this truly is an unconventional
+neurotransmitter in that it's a gas. It's not a solute that can be
+dissolved in an aqueous medium. It's not a peptide. But rather it's a gas. And nitric oxide is produced from
+the metabolism of the amino acid arginine, as is illustrated here in this pathway. So arginine Is processed by an enzyme
+called nitric oxide synthase, and nitric oxide in a gaseous form
+is produced as is citrulline. And that nitric oxide then is free to
+diffuse across the plasma membrane, or it can interact with target
+structures maybe within the cell, where the gas was synthesized. Here in this particular illustration we're
+showing the activation of a guanylyl cyclase enzyme, which results
+in the production of cyclic GMP, one of the important second messenger
+systems we have within the brain. Now, one of the interesting activities
+of nitric oxide involves its ability to diffuse freely from, lets say
+a postsynaptic cell to a presynaptic cell. So, there is ongoing interest in the idea
+that nitric oxide might be some kind of a retrograde messenger that
+allows from signals to travel back from a post synaptic
+cell to a pre synaptic site. Of some interest is the activities
+of nitric oxide as a vasal dialator. And so, this is a function that is
+performed in a variety of of tissues, and that activity is mediated
+by a guanylyl cyclase pathway. And perhaps it's of interest
+to some of you that Viagra and other related drugs that are used to affect erectile dysfunction
+function by affecting nitrous oxide mediated vasodialation. Similar pathways, however, are found in a
+variety of structures within the brain and elsewhere in the nervous system. Hence these drugs can often have side
+effects, often involve sensory processing and we'll see why when we talk about
+the mechanisms of phototransduction. And we'll discover an important role for the guanylyl cyclase pathway within
+the photo receptors of our retinas. OK, well let's look now at a side
+by side comparison the processing of small molecule
+transmitters and peptide transmitters. So I would encourage you to have a look
+at the table that I've prepared for you, in page 3 of your handout,
+which talks about the synthesis, the packaging release, and
+the removal of neurotransmitter, at synapses that use small molecules and
+peptide transmitters. So with respect to the synthesis,
+small molecules are synthesized typically in the pre synaptic terminal where
+there are enzymes that are present that can create the active neurotransmitter
+right there in the presynaptic terminal. For peptide neurotransmitters,
+the synthetic pathway is primarily in the cell body where the peptide is
+processed like all other peptides. Through the endoplasmic reticulum,
+thegGolgi apparatus, where various kinds of post translational
+modifications may be performed. Meanwhile, this peptide can be packaged
+into a vesicle of some sort and then transported down the axon. And along the way further modifications,
+or perhaps cleavages of
+that peptide can occur. As the initial product of
+the transcript is then processed and prepared for its active function
+in the presynaptic terminal. Couple of other differences to note. Small molecule transmitters
+typically are packaged into vesicles that then are concentrated right along the
+active zones at the presynaptic membrane. Whereas peptide transmitters are often
+found in vesicles that are diffusing around the presynaptic terminal
+further away from that active zone. So consequently, the vesicles
+that contain the neuropeptides, which typically are much larger Then
+those that contain the small molecules are further removed from those active
+sites and therefore require a larger influx of calcium in order to trigger
+calcium mediated fusion events. So with a relatively modest
+depolarization of a presynaptic terminal we're likely only to see the calcium
+mediated fusion of small vesicles that release the small
+molecule transmitters. It's only with a very large
+depolarization that the presynaptic terminal is likely to release much peptide
+neurotransmitter because in order for that to happen,
+sites well away from our typical high efficiency active
+site are engaged and those larger vesicles then fuse and
+release peptide neurotransmitters. But only when that pre-synaptic
+terminal is flooded with calcium. So this might be one physiological way of holding in reserve
+the peptide neurotransmitters, only when there is intense depolarization
+of the pre-synaptic terminal. And lastly, considering the removal of the
+neurotransmitter once it's been released the small molecule transmitters
+have a variety of systems. The transmitter itself might be degraded,
+and pre-cursor substances might be then taken
+back up into the [INAUDIBLE] terminal or they may run through a [INAUDIBLE]
+cell where they may be in some storage form before being returned from
+a [INAUDIBLE] to the [INAUDIBLE] terminal. Of course, the transmitter can
+simply diffuse away as well. For a peptide neurotransmitter,
+these substances, likewise, are free to diffuse away, but
+there are also proteases that are found here in the synaptic cleft that can
+cleave these peptide neurotransmitters. And degrade them right at their region of
+release in and around the synaptic cleft. So let's also take a few
+minutes to consider a typical glutamatergic
+synapse in the brain. So as I've already mentioned glutamate's
+one of the most important small molecule in neurotransmitters that we have it's widely considered to be the most
+important small molecule for mediating fast excitatory events
+in the central nervous system. So in a typical pre-synaptic terminal, we have an important
+enzyme called glutaminase. This enzyme converts
+glutamine into glutamate, and glutamate Is then concentrated
+in synaptic vesicles, where it's taken into that
+vesicle via a transporter called vesicular glutamate uptake transporter. So, VGLUT, for short. So, this synaptic vesicle then, of course, can fuse with the presynaptic terminal
+when calcium floods that active zone. The glutamate is free then
+to diffuse into the synaptic cleft where where it can react with
+postsynaptic glutamate receptors. Now some of this glutamate, of course, diffuses away from the synaptic cleft
+where there are excitatory amino acid transporters in the glial cells that
+surround the synaptic compartment. Of course, the important glial cell that we're
+talking about here would be the astrocyte. So the excitatory amino acid transporter takes up the glutamate where it's
+converted back to glutamine. So glutamine is in essence
+a storage form of glutamate that can sit in reserve within
+astrocytes before being recycled as needed back to
+the presynaptic terminal. So there are other kinds of
+cotransporters that allowed glutamine to cycle back to this presynaptic terminal
+where it can once again be hydrolyzed by glutaminase in the glutamate ready for
+another round of synaptic release. Okay, lastly let's just make a couple
+of points here in conclusion. So we've talked about our two classes of
+neurotransmitters, or small molecules. Our peptide transmitters, we've also talked about what we've called
+some unconventional neurotransmitters, and these neurotransmitters interact
+with two classes of receptors. Our ionotropic receptors,
+which mediate rapid synaptic events since the receptor for the ligand
+as part of an ion channel complex. And there are metabotropic receptors that require the activation
+of second messenger systems. So they mediate more slowly evolving and potentially longer
+lasting synaptic effects. Our small molecule transmitters
+can interact with both kinds of receptors
+are peptide neurotransmitters as far as we know only interact with
+metabotropic family of receptors. Now I think from this simple schematic,
+it should be apparent to you that if we want to understand the post
+synaptic activity of a neurotransmitter, we need to know more than simply
+the identity of that neurotransmitter. It's not enough to know if it's
+a small molecule or if it's a peptide. So knowing the chemical structure
+itself is not sufficient to understand the physiology of the effect
+mediated by that transmitter. One needs to understand something about
+the receptors that interact with that neurotransmitter in question. So in order to account for
+the physiological activity of the chemical neurotransmitter
+you need to know the receptor. So in our next tutorial, we're going to
+talk more about the structure and function of both types of receptors, the ionotrophic receptors and
+the metabotropic receptors. And I think you'll be impressed as I am
+with the varsity of effects that can be activated, even by the very
+same chemical signal. So, next time we'll talk about
+neuro transmitter receptors. I'll see you then.

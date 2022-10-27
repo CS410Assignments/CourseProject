@@ -1,0 +1,48 @@
+Hi, welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. We've been talking about
+the hacking process. If you remember, hacking is
+not simply a single action. It's a series of different actions that
+when strung together, represent this idea of hacking. In this episode, we're going
+to talk about weaponization. What is weaponization? At this stage of the
+hacking process, threat actors have finished
+their reconnaissance. They've evaluated the
+particular organization. They've looked at the
+technical vulnerabilities of those systems and now they're preparing a
+particular plan of attack. They've identified specific vulnerabilities
+in technical systems. That could include things
+like the operating system or even the applications that are
+on that particular device. Those exploits that
+they generate, take advantage of these
+identified vulnerabilities. Those known vulnerabilities
+are often categorized. There might even be sample
+code that's actually already written to take advantage of that particular
+vulnerability. A repository of known
+vulnerabilities, known as the Common
+Vulnerabilities and Exposure index or CVE is a repository of known
+vulnerabilities in technical systems
+that's maintained by the MITRE Corporation. You can find this repository in a searchable form at
+www.cve.mitre.org. Threat actors leverage
+known vulnerabilities or sometimes even unknown
+vulnerabilities to exploit specific devices. If there's a vulnerability
+in a particular version of Windows or Linux
+or macOS system, then they would write a particular exploit to take advantage of that vulnerability. Unknown vulnerabilities are
+known as zero-day exploits. What is that weaponization
+process then? Well, threat actors have conducted their reconnaissance
+and they've identified those weaknesses that we now know is a vulnerability
+in that system. They write an exploit
+to take advantage of a vulnerability and
+they'll write this in any number of
+computer languages, something like
+Python, for instance. Those vulnerabilities
+provide a window of access to a targeted device. When it is delivered, when that exploit is delivered, it opens up a window into
+that targeted device. Those exploits are wrapped together with some
+delivery mechanism, which we'll talk about
+in a future episode. They focus that effort against a very specific device
+or even a human target. What are some of the takeaways
+about weaponization? Well, remember,
+hacking is a process. The second phase of that
+process is weaponization. Weaponization is about
+writing an exploit to take advantage of a known or unknown vulnerability
+in a system. Exploits are paired with a means of delivery to a
+specific target, either a machine or a person. In our next episode, we'll talk about delivery and the importance of delivery
+in the hacking process. I hope to see you next time.

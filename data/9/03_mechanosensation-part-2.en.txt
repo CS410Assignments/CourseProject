@@ -1,0 +1,171 @@
+Okay.
+So now, let's consider the concept of sensory transduction.
+So, you've already been introduced to this idea.
+This is the concept of how is the energy of the environment converted into
+electrical signals. Well, for the mechanosensory system, this
+happens when physical deformation of ion channels leads to the opening of those
+channels and the influx of current-carrying ions.
+So, for our somatic sensory system, this happens as channels that are permeable to
+sodium ions are forced open. So, the physical pressure forces open
+these ion channels. They are activated by physical forces, not
+by voltage, not by neurotransmitters, but by physical forces here.
+And that leads to the influx of sodium ions and so as these sodium ions enter, as
+you should now appreciate, they carry with them their positive charge, and that leads
+to some measure of depolarization. So, if you open a small number of these
+sodium channels, you're going to end up with a small depolarization of that axon
+terminal. So, this depolarization is called a
+receptor potential, because it originates with some kind of receptor element at the
+end of the sensory axon. If you provide a stronger stimulus, you'll
+get an even stronger receptor potential. But if that potential fails to reach
+threshold for generating an action potential, this signal will simply decay
+away and you'll never know it because there will not be an electrical signal
+that can propagate from the receptor ending into the central nervous system.
+That only happens when the stimulus is sufficiently strong to reach the threshold
+for generating an action potential. So, once that receptor potential hits
+threshold, now our familiar voltage-gated ion channels kick in and we end up firing
+an action potential. So, the stretch-gated channels, they get
+us to threshold. That's the receptor potential.
+Sometimes, we call that a generator potential.
+But the firing of action potential is where our voltage-gated sodium and
+potassium channels come in. That's what gets us from a receptor
+potential in the end of a sensory axon, all the way into the nervous system with
+the potential of actually experiencing that sensation if the signal makes into
+the cerebral cortex. I've been alluding to the morphological
+specializations at the end of our mechanosensory fibers.
+Now, let's have a look at them. And we see really, a beautiful array of
+specializations even within our skin surfaces.
+So, what we see depicted in this figure is an illustration of our endings of these
+sensory axons, and what happens to them. Let me first highlight those receptors
+that are responsible for our sense of light touch.
+So, go ahead and, and rub your fingers together, just very lightly, or perhaps
+pass your fingertips over a tabletop surface that you may be near.
+And that very light touch sensation that you may be feeling on your skin surfaces,
+that's due to the activation of Meissner's corpuscles and our Merkel cell-neurite
+complex. These are, are both exquisitely sensitive
+to mechanical deformation, but they operate in slightly different way.
+The Meissner's corpuscle is a specialization of the nerve ending with
+schwann cells that form a layer structure and constitute what we call a corpsucle.
+This is found as the dermis interdigitates with the epidermis.
+And we find these structures oriented in sort of a radial direction relative to the
+skin's surface. That makes them acutely sensitive to a
+small patch of skin that might be deformed.
+Now, contrast that with our Merkel cell-neurite complex, this is a
+specialized arrangement of nerve endings with cells that sit between these dermal
+papilae and there's actually neurotransmission that occurs here.
+So, a receptor potential is going to be generated in these specialized Merkel
+cells, a neurotransmitter will be released and that will activate the nerve terminal
+of the first-order axon. So together, the Meissner corpuscle and
+the Merkel cell-neurite complex are responsible for most of what we think
+about as light touch signals, okay? So you'll notice that there are some
+odd-looking receptors that are found a little bit deeper in the skin, in the
+dermis, and on into the subcutaneous layer.
+These are two different kinds of encapsulated receptors.
+One is called the Ruffini corpuscle. And this is a rather strange structure, we
+actually don't understand its physiology quite as well as some of the others.
+But it seems to be sensitive to stretch. So, if you were to extend the digits in
+your fingers and sort of wave out, fan out your fingers, you're stretching those skin
+surfaces and that sense of tugging in your skin is probably derived from these
+Ruffini corpuscles. And then, finally, deeper in the dermis or
+in the subcutaneous tissues, we have these, these beautiful structures called
+Pacinian corpuscles. So, this is a, a nerve ending that's
+encapsulated with many layers of schwann cell lamellae.
+And it's almost like the layers of an onion around a nerve ending and these
+layers are, are buffered with a fluid, an extracellular fluid.
+And so, what happens is that, as there is some depression, there is a very quick and
+rapid activation of that sensory ending. But very quickly, the fluids redistribute
+and that deformation rebounds and we end up restoring, very quickly, this rings of
+onion type of structure around that nerve ending.
+So, so, these are, are endings that are going to be sensitive to vibration but
+they're going to act only very physically as soon as than deformation is applied.
+Well, to speak to the physiology of these various receptors, I'm going to show you a
+table from the book which truly has more information than I want you to know.
+So, let me just tell you what about this table, I think is important for you to
+take away. I certainly want you to recognize our four
+major types of superficial receptors that we've been talking about.
+And I want you to notice that there are two, our Merkel and Meissner structures
+that have small receptive fields, which means, that they're going to be especially
+sensitive to spatial position. And then there are two, those that are
+deeper, our Pacinian and Ruffini corpusles, that have larger receptive
+fields. So, pay attention to the extent of skin
+surface that can activate that receptor. I would also invite you to focus in on the
+function that's listed here in this table. So, notice that the Merkel and Meissners
+have to do with light touch and perhaps even different aspects of light touch,
+whereas, our deeper receptors have to do with broader sensations that have less
+spatial detail in them. In the case of the Pacinian mainly
+sensitivity to vibration. And as I mentioned for Ruffini corpsucles
+a change in shape that would be consistent with a stretch of the skin.
+And lastly, I would encourage you to pay attention to the innervation density,
+which relates to the spatial acuity that is provided by this receptor system.
+Notice that the innervation density is quite high for our, our Merkel
+cell-neurite complex. And, and really extremely high for our
+Meissner's carpuscles that contributes to the pretty high spatial acuity of this
+system. Whereas, our deeper receptors, our
+Pacinian corpuscles, and our Ruffini corpuscles are present at much lower
+density, and that's consistent with them being sensitive to a broader surface of
+the skin. Okay, let's move on and let's consider
+some additional types of receptors that are found in deeper tissues in the body.
+One very important proprioceptor that we'll talk about in some detail when we
+talk about spinal cord circuits for motor control, is something called the muscle
+spindle. And so the muscle spindle is formed by
+specialized muscle fibers and certain types of receptor endings that innervate
+those specialized muscle fibers. So, what we see here is an illustration of
+a muscle. So, this is a muscle that is part of a
+musculoskeletal unit, and within that muscle, we find a fusiform-shaped spindle
+that is bounded by a capsule. So, within that spindle, we find a small
+number of muscle fibers. Those muscle fibers are called intrafusal
+muscle fibers. And they're different than the muscle
+fibers that are found outside the spindle that generate the force when we contract a
+skeletal muscle. These muscle fibers tend to have a
+collection of nuclei that are bundled near the center of the spindle shape and then,
+they have their contractile elements extending away from that central region
+out to pole of this fusiform form shape. In these two regions of the muscle spindle
+are supplied by two different kinds of sensory structures.
+There is a type of sensory axon, called the Group Ia afferent, that innervates
+this central region of the muscle spindle, this bulbous part, and notice how it does
+so. These axons just wrap around the central
+region of these muscle spindles. There's a second type of sensory axon that
+supplies the muscles spindle. It's called a Group II afferent axon.
+And rather than wrapping around the central portion of the intrafusal fiber,
+this axon terminates in a special type of ending that we call a flower spray ending.
+And it's located on the contractile elements of the intrafusal muscle fiber
+extending some distance away from this central bulbous region of the spindle.
+Taken together, these two kinds of spindle afferents, the Group Ia and the Group II,
+allow this muscle spindle to send signals into the spinal chord that are pertaining
+to stretch. So, as the muscle is stretched, either
+actively or passively, basically, this spindle gets stretched out as well.
+And that spindle ends up putting mechanical pressure on these sensory
+endings that are found at the terminals of the Group Ia afferents, as well as in
+these flower spray ending associated with the Group II.
+So, this makes these sensory signals important for determining the length of a
+muscle because they're sensitive to the stretch that is being applied.
+We'll come back and talk more about that later.
+But let's move now to the last type of sensory receptor that I want to show you.
+This is also associated with skeletal muscle.
+But rather than a axon supplying the muscle fiber directly, this is a axon, we
+call this a Group Ib afferent, and it innervates the junction of the muscle
+fiber and the tendon. So, there's a capsular region between the
+tendon and the muscle fiber, which is made of a woven matrix of collagen fibers.
+And basically what happens, as is detailed down below, is the axon branches and
+interdigitates within these collagen fibers.
+And as a result, when there is a force applied to this tendon as these extrafusal
+muscle fibers contract, this collagen matrix gets stretched.
+And that matrix, because of the interdigitating axons, puts pressure on
+those axon terminals. And so, that is the force that opens the
+ion channels leading to the generation of receptor potentials in these nerve
+endings. So, this type of receptor, it's called the
+Golgi tendon organ. This type of receptor is going to be
+sensitive to muscle force rather than to a stretch being applied to the muscle.
+We'll talk more about these receptors when we get into the circuitry of the spinal
+cord and how muscle tone is regulated but for now, just know that there are two kind
+of receptor systems associated with our musculoskeletal units.
+There are Golgi tendon organs that are sensitive to the force that's generated by
+the contraction of the skeletal muscle and there are muscle spindles that are going
+to report the length of that muscle back to the central nervous system not the
+force, but the length, and so, the relevant stimulus for the muscle spindle
+is stretch. Now, lastly, I'll just mention but I won't
+show you that there are also receptors associated with our joints that inform the
+nervous system about the movements of those joints or the pressures that are
+acting upon them. So, taken together with the muscle
+spindles and the Golgi tendon organs, we can think of these as being the proper
+proprioceptors that inform the central nervous system about the movements of the
+musculoskeletal system.

@@ -1,0 +1,134 @@
+Hi, welcome back to
+cybersecurity for everyone, I'm Dr. Charles Harry. In our last episode we
+talked about the origins of the World Wide Web and the development of the
+early browser technologies. In this episode I want to talk about how that technology
+has been further developed over the
+last 20 years and why that matters
+for cybersecurity. The commercialization of
+the World Wide Web in the 1990s led to eventually the first tech
+bubble burst in 2000. But there's a growing user base of the World Wide
+Web, and certainly new technologies are driving the growth of that user
+base in the early aughts. We see the development and introduction of
+home Wi-Fi routers. We see monetization of
+advertisements by Google, and so the monetization
+of search becomes incredibly important driver of the development of a user
+base for the Internet. Something called Web
+2.0 starts to emerge. In the early 1990s and
+through most of that decade, Web content with static. We're very used to now
+being able to book a car online or a hotel or buy an airplane ticket to fly
+anywhere around the world. We're used to being able to
+pay all of our bills online. But in the early days
+of the World Wide Web, most of the information
+was static, meaning you couldn't
+interact with the content. It was really, really
+useful if you wanted to get information about a
+particular product or service. But if you actually
+wanted to do something, it wasn't very helpful. What we see is by 2004, more interactive content
+starts to emerge. Blogs and wikis and some of the early social networking
+sites start to come online. So lot more interaction
+with users, a lot more content actually
+being built online. Web 2.0 really marks this acceleration of
+daily usage by consumers. Instead of the World
+Wide Web simply being in a bunch of billboards
+or advertisements, it is now becoming
+much more ingrained in day-to-day use by consumers,
+by ordinary people. Growth in user interactions
+by companies such as MySpace, Amazon,
+Facebook, Friendster. Many of you probably have never heard of Friendster
+but it was one of these early social
+networking sites. This greater demand dries
+really two important trends, cloud and mobile computing. Let's talk about the first
+trend, Cloud computing. In their early
+days of computing, computers were really
+big and expensive. They filled entire rooms, people really
+couldn't afford them. But as technology became more affordable and the technology of miniaturization
+and miniaturization of computing technology
+takes holds, those computers become
+much more portable and they are more usable
+by folks at home. Businesses and consumers start
+buying their own computers instead of leasing or
+renting computing time, and yet while most
+people have access to computers in their homes
+and in their businesses, the really big and
+expensive computers still remain out of reach. While the systems
+have been around, the movement back to
+shared resources, the ability for consumers or
+businesses to gain access to those really powerful machines
+starts to make a comeback in the early aughts or in the middle aughts under
+the name the Cloud. Really all we're talking about, we'll talk more specifically about Cloud technology
+in another episode, what I want to
+highlight here is that there are some really
+expensive machines that have really significant
+capabilities where people want to be able to leverage that for some
+particular purpose. We've now renamed that
+concept the Cloud. Amazon in 2006 develops
+a suite of tools that allows users to access these really
+powerful systems. Now we see a whole suite
+of other companies that are engaged in similar
+Cloud technologies. Amazon Web Services
+or what we call AWS, Azure which is a Microsoft
+product, Google Cloud, etc, are all examples of Cloud
+systems that basically are allowing users to gain access to these really
+powerful systems, and not have to buy it
+themselves, it's all it is. But there's also a second
+trend, mobile computing. A mobile web technology has its origins in
+the late 1990s, and frankly it seem even maybe a little bit
+earlier than that. But mobile networks
+in the 1990s, in the early 2000s are just
+not fast enough to be able to quickly download or upload
+data on the World Wide Web, that begins to change. By the end of the aughts, faster third-generation
+or what we call 3G technology allows
+for greater speeds. By the end of the
+decade, in July 2007, Apple introduces the iPhone, an absolute revolution
+in mobile computing. By this last decade, we are creating a
+network society and we're seeing
+growing connectivity, home Wi-Fi systems that allow for you to connect
+your Roomba with your smart light bulbs as well as your laptops
+and your mobile devices. We're seeing a broader set of social connections
+and expression, social networks like
+Facebook, blogs, Wikis, and other communities
+that people are interacting with on
+a regular basis. Then of course we're seeing supporting utilities
+and sensors. We're seeing the liquidus
+adoption of Cloud Computing. We're seeing the
+development of what are called the
+Internet of Things. All these devices in your home and in businesses that are
+connected to the Internet. By the end of the 2010s, modern societies
+leveraging the Internet as a global comments. In this decade,
+where are we going? We're seeing the increasingly
+use of advanced analytics, things like machine learning
+and artificial intelligence. We're seeing the introduction of autonomous vehicles and
+smart road infrastructure, and of course we're seeing
+the rise of smart cities and network critical
+infrastructure is becoming much more prevalent and who knows what this decade is
+going to give us in addition. All of this together is
+painting the picture of the Internet becoming
+not simply as a tool, not simply as a utility, but actually part
+of modern society. It's part of the fabric of our institutions and
+our society at large. Why are we even
+talking about this, this is cybersecurity course. Why are we talking
+about the history? Because the history
+is important if you want to understand
+vulnerabilities. Because remember, the Internet
+was conceived, built, scaled, and commercialized by
+academics, the government, and the private sector, and a lot of that
+technology is kind of old, 40-50 years old in fact. Lot of the basic
+foundational concepts of the Internet were developed in the late 1960s and early 1970s. Some of that technology that was developed 40 or 50 years ago includes vulnerabilities that
+still stay with us today. When you couple those
+vulnerabilities with complexities in the interconnections
+of billions of devices and billions of people
+around the world, it creates a recipe for potentially very large-scale
+public concerns. What can we take away
+from this episode? First, what we start to see in the early aughts is
+the movement away from purely static
+content that we see in the 1990s to something that's
+much more interactive. We also see the drive of Cloud and mobile
+technology in that decade, and in the last decade, we've seen the adoption
+of Internet technology as not only simply
+a tool or utility, but really at the core
+of modern society. In our next episode, we're going to explore
+how data actually moves from one point of
+the earth to another. This becomes
+fundamentally important when we want to
+understand hacking and how those vulnerabilities in these various protocols
+can be exploited. I hope to see you next time.

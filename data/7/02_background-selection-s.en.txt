@@ -1,0 +1,108 @@
+Hello, welcome back to introduction to
+introduction of genetics and evolution. In the previous video we talked about this
+association between recombination rate and the pi overall. We suggested that one
+possible explanation for why there's this positive association
+between recombination rate and pi just because you have frequent
+selective sweeps across the genome. This reduces a lot of variation
+in regions of low recombination, making it so they have low pi. Reduces little variation has higher
+recombination, making them so they can sustain high pi. Now, background selection is
+an alternative explanation for this pattern, and this is a continuing
+heated debate within the field of evolutionary biology in terms of
+its role relative to the other one. I already gave you the positive
+view of the world, this idea that official mutations around
+the genome cause this association between the recombination and pi,
+this spread of adaptive variance. This was pioneered by these two fellas,
+David Begun and Chip Aquadro. Chip Aquadro's at Cornell, David Begun's at now at
+the University of California at Davis. Now, again, their ideas that there's very
+frequent selective sweeps on the genome and that's what causes this
+overall positive association. Now, the question is, what if beneficial
+mutations are actually very rare? Not just somewhat rare, but very rare. Well, if that's true, then you won't actually see a very strong
+overall trend, because you'll actually have a lot of low recombination regions
+that may still have very high pi, right? If you're not having a selective sweep
+that's eliminating the neutral variation there, they might sustain
+a fairly high pi. Well, in response to this an alternative
+hypothesis was posed by this fellow, this is professor Brian Charlesworth at
+the University of Edinburgh in Scotland. He suggested bad mutations are very
+common, which we know is true of course. When a bad mutation happens interesting
+what it'll do is it'll doom that allele, and essentially the areas nearby it,
+to eventual death. That over some period of time, even if you had a bad variant it may be
+slow to get removed from a population, but it ultimately will be
+removed from the population. We saw this with some of
+those allele A1 simulations of detrimental variants
+that we did earlier. Now importantly the size of the doomed
+window varies with recombination rate. The size of this doomed window is
+going to vary with recombination rate. This process is referred
+to as background selection. Now let me illustrate this for you. So let's imagine background selection in
+a region with low or no recombination. And what we have depicted here is
+background selection in the region of low or no recombination. So we have several neutral sites here. These blue ones are neutral. Okay, so this is essentially
+what diversity doesn't matter. And we have here a set of bad mutations
+that have arisen in this population. We see we have a lot of bad mutations, we're assuming that these
+are fairly frequent. So what's going to happen? Well, all these chromosomes, if there's no recombination all these
+ones that have a bad mutation are doomed. That they will not persist in the
+population, eventually they will go away. So the only ones that persist are these. These are the only ones that will
+contribute to long future generations. In that regard you notice we've lost
+all variation at those blue sites. Now everybody's T and
+everybody's C because we've got rid so many different variants. And this is what happens when you have
+a region of low or no recombination. What if you have high recombination? Now, in this case I'm putting in something
+kind of like recombination hot spots, that's what those vertical bars are. We have the same two variable sites that
+we had before with the same frequencies and we have the same bad mutations. What happens now, we now just lose those segments that
+actually have the bad mutations. These are not deletions,
+they're not cut out of the chromosomes. It's just, when you're looking at how much
+variation is lost from the population, those pieces would get lost. But, the areas around it can persist
+because they can recombine away. So when you look at it now and
+you look at the two variable sites, you still retain quite a bit of variation. This is the important difference here,
+that a lot more variability is being retained because the bad mutations
+can be lost without dragging away so much of the rest of the chromosome. So what is the prediction
+of background selection? Well, background selection assumes, and it depends upon having very
+high rates of bad mutation. We know that's true. What it predicts is that
+regions of high recombination, where you have hotspots
+that are close together, or numerous hotspots,
+will preserve more variation, high pi. So we expect high recombination
+to have high pi or low recombination to have low pi. That's exactly the same prediction
+as what we saw with selective sweeps and hitchhiking. So, where are we? Well this is kind of a big debate. We see this association
+between recombination rate and nucleotide variation as measured as pi. Now could be that's resulting
+from selective sweeps that these new advantageous mutations are arising
+fairly frequently and as they spread and fix they are taking away
+most of this variation. And neutral theory says that
+this should be very rare. The neutral theory does not deny
+that selective sweeps occur but it's just that they should be really rare. In contrast background selection, so just that there's bad
+mutations happening all the time. And getting rid of them is
+what drags away variation. Now the neutral theory has
+no problem with this and this also generates the same prediction. We don't actually know
+which of these is true. This comes back to that neutralist
+selectionist debate that I suggest. This is essentially
+the new iteration of that. And this is very much an area
+of active research today. There's definitely continued disagreement. Here is a picture from a 2007 study
+looking at Drosophila simulans. The green there depicts
+levels of recombination, the blue depicts levels of
+nucleotide diversity measured as pi. And again,
+you see a fairly high correlation when recombination rate is high and
+nucleotide variation is high. Now Begun argues it's mostly
+from hitchhiking, and he's shown that many beneficial
+mutations have actually been identified. Charlesworth argues that we know
+many more cases of bad mutations. So, let me give you a couple
+of perspectives on this. I actually contacted these people
+to get their input directly. Now, the recommended textbook that we have
+for you, the Freeman and Herron book says, the current consensus is that
+hitchhiking is probably responsible for the most dramatic instances of reduced
+polymorphism in linked regions, while background selection
+causes the less extreme cases. This is kind of a balanced view. Now, Begun tends to think background
+selection is not very important at all. He says, there's no convincing evidence
+the background selection is a significant factor in Drosophila
+genome evolution at all. This is from an e-mail
+dated 28th of February. So that's one end of the spectrum. And at the other end Dr. Charlesworth was a little bit
+less diplomatic in his wording. But he refers to a particular paper,
+saying that they, make a reasonable case that the reduced
+variability on the Y chromosome and the fourth chromosome, these
+are chromosomes that have no recombination within species, can be explained very
+thoroughly by background selection. Well, it's very much an area
+that's still unsettled. Here's somebody else who's
+kind of in the middle. The controversy surrounding the relative
+significance of strongly beneficial and deleterious mutations in evolution has
+stimulated research activities for almost a decade. Despite efforts from many theorists and empiricists, fundamental
+questions are still open. Basically the answer is
+we don't really know. [LAUGH] But again, still very much
+an active area of research today. How much of this correlation
+between recombination rate and nucleotide diversity comes from
+adaptive variations spreading or from bad mutations being
+eliminated from the population? Well, you can think about that yourself. Thanks for your time. I hope you enjoyed this video.

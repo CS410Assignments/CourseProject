@@ -1,0 +1,133 @@
+Well, now as we come towards the
+conclusion of this tutorial on eye movements, I do want to take just a few
+minutes to talk about the circuitry that's responsible for generating
+saccadic eye movements. Now, I won't go into the circuitry for
+smooth pursuit. It's, it's quite complex and involves
+essentially all of our visual and visual motor centers that we know about in the
+brain. And there's a figure towards the back of
+chapter 20 in the textbook that will lay all that out for you if you're
+interested. But rather, I think I'll limit our scope
+and focus on the upper motor neuronal control of saccadic eye movement.
+Well, there are essentially two principal parts of the brain that are involved in
+generating the command signals, that are then conveyed into those gaze centers In
+the reticular formation of the brainstem. And at that level, we can consider that
+to be the level of our lower motor neurons, that are coordinating the output
+from our alpha motor neurons that actually execute the movement.
+So I want to back up just a bit, and consider the upper motor neuronal control
+of the saccadic eye movements. And so the two main stations that are
+relevant for controlling saccades from the prospective of upper motor neurons,
+are the frontal eye fields, which are part of the pre-motor cortex.
+And the superior colliculus, which is on the dorsal aspect of the midbrain.
+Ok, so what these two structures do, is that they begin to fire, just before the
+generation of a saccadic eye movement. And that timing suggests that they have a
+role to play in generating the command signals about what kind of saccade to
+make, both in terms of the amplitude of the movement as well as the direction.
+Well, what we find in both the frontal eye field and the superior colliculus is
+a motor map. Now this motor map for generating
+saccadic eye movements is informed by sensory maps that are present in both of
+these structures. And that sensory map represents locations
+in the contralateral visual hemifield. Such that if one were to record from
+neurons in the frontal eye field of the superior colliculus, one could define a
+receptive field that would be present somewhere off in the contralateral visual
+world. If one were then to stimulate the same
+site from which you would record, what would happen is that the animal or the
+person would generate a saccadic eye movement to precisely the location of the
+receptive field of that column of neurons that was, that were just sampled.
+So this is illustrated in the following figure concerning the superior
+colliculus. So what we have over here to the left, is
+a illustration of the superior colliculi. So here's the left colliculus and the
+right colliculus, and what is shown in the left part of this figure is the
+sensory map. So there is an indication of the vertical
+meridian here. So here's the vertical meridian in blue.
+And in red and black, we have the horizontal meridian, extending away from
+the midline into the right visual field. That is represented here in the left
+superior colliculus. And then in black, what we have is the
+horizontal meridian that extends off to the left.
+And so that horizontal meridian, on the left side of the visual midline, is
+represented in the right superior colliculus.
+And if one were to make a recording from different locations in the left and right
+superior colliculi, one can define a visual receptive field, and that's what's
+been done for these sites labeled 1 through 8.
+And these visual receptive fields are indicated by these white regions in the
+plot here to the right. So each white region is roughly where the
+receptive field is located in the visual world for each of the recording sites in
+the two superior colliculi. Well, if that same site in the superior
+colliculus is stimulated, what happens is that we would make a saccadic eye
+movement, to the center of that visual receptive field.
+And this implies that there's some kind of registration between sensory map of
+the world and the map for saccadic eye movements.
+Now one might imagine that this registration of a sensory map and a motor
+map for movement is simply a direct translation of the sensory frame into a
+motor frame for moving within that sensory world.
+But we know that our motor systems work in a more complicated way, that what's
+encoded is not simply some cartesian frame for movement.
+But rather really the intention for the movement or what we sometimes call the
+motor error. Meaning the movement that's necessary in
+order to achieve the goal. And in the case of saccades, that goal is
+to acquire a new fixation target. Well, here's an experiment that
+illustrates some of these points. And I think it's quite interesting, so I
+hope you'll hang with me and just think with me about this experimental result
+for, for just a few mo-, moments. So, the experiment involves an awake
+animal model a monkey that has an electrode implanted in the superior
+colliculus. And the monkey's goal is to maintain
+fixation on a central target. And meanwhile some kind of light is going
+to go on, and this we'll call the target light, T here.
+And so the monkey is still maintaining fixation here, but it knows that it's
+going to have to make a saccade to acquire this new target at this location
+indicated by T. So, this would suggest then that the
+monkey simply needs to look up, okay? Well, here's the experiment, and a very
+clever experiment done by David Sparks and his colleagues.
+this experiment involves stimulating a sight in the superior colliculus, during
+this hold phase, while the monkey is fixating straight ahead but now being
+cued to make an upward eye movement. And stimulation of that site in the
+colliculus causes a shift in the monkey's actual point of fixation.
+And so this shift now changes the fixation point to a new target here.
+And so the, the question is, well, well, what's going to happen when the monkey
+actually makes the saccade to the location of the target.
+If the motor map is being worked out in century coordinates, then one might
+imagine that the saccade that the monkey actually makes is according to a
+retinotopic-based framework or simply moving up.
+Because after all that's where the sensory stimulus was presented to the
+animal, up along the vertical mid line. However, if there's some more complex
+integration of position of the eyes in the orbit of remembering the location of
+the visual cue to which a saccade must be made, then perhaps the monkey will
+actually make a saccade back to the original location of the target T.
+So, so what's going to happen? Is the colliculus employing a strategy
+that simply transposes a retinotopic map into motor output, or is there some more
+complex kind of integration involved. Well, the result to this experiment was
+unambiguous. What the monkey did was it made a saccade
+to the location of the target T, even though its eye position was shifted by
+this devious experimenter that stimulated a particular sight just when the monkey
+was getting ready to make the saccade, that shifted the position.
+So the monkey's eyes first were driven to a new position by the experimenter.
+And then the monkey made what we might call a compensatory saccade, bringing its
+eyes to the location of the remembered target.
+So this experiment really provided great evidence, that the way that saccadic
+movement is organized in the output layers of the superior colliculus, is not
+by simply receiving a sensory framework in retinotopic coordinates.
+But rather the output of the superior colliculus reflects a map of motor error.
+That is, a map of the movement that's necessary to achieve the functional goal.
+In this case a fixating or remembered target, even if the position of the eyes
+in the orbit have been changed, following the acquisition of that target.
+I'd like to make just a few other points about the superior colliculus before we
+move on to the frontal eye fields. And that is that the superior colliculus
+receives input not just from the visual system, but also from the auditory system
+and the somatic sensory system. So what the superior colliculus really
+wants to do is direct our gaze towards a novel stimulus, a stimulus that captures
+our interest or our attention. Not because we decided to look in that
+direction, but rather because the stimulus presented itself.
+So, that stimulus could be a visual stimulus.
+It could be a sound that happens to be off in a direction that might cause us to
+look in that direction. Maybe it's a somatic sensory stimulus.
+perhaps you're just lounging outdoors and you feel something crawling across your,
+your bare foot. Well, maybe it's a, it's an insect maybe
+it's, it's your pet dog or, or whatever. But, it's an unexpected stimulus that
+causes you to look in that direction. So that involves a shift in the direction
+of gaze, with a rotation of the eyes. It may also involve a movement of the
+head and the neck. And recall there are output pathways from
+the superior colliculus that are directed down towards the spinal cord.
+We think that they probably operate through reticular spinal connections, but
+there may actually be a direct projection from the superior colliculus to the upper
+cervical segments of the spinal cord, that mediates this movement of head and
+neck that allows us to change our visual fixation from one location to another,
+being driven by a sensory stimulus.

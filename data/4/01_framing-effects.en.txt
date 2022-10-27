@@ -1,0 +1,80 @@
+Welcome back to Cyber
+Security for Everyone. I'm Dr. Charles Harry. We've been talking about in the last module all about
+the hacking process. At the end of that process
+were the actions of the hacker or the threat
+actor has on target. In this particular module, I want to focus on how
+we talk about effects. Specifically, how do we
+frame these effects? We know that threat
+actors are motivated to exploit vulnerabilities in
+systems to achieve an effect. That motivation stems
+from financial purpose, nationalist, reputational,
+or even activism. They exploit vulnerabilities
+and utilize trade craft to position themselves in the right location
+in your network. They use the hacking process and through that they
+conduct reconnaissance, deliver exploits, and control access to the malwares
+in your network. Then they execute intended,
+sometimes unintended effects. What effect is achieved? Is this a private problem
+for the organization, or is this a broader
+public concern? Remember in our last episode, we talked specifically
+about the range of effects and how
+they are sometimes difficult to characterize. You can have effects on
+IT systems where there's a direct interaction between the hacker and the
+specific devices. They can have data
+stolen or they can make devices inoperable. Those effects could be
+measured in terms of amount of data loss or impacts
+to productivity. But that's not the
+only type of effect. Because the impact on
+those specific devices can cascade to broader effects
+across the enterprise. Specifically, the
+devices that are impacted affect human processes. Things like payroll
+or the ability to manufacture a product
+or a service. Those human processes
+that support the organizational goals
+can also be disrupted. Those effects can be measured
+in terms of revenue lost, remediation costs, impacts
+to market capitalization, or even brand effect. Then there's the broader
+effects on society. As organizations fail, they can impact other organizations
+or individuals. Those impacts could be physical, economic, or
+behavioral in nature. What effect do hackers generate? We have the entire
+hacking process from reconnaissance
+to actions on target. But those actions
+on target lead to this ecosystem of end effects
+at the IT system level, at the enterprise level, or even at society. Not all cyber attacks
+then generate the same type and
+severity of effect. Some cyber attacks
+are going to generate large impacts on specific
+targeted systems, but have no discernible effect on the enterprise's operations. Other cyber attacks might
+not impact many computers, but might cripple an organization's
+ability to function. Some might even cause
+profound impacts on other businesses or
+society at large. The question then becomes, how can we frame and further
+analyze cyber effects? Well, one way to really think more broadly about
+this problem is to start to characterize these different effects
+in different groupings. We can use what are
+called primary effects, where these are the impacts on the directly targeted systems, and differentiate that from what we would call secondary effects, which are the impacts on organizational processes
+and capability. Further distinguish that from second-order effects or the
+impacts on broader society. Depending on what type of
+effect you're talking about, each category can be
+measured differently. Different attacks provide
+different effects. Defacement of a website where
+the content is modified, the files are quickly
+restored, maybe in, perhaps as few as 30 minutes, really is probably not going to directly impact
+your ability to, let's say manufacture tires. The cyber attack on something
+like defacing a website, the effect is primarily
+going to have primary and localized effects on the IT systems
+that were attacked. But that might be completely different than ransomware
+being deployed on an assembly line where
+devices that are controlling the manufacturing line are made completely inoperable
+for 72 hours. There's no manufacturing
+that's able to take place during
+that period of time. The cyber attack creates
+primary, secondary, and maybe even second-order
+effects because other firms that are relying
+on those manufactured tires, like a car manufacturer, may have difficulty meeting
+their own obligations. What are some of the takeaways? Well, cyber attacks can
+generate a range of effects. While some attacks only
+affect the targeted machines, others can create larger
+emergent impacts. It's useful to categorize
+these effects as primary, secondary, or second-order
+effects or impacts. In our next episode, we're going to explore
+primary effects. I hope to see you next time.

@@ -1,0 +1,200 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. This is one of my favorite
+parts of the course. This is what people typically think of,
+when they think of basic genetics. And that is basic single gene inheritance. In the last video, that you saw. We talked about the process of mitosis, which starts with a diploid cell, having
+two copies of all genetic information. And forming new, two new diploid cells
+that are genetically identical to each other and genetically identical to
+the parent cell from which they came. Now meiosis which is what
+we'll be focusing on here, you start with a diploid cell again,
+having two copies of genetic information, and you make a haploid gamete,
+has only half the genetic information. Now, this haploid gamete comes
+together with another haploid gamete. Boom! Fertilization happens and you have a new diploid cell that is
+different from either of the two parents. That is really cool. So, let's talk about that briefly. Meiosis and fertilization are what
+are needed for, what's referred to as, Mendelian inheritance,
+Gregor Mendel was a monk who actually described this process very elegantly,
+and identified how this actually worked. He lived from 1822 to 1884 in Austria. What he worked with were pea plants. He identified a number of traits
+that he was studying with these. As you can see here,
+seed form being round versus wrinkled, seed color being yellow versus green. Pod form, inflated versus restricted,
+etc., etc. There were a lot of traits he looked at. What he found was that some forms
+he referred to as, quote, dominant. And dominant meant that if you bring
+together a round form and a wrinkled form and cross them together, the offspring
+would actually just be round. It is not intermediate but
+would actually just be round. So from this he identified some
+simple rules of inheritance. Now we can understand dominance and
+recessivity from these simple forms. So let's use in this example
+true breeding green pods and true breeding yellow pods and
+cross them together. Okay, now when I say true breeding,
+I mean all of their offspring when they are bred with others that
+look like them, look exactly the same. Now what we'll do in this case,
+is we'll identify the genetic factors that they have, or
+the alleles that they have using a letter. Typically, but not always, the capital letter is
+associated with the dominant form. So in this case, the true breeding green
+pods are dominant, so it is big Y, big Y. Again, it has one copy that came from its
+dad, one copy that came from its mom. What gametes can it give? It's only got big Y, so
+its gamete would have to be big Y, with respect to the form of this pod,
+with respect to it being green. These are guys right here, the yellow pods
+there was referred to as recessive and I'll show you why that
+is in just a second. They are little y little y, again they
+have little y that came from dad, little y that came from mom. All they have to give are little y's. The F1s are the offspring
+of these two things. The F1 is offspring from a cross. Well they'll get the big
+Y from this person, or from this plant, and
+the little y from this plant. So they are big Y and little Y. Nonetheless, they are all green. So in this case, we have a masking of
+the yellow color by the green copy. Right. The masking of the yellow
+color by the green copy. So big Y, the green one,
+is definitely dominant. Little y is definitely recessive because
+you don't see it when you have one of each in there. What will this plant over here give off? Well, he has two different gene copies. He has a big Y and a little y. So he can give either
+of these to his kids. So what happens when we breed these F1s? So this big Y and
+little y are referred to as heterozygous. Heterozygous meaning having
+two different alleles at a particular gene that we're looking at. In this case being the pod color gene. All right, so that have both. They're heterozygous. So we can use what's referred
+to as a Punnett square to follow patterns of inheritance. Now it's equally likely for
+it to give one copy as the other copy. So we'll take a boy that's big Y little y. So here's your boy big Y little y. Here's your girl big Y little y. Now half of the gametes from
+the boys will be big Y. Half the gametes from that
+same boy would be little y. Half the gametes from the girl will be
+big Y, half the gametes will be little y, from the girl. So the possible combinations,
+the boy might give this big Y, the girl might give this big Y, and
+we may get a big Y, big Y individual. Well we know, that is green. The boy may give big Y,
+the girl may give little y, well we know when you're
+heterozygous you're still green. The boy may give little y and
+the girl may big y, still green. And only in this case,
+when the boy gives little y and the girl gives a little y,
+do we get a yellow pod plant from this. So the ratio we should get is
+three green to one yellow And that in fact is actually
+the ratio that Mendel saw. So here are some actual numbers
+from Mendel, he saw 428 green and 152 yellow peas from this cross. That's very similar to
+the expected number. So that's great. Now Mendel put out various laws and
+these laws have postulates within them, so let's go over that briefly. So Mendel's First Law
+has three postulates. First that we have unit factors in pairs. So basically every gene,
+you have two copies of it. This is assuming you're a diploid. You get one allele from your mom, and
+you get one allele from your dad. Similarly, if you're a boy like me,
+you will give one allele to your kid, your spouse will give one
+allele to the same kid as well. There's also this feature of dominance or
+recessivity, you don't always see this, it is possible sometimes to have,
+say a red plant and a white plant come together and
+make a pink plant. But sometimes you do see this where one form completely masks
+how the other form may look. So you could have a green and
+a yellow pod, as you saw, and the offspring looks
+just as green as the dad. And finally, we have the equal
+segregation of gametes, all right? So you have these two factors,
+the big Y and little y, and you're equally likely to transmit either the big
+Y or the little y to one of your kids. You could transmit the big Y sometimes,
+the little y sometimes, you don't have any control on it,
+but it's a 50 50 shot. So let me get your view
+of problems to try, first I'll do one with you and then I'll
+give you one just to try on your own. Let's imagine you were
+a farmer working on corn. Okay.
+Now let's say that you have pure breeding tall and
+short strains of corn, and you've heard that this is
+caused by a single gene. This, by the way, is very very unlikely,
+but let's just pretend it's the case. So you cross the tall and
+short strains together, and this case you get strains that
+are intermediate in height. So in this example we don't actually have
+dominance like in the previous example. So you cross these intermediate height
+parts together what would you see? Well let's work through this together. So again we started with pure
+breeding tall and short strain. Let's imagine the alleles we're
+working with are big T for tall and little t for short. Okay. So let's measure these are the two
+forms we're working with. Now what would these
+intermediate strains be. Well since we said they were crossing a
+pure breeding tall which was big T, big T. So pure breed short was gonna be little t,
+little t. The intermediate ones could
+presumably be big T, little t. Big T, little t. So what are we going to
+get in the offspring? Well, there's a lot of possibilities. We could get big T, big T, so this is big
+T coming from dad, big T coming from mom. We could get big T, little t. We could get big T, little t or
+we could get little t, little t. In this case, this is little t from dad,
+big T from mom. Or, in this case, this is little t
+from dad, little t from mom, etc. So, where do we see it with this? Well, in this case,
+we have one quarter here would be big T, big T,
+which we will identify that as being tall. Big T, little t, we have identified
+that as being intermediate, so do one quarter intermediate. Down here we also have Tt,
+so one quarter intermediate. And then finally one quarter short. So basically a quarter will be
+tall half will be intermediate and a quarter will be short so
+the ratio would be one to two to one. Okay? Let me give you an example
+now to try yourselves. So this is starting similarly. You're a farmer working on corn. If you're pure-breeding tall and short
+strains together, you cross the tall and short strains together and
+you get intermediate height corn. This is, again,
+very similar to the previous problem. You cross the intermediate height
+corn to the tall corn now. So you're crossing your relay
+corn to pure-breeding tall corn. What will you find? Welcome back. I hope that was not a particularly
+difficult problem, but let's work through it nonetheless, okay? So. You started off in this case you had,
+you had your intermediate corn, so this is just like the previous example. However, rather than breeding
+the intermediates together, you're breeding intermediate corn
+with pure breeding tall corn. So this is a little bit
+different than last time. So here's your pure breeding tall corn. We'll just say that's the female. It doesn't really matter
+which one's which. And we'll say your intermediate
+was the male down here. Well in this case,
+there's actually fewer possible offspring. So you can T from here,
+T from here and you get TT. Here you get T form here,
+T from there, TT again. So you can see half
+the individuals are TT. You can add T from Mom and t from Dad. And again, big T from mom and
+little t from dad. So in this case, unlike in the previous
+example, you would get one half tall corn and you would get one half,
+two fourths, intermediate sized corn. You would not, in this case,
+see any short corn coming out from here. Now, I hope this illustrates
+something to you, especially contrasting to the pea example. And what I hope this
+illustrates is that dominance does not matter in how offspring will. No, I'm sorry, dominance matters
+in how things will look, but it does not matter in
+how gametes will pair. You know what, we could use
+the same kind of Punnett square, we use the same sort of Punnett square,
+for things which exhibit dominance as
+things which do not exhibit dominance. Because dominance only
+effects how things look. It does not effect how pairing happens,
+okay. So let's try out a medical
+example in this case. So about 12% of women,
+on average, get breast cancer. And there are known mutations
+in the FGFR2 gene that are associated with an increased
+risk of breast cancer, okay. So let's call this case
+the non-mutant form, FF, and let's say that they have
+the default 12% risk of cancer. If you're heterozygous, if you're Ff,
+you have a 20% higher chance, so you have about a 15%
+risk of getting cancer. If you ff, this is the worst one,
+you have a 19% risk of getting cancer. Cancer, okay? Now in this fictitious example let's say
+that, that you're going out someplace. You're, you're an attractive female. You meet somebody you know,
+sitting in a cafe. Have a nice chat with them. And let's pretend this is in the future. Let's say it's ten years from now. They leave, you pull out your
+little iPhone, and you go, boop! And you use the DNA scanner
+on their coffee cup. And you say, oh my goodness! He is heterozygous for the FGFR mutation. [LAUGH] So let's assume that
+you are homozygous big F, so you have the lowest
+probability of breast cancer. But your potential hubby
+is a heterozygote. He is big F, little f, and
+again I put here all the probabilities, so you can see where everything was. What is the probability that
+your daughters would get breast cancer if you were to have
+kids with this potential hubby? Basically, how much does it increase it, relative to if you had kids with
+somebody who is just like you? Well, we can do this very easily, so
+your potential hubby which is big F, little f You are big F big F. So we're just looking at your daughters. We're not worrying at all
+about your sons in this case. Well, half your daughters will be big F,
+big F. So half of your daughters
+will be just the same as you. Half your daughters will
+have this mutation, cuz it'll have the thing
+coming from your new hubby. So there's a slight increase, but these ones have a 12% chance of getting
+breast cancer based on this gene alone. Of course we're not considering everything
+else, like lifestyle and other genes. These ones have a 15% chance
+of getting breast cancer. So on average, instead of having a 12%
+chance of getting breast cancer, your daughters would have about a 13.5%
+chance of getting breast cancer. It's averaging all four of
+those numbers together. So really the guy is only
+increasing your odds of having daughters with breast
+cancer by about 1.5%. So, you can decide if
+that's important enough, or not in terms of what you
+want to keep this hubby. And we'll see if this sort of iPhone
+app ever comes about in the future. That's just a fictitious example and a humorous one just to give you
+an idea of what's happening here. Now, we can do the same type of cross with
+unknowns and actually infer the parents. So albinism, being an albino,
+is inherited as a recessive in humans. Now, what if you have a case
+of a non-albino mom and an albino dad and they have eight kids. I'm gonna say four of these
+eight kids are albino. Can you infer, just from the information on this slide
+what the geno types are of the parents? Welcome back. I hope that one wasn't too difficult for
+you, but let's go ahead and work this one out. So, we have a non-albino mom and
+an albino dad, and they have eight kids,
+four of which are albino. I said albinism is inherited
+as recessive in humans. Because it's recessive,
+since the dad is albino. The dad necessarily has to be
+homozygous for the recessive. So let's call it A. So dad has to be little a, little a. Now mom is non-albino, so she could be big A,
+big A or big A, little a. Right. Now what if mom was AA? If mom was AA and dad was aa,
+all the kids would be Aa. So none of them would actually be albino. So given that we know that four of the
+kids are albino, we can cross this out, and we can say, in fact, mom must be Aa. So in this case,
+from looking at just the phenotype, from looking at how the individuals look,
+that's why you go by phenotype, and from looking at what happens with the
+kids, we can actually infer the genotype. Basically, what is the underlying
+genetic components? What alleles do they have within them and
+what combination? So, I hope this was useful,
+and I hope you'll enjoy it. We'll do some more complicated
+things later on and you'll have some practice
+problems to work with as well. Thank you.

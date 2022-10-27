@@ -1,0 +1,122 @@
+Although behavior responses
+are usually easier to observe and more accessible to us, we mustn't ignore the fact that there are
+a variety of other measurements that could be used to provide us with information
+about how the animal is functioning. >> Both behavioral tests give
+us much more direct access to how an animal is experiencing its life. We can also use physiological
+measures of welfare because they provide an indirect
+measure of an animal's experience. >> There is a sequence that makes
+up an animal's overall experience. Firstly, the animal gets sensory
+input from the environment. Then the brain evaluates this information
+in relation to a number of factors, including the animals
+previous experiences. This process may lead to activation of the
+parts of the brain that control emotions causing a response that might be positive,
+or negative, or even neutral. The body responds to the emotion with
+behavioral and physiological responses. These reactions enable the animal
+to adapt to its environment, enabling it to return to normal,
+something that's called homeostasis. When faced with something that is
+quite a complicated internal response, welfare researchers have broken this
+down into the various components that relate to the animal's physiological
+response to a stressful situation. This is made up of an immediate response
+system sometimes called the flight or fight response to ensure that
+the animal is capable of escaping or attacking if need be to protect itself. As well as one that caters for
+the longer term requirements to maintain the response, and then to ensure the
+animal's body function returns to normal. Being on constant alert is
+an energetic business, and the sooner the animal can rectify the
+situation through it's behavior responses, the sooner the things
+can return to normal. >> Activation of the stress response
+occurs when an animal perceives something, we call that a stimulus
+as being of significance. Usually that's something that is
+frightened of or that's painful and is threat to it's well being. Immediately the body goes into protective
+mode and a coping mechanism is stimulated. The amygdala is an area of the brain where
+the animal's emotional centers are and a threat will cause a chain
+of brain chemical responses as a result of activation of
+the Sympathetic-Adrenal-Medullary Axis, sometimes called the SAM axis. Immediately, there will be a rise in
+the blood hormone called adrenaline, which will provide that energy burst
+needed to respond effectively. At the same time, there is a slower but
+more longer acting response being initiated in the part of the brain
+next to the amygdala, the hippocampus. The Hypothalmic Pituitary Adrenal axis,
+or HPA axis, controls reactions to stresses,
+and regulates many body processes, including digestion in the in function,
+and even mood. Activation of the HPA axis is
+associated with increases in hormones such as cortisol, which can be measured in
+an animal's blood, saliva and even feces. Measurements that can be made to see
+if the SAM axis has been activated include heart rate and
+heart rate variation. And this is often used in animal welfare
+studies as a way to very simply record immediate responses to changing situations
+within an animal's housing environment and in relation to handling by humans. Another measure of SAM
+activity is adrenaline. And although it requires multiple quick
+succession sampling, it can be useful for looking at the immediate
+consequences of painful situations such as the impact of branding on sheep. As can be seen from the graph, hot branding shown by the red bar
+leads to a much higher rise in adrenaline 30 seconds after the branding
+iron has been applied, as compared with the freeze branding that is no different
+from having no brand applied at all. Whilst useful, the use of measures
+of some axis activity for assessing animal welfare are limited
+because of the short term nature of the response, which is why the HPA
+axis measurements are useful. The HPA axis responds more slowly. For example it can take an average
+of around two to ten minutes, for a rise in the levels of cortisol
+in blood to be measurable. But this does mean that
+it's easier to measure, and to work out recovery over time. >> There are a number of events in
+an animal's life that can cause a stress response, but these are not all
+necessarily of welfare concern. Some may be positive emotional
+experiences and important for enabling the animal to learn. Humans often seek out experiences that
+cause a fear or stress response, such as the adrenaline surge associated with
+driving a fast car or even bungee jumping. Stress has only become a concern for animal welfare when the animal is
+being continually challenged and stressed beyond it's capacity to
+emotionally and physically cope. In turn this can cause changes within
+the immune system leading to increase disease susceptibility, poor growth,
+and reduced production. All of this results in animal suffering. >> When the HPA access is activated the
+result is a cascade of chemical responses in different parts of the animals brain
+and body that leads the pituitary gland to release a hormone called Adrenal
+Corticotropic hormone, which is ACTH. This in turn stimulates the adrenal
+glands to release circulating hormones, Glucocorticoids. The one that's most commonly
+measured in mammals is cortisol, and in birds, corticosterone. Measurements of cortisol can be made
+to identify the situations that cause a negative stress response
+by looking at levels in blood and also saliva, urine, feces, and even milk. Although sampling blood may not
+always be possible, sampling urine, milk, and saliva is relatively easy,
+and in general, noninvasive, providing a practical
+option that can be better for welfare. In this example,
+you can see the way cortisol differs in two environments where pigs
+are housed for giving birth. Sows in open pens with straw
+where they can build a nest had far lower cortisone levels, than those
+kept in farrowing pens on hard floors, with no possibility of building a nest. In order to use this method,
+samples need to be analyzed for cortisol concentration
+by a trained person. There are too main methods, and the one being used here is
+called the Eliza method. >> I'm Susan Richmond. I'm a PhD student here with SOEC and
+University of Edinborough and I'm in my third year and we're looking at new ways
+to assess the welfare of hill sheep. And Eliza is an enzyme linked to which
+we're using to look at the presence of in sheep feces. Then Eliza can be used for looking at
+the concentration of other substances and in other bodily fluids such as saliva,
+blood, urine and as well as the feces that we're using. We have a few methods that we're using, a few indicators that we're using
+to assess the sheep's welfare. And we have a variety of behavioral and
+physiological measures. And I'm using the for the physiological
+measure, for the assessment. We followed our protocol for
+the initial stages and now we're left with this plate,
+which has our sample, our antibodies attached to the wells,
+and also other chemicals in there, and we can put the plate into the plate reader
+to look at the concentration in the wells. The plate reader reads the plate and
+in a matter of seconds and this is one of the outputs that we get. You can see the graph and
+the values in the cells below. And we can see here that this graph here
+shows our standard curve and we do that to make sure that we can trust the results
+that we're getting from the plate. And because we have the same
+individuals on the one plate, and I can look at how that
+individual's changing over time. So across the seasons and gestation and also look if we have any other data on
+the animal, any other health problems, any leaveness and other behavioral
+measures to look at how these are changing as a whole throughout the whole
+picture of the animal. We can't just rely on this one measure
+to tell us everything we need to know about the animal. And as we been collecting a variety
+of behavioral measures along with and some other physiological measures. We have to look at cross
+validating these two things. So whether physiology is cross validated
+with the behaviour and vice versa. To build a more true picture of what
+the animal is really experiencing. >> There are a variety of
+different hormones and challenge tests, as well as immunological
+measures, that have now been developed. But none of them are without
+their limitations. These are mainly down to the problems
+with getting a sample without stressing the animal and influencing the situation. The need for laboratory facilities for
+analyzing the samples, and the challenge of interpreting what
+the results really mean for that animal. Measuring the animal's physiological
+stress response cannot tell us everything that we want to
+know about an animals experience, we also need behavioral measures, and in
+order to interpret the results we need to look at how the physiological measures
+relate to what the animal is doing. This is why animal welfare scientists use
+a battery of measures together to make sure that they have the best evidence for assessing the situation from
+the animal's point of view.

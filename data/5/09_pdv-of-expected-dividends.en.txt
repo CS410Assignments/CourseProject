@@ -1,0 +1,122 @@
+What does the stock market value? Now as I said last time, a lot of
+people think the stock market, you buy into the stock market so that it goes
+up and you can sell at a higher price. But was is it? What are you pricing? Well, some people have
+never thought about that, they just want to know whether it goes up. So what I was saying last period,
+I'll repeat it, that most of the return people
+have gotten historically from stocks is in dividends,
+not in capital gains. And in fact,
+it's correct to think that efficient markets implies that what
+you're really pricing in the stock market is
+a claim on dividend. Suppose a company were to say we
+will never pay a dividend again. Now we're going to put it into our charter
+that we will never pay a dividend. All of our profits go to charity,
+let's say. Well, you can do that, but
+what's the value of a share? There are no shares, if there were,
+they'd be meaningless, so they'd be worth nothing. So it's all about dividends,
+there's two important ratios. There's the price earnings ratio, price
+per share divided by earnings per share. And there's the price dividend ratio,
+typically dividend price ratio, where it's dividends per share
+divided by price per share. Now let's simplify things and
+not worry about that distinction. Suppose a company is paying out
+all of it's earning as dividends, then the two are the same. So let's just talk about
+the price earnings ratio. What does that mean? It's different for different companies,
+some have a high price earnings ratio. It could be as high as 100,
+that's very unusual. Which would mean that you'd have to wait
+100 years to get your money back based on dividends, if you bought it. That's a long time to wait, more typically the price earnings
+ratio is something like 15. So you'd buy a share and
+in 15 years, if you're getting all the earnings as dividends,
+you'd have your money back. So the price earnings ratio should be
+something like that, like 15 right? 10, 15, 20, not 100, you wouldn't buy into an investment
+that takes 100 years to pay out. So what determines
+the price earnings ratio? Well, I refer to the idea that efficient
+markets idea is that the price of a share is the present discounted value
+of its expected future dividends. And then I can apply the Gordon Rule,
+which I mentioned recently, which says the price should be equal
+to earnings divided by r minus g. Where r is the interest rate or
+discount rate, and g is the growth rate of earnings, so the
+price earnings ratio is 1 over r minus g. Now this is a very important model,
+because it gives you a theory it's an efficient markets theory,
+why some firms have high price earnings ratio and others
+firms have low price earnings ratio. It always has to do with r and g, those are the only thing
+that goes into this formula. So if a company has a low
+price earnings ratio, according to efficient markets,
+according to this, I should say efficient markets
+is not precisely defined. There are many different
+efficient markets models, but I'm taking this sort of basic
+canonical present value model of efficient markets. And it would say if a company has low PE, that means either r is high for
+that company, or g is low for that company,
+or a combination of both. Now why would r be high for a company? Well if you believe the standard
+theory which has been taught for 50 years in finance courses, we have
+the security markets line remember? The expected return on a stock is a function of it's
+covariance with the market. So that would mean that companies
+whose return covaries with the market should tend to have via this r thing,
+should have low price earnings ratios. In simple terms, they're riskier
+in the correct sense that provide. They're riskier in that they
+co-vary with the market. The other thing though is g. Some companies have very
+high growth prospects. That everyone knows, they have some
+patent say, or some good technology. Nobody can compete with them,
+they're just starting out. Of course you expect
+their earnings to grow. But in efficient markets,
+that's not a reason to invest in them. Because the price will reflect
+the growth in earnings already, so it will already be discounted
+into the present value. So anyway, high growth companies should tend to have high PE,
+a low PE would be a low growth company. There are often good reasons for
+a low price earnings ratio. One is that the business is very risky and
+so people don't want to put
+a lot of money into it. And another one is that the business might
+have a poor earnings growth outlook. That earnings is likely to fall,
+the classic example of that is rail roads. That was the in thing in the 19th century, by the early 20th century it was
+looking a little bit old fashion. And we've gone another 100 years, so they're really not the most
+rapidly growing investment. So they get beaten down,
+the price gets beaten down. But you know what? Railroads are here to stay, and there's always a price that
+makes them a good investment. So when were railroads a good investment? Well, I was thinking around 2000,
+when the market was at a peak. Well I call them Millennium Peak. And it was all this
+Internet dot com stuff. You shouldn't have been
+buying dot com then, usually. You should have been buying
+railroads because they were just forgotten at the time. The question is, does it work? Does the efficient markets model work? Well, I've been always saying that
+efficient markets is a half-truth, and it sort of half works. Especially with as I say,
+railroads are not high PE stocks. But there's another
+approach to investing which goes back many years called
+value investing, okay. Notably Benjamin Graham and David Dodd who were teaching
+finance at Columbia University in the 1930s they wrote a textbook
+called Securities Analysis. And in that textbook they outlined
+their thought that PE varies for other reasons than just this technical
+reason that we talked about, because companies go in and
+out of fashion. And when they're hot,
+people bid them up too high. And then when they're ignored, they just
+ignore them and forget about them, and they get low PEs. So value investing, as outlined in 1934
+by Graham and Dodd, is still with us. And it still works, although it
+hasn't worked in the last five years. It comes and goes., but
+generally it has worked. This is going to apply also to real
+estate, but let me just move on to. This is a figure from the third
+edition irrational exuberance that you have and
+it gave some sense of value investing. The thin black line is the stock price, it is the S&P 500 index corrected for
+inflation back to 1996. And the solid black
+line is a tabulation of a questionnaire item I've
+been doing since 1996. So I started doing surveys,. Actually, I started in the 1980s
+doing surveys of investors. These are individual investors,
+high income. I mean, income $200,000. I figure those are more
+representative of the stock market. I like low income people, but I don't survey them when
+asking about the stock market. So the question was do you agree
+with the following statement? Stocks are the best investment for
+long-term holders who can buy and hold through the ups and
+downs of the market. I'd heard that phrase said so
+many times in 1996 that I thought, I better start tabulating. Do people believe that? Now, this theory is not
+what we say in this course. This course emphasizes diversification and not looking for the best investment, but
+I just want to know what people think. To my amazement,
+almost everybody thought that's right, stocks are the best investment. So you can see, in the year 2000
+which I have marked up here, the something like 95% of these people
+thought stocks were the best investment. Now there could be a little of a bias. These are people who agreed
+to fill out my questionnaire. They must have found it interesting,
+so it may not be completely accurate. But it's certainly
+an awfully high proportion. I almost don't believe results like this. It was really into the culture that
+smart people invest in the stock market. But you notice the stock market had
+been rising for years prior to that. And this is the peak of what I call
+in the book, the Millennium Bubble, this is the new millennium. And then we celebrated the new millennium. It was great, do you remember it? Probably not very well. And look what the stock
+market did right after it. And then look what happened
+to opinions about stocks are the best investment right after it. It came down with it. The stock market bottomed out. So did their agreement with that. Now it's not a perfect fit,
+but I see a strong parallel. This inclines me to value investing. This question didn't ask about, do you think the stock market will go
+up next year or the next two years. It's about stocks are the best investment. It's like timeless. So why should opinions about something so
+timeless be so variable through time? And why are they so influenced by
+the recent behavior of the market? But I think that's human psychology and
+behavioral economics.

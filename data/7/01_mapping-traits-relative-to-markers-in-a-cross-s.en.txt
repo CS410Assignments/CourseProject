@@ -1,0 +1,146 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In the previous videos we looked at how
+to study the process of recombination. And specifically, how we can leverage
+recombination to actually map genes associated with diseases. And again, as I have said
+several times we are looking for an association between alleles
+at markers such as these HAPMAP snit markers that we discussed and
+a phenotype such as disease status that is essentially what we're
+trying to do with genetic mapping. Now what we're gonna do in this video
+is we're actually gonna try to map simple genetic traits. So traits controlled by one gene
+that have a very large effect on that trait relative to
+genetic markers in a cross. So we can actually use HapMap markers just
+like we used the Drosophila mutations in previous videos to map simple genetics. So you remember we did these problems
+using these three genetic markers, A, B, and C. And we did the case of the test cross
+with an individual that was heterozygous for all three. So, big A little a, big B little b,
+big C little b, crossed with somebody who is homozygous, little a little a,
+little b little b, little c little c. Now, we can imagine that A and B are SNIP
+markers so they necessarily have two or more alleles and that they have
+a known location in the genome. And what we can say now is
+maybe C is the disease gene. So what we're trying to actually
+do with a lot of genetic mapping, this isn't all of mapping but
+part of mapping, is determine whether C, the disease gene,
+is between a certain pair of markers. And secondarily, about how far is it? Is it, for example, between A and
+B, and if so, is it closer to A, is it closer to B? Or is it off to one side? Is it maybe out past A,
+and further away from B? That is genetic mapping. So let me illustrate this with an example. I will be using concepts very much like
+what we did with the Drosophila mapping of genes. Let's use sickle cell anemia. Now, this disease is recessive, meaning you have to have two copies of
+the mutant type to exhibit the disease. Alternatively, you only have one
+copy if you're a heterozygous, we refer to you as a carrier. That means that you probably had a parent
+who had the disease, for example. Not necessarily, but you probably did. Now, let's imagine you're surveying a lot
+of families and you have multiple cases of carriers, these individual
+that we know are heterozygous for the disease having kids
+with affected individuals. When I say affected individuals I mean
+ones who actually have the disease. So you're crossing someone
+heterozygous for the disease, the carrier or somebody homozygous for
+the disease so this is again just like
+the test cross we did before. Now let's say you have the genome
+types for the parents and for the offspring now you don't know
+what the gene is causing the disease. This is a very important point. You do not know what or
+where the gene is causing disease. When I say you have the genotypes for
+the parents and offsprings, I mean you have their
+genotypes for a bunch of genetic markers. You don't know where among those
+markers the disease causing gene is. So let's focus on two genetic
+markers on chromosome 11. Let's say that you've already, from
+something else, you already have some idea that this disease is caused by mutation,
+or chromosome 11. Which actually is true, by the way,
+for single cell anemia. Let's say you have two markers, let's
+say the A marker is at this point, and there's a picture of
+chromosome 11's chromosome. And say the A marker is at this location, I just made this location
+up don't worry about that. That's a big A, big A might be
+an individual's homozygous for the letter C for
+the nucleotide C in that position. Big A little a has T at one copy,
+and C at one copy. And little a,
+little a has T at both copies. This is irrelevant. I just wanted to give
+you some idea of what I mean when I'm saying these
+snip markers and [INAUDIBLE]. So this is something just to make it
+more real in the context of it being a [INAUDIBLE]. The important thing is that A is over
+here on the chromosome and B in contrast, a little bit lower down on the chromosome. So, what are we trying to do? We're trying to see is the gene causing
+sickle cell anemia between A and B, is it down below B, or
+is it at that little area above A? That's what we're trying to figure out. So, let's say that you have some data now
+from the sets of families I mentioned. And this is what the family
+data looks like. Now, again we have the genotypes just for
+A and B. We don't know anything about C except
+by virtue of disease status, okay. So, initials are big A,
+little a, big B, little b. So, you know, they're heterozygous for
+both the A and B markers. 416 of them were healthy,
+and one was diseased, okay? So, most of them tend to be healthy
+if you're heterozygous for both. Those are little a, little a,
+little b, little b. Most of them, or actually, all of them,
+in this case, are a disease. If you're big A, little a, little b,
+little b, so you're homozygous for little b, but you're heterozygous for
+the a marker. You're mostly healthy,
+there's a couple of diseased individuals. And this case, little a, little a, Big B,
+little b, most of them are diseased. So, look at this for just a minute. And speculate whether
+you think marker A is closer to the disease-causing mutation or
+marker B is. Again, remember mapping is the looking for an association between genotype and
+phenotype. So what you wanna do in
+looking at this right now, it's just like the problem
+in a previous video. Look and see. Does your genotype just
+at A predict the disease? Does your genotype just
+at B predict the disease? All right, let's take a look now. So, at A, just looking at A, or
+actually let's start with B. Just at B, big B, little b. So this one's big B, little b. Almost all of them are healthy. This one down here is also big B little b. Almost all of them are diseased. This one's little b little b. Almost all of them are diseased. This one's little b little b, and
+almost all of them are healthy. So b really doesn't predict
+the genotype very well at all. What about A? Well this one's big A little a and
+almost all healthy. This one's also a big A little a and
+almost all healthy. This one's little a little a and all
+diseased this one's little a little a and almost all disease so clearly in this
+case A the genotype at the A marker is more predictive of whether you have the
+disease than the genotype of the B marker. So we can assume that A is probably
+closer to this disease causing mutation. And we haven't said whether
+it's between A and B or not. It could be in that little area above A,
+as I said before. What we can do if, and
+this is an assumption, if this is a simple genetic trait. Meaning a trait that is fully explained by
+a single gene having a very large effect. What we can do is we can split this
+section up, this whole section over here. And just infer what's going on
+at the disease causing mutation. So we're saying that these ones
+are healthy, and this one is diseased. Well if you only get the disease when
+you have the mutation then this one must necessarily be little c, little c. And this one over here must
+necessarily be big C little c alright. Because these ones are carriers,
+they're healthy, these ones are diseased. So let's break that up. Again we have another gene causing disease
+so we're just splitting this row up. So we're taking this original problem
+where we're looking at two marks and basically now looking at three. The third being what we're inferring to
+be happening at the disease causing gene. I split this up relative to
+disease status and that was it. So what we can do is we can split up all
+these other ones like this one right here. These ones necessarily are big
+C little c there aren't they? These ones would be little c, little c. And we can continue the same
+process that I just did. So I just broke up everything here from the previous slide into
+the set of individuals. And again, we're assuming that
+big C little c are healthy. They're carriers of the disease, but
+they don't actually exhibit this disease. And little c little c,
+in this case, are all healthy. So, without doing any math,
+without doing any math at all, I want you to tell me
+the order of the genes here. Is C the disease causing
+mutation between A and B? Is it off past B or is it off past A? Very simple. What you do in this case is
+you just try to figure out which one is the double recombinant and
+from that and since you know the phase, you can
+identify which gene is in the middle. Double recombinants
+are always the rarest class. In this case the rarest class
+will be these right here. Now when we look at this, which two of
+these genes are in the same phase and what's the third one that's in a different
+phase relative to the parents? So, here are the parentals, and we can confirm that is actually
+the parental phase cuz that's most common. And, we look over here,
+the rarest two have C, being coming from the other chromosome. Whereas the capitals are together,
+just as they should be. So little a and little b, big A and big B,
+C is necessarily the double recombinant, so we must have had something like this
+to get the double recombination event. So the order must be B, ACB. So C is, in fact, in the middle. Now what we could do is from those numbers
+you saw, and you can do do this for practice is you want. You can go back and actually calculate
+the recombination fractions. The recombination fraction between A and
+C is only 0.8 centimorgans. Or if you calculate it
+directly it's 0.008. Between the C and B is 15.1%
+recombination or 15.1 centimorgans. So we can infer from this
+since A was at 11p15.6, B is at 11p12.3,
+C is probably at or near 11p15.5. In fact this gene is actually
+well known to be at 11p15.5 and it actually has already been mapped and
+identified. Now let me conclude this video by just
+recapping one very important point, the goal of genetic mapping is to localize
+alleles and genes that cause disease. And what your trying to do is your
+trying to find where is that mutant allele like which gene has it? 'Cuz, again, the genes don't came labeled, even when you have the full
+human genome sequence. The genes do not come labeled. Some markers will be
+associated with disease. And those ones that show that
+strong association, where, alleles at those markers, the genotype at
+those markers, will be associated with. Whether or not you have a disease. It will predict whether or
+not you have a disease. Those are ones that will be
+near the disease causing gene. Some markers will not be associated or
+be very weakly associated with it. And those are the ones that are likely
+far away from the disease causing. I hope that makes sense, and we'll follow
+up on this next time with looking at Mapping through studies
+of population data. I hope you'll join us.

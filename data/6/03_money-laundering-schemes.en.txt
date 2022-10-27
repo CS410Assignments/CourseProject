@@ -1,0 +1,55 @@
+One of the issues that makes money laundering
+difficult to prevent and detect, is the wide range of schemes. In the USA, the Internal
+Revenue Service (or IRS) is interested in money laundering, because when money is laundered,
+taxes are not paid on the profits of the crime. Annually, the IRS publishes examples of money
+laundering investigations. Money laundering activities reported by the
+IRS in 2012-2014 include a variety of schemes. A real estate agent falsifying information to help a drug trafficker, purcahse a multi-million dollar residence. A religious leader accepted known crime-profits for charities, then made the money, less his commission,
+available through an underground network. An attorney knowingly accepted illegal profits,
+deposited them in his trust account and made payments for a client.
+A wide range of individuals making deposits of less than 10,000 US dollars, of know profits
+from crime to circumvent legal requirements for banks to report transactions.
+It should be noted that in MOST of the examples, profits relate to illegal drugs. In addition to the criminal that generated the profits, usually money laundering schemes involve a
+person that is reputable, or at least not previously known to be a criminal.
+As someone trying to understand and detect fraud, you need to realize that money laundering
+includes a wide range of schemes, limited only by the criminal’s imagination. For persons looking to launder money, or hide their income from taxing authorities a traditional
+technique has been to move the money offshore – move the money to jurisdiction with lower
+taxes, lax laws, and lax enforcement. Likewise, money laundering often involves hiding the money under a new identity. Sometimes, it is easier to create a new identity, one not
+tied to the money launderer off-shore. Of course, creating a new identity and opening
+an offshore bank account is just the start. The next question becomes one of how to get
+the money into and out of the offshore bank account. One technique for moving money both within the US as well as around the world includes
+the use of shell companies. The term “shell company” generally refers
+to a business entity with no significant assets or ongoing business
+activities. Shell companies formed for both legitimate and illicit purposes typically have no physical presence other than a mailing address, employ no one, and produce little
+to no independent economic value. The benefit of the shell compnay is greatly compounded when it is privately held and the
+underlying ownership can be obscured or hidden. Lack of transperency can be a desirable characteristic for some legitimate uses of shell companies, but it is also a serious
+vulnerability that can make some shell companies ideal vehicles for laundering money. The technological landscape behind conducting
+monetary transactions is constantly changing, in large part to make payments faster and
+more convenient. Money is now easily stored on cards. Most
+people are familiar with prepaid gift cards, but some banks are now issuing prepaid debit
+cards with funds from the deposit holder’s account. Mobile phone cards, mass transit
+cards, and even gaming cards can also be used to store thousands of dollars without bank
+supervision. Storing funds on cards makes it infinitely easier to transport out of the
+country or transfer to another individual without detection.
+Mobile phones can also be used to store funds and make purchases. But mobile transactions
+are not just for purchases—they can also facilitate transfers to bank accounts or other
+mobile device accounts. Some carriers, including those providing prepaid phone accounts, allow
+users to deposit thousands of dollars into their accounts, which are then transferable. Digital currencies, also called virtual currencies,
+have recently started emerging as a money laundering issue. Broadly defined, digital
+currencies are currencies that exist and are traded in a digital format. They are not tied
+to or backed by any country or government. There are several private organizations that
+have created various types of digital currencies designed for general use and exchange. Similar
+to the dollar, other private currencies have a floating value—their worth is defined
+by what users are willing to give for them. Bitcoin is one of the most popular digital
+currencies to date, due in large part to its innovative method of preventing the counterfeiting
+of bitcoins, through unique digital signatures.
+Alternative remittance systems (also called parallel banking systems) are methods of transferring
+funds from a party at one location to another party (whether domestic or foreign) without
+the use of formal banking institutions. These systems are characterized by the lack of physical
+or digital transfer of currency from the sender to the receiver. Instead, in the typical alternative
+remittance system, the payer will transfer funds to a local broker who has a connection
+in the region where the payee is located. The local broker will then distribute the
+funds to the payee. The parties involved in alternative remittance
+systems form a network, and keep track of their exchanges on an informal ledger. Because
+there is no government supervision of these currency trading programs, such payments are
+extremely hard if not possible to trace. This week, our focus was on money laundering.
+We began by looking at the scope of the problem, as well as current trends. We then moved to a discussion of the basics of money laundering, including some of the WHYs and HOWs. We finished the segment, with a discussion of the impact of DIGITAL MONEY on laundering. At this point, you should have a basic understanding of the concepts related to money laundering. As always, you can find more information on this week’s topics on the West Virginia University and Association of Certified Fraud Examiner websites. Thank you for your participation today. We look forward to working with you again next week And helping with your understanding forensic accounting and fraud examination.

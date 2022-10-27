@@ -1,0 +1,245 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In today's lectures,
+I'd like to take a little foray into a very exciting
+subarea of evolutionary biology. And that's the intersection
+between evolutionary biology and the study of animal behavior. In this first lecture, we'll look at
+optimality and adaptive feeding behavior. But first, let's talk a little bit
+more broadly about animal behavior. Animal behavior is a very,
+very active research area, and particularly studying animal
+behavior in an evolutionary context. You can study animal behavior
+from many different approaches, you can look at hormonal basis for animal
+behavior, you can look at neural basis for animal behavior. What we want to look at now, rather than
+proximate cause, is we want to look at the ultimate reason for
+why animals behave the way that they do. Now behavior, as I mentioned, integrates
+these many different aspects of biology, such as physiology or hormones and nerves, genetics, ecology,
+and fundamentally evolution. Now some areas where evolutionary thinking
+is applied to the study of animal behavior is in the context of survival or
+avoiding predation. Obviously, very important for
+passing on your genes, is that you don't get killed early. Feeding or foraging behavior, it's obvious this is what's
+happening at the other end of this. [LAUGH] Choosing where to live,
+communicating, reproductive behavior, sexual selection. This one we'll talk about in
+a different context much later on, but not here in these videos. Parental care and social behavior. So we'll dabble into a couple of these
+in the videos that you have here. The ones in this particular video that
+we'll talk about are looking at optimality theory, or specifically, how you can get
+the maximal effect for the minimal cost. Which is what we would infer, that natural selection would push
+a species to ultimately be able to do. And we'll look at applying optimality
+theory to the study of feeding behavior, and why feeding behavior
+is often adaptive. Now as you know, the evidence for
+natural selection abounds across species. So let's look at the example
+of the Eurasian oystercatcher. Now this species feeds on mussels. So, not muscles like this, but mussels like the small clams
+that you have over here. Now, there's an optimal size of mussel for
+this bird to pursue. If the mussel is too small,
+they're not gonna get enough nourishment. It's not worth it for them to spend the energy to open something
+that's gonna give them almost no energy. If it's too large, it becomes extremely
+hard to open, at which point they'll expend tons of energy and may never
+get any nutrients out of it as well. So there should be some optimal
+intermediate size mussel, these oystercatchers would be
+selecting that would be, in principle, selected by natural selection. Now, people have ran a bunch of models and they suggested that oystercatchers
+should pick 50 millimeter size mussel. That was the prediction. From these initial models they looked for
+this, and in fact there was not a good
+fit of the models to the data. In fact, these oystercatchers
+were picking smaller mussels. So they refined the mussels, and
+they predicted with this refinement that the oystercatchers should pick 30 to 45
+millimeter mussels because the larger ones are covered with barnacles and
+that may make them harder to open. Now in fact, the birds do prefer
+30 to 45 millimeter mussels, so with this revision of the model,
+the model fits the data. This should be causing you a little
+bit of concern when somebody just manipulates a model to make
+it fit the data, right? Well, there is this view that
+selection is everywhere, right? That structures and behaviors are optimally designed by
+natural selection for their function. And whenever we see something
+that's not optimal, we infer a trade-off or
+some compromise among competing demand. Now this is a little bit of a risky thing
+because basically you're making it so every possible observation will
+eventually fit your model. Now Gould and
+Lewontin criticized this, and referred to this as
+the Adaptationist Program. They suggested that,
+many researchers were doing this, they were interpreting data by assuming
+the near omnipotence of natural selection in forging organic design and
+fashioning the best among possible worlds. This is often referred to as adaptive
+storytelling by people who don't like it. That, we see something and just make up an
+adaptive story until it seems to fit and then say oh, that must have been it. Yeah, yeah, that's it. [LAUGH] That's not good science. Unfortunately, this kind of thing
+has happened for a very long time. Overinterpretation goes
+back over a hundred years. In fact, if you look back before 1909, Spencer asked Galton to
+look at his fingerprints. But Galton said he didn't know
+the functions of these patterns, and many people had studied this, dissecting
+the fingers of unborn children trying to study their prints, and things like that. Now Spencer suggested, well the ridges
+obviously, this is an important word here, obviously functions to protect
+the sweat glands in the valleys. Sounds like that makes sense. Problem is, the glands are actually
+in the ridges themselves, so actually doesn't make sense at all. [LAUGH] Science has been referred to
+by Thomas Henry Huxley as the organized common sense, where many a beautiful
+theory was killed by an ugly fact. In fact,
+despite the use of optimality theory, and optimality theory is actually
+a good thing when applied properly, there are many traits and behaviors out
+there that are not perfectly adapted. Now there are many reasons why traits or behaviors may not be perfectly adapted
+as we see them now in the wild. Well one possibility is that
+there's been a failure for the appropriate mutations to occur. That, if the mutation for making it
+just that much better never happened, then it's stuck where it is, right? You can have single genes that
+cause multiple phenotypic effects. This referred to as pleitropy, where for example, an allele may be good for
+one trait but bad for a different trait. So it's that there's this
+sort of trade-off going on. There is a possibility that ultimately
+the trade will be perfectly adapted, but there hasn't been sufficient time for
+selection to operate. Or the environment keeps changing and
+it's this moving target that makes it very hard for a trait to be
+optimally adapted for any particular. There are many, many other reasons. This is just a subset of those. But very importantly, optimality
+predictions should be tested and judged, not just presumed. Optimality, when I use this term, is the assumption that by knowing exactly
+how natural selection's acting on this trait, we should be able to predict
+exactly what the trait should look like. Now let me give you an example where
+there was some misunderstanding again, in terms of understanding a trait. This is the example of the oxpecker. This is a bird that you often see
+on top of an ox, for example. They live on large mammals, they're thought to feed
+somewhat on ticks at least. And the dogma that was repeated for many,
+many years is it was mutually beneficial for the oxpecker bird and the ox to be
+associated because the bird is picking off these ticks that are bad for the animal,
+and so the mammal just leaves him there. Unfortunately, there were no good
+tests of this until around 2000. And what happened then is people started
+exploring whether the cattle that had oxpeckers had more or
+less ticks than cattle without oxpeckers. Now if the oxpeckers are picking off
+the ticks, then you would assume the cattle that have the oxpecker
+bird should have fewer ticks, right? Well in fact, tests showed there is
+no significant reduction in tick load when you had oxpecker. So they tested this multiple times and
+there was no significant reduction. In fact, further tests showed that
+these oxpeckers were actually enlarging open wounds and
+drinking the blood from the ox. That's not good. That's not mutualistic at all. Something very much to
+the benefit of the bird, but to the detriment of the large mammal. Now the question you might wanna ask is,
+why do the cattle tolerate these birds hanging on
+them that are opening their wounds? Well I asked my class this back in 2012,
+but here's a set of some of the responses. On the negative side,
+somebody suggested that the hosts don't actually tolerate the oxpeckers, but
+they just are not able to get them off. That is a possibility. There's a neutral side that maybe it's not
+actually that big a deal to the cattle. So it's kind of like when a fly's
+buzzing in my face and after awhile, I just let it pester me
+cuz it won't go away. This suggests that maybe the oxpeckers
+affect on the cattle was fairly small, even though they're getting
+potentially nutrients themselves. There's the mutual advantage side
+that somehow they're strengthening the cattle's immunity [COUGH] possibly by
+increasing antibodies to fight antigens. That would definitely be
+an adaptationist's explanation. And there were some crazy out there
+explanations people suggested, like maybe they like the company, or
+the oxpeckers generate mini force fields. That's probably not it. [COUGH] When we look at the research
+results for why this was the case, so looking at the research results for
+why the hosts tolerate these, it turns out in fact that some of these hosts try to
+get them off, but are unable to do so. Just like that one student had
+suggested the previous slide. That, in the case of rhinos
+they tried quite hard, but were only able to get them off half
+the time when they were at wounds. So this figure down here shows attempts
+to remove the oxpecker from at wounds. So successful versus unsuccessful, so only about half of them were successful
+at getting them off the wounds. In contrast, when they are on the ears,
+they are able to flick them off fairly easily, or other places on their body
+they're able to flick them off easily. So it is not a mutualistic thing
+as was previously assumed, even though that was
+the adaptationist's explanation. So let's look at applying optimality
+theory to studying adaptive feeding behavior. But let's try to be careful not
+to be overly adaptationist. So what considerations
+go into optimal feeding? Well if you want to feed, and again you wanna do it as efficiently as
+possible, what you wanna do is you want to maximize energy while minimizing
+consumption of energy and time. So high energy per low
+unit of time is the best. So on the plus side, you're getting
+calories from food, that's your energy. On the minus side, you're expending
+energy to get the food, so energy may be involved in searching,
+handling, eating or digesting. And on the minus, there's also
+time involved in getting food, which also involves, of course,
+burning more energy. But there's time involved in searching,
+handling, and digesting. So if we were to put together
+a very simple formula for optimal foraging,
+we want to maximize this quantity. We want to maximize calories obtained from
+food minus calories expended getting food, divided by time to get it. Again, we want the prey with the highest
+caloric content, we want to spend the minimal energy and time getting this
+prey, so this is the idea behind it. So let's look at this in
+the context of whelk-eating crows, another set of birds
+eating shelled animals. [LAUGH] In this case, these are crows in
+British Columbia that pick up whelks on average about 4 centimeters
+long rarely less than that. They fly up into the air with
+these whelks and they drop them. They fly almost exactly 5 meters and then
+drop them try to shatter the shell and get the snail meat outside. Now sometimes it takes
+a couple of flights to do it. Is this adaptive? There's a couple of different
+things these could do. They could pick different sized whelks,
+they could fly different heights, they could fly more times. So let's look and
+see how this might be adaptive. So break it up into parameters. First, let's look at the height of drop. Obviously, it takes energy to fly high, so you wanna minimize the energy
+you're taking for flying. But you want a high probability
+the shell will break. You don't wanna have to fly 40 times. You wanna fly like once or
+twice and be able to break it. So people looked this in the context of
+the underlying physics, and it turns out, in fact, 5 meters height is optimal for
+that sized shell to shatter. So you can look here on the x-axis,
+the height in meters. So this is from 0 to 15 meters in the air. On the y-axis is number of drops
+required to break the whelk shell. And we note when you're at 5 meters, you're pretty much at a level point there
+where it doesn't seem like if you go much higher you have a much higher
+probability of breaking the whelk shell. So that's at a very optimal point. There's very little increase
+in probability in shell breaking if you go any higher. So that does seem to be adaptive. What about the size of whelk? Couldn't they have picked
+maybe a smaller whelk? Why didn't they pick the smaller whelk? Well they experimentally
+tried three sizes. In this case, the one they
+picked is referred to as large. These are the 4 centimeter whelks. And they found that the bird
+would need to fly higher and/or drop more times to break
+the smaller shell. So again, on the x-axis here we
+show the height of the drop, on the y-axis we show the number
+of drops needed per whelk. For the large one, again,
+this is what they ended up choosing. If they chose a smaller whelk,
+a medium-sized one, they would have to drop it twice that many times, and even
+more if they chose a very small whelk. So again,
+it seems like they did choose adaptive. Now a question a lot of people like to ask
+is, do we see optimal feeding in humans? Well there is the case of spices. And spices have been suggested as a place
+where humans may actually choose some sort of optimal. Now the caloric content in
+them is typically very low, so why do we like spicy food,
+why do you like garlic? Maybe you don't like garlic. One possibility is it's just random or
+some correlated response to smell or taste that's unrelated to
+the actual garlic itself. Other possibility is there's
+an antimicrobial property associated with some of the spices we use. In fact, many spices are known to have
+very strong antimicrobial properties. Cinnamon, cloves, and mustard have
+strong antimicrobial effectiveness. Some of the others have medium
+antimicrobial effectiveness, like allspice, cumin, oregano, etc. And some inhibit very specific things. Like garlic, for example, as I mentioned inhibits salmonella,
+E.coli, staph, bacillus. Cloves inhibit Aspergillus,
+things like that. So let me ask you to generate
+a prediction in video quiz here. [COUGH] If spices are used because they're
+antimicrobial, and given what you might guess about what countries have
+particular environments that are warm or moist, and thus more likely
+to have a lot of microbes. If you surveyed the following countries,
+India, Hungary, and Norway, which would you expect to
+use the most spices in their cuisine, specifically the most spices
+with antimicrobial properties? Well that was a pretty easy question,
+I think. The expectation is that more
+antimicrobials are needed in environments that will favor
+the growth of microbes. So places where its warm and
+moist will favor the growth of microbes. So if we look at these three countries,
+India, Hungary, and Norway, it's a no-brainer that the wettest
+place and the hottest place is India. So this is a place where more
+antimicrobials will be needed, Hungary is kind of intermediate, and
+Norway really is not particularly wet. Well, it's somewhat wet but
+very much not hot overall. If we look at the spices used, what we
+see here is, this is a list of spices on the x-axis, on y-axis, percent of
+recipes that have any of those spices. Tons of spices are used in India, somewhat
+in Hungary, and not so much in Norway. Way more spices are used in India than the
+other two, and importantly with the red arrows, I designated the use of garlic and
+onions in particular. Remember I mentioned that garlic had
+very specific antimicrobial properties. Let me show you the antimicrobial
+effectiveness of a suite of spices. Here are garlic and onions. They show almost complete inhibition
+of bacteria, so these are very, very effective antimicrobials. In contrast, something like celery seed
+is not particularly effective at all. So you see here garlic and onion are
+almost completely effective, allspice and oregano also very highly effective, thyme, etc., starting to show slightly weaker
+inhibition to bacterial growth. So that's pretty cool. Now, in this case,
+we didn't really consider alternatives. So what are some of the alternative
+explanations that should be considered? One is that there actually
+are micronutrients being provided by these spices. It's a possibility. I know that spices are used to
+disguise the smell of spoiled food. And last is maybe they're
+just used where they grow. That maybe all these things grow in India. They don't grow in Norway or
+Hungary so much. Well these have been investigated. Now in terms of the micronutrients that
+doesn't really explain the correlation with temperature, why is that people in
+this particular temperature need these micronutrients more than others. In terms of disguising the smell of
+spoiled food, that actually doesn't make sense evolutionarily because it's not to
+your advantage to consume spoiled food. If anything,
+it could be to your disadvantage. And in terms of being used where they
+grow, there is actually a very weak correlation between where they grow and
+where they're used. But that doesn't really
+explain the overall pattern. For example, pepper is one of the most
+widely used and it grows in a very, very small fraction of the places so
+it doesn't seem like that's explainable. Now, just extrapolating from this
+into the importance of communication. Communication is critical for the context
+of finding food for a lot of species. Not just for making food available to us. A classic case for
+this is that of honeybee dances. This was elegantly described by
+Nobel laureate Karl von Frisch. He showed that scout bees, actually,
+will come back to the hive and can actually give hive
+mates detailed information about the location of food by away
+of how they do their little dances. Now, I won't try to explain this dance to
+you, but I'll refer you to a YouTube link. This is also available online. But you should definitely watch this. It's very cool,
+this means of communicating where food is. So we've been looking at this all in the
+context of a adaptive feeding behavior but as you seen with the examples I'm talking
+about here in the context of bees communication, sometimes
+is very important as well We'll come back to that in the next video Thank you

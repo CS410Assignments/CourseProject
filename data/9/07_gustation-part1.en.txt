@@ -1,0 +1,142 @@
+Welcome back to our study of the Chemical
+Senses and in this tutorial, I'd like to talk to you about the sense of taste or
+in more formal terms what we call a Gustation.
+So this conversation about our chemical senses again illustrates the complexity
+of the human brain. And it allows us to, once again, discover
+circuitry in the brain that is genetically determined and provides the
+foundation for function in the central nervous system.
+And the circuits are modifiable through life experience and that's the topic
+we'll get to in more detail when we consider the changing brain in Unit 5.
+My learning objectives for discussion on gustation are first to characterize the
+peripheral and central organization of the gustatory system.
+I want us to again focus on the issue on sensory transduction and understand how
+that occurs with in our sensory neurons in our taste buds.
+And thirdly, I'd like for you to be able to discuss the means by which information
+is coded within the gustatory system. Well, let's begin with a broad anatomical
+view of our gustatory pathways. So, gustation, or a sense of taste begins
+in the oropharynx. And what we find are sensory cells
+associated with an anatomical structure that we'll consider in more detail in
+just a few minutes, called the taste bud. And these, taste buds, allow for the
+presentation of ingested molecules. Many of them are water-soluble, some of
+them are lipids. but, in any event, they interact with the
+apical surfaces of our taste cells where they generate electrical signals through
+a process of sensory transduction. So we're going to want to understand
+exactly how that occurs. Well, at the base of these sensory cells,
+there's a synaptic connection with an afferent axon and that axon comes from
+one of three cranial nerves. And so, those cranial nerves in question
+are nerves VII, IX and X. So, there is a ganglion cell associated
+with each of these cranial nerves that grows a peripheral axon out to various
+regions in the oropharynx where we have taste buds.
+And as we'll see these are of course on the tongue as I think you all know but,
+there are also taste buds on the epiglottis.
+And taste buds that perhaps or even more posterior back in the Pharynx.
+So these axons of cranial nerves VII, IX and X, project into the brain stem.
+And once they are in the brain stem they synapse with a nucleus of the brain stem.
+That we call the nucleus of the solitary tract.
+So, we're going to want to see this nucleus in just a bit of detail.
+that nucleus then receives this first order information and in that nucleus, we
+have cells that grow axons that project from the brain stem on up into the
+thalamus. So in the thalamus then, is where we
+would find our third, order neurons in this pathway.
+So the nucleus as a solitary track would be second order, and then the thalamic
+neurons are the third order. An once again, our thalamic relay is in
+the ventral and posterior part of the thalamus.
+But not the exact same cells that we considered when we talked about somatic
+sensation. For gustation, it's a nearby population
+of cells and a slightly different part of this broader ventral posterior thalamic
+complex. But we can just consider this part of the
+Ventral posterior complex of the thalamus.
+Well, those third order neurons then provide input into the Insular cortex.
+there are probably several zones within the insular cortex that receive this
+input, so these are regions that we might call primary gustatory cortex or
+sometimes we just call them the insular taste regions.
+Insular taste cortex is how it's labeled in this figure and then, in a more
+rostral position, the frontal taste cortex which is really still just part of
+the insular cortex. As you will recall from our studies of
+brain anatomy, the insula is that part of the cortex that ends up being folded and
+covered by the gyrus that forms the upper part of the temporal lobe.
+And then the gyri that form the lower part of the frontal and parietal lobes.
+Specifically, the superior temporal gyrus from the temporal lobe, and from the
+frontal lobe the inferior frontal gyrus, the inferior part to the precentral
+gyrus. And then just a little bit into the
+parietal lobe, the inferior part of the postcentra gyrus.
+So, this is where we find our taste receptive neurons, at the level of the
+cerebral cortex, for the first time in cortical processing.
+Well, to carry the story onward, I think we will appeal to more schematic
+representation so that you can understand perhaps little bit more about what
+happens to this information about taste. So in this schema, we again show our
+cranial nerves. So here's Cranial nerve VII, Cranial
+nerve IX, Cranial nerve X. Representing taste buds that are
+distributed in different parts of the oropharynx.
+All of this information converges in the brain stem in this Nucleus of the
+solitary tract. Well, I'd like to take just a moment and
+actually show you that nucleus. So if you have your version of Sylvius
+accessible, you may want to pull that up, or otherwise just follow along here.
+Well, I've just opened my copy of Sylvius to the brainstem Atlas, perhaps you've
+done the same. And what we're looking for now, is the
+nucleus of the solitary tract. Well, this is a rather long, rod-shaped
+nucleus that spans the junction of the pons and the medulla.
+So to find that nucleus, we need to, get at the appropriate sections.
+So I'm just going to click down from the level of the mid-brain into the pons.
+So now we're in the upper pons, through the middle of the pons, and as we get
+into the region of the junction between the pons and the medulla, this is
+actually the upper part of the medulla. What I'm going to be looking for, is
+something that we sometimes described as a bullseye, that is a dark spot of
+heavily myelinated fibers surrounded by a lighter region, which would be gray
+matter. So, if we look right in this dorsal
+lateral aspect of the tegmentum of the brain stem, we see something that well,
+if you use your imagination, maybe you can imagine this as being something of a
+bull's eye. So if I clear my drawing for just a
+moment and let Sylvius do the work, here. This central dark region, is what we call
+the solitary tract. This, represents the, central process of
+those first order afferents that have entered the brain stem through Cranial
+nerves VII, IX and X, and are making their way down to the appropriate level
+of the nucleus. Now the nucleus, actually surrounds the
+tract. So, notice how, anatomically this is a
+bit different than our, perhaps more familiar tract in nucleus, which is our
+spinal trigeminal tract, and spinal trigeminal nucleus.
+And the trigeminal system, the tract is just lateral to the nucleus, which is
+just medial. But in the solitary system, the tract is
+completely engulfed by the cells that are receiving the synaptic input from those
+first order afferents. Now, there's another important
+distinction I'd like to make about this nucleus of the solitary tract.
+there are really two major parts to it. There is a rostral part and a caudal part
+to this nucleus. The part of this nucleus that is
+receiving gustatory information is actually the rostral part.
+So we would encounter this division of the nucleus at roughly this level.
+The upper part of the medulla and then, on up into the caudal part of the pons,
+and that's pretty much where we lose it. So we've, we've lost the nucleus now that
+we are at least a few millimeters into the pons.
+But as we get very close to the junctional region, now we see this
+nucleus of the solitary tract, and there's our solitary tract, still more or
+less engulfed by the gray matter. So the rostral part of this nucleus is
+the gustatory relay. Now there's a caudal part to this
+nucleus, and if we follow this nucleus down into the medulla just a little bit
+further we would continue to follow this for some distance.
+The caudal part of this nucleus is actually receiving input from the
+viscera. It's a visceral sensory integrator and it
+makes perhaps good sense that our sense of taste would be received in a gray
+matter structure that also has a caudal division that receives input from out
+viscera. Because taste and visural sensations are
+awfully intimately intergrated. imagine, experiencing the wonderful
+flavors of a palatable meal. and having those sensations integrated
+within the sensory signals that are being derived from that gastrointestinal system
+that does the work of digestion. Well, sometimes it, it works the other
+way, right? Sometimes we have a flavor, a gustatory
+sensation that is signaling the presence of a harmful taste, a harmful substance
+that we've just ingested into our mouth. So, it's important to get rid of that
+harmful substance. We do that through various means, we can
+spit out from our mouth. The morsel that we may have just taken
+in, or if we've already swallowed it, then we actually would benefit from
+vomiting out that substance. Well, it's as if the nucleus of the
+solitary tract is a key center for integrating both taste and visceral
+sensation. And the nucleus of the solitary tract has
+important outputs to circuits in the brain stem that govern some of these
+actions, like gagging or coughing or spitting, and even vomiting.
+Well, we'll talk more about our visceral sensory and visceral motor functions when
+we get deeper into unit four. So stay tuned for that.
+Okay, so just to summarize again this anatomy.
+The nucleus of the solitary tract is an important integrator of gustatory signals
+in the rostal division of the nucleus, which is what we're saying here at this
+level. Whereas the caudal division is an
+important integrator of visceral sensory signals.

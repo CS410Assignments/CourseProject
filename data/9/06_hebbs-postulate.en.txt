@@ -1,0 +1,127 @@
+Well now, we come to the final of our
+three tutorials on synaptic plasticity, and in this session I would like to talk
+to you about Hebb's postulate. Again we are talking about content that
+pertains to 3 of our core concepts in the field of neuroscience.
+We continue to talk about how neurons communicate through electrical and
+chemical signals and we're elaborating on a new theme for us and that is how life
+experiences Can change the structure and function of the nervous system.
+And as I've commented on in the previous two tutorials, I think this is a
+tremendously important and exciting field within neuroscience because what we are
+now capable of discovering are the very mechanisms that we can harness and use to
+promote healthy living and the treatment of disease and the rehabilitation from
+neurological dysfunction and disability. Well, my learning objectives for you in
+this session are again to relate. Our discussion to general cellular
+mechanisms of synaptic change. And I want you to be able to state Hebb's
+postulate and discuss its relevance for neural plasticity.
+Ok, we've gone through this a few times already and we'll do it again very briefly
+just to remind you of our cellular mechanisms of synaptic plasticity.
+Well, this begins with neural activity, triggering the activation of postsynaptic
+second messenger systems. The trigger is typically an alteration in
+the level of intracellular calcium that's free in the pseudoplasm of the
+postsynaptic process. That is critically important because The
+amount of calcium in that intracellular process is going to activate calcium
+dependent second messenger systems. And these second messenger systems
+generally alter two categories of enzymes that are present within the postsynaptic
+cell. Either protein kinases.
+Which tend to turn on target proteins through phosphorylation.
+Or protein phosphatases. That tend to inactivate target proteins
+through dephosphorylation. So this alteration in protein
+phosphorylation is very important in mediating the early stages of long term
+plasticity. Because what is happening here doesn't
+involve the generation of new proteins, just the alteration in the structural and
+functional competency of existing proteins.
+But to get to the long-term stages of synaptic plasticity, There needs to be a
+means for altering gene expression. Though that, so that's the basic scenario
+by which synaptic plasticity has both short- and long-term consequences on the
+structure and function of neuronal connections.
+So now, I want us to consider a very powerful postulate that's been with us in
+the field of neuroscience for, well, more than 60 years now.
+But it's been especially in the last 20 to 30 years that this postulate has really
+proved to be formative in understanding cellular and synaptic mechanisms of
+synaptic change. Well, this is a postulate that was
+proposed by the Canadian psychologist Donald, Donald Hebb, who passed away in
+1985. And the usual form of this postulate that
+is often reproduced and quoted is from a very important work of Dr.
+Hebb's, Published in 1949 called, The Organization of Behavior.
+And I know many of you will be interested to learn about Donald Hebb than I'll have
+to say and, there's some excellent compilation of information found in
+Wikipedia. I don't normally recommend Wikipedia but,
+This is a good starting place for someone just trying to gather some resources
+concerning the life and the work of Donald Hebb.
+Well, that brings us to the principles of the postulate.
+What Hebb's postulate stated in principle, I'm not going to give you the verbatim
+text, but in principle Is that coordination of activity or coordinated
+activity of a presynaptic terminal and a postsynaptic cell would lead to the
+strengthening of that synaptic connection between them.
+And conversely, uncoordinated activity between synaptic partners would weaken
+their synaptic connections. Now, a colleague of mine from Duke
+University who, who sadly was take far too early and with great heartache for, for
+his family and his friends who, who knew him well Dr.
+Larry Catz. Dr.
+Catz Encapsulated these principles quite insightfully as he was known to do in the
+following phrase. Neurons that fire together, wire together.
+The firing together captures beautifully the heavier notion of coordinated activity
+and the wiring together speaks powerfully about the consequences of coordinated
+activity. For not only synaptic strength but also
+the long term consequences that require the building up of new synaptic
+connections. Now Hebb's postulate really is not a
+departure from what we've been talking about so far in our tutorials on synaptic
+plasticity. The changes in synaptic strength that Hebb
+could only imagine in his day and now we come to speak of in these terms are
+long-term potentiation and long-term depression.
+So LTP and LTD would be the logical consequences of the coordination or
+incoordination of activity that Hebb postulated.
+Now, how does spike-timing dependent plasticity fit in?
+Well again, spike-timing dependent plasticity explains how Synaptic change
+can occur one post-synaptic spike at a time under normal physiological conditions
+that are found in real neural networks with ongoing activity.
+So spike timing dependent plasticity has been a framework that has been based upon
+data Such as what we've seen previously here reproduced in figure 8.18.
+Here in this figure, we see that when pre-synaptic activity comes before
+post-synaptic activity, within a fairly short interval of about 20 milliseconds or
+so, then we see long term potentiation. So pre before post leads to long term
+potentiation. Conversely, if we see postsynaptic
+activity presumably driven by some other input to a neuron than the one that we
+have command of, when that postsynaptic activity comes before.
+Presynaptic activity then that's a regime that favors long-term depression.
+So now, to put these data in the context of heavy inplasticity or Hebb's postulate,
+we might say that pre before a post is equivalent to the kind of coordination of
+firing across a synaptic connection that would be consistent with the strengthening
+of that connection. Where as the post before pre regime, might
+be a picture of what in-coordination of activity might mean.
+At least for the synaptic connection under study.
+Presumably there's coordination at some of the other synapses to this postsynaptic
+neuron, otherwise it wouldn't be firing an action potential.
+But in this particular isolated synapse that's under study here, it doesn't appear
+as though. The presynaptic element is really what's
+driving the activity of that postsynaptic neuron.
+Hence the incoordination, at least at that one synaptic junction.
+Okay. So, again, Hebb's Postulate Is captured by
+this phrase neurons that fire together wired together.
+And understanding plasticity at this level begins to take us from one synapse to the
+compounding impact across an entire set of connections that builds up neural circuits
+and even neural systems. So again, change at the synaptic level can
+produce change in wiring patterns of entire neural circuits.
+This is why I love this phrase from Larry about wiring together.
+Because it really points to the long term and broader consequences.
+Of a change in activity that occurs at the synaptic level.
+And so, this synaptic change accumulates throughout a network of interconnected
+neurons, and the net effect of firing or misfiring Maybe wholesale change in the
+structure and function of network properties.
+Well, this is the briefest of our tutorials that I prepared for you so far.
+But only in terms of my participation with you here.
+I hope that this tutorial continues in the discussion forum, as you consider the
+study question that I will leave you with. And it's a question that is reproduced for
+you at the, The bottom of your tutorial. As I've been mentioning, my former
+colleague here at Duke, Dr. Larry Katz, proposed the aphorism neurons
+that fire together, wire together. Well, this is a wonderful phrase to take
+away from this tutorial and perhaps it sounds familiar to an aphorism that you
+may know, that aphorism is use it or lose it.
+And this might appear to be a valid restatement of Hebb's Postulate, but this
+is the question I want you to consider and perhaps even kick it into the discussion
+forum and share your thoughts about it. So, here's my question that I leave you
+with today. Is use it or use it an accurate expression
+that reflects a synaptic mechanisms of neural plasticity?
+Maybe you have a definitive yes or no, or maybe you have a definitive no one knows.
+So go ahead and think about it and, let's see what kind of discussion we can
+generate around this question.

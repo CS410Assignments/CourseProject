@@ -1,0 +1,153 @@
+So consequently if we follow the lines of
+projection back from this illustration, we see that objects that are out here to the
+right side of our fixation point are seen by the nasal portion of the right eye and
+the temporal portion of the left eye. Consequently, those portions of the two
+retinas need to send their information together in order to develop a coherent,
+and congruous representation of that region of the visual world.
+That's where the optic chiasm comes in. Now notice what happens in the optic
+chiasm. There is a crossing of the projections
+derived from the nasal retina. In human beings, roughly about 55% or so
+of the axons in the optic nerve are dervied from the nasal retina and they
+cross in the optic chiasm, and terminate on the contra lateral side of the brain
+relative to their origin. The remaining 45% or so come from the
+temporal portion of the retina, and those axons remain on the same side of the
+nervous system. So by the time you are posterior to the
+optic chiasm in this visual pathway, these axons are now derived from the two eyes
+but they are seeing the same part of the visual world.
+So in the illustration that I've tried to make for you here, if we consider the left
+optic tract here, the left optic tract is now representing the right side of visual
+space. Specifically that region of right visual
+space that's seen by the right nasal retina and the left temperal retina.
+Conversely, the left side of the visual world Would be seen by the nasal retina of
+the left eye and the temporal retina of the right eye.
+And those projections with nasal being crossed, send signals back to the right
+optic chiasm, such that the right optic chiasm is now representing the left side
+of the visual world. So the optic chisam really solves the
+challenge of having two eyes in the front part of our faith.
+One might have thought that it would be easier to just have a single cyclopean eye
+but we are bilaterally symmetrical creatures.
+So we have two visual organs and we make great use of that fact in the construction
+of depth perception based on the slightly disparate views of the two eyes of near
+objects. But that's a story for a later session.
+For now let me just emphasize to you that the optic chaism sorts out the fact that
+the two eyes see portions of the same part of the visual hemifield and with the
+principle of contralateral representation at stake, it's necessary to sort out those
+central projections to bring what the two eyes see of the same region of the visual
+world together in the appropriate hemisphere.
+But once the axons of the optic tract terminate in their appropriate
+diencephalic targets with respect to the image forming pathway anyway, these
+signals reached the lateral geniculate nucleus.
+So here now with a lateral view of the brain, we see the lateral geniculate
+nucleus, which[UNKNOWN] the visual thalamus, the part of the thalamus that is
+receiving input from the optic tract. And it's the part that gives rise to
+projections to the part of the cortex that we call the primary visual cortex.
+Well, that's quite a distance. That primary visual cortex is in the banks
+of the calcarine solcus on the medial aspect of the occipital lobe and in order
+for axons to grow from the Lateral geniculate nucleus to the posterior medial
+temporal lobe, these axons have to grow around the lateral ventricle.
+So these axons swing first laterally, and then they run posterior in the white
+matter towards the occipital lobe. Now it's possible to recognize essential
+two parts to this so called optic radiation.
+There are the axons that are emerging and sweeping in the more dorsal and posterior
+direction, around the atrium of the lateral ventricle.
+These axons are destined to terminate on the Posterior back of the calcarine sulcus
+in the cuneus gyrus. Meanwhile there are axons that are
+emerging and sweeping down into the temporal lobe, and then around the lateral
+aspect of the temporal horn of the lateral ventricle.
+These axons perhaps have a slightly different challenge to try to get around
+the portion of the temporal lobe that otherwise is providing an impediment to
+the growth of these axons. But they do so, of course, and they make
+their path back to the lower bank of the calcarine sulcus, where they innervate
+cortex in the lingual gyrus. Now this more temporal sweep of the optic
+radiation has a special name, we call this Meyer's loop.
+So when you hear the term Meyer's loop think about this temoral portion of the
+optic radiation. Now lets look a the organization of these
+inputs along the banks of the Calcarine sulcus.
+So, as I just mentioned, the Calcarine sulcus is formed by the folding of the
+lingual gyrus and the cunear gyrus. So we have the cuneus which is the, the
+wedge, cuneus means wedge, on the upper back of the calcarine sulcus ,and then we
+have this tongue like structure down below .
+So this is the lingual gyrus, lingual means time.
+Now notice how the color code is indicating the topography of the
+projections, from the optic radiation into this cortex.
+Now the cuneus gyrus is representing the lower part of the visual field, and that
+is because the region of the lateral geniculate nucleus that was supplied by
+retinal fibers is coming from the upper part of the retina.
+The upper parts of the retina are viewing the lower portion of the visual world.
+So once we get into the thalamus and now into the occipital cortex, we have a sort
+of inversion of the world, relative to the way that its projected into the brain,
+such that the cuneus is representing the lower part of visual space.
+Now, that leaves it for then the lingural gyrus to represent the upper part of the
+visual field. And again that's simply because the part
+of the lateral geniculate nucleus that grows the axons that forms the Myer's
+loop, is receiving input from the inferior parts of the retina, that see the upper
+part of the visual world. If we look at the way the visual world
+projects onto the retina, we see that the central part of visual space is relatively
+limited. Just a few degrees, in fact with the fovea
+sees is about the width of your thumb at arms lenght, so that's a bit of a rule of
+thumb about what the field of view is of the Fovea.
+So that thumbs with amount of visual space is actually perhaps the inner region here
+of what the macula might see, and yet its given over a very large representation in
+the visual cortex. So what the fovea is seeing is represented
+in the posterior pole of the hemisphere, and increasingly peripheral regions of the
+visual world are representing an increasing anterior regions of the visual
+cortex along the banks of calcarine sulcus.
+So far what I've been describing for you is how the visual world is represented in
+the primary visual cortex. Well, there is a considerable amount of
+the cerebral mantle devoted to the processing of vision.
+Perhaps as much as 25% or so in the human cerebral cortex is representing vision.
+So there is a series of visual cortical areas beyond the primary visual cortex
+that have now been mapped in the human brain.
+For reasons that we'll discuss when we look in more detail at the cellular
+structure of the visual cortex. The primary visual cortex is also known as
+the striate cortex. So these regions beyond the primary visual
+cortex are called extrastriate visual cortex.
+And we see a number of them here represented in blue and in the orange
+colors, and in the purple and in the yellow.
+And what we discover is that beyond the banks of the calcarine sulcus, which is
+back in this region, we have a series of basically concentric rings of visual areas
+that emanate around the occipital lobe. And if it were possible to unfold, flatten
+out the cerebral cortex, as can be done computationally in a representation of the
+human brain obtained in a magnetic resonance imaging experiment.
+We see the concentric rings now cut open and laid out.
+And there's ongoing study trying to define in exactly how many areas we have here,
+and that's still a matter of some discussion.
+But what we find is an increasingly more abstract representation of particular
+aspects of our visual world. One particular strategy that our visual
+system employs is the process of parallel pathways.
+And we see that elaborated in our extrastriate visual cortex.
+Broadly speaking, there are pathways that are mainly concerned with what we are
+looking at. And so the answer to the question, what we
+are looking at is often provided in terms of the detailed shapes, and patterns and
+texture, and color of the objects and the faces that we see in the visual world.
+All that information is supplied in a ventral pathway that runs through the
+inferior aspect of the occipital lobe into the inferior temporal lobe.
+Well, in addition to what we're looking at, one fundamental question in vision is,
+where are we looking? And so the answer to the question where is
+essentially a spacial answer. And it has to do with the location of
+visual objects in the environment and perhaps where they happen to be moving
+about in that environment. And that sort of information is provided
+by a pathway, that runs through an important structure in the brain called
+MT. Mt stands for middle temporal visual area,
+which is where it was discovered in the nonhuman primate brain.
+In our brains it seems to be near the junction of the temporal lobe and the
+occipital lobe. And from area MT, this sort of spatial and
+motion selective information tends to arise and travel up into the parietal
+lobe. So, area MT as we'll see in a different
+session on visual cortical processing is enriched in cells, that developed for us a
+notion of motion. As my chairman in the Department of
+Neurobiology here at Duke likes to say. So our notion of motion, is derived by
+neural circuits, that interact between our primary visual cortex in area MT.
+And from there the signals are further elaborated, into a broader scheme of our
+visual environment that's elaborated in the parietal lobe.
+So remember, in the temporal lobe we have answers to the question, what am I looking
+at, and in the parietal lobe we have answers to the questions about, where am I
+looking or where are objects moving in the environment.
+Well, I hope this tutorial has helped lay the foundation for you, in your
+understanding of the visual pathways and the concept of visuotopy in particular.
+This will be a very important topic as we consider the impact of lesions or disease
+that might afflict some component of the visual pathway.
+It will be important for you to understand, what kind of visual field
+deficits might you expect to find in patients with damage to particular visual
+components or particular visual pathways. Well, we will have an entire tutorial on
+that topic, and I'll see you then.

@@ -1,0 +1,96 @@
+Hi. Welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. In our last episode, we talked about
+hacking as a process, and the very first phase of that process is reconnaissance. What is reconnaissance? Reconnaissance is, frankly, when the hackers
+are in the planning phase. This primarily focus is
+around conducting research, and conducting research on an organization can mean
+several different things. It can include what
+technology is being used, but it can also include things like who actually works
+at the organization, the system administrators, as well as the admin assistance, as well as the
+corporate leadership. It even includes things like the suppliers and vendors
+of an organization. Who do they use to
+conduct their payroll? Who do they potentially use to service their heating
+and air conditioning? These are all potential
+attack vectors into the organization that hackers explore and are all part of the
+reconnaissance process. What are some examples
+of reconnaissance? Well, maybe identifying
+employees on social media, doing research on
+Facebook or Instagram, or better yet, LinkedIn. Maybe discovery of
+internet-facing computers and what services are
+potentially running on them. There are a variety of different freely
+available utilities that one can use to identify what computers are on the Internet for a
+particular organization. What vendors does the
+organization actually use to manage let's say its physical systems like it's heating and
+air conditioning? They may have direct access
+into the target's network. Even details on the
+operating systems and the network
+structure of the target. These are all examples
+of reconnaissance. What are some techniques? Well, in general, there are
+three major techniques. The fist is technical. Technical techniques
+might include trying to answer questions like, what public devices can
+I see on the Internet? What information
+can I glean about their domain name or what services are available on those Internet-facing
+devices? Just from gathering
+basic information that we know exists
+on the Internet, allows us to get a
+better understanding of what the attack surfaces and
+potential points of access, just exploiting vulnerabilities
+in the technology. The second technique is social. Because remember, cyber is not simply about the technology, it's the interplay between
+technical and human systems, so understanding
+the attack surface specifically as it relates to the humans in your organization is just as important
+as the technology. I want to know who works
+in that organization. What roles do they play? Who's the system
+administrator versus the CEO versus the
+Admin Assistant? Can I understand maybe
+what drives them, what their motives are, what their hobbies are? Because if I understand
+those things, then I can generate different types of
+techniques to potentially exploit them and subsequently gain access to your network. I might even be able to find very practical information like what's their email address. That might be really quite
+useful if I want to send out a malicious email to all the employees in
+your organization, and if I know what
+motivates them, what their hobbies are, maybe I can entice them
+to actually click on it and allow them to install
+my malicious software. So there's a social element to the reconnaissance process. Third, there's an organizational
+component to this. I need to broadly
+understand what your organization does and what the organizational
+units are. Are you primarily broken up into three or four major pieces that are geographically
+dispersed? Do I have HR units which are distinct from other parts
+of the administration? Who handles your manufacturing? Who deals with the logistics? Because depending on
+what my end goals are, whether it's distilled
+customer information or distill your
+intellectual property, or to create a major disruption, I need to understand what parts of your
+organization do what, that is all part of the
+reconnaissance process. It might also
+include things like, who are your corporate leaders? My guess is that your Chief Executive Officer or your Chief Operating Officer would have a lot of information about the strategic
+direction of the company. If I'm engaging in
+corporate espionage, I might want to target
+them specifically. What units handle customer data? If I'm a criminal
+organization and I'm primarily motivated through
+a financial motive, how do I actually
+know where to go? Well, if I understand
+a little bit more about your
+organization and who handles customer complaints or deals with questions for your
+product, will guess what? Maybe I want to target
+the systems they use because they
+probably hold a lot of customer data that
+I can acquire and eventually sell on the dark web and make some sort of profit. What are some of
+the results from all this reconnaissance
+that I'm conducting? Well, they might include
+things like the listing of all your
+Internet-facing devices for the targeted organization, their location on the Internet, so their IP addresses. The services that
+are running on them, and the known vulnerabilities
+those services have. It might also include lists
+of people who I could potentially use as part
+of a targeting list; employees, their email, the
+positions that they serve, and the social media
+accounts that they have. Those are all things
+that I can use as a threat actor to potentially gain access to your network. What are some of the takeaways? Again, hacking is a process. It's not any single activity. It is a process which includes lots of different activities
+in different groups. The first phase of that
+process is reconnaissance. Reconnaissance includes both technical and
+non-technical activities that are all part of this
+broader planning stage. The results of this
+reconnaissance could include things
+like a list of devices, their are vulnerabilities, or it could include
+things like a list of people and a way of actually connecting to them
+through their email or their social media handle. Reconnaissance is the first
+phase of the hacking process. In our next episode, we'll talk about
+the second phase, Weaponization. I hope
+to see you next time.

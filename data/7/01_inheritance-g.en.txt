@@ -1,0 +1,149 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In this video, we'll be talking about
+some of the very basic history of and understanding of inherit, and I'm referring specifically
+in this case to genetic inherit. If you think back hundreds of years ago, people understood that there was something
+being passed on from parents to offspring. This was true long before they
+knew anything about genes or anything about DNA being the genetic
+material or anything like that. Why is that? How did we know that there
+is some sort of information passed on from parents to offspring? Well the answer is quite simple. If you look around, people tend to
+look like their parents or their kids. So familial resemblance is obvious, that
+we all the time see people and say oh, you look far more like your
+kids relative to somebody else. Now some of that could be that
+you are in a common environment. You live in the same house or
+in the same community as your parents do. However, we don't see as as much resemblance in families
+when you have adoptees. You might have some, but
+quite often you can have adopted kids that don't look at all
+similar to their parents. They also may have very little
+correlation in other traits, such as dietary preferences or IQ, which is the intelligence coefficient,
+things like that. So, did people try to explain this? Well, Charles Darwin attributed
+this familiar resemblance to some unknown factor here for to, as a gemmules. And there's a quote here as you see on
+the slide from a letter to Francis Galton. If I ask myself how you derive, and
+where you place the innumerable gemmules contained within the spermatozoa formed by
+a male animal during its whole life, yeah, he said male, I cannot answer myself. Now, actually there was some
+information at this point about genetic inheritance from the famous
+pea experiments by Gregor Mendel. However, Darwin did not know about them. Now, it's important to
+understand genetics. And it would've been actually very
+helpful for Darwin to understand genetics to help us understand the process
+of evolution as well. There's something that comes out if you
+don't really understand genetics that becomes a problem for evolution. So let's look at this. Imagine that you had some tall
+individuals in a population and some short individuals in a population. And let's say that offspring were
+always intermediate to the two parents. So if you have a tall parent,
+let's say somebody who's six foot, let's say a six foot tall mom and a five
+foot tall dad, would you be five foot six? Would you be exactly in the middle? Well let's hypothesize that
+that was true for a minute. Or in this picture right here let's
+imagine that white flowers and red flowers gave rise to pink flowers. What would happen if this happened
+over time, over and over again? Eventually everybody in the population is going to come back to
+some sort of average. Basically, you'll lose all
+variation in the population. This is referred to as the problem
+of blending inheritance. Let me give you a numerical example
+just to illustrate this point. So here's the numerical example, now
+let's imagine you're looking at height or any sort of continuous trait,
+and let's say for example you're thinking
+five foot x inches. The numbers depicted here are the number
+of inches after five feet. So we have here, a dad who's 5'4'',
+a mom who's 5'9''. Dad who's 5'5'', mom who's 5'8''. Dad who's 5'2'', mom who's 5'6''. Okay, so
+basically any sort of continuous trait. In this case we're having
+it range from zero to nine. So each of these individuals is gonna have
+a kid and were going to assume the kid has an exactly intermediate
+trait to the two parents. So if the dad is 5'4'' and
+mom is 5'9'' the kid is 5'6'' 1/2''. If the dad is 5'8'' mom is,
+sorry dad is 5'5'' and mom is 5'8'', again the kid is 6 and
+a half inches etc. So look what's happened between the first
+generation and the second generation. In the first generation we had
+a range from zero to nine, the second generation we've
+lost a lot of this range. We're now going from 2 to 6.5. So what happens if we iterate
+this over multiple generations? Well a lot more variation gets lost. So here I just took this person,
+put them there, this person put them there,
+this one here, this one there, etc., etc. And you see as we iterate this more we
+initially had this range from 2 to 6.5, but as we take more and
+more averages across the population, the range has now gone down to
+2.75 to 6.5 in generation three, and even further in generation
+four to 2.875 to 5.875. So if we iterate this over and
+over again, an infinite number of times, we will eventually lose all
+variation in the population. Everybody will be exactly intermediate
+in the same height and if you don't have variation, then you can't actually
+have evolution by natural selection. Because there's no trait being inherited
+that allows for greater survival or reproduction, since everybody is the same,
+everybody is presumably surviving or reproducing. The same with respect to whatever
+it is they're inheriting, but more fundamentally, since when we
+look in any natural population, we do see variation and we do see
+variation that appears to be heritable. This poses a problem for
+understanding heredity more generally and one possible solution
+to this was tossed out. This was from Jean-Baptiste Lamarck. So this idea that variation in
+some way needs to be created or renewed within populations for
+evolution to happen. So what Lamarck suggested is something
+along the lines of what's called the inheritance of acquired characters. Now this right here is a quote
+from Lamarck's writing. The idea here is that, basically, if you use something it then can grow and
+then that gets passed on to offspring. So some anecdotal examples would
+be something like a blacksmith. Blacksmith is using their
+muscles all the time to, you know, to work with their metal. They seem to have these big muscles, and if you look kids of blacksmith's
+often have these big muscles too. Same sort of thing may have been suggested
+for giraffes that in stretching to reach the leaves on the trees, they are going to
+stretch their necks up and somehow this use of neck and stretching it actually
+gets it to be passed onto the offspring. So they then had offspring
+with slightly longer necks. This was the idea that was tossed out. Darwin actually adopted this idea for gemmules in some of his later
+editions of on the origin of species. Now you may know that this
+is not exactly correct and I'll show you one case where I messed up. If you go back to my tenth
+grade high school class, my teacher Mr. Bennett asked a question. He said, if you were to cut
+someone's left arm off and they have kids would they one or two arms? That was one question on a quiz. The next question is, if you were
+to cut someone's left arm off, and cut their kid's left arm off,
+repeating for 20 generations, would the 21st generation kid have one or
+two arms. Well, I got the first one correct,
+cuz I said the answer was two. Just cuz you lose an arm doesn't make you
+lose an arm and have kids with two arms. But somehow I thought, maybe this would get passed on if
+this happened over and over again. And this is much more along
+the lines of what Lamarck had. Now, that is not true. In fact, if you were to cut
+somebody's left arm, repeat that for 20 generations, 21st generation
+kid would still have two arms. Now the reason for this and the reason
+that variation is not in fact lost, the way I portrayed it in
+the context of lending inheritance, is because we have
+particulate inheritance. We are actually transmitting bits
+of genetic information that remain distinct in the offspring. We'll talk about this much more the next
+lecture, exactly how this works. But, just to put a couple of points
+on this, we are not a simple copy of our parents, nor are we necessarily
+the mid point of our parents. It is quite possible to have two
+tall parents have a short kid or two short parents have a tall kid. Irrespective of any sort of environmental
+or dietary effects, anything like that. You can also have blue-eyed
+offspring from brown-eyed parents. This is very frequently observed. And basically, traits can be masked. It's because these particulate inheritance
+pieces can be masked by other particulate. Also, genetic diseases can crop up or
+just new traits in general, it doesn't have to be disease. Now, all of this was known long before, very long before we knew that
+DNA carried this genetic code. And, a lot of this comes back to
+this fellow here, Gregor Mendel. We'll talk about him in much more
+detail on the next set of lectures. Now, I do wanna stress one point. That inheritance is actually similar
+across most animals, and many plants, and even fungi. Now many species are diploid. This is a very important word for
+you to know. Diploid means that you have two copies of the entire genetic code in your body,
+right? You have one gene copy
+that came from one parent, and you have another gene copy that
+came from the other parent, okay? Now, you're not intermediate, but
+you actually have these two distinct, complete sets of gene copy for
+every gene in your whole genome. Now this is true not just for you but
+again for most animals and many plants and fungi and in fact many of the same
+proteins and structures are involved in inheritance in you as in various plants
+and fungi and as well as other animals. And it's because of this
+that people tend to use model organisms to
+understand inheritance. We say model organisms, these are animals
+or plants that people work with, or fungi as well,
+to try to understand genetics. But we're not necessarily
+interested in them themselves, but we're using them to understand
+genetics more broadly, because we presume that it applies
+very similarly across all species. So many of you know, for
+example, the famous fruit fly. People don't work on fruit flies
+because they love fruit flies or especially care about fruit flies or
+want to kill fruit flies. They use it because they are easy
+to work with in a laboratory. Same sorts of things for
+mouse, for Xenopus frogs, for zebrafish, for this plant right here,
+it's Arabidopsis thaliana. So this is why people use model organisms
+because patterns of inheritance and the genes involving inheritance tend to
+be the same across most living species. Now let me just give you an idea
+of what's to come, foreshadowing. So these are some questions
+to be thinking about. I'm not asking you them just now. So how do offspring get
+genes from their parents? Basically, how do these single copies of
+all the genes in the genome from your dad and from your mom come together and
+fuse into what becomes your gene. Hm, and
+are traits controlled by one gene alone? Is there a single eye color gene. Is there a single diabetes gene? Is there a single cancer gene,
+things like that, or are there many genes that
+contribute to these traits? And you can probably guess
+the answer to that one. It's the second. And finally, this is again what I hope to be getting to
+you by the end of the genetics section. How do we find genes
+associated with traits? We'll come back to these points and I hope
+you're enjoying this, thank you very much.

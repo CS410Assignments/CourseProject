@@ -1,0 +1,168 @@
+Well, now that you've been able to
+refresh your understanding of the anatomy of the adult form of the human brain in
+relation to the changes that took place in the neural tube, that gave rise to
+this fantastic form, what I would like to do is to begin to talk about some of the
+genetic and molecular mechanisms that are responsible for establishing regional
+identity along that developing neural tube that ultimately leads to the
+formation of the human brain. Well this story, really took off as
+biologists began to explore the genetic basis of development in invertebrate
+systems and of course one of our favorite invertebrate model systems in biology is
+the fruit fly, drosophila, and what was discovered is that there are a set of
+genes that help to define. The segments of the developing drosophila
+larva. So here is a representation of the
+drosophila larva. And what we appreciate of course, is that
+this animal has a segmented body plan. So what was discovered several decades
+ago is that the segmentation of this developing larva reflects the expression
+of particular genes that establish regional identity.
+Such as this first thoracic segment of the larvae, which goes on to form what we
+call the prothorax and the drosophila. and it's from that prothorax that
+particular. body parts emerge, such as this first
+limb that emerges from the transformed larva into the adult form.
+Well, much molecular and genetic biology has gone on over the decades, and we've
+come to recognize that this segmentation of the developing larvae into an adult
+form reflects the expression of what we call, in drosophila, Hox genes, and their
+homologues in mammalians, including humans are called homeotic genes.
+So, in the human genome, we now know that there are four clusters.
+Of these Hox genes or these homeotic genes.
+Sometimes we call them Homeobox genes. And these clusters are responsible, we
+think, for beginning to establish some regional identity in the developing
+nervous system. There is an anterior to posterior pattern
+of expression of these clusters. Of Homeotic genes that help to establish,
+for example, the various segments of the human spinal chord.
+And the major divisions of the brain stem.
+Well, why should this be important? Why should you be motivated to learn
+something about these homeotic genes? Well, I've already challenged you to
+consider in some detail, the anatomy of the differential regions of the human
+brain stem for one very good reason, to understand the location of the cranial
+nerves in relation to divisions of the brain.
+So, hopefully you recognize the, relation of the trigeminal nerve to the pons and
+at the junction of the pons and the medulla we have an abducens nerve which
+is not present in this particular specimen, but we see very nicely here our
+cranial nerve seven. The facial nerve.
+And certainly a very beautiful vestibulocochlear nerve present, cranial
+nerve eight. And even just, you can see I think here,
+just a few nerve roots of cranial nerve 12, between the medullary pyramids and
+the olive, which is present out here laterally.
+Well, the relationship of these cranial nerves to particular regions of the
+developing brain stem seems to reflect the specific expression of homeotic genes
+that help to identify regional identity along the length of the developing neural
+tube. This is especially important.
+For the specification of position within the developing brain stem.
+we see the expression of particular motor nuclei of the brain stem, for example,
+that seem to be derived from particular regions of the brain stem that express a
+set of these homeotic genes. So this is an example of genetic
+specification determining regional identity and there are probably inductive
+signals at work here that establish this identity.
+And one of the many outcomes of this kind of inductive signaling is the
+specification of the identity of neurons. That go on to form critical structures
+that are important for form and function in the human nervous system, including
+these cranial nerves. So, if you've wondered why are the nerves
+found exactly where they are in the human brain, part of the answer is going to
+have to do with the differential expression.
+Of homeotic genes at particular points in development and at particular locations
+along the length of the developing neural tube, especially in that region that goes
+on to form the brain stem. Well, next I'd like to turn our attention
+to. This matter of inductive signalling and
+give you a few examples, not to overwhelm you with molecular detail but rather to
+give you a feel for how inductive signalling works and how these signals
+that are secreted out into the extra-cellular spaces in the developing
+embryo. Can have such a formative impact on the
+fate of cells that are in the process of developing within the walls of the neural
+tube. Well, as I mentioned, inductive signaling
+really begins in earnest in nur relation as the neural tube begins to form.
+And signals are expressed by this notochord that begin to influence the
+differentiation of these special regions in the neural tube that establish a
+dorsal ventral access. There is a floor plate that begins to
+give rise to it's own signals. That will establish a ventral identity in
+this region of the developing neural tube.
+And I think you know enough now about the spinal cord to connect the dots here and
+realize that ventral identity is going to give rise to motor circuits and alpha
+motor neurons that will grow out and. Connect the central nervous system to
+effector systems, namely our stride and muscles.
+Meanwhile, this roof plate will give rise to inductive signals that establish a
+dorsal identity in the developing walls of the neural tube.
+And dorsal, I think is you reflect on your understanding of the spinal cord,
+implies the development of somatic sensory neurons that are receiving
+incoming information about the experiences of our peripheral tissues.
+And integrating them within the central nervous system, giving rise to.
+Local circuit connections, as well as long distant pathways that convey somatic
+sensory signals to more rostral regions of the developing brain.
+So, dorsal and ventral become really key regions within the developing neural tube
+that have an influence on the ultimate fate of the cells that are developing in
+those regions. So, I'd like to give you some specific
+examples of these inductive signals so you have a big of a feel for really
+what's going on here. So one of the best understood inductive
+signals is called retinoic acid. So retinoic acid is a small lipophilic
+molecule, metabolized from Vitamin A. It's a very important inductive signal
+and it's one of the principle substances that explains the importance of Vitamin A
+for early brain development. So, Retinoic Acid is synthesized and
+released as a [UNKNOWN] molecule. It can readily translocate through
+cellular membranes. And it can bind to a receptor within the
+cell, and that receptor becomes a transcription factor that translocates to
+the nucleus, and it can interact with other binding proteins and turn on
+particular genes. And so that's what we see here.
+We see retinoic acid interacting with its receptors and other complexes that can
+modulate gene expression. Now retinoic acid provides one of those
+examples where the life experience can have an impact on the developing brain.
+Insufficient Vitamin A in the diet of the mother can have an impact on the capacity
+to produce this important inductive signal and there can be deleterious
+consequences for the formation of the early nervous system.
+There is an additional problem that can be encountered with respect to retinoic
+acid signaling. And that is an excess of vitamin A.
+And there are a variety of dietary supplements and even topical agents that
+can be purchased for other reasons that include Vitamin A or Retinoic Acid, and
+excess Retinoic Acid in the developing embryo likewise can be extremely harmful.
+In fact Retinoic Acid can become what's called a teratogen which is a exogenous
+substance that can induce malformations in the developing embryo.
+If you'd like to learn a little bit more about this particular topic, I would
+refer you to box 22c found in our textbook, which gets you a little bit
+more of the back story regarding how Retinoic Acid signaling shapes the
+developing brain. Well, let's consider some other kinds of
+inductive signals. Most of our conductive signals are
+actually not, steroid hormones. They are peptide hormones.
+So, these are substances that are secreted and interact with surface bound
+receptors. And one of our peptide hormones that I'd
+like to talk just a little bit about is called bone morphogenetic protein or bmp
+for short. And the way bmp works is that it
+interacts with a surface receptor here we see, bmp being secreted.
+by one kind of cell and it interacts with this receptor.
+And the receptor is what we call a serine kinase.
+So this means that it phosphorylates a serine residue in target proteins.
+And this serine kinase phosphorylates a transcriptional regulator.
+Called s, m, a, d, or smad for short. This is an acronym you don't need to
+worry about, its name, but I do want you to understand something about how this
+system works. So, he activated smad then associates
+with additional helper proteins and this then trans-locates to the nucleus where
+it acts as a transcription regulator. Now, B M P signalling is especially
+important in mesodermal tissue. As the name implies Bone Morphogenetic
+Protein, bmp signaling can induce the development of bone cells.
+Now, in ectoderm, bmp signalling can induce the formation of epidermis or
+skin, unless bmp signal is controlled. And this is where these additional
+factors that are illustrated here come in.
+There are factors called noggin and chordin; they have somewhat fanciful
+names. That can antagonize the interaction of
+bmp with it's receptor. When noggin and chordin antagonize the
+bmp signaling pathway preventing BMP from interacting with it's surface bound
+receptor, that's ectoderm will be diverted from an epidermal fate.
+to a neural fade, with noggin and chordin, this tissue will differentiate
+into what we call the neuroectoderm, or the neural plate.
+Now, I think that this is a really cool and fascinating thought which I've
+highlighted for you in your tutorial notes, and that is That what these
+molecules noggin and chordin really do is they rescue this ectoderm from becoming
+skin. They induce the differentiation of this
+neural plate and, subsequently the formation of the entire central nervous
+system. So from that point of view I think we can
+all thank our noggin and chordin for giving us a brain and a spinal cord.
+One last inductive signal I'd like to just talk through is one that has perhaps
+the most memorable name of all especially those of you that have some history in
+video gaming. This inductive signal is called SHH, or
+Sonic Hedgehog, and Sonic Hedgehog is a protein hormone that interacts with
+receptors that are bound to the surface, and its receptor is a protein called
+patched that interacts with a protein called smoothened, and these interactions
+will go on to activate a series of transcription factors that were
+originally identified in brain tumors or gliomas, and when.
+Sonic Hedgehog interacts with patched in the presence of smoothed, what we find is
+a switch in the transcription factors that are regulated within the cell.
+And, specifically, this Gli1. becomes induced, and it binds to DNA, and
+modulates gene expression. This Sonic Hedgehog mediated signaling
+pathway is critical for the proper closure of the neural tube.

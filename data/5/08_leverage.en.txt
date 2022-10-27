@@ -1,0 +1,107 @@
+If a company or
+an individual borrows money to buy assets, we say that person or
+company is leveraging. Leveraging means you are putting more
+money into the asset than you have. You could buy, if you have $100 to
+invest you could buy $100 of stocks, or you could buy $200 of stocks and
+borrow $100. That makes you in a riskier situation,
+but also both up and down. So if you bought $100 worth of stocks and
+you're lucky and it doubles in value to $200,
+you've made $100. But if you leveraged and
+the stock doubles in value, your portfolio goes from 200 minus
+100 to 400 minus 100, or $300. So you double your profits. But on the other side of it is
+if the stock falls in value. Suppose you bought it unleveraged. You bought $100 worth of stock and
+it falls in value by 50%, then you are down to $50, you've lost 50. But if you leveraged and
+you borrowed $200 worth of stock and borrowed $100,
+then if it falls by 50% you're wiped out. So leveraging increases risks. People look at how
+leveraged economies are and wonder about the chaos that might
+ensue in a market correction. For example, China is widely described as a highly leveraged country, it's
+gotten worse after the financial crisis. There was a Wall Street Journal article
+just the other day pointing out that corporate debt,
+borrowing by corporations in China. It is 160% of GDP in China. Whereas in the US, it's only 70%. So that means the Chinese
+economy is leveraged. And it could do very well
+as a leveraged economy, but it's more vulnerable and
+this is a concern. So debt leads to bankruptcy. If you have no debt,
+you normally don't go bankrupt because bankruptcy occurs when
+your creditors are after you for non-payment and normally, you would
+just pay them if you had the money. It's just when you don't have
+the money that you are in trouble. Now I think a very important,
+I keep coming back to Irving Fisher. As I say, I'm a little bit biased
+because he's a Yale person but I never even met the guy and
+I don't know if I would like him. He's kind of a quirky guy. He would invite students over for
+dinner at his house, and he would tell them at dinner, you have to chew each bite
+100 times before you swallow. Because he thought that was health. Anyone do that? [LAUGH] Be careful to chew your food well? It must have been a little bit odd
+having dinner with Irving Fisher. But he was a brilliant economist and he wrote an article in 1933,
+in Econometrica, called the Debt-Deflation Model
+of Great Depressions. In 1933, prices were falling at a rapid
+rate because of the depression. We had huge deflation. And he thought maybe that's why
+we are having the depression, and here's his train of thought
+as he describes it there. Normally people who borrow
+money are the optimists, right? They're borrowing, they're leveraging. They think the stock market will go up or
+some other market will go up and they want to get it. And they're willing to take risks. So you have the risk-taking optimists on
+one side and then you have the naysayers. They are people who are pessimistic and
+risk-averse and they don't want to take
+chances as the lenders. So, what happens when
+there's a huge deflation and consumer price index goes down? Well, that magnifies the real
+value of the debt, right? If you owe $100 and
+the consumer price index falls by 25%, your debt has gone up to about 133,
+it's gone up a lot. So what ends up happening in a deflation is that the debtors get beaten down. The optimists have less
+wealth in real terms and the pessimists have more because now the
+$100 that they loaned is worth a lot more. So he thought this has to be important. You know that people are different. Some people are natural optimist, and
+some people are just, not necessarily that they're just pessimistic, but
+they just don't want to get into that. They're not entrepreneurial. I don't mean that disparagingly. They're just a different personality. Maybe they're artistic or something else. But then in a depression,
+wealth gets distributed towards them so in a weighted sense they
+get more votes now. So you've now rewarded the pessimists and
+the world is being run by the pessimists. So no wonder we're in
+a depression in 1933. Now the recent crisis, that is of 2008/9. That's no quite so recent anymore,
+but it's still with us. Did not bring much deflation,
+not like 1933. But what it did do is it produced lower
+consumer prices than people expected. because inflation often
+practically disappeared, and there was some deflation at times. So that means that irrelative to
+expectations, wealth had been distributed, redistributed from those who borrowed
+money to those who lent money. So it's still true and
+it may be important factor to consider. This brings up a question
+that I've already alluded to. Why isn't debt indexed to inflation? Well it isn't. This is the puzzling thing about human
+nature, people just don't get it. And it happens again and again that we
+have major shifts in the price level and it redistributes debt value
+between debtors and creditors. People just don't get it,
+I think they're afraid of index numbers, this calculations,
+the consumer price index, there's some calculation,
+you want my debt to be tied to a formula. So anyway I've already alluded to the fact
+that I think we should create an indexed unit of account like they have in Chile or
+Mexico or some other countries. So that it would be easier for
+people to contemplate indexation, but they dont, this is the real world. So any time we see unexpected
+behaviour of consumer prices it has real effects on the economy. John Geanakoplos here at Yale has written a number of papers
+on what he calls the Leverage Cycle. And pointing out that leverage has
+varied quite a bit through time, notably recently in
+the United States in 2006, just before the financial crisis. Leverage became extremely high,
+particularly in the housing market. Banks were allowing people to borrow, typically something like 97% of the value
+of the house, to borrow a house. So this leverage, you think anyone
+who takes a risky investment and borrows 97% of the money,
+that's really a daring thing to do. But everyone was doing that. Anyone who was in that stage of
+the lifecycle where you'd buy a house, it's funny how people value, I don't think that people are consistent
+at all in their thinking about risk. A view developed in 2006 that the housing
+prices are going up, I said before 2006. Housing prices are going up so fast you
+can make a lot of money by, in fact you could make a huge amount of money,
+percentage-wise, by just buying a house. If you bought a house in 2000,
+home prices went up, well, I don't know, I should have this memorized, but
+let's say they went up 50% after that, you make 50% on your investment,
+it's pretty good. But if you borrow 97% of the money, it's
+just astronomical what you could make. People got excited about
+leverage because they also had the perception that
+home prices don't fall. I know this was out there,
+people had this idea. Why do they think that
+home prices don't fall? Just the Law of Economics,
+house prices never fall? But we know the law is wrong because
+in 1933 they were falling rapidly and so, I guess that's beyond
+people's memories. So, people got kind of an optimistic
+bias just before the financial crisis. And the economy leveraged itself up. It isn't the government that did it. The government if anything,
+was leaning against that with regulations. So anyway, so
+that's the end of my thoughts. So is debt immoral? I tend not to think of
+it at all as immoral. We talked about the Irving Fisher diagram. How the ability to borrow and
+lend raises utility. I think that at various times
+in life you need money, the extreme case is you need money for
+illness, you're sick, you're going to die,
+you need expensive treatment. Of course you borrow the money. So lenders are not evil. Even if they lend, we talked about this,
+even if they lend for your honeymoon, for a vacation. That's not evil, either. You may know, psychologically, your fiancee needs that if you
+want the marriage to succeed. And that's just something you have to do. It's not crazy, it's not self-indulgent. So I think debt is a good thing,
+but not always well-managed.

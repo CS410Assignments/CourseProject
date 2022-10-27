@@ -1,0 +1,249 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In this set of videos we'll be
+talking about evolutionary trees, and the field of phylogenetics, the study
+of relationships among organisms. In this first video, we'll look at
+how you read evolutionary trees, and how you understand
+the information within them. And then in subsequent videos, we'll look
+at how you generate evolutionary trees and some uses of having them. So let's go ahead and get started. This tree of life analogy is one that
+many of you are probably familiar with. And we commonly conceive
+the relationships among organisms in the context
+of this tree of life. Now,this is a useful visualization for
+evolutionary history. And this can be done within a species
+among different individuals, almost like a family tree. Or it can be done among
+close related species, or it could be done among all species. You see this dates back to
+Darwin's Origin of Species book. This was actually the only
+image in Darwin's book, and it shows this tree of life. Now, there's a couple of
+different meanings for trees. And, here are two related
+meaning of trees. One is you can look at trees in the
+context of groupings of similarities or classification. Or you can think of them in
+the context of ancestry relationships. Now, let's do these two separately first
+and then we will bring them together. So, looking at the figure on the left
+here, we have a whole set of vehicles. Now which of these vehicles is
+most similar to each other? Well we have the two Honda cars,
+very similar to each other. They are motor vehicles just like
+this Toyota truck over here. But they're clearly not the same category. You'd say they're a little bit
+less similar to the truck, than they are to each other. And they're very dissimilar to
+these pedal vehicles way over here. So the tricycle and the bicycle,
+which are very similar to each other. So, this would be a categorization
+just in terms of similarity. That these two are very similar,
+these two are very similar, this is kind of similar to the others. And they're all in this
+general group of vehicles. Well, that's just in
+the context of classification. Another way of looking at trees is in
+the context of ancestry relationships. I've depicted this here with
+a piece of the royal family. We have Queen Elizabeth II
+here on the bottom, and we have several of her grandchildren. So we have Prince William and
+Prince Harry, who are brothers. We have Princess Eugenie and
+Beatrice who are sisters. And we have Zara who is their cousin. So, if you look, these two are sisters. They are very similar to each other,
+in appearance and in relationship. These two are brothers and are very
+similar to each other in appearance and relationship. And all of them are somewhat similar, they're more similar than someone
+just at random on the planet. Because they share this common
+ancestor of Queen Elizabeth. Now we can take this further to
+take a look at classification groups in the context of
+evolutionary relationships. Many of you are familiar with some of
+these basic classification groups, so let's focus on these animals
+here on the far right. Now these are all animals,
+there are not plants here. So they have one thing in common. They are all animals. Okay?
+The top five, here as you can see. The top five here all have a backbone, so
+they are all referred to as vertebrates. So I have that classified over here,
+their are all vertebrates, in contrast the fruit fly
+there is an arthropod. The top four here Are all mammals. They all give milk to their offspring. So they have something in common and they're more in common with
+each other than with the rest. The top three are purely carnivorous. They only eat meat. So that's something they
+all have in common. And the top two both are canines. They are both in the group that has dogs,
+for example. And then ultimately they are different. The wolf and
+fox are different from each other. So you see we have these
+classification groups. And this hierarchical
+classification system that we use today was begun by
+Linnaeus way back in the 1700s. Now he didn't talk about this in
+the context of relationships, but instead he used it as a way of categorizing
+the diversity we see in nature. And you see it goes from the most general
+down to the most specific, right? You see the different groups
+have different things in common. And we see this in this
+diagram that I made here. That carnivores have more in common with
+each other than they do with primates, like us. Mammals have more in common with
+each other than they do with birds. Vertebrates have more in common with each
+other than they do with arthropods, etc. So these classification groups actually
+imply evolutionary relationships. This was one of Darwin's insights, that if we were to draw a tree of
+life it may be along these lines. Where the fox and
+wolf have a very recent common ancestor. Further back, see the ancestor they had,
+the common ancestor with cats. Further still back,
+you see a common ancestor with humans. Further still a herring gull, and further
+still the vinegar fly or fruit fly. Now this sounds fairly straightforward. In practice, however,
+you can get conflicting results. Depending on which
+characteristics you use for making this sort of classification system. So one of the examples that I
+used before was vertebrates. So vertebrates are animals
+that have a backbone. If you were to categorize
+the animals here that you see, which ones have a backbone and
+which ones don't? Well, the guinea pig obviously has
+a backbone and the wood duck has backbone. Whereas the lady bug and
+the spider do not. So this is very clear that these two
+are similar and these two are different. In contrast what if you use a different
+character what if you were to use wings? Well here the ladybug and
+the wood duck have wings. The guinea pig and the spider do not. That is clearly not the classification
+that you would imagine off the top of your head. So you can get conflicting results. Well how do you resolve these
+conflicting results when you use different characteristics for
+making these groups? Well in part you use the weight of
+evidence, that presumably you're not going to just categorize things
+just by having wings or not. Or just by having a backbone or not. But there will be a number
+of characteristics and you look at how many of them favor one
+set of relationships versus the other. And you also will look at what I
+refer to new versus old characters. Now, I'm not gonna talk about
+that in this video, but I just wanted to toss that in there. Because sometimes when I first start
+talking about these relationships, people get caught up in that, and
+they say, but but but, what about this! So I just wanna put that down. And we'll talk about how
+you generate trees later. So what are some of the assumptions
+in making phylogenetic trees? One is we're looking at the summation
+of relationships over time. I love this figure. This comes from a paper by David Balm
+who's a friend of mine as well. So here we have four butterflies. You could add the parents there, and you see that there's some
+relationships among them. That this one has these two parents,
+this one has these two parents, etc. You can add earlier generations,
+you get this web of relationships. You can then look at the whole population;
+you see that this web gets more scattered. You can look at the whole species, and ultimately you get to
+this evolutionary tree. So what we're looking at is
+the sum of relationships. Think of it as the family tree of
+every organism that is ever lived. It is possible to generate
+that family tree. But it's going to be very,
+very, very dense. There's going to be a lot
+of different relationships. It's going to take a long, long time
+to go back to this evolutionary tree. And that's essentially what is
+reflected in the evolutionary tree. This summation of relationships over time. It is reflecting the evolutionary history. Most importantly just history. We are assuming common ancestry of all
+the species that are being studied are generating the phylogenetic tree. That is an assumption that
+we're putting into there. We're assuming there are clean
+splits into two or more taxa. In other words the tree bifurcates,
+it splits. It doesn't have to be just two it could
+actually split in three ways all at once. But we're assuming these
+sorts of splits over time. We're assuming the formation
+of new lineages. We're also assuming that
+once species do diverge, they don't actually come back together. OKay. So here's a sample evolutionary
+tree that I'd like you to look at, as well as some terms that
+I'd like you to know. So, first just look at the tree itself. And, this is a tree that you've seen
+before, so we have the wolf and the fox, which are canines, or sort of in
+the dog family I guess you'd say. We have our cat, wolf and
+fox which are all carnivores. And, we have our human, cat,
+wolf and fox which are all mammals. So what are the branches of this tree? Well, the branches of
+this tree are basically these lines coming out from a point. These are all branches, just like if
+you're looking at a actual plant tree. So these are all branches
+along the evolutionary tree. The nodes. Nodes are intersecting points of branches. So right here we have an intersection
+between the branch going to cat the branch going to the canines. Here we have a node that intersects
+the branch going to wolves. Oh I'm sorry the branch going to foxes and
+the branch going to wolves. And of course we have a node back here. So what do these nodes represent? Well let's think about this for a second. The nodes represent the branching point where you have a lineage that goes
+on to evolve into the modern fox, and a branch that goes on to
+evolve into the modern wolf. So this is the point where foxes and wolves share their most
+recent common ancestor. So back here, those entities that eventually would have offspring that go on
+to become foxes and wolves were the same. They had a single ancestor at the node and
+anytime before that node. Same over here, at this point
+in time the evolutionary tree. Some individuals may have descendants
+that go on to be cats, and some descendants that go
+on to be wolves or foxes. The root of the tree is the base. It's way down here and below that. So, that is basically the point of
+a most recent common ancestor for every individual that you're looking
+at in the evolutionary tree. Now there are such things
+as unrooted trees and I'm not gonna go into those in this class
+but you may see them in other contexts. So, you've looked at this tree and you see
+that there's these nice diagonal lines. You see the points where
+we have the nodes, these most recent common ancestors
+of particular sub groups. Now I want to emphasize that these
+diagonal lines are not necessary. There's other ways of
+representing evolutionary trees. And you see this is exactly the same
+representation as before except now the nodes are represented
+by a horizontal line. It's exactly the same as before. We still have the most recent common
+ancestor of humans with cats, dogs and wolves. About a hundred million years ago. And a more recent one for cats with dogs and wolves, and a more
+recent still one for Foxes and wolves. So again,
+there's different ways of representing it. Now we assess the relationships among
+individuals in this evolutionary tree, by looking at who shares
+the most recent common ancestor. So even if you didn't know that foxes and
+wolves were canines, you could tell they're more closely related to each other
+than to any other individual on this tree. Because when you look at it they share
+a fairly recent common ancestor. In contrast, cats with foxes share a more
+distant common ancestor over here. So the most recent common ancestor
+of cat with fox would be right here, which is further back in evolutionary time
+than the most recent common ancestor of fox with wolf. Now I want to stress, cuz there's something that
+people mess up all the time. Don't worry about who
+is next to who on top. Look at the most recent common ancestor. Common mistake is for people to think for
+example that, oh look, the fox is more closely related to
+the cat than the wolf is to the cat. Because look, the fox is next the the cat. But no, where is the most recent
+common ancestor of fox and cat. Most recent common ancestor fox and
+cat is here. If you go back in time, where do
+you get the ancestor that's shared? Right there. What about for wolf and cat? Same thing. That's the more recent common ancestor. So I'm gonna ask you a question. I'm gonna get you to look
+at a couple of trees. I want you to tell me if these
+trees are exactly the same. Or if they are different in terms
+of evolutionary relationships. Obviously, they look different. That's irrelevant. Are they the same or are they different in
+the context of evolutionary relationships. You may want to pause the video,
+cuz this is going to be an in video quiz. So I suggest you pause, and
+then think about it, and then play again when you're ready. Well, I hope that wasn't too difficult. So when you look at this, what is the most
+recent common ancestor of fox and wolf? Well, it's right there in this tree and
+it's right there in this tree. What is the most recent common ancestor
+of cat with either of the two canines? Right there and right there. And with humans, with all of them. Right here and right here. These are basically exactly the same tree. I mean if you look at
+the common ancestors, it's not like all the sudden foxes
+more closer related to human. Or foxes more closer related to
+cat in one tree than the other. The point at which you have
+the most recent common ancestor is exactly the same. That is important when comparing trees. Let me give you an example
+looking at just a family tree. Looking at this family tree,
+you see exactly the same thing. That we have Prince Harry and
+Prince William off to the left, we have these two in the middle,
+and this person off to the side. If you rotate this tree,
+this does not make William any more closely related
+to Beatrice then he was over here. It doesn't change the relationships. All you did was just rotate
+the depiction of the relationships. But when you look at where
+the common ancestors are. The common ancestors or the nodes are in exactly the same
+places here, as they are here. And the common ancestor is here for
+all of them. So the relationships did not change. It's very important not to look at the to
+see if the ends are nearest to each other. For example, these two are no
+more closer related here or no more distant related here. Then here. It doesn't matter who's
+next to each other. All that matters is where the most
+recent common ancestor is. In that case,
+the most recent common ancestor for those two people is
+Queen Elizabeth in both cases. Let's look at this in a broader sense. Here's a whole set of
+phylogenetic trees and all I've done in each of these
+cases is rotate the nodes. All of these are exactly identical. Every single one of these
+is exactly identical. Because again, the most recent common
+ancestor for a fox and wolf is the same. The most recent common ancestor for
+the cat with the others is the same. The most recent common ancestor for humans with the others is
+the same in each of these. These are all exactly the same tree. I'm emphasizing this a lot because,
+you know, I want you to see that it
+doesn't matter the ends. This is something a lot of
+students get confused in. But you see in each of these cases,
+the canines group together, right? The carnivores all group together. And then the human is always
+the most distantly related. So I'm gonna now a set. Here's a set of four phylogenetic trees. I want you to look at these, and you're
+gonna pause the video again just a second. Because there's gonna be an in-video quiz. I want you to look at these and
+tell me which of these is different. Well, I hope that wasn't too difficult. Let's work through it. So, B and D are clearly the most closely
+related in all of these trees, okay? Now, what's the next most
+closely related to B and D? Well, we look at the most
+recent common ancestors, let's start with number three over here. Here's the most recent common
+ancestor out from that. And that would group A with B and D there. A with B and D there. A with B and D here. Woops this is C with B and D. This is a different phylogenetic
+tree from the other two. So looking at which of these trees is
+different, A has a more recent common ancestor to B and D in trees two, three
+and four, but not in tree number one. So, tree number one is
+the one that's different. Let me give you another try. This is, I'll warn you ahead of time, you
+may consider somewhat of a trick question, but I hope it helps you
+understand the concept. Looking at this which species is or
+are most closely related to species A? Pause the video think about it for
+a second and take the quiz. So, this was a little bit tricky. Now, here's A and I'm asking which
+species is most closely related to A. So, let's go to the common ancestor. There's the common ancestor of A, there's
+a node between the branch leading to A and the next branch out. What you see is this branch
+goes both to B and to D. There is no difference in average
+relationship between A and D then between A and B. Because they share the same most recent
+common ancestor as depicted right there. So I hope that was useful for you. Now let me just talk very briefly
+about a couple of applications with evolutionary trees. We'll come back to another one in
+the third video of this series. Now generally speaking, evolutionary trees
+are of course used to classify nature and understand the process of evolution. You may want to know for example is a fox more closely
+related to a wolf or to a dog? Well by making an evolutionary tree
+you can find out which of those is more closely related. Now there are more specific applications
+both in medicine and in law. The medicine many of you
+are familiar with, the process for identifying flu strains for vaccine. That does involve file
+a genetic reconstruction. So this is a direct application
+evolution to health. That you want to see what is
+the diversifying strain of flu, make sure that gets into the vaccine. In terms of law,
+there's some interesting cases out there, where people have traced various
+infections, such as with HIV, to a source. And here are two court cases
+mentioned in this context. And in cases where people knowingly
+infected others, you need to establish that others contracted the virus from
+the accused, and not from elsewhere. And in doing that, evolutionary trees can
+be used to show that the victim strain of a fast evolving virus,
+is much more similar to the accused strain than to any of the others
+in the population. And that can essentially prove,
+at least with a statistical confidence. That the victim got the disease from
+the accused, and not from somebody else. And then if you have data showing
+that the accused knew that he or she was infected prior to that,
+then clearly they are guilty of intentionally withholding that
+information and passing on the disease. So that's one application of
+phylogenetic trees to law, and again we talked about one for medicine. Well I hope you enjoyed this piece. In the next video we come back to how
+we generate these evolutionary trees. Very exciting. Thank you so much.

@@ -1,0 +1,121 @@
+Welcome back to Medical Neuroscience and
+welcome to this tutorial on eye movements.
+It's a beautiful day in central North Carolina.
+It's a bit breezy. So, if you hear the wind blowing in the
+background, maybe the wind chimes behind me, or maybe a little microphone pick up
+of the wind I'll hope you'll pardon that. I'll try to minimize that as best I can.
+But otherwise, I'm really pleased to be addressing you in such a beautiful day on
+the topic of eye movements. So, this topic pertains to two of our
+core concepts in the field of Neuroscience.
+Once again, the brain is the body's most complex organ.
+And, secondly, what we encounter again, is a discussion of circuitry.
+That circuity is largely genetically determined and it provides the foundation
+for function in the nervous system. And, for this tutorial, the function of
+interest is: how is it that we can manage to keep our eyes focused on a visual
+target of interest? Or, if the case may be, how might we
+switch our focus to some new target? Well, that gets us into our learning
+objectives for this session. What I want you to be able to do is to
+discuss the five major types of eye movements and indicate the function and
+purpose of each. I want you to be able to discuss the
+neural circuits that are responsible for making saccadic eye movements.
+And I want you to be able to discuss the roles of the relevant parts of the brain
+that are involved in governing these eye movements.
+And we'll focus on two brain regions in particular, the frontal eye fields, which
+is part of the premotor cortex and the posterior part of the frontal lobe, and
+the superior colliculus, which is on the dorsal aspect of the midbrain.
+Well, let's begin by talking in very broad terms about the goal of making eye
+movements. Well, the usual goal is to adjust
+fixation. Now remember from our studies of the
+retina and visual pathways that what we actually look at closely, with high
+visual acuity is a fairly small region of the visual world.
+In fact, if I were to extend my, my thumb at arm's length, the width of my thumb is
+roughly that portion of visual angle that's actually seen well by the macula
+and at the center of the macula, the fovea.
+So, the challenge in observing our visual world with detail is to maintain our eyes
+on a visual target. Even if that target is moving or if our
+head happens to move. So, eye movements adjust fixation when a
+visual target of interest happens to be moving, such as maybe watching a bird fly
+across your field of view. and eye movements help to adjust fixation
+when our head is moving. So, this is sort of the complementary
+scenario where we want to focus on a stationary object, let's say.
+And our head is moving, or maybe our entire body is moving.
+And so, we want to make minute adjustments in order to maintain fixation
+so that central one to two degrees or so visual angle continues to project on that
+part of the retina that's most sensitive for high visual acuity.
+Now, sometimes we actually want to break fixation.
+We want to acquire a new visual target. For example all of you probably have a
+clock somewhere nearby. go ahead and look at the clock and see
+what time it is. Well, that act of acquiring the view of
+your clock where ever it may be on your computer screen, a wristwatch strapped to
+your arm, or maybe on your phone that happens to be nearby, or maybe a clock on
+the wall. All that required some change in visual
+fixation. So, that's yet a very specific kind of
+eye movement that we want to try to understand and we want to be able to
+discuss the circuitry that's necessary for making these kinds of eye movements
+in order to acquire a new visual target. Okay.
+Well, how do eye movements occur? Well, in one sense, eye movements are
+remarkably simple but they also give us an exquisite opportunity to gain some
+insight as to how the nervous system governs not just eye movements but all
+kinds of movements. So, the way in which they're simple is
+that the eye movements are controlled by six pairs of extraocular muscles.
+And here they are illustrated in this figure.
+there are the superior rectus muscles. Which, elevate the eye.
+There are the inferior rectus muscles that depress the eye.
+There are lateral rectus muscles that abduct the eye.
+That's AB duct, the eye. Which means move the eye towards the
+lateral side. And then there are medial rectus muscles,
+that AD duct, that is adduct the eye, move the eye towards the mid-line.
+Okay, so, so, these four muscles work more or less in a Cartesian manner,
+pulling the eye along one standard axis of orientation or another.
+Well, in addition to the rectus muscles, we have two oblique muscles.
+There are superior oblique muscles that turn the eye downward and inward, and
+then there are inferior oblique muscles that rotate the eye outward and upward.
+Well, these six pairs of extraocular muscles are innervated by three pairs of
+cranial nerves. Two of the nerves do just one muscle
+each. And then the third nerve does the
+remaining four. So, let's begin from the caudal end of
+the brain stem. And I'll remind you that our abducens
+nucleus, the somatic motor nucleus, along the dorsal margin of the tegmentum near
+the mid-line of the caudal pons, grows out a axon from its motor neurons and
+that axon innervates lateral rectus muscles.
+So that's easy to remember, right? The abducens nucleus abducts, AB ducts,
+the eye, pulls the eye to the lateral side, via the action of the lateral
+rectus. OK.
+Well, next we have the trochlear nucleus. The trochlear nucleus, also somatic motor
+nucleus. It sits along the dorsal midline of the
+tegmentum. Now, the upper part of the pons, or the
+caudal part of the midbrain, sort of where those two embryonic divisions come
+together. Well, these axons do something quite
+remarkable. They grow their axons towards the dorsal
+margin of the brainstem, which is unlike any other motor neuron we have in our
+body. All the other motor axons exit the brain
+stem on the ventral aspect of the brain stem, or, or the spinal cord if we want
+to extend the discussion to our alpha motor neurons of the ventral horn.
+The trochlear nucleus, on the other hand, has these alpha motor neurons that exit
+the dorsal aspect of the brain stem. And then they do something equally
+remarkable. They grow an axon that crosses the
+midline. I hope you've understood, perhaps from
+some unit one sessions, that we've had together, that all of the alpha motor
+neurons, except for these trochlear motor neurons, supply ipsilateral muscles.
+Okay. So, the trochlear motor nucleus is a real
+oddball. Not only do the axons exit the dorsal
+aspect of the brain stem, but they supply contralateral muscle.
+Okay. So, the abducens nucleus innervates the
+lateral rectus, the trochlear nucleus innervates the contralateral superior
+oblique muscle. All the other pairs of extraocular
+muscles are supplied by our ocular motor nuclei.
+With the ocular motor nucleus on one side of the midbrain.
+Here's our ocular motor nucleus, supplies innervation to the inferior rectus, the
+inferior oblique, the medial rectus and the superior rectus all on the same side
+as the nerve. Okay.
+So, the third cranial nerve supplies ipsilateral extraocular muscles.
+Now I'll just remind you that there are a couple of other components of that third
+nerve I want you to keep in mind. One is the parasympathetic component,
+that supplies the constrictor muscles of the iris.
+Remember that's derived from the Edinger–Westphal nucleus, those axons
+also run in this third cranial nerve. And also in the third cranial nerve are
+the axons of other alpha motor neurons, that are involved in opening the eye.
+Especially when we want to do so forcefully.
+Okay? So, so, that's another, set of alpha
+motor neurons in addition to those that supply these four extraocular muscles in
+the orbit.

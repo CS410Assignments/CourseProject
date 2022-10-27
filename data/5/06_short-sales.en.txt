@@ -1,0 +1,72 @@
+If we were to compute
+the optimal portfolio, given the risk and
+return of individual stocks, how do we know that you won't want to
+hold negative quantities of some assets? So that's what's called a short sale. You can, in most countries of the world,
+you can hold negative quantities of a stock just as
+well as you can hold positive quantities. If you get one of those online
+brokerage service sites, you have to maybe sign up for
+a special account to do short sales. But you can say I'd like
+to short this stock. So how do you own a negative
+quantity of a stock? What it means is you borrow the shares and
+you sell them. Now you owe the share to someone else. The stockbroker can help you do that,
+and it's very routine these days. For centuries it's been very routine. Most investors don't do it. So you could buy a negative
+quantity of a stock. Why would you do that? Well, you would do that disregarding
+the cap M that we're talking about. You might say you would do that if you
+think the price is going to go down. If the stock is overpriced,
+it doesn't look good. Instead of not buying it,
+I'll buy a negative quantity of it. Capital asset pricing model assumes that,
+yeah, you can buy positive or negative amounts. Let's find the optimal portfolio. But then it turns out, however,
+that if you really take the idea that everyone would do the same thing,
+no stock could ever have an optimal holding of a negative number because there
+would be a negative holding for everybody. And everyone would want to short it,
+and that can't add up. So we're going to allow
+short sales in our math, but we'll assume that they won't happen,
+not on average. >> Here's why short sales won't happen. In our model, the optimal portfolio
+decision of all investors in equilibrium will be symmetric or
+identical. Given that, we can conclude that no
+single investor will ever short a stock in equilibrium because then everybody in
+our model would be shorting that stock. Which brings up the question, who is
+providing the stock for you to short? >> So what I'm really coming up to
+is a kind of abstract model, and I'd like to talk about the real world. But the capital asset pricing
+model is a little abstract. So what it assumes is that
+everybody is rational. It assumes that nobody has any
+risks that are inherent to them. They all want to do the same thing except
+for maybe a variation of leverage. They all want to do the same thing. And so as a result,
+nobody will ever short a stock. Now this is an abstract model, and
+I have to apologize a little bit for it, because there are short sales. But it's a model, and
+it's actually a very important model. By the way, the United States government
+has historically allowed short sales, but they were briefly abolished. The US government got so scared that there
+would be a 1929-style stock market crash, that it made a temporary
+law against short sales. No one was allowed to
+short these 799 stocks. So we're going to develop a theory that
+puts no short sale restrictions on it. We're going to assume that
+everyone does careful calculations of the mean and standard
+deviation of their portfolio return. And let's see what that implies. What it does imply is that there
+will be a optimal portfolio and we should be on what's called
+an efficient portfolio frontier. I won't explain this. This is from David Swenson's book about how he moved Yale
+to the optimal portfolio. When he took over management of
+Yale's portfolio, it was originally not well managed, and it was not optimal. So here, this is his account
+of the movement of the L portfolio toward the efficient frontier
+of between 1990 and the year 2000. So we have scientific management
+of portfolios here at Yale. So we'll come back to
+understanding what this is. >> So
+just a general question about investing. How are sort of unsophisticated,
+middle-class people supposed to invest their money now with
+the interest rates so low? What is there to do? Like what can you do? >> Well, interest rates are starting
+to go up, so maybe wait five years. [LAUGH] Now here is a fundamental
+issue about rationality. And most people are not financial wizards, as your question implies. And so what should we do? Should we have the government invest for
+them? Somehow there's something wrong about
+that, too, because the governments don't have a particularly good record
+of deciding how to investments either. The United States has been an example of
+capitalist institutions going way back. We have had lively stock markets and other kinds of speculative markets. People have lost money and had been
+taken advantage of over the years. But on the other hand,
+it produces an atmosphere of attention to business that produces a general
+culture of sympathy to business. If you invest in businesses,
+then you'll be less likely to vote for a strong man leader who
+will corral businesses. So the US has set an example
+to the world about. Just letting some of these things happen. So you've got this guy, Thomas Edison, with these electric lights,
+he might be a nut, who knows. But some people invested in him. And there were other stories
+that didn't work out so well. But on balance, over 100 or 200 years the US system has looked pretty good and it's become spread. I mean, not just the US's but
+I'm saying having free markets and involving people at large in
+some investing decisions, it has worked out well, even though it
+doesn't work out well for everyone.

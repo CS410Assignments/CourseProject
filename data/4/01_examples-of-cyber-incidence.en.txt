@@ -1,0 +1,95 @@
+Hi, welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry, in our last video we talked about the challenge of the
+threat landscape and some of the complexities. We trying to understand the
+potential vulnerabilities, threat actors, a fax of the
+complex attack surfaces. In this video, I
+want to walk through a couple of practical
+examples of things that we've actually seen
+occur in the real-world to highlight those
+important issues. In our first example, I want to talk about
+a website defacement. A website defacement,
+just think of it simply as graffiti on someone's webpage. Imagine someone has a
+webpage up and they write, I don't like this particular
+person on top of it. It's a very simple
+way of creating a disruption to a
+particular website. In this case, we go back to
+the Rio Olympics in 2016, where an Iranian
+weightlifter had one of his best particular
+lifts disqualified. There was a particular
+person at home, most likely an Iranian national, who decided that
+this was relatively unfair and had
+basically got online, found a vulnerability to this particular website which was attached to the International weightlifting
+Federation website. I exploited this
+particular vulnerability and going by the pseudonym
+of Master of pain, defaces the website and basically encourages the
+particular weightlifter to keep his head up
+and really provides more of a message of
+displacement with the IWF. In this particular case, the hacker is what we
+would call a hobbyist. Someone who frankly doesn't probably have an awful
+lot of skill at home, but is able to identify a particular weakness in this website and voices
+his displeasure. In our second example, we actually see a
+different type of attack with a different
+set of actors. In April 2015, a
+French News Channel, Monday TV Five was
+taken off the air. Soldiers guard the headquarters
+of TV sang in France after hackers took control of the channel and its websites. This was back in
+April, two months ago. Now police in France say they think the cyber attack was
+the work of a group of Russian hackers
+known as APT 28 and not the group calling itself Islamic State as
+originally suggested. It created roughly a $5.6 million financial loss
+for the organization, led to no axis for the internet
+for months and also had taken off part of the
+transmission network for the station for
+some period of time. Now the website defacement, that graffiti on the website was attributed to ISIS, a
+terrorist organization. But the evidence later pointed to a Russian Federation
+government activity. This is an important
+example because it highlights one of the central
+problems in cybersecurity. We oftentimes find that certain attacks are attributed to one group or one nation, but are oftentimes
+perpetrated by another. In this particular case, the effects were much
+more significant than the website defacement that we saw in the weightlifting
+defacement. The actors are different. Now we're actually bringing in instead of specific individuals, we're seeing implications towards a terrorist organization and later the Russian government. Just from these two
+very simple examples, we see differences in effects, we see differences in
+the threat actors and differences in the overall attack against the integrated
+attack surface. A third example, we see a hacking occur against a
+particular hotel in Austria. In this particular case, threat actors or
+hackers got access to one of the central application
+servers inside the hotel, one that controlled the ability to encode the electronic keys, the keys that we
+all use to get in and out of our hotel rooms. In this particular
+case, the hotel lock. The keys were unable
+to be encoded, basically creating a large
+amount of disruption for all the new hotel guests that were coming into
+this particular hotel. Unless the hotel came up
+with $1500 in Bitcoins, probably worth quite a bit more today since this happened
+a few years ago. But unless they
+came up with $1500, the attackers would
+not provide the means to unencrypt that
+application server, which would allow them to
+resume operations normally. In this case, we're not
+talking about a nation state, we're actually talking
+about criminal actors. We're talking about
+particular end effects that are not about
+defacing a website, but it's actually creating large-scale disruption to their normal business operations. In our final example, going to Taiwan and the Taiwan Semiconductor
+Manufacturing Company, TSMC. Many of you have probably never heard of this particular
+organization. But they're the supplier, the system monitor chip
+components for iPhones and iPads, a central vendor for
+the Apple Corporation. In this particular case, TSMC said that a number
+of its computer systems its fabrication tools
+were infected and they estimated that they were going
+to be down for three days. In this particular case, what ends up happening
+is that one of their manufacturing lines
+is brought completely down. Imagine that one of the most central vendors
+for Apple corporation, one of the largest
+companies in the world is taken down because of
+a particular hack. All because a critical vendor in its supply chain is impacted. In this particular case, we don't quite know
+what the motive was, but the end effects were
+really quite significant. We see revenue loss estimate
+be roughly $250 million a year and the gross margin was estimated to affect at
+least one percentage point. In each one of the examples
+that we've talked about, whether it was the
+weightlifting example, the defacement of the website, whether it was the attack on the French television station, whether it was the hit
+on the Austrian hotel, or whether it was hitting a critical vendor in
+Apple's supply chain. In each case, there were
+differences in motive, in skill of the attacker, the target, the end effects, and the impact in the
+complex attack surface. In the next video, we're going to talk about some of the practical questions
+and constraints faced by policymakers to address this large and complex
+threat landscape. Hope to see you next time.
