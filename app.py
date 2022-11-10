@@ -55,49 +55,26 @@ def prepare_text_for_lda(text):
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
-import random
+HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
+
+st.header('Topic Modeling for Course Transcripts',)
+course_name = st.text_input('Input your course number here and press enter (from 1 to 11):')
+BASE = 'data/'
+
 text_data = []
-with open('data/4/01_examples-of-cyber-incidence.en.txt') as f:
-    print("HERE")
-    txt = ""
-    for line in f:
-        txt += line + " "
-    print(txt)
-    tokens = prepare_text_for_lda(txt)
-    print(tokens)
-    text_data.append(tokens)
 
-with open('data/4/01_effects.en.txt') as f:
-    print("HERE")
-    txt = ""
-    for line in f:
-        txt += line + " "
-    # print(txt)
-    tokens = prepare_text_for_lda(txt)
-    print(tokens)
-    text_data.append(tokens)
+import os, glob
+path = BASE + course_name
+for filename in glob.glob(os.path.join(path, '*.txt')):
+   with open(os.path.join(os.getcwd(), filename), 'r') as f: # open in readonly mode
+       print("NAMES", filename)
+       txt = ""
+       for line in f:
+           txt += line + " "
+       tokens = prepare_text_for_lda(txt)
+       text_data.append(tokens)
 
-with open('data/4/01_how-data-moves-application-layer.en.txt') as f:
-    print("HERE")
-    txt = ""
-    for line in f:
-        txt += line + " "
-    # print(txt)
-    tokens = prepare_text_for_lda(txt)
-    print(tokens)
-    text_data.append(tokens)
 
-with open('data/4/01_weaponization.en.txt') as f:
-    print("HERE")
-    txt = ""
-    for line in f:
-        txt += line + " "
-    # print(txt)
-    tokens = prepare_text_for_lda(txt)
-    print(tokens)
-    text_data.append(tokens)
-
-print("TXTDATA",text_data)
 from gensim import corpora
 dictionary = corpora.Dictionary(text_data)
 corpus = [dictionary.doc2bow(text) for text in text_data]
@@ -111,4 +88,6 @@ ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS, id2w
 ldamodel.save('model5.gensim')
 topics = ldamodel.print_topics(num_words=4)
 for topic in topics:
-    print(topic)
+    # print(topic)
+    st.write(topic)
+
