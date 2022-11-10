@@ -92,3 +92,13 @@ for topic in topics:
     # print(topic)
     st.write(topic)
 
+import pyLDAvis
+import pyLDAvis.gensim_models as gensimvis
+vis = gensimvis.prepare(ldamodel, corpus, dictionary)
+
+html_string = pyLDAvis.prepared_data_to_html(vis)
+from streamlit import components
+components.v1.html(html_string, width=1300, height=800)
+
+
+
