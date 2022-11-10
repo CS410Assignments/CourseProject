@@ -55,7 +55,7 @@ def prepare_text_for_lda(text):
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
-HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
+HTML = """<div style="overflow-x: auto; padding: 1rem">{}</div>"""
 
 st.header('Topic Modeling for Course Transcripts',)
 course_name = st.text_input('Input your course number here and press enter (from 1 to 11):')
