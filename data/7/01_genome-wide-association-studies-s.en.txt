@@ -1,0 +1,178 @@
+Hello, and welcome back to introduction
+to genetics and evolution. We've been talking so
+far about mapping complex traits. We first talked about some of the
+principles associated with such mapping of complex traits. And we've also talked about how
+you do it using a cross, and we used this trajectory
+of associations string. Now lets look at an alternative approach. You know with simple genetic
+traits we've talked about mapping using data from overall populations. Well we can do the same thing here,
+in the case of complex traits. Now you may be thinking first,
+why would we wanna do this? Well, when your QTL
+mapping across a pedigree, what happens is you're localizing
+the genes affecting this difference between the original strains or people. So let's say you're using a pedigree,
+you're looking at where are the genes contributing to breast cancer
+predisposition in this particular family. So let's say you're mapping a gene and let's say in this case it's diabetes
+rather than breast cancer in one family. And you map it to chromosome
+18 arm p location 22. Let's say there's a very strong
+effect next to a marker. Then you look at another
+family that has diabetes and you see absolutely no
+affect to this region. Even though they have
+a lot of diabetes and even though it is clearly running in
+the family, so it has a genetic component. Why would you see this dichotomy? Why would it have a strong effect in this
+family and no effect in this family? Well the answer is, again, there are many different genes that can
+contribute to disease predispositions. And you may see in one family there's
+a particular mutation that's contributing to diabetes predisposition, and there's a completely
+different one in another family. So when you study a trait
+in one single family, you're only identifying what's causing
+that variation within that family. It's important, now,
+to look at the broader population, if you want to understand what
+causes diabetes more broadly. So the other approach that
+people use is this mapping in populations by association study. And a common variant of this is referred
+to as the genome wide association study. This has become extremely
+popular lately with the ability to examine markers across
+the whole genome simultaneously. And of course with having
+a human genome sequence. We discussed this in general in
+the context of simple traits. And the same principle applies as before. If a marker is close to
+the disease causing gene, then individuals having one allele will
+be more likely to have the disease than individuals having the other allele. So there is an association between
+genotype at the markers, and likelihood of disease, or
+whatever the phenotype is. The same principle is true not only
+in simple genes and things, but also in multiple gene traits,
+such as disease. So what people do, especially with this
+genome-wide association study aspect is they test many, many, many markers, right? Not just three, five, ten, 100, or
+even 1,000, but many, many markers. Well you'll find is that some will have
+an allele associated with the disease. Now they're not gonna have huge
+associations kind of like some of the things we talked about before. You may see something like this. This would be a very large
+association in this case. That big A big A individuals have a
+probability of getting the disease of 10%. Little a little a individuals have a
+probability of getting the disease of 1%. That actually is a very large effect
+relative to most of these sorts of things. Now what happens is you do some sort
+of statistical test such as maybe a chi square. And this will say that this difference
+is unlikely to have happened by chance given that you've sampled hundreds or
+thousands of individuals and you see this big of an association. In contrast, many other markers
+will have no association. So, this b marker, for example, may have
+probability of gaining disease of 1.5%. Little b,
+little b has a probability of 1.6%. So, the difference between big B,
+big B and little b, little b is pretty trivial in terms
+of likelihood of getting the disease. Now, we discussed LOD plots when we
+were talking about genetic crosses, same thing would apply with pedigrees. We use something very similar
+with association studies. We have these sorts of plots,
+excuse me, of association. But just like with simple traits, you can actually be much more
+fine scale because you're looking at the scale of the distance between these
+recombination hot spots, just as before. So, this is an example. This is a mapping study
+from February 2012 and published in Nature Genetics
+of Azospermia in Chinese men. So, these are people who
+are having sperm difficulties. And you see here this LOD
+score on the y axis and position of the chromosome on the x axis. And we see here there's a bunch of
+markers that have a strong association with this trait. Whereas out here, there are markers
+that don't have any associations. So if we're going to do something
+along the lines of this A and B, this might be the big A,
+big A individuals, right, versus little A, little A where's there's
+a strong association. This might be where B is where's
+basically no association of the trait. Okay. Now what often happens, you find, since this is a complex trait,
+not one but many possible factors. So this is from that same
+issue of nature genetics. This is just a title of paper, a genome
+wide association study in Han Chinese identifies multiple susceptibility
+loci for IgA nephropathy. And you see there's one on chromosome 8,
+one on chromosome 17, one on chromosome 22. Again we're looking at the case of complex
+traits, where there are many, many genes that have allelic variation, or genotypes
+that are associated with the phenotype. Now there's a problem that comes out
+with genome-wide association studies. This problem is the issue
+of multiple comparisons. Now those of you who are at Duke,
+have seen this in lab, but let me tell you more generally. The chi square test will give
+you a probability of getting an association by chance. I just mentioned that in
+a previous slide as well. Now, if you roll two dice, imagine you have something that's
+just standard six sided dice. You roll them and
+you get snake-eyes twice in a row. Are they loaded? Well you may think
+the answer is yes because, the probability of getting snake-eyes
+twice in a row is very low. In fact it's about 0.1% chance that
+you'd get snake-eyes twice in a row. It's not zero, but
+it's very, very unlikely. So let's think of this in
+the context of looking at markers across the whole genome. How likely is it that you get
+something very improbable? Well, if you rolled the dice a million
+times, what is the chance you get snake eyes twice in a row sometime
+over the course of that million? Well the answer is it's about 99.99%
+chance that you should get that somewhere in there. This is a problem associated with
+genome wide association studies. That if you're testing a million SNPs, a million of these markers, for an
+association with the disease of interest you're very likely to get an association
+that looks strong by chance, when you do the statistical test, but
+there's no biological basis to it. That, in fact,
+this region has no effect, whatsoever. There's no key TL there that's
+contributing to the trait of interest. But since you're testing so many times,
+the odds of you getting something that seems unlikely enough to be
+suggestive of a real effect is very high. So as a result instead of using the
+standard five percent probability cutoff that people often use in statistics, people often use things like
+a .00001% probability as a cut off. This is a way to work around this problem. So again at that point if you
+see an association you have very high confidence that there's
+probably some sort of gene near there. The downside to this is that it
+requires a very strong association. Probably, and this probably happens a lot
+in genome-wide association studies, you actually see some associations,
+but you throw them out because you say not strong enough to be
+statistically convincing. So we end up losing a lot of good
+associations because we can't distinguish the good ones from the bad
+ones except in these very strong cases. So let's contrast these two types of
+studies, Pedigree cross versus Population. Again with a Pedigree across you
+are finding genetic factors that cause differences in that family. So you have high power for a small
+number of genes because probably within a particular family there is not tons of
+genes with allude variation contributing to diabetes, breast cancer,
+and nephropathy, whatever. In contrast, a population
+association study is trying to find genetic factors causing variation
+across the whole population. Now typically here, you have much lower power because you're
+looking at different causes throughout. But you can find
+potentially more genes and, if you do find them, you can localize them
+much more precisely as I mentioned before. You may be wondering why is it
+that you have so much lower power? Aside from the statistical aspect,
+why do you have lower power? Well, there's another facet in here. In crosses and pedigrees, you're limited to mapping the genes
+with effects in that crosses. You're limited to mapping genes
+with effects in that cross. But, the alleles you're mapping
+are initially abundant, right? That if you're crossing,
+say, an individual big Z, little z, cross the little z,
+little z, and let's say this is the one that
+actually causes the mutation. In that initial cross, the fraction
+of individuals that have it is 25, or the fraction of chromosomes, excuse me,
+that have the mutation is 25%. So your ability to detect it is very high. Let's say in a population though you
+can theoretically map alleles at any gene causing this effect. And there's probably
+a lot of them doing it. But you may have many different very rare variants causing
+the same effect or disease. So in this case, let's say for
+example this capital A and this capital Z both cause the disease. They're each initially very rare, so
+it's very hard to see their effects. It's because of this rarity. Now genome-wide association
+studies work well when you're mapping
+common disease variants. But an open question is are most
+disease variants common? In fact,
+several people have argued that in fact most disease causing
+variants are quite rare. Those often different rare mutations
+that cause the same disease. I refer you in this context to
+an interview that I have online with Professor David Goldstein from
+Duke University about this idea, about rare variants causing disease. There's another confounding factor
+that comes along with both of these kinds of studies. That is you can see differences among
+ethnic groups for associations. Sometimes a marker allele's associated
+with a disease in one ethnic group, but it's not associated when look
+at another ethnic group. That if you map something
+with the Hahn Chinese, you may see an effect associated
+with this particular region. In contrast when you look at say,
+a Latin American population, you may not see that association. Let me give you a real example of this. This is from Type II Diabetes. In this case, the initial study that was
+done, was done using East Asian subjects. What they found is that there were
+four SNPs that were identified, that have a pretty strong
+association with this diabetes, in this set of East Asian subjects. In contrast when they looked in European
+populations there was one particular SNP. One on chromosome 11 that had no
+detectable effect in Europeans. So clearly there was some sort of
+difference between these two groups. There are many possible explanations for
+this. One of them is we
+mentioned before epistasis. There's interactions between genes that,
+for example, another variant may be very common
+in Europeans that makes it so this particular gene variant that's
+near this SNP that's causing diabetes in East Asians,
+doesn't have that effect in Europeans. That's one possibility. Another possibility is the allele at
+that gene which is causing diabetes in East Asians just isn't found in
+Europeans populations, or is very rare. There's a lot of possible
+explanations out there. But importantly, we can't immediately
+extrapolate and say oh, there's the gene that's causing this disease, and
+just assume that that's causing it across different families, across different
+ethnic groups, across different economies. So, mapping is often a very complex task,
+but it's obviously very worthwhile,
+because we have made in roads in identifying many genes that
+are associated with disease. Some of them with fairly large effects, though many with much
+more moderate effects. These are the genes that are actually
+used in those studies that you get from companies like 23 and Me,
+that takes examples, or takes samples of your saliva, and
+tell you your disease predisposition. They're using this sort of data
+to tell you what your likelihood is of getting the. Thank you very much. I hope you enjoyed this video.

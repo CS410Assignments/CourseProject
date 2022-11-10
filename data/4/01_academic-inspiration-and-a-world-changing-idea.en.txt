@@ -1,0 +1,117 @@
+Hi, I'm Dr Charles Harry and
+this is cyber security for everyone. Today we're going to talk about
+the origins of the internet and specifically the inspiration for
+world changing idea and so the fundamental question
+that we want to talk about over the next couple of
+videos is how do we get here? So when you think about the world
+in which we live today, we have billions of connected devices,
+we have laptops, we have phones, we have tablets, we stream a lot of
+our video now and our ability to communicate with our loved ones over
+video chat is just taken for granted. But how do we actually get there? And so when you think about
+the billions of connected devices and the trillions of messages
+sent from individuals and devices all over the world,
+it's really the question of how did we actually develop
+the infrastructure and capability to produce such
+amazing applications, video, audio text,
+enabling faster communications allow for more tightly knit communications
+all over the world. So how did we get here? So there's some key concepts that I
+want to drive home to emphasize why this is such an important development
+in human history so, the first concept that we need to
+think about is that the development, the internet was an evolutionary
+process it didn't just happen overnight someone didn't just wake up and
+say, hey, I got a great idea. They put it on paper and the very next
+year we have the internet, it evolved and that evolutionary process was
+the function of multiple individuals, hundreds of individuals and different
+stakeholders that worked together over many, many decades in order to develop
+what we know today as the internet. So academic inspiration
+was a part of this process someone had to conceive of
+this idea of the internet so, oftentimes we find that professors and
+researchers, instructors alike are involved in coming
+up with new ideas, new concepts so, academia certainly played a role but
+they weren't alone. The government also played a key role
+in the development of the technologies related to the internet so, we're going
+to talk about that in a different video. And finally, the private sector is
+involved the private sector and it's incredible ability to
+innovate was an essential player in the development of the internet so,
+an evolutionary process, multiple individuals and
+stakeholders involved, but also the interplay between academia,
+government and the private sector we're all fundamentally important
+to the development of the internet. So let's talk about some basic
+questions that actually need to be answered when we think about some of
+the origins of this central idea. First of all, how do you create and expand the technology in terms
+of scale performance and higher order functionality to actually
+develop something like the internet? So how do you actually do that? It's, one thing to just invented in your
+garage and maybe build a prototype but how do you scale that? So it becomes geographically dispersed and used by billions of
+people around the world? This is actually a really,
+really hard thing to do. Second, how do you communicate and share ideas about the internet before
+the internet is actually built? In today's world we come
+up with a great idea and maybe a posted online on your blog or
+you get some some piece of information that is broadcast by a media
+company that's streamed online. But if you're talking 40, 50, 60 years ago
+before the internet actually existed and your chief means of communicating ideas
+are through periodicals or through journal articles it's actually much, much more
+difficult things move a lot slower. Third how do different groups of people, geographically distributed,
+communicate with one another, how do they work together to
+develop this type of technology? And remember we're talking about people
+who live or who work in academia, who work in the private sector as well as
+the government so, how do they actually work and communicate together when
+they're scattered all over the earth? So these are really practical
+questions we have to address. And finally, how do you convert theory, what is a good idea into what becomes
+the underlying fabric of our society? Because when you look at things like
+power and water systems and other smart city infrastructure, our ability to
+monitor these modern systems is all laid on top of this key networking technology
+that we're now discussing the origins of. So the questions that have to be
+answered are pretty fundamental and how we get there isn't always clear so,
+it's important oftentimes to look at the history, the origins and the
+development of this evolutionary process. So let's start at the beginning a vision
+of the future there are thousands of individuals that were involved in
+the development of the internet but I just want to talk about a couple
+of key concepts early on. So the first is a vision
+of an interconnected world, a series of interconnected devices that
+can transmit large volumes of data, the second is a new theory of breaking
+up data into what we call packets and the idea is that these packets
+then can be moved around from one computer to the next. And finally, the third idea is
+a prototype network that is developed to connect to particular devices, one
+in California and one in Massachusetts. So combining this broader vision
+of a worldwide global network with packet ties data in a digital format,
+finally actually showing a lab prototype of
+a connection between two devices, geographically distributed
+are three core concepts that emerge from the late 1950s and
+in the early 1960s. And so folks at MIT and other academic
+institutions around the world are involved in the development
+of some of these key ideas so, we bring these three concepts in
+the 1950s and 60s, where we have a vision of an integrated set of modern
+digital networks that are working together utilizing packet ties,
+traffic and geographically dispersed. But why is this not the end of the story? Why is it that we don't just talk about
+these brilliant academics who actually put together had this world changing idea,
+and that's the end of the story? Well, the reason is that it often
+times can be difficult to bring good ideas into the real world and
+at scale and so once you have a future that's envisioned,
+you probably need to start off with building a small model
+you don't initially go from, hey, I've got a great idea to multibillion
+dollar networks being developed worldwide, you've got to start off in
+a much more measured way. So we want to start off with
+building a small model and building that model certainly if
+you're in academia requires money, most academics are not
+independently wealthy, they're not willing to write
+that million dollar check or $2 million check to self fund
+development of a good idea. So we need access to money to
+build out a small model and so the question becomes,
+where is the best place to find that? So there are maybe a couple of options
+you might seek to go to the government, you might seek to go to the private sector
+both of them have different incentive structures if there isn't
+a profit to be made, maybe the private sector isn't
+interested in taking that risk. Said another way, if you go and talk to
+a CEO of a large fortune 500 company and say, you know, hey, Mr CEO or Mrs CEO,
+I want you to write me a check for $3 billion so
+I can build out a global network and they have no concept of how they would
+actually monetize that development. After they stopped laughing at you they
+would politely ask you to leave so, if there is no private sector incentive, you may want to go to the government to
+see if they can fund a particular study. So in this video, we've talked about
+the fundamental questions that have to be answered in order to achieve this
+early vision of a globally dispersed network that deals with packet ties data
+and we started to bring up a fundamental question of once you have a good idea,
+how do you actually start to move that forward into something that's more
+practical specifically, a small model. In our next video, we're going to talk
+about how we move from a good idea to a small model and the role that government
+played in the development of the internet. I hope to see you next time.

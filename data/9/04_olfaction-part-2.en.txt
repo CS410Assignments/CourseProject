@@ -1,0 +1,112 @@
+Now let's turn our attention to the topic
+of sensory transduction in the olfactory epithelium.
+So here we have a closer look at the olfactory epithelium.
+And what we discover are the presence of several types of cells that are present
+in this epithelium. these spindle shaped cells, these are the
+mature olfactory receptor neurons. These are the ones that are going to do
+the job of sensory transduction. These cells sit within an epithelium that
+is comprised of supporting cells and basal cells, and some of these basal
+cells will go on to differentiate and divide.
+And what we discover is that among this basal cell population is a set of neural
+stem cells. Which from time to time will divide and
+produce new mature olfactory receptor neurons.
+As olfactory receptor neurons are lost to, degeneration or to injury and
+disease. In addition to the supporting cells there
+are glandular cells that produce a thick mucus that covers the upper portion of
+this olfactory epithelium. So the way odorant molecules interact
+with our sensory cells is by passing into the nasal passageway.
+And diffusing through this mucus to interact with these olfactory cilia.
+So these are hairlike extensions from this terminal bulb at the end of the
+dendrite of this olfactory receptor neuron.
+And embedded in the membrane of this olfactory cilia then, are the olfactory
+receptor proteins that interact with the odorants.
+The odorants then, will bind to specific molecular receptors that are expressed on
+the membranes of the cilia. And through a sequence of molecular
+reactions the binding of an odorant to a receptor leads to the depolarization of
+the olfactory receptor neuron. And the generation of an action potential
+at the axon hillock region where the axon emerges from the cell body.
+And with a generation of an action potential in the axon hillock, that
+signal could then propagate along the axons of the first cranial nerve.
+Through the cribriform and into the olfactory bulb.
+So now let's consider these molecular mechanisms that generate the
+depolarization in these olfactory receptor cells.
+And now let's turn our attention to the mechanisms of sensory transduction in the
+membrane of that cilia. that is present at the apical end of the
+dendrite of the olfactory receptor neuron.
+So what we find here is a molecule that we've actually encountered a few times
+before. The odorant receptor molecule is a
+G-protein coupled receptor. That is, it's a receptor that interacts
+with an odorant molecule. And on the cytoplasmic surface of that
+receptor bind a set of G-proteins. The molecular structure of this receptor
+makes it part of the 7 transmembrane class of G protein-coupled receptors.
+The same class that we first encountered when we studied metabotropic receptors
+for neurotransmitters. We encountered this class of proteins
+again when we looked at the mechanisms of phototransduction and photoreceptors.
+The opsin protein that interacts with the retinal molecule is an example of one of
+the seven transmembrane gene protein-coupled receptors.
+So, I think it is so fascinating that this same molecular structure has shown
+up in so many different places in the nervous system.
+and in each of these places the mechanisms involve transducing some kind
+of an event. Be it the binding of a neurotransmitter,
+the binding of an ordorant or conformational change in an organic
+molecule when a photon strikes it. To a second messenger system that is
+activated through a set of G-proteins. And in the olfactory receptor neuron,
+this transduction cascade involves a G-protein that we call G-olf.
+Or that that subscript identifies this as a particular G-protein that's involved in
+transducing olfactory signals in olfactory sensory neurons.
+So the odorant interacts with it's receptor, the G-proteins are activated,
+and the activation of these G-protein then interacts with the downstream
+target. And the principle downstream target is
+adenyl cyclase III and when this enzyme is activated then, second messenger in
+the form of cyclic AMP is produced. So, cyclic AMP levels rise when the
+odorant interacts with the olfactory receptor.
+The production of cyclic AMP, in turn, gates the opening of a cation selective
+channel. This allows for calcium and sodium to
+enter the cytoplasm of the olfactory receptor neuron.
+This leads to the depolarisation of this nerve.
+Now, there's even more synergy that happens within this olfactory receptor
+neuron related to the second messenger systems.
+As calcium begins to rise then, calcium interacts with calmodulin.
+And this interaction of calcium and calmodulin then gates a chloride channel.
+And that channel opens allowing chlorine ions to diffuse from inside to outside of
+the cell. And as that negative charge leaves the
+inside of the cell. This amplifies the depolarization of the
+olfactory receptor neuron. So, together the influx of sodium and
+calcium ions and the efflux of chloride leads to the production of the generator
+receptor. That ultimately can lead to the
+activation of our voltage-gated sodium and potassium channels at the base of the
+sensory neuron. Where the axon is growing out from the
+cell body. Activation of those voltage-gated
+channels produces an action potential that can then propagate along the axons
+of the first cranial nerve into the olfactory bulb.
+One experience that I think is common to all of us is, the idea of adaptation of
+our sense of smell. We all know that if we are in an
+environment where we encounter a particularly strong odor over the course
+of the next few minutes. Our perception of that odor seems to be
+much less noticeable to us. While this is a complex phenomena, and
+sensory adaptation has multiple levels to it.
+one level is at the operation of the sensory neuron in the periphery.
+But there are also central mechanisms of adaptation.
+I want to highlight one known mechanism of adaptation that operates here, in the
+olfactory sensory neuron. As calcium enters the cell, it can
+interact with calmodulin and produce additional downstream effects.
+One downstream effect of an interaction of calcium and calmodulin is an impact on
+this cyclic AMP gated cation channel. The interaction of calcium and calmodulin
+can actually reduce the sensitivity of this channel to the binding of cyclic
+AMP. And this has an effect then a negative
+feedback signal that is integrated at the level of this cyclic AMP gated channel.
+reducing further influx of sodium and calcium.
+Thereby reducing the depolarization with the persistent presence of that
+particular odorant that's driving this cell's response.
+Another mechanism of adaptation. Has to do with this exchanger that we
+find in the membrane of the cilia. So this is an ex, exchanger that brings
+sodium ions into the cell, and calcium out.
+So as calcium is exchanged into the extra cellular fluids.
+Then that has the effect of down-regulating the interaction of
+calcium with calmodulin. this too contributes to the adaptation of
+this olfactory receptor neuron, to the persistent presence of an odorant.
+Well, next I'd like to talk about the interactions between odorants and
+receptors. And this will help us understand a bit of
+the logic for coding. That we find both in the old factory
+periphery and also within central structures within the ventral medial
+fore-brain.

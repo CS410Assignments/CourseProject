@@ -1,0 +1,48 @@
+One Commonly used data mining tool based on
+statistics is Benford Analysis. Today we have Benford Expert WVU Professor Mark Nigrini
+with us. Professor Nigrini, will you tell us about Benford Analysis? Sure, Frank Benford was a physicist in the
+1920s. He noticed that the first few pages of his
+logarithm tables were more worn than the last few pages. He concluded that he was looking
+up the logs of numbers with low first digits more often than he was looking up the logs
+of numbers with high first digits. The first digit of a number is the leftmost
+digit. We have 32,340 students at WVU and the first digit of that number is a 3. There
+are 9 possible first digits. Zero can never be a first digit. Minus signs are ignored
+when we calculate the first digit. Benford examined 20 lists of numbers with
+20,000 records in total. His results showed that 30.6 percent of the numbers started with
+a “1” and 18.5 percent of the numbers started with a “2.” This means that 49
+percent of the numbers started with a 1 or a 2 while the other 51 percent started with
+3, 4, 5, 6, 7, 8, or 9. He made some assumptions about the properties
+of numbers and using some calculus he calculated the expected frequencies of the digits in
+natural numbers. In the first position there is a large bias towards the low digits. Zero
+can be a second digit and so from the second digit onwards there are ten possible digits.
+The bias gets less and less as we move on to the second and third digits and from the
+fourth digit onwards the ten possible digits are, for all practical purposes, equally likely. Why is this so? If we take the Dow Jones index
+at 1,000 where it has a first digit 1, we need a 100 percent increase before the 1 becomes
+a first digit 2. At 5,000 the Dow only needs a 20 percent increase to change the first
+digit 5 to a first digit 6. At 9,000 the Dow only needs an 11 percent increase before we
+get a new first digit, 1, at 10,000. And now we again need a 100 percent increase before
+the first digit changes to a 2. The Dow will have a first digit 1 for far longer than any
+other first digit. Benford’s Law does not apply to all sets
+of numbers. For it to apply the numbers must reflect the
+size of some phenomenon; big numbers must refer to big things. There must be no built-in
+maximum or minimum values. All though zero can be a minimum number. Tax returns for example have minimum or maximum amounts in various places. The numbers must not be labels such as highway numbers, social security numbers, or flight
+numbers. A data set that conforms very nicely to Benford’s Law is the populations of the 19,000 towns and cities in the United States. Every population count has a first digit and
+the graph shows the expected Benford proportions as a line, and the actual proportions as the
+nine bars. Each possible first digit is shown as a bar and the proportions are shown on
+the y-axis. The top of the bar is pretty close to the line in all cases, meaning we have a very nice fit to Benfords law. Every number also has first-two digits. The
+first-two digits range from 10 to 99. We use a line to represent the expected proportions.
+The first-two digits also conform closely to Benford’s Law. This graph shows streamflow statistics for
+140 years that conform almost perfectly to Benford’s Law. And the last graph here, are the 80,000 ledger balances for a large company
+also conformed closely to Benford’s Law. Now for a little fraud data... A State of Arizona employee processed 23 checks
+for non-existent services performed by a fictitious vendor. The numbers that he invented had many
+more 7s, 8s, and 9s than would be expected under Benford’s Law, and for that matter,
+than would be expected if the digits were equally likely. This graph shows the credits issued for kilowatt
+hours by an electric utility company. We investigated the spike at “99” and it turned out that
+several employees were fraudulently giving customers credits for numbers just below 1
+million and just below 100,000 KwH. Those customers would in turn give the employees
+a nice present in exchange for their credit. To summarize, Benford Law works well to detect invented
+numbers when, One person invents all the numbers, or,
+lots of different people each have some incentive to manipulate numbers in the same way (such
+as on tax returns) It is a useful start that gives us a better
+understanding of our data We use it together with other more focused
+drill down tests to detect fraud, errors, biases, and other anomalies We should have a winning combination

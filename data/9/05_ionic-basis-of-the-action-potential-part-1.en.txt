@@ -1,0 +1,531 @@
+Hi, everyone welcome to this tutorial on
+the ionic basis of the action potential. What we're going to talk about today
+relates once again to one of our core concepts in the field of neuroscience, and
+that is that neuroscience communicate using both electrical and chemical
+signals. So today we're going to talk about one of
+the most important mechanisms within the nervous system for communicating with
+electrical signals We have some learning objectives for you today.
+I want you to be able to revisit the Goldman and even the Nernst equations and
+use those equations to gain an even deeper intuition about the membrane potential of
+neurons. To actually predict that value given
+knowledge of the concentration gradients of ions and their relative permeabilities
+across the neuronal plasma membrane. I want you to be able to describe the
+ionic basis of the action potential in terms of both the voltage and time
+depenedent changes in ionic permeablities that occur, that occur across the neuronal
+plasma membrane. I want you to be able to describe the
+driving force for current flow across the plasma membrane.
+Driving force will be an important concept that will help you understand the movement
+of ions through the ion channels that give rise to the action potential.
+But also through other kinds of ion channels that are gated not by voltage but
+by neurotransmitters so that discussions coming up in a few tutorials.
+Now as you work through these considerations I want you to relate with
+careful precision the time course of the changes in sodium and potassium
+conductance. Back to changes in the membrane potential
+during the course of the action potential. And lastly we'll talk a little bit about
+what's called the refractory period for the generation of the action potential.
+So I would want you to be able to characterize and discuss that concept.
+Okay, well let's begin by reviewing some of our foundational concepts that we
+introduced last time. And that is that changes in membrane
+permeability underlie the neuronal action potential.
+And in order to understand these changes in membrane permeability, let's consider
+some of the principles that are laid out in figure 2.7.
+Now recall that during the resting state, there is a little bit of potassium
+conductance. That is, a little bit of potassium leaks
+out of the neuron. So the permeability of the neuron at rest
+for potassium is some small value that's greater than zero.
+However, the permeability of that resting membrane for sodium is just about nil.
+So, even though the potassium permeability is small, it's still very much greater
+than the permeability for sodium. So what this means is that in the resting
+state the membrane potential is very close to the theoretical limit predicted by
+the[INAUDIBLE] potential for potasium. Now if we imagine some mechanism that
+allows for dramatic increase in the permeability of the membrane for sodium.
+We may find ourselves in a situation where the permeability for sodium is so much
+greater than the permeability for potassium that the membrane potential
+becomes predictable. By the Nernst equilbrium potential.
+Or the Nernst equilibrium equation for sodium.
+Such that the membrane potential approaches this theoretical value that we
+can calculate. The Nernst Equilibrium potential for
+sodium. And this is essentially what happens
+during the generation of an action potential.
+The permeability of the membrane goes from being just a little bit leaky for
+potassium, to now being explosively permeable for sodium.
+And that will explain the rising phase of the action potential.
+The falling phase, what we find next, is a bit more complicated.
+But essentially what we can say is that the permeability for sodium returns back
+towards zero and meanwhile the membrane restores its resting state where the
+permability for potassium is considerably greater.
+Then the negligible, or the nil permeability for sodium.
+Okay, now in order to review all of this and yet a different mode of learning I
+would encourage you to consider our, our formal expression for these changes
+provided by The Goldman Equation. And again, I would remind you that The
+Goldman Equation allows us to calculate an equillibrium potential when there may be
+multiple ions that can permeate through the membrane.
+So this equation includes a permeability term.
+For each ion that we might be interested in, And it also includes the concentration
+gradient, which allows us to consider the Goldman equation as an extension of the
+Nernst equation for permeate ions. Now maybe this more formal approach is
+less useful to you. That's okay.
+If that might be you, then I would encourage you to review these basic
+concepts of electrochemical equilibrium. Using the animation provided on the
+website that supports our text book. So you can click on the link in your
+tutorial notes, or navigate to that website following the link on our website.
+And select animation 2.2 on electrochemical equilibrium.
+And that will put you in great shape to understand the concepts that we need to
+consider to explain the ionic basis of the action potential.
+Well, finally before we get there I'll just remind you that what we talked about
+last time is that changes in membrane permeability Could have predictable
+consequences for the change in membrane potential.
+Now, what we're going to try to explain, beginning in this tutorial, is how is it
+that changes in membrane potential can impact membrane permeability?
+Now, much of the work that I'm going to tell you about in this tutorial And the
+next one that follows is based on the seminal work of two really, just amazing
+figures in the history of nerve science. Alan Hodg, Hodgkins, and Andrew Huxley.
+They were both scientists working in England during the time of the second
+world war, or actually just before it, was when their interests were being peaked by
+the possibility of recording bioelectrical signals From nervous tissue.
+And then, World War II intervened. And, well, depending upon who you are,
+what your family background is, and the circumstances of your family's journey to
+where you are today you might consider yourself fotunate that, that great war
+ended as it did. At least those of us in the field of
+neuroscience are very gratetful for the success of the allied forces because that
+allowed Hodgkin and Huxley to return in the mid to late 40s to their work
+understanding the ionic basis of the action potential.
+This work was recognized by the Nobel Committee in 1963, when together with Sir
+John Eccles, an Australian scientist, they were awarded the Nobel Prize in Physiology
+and Medicine. I would encourage you to read about their
+biographies, including that of Doctor Eccles, at nobelprize.org, where you can
+also find their Nobel lectures. Well, what Hodgkin and Huxley did as one
+means of beginning to explore the ionic basis of the action potential was to
+construct some circuitry that allowed them to do the kinds of experiments that they
+wanted to conduct. They recognized that in nature.
+We often have wonderful animal models that allow us to address the questions that we
+want to ask. In their case, they chose to examine the
+giant axon that's present in the body of squid.
+Which were readily accessible to these investigators in their location in the
+world. Now, in order to study the ionic bases of
+the action potentials, they wanted to measure ionic currents, but there's a bit
+of a problem. Because with generation of an action
+potential, there is a change in membrane permeability that will alter the flux of,
+Of ionic currents in a way that would make it very difficult to con-, to control and
+to measure those ionic currents. They devised a circuit called the voltage
+clamp. And, this voltage clamps circuit is
+illustrated here from your text book. I don't intend to burden you with the
+details of this, but I do want you to know that for those of you that are interested,
+you can read more about this circuit there.
+Essentially, what this circuit does, is it provides us with an opportunity for
+measuring. Ionic current, without changing the
+membrane potential. Hence this term, voltage clamp.
+We can essentially clamp the voltage of an excitable neuronal membrane to any
+potential that we wish, and thereby measure.
+The movement of ions across that membrane as we do these kinds of experiments.
+So I mention all this to say that we do want to look at a couple of experimental
+results derived from studies that Hodgkin and Huxley did, as a means of understand
+the ionic basis of the action potential. So let's begin.
+Now what we have here in figure three point one from your book is a
+representation of the kind of data that were available to Hodgkin and Huxley.
+With the voltage camp, clamp method, they were able to set the membrane potential.
+Of the squid giant axon to any value that they wished.
+And here in this experiment, what's being done is a hyperpolarization of the axonal
+membrane by 65 millivolts. So they're going from a resting value of
+about 65 millivolts down to about 130 and then they're holding the membrane or
+clamping it at that potential through some period of time.
+And they are measuring then the current that can be recorded during this
+experiment. So what's seen is a sharp transient, which
+is called capacitive current. This reflects the way charge is
+redistributed around the membrane. But otherwise nothing significant is
+happening. So with hyperpolarization there are no
+significant effects on net current that's flowing into or out of the axon.
+Now when they passed a de-polarizing current step into this neuron or in other
+terms when they clamped this neuron at a marked depolarizing level.
+That is around zero millivolts so they oppose this depolarization step.
+They saw something quite different and quite remarkable.
+Following a sharp transient current, what they saw was a transient inward current
+that, That was followed by a delayed outward current.
+Now just a word about convention here. In these experiments, inward currents are
+those carried by positively charged ions into the cell, and our convention is to
+denote that as negative whereas outward currents are currents carried by
+positively charged ions that are. Leaving the cell, and this is denoted in
+positive terms. Now there are other more complicated
+scenarios that we'll eventually discuss involving negatively charged ions, but for
+now we can keep it simple. So inward current means positively charged
+ions are entering the cell, and outward current means positively charged ions are
+Exciting the cell. Okay, well what we want to be able to do
+is to understand the underlying changes in ionic fluxes that are explaining these two
+kinds of currents that were recorded. A transient inward current and a delayed
+Outward current. And in order to get there Hodgkin and
+Huxley were able to use both some theory and also some impirical investigation of
+this system. So the theory comes in the form of the
+Nernst Equation, so Hodgkin and Huxley knew about the equilibrium potentials for
+permeate ions even though they weren't sure what those ions were at the time that
+they began their experiment, they knew that in principle.
+One could determine or manipulate a ionic species that you think might be permeating
+the external plasma membrane. And use the Nernst equation to calculate
+the impact of that permeable ion, given it's known concentration gradiance.
+Well I'll just remind you then that the nerdist equation is a tool that can be
+used in studies of this sort, and I'll use that equation to remind you of this
+concept of equilibrium potential. So remember at equilibrium potential
+There's no net movement of current. So in an experiment like this we would
+record a current of zero at electrochemical equilibrium.
+So again, this is the point where the concentration gradient for a permeate ion
+is exactly counterbalanced by the electrical gradient that builds up with
+the movement of that charged ion. Now knowing these two facts it's possible
+to do experiments then, where we can manipulate the membrane potential of an
+axon or of a neuron and allow for a prediction on the movement of that ion.
+And as should be intuitively obvious to you, I think, if you choose to clamp the
+membrane potential at the equilibrium potential for a permeation, then that ion
+is no longer going to, going to contribute to the measured current.
+Because by definition, at equilibrium potential there's no net movement of the
+ion. Okay, so these are the kinds of
+considerations that are brought to bear in the following experiment.
+So now, what is being described, and figure 3.2 from the textbook Is the
+results of producing an experiment now where there are incremental changes in the
+voltage clamp setting in the depolarizing direction.
+So we're starting off at rest, somewhere around 65 millivolts.
+And we are now applying a depolarizing current step from rest to different values
+of depolarization. First approaching zero millivolts and then
+even going beyond zero millivolts. That is making the inside of the cell more
+positive than the outside of the cell. And what we see is that as we begin to
+depolarize this membrane from rest, there is indeed a transient inward current
+followed by a delayed outward current. But notice the magnitude of these
+currents. With small depolarizations, the currents
+that are measured are relatively small. With larger depolarizations, like around
+zero millivolts The transient inward current increases in size as does the
+delayed outward current. But now look at what happens to the
+transient inward current as we depolarize to plus 26 millivolts.
+This transient inward current is getting smaller.
+But, look at the effect of the delayed outward current, it continues to grow in
+magntitude. Now, we approach plus 52 millivolts in the
+experimental data and what we find is, obviously, quite a large growth of the
+delayed outward current. But notice, the, the transient inward
+current seems to have gone away completely.
+We'll come back to that point in just a moment, but now let's move on.
+If we depolarize the cell even further, again we continue to see growth of the
+delayed outward current in a relatively monotonic fashion as we change membrane
+potential in the depolarizing direction. But now look at the point in time where we
+earlier recognized a transient inward current.
+What we see is a small inflection in the rise of this outward current.
+In fact, what appears to be happening is that the transient inward current is no
+longer inward. But outward.
+And this might explain this small shoulder effect that we see in the development of
+this outward current. Okay.
+Well, these considerations allow us to make.
+A couple of points. First of all, we see that this transient,
+inward current appears to be nulled out with membrane potential around 50
+millivolts. And then when we go beyond 50 millivolts
+or, in this result perhaps precisely 52 millivolts.
+This inward current reverses. It becomes an outward current.
+The second observation we make here is that the delayed outward current steadily
+increases with increasing depolarization. Now, we can measure these currents at
+particular points in time and plot their magnitude as a function of membrane
+potential. And when we do that we have data that look
+something like this, which capture again what we've just described.
+And that is, that with depolarization, the transient inward current grows.
+But we eventually hit a point of reversal and that delayed inward current becomes an
+outward current with the crossing of 0 millivolts being somewhere around 50
+millivolts in membrane potential magnitude.
+Now the delayed outward current behaves differently.
+It continues to grow monotonically with increasing membrane potential.
+Now, these observations together again provide evidence That this transient
+inward current reverses near 50 millivolts while the delayed outward current
+increases steadily. Now, knowing something about the ions that
+are present in seawater and having some sense of what the ionic contributions
+might be to the cytoplasm within axons. Knowing something about the Nernst
+equation, and then having the ability to manipulate some of these empirical
+parameters in the experiment, allowed Hodgkin and Huxley to identify What are in
+fact the ions that are carrying these 2 kinds of currents.
+What they concluded is that the early current is carried by sodium.
+Now the nuanced equilibrium for sodium happens to be very close to plus 52
+millivolts in their experimental. Preparation.
+That is highly circumstantial evidence supporting this conclusion that the early
+current is carried by sodium. One way to test that hypothesis would be
+to change the solution that is bathing the neuron.
+And if you substitute the solution with one That removes all sodium, the
+prediction would be that the inward current ought to reverse to become an
+outward current because even though the normal physiological concentrations of
+sodium are much greater outside than they were in compare to the inside.
+If you artificially remove all sodium from outside the cell, there will be a
+concentration gradient favoring the efflux, or the outward flux, of sodium.
+And that appears to be what is recorded in this experiment.
+And then returning back to normal physiological conditions, similar to what
+we find in sea water, the inward current is once again restored.
+This conclusion is further supported by experiments using a toxin found in nature,
+a toxin called tetrodo-toxin. Found in the pufferfish and when that
+toxin is applied to this axon, what we find is that the transient inward current
+is blocked. All we're left with is a delayed outward
+current with the application of tetrodotoxin.
+So that result provides additional empirical evidence.
+Supporting the conclusion that the early current is carried by sodium.
+Now, additional experiments were done using a tetraethyl-ammonium ion, which is
+now known to block potassium channels. And when that ion channel blocker is
+applied to this preparation, what we find is that the delayed outward current Is
+removed. And all that we find is the transient
+inward current. So this is very good evidence supporting
+the conclusion that the late current is indeed carried by potassium ions.
+Okay. Well I think we are ready to move on in
+our consideration of these data and I want to introduce an additional concept that I
+think helps us come a little bit closer to the underline biological mechanism that
+explains the ionic basis of the action potential and this concept that I want us
+to think about Is conductance. Now, we're familiar with Ohm's law from
+our study of physics. Right?
+And so Ohm's law is v equals i r, or voltage equals current times resistance.
+Well this concept of conductance, while it has more of a formal expression.
+For our purposes we can represent conductance by the lowercase letter g, and
+simply state that it's comparable to the inverse of resistance.
+So it's possible, then, to rewrite Ohm's Law in terms of current.
+And what we can state, then, is that measured current is proportional to the
+conductance for that permeant ion times the voltage.
+Now this voltage term is interesting. This voltage term provides the driving
+force for the current that we can record that is passing through a neuronal
+membrane. But in order for that current to actually
+flow not only must there be a driving force but there also has to be some means
+by which that ion can pass through the membrane.
+Which is to say, there needs to be conductance.
+So I want you to appreciate, using this version of ohm's law, that current flow
+really requires two kinds of functions. There needs to be conductance greater than
+zero, and there needs to be some voltage that creates a driving force term.
+And so rather than saying that the voltage needs to be greater than then 0 of what we
+need to express is that the voltage must be greater or different from the nuanced
+equilibrium potential for the permiant ion.
+Okay. So this allows us now to return to our
+experimental situation where we changed membrane potential and recorded current
+but now we get to introduce. This version of Ohm's Law that helps us
+understand the movement of ions in terms of the conductance of the membrane for the
+permeant ion. So again, what we have here is a current
+which can be measured experimentally. We know something about the membrane
+potential of the neuron and, given the concentration gradient of, of the[UNKNOWN]
+ion, we know it's Ernst equilibrium potential.
+So the driving force term then becomes, the difference Between the membrane
+potential at any point in time and the nernst equilibrium potential for the
+permeant ion. So what would happen then, if the membrane
+potential is exactly the nernst equilibrium potential for the permeable
+ion? Under that situation, the driving force is
+equal to zero. And no net current is going to flow.
+This is one way to establish electrochemical equilibrium for a permeant
+ion. That is, it's possible with the
+patch-client method to set the membrane potential exactly to the nerve's
+equilibrium potential for the ion in question.
+Well, this formulation should make it obvious that there is another way in which
+to have no net current flow for an ion. And that is when conductance is equal to
+zero. That is when there's no means by which an
+ion can cross a membrane. There may be a driving force, but if
+there's no conductance then the measured flow of that current is going to be zero.
+Okay, well these are some theoretical ways of considering the experimental results
+obtained by Hodgkin and Huxley and what's shown now in the lower part of figure
+three point three are the same Data. Except now, the measured ionic current is
+expressed in terms of the conductance that is associated with the transient current
+and the delayed outward current. Now having confidence that, that In that
+transient current is carried by sodium, and the delayed current is carried by
+potassium. So what we can now do is express these
+current fluxes in terms of conductances for sodium and potassium.
+So let's look at these one at a time. When we look at the conductance change for
+sodium with depolarization, what we see is a very sharp and steep rise in sodium
+conductance that happens with increasing depolarization.
+So it should be obvious then that the sodium conductance is voltage dependent.
+But look what's going on here, even with a sustained depolarization, this
+conductance, that quickly rises well above zero, falls back towards zero.
+Even though we continue to clamp the axon membrane to some value, as indicated here
+in the figure. So this tells us that this conductance is
+not only voltage-dependent but it's also time-dependent.
+Actually, the same conclusions can be made with respect to the potassium conductants,
+but in a different way. What we see is with increasing
+depolarization there is a growth to this potassium conductance.
+So like the sodium conductants, there's evidence for voltage dependency.
+But notice The growth is gradual, and the onset of this conductance is slow
+relatively compared to the onset of the sodium conductance.
+So there's an element of time dependency that we see for the potassium conductance.
+Now, that conductance does not fall back down sharply the way we saw for the sodium
+conductance. Rather, the time dependency is in the
+relatively gradual onset of this rise in potassium conductance that we see.
+So nevertheless, both conductances are time dependent.
+But the time dependency seems to suggest that there may be different molecular
+Mechanisms that mediate those time dependencies.
+Okay. Let's return now to the sodium conductance
+and make an additional point about this rapid fall in sodium conductance.
+That we see after the rapid rise. So, we actually have a term for this, we
+call this, inactivation. Now, as we'll see in the next tutorial,
+inactivation is not exactly the same mechanism as simply closing.
+An ion channel. So we're going to want to understand that
+point in the next tutorial, but for now, I'll just highlight the fact that the
+sodium conductance inactivates. And what we mean by that is this rapid
+fall in conductance that follows the rapid rise.
+Now notice, the potassium conductance does not inactivate.
+So there's no inactivation of the potassium conductance.
+Now there are certain types of potassium conductances that can be found in certain
+neurons that do in fact inactivate much like the sodium conductance, but not this
+conductance. Not in this axional membrane from which
+these experiments are derived. Okay I think we're ready to put all this
+together now and have. A computational model that explains the
+action potential. So, what we have here is a precise
+alignment of the voltage and time dependent changes in sodium and potassium
+conductance. Relative to the action potential.
+And I want you to spend a little bit of time thinking about this figure, figure
+3.8. And considering the alignment of these
+conductance changes with what we see in membrane potential.
+And the conclusion of such a thought process is that the action potential is
+indeed explained by the voltage and time dependent changes in the permeability of
+the neuronal membrane to potassium and to sodium.
+Now let's look first at the sodium conductance and how it's aligned to the
+action potential. There is a sharp rise in sodium
+conductance that occurs in time, with the rise in Membrane potential during what we
+call the rising phase of the action potential.
+In fact, the rising phase is explained by this rapid increase in sodium conductance.
+Now, we haven't explained yet how that itself got started.
+But we'll come to that in the next tutorial.
+For now, I'll simply state that some external stimulus was applied to this
+experimental situation. Or, if we can imagine, a real neuron or a
+real axon in a real brain, some stimulus in the form of incoming electrical
+signaling activity, potentially can depolarize that cell and produce this
+explosive increase in sodium conductance. That explains the rising phase of the
+action potential. But, again, let's notice that the increase
+in sodium conductance is short lived. Soon thereafter, there's this falling
+phase, which we call inactivation of the sodium conductants.
+And in terms of the membrane potential that can be recorded, this is called the
+falling phase of the action potential. So we have the rising phase on the up
+slope, and now the falling phase on the down slope.
+Now this sodium channel on activation. I know I'm getting ahead of myself just a
+little bit with respect to the tutorial notes, but it does allow us to explain an
+important phenomenon called the refractory period.
+So there's a period of time during which it's not possible to generate another
+action potential And that's called the absolute refractory period.
+That's happening during this time of sodium channel inactivation.
+Because in order to generate another action potential, these sodium
+conductances need to be reset back to zero.
+So this inactivation Has to be removed in order for another action potential to
+fire. So the period of time during which the
+sodium channels are progressing through their inactivation state, is in fact the
+period of time that we call the absolute refractory period.
+Alright, so let's now turn to the potassium conductance.
+The potassium conductance is delayed relative to the onset of the sodium
+conductance. But it's also sustained for a longer
+period of time. And this sustained conductance for
+Potassium. Allows potassium to flow out of the cell,
+and that means positive charge is leaving the inside of the cell.
+This delayed outward current, or delayed potassium efflux, contributes now to the
+falling phase of the action potential. And notice that at the conclusion of the
+falling phase of the action potential, the membrane potential actually undershoots
+the resting membrane level by just a small degree.
+So this is called the undershoot. And it is explained by the ongoing efflux
+of potassium ions. Now, when we first considered the ionic
+basis of the action potential in principle, it was sufficient to say that
+the resting membrane potential is. Approximated by the Nernst equilibrium
+potential for potassium. Now, we can state that that's not exactly
+the case. The Nernst equilibrium potential for
+potassium is actually much closer to the nadir of this undershoot.
+The actual resting membrane potential, I'll call it v rest, in this case is about
+minus 65 millivolts, not quite where the[UNKNOWN] equilibrium potential for
+potassium would be because there are other complications, other Ionic fluxes that we
+haven't taken the time to consider and, and that's okay.
+We can simply state that the resting membrane is not an ideal membrane
+permeable only to potassium. If it were, then Vrest would be precisely
+Ek. But these is a small offset and that
+allows us to explain This undershoot. Now, we've been emphasizing the time
+dependencies of these conductances. I don't want to overlook their voltage
+dependencies. So as the action potential is its falling
+phase and undershoot phase This membrane is now becoming hyperpolarized relative to
+rest. And as it does so, the potassium
+conductance trails back down towards it's starting point.
+So as the membrane is hyperpolarizing. Returning towards rest and then
+undershooting rest, the potassium conductance is shutting down.
+Okay. Well these considerations allow us to
+consider just a couple of other aspects. Of action potential behavior that are
+worth noting. We've talked some about this concept of
+threshold. Now, I think, we can approach this in a
+bit more of a formal way. We know that there is some thing like a
+threshold. We saw that a couple of tutorials ago,
+where when exceeded there is a Runaway positive feedback cycle, where membrane
+depolarization leads to increased sodium permeability.
+So sodium rushes into the cell and that leads to even further depolarization.
+This is the rising phase of the action potential.
+Well, that's accomplished when we stimulaate the axon or when the axon And
+the neuron receives stimulation from some other source, such that the threshold for
+generating this positive feedback cycle is exceeded.
+So we might call that a super threshold depolarization.
+Now we can also move the cell in the depolarizing direction away from rest and
+not hit threshold for firing an action potential.
+That would be what we might call the subthreshold depolarization.
+So what's the difference? What's the difference between a
+depolarization that achieves threshold and one that doesn't?
+Well the difference is whether that depolarization crosses threshold, and
+threshold therefore can be defined as the membrane potential when the sodium current
+is Exaclty equal to the potassium current. That is, it's a tipping point, where just
+as much potassium is able to leave the cell as sodium entering the cell.
+Now, because the sodium conductance opens so much more quickly than the potassium
+conductance, Depolarizations of a sufficient magnitude are certain to
+trigger an action potential. Because we know that it's possible for so
+much more sodium to enter the cell than potassium leaving the cell that we're
+driving this cycle past threshold and generating the rising phase of the action
+potential. Another way to conceptualize this is to
+consider the regenerative nature of the action potential.
+We've been talking about this vast positive cycle where sodium is entering
+the cell, leading to further de-polarization and the opening of even
+more sodium-permeability channels that increase sodium current and further
+de-polarize the membrane. Until the point at which that conductance
+begins to inactivate. So this is a picture of exceeding
+threshold and running this fast positive cycle.
+But we also have a slower negative cycle, and this is set into motion as the
+membrane begins to depolarize and the permeability channels for potassium begin
+to open up more slowly, but as they do Potassium channels are opening, potassium
+is leaving the cell, and this leads to more of a negative feedback promoting the
+repolarization and eventually the undershoot of the membrane potential.
+Now, it's interesting is it not, that the negative cycle is slow.
+And the positive cycle is fast. This, this temporal dependency ensures
+that the action potential can be an explosive event.
+That is, the rising phase can happen unimpeded by this more slow negative
+phase. However, the negative phase eventually
+does dominate Yes the sodium conduct-ants is beginning to en-activate but the
+potassium conduct-ants will drive the membrane back to resting levels and even
+below rest to undershoot. So the slow negative cycle.
+Seems to be nature's way of ensuring a rapid signaling event that is an action
+potential of a short duration. Now there are action potentials in nature
+that can be longer because other ion channels are involved, but our Canonical
+action potential that we find in axons and neurons is of this sort: a sharp rising
+phase followed by a sharp falling phase, with an undershoot.
+Now, this slow negative cycle also allows us to explain the rest of the refractory
+period. I mentioned that the absolute refractory
+period is when sodium conductances are in their inactive state, and it's not
+possible to trigger a second action potential until that inactivation state is
+removed. However, there is a relative refractory
+period that will be present As long as we continue to have this slow negative cycle
+turning away, which is to say the membrane potential is an undershoot.
+Now during that time it is possible to trigger a second action potential because
+this sodium permeability channels are ready to fire again.
+However with undershoot they're Is, therefor, a need for a slightly stronger
+stimulus that can overcome that undershoot and bring the membrane potential to
+threshold in order to fire an action potential.
+That's why this refractory period is said to be.
+Relative. Well, together then, this fast positive
+cycle, this slow negative cycle, allows us to understand the shape and the duration
+of the action potential, and it also raises some interesting philosophical
+points, I think. It suggest that there is a limit to the
+speed of processing in the nervous system. And that limit is defined by the width of
+the action potential. Of course that limit is actually an
+aggregate of the billions of action potentials that are happening all the time
+in neural circuits and neural systems. But in principle, there is a limit to what
+can be defined as the moment. In fact, the aggregate consequence of this
+action potential width, is that our brain is perpetually living in the past.
+We are processing right now information that just happened.
+A few tens, or perhaps even hundreds of milliseconds ago.
+No, I'm not talking about memory. I'm talking about the brain working on the
+incoming flow of information. And because of the width of the action
+potential, and as we'll see in a few sessions, the delay that comes with
+synaptic transmission, it takes some time to elaborate our thoughts and our
+perceptions and our emotions. So from that standpoint, we would seem to
+be at something of a disadvantage, living in a world in real time knowing that our
+brain is living perhaps a few hundreds of milliseconds in the past.
+But. Brains are wonderful organs.
+One of the best things they can do is predict the future.
+If fact, our brains are constantly updating our model about the future, so
+that we can anticipate the actions that happen in real time in the world.
+So even though the width of the action potential imposes a bit of a delay.
+In our neural processing we make up for that delay by being able to predict
+behavior in the future. Well, enough of that philosophy for the
+moment. I think we're ready to wrap this up.
+And I'll leave you with a study question. Which you can find at the bottom of your
+tutorial and you can find it online in our next slide.
+So, consider this regenerative nature of the action potential This fast positive
+cycle and the slower negative cycle. But I want you to think about, why is the
+action potential a spike? That's sometimes the term that
+neurophysiologists use to describe the action potential.
+Which of these factors listed below do you think is the best explanation for the
+short duration of a typical neuronal action potential?
+Okay. I'll see you with the next tutorial.

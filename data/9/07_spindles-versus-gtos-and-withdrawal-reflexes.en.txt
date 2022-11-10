@@ -1,0 +1,116 @@
+So, let's look at how muscle spindles and
+Golgi tendon organs might operate in a coordinated fashion during muscle
+activity. And let's begin by considering what
+happens when a muscle is stretched against some kind of load that's being
+applied. So here the muscle is lengthening, and so
+there's going to be an increase in activity in our muscle spindle afferents
+as this muscle is stretched, okay? Now, while that stretch is happening,
+there's really not much change and the afferent activity derive from the Golgi
+tendon organ. Because again, the Golgi tendon organ is
+not so much sensitive to a change in muscle length, it's sensitive to the
+active contraction of the muscle. And so far, this is a passive stretch of
+a muscle. So that's going to activate the muscle
+spindle afferent and it's not going to activate much at all, the Golgi tendon
+afferent. However, if we were to now actively
+contract that muscle by stimulating the alpha motor neuron, what we find is that
+the muscle is now contracting against that load, it's getting shorter.
+And if we didn't fill-in that muscle spindle afferent by also activating the
+gamma motor neuron, notice that this muscle spindle now relaxes.
+And as the muscle is getting shorter, there is a drop in afferent activity
+derived from the muscle spindle. So, this active contraction is going to
+unload the muscle spindle. However, this active contraction provides
+exactly the stimulus that will drive afferent activity in the Golgi tendon
+organ. So, as this muscle is getting shorter,
+there is now a dramatic increase in the output from the Golgi tendon organ.
+So, we can see how during muscle stretch and muscle contraction, the spindles and
+the Golgi tendon organs are tuned to complimentary sources of information
+about the movement. The muscle spindle is sensitive to length
+but not tension. The golgi tendon organ is sensitive to
+tension but not length. We need them both and they both operate
+to allow that muscle to function within the context of the goal that's been
+established by our descending upper motor neuronal systems.
+And lastly, in this part of our tutorial, let's consider yet a third reflex, and
+this is the most complicated of the ones that we've considered.
+But it's really not so bad once we think about what has to happen here.
+So, this reflex is the one that would be engaged if we were to step on a tack, or
+perhaps we were to extend our hand and inadvertently touch a hot surface.
+the immediate response is to withdraw the limb from the damaging stimulus.
+So, this is called deflection withdrawal reflex or sometimes, it's called the
+crossed extensor reflex. And while the circuitry involved here
+looks rather daunting at first glance, I'm going to suggest that it really makes
+perfect sense if we consider the behavior and what must be coordinated in the
+central nervous system in order to produce the desired result, which is the
+withdrawal of the limb from the potentially harmful stimulus.
+Now let's consider, as is illustrated here, the example of stepping on a tack,
+okay? So, the cutaneous receptor in question
+here is going to be a free nerve ending supplied by, let's say, our A delta
+fiber. So, this is going to be an example of a
+first pain signal, coming from an A delta fiber that's transmitted into the central
+nervous system and notice what happens. There is the distribution of this
+incoming sensory signal to a set of interneurons.
+Well, why does this need to be so complicated?
+well, for very good reason, think of what would be a desired outcome of this
+sensory stimulus being transmitted into the central nervous system.
+What we would want to do is we would want to increase the activity of the flexor
+muscles on the side that encountered the tack.
+And in order to facilitate the withdrawal of the limb, we are going to want to
+decrease the activity of the extensor muscles on that very same limb.
+Now, if we have any hopes of maintaining a standing posture while we withdraw our
+foot from the tack, we're going to want to do exactly the opposite on the other
+side of the body. That is, we’re going to want to increase
+the activity to the extensor muscle and decrease activity to the flexor muscle.
+Now, if you just understand what’s going on with the limbs, then I think you can
+infer what the circuitry must be like in the spinal cord to achieve these goals.
+Knowing that there is what we call, polysynaptic activation in the circuitry
+of the spinal cord, that simply means we have a number of synapses involving
+several different kinds of neurons that are interposed between the incoming
+sensory signal via the A delta fiber and the outgoing motor signal being derived
+from the alpha motor neurons. And these interneurons need to be some of
+them need to be excitatory, some of them need to be inhibitory.
+In order to activate the appropriate muscles, there needs to be excitatory
+interneurons linking the sensory signal to the alpha motor neuron.
+We need to excite the flexor muscles in the ipsilateral limb, that is the limb
+that encountered the attack. Meanwhile, we need to excite the extensor
+muscles that are on the opposite side of the body to maintain posture.
+So, that must mean that some of these interneurons must actually expand the
+midline and allow incoming information from one side of the spinal cord to
+impact the output on the opposite side of the spinal cord.
+Now, let's look at the actual circuitry that we find here and see what elements
+that we can detect. So, with respect to the flexor muscle on
+the ipsilateral side of the body, what we have is basically disynaptic excitation.
+So, we have one interneuron, a second interneuron, and then the activation of
+the alpha motor neuron that supplies the flexor muscle.
+So disynaptic excitation to the ipsilateral flexor.
+With respect to the extensor muscle that we want to suppress, we have disynaptic
+inhibition that is, we have two synapses first an excitatory interneuron.
+And then, the signal is inverted by virtue of the fact that we now have an
+inhibitory interneuron that is responsible for the second synapse
+between the sensory signal and the motor output.
+So, with that disynaptic inhibition, the output to the extensor muscle is
+suppressed. Now, on the opposite side of the body, we
+have polysynaptic excitation, again just meaning multiple synapses perhaps at
+least two or three are present here, that convey an excitatory signal, eventually
+to the alpha motor neuron that supplies the extensor muscle.
+And that allows us to maintain our posture even while we are disturbing
+posture by withdrawing the limb from the tack.
+Meanwhile, we have polysynaptic inhibition, that is applied to the
+antagonistic muscle on the opposite side of the body.
+So, we have some number of interneurons, maybe two or three, that ultimately lead
+to an inhibition of the alpha motor neuron that innervates the flexor.
+So, this is a beautiful example of how circuitry can coordinate the output of
+our alpha motor neurons. And that circuitry can do the job of
+either increasing the output of the alpha motor neuron, or decreasing it depending
+upon if the circuitry interposes an exitatory interneuron or an inhibitory
+interneuron between the incoming sensory signal, which is always going to be an
+excitatory signal. And then, the output from the alpha motor
+neuron, which likewise, is always going to be an excitatory signal.
+So, the way that we increase or decrease the output of the spinal cord to our
+muscle is by either exciting the alpha motor neuron or inhibiting it through the
+activity of an interneuron. In the next part of this tutorial, we're
+going to consider one particular kind of circuitry that will be similar in nature
+to what we've just described here. It's one that will coordinate the
+activity of flexor and extensor muscles on both sides of the spinal cord, and
+it's the kind of circuitry that's essential for generating the rythmical
+behavior that supports locomotion. We call this kind of circuit essential
+pattern generator. So, that's the topic that we come to
+next.

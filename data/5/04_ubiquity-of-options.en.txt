@@ -1,0 +1,56 @@
+Well, options are everywhere,
+it's not just in stock options. I mentioned farm options, but there's
+option value in other things as well. Mortgages involve an option to default. Now, in the United States, we have 50
+states in the United States of America, and each has it's own mortgage regulator. And some states are called
+recourse states, and some are called non-recourse states. So here in Connecticut,
+we live in a recourse state. What that means is, if you buy a house and take out a mortgage to borrow,
+to get the house and then you stop paying. The mortgage lender can go after you, they can garnish your paycheck they can
+do legal proceedings to make you pay. In a non-recourse state
+such as California, when you fail to pay on your mortgage,
+you default on your mortgage. The lender has only the right
+to evict you from the house and take the house, but
+cannot go after you further. So in a non-recourse state, a mortgage is really an option of sorts. You can always just walk
+away from the mortgage. In fact, you can do something
+that's called jingle mail. You take the keys to your house,
+you put them in an envelope, and you mail it to the mortgage lender. And you say, I'm outta here,
+take the house. That's not a right in Connecticut. Options are very old, as I said, but
+exchanges for options are not so old. In fact, we didn't have
+an options exchange until 1973, when the Chicago Board Options Exchange
+separated itself from the Chicago Board of Trade and
+started the first options exchange. And then, they had standardized options. When I showed you that Dutch option
+from 1730, something was standardized. The form was standardized, but it didn't
+have a standardized stripe price or exercise date,
+because those were to be filled in. The problem with those Dutch
+options in 1730 is that you didn't even know what
+the market price was. They didn't even have telephones on
+how they can figure out a price. The broker would be trying to get you
+a good price by word of mouth somewhere. He'd walk into the stock market and
+talk to people there. But now we have Options Exchanges, and now they're traded on stock exchanges
+as well, and futures exchanges. >> So Professor Sheer, actually on the
+topic of options for average investors. There's a lot of different financial
+instruments on the market, like ETFs for example. A lot of them incorporate options, other derivative contracts
+into their portfolios. And so are these kind of investments
+potentially dangerous on the market for retail investors who may not know they're
+investing in a derivative instrument when they're buying an ETF or something else. >> Yes, there are concerns. Derivatives have been called
+weapons of mass destruction. >> [LAUGHS]. [LAUGH] And because they might be
+subject to crashes in a crisis. That's what happened in
+2008 subprime crisis, that people had engaged in swaps that,
+later, the counterparty was about to go bankrupt
+so maybe the swap didn't work and it led into a whole quagmire of
+problems of interdependency. So the Dodd Frank Act
+created in Washington, the Office of Financial Research,
+to try to look at the macro instability. Other countries have similar acts. There's a lot more attention now, the
+Financial Stability Board in Switzerland is paying attention to these issues and talking about how we can
+make the system more stable. The problem with derivatives
+is that they increased so rapidly that the data collection
+about them fell behind and the regulators weren't up to
+date on all of the issues. But on the other hand, derivatives have a useful purpose,
+just as insurance has a useful purpose. So when you insure your house against
+fire, that's a good thing to do. And now you can buy a put,
+not on your house, but your real estate community,
+now at the Chicago Mercantile Exchange. These kinds of things are developing. And it may lead us into a better society. And a way to put a bottom line on it is,
+they lower inequality. People think inequality is something
+that only the government, can deal with. But actually, the biggest arsenal
+against economic inequality, is not the government. It's the insurance industry. That helps people from being
+hit by health problems or fires on their house or other things
+that make for painful inequality.

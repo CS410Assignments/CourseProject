@@ -1,0 +1,173 @@
+This is cybersecurity
+for everyone. I'm Dr. Charles Harry. We've been talking about
+the various effects that threat actors can have when they're
+actually on target. In this video, I wanted
+specifically talk about what we call
+secondary effects. As you might recall, a threat actor has a
+potential impact on a system. They can create a variety
+of different effects. In the last video, we
+discussed primary effects. In this video, I want to
+specifically move and talk about secondary effects, specifically the impacts that those threat actors can have
+on organizational processes, and the capability to
+that particular network. Secondary effects
+really are all about the indirect impacts on
+the targeted organization. A cyber event can create
+indirect impacts to that targeted organization
+that stem from those initial effects on the
+targeted devices themselves. They can come in a variety
+of different forms. Those indirect impacts can come in the form of
+revenue effects, where we stopped
+the production of goods or the provision
+of services. Examples might be something like the ability to create a
+disruption to customer orders. We could do that
+through, let's say, a distributed denial-of-service
+attack on your website. Or we might be able
+to directly impact your manufacturing capability by engaging in what's known
+as a SCADA attack. We also might be able to talk a little bit about
+remediation costs. These are really about
+the costs associated with response and remediation
+to the specific event, where devices need
+to be repaired, or maybe even entirely replaced. Employees might need to
+possibly work overtime. Those are all additional
+costs that we have to absorb. There's also reputational costs, the loss of confidence
+in a company. That could be that a share
+price to the company is actually specifically
+affected or customer perceptions
+about the security of their data might
+actually change. Let's talk first
+about revenue costs. So revenue costs or revenue
+effects are really about stopping the
+production of goods or the provision of a
+specific service. As we discussed before, that might include things like creating disruptions
+to customer orders, like a DDoS have your website or a direct impact to your
+manufacturing capability. But let's use the example
+of airline flights. It might be that in order
+for an aircraft to take off, there are a couple of parts of the organization
+that all have to work in tandem in order for
+an airplane to take off. There could be an
+operational network at the terminal that allows the ticketing agent to scan your booking receipt and
+allow you on the aircraft. It could also include a series
+of different devices and databases and applications that allow the pilot to
+file a flight plan. Then finally, it might also
+include network devices that allow aircraft to talk to
+not just other aircraft, but also to the
+tower themselves. That allows them to take off
+and fly with confidence. But remember that if all
+three of those work, then you're able to take
+off or land your aircraft. Remember though,
+that each one of those organizational
+processes is underpinned by some set of
+interconnected devices. In this case, we
+just have a bunch of notional network devices
+denoted by X1 through X18. The numbers themselves
+don't really mean anything, but it's just to remind you that underneath each one
+of these human processes, lie technology that
+is interlinked. As long as all three of those
+networks function properly, then the aircraft can
+take off and land. But what happens if a
+cyber attack takes down two key devices in one
+of those networks? In that case you
+might have one of those operational networks
+function but the others fail. The second one fails because the devices themselves
+don't work, but the third organizational
+process fails because it's reliant
+on the second one. You get this cascading
+effect that emerges. Devices support
+organizational processes and the failure of the
+process leads to disruptions to the
+organization, generally. These could be tied to
+extremely large revenue losses. We've seen examples
+of these types of attacks occur over the
+last several years. The NotPetya attack, that was a ransomware variant that was spread all around the world, caused billions of
+dollars worth of damage, primarily because it
+impacted the ability of organizations to produce
+products or deliver services. A second effect
+that we may want to think about is remediation. Remember, remediation
+is really all about the direct costs
+for the response or remediation of devices, and the time that it takes for employees to actually
+do the work. So we have remediation costs tied to potentially repairing, or replacing specific devices, or for the labor costs
+tied to employee work. Organizations will
+face questions about the costs of directly
+responding to the event. What are the specific cost to repair and replace
+impacted devices? If you're only talking
+about a single device, that may only be a
+few thousand dollars, but if you're talking about
+thousands of devices, that cost might be in
+the millions of dollars. Where are the specific costs to labor when you have to
+respond to the event? Oftentimes, you're
+spending quite a bit of money on overtime in order to get those systems and those networks backup
+and operational. Finally, there might
+even be legal fines and judgments that the
+organization will have to pay, and all of these
+types of costs are wrapped up in what we
+will call remediation. Then finally, there's
+reputational costs: the loss of confidence
+in your company, and that can manifest itself either through
+your share price, where the company's
+stock is being sold by a large
+number of investors, or even about
+customer perceptions about the security
+of their data, or the integrity of
+their supply chains might start to change. Organizations face these
+broader consequences that are above and beyond just the
+direct revenue costs, or the remediation costs. They might include things like, do investors sell the
+organization's stock? In the aftermath of
+the Equifax hack, the stock fell by
+over 20 percent. It was a very
+significant impact. Will customers
+have less faith in the ability of that organization
+to protect their data? Will partners seek
+new relationships as they believe you are now well protected from cyber events? These are additional
+costs that are not directly tied to the primary
+effects on the devices, but emerge because
+the human factors, the human parts of the
+organization, are now impacted. So they're interrelated,
+but they are different. We get different attacks that can generate
+different effects. The defacement of a
+website, for instance, might have relatively
+minor primary effects: some content is modified, files are quickly restored
+in about 30 minutes, buy customers can order products
+for that period of time. There might be some
+secondary effects, so the inability of
+customers to actually put their orders in might create a small
+disruption to revenue, and there might be
+some customer concerns about the safety and
+security of their data, and maybe they use a competitor. There are revenue and
+reputational secondary effects. If we compare that to, let's say, a different
+type of attack, where ransomware is deployed
+on an assembly line, the primary effects
+are quite large. Devices controlling the
+manufacturing line are made completely
+inoperable for 72 hours, and there's no manufacturing
+that's able to take place. The secondary effects, again, could also be quite large. You now have the inability to manufacture goods for 72 hours, and there's lost revenue
+associated with that deficiency. It's also going to
+take maybe a week to clean up and install
+all the new equipment, so the remediation costs are
+really quite significant, and the overall share
+price might plummet, because you're down
+for three days. In this case, we have two
+different cyber events. One is a defacement
+of a website, the others ransomware
+on the assembly line, and there are
+differences in effects. Hacking generates
+initial primary effects, which then lead to these
+additional consequences. The hacker, who remember
+is motivated by some goal, engages in the hacking process, which leads to
+actions on target. That action on target
+creates a cyber event, and that's cyber event
+has primary effects, which can be both
+disruptive or exploitive, and those primary effects then
+lead to secondary effects. They can manifest themselves
+in the form of revenue loss, remediation costs, or
+reputational damage. Some cyber events
+can be so large against very specific and critically important
+institutions, that they can actually create
+larger impacts on society. What are some of the takeaways? Well, first of
+all, cyber attacks generate effects
+on organizations, and they derive from these initial actions
+of the threat actor. Secondary effects
+can impact revenue, remediation, or even reputation. Understanding the
+interplay between the primary and
+secondary effects is key to differentiating
+severity of cyber events. Remember, not all cyber
+events are the same. In our next episode, we'll talk specifically about the impacts on larger society. I hope to see you next time.

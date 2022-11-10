@@ -1,0 +1,290 @@
+Hello. Welcome back to Introduction
+to Genetics in Evolution. In the previous videos we talked about
+some of the fundamentals associated with natural selection. I reintroduced that is a mathematical
+inevitability, we talked about the three conditions for it, and we looked briefly
+at changes in allele frequencies and genotype frequencies associated with
+the action of natural selection. Now one point I stressed in the last
+video was the importance of dominance. That dominance affects how natural
+selection shapes allele and genotype frequency. Now in the last example I
+showed you in the last video, we had all adult, little a,
+little a, individuals die. So we said that at age 10 all little a,
+little a, individuals just die off. Let's follow up on this with
+a couple of different examples. I'm going to change, in this case,
+the alleles from big A and little A to M and N. That way there's no implication of
+capital being dominant or recessive or anything like that. So let's say now we are looking at
+the relative fitness of three possible genotypes. And again, there's two alleles. Genotype MM has a fitness of 1.0. So again, relative fitness. Genotype MN has a relative fitness of 1.0. And genotype NN has
+a relative fitness of zero as in all individuals
+that are NN are dead. Now which allele is dominant or
+which allele is recessive? Well we define dominance by what the
+heterozygote has the same phenotype as. The phenotype we're looking at in
+this case is the relative fitness. So which homozygous does the heterozygote
+have the same relative fitness as? In this case the MM homozygous
+have the same relative fitness as the MN heterozygotes. In this case, this must necessarily be dominant,
+this must necessarily be recessive. Okay, because these two
+have the same fitness, they must be, this one must be dominant,
+the M allele. This one is recessive. In this particular case
+the recessive one is also bad. This is the one that has
+the lower fitness, too. That won't always be true. But in this particular example,
+that is true. So N is recessive to M, and
+N is detrimental, or bad. Here's a different example. So in this case MM has
+relative fitness 1.0. MN has relative fitness of 0,
+NN has relative fitness of 0. So what do we think is
+going to happen in this case? Well, first of all, which one is dominant? In this case again we
+look at the heterozygote. Which one has the same
+relative fitness asset? In this case, it is the NN homozygote. So, N is actually dominant now. N is still that, so in this case,
+the dominant one, this one is dominant, N is dominant. And what will selection do differently? While we might guess in this case,
+selection will actually be much more quick, because in this case
+you're eliminating all Ns from the population at once, instead of
+just a subset of Ns from the population. Here are some Ns are sheltered. Here no Ns are sheltered, they are all
+exposed to natural selection so with a dominant detrimental, the heterozygotes
+will always respond to select. Let's do a third example.MM is 1.0,
+for it's relative fitness. MM is .5 and MN, zero. In which case, which one is dominant? Well, the simple answer is neither,
+because no homozygote has the same relative
+fitness as this particular heterozygote. So we can call this
+a case of no dominance. In all three of these cases we assume that
+the NN heterozygote is the worst one. This is what's often referred to as
+directional selection because selection will preferentially push towards
+the elimination of the N allele over time whereas MN is always perfectly healthy. But the rate will be very different,
+in this case, selection will be very
+slow to eliminate N's. In this case selection would be
+very fast to eliminate N's and in this case it would be intermediate. Now we can see this. Here is the effect of dominance
+with directional selection. This is using that allele A1
+software that I mentioned before. So let's look at the case. Now the alleles in this case
+are called the A1 and A2. So if we have genotype
+A1A1 has a fitness of 1.0, genotype A1A2 has a fitness of 0.5. So we're not eliminating all of them, we're just eliminating
+half the relative fitness. Genotype A2A2 has a fitness of 0.5. This would be a case of
+a dominant detrimental. We say it's dominant because, again,
+you look at the heterozygote. It has the same fitness as this one. Okay so, A2 is dominant, A2 is bad. A2 will be going away from the population. In this case, since no A2s can hide,
+it goes away pretty quickly. In contrast,
+when you have the recessive detrimental. Now, this one is dominate,
+A1 is dominant but A2 is the bad one. So you can eliminate these pretty
+readily from the population but these are perfectly okay. So as you can see what happens here
+if you look at the change over time the x axis here is time in generations. The y axis is the frequency
+of the A2 allele. You see the A2 allele is
+going down in frequency but it's going down somewhat gradually
+near the end because a lot of these individuals when you're down here,
+a lot of the A2s are hiding as A1A2. Whereas over here, none of them can hide, they're immediately exposed to selection,
+boom. Whereas here, the A2s can stick around. And therefore you maintain
+some A2 in the population, over a fairly long period of time. In fact, this is actually what happens for
+many bad mutations. As I mentioned a long time ago when we
+were talking about inbreeding depression, many bad mutations are either
+completely or mostly recessive. Some examples of genetic diseases like
+this are Tay-Sachs, cystic fibrosis, etc. They're maintained in
+the population by carriers. Selection is inefficient
+at getting rid of them. Now let me give you a problem to try. Which of these depicts the change
+in lactose intolerance allele? This is the big A we talked about
+in a previous lecture by selection. So I'm giving you here
+the relative fitnesses. So big a big a has a relative fitness of
+.95, that is when it's lactose intolerant. That's also the ancestral type. Big A little a has
+the relative fitness of 1.0. And little a little a has fitness of 1.0. Again, these pictures are showing
+time generations on the x axis and the frequency of big A,
+make sure you know that. Frequency of big A on the y axis. Which of these would be an accurate
+depiction of what we expect to see over time? Well I hope that wasn't too difficult,
+now what do we have here? Now which allele is dominant? That's the first question to ask yourself, the allele that's dominant in this case
+would be little a because it has the same. The heterozygote has the same relative
+fitness at the aa homozygote, so this one is recessive. Big A is recessive. N is also that. So in the case of a recessive detrimental
+that's being eliminated from a population. What we're looking at in this
+case is the frequency of big A so that is the recessive bad allele. Since it's bad,
+we know it will go down in frequency so we can immediately eliminate these two. Since we know big A's bad it should go
+down in frequency, not up in frequency. Now the question is, does it go down fairly quickly, or
+does it do this very slow thing. Well as I mentioned in the last
+slide when its recessive, a lot of individuals here can hide as
+big A little a, and it will be slow. So in this particular case,
+number one is the correct. Again. There are many types of
+selection that can happen. There is, in fact, many types of what is
+referred to as directional selection. And this is what we've been looking at so
+far. In directional selection,
+one allele eventually replaces the other. That everybody in
+the population eventually, if you wait a long enough time, will be
+either big A, big A or little a, little a. So what you have is something like
+this where the fitness of big A, big A is less than or equal to the fitness
+of big A, little a is less than or equal to the fitness of little a little a. Or the opposite,
+where the fitness of big A. Big A is greater than or
+equal to the fitness of Big A little a, is greater to or
+equal to the fitness of little a little a. Now the examples can vary. So here we have a case where we have a
+recessive detrimental for the first line. We see this because the dominant
+one has the high fitness. The recessive one, so eventually all
+the population will be big A big A, all right here what's
+happening eventually. This particular example again, everybody
+eventually will be big A big A, and this is a case of no dominance, or intermediate
+dominance as some people call it. In this particular example now, we have
+little a little a has higher fitness than the other two, so eventually everybody in
+the population will be little a little a and here's the example of lactase
+resistance, or lactose intolerance. Then eventually everybody in the world
+can wait long enough periods of time, everybody should be allele, allele, or
+lactose tolerant, or lactase resistant. You know this may not happen in real life,
+for this particular example, because we now can purchase
+lactase over the counter, but that's the direction that things happen. So, these are all cases of directional
+selection where eventually you go to one form, eventually you go to monomorphism. Here's a different type of selection, this
+is the case of heterozygote advantage, this is often called overdominance. In that particular case, the most fit
+genotype is the heterozygote or the Aa. So this one is more fit than
+both kinds of homozygous. The two homozygotes may differ
+in fitness from each other, but the highest fitness is associated
+with the heterozygote, okay? In this case,
+unlike with directional selection, one allele does not replace the other. This does not lead to
+monomorphism over time. A classic example of this,
+that people always site is that of sickle cell anemia and malaria resistance,
+so let me introduce this to you briefly. Malaria is a big threat for
+a large part of the developing world. In fact,
+in places like sub-Saharan Africa, your odds of death by malaria are around
+4%, that's pretty high overall. Now, malaria is transmitted
+by mosquito bites, which are giving this Plasmodium protozoa,
+which is what actually causes malaria. Now, how does this relate
+to sickle cell anemia? Well, sickle cell anemia is
+not a great thing, either. This is a recessive genetic disease, so
+only aa individuals are fully afflicted. In this particular case, the sickle cells
+die faster than normal red blood cells. They deliver less oxygen to cells. So people who have this disease are tired
+all the time, they have chronic pain. They have, quote unquote, episodes where they sometimes have to go
+to the hospital associated with this. So this is clearly not a good thing. Interestingly the heterozygote,
+so the big A little As, these people are often called
+having the sickle cell trait. They are usually okay, sometimes they
+can have some sickling in their cell when they're exercise very hard and have
+some type of intense physical exertion. But overall they're good. But interestingly,
+these individuals who are heterozygous for sickle cell are actually more
+resistant to malaria than individuals that are heterozygous for
+the non sickle allele. Now, the thought a long time ago with this
+was that invasion, growth and development of Plasmodium was actually somehow reduced
+in these heterozygous blood cells. But more recently,
+I cite two studies down here. You're welcome to look
+them up if you'd like. One thought is the heterozygote is more
+tolerant to sickle cell symptoms, but actually still retains a connection. Whereas another study showed that
+the infected Heterozygous cells, are more likely to be
+eliminated by the spleen. So there are a couple different
+explanations for this. But the important thing is that, if
+you're in a place where there is malaria, if you're a heterozygote, you
+are actually, not immune, but you are much less likely to get it, than individuals
+that don't have sickle cell trait. So the sickle cell exhibits a heterozygote
+advantage in some populations. Because you can think of it this way. The big A big As
+are susceptible to malaria, so they might have a relative
+fitness like 0.85. I'm just making up these
+numbers in this case. The big A little As are generally fine. They don't really get malaria,
+they don't have sickle cell disease. So they'll have the highest
+relative fitness of 1.00. And little a, little a's have a sickle cell disease
+which is extremely debilitating. So we'll say their relative
+fitness is something like .05. Well what would be the fate
+of a little a allele if it arose as a mutation in
+a big a big a population? Well it seems like little
+a little a is really bad, on the other hand,
+big a little a is pretty good. So what should happen? Well we can simulate this using little A1,
+and we see that the frequency of little A
+rises and then comes to this equilibrium. It comes to this stable little
+frequency and just stays there. The number it comes up with in this case
+is the frequency of little a, or A2. In this case it's 0.136. That's what was estimated using little A1. Interestingly, we can actually apply
+the math ourselves and see what happens. So the frequency of little a, this is
+the prediction from what you should see in terms of changes and real frequencies and
+the equilibrium allele frequencies. So this is at equilibrium. A little hat over this
+to indicate equilibrium. At equilibrium,
+what should the frequency of little a be? Well we'd say it's 1- the relative
+fitness of AA divided by 1- the relative fitness of aa + 1-
+the relative fitness of AA. We have all these numbers here right? So the fitness of AA so 0.85,
+the fitness of aa 0.05. It's a big A big A again, 0.85. So we can substitute these numbers
+into this very simple formula. So there we go, they're put in there. And this calculates out to 0.136. That number may look
+familiar to you because that was exactly where we
+saw this equilibrium drawn. So the important thing,
+this is actually a stable equilibrium. Essentially, if you're not at
+the equilibrium allele frequency, selection pushes you towards it. If you're above it, you go down to it. If you're below it, you go up to it. You're drawn to this
+equilibrium allele frequency. And again, this is called overdominance. Both alleles are retained, and if you're not at equilibrium frequency,
+you will move to it. Now let me show you a graphical
+representation of that. Here it is.
+Here's a graphical representation of changes in allele frequency
+associated with overdominance. On the x axis here I have the frequency
+of the big allele and on the y access I have the predicted change in frequency
+of the big allele next generation. Don't worry about this too much
+if you're not exactly following. But this just depicts
+the same sort of thing. So imagine that you're at, let's say in
+this case the predictive allele frequency equilibrium allele frequency is .6. if you're at .4,
+if you're at actual frequency of 0.4, your predicted change in
+frequency of big A is what? In this case,
+your predicted change is positive, so it'll push you toward equilibrium. If you're over here at 0.8, your predicted
+change in allele frequency is negative, so that pushed you in this direction. So you can see,
+anytime you're anywhere but at equilibrium frequency,
+or we have no variation. Then you will always be
+drawn to that equilibrium. Unless you are at either 1.0 or
+0.0 where there is no variation. And selection requires variation to act. So this is just a graphical
+representation of what told you in words. You don't worry about that. And the important thing heterozygote
+advantage, or overdominance, is there is this predictable equilibrium allele
+frequency the population will be drawn to. Now let's talk about the opposite,
+heterozygote disadvantage. Whatever, the heterozygote
+has the lowest fit. There aren't very many good cases of this, but we can at least show mathematically
+what should be expected. One of these cases, again, the least
+fit genotype is the heterozygote. I just made up some numbers here. What this does, this actually
+leads to an unstable equilibrium, like this fellow standing
+on the chair here. That if you start below
+the equilibrium allele frequency. So again, the equilibrium
+allele frequency is 0.27, so you're just a tiny bit below it there. If you start below it,
+it'll just go away completely, you'll lose one allele completely. If you start above it,
+you'll lose the other allele, one of them goes to fixation. It's only if you're right at equilibrium
+allele frequency that both alleles can persist. But in a real population, you probably
+can't do that, because unless you have an infinite population size, you can't
+stay exactly at that allele frequency. So unlike the previous example, this
+is a graphical representation of allele frequency change with underdominance. If you're not at the equilibrium point,
+let's say, for example again the equilibrium
+allele frequency is 0.6. If you're starting at 0.8, again, your predicted change allele
+frequency is positive. If you start at 0.4, your allele
+frequency predicted change is negative. Negative, it pushed away. So again,
+you lose variation in the population. Only if you're right at that equilibrium
+allele frequency can it stay, so it's a very unstable equilibrium point. It probably doesn't happen very much,
+or if it does, it's eliminated so
+quickly that we never see it, okay? So those are three kinds of single
+locus selection we've talked about. Directional selection, where one allele is
+just consistently favored, overdominance, where variation is retained in
+a stable way, underdominance, where variation can be retained
+temporarily in an unstable way, but eventually you lose variation and it's
+unpredictable which one you would lose, unless you know that you're above or
+below the equilibrium allele frequency. There's one more type I was going to
+introduce, and that is that of frequency dependent selection,
+specifically negative frequency selection. Now, the previous examples all assume that
+fitness was independent of what was going on in the rest of the population. That you're big A big A, you're better
+than big A little a, no matter what. Or if you're a little a little a, you're
+better than being a big A, no matter what. Sometimes, it's actually better
+to be rare, that your fitness may depend on your relative abundance or
+frequency of the population. Now, being better makes you more common,
+right? That if you're better it means
+you're having more kids, you're more likely to survive, so you
+become more common, but if it's better to be rare, it's kind of this funny thing
+where you have these opposing forces. What this does, and this is the case specifically of
+negative frequency dependent selection, we're not going to talk about positive
+frequency negative selection. If you have negative frequency dependent
+selection this assumes that it's better to be rare, but
+being better makes you become more common. This eventually leads to an equilibrium. Let me give you an example,
+let's use the case of sex ratio. So, in many species,
+you know sex is determined genetically, as you know, in mammals we talked
+about the sex chromosomes, that XY is what causes maleness. You're kind of locked into
+this by transmission. But there are other species where alleles
+at one gene can cause an individual to become a male versus a female. That you can have this sort
+of variation within it. Now, if females are very rare in
+a population, and you need both male and females to make offspring,
+is it better for you to produce male or female offspring? Is it better to produce the abundant type
+or is it better to produce the rare type? Essentially, in this particular example
+would selection favor the male or female allele? It's probably better to produce the rare
+type, because you're more likely to mate. If you produce the common type,
+you're very likely not to mate. When you're rare,
+this rare allele has an advantage. As it becomes more and more common,
+it loses its advantage, and eventually can go to a disadvantage. This will maintain genetic
+variation in a population. And you might guess, if you have two
+alleles what would you predict that equilibrium allele frequency to be,
+if you assume it's symmetric? The answer is 50%. In fact, if it's symmetric you will
+tend to see, just about always, the equilibrium frequency will be
+one over the number of alleles. So if you have two alleles,
+it'd be one half. What if you were to introduce
+a third allele to the population? Well, then probably that equilibrium
+allele frequency would be one-third. This is assuming a sort of symmetry,
+which may or may not be accurate. But this gives you some
+idea of what could be. Now, frequency dependent selection is
+another way of maintaining variation in a population through selection. We talked about a couple of different
+modes of single locus selection here. Some of them remove variation,
+some of them retain variation. So, directional selection, favoring one allele,
+this essentially eliminates variation. Right? And the effects of dominance will change
+the speed with which variation is eliminated, as well as the strength
+of selection, of course. Heterozygote advantage
+maintains variation. Heterozygote disadvantage is unstable. So although you can argue that it
+maintains variation, it only does so under unrealistic circumstances. So it probably will eventually
+lead to elimination of variation. And negative frequency dependent selection
+will maintain variation as well. All of these are affecting genotype
+in allele frequencies, but they're acting through the phenotype. Now this discussion, we're looking at everything in the context
+of the effect of alleles at one gene. Obviously, that's not what Darwin did. And it's obviously not what
+people do when they're applying artificial selection, right? They're looking at the traits as a whole. They're looking at the phenotype,
+the variance. So let's tie this back to
+the principles we talked about earlier, in terms of heritability and
+things like that. Well, we'll start doing
+that in the next video. Thank you.

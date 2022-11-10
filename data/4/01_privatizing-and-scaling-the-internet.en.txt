@@ -1,0 +1,115 @@
+Hi, Welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. In our last episode
+we talked a lot about how internet
+technology had been developed in the lab and had started to
+bring in members of the private sector to develop other parts of
+internet technology. In this episode, I want
+to talk a lot more about how that is further privatized
+and how it's scaled. How do we actually start
+building a more global utility? The fundamental
+question here is, how do we manage this thing. This thing that we've built, this great idea that started
+in the late '50s and early '60s and starts to develop a little bit and
+become a little bit more mature in the '70s. How do we actually
+manage this thing? By the early 1980s, inter networking has really
+become more popular. But most of the networks that are developed
+are very specific. They're built for a
+particular purpose. NASA, Department of Energy
+are two examples of very specific networks that
+are developed utilizing this technology from
+the 1960s and 1970s. A variety of
+different protocols. Remember, protocols
+are just simply instructions are
+utilized to communicate. But they create a challenge
+for broader adoption because if everyone's using different sets of instructions, it's hard to actually
+create a standard. It's hard to broadly
+communicate with one another. At the heart of all of these
+purpose-driven networks, the way that they actually can communicate with one
+another is still this ARPANET system
+that was developed by DARPA starting the late 1960s
+and throughout the 1970s. ARPANET is really
+at the heart of all these connections of these
+purpose-driven networks, which creates a problem. If we look back at the
+origins of ARPANET in 1969, you'll notice in this map, there's just a handful
+of the nodes that we originally discussed
+in a previous episode. That starts to develop further
+as time goes on in 1970, we now see connections
+back to the East Coast. By 1973 it expands even further. By 1982 we can see
+the development of several different
+networks on both coasts and also in the heartland
+of the United States. By the early 1980s, we see in essence the emergence of a
+broader set of networks. But ARPANET is still
+at the center. It's still the connective tissue between these
+independent networks, which poses a problem. Because remember, when we first talked about the
+origins of the Internet, the broader vision was that there was no single authority. We want to create a set of independent networks that have the ability to work together. If ARPANET remains at the
+heart of the Internet, then we don't actually
+achieve that broader vision. The goal is to allow networks to independently communicate
+with one another. We look back to some
+initial work that was done in the late '60s and
+into the early 1970s, specifically the invention of internet protocol
+and Transmission Control Protocol, or TCP. It becomes universally
+adopted in 1984. Now at this time you have
+to remember there were lots of different protocols
+that were in use. By adopting a
+universal protocol, we actually see the birth
+of the modern Internet. This is a key period in the
+history of the Internet. After the adoption of TCPIP
+as the universal standard, the government wants to get out of the middle of this internet. ARPANET at the time had been the central
+connective tissue. It's pulling itself out. It wants to incentivize the private sector to build out additional
+infrastructure. While the National Science
+Foundation builds out a large-scale cross-country
+high-speed set of network connections. It prohibits the private sector from utilizing those
+particular connections. The reason they do that is to incentivize the
+private sector to build out its own
+infrastructure. By doing so, the government
+is further pulling itself out as being the central
+node in the internet. It encourages private
+sectors to now actually go out and get customers for these networks
+that they're building. Again, additional incentives
+by the government to make this a lot larger than
+simply a research project. This leads to the first
+large-scale sets of investments in the build-out
+of Internet infrastructure. This is really the
+first internet boom. Oftentimes, when we think
+about the Internet boom, we think of the late 1990s and the World Wide Web,
+things like pets.com. But this is really the first internet boom
+where we start seeing broad-based private investment in large-scale infrastructure. That NSF net, that set of
+high-speed interconnections, really crisscrosses
+the United States and broadly connects research
+centers all across the country. But the government doesn't want to get completely
+out of the picture. They still want to support
+research in this area. In 1986, the Supercomputer
+Network Study Act of 1986 was introduced
+by Senator Al Gore. This is oftentimes
+you heard these jokes about Al Gore inventing
+the Internet. What he's oftentimes
+talking about is his support in introduction of legislation that increased investment in internet-based
+technologies. That act allocated
+$600 million for high performance computing and specifically looked
+to accelerate the development of
+high-speed networking. It also provided funding for a couple of different
+research centers, one of which the National Center for Supercomputer
+Applications at the University
+of Illinois led to the development
+of what later became the core technology behind
+the mosaic web browser. We'll talk more about
+mosaic in another episode. But I want to highlight the
+fact that the government, while not being at the center
+of the Internet anymore, by pulling itself out of running ARPANET
+and having ARPANET to connect all these
+various networks is not totally out
+of the picture. It's just redefined its role. What are the takeaways? Well, first and foremost, the birth of the modern
+Internet takes place in 1984 with the adoption
+and TCP/IP protocol. Because remember
+there were all these different competing
+protocols out. In addition, these
+broad-based incentives for the private sector to build out its own networks and for it to develop its own customer
+base was a way for the government to more broadly have internet
+technology be accepted. Finally, the government
+wanted to support additional research
+specifically in the area of high-speed networking as a
+way to more readily make services on the
+Internet available and useful for a variety
+of different customers. In our next episode, we're going to talk about
+the next internet boom. Specifically the development of the World Wide Web
+and how that began to transform how we actually utilize the internet. Hope
+to see you next time.

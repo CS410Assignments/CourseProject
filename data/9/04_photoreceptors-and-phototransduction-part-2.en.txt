@@ -1,0 +1,126 @@
+Well let's look now in a little bit more
+detail at the molecular level as to how this happened.
+Well we have our 11-cis retinal that is in the center of the [unknown] and when light
+strikes this molecule, there is a rotational twist between carbon atoms 11
+and 12. That converts the 11-cis retinal in to an
+all-trans configuration. So you may remember a bit of organic
+chemistry there the difference between a cis and a trans.
+Well this confirmational shift is what leads to the activation of the
+metabotropic element of the absent protein.
+So, with that in mind, here is light striking our photo pigment.
+And the twist that we see in that retinal molecule leads to the activation of a set
+of g proteins that are affiliated with that opsin.
+Those g proteins are called transducin. And one consquence of activiting these G
+proteins is that a phosphodiesterase enzyme is turned on.
+And that phosphodiesterase cleaves the cyclic structure of the cyclic GMP
+molecule. And as a consequence then.
+The cyclic GNP levels fall. And the channel goes from it's open
+configuration to it's closed configuration.
+Rather remarkable that all of this happens as quickly as it does.
+Well, in neural terms it actually does take a bit of time which contributes to a
+bit of the lag in the operation of the visual system.
+The visual system is actually one of our slowest sensory systems, in large measure,
+because of the time necessary for this photo transduction cascade to play out.
+Well now let's consider some features of rods and cones that help to differentiate
+their contributions to vision. Rods are extremely sensitive to light for
+reasons that we'll mention in just a moment.
+Cones on the other hand are relatively, insensitive to light .Vision, when driven
+by rods, is characterized by low spatial resolution.
+And this pertains to the wiring of rods to ganglion cells and the retina.
+Cones on the other hand are associated with very high spacial resolution.
+Putting these facts together, rods are specialized for very low light levels.
+We call this scotopic vision. Whereas cones are specialized for very
+bright conditions, such as this beautiful late afternoon here in North Carolina
+where I'm talking to you today. So this photopic vision enables color
+vision since color vision requires the activation of cones.
+Well let's consider some of the physiology and anatomy of our rods and cones that
+helps to explain these features. If we look at the response of an
+individual rod and a cone to the onset of light, what we find is that in a rod,
+there's a graded response. Graded by the intensity of the light
+stimulus. But there's also a very sustained response
+that adapts relatively slowly. Now contrast that to the responses of the
+cone which also responds in a grated fashion but the adaptation is very quick.
+So the metabolic mechanisms that are responsible for adaptation with any other
+segment of these cells operate on different time scales with a much more
+sustained response seen in rods relative to cones.
+Another specialization pertains to the wiring of rosin cones to the ganglion
+cells and this is shown rather schematically here in this figure.
+Notice that about 15 to 30 rods connect up with a single bipolar cell.
+Contrast that to the cone system given this one to one relationship and this cone
+bipolar cell could be sensitive to a much more narrow spatial channel as photons
+interact with the retina. We can consider the specializations of
+rods in cones in terms of their physiology and their anatomy and begin to understand
+how we can be sensitive to light over the incredible range of luminance that's
+present in our environment. We're sensitive to more than to a 12 log
+unit range and luminates. We can define an absolute threshold for
+vision and this occurs under extremely dark conditions.
+Imagine being in the darkest woods in the darkest night and your way illuminated
+only by starlight. What little vision its possible under
+those conditions is do entirely into the operation of our rod system.
+This is called scotopic vision. Now in conditions such as where I find
+myself now looking into the setting sun there is considerably more.
+Photons in this environment right now and I suspect that I'm somewhere around this
+amount of illumination now where our cones are responsible for the vision that I see.
+The rod system has completely saturated at this point.
+So all that I see in my world around me at this moment is due to the activation of
+cones in my retinas. So these kind of conditions when cone
+vision dominates are called photopic. Now there is a transitional region in the
+middle called mesopic. Illumination and this would be
+characterized by lets say, being out in the woods and in addition to starlight now
+there's moonlight. Maybe about a quarter moon or more.
+That would get us in this range where we are beginning to approach photopic
+conditions. That are possible when there's nearly a
+full moon. So this operating range is, incredible and
+it is a really feat of evolution that we can remain sensitive to the dynamics of
+light in our environmental across such a huge range in the physical world.
+And that has to do with the responses of the neural elements and how they interact
+with one another to actually produce the signals that are conveyed from the retina
+to the brain. But one final specialization to consider
+is the distribution of rods and cones across the retina.
+Well, I've already mentioned earlier that in the center of our vision, we have a
+very high density of cones. And here's what this looks like.
+So what we have in the plot here down below is the distribution of cones shown
+in green and very low levels in the peripheral parts of the retina.
+But as we approach the very center of our gaze.
+We find this very interesting specialization in the retina, called the
+phobia. And in the phobia we have the complete
+exclusion of rods. And what we see is a very high density
+packing of cones, with minimal diameter to the outer segments of those cones.
+Making them as sensitive as they possibly can be with respect to the spacial
+arrangement of the distribution of photons that might be striking that retina.
+As the cone system gets further removed from that center of vision, notice that
+they're far fewer cones that are present and they tend to be much larger as we get
+out. You know contrast that with the rod system
+and what we find are that the rod concentration of rods increases as we get
+near the center of the retina. But then it falls precipitously as we
+approach the fovea to a total area of exclusion, and then it rises again only to
+trail off as we approach the peripheral parts of the retina, where the density of
+all photo receptors begins to trail. So this phovia then is quite an
+interesting spot in the retina. Let's take a closer look at it.
+If we looked at the architecture of the connections between photo receptors and
+ganglion cells in the fovea, what we discover is that there is a pit in the
+middle of our fovea and fovea itself means pit, but that central region is called the
+foveola and in that foveola. We have a vascular free zone where the
+blood vessels themselves are removed from the path of light striking the
+photoreceptor. Not only are the blood vessels remouved
+but the neuroelements of the retina themselves are pulled apart to the side
+allowing for Nearly a direct access of photons to the photoreceptors and their
+outer segments where the photo pigments reside.
+So although light capacity's neuro-elements without too much of a
+decriment, evidently in the center of the fovea there's some additional cost that is
+invested to clear away those neuro elements allowing for maximal efficiency
+phototransduction. Now as this illustration should make clear
+this is a very important part of the retina for vision.
+This is the part of the retina that can degenerate with age and with certain
+genetic and perhaps dietary or environmental factors that interact with
+our genetic constitution and what I'm referring to is the degeneration of this
+part of the retina that is also called the macula, that means spot or yellow spot,
+macula lutea. So the macula is at the center of our
+retina, and the fovea is at the center of the macula.
+So when this degenerates we lose the ability to see right in this central part
+of vision. And if I can return to that scene that I
+showed you earlier, this beautiful scene in Lake Louise in Alberta, Canada.
+If the viewer now were to have macular degeneration they might lose their
+capacity to see exactly what they might be interested in detecting if they wanted to
+look at our faces it would be very frustrating because exactly their
+direction of days is what would be most affected with macular degeneration.

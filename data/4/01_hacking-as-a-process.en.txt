@@ -1,0 +1,112 @@
+Welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. In our last module, we talked about the threat
+actors and their motivations. In this module I
+want us to actually talk about what hacking is. It's one of these terms
+that is often thrown around very loosely in popular culture, but it's really a very,
+very interesting process. That's what I want to try
+to cover in this section. What is hacking? Well, in the popular culture, we have this sense that hacking
+is done by a lone actor. In our last section, we found out that that's
+really not the case. There are lots of
+different groups with different motivations. But more importantly, there's this perception
+that there's always this quick
+facilitation of access even to the most
+sensitive of networks. A good example of this would be the movie hackers from 1995, which actually depicts hackers
+flying through cyberspace. It seems a little ludicrous, but that was certainly the
+perception 20 years ago. There's almost always
+this perception that there's universal success. That if the hackers just have a few minutes or a couple
+hours to work on it, they can bring down all
+the traffic lights in a city or take down
+electrical power grid. Well, is that really the case? That's what I want to
+explore in this section. But the reality of hacking
+is really quite different. It's different than what
+we see in popular culture. It's much more complicated. In fact, the harder the hack is, the more sensitive the network that you're trying
+to gain access to, it likely takes more time,
+resources, and skill. There's a range of efforts, some of which really are quite trivial or quite
+easy to pull off, and others that are much,
+much more complicated. For example, if I want
+to gain access to, let's say, the webpage
+of your local dentist. That might be a lot
+easier to access than, let's say, the defense
+network in the Pentagon. Fundamentally, hacking is
+a collection of efforts that culminate in achieving
+a particular end goal, and that's a key thing
+to take away here, is that hacking is a process, is a collection of efforts. It is not any single effort, it is a collection of efforts. What are some examples of these types of
+hacking activities? Well, they include things like investigating your target's
+webpage for information. Well, that doesn't necessarily seem like that's a
+hacking activity, but it's absolutely fundamental. Things like who works
+at the company? What are the different
+parts of the organization? What are their emails? These are all examples
+of hacking activity. The preparation of what
+we would call lure file. You're trying to entice
+someone to actually click on a particular file like a Word document or
+a PDF document that actually may hide in
+it malicious code. There's a certain amount of effort that's required to make a file that's compelling enough for someone
+to actually open. There's a little bit of
+psychology involved. Maybe identifying the
+useful vulnerability in a program that's running
+on a particular system. That might be an example
+of hacking activity. Or being on the device, how do I actually increase
+my user permissions so that I'm able to actually install the programs
+that I want. Or even enabling my
+malware, my bad software, to communicate with the other
+devices under my control. These are all examples
+of hacking activity and they fall into very
+specific groups that we're going to
+talk about in a second. We should think of
+hacking is a collection of activities moving
+towards an objective. Activities that are conducted by a specific threat actor are all focused on achieving
+some objective. Now, this a really
+important point. Hackers are not hacking
+just for the sake of it. They're trying to
+achieve something, either the acquisition of data or potentially to
+disrupt your activities. These activities that a hacker or the threat actor engages in can be grouped together in a series of
+descriptive categories. Those categories are brought together into what
+we call hacking. Linking those efforts
+together forms this process. If hacking is a process, we might be able to
+leverage what are known as frameworks to think and group these activities together in a
+coherent framework. Several of these
+hacking frameworks exist in the world today. Two of the more popular
+hacking frameworks include the Lockheed Martin "Kill Chain" and the Mitre ATT&CK Framework. We'll talk about both of these
+frameworks in this course. Both of the approaches
+are useful in trying to categorize groupings
+of activities that are all part of this
+broader hacking process. Let's talk about
+the general process of hacking at a very,
+very high level. In this particular case, we're going to layout the
+Lockheed Martin "Kill Chain". You'll notice that this
+particular framework consists of several different groupings of activities that we're going
+to explore in this module. The first is reconnaissance, and this is really
+an exploration of your target and includes a lot of different activities that are not
+necessarily technical. They can include things like general web research on the organization that
+you're trying to go after. After reconnaissance is the
+concept of weaponization. Where after I've gathered as much information
+as I possibly can, usually tactical
+information but also including organizational
+and social information, I want to be able to identify vulnerabilities in your network. I'm going to come up
+with an exploit that allows me to take advantage of one of those vulnerabilities. After weaponization
+comes delivery. I need to actually deliver that particular weaponized
+exploit to your network. There's lots of different
+techniques I can use. Exploitation. Once I've actually delivered the weapon
+to the target and the person clicks on the link or they do some other activity, that I'm actually
+exploiting your device. Once I'm on your device, I actually want to install
+my malicious program. Once I've installed
+my malicious program, I want to make sure
+that I can command and control that particular
+piece of malware. Once I've done that, then I'm going to
+take specific actions on that particular target. Things like stealing
+information or potentially disrupting that particular
+computer device or even start the process
+all over again and look to do reconnaissance now
+I'm inside your network, but to look for other
+potential targets that I can swim to. As you can see, hacking is a process
+of activities and each one of these groupings of activities are extremely detail. What are some of the takeaways? Well, in popular culture, we incorrectly think
+about hacking as being done by a lone
+genius hacker and it's a specific set of
+activities that very quickly allow them access into even the most
+sensitive networks. But the truth is, is that it's a series of activities that are
+linked together, and so those efforts strung together become a
+process of hacking. Two very common
+hacking frameworks include the Lockheed
+Martin "Kill Chain" and the Mitre
+ATT&CK Framework. In our next episode, we're going to talk about
+the very first grouping of activity, reconnaissance. I hope to see you next time.

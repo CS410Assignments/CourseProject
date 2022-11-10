@@ -1,0 +1,218 @@
+Welcome to this tutorial on the Central
+Pathways for Pain. This tutorial, this subject relates to a
+number of core concepts in the field of neuroscience.
+The complexity of the brain is staggering and we are only now beginning to truly
+understand how pain is processed in the human brain.
+And there's so much that we yet do not understand about this topic.
+But, I'll do my best to explore some of the anatomy of pain as best we understand
+it. What we're going to look at in this
+tutorial are circuits that are laid down as a consequence[COUGH] of genetic
+instructions and the developing nervous system.
+And we know this, because, there has been some reports of some individuals that seem
+to lack that genetic instruction and consequently don't experience pain, at
+least not in the way most of us would. And, of course we wouldn't be here having
+this conversation if the human brain did not endow us with the capacity to be
+curious, and to ask questions about our lives and about how our brain interacts
+with this body, and the world around us. And lastly, discoveries in the
+neuroscience of pain among other issues that's relevant for human health and
+wellness will surely lead to new discovery that will promote healthy living and the
+effective treatment of disease. So, with that context established, I would
+say our learning objectives are to characterize verbally pictorially, and to
+recognize visually. So we're going to characterize the
+organization of our pain pathways uh,an important pain pathway is called the
+anterolateral system. And this allows us to talk about the
+transmission of pain from a peripheral nerve right on up to the cerebral cortex.
+I want you to be able to recognize what the components of this pathway actually
+look like in cross sections through the nervous system.
+Likewise, I want you to be able to do the same thing for the pathways that serve the
+face and these run through the trigeminal nerve and the nuclei of the trigeminal
+brain stem complex. Specifically, a nucleus called the spinal
+trigeminal nucleus. So I want you to be able to characterize
+with words, with pictures in various media, what these pathways are and how
+they're organized. And I want you to be able to recognize
+them when we actually look at histological sections through the brain, brain stem,
+spinal cord. Okay, well, I'll just remind you of the
+broad organization of our somatic sensory pathways.
+We have two pairs of pathways. One pair serves the postcranial body, one
+pair serves the anterior cranium namely, the face.
+So, for the postcranial body below the head and including the posterior portion
+of the head. There's the dorsal-column medial lemniscal
+pathway for mechanosensation. And what we're going to talk about in this
+session is the anterolateral system, this is the pain and temperature pathway for
+the postcranial body. For the face, the mechanosensory pathway
+runs through the chief or principal sensory nucleus at the trigeminal complex.
+The pain and temperature pathway runs through an inferior division of the
+trigeminal complex called the spinal trigeminal nucleus.
+So, I'm going to want you to get familiar with those distinctions, both in the
+brainstem and in the spinal cord. Okay, we briefly introduced our central
+pathways for pain. When I talked more generally about our
+pain systems and we recognize that there are two qualities of pain, two categories
+of pain, a first pain and a second pain. That first pain was sharp, it was
+somatotopically localized and it was fast. Well, that first pain is associated with
+activation of our A delta fibers. And those A delta fibers provide input to
+the dorsal horn of the spinal cord. And from the dorsal horn of the spinal
+cord, we have neurons that grow axons all the way from the level of the spinal cord
+to the level of the thalamus. Specifically now, for the postcranial
+body, the ventral posterior complex of the thalamus.
+The ventral posterior lateral nucleus to be most specifically.
+So, because of the direct connection between spinal cord and thalamus, this
+pathway is called the spinothalamic tract. And once these signals are received by the
+thalamus, there's a synaptic connection. And a third order neuron then relays
+information up to the somatic sensory cortex.
+So this is relatively rapid. This is the transmission of this fast
+somatotopically precise information about what body part was injured.
+And the somatotopic precision about this is attributable to the fact that this
+information ultimately gains access to this exquisite mapping of the
+contralateral body that we find in our primary somatic sensory cortex in the
+postcentral gyrus. Well, that's what we call first pain or
+this sharp somatotopically localized, but thankfully usually transient sense of
+sharp shooting pain. The pain that typically follows is more of
+a dull and aching nature, and the fact that it feels so differently and often
+persists for a longer period of time suggests that, perhaps these are signals
+that are percolating through a more widespread set of brain structures.
+And indeed, that's the case. Our second pain pathways then have access
+to a much broader array of brain stem structures mostly associated with the
+reticular formation of the brain stem. But also, a variety of other structures
+including this important structure, the periaqueductal gray that is one place
+where top-down feedback signals might limit the transmission of nociceptive
+signals in the spinal cord. Well, the second pain pathways are
+distributed all the way up into the forebrain, structures like the amygdala
+and the hypothalamus can receive information about the presence of this
+painful stimulus. Once this information gains access to
+structures like the amygdala and hypothalamus, then it's in a position to
+have more widespread impact on the physiology of the body and in our
+cognitive state. In addition to projections that are
+entering the brainstem core and the medial part of the forebrain, there are
+projections that are reaching medial parts of the thalamus.
+Those parts that have projections up to the insular cortex and to the anterior
+part of the cingulate cortex. This insular cortex is quite a fascinating
+part of the brain. We'll talk briefly about it when we talk
+more about the visceral motor system. It seems to come to represent parts of our
+body, namely our viscera, that are often in mind when we address questions like how
+are we feeling. Well, those feelings tend not to come so
+much from the skin surfaces. They tend to come more from our guts, our
+inside. And we think that insular region is part
+of the brain that's integrating these somatic sensations from visceral sources,
+as well as more peripheral sources, and contributing to our emotional sense of
+well-being that often gets modulated by pain.
+Well, all of this complexity on the right side of the figure is really meant to
+illustrate the impact of second pain on our cognitive status and our processing of
+pain within the context of our emotional life and our thoughts about the future.
+Well, thankfully, the anatomy on the right-hand side is much less clear from a
+point to point perspective. So I won't attempt to talk any more about
+that detail in this session. Rather, what I want to do is I want to
+take us through our first pain pathways. First, for the postcranial body, and then,
+for the anterior part of the cranium, for the face.
+So let's look first at our spinothalamic tract.
+So, the first order neuron is a dorsal root ganglion cell.
+And we've already considered in a previous session, the distribution of the free
+nerve ending in the tissues. So we're not going to look at that here,
+rather, we're going to focus on the central termination of this fiber in the
+dorsal horn of the spinal cord. So that's really the first and most
+important point to make and that is that the first order afferent of our pain
+system terminates in the dorsal horn. So that's where we find our first synapse.
+Not up in the caudal medulla, but right at the level of entrance of that first order
+axon. Actually not illustrated here, that first
+order axon may bifurcate and travel up and down perhaps as much as a segment or two
+in the spinal cord. But not much further soon after that
+distribution across couple of spinal segments, there will be a synapse.
+And so, the second order neuron is going to be within a segment or two of the
+dorsal root that attaches to the spinal cord and supplies that axon its entrance
+into the central nervous system. Well, once that second order neuron
+receives synaptic connection, then the anterolateral system is generated.
+And so, these second order neurons, they grow out an axon that crosses the midline
+of the spinal cord just anterior to the central canal.
+We call this region the anterior white commissure or the ventral white commissure
+of the spinal cord. These axons, then continue around the
+ventral horn of grey matter and they enter what we call the anterior and the lateral
+white matter of the spinal cord. Hence, this compound name, the
+anterolateral system. Well, once these axons enter this
+anterolateral white matter, they make a sharp turn in the superior direction.
+And then these axons run up through this region of the spinal cord white matter all
+the way up through the brainstem. Here they are passing through the anterior
+and lateral tegmentum of the brainstem. And they synapse in the thalamus.
+Specifically, in the ventral posterior lateral nucleus of the thalamus.
+Now, probably not on the very same neurons that received input from the medial
+lemniscus. That would not be helpful, would it not?
+Because, then, a sense of touch might elicit a sense of pain, should there be
+some crosstalk there. Well, there may be some crosstalk and that
+might be the basis for some of our referred pain patterns.
+But for the most part, we think that the anterolateral axons are terminating on a
+separate set of cells than those that receive input from the medial lemniscus.
+The VPL of the thalamus then would be the source of our third order neuron in this
+pathway. So the third order neuron then sends its
+axons into the somatotopically appropriate region of the postcentral gyrus.
+And from there, this information about this sharp shooting pain can be
+somatotopically localized due to access to this somatotopic map that we find there in
+the postcentral gyrus. Now, let's look at the comparable pathway
+that handles first pain signals generated in the face.
+These signals are transmitted along the axons of the trigeminal nerve and they
+enter the brainstem through the trigeminal nerve root.
+But, the central process of this trigeminal ganglion cell doesn't synapse
+right at that level of entrance of the trigeminal root.
+Rather it grows an axon in the inferior direction.
+And this axon makes synaptic contact with a column of cells that lie just on the
+medial side of these descending afferent fibers.
+So, this descending tract of afferent fibers is called the spinal trigeminal
+tract. And the column of cells that receive
+synaptic input is called the spinal nucleus of the trigeminal complex.
+Now, there is some somatatopic order along, along the length of this nucleus.
+So this illustration perhaps is just a little bit misleading.
+We may not have a single axon that gives off synapses along the entire length.
+But rather, there maybe different axons terminating at different superior to
+inferior levels of the spinal trigeminal nucleus.
+And along that length would be a map of the surfaces of the face and the oral
+region. Alright.
+Well, once we get into that spinal trigeminal nucleus, then, the pathway
+bears some resemblance to the anterolateral system.
+There is a cell body at whichever level we happen to be considering, that grows an
+axon across the midline. And that axon enters the lateral tegmentum
+of the brainstem, and ascends. And that axon will continue to grow in the
+superior direction until it reaches the ventral posterior complex of the thalamus
+and makes a synaptic connection in the VPM, the ventral posterior medial nucleus.
+So, this is where we would find our third order of neutrons that then project into
+the inferior segment of the postcentral gyrus, which is where the face would be
+represented. So once again, we have access to a
+somatotopic map so that we can carefully localize the source of the stimulation.
+Now, if you followed along well with the discussions of the dorsal column-medial
+lemniscal system, and now, the anterolateral system for the postcranial
+body. Then, I hope you can appreciate the
+consequences of a very particular injury that produces a very characteristic set of
+neurological signs and symptom, symptoms. The injury that I have in mind is damaged
+to one side of the spinal cord. So this illustration here is of the spinal
+cord and imagine that there is some kind of lesion in the lower thoracic area that
+takes out half the cord. And, we haven't yet talked about the motor
+pathway, so let's not consider them at the moment.
+Let's just focus on our somatic sensory pathways and think about what we're going
+to see in a patient with a spinal cord injury that is restricted to 1 half of the
+cord. This is actually fairly common.
+We can see this with a contusion injury with vertebral fracture with a tumor that
+maybe compressing the spinal cord from one side.
+So, it's a relatively common presentation and it's very distinctive.
+So what such a unilateral lesion would do is damage the ipsilateral mechanosensory
+afferents that are entering the spinal cord and ascending in the dorsal columns.
+Meanwhile, that unilateral lesion would take out the axons of the anterolateral
+system that are grown by the contralateral dorsal horn neurons.
+So as a consequence, a unilateral spinal cord lesion produces something that we
+call dissociated sensory loss. The dissociation is a dissociation of a
+deficit in fine touch perception and pain and temperature perception.
+So the cartoon to the right-hand side is intended to illustrate the deficits in a
+patient that might have suffered this kind of injury.
+In the lower half of the same side of the body, we would have reduced
+mechanosensation in these various domains of mechanosensory stimulation.
+On the opposite side of the, of the body below the level of the lesion, we would
+expect to see reduced sensation for pain and temperature.
+So that' the dissociation. Loss of pain and temperature on one side,
+loss of mechanosensation on the other. Now, if there were a focal lesion on one
+side of the spinal cord, we would anticipate there to be a limited zone of
+complete sensory loss, simply because we may be damaging the dorsal roots directly
+or the dorsal column and the dorsal horn together at that same level.
+Well, when you think about it, and I'll give you plenty of opportunity to think
+about it there are very few places in the central nervous system that can produce
+this kind of dissociate sensory loss. Perhaps there's a limited region in the
+brainstem where one might imagine dissociated sensory loss for the face.
+I would invite you to think about that on your own.
+But for the postcranial body, if you see this pattern of loss of pain and
+temperature on one side, loss of light touch vibration positions on, on the other
+there is a very high probability that what we're dealing with in such a patient is a
+spinal cord injury.

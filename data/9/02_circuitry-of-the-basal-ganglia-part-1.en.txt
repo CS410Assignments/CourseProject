@@ -1,0 +1,226 @@
+Welcome to this tutorial about the
+Modulation of Movement by the Basal Ganglia.
+Our core concepts, as this concept relates to the field of neuroscience.
+Again, confronts the complexity of the human brain and in particular, the
+complexity. Of the motor system, and how voluntary
+movements are initiated through circuitry of the Basal Ganglia.
+We'll be talking about circuits that are the product of our genetic instructions
+and most of the time those instructions are read out correctly and the proper
+circuits are constructed. but sometimes there are genetic errors
+that can lead to dysfunction and disability.
+And, we'll talk about some, dysfunctions of the circuitry of the Basal Ganglia.
+That, at least, in some cases, seem to have a genetic component to it.
+But thankfully, the circuitry of the brain can change.
+The brain is plastic and our life experiences can change the structure and
+function of the nervous system. So, I hope as we move on in our studies
+of the motor system you'll see powerful evidence that, that is in fact the case.
+So this tutorial on the Basal Ganglia is going to be broken into several parts.
+And I'd like to begin with part one, a discussion of the circuitry of the Basal
+Ganglia from an anatomical perspective. And then we'll move on, in part two, and
+talk about function, and then dysfunction.
+So my learning objective for you in part one is that I want you to be able to
+master the anatomy of the Basal Ganglia, basically.
+I want you to to identify the major components of the Basal Ganglia including
+parts of what we'll call a dorsal motor stream and a ventral limbic stream.
+This word stream, as you'll see, is a word that we sometimes use in
+neuroanatomy to talk about a pathway or a circuit that processes information from
+one station to another. All right.
+So I'll show you again this illustration that we've seen before.
+And use it as a way of helping you appreciate how the Basal Ganglia fits in
+to our broader motor system. So you all know now that the final common
+path for the expression of voluntary movement are the lower motor neurons.
+And these exist in the spinal cord and the ventral horn, and in our cranial
+nerve nuclei of the brain stem. These lower motor neurons, are motivated
+by upper motor neurons. And these upper motors, neurons, exist in
+this, in the motor cortex, in the posterior frontal lobe.
+And in brain stem centers, such as the reticular formation, and the vestibular
+nuclei. So, these descending systems of upper
+motor neurons are responsible for motivating the output of the lower motor
+neurons. They provide the go signal, if you will,
+that actually expresses the movement. They don't micromanage the movement.
+That's worked out at the level of our lower motor circuits in the spinal cord
+and brainstem, but rather they provide the command signals for the execution of
+that behavior. Now notice how the Basal Ganglia fits in
+to all of this. The Basal Ganglia are off here to the
+side. The Basal Ganglia interact not directly
+with lower motor neurons, but they interact with upper motor neurons.
+So when it comes to identifying the anatomical pathways that are involved in
+Basal Ganglia function. We're going to be concerned with
+understanding how does the Basal Ganglia get information about the intention for
+movement. And then, how does the output of the
+Basal Ganglia influence the function of these upper motor neurons?
+To illustrate the function of the Basal Ganglia, I want to bring up a component
+of our Sylvius anatomical software, to illustrate what does it take to actually
+execute a movement. So what I've done is I've gone into
+Sylvius and I've opened up our pathways unit and selected from our animated
+pathways the corticospinal tract. And what we've created here is obvious is
+just say very quick demonstration of what it takes to send a signal from our upper
+motor neurons in the pre-central gyrus to the spinal cord, for the execution of a
+voluntary movement. So, this involves the signaling of these
+upper motor neurons,[SOUND] the propagation of an action potential and a
+synaptic connection, and the eventual horn at the spinal chord, with lower
+motor neurons that then go on the express the behavior.
+Well perhaps you didn't know that synapses make noise of course synapses
+don't make noise. That's just a little feature that we put
+into Sylvius. In order to emphasize for you that there
+is, indeed, a synaptic connection between the axons of the upper motor neuron and
+the lower motor neuron. Alright, so I'll probably play this a few
+more times just because I sort of like the sound of that little synaptic
+connection. okay, so the upper motor neurons send
+signals down the cortical spinal tract, for the execution of the movement.
+I think we've enough experience now with the cerebral cortex to know that if the
+cerebral cortex is going to generate a signal.
+In this case a signal that is propagated down the cortical spinal tract, there is
+probably some thalamic region that is providing an important trigger signal for
+the processing that's happening in the cerebral cortex.
+And indeed that will be the case for the motor-cortex in the posterior part of the
+frontal lobe. There is a division of the thalamus in
+here, that provides input to the motor-cortex.
+You may remember from a previous tutorial, it's called the ventral
+anterior, and ventral lateral complex of the thalamus.
+So this thalamic region sends signals up into the motor cortex that provide an
+excitatory trigger for the execution of the movement.
+So, how do the Basal Ganglia factor in? Well, the Basal Ganglia are sitting in
+the deep part of the forebrain. And they provide an output to the motor
+thalamus, which is inhibitory. So the Basal Ganglia is really key for
+the thalamic trigger to be sent up to the motor cortex that ultimately leads in the
+execution of this behavior. Okay.
+So, really, the point that I'm trying to make here, is that.
+In order for the motor cortex to send out a command signal.
+It has to be triggered to do so by the thalamic input.
+And one way to control the output of the cortex is to regulate the thalamic input.
+And this is the function of the Basal Ganglia.
+The Basal Ganglia has inhibitory control over the motor thalamus, and that is a
+wonderful phenomenon, because it keeps our movements in check.
+It prevents us from making all kinds of movements that we might otherwise
+express. So this inhibitory lock on the thalamus
+helps us regulate the expression of voluntary movement.
+Well, you may, you may be wondering well how then do we move, if the basal
+ganglia, inhibits the thalamus. Well, the way we move is by temporarily
+removing that inhibition from the Basal Ganglia.
+And that's where the complicated circuitry comes in that links one part of
+the Basal Ganglia to another. So, as we begin to get deeper into this
+tutorial you're probably wondering well what are the Basal Ganglia?
+I've heard that before, I remember watching some videos from the
+neuroanatomy lab where I pointed out the Basal Ganglia but really, where are they?
+So let me tell you. The Basal Ganglia are a collection of
+nuclei that are found deep in the base of the fore brain.
+They are developed from the telencephalon, the same part of the developing nervous
+system that formed the cerebral cortex. Except the neurons of the Basal Ganglia
+didn't migrate out to the expanding outer sphere of the developing telencephalon,
+rather the cells that formed the Basal Ganglia stayed close to the base of the,
+of the ventricular system. Which is why the Basal Ganglia in the
+adult brain, end up being very close to the lateral ventricles.
+Well, these Basal Ganglia then, they are a collection of nuclei that relate to the
+functions of the cerebral cortex. The Basal Ganglia receive input from
+widespread regions of the cerebral cortex.
+There are then several stages of processing within the circuitry of the
+Basal Ganglia. And then the output of the Basal Ganglia
+doesn't go directly back to cortex, but rather it goes to the thalamus.
+And then the thalamus, in turn, is what modulates the output of the cerebral
+cortex. In this case, the, delivery of a command
+signal down the cortical spinal tract. Now there are other pathways to the Basal
+Ganglia that send their output to targets in the brainstem, and I'll mention them
+in just a moment. But for the most part, I want you to
+understand that the major function of the Basal Ganglia is to modulate
+thalamo-cortical activity. And what I mean is, the way the thalamus
+interacts with the cortex. In the case of the expression of
+voluntary movement, this is critical. Because the thalamus provides a trigger
+signal that leads typically to the expression of movement as the motor
+cortical circuits then send signals down the cortical spinal pathway and cortical
+bulbar pathway. So to control the expression of movement
+it makes great sense to want to control the motor division of the thalamus and
+that's what the Basal Ganglia do. So they play an important role in the
+initiation of voluntary movement, the initiation of behavior.
+And the suppression of behavior. That is the suppression of movements that
+are inappropriate, or unwanted. So keep these concepts in mind as we work
+through this tutorial. The Basal Ganglia are involved in the
+initiation of movement and the suppression of movement and we'll look at
+the details of how that happens. Now, we've encountered this concept of
+parallel pathways numerous places so far in our studies our sensory motor systems
+so here's yet another example of parallel pathways through the brain.
+In the Basal Ganglia, we tend to call these processing streams.
+And what we really mean are a set of parallel pathways.
+And neuroanatomists have recognized actually quite a large number of
+processing streams that run through the Basal Ganglia.
+So we don't need to worry about, all of the various ways that anatomists and
+physiologists have recognized parallel processing streams.
+rather we can focus on what's common about them, and then recognize some key
+streams that we do want to focus on today.
+So what's common about them? Well for each of these processing
+streams, there's input from the cerebral cortex, to the Basal Ganglia.
+So the Basal Ganglia occupy these two middle layers in this schematic drawing.
+There's a division of the basal ganglia that we call striatum for anatomical
+reasons. That's what's shown here in this orange
+color. And then there is a division called the
+pallidum. Also, for anatomical reasons, that's show
+in this purple color. So, the striatum projects to the
+pallidum. That's fundamentally the intrinsic
+circuitry of the Basal Ganglia that we want to come to understand.
+And then the output from the Basal Ganglia.
+Is provided by the palladum, and again that output doesn't go directly back to
+the cerebral cortex rather it goes back to some division of the thalamus.
+So for example our motor processing stream sometimes we call these loops,
+because they begin in the cortex and they ultimately come back to impact activity
+in the cortex. So our loop for body movement is derived
+from cortical inputs that converge from a widespread region of the cerebral cortex,
+into the basal ganglia. So here's the cortical input coming into
+a part of the Basal Ganglia that we call the putamen.
+And that division part of the striatum sends signals to the globus pallidus.
+Another part of the Basal Ganglia that's representative of this layer of tissue
+and this processing that we call a pallidus.
+The globus pallidus in turn turns to the motor thalamus.
+This ventral interior ventral lateral complex.
+And the motor thalamus finally sends signals into the motor cortex that can
+either trigger the initiation of movement or, depending upon the physiology of the
+Basal Ganglia, suppress unwanted movements.
+So this same kind of theme of cortex to striatum Striatum to palladum, the
+palladum to thalamus and then thalamus back up to cortex is repeated in each of
+these processing streams. And we have something of a simplified
+view in front of us where we simply recognize that there are motor loops, or
+motor processing streams, and non-motor loops.
+The motor loops concern movements of, of the body and there's seem to be a
+dedicating processing stream for movements of the eyes.
+And on the non motor side we can recognize a loop that is concerned with
+the functions of the prefrontal cortex, we've talked about in a few tutorials.
+This plays an executive functioning role in cognition.
+And they are processing strains that seem to involve the limbic parts of the
+forebrain. And these are brain regions that are
+involved in the experience and expression of emotion.
+So the loops are primarily defined by the anatomical inputs from the cerebral
+cortex. And the kinds of functions that are
+carried out by those cortical areas that receive the feedback that comes from the
+thalamus after being modulated by the Basal Ganglia.
+So again, I, I would encourage you by saying don't worry about the complexity
+of this figure. Just understand the point that there are
+parallel processing streams that are concerned with the initiation and
+suppression of movement in one domain of physical action or mental action or
+emotional action or another. Well, one important means by which we've
+come to understand the functions of the Basal Ganglia in the normal human brain
+has been based on studies of individuals that have had disease or disorder in the
+circuitry of theBasal Ganglia. So, by understanding a neurobiological
+framework of disease in the Basal Ganglia.
+We've gained considerable insight into the normal functions of these parts of
+brain. So we will take some time in this
+tutorial, to consider two major classes of movement disorder that relate to Basal
+Ganglia function. As you'll come to see, we will recognize
+a category of movement disorder where the problem is not enough movement.
+We call these Hypokinetic movement disorders.
+And the chief representative in this category would be Parkisonsim.
+And we'll come to understand Parkisonsim as primarily a failure to initiate
+voluntary movement. Of course, there is much more to this
+clinical picture than just this. But for our purposes, focusing on the
+role of the Basal Ganglia. Parkinsonism is a failure of initiation.
+On the other end of the spectrum. There are Hyperkinetic movement
+disorders. So these are disorders that are
+represented by Huntington's disease and by other kinds of disorders that result
+in the expression of unwanted movement. So we can think of these disorders in
+terms of the Basal ganglia, as a failure to suppress unwanted movement.
+Now, what's been very exciting in recent years, is the possibility that this
+concept of hypokinetic disorder and hyperkinetic disorder, might also apply
+to some of these non motor loops that are running through the Basal Ganglia.
+Perhaps various affective and cognitive disorders reflect either a failure to
+initiate a particular behavioral program or a failure to suppress an inappropriate
+behavioral program. So this is an exciting hypothesis that is
+getting much attention and research by cognitive neuroscientists and
+psychiatrists.

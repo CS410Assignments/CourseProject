@@ -1,0 +1,182 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In the previous set of videos,
+we talked about testing for whether populations fit the assumptions
+of the Hardy-Weinberg equilibrium. At the very end of the last set of videos,
+we looked particularly at one deviation from the Hardy-Weinberg
+equilibrium, that of the Wahlund effect. That is what happens when you sample
+two populations simultaneously that differ in some of their
+allele frequencies, and as a result of that, you see
+an under-representation of heterozygotes. Let's recap that for just a moment, and then we'll move into how we can actually
+leverage this Wahlund effect for actually quantifying differences between
+populations in allele frequency. Now what we did last time is we tried to
+calculate Hardy-Weinberg expectations and fit the Hardy-Weinberg expectations for
+this MN blood type. I showed you data from Navajo and
+Aborigines. Here's the data from the Navajo. So we first have our
+raw genome type counts, from that we got the total
+number of individuals. Using these two together, we then were able to calculate
+the observed genotype frequencies. From the observed genotype frequencies, we calculate out the observed
+allele frequencies here. And then from these observed allele
+frequencies, we look at the expected, or predicted, Hardy-Weinberg
+genotype frequencies. And these are down here. In this particular case, with the Navajo
+alone, we see a pretty good fit between the observed genotype frequencies
+and the predicted genotype frequencies. Now what happens when we sample across
+two populations simultaneously. Well, if we sample from Navajo and
+Aborigine together, we follow the same overall procedure. But in this case, now when we look at
+the predicted genotype frequencies, they do not very well match
+the observed genotype frequencies. And particularly we see this deficiency
+of heterozygotes in the observed all through to the predicted. The 0.488 predicted number is much
+greater than the observed, 2.246. I attributed this to the Wahlund effect. That is what happens when you have
+populations that differ in allele frequencies even if each population
+individually is a Hardy-Weinberg. If you put them together,
+you see a deficit of heterozygotes. Now how is it that populations differ? Well, I like to look at this in two ways. One possible way is they may have
+different allele and genotype frequencies. That is what we have been emphasizing so
+far. We'll come back to that in just a moment. But first,
+I wanted to entertain another possibility. There may be alleles at some genes
+that are found in some populations but not found in other populations. You may have some alleles that are found,
+for example, in just East Asians, but you will never see those particular
+alleles at other populations. The genes will be there but
+the particular alleles would not. This is especially likely under
+two particular conditions. One is if it's a very recent new mutation
+that arose in an East Asian population, for example, it hasn't spread to others. Alternatively, if the populations
+are in complete isolation, then that difference can persist for
+quite some time. So let's talk just briefly
+about this latter group and then we'll come back to the former. Now differences can arise by mutation and
+spread. So let's say in an ancestral population,
+everybody was aa, bb. You can have over time, let's say for
+example the population splits, so this is indicating a split
+between the population. So in one population you're the one on the
+right, you have a mutation from b to B. This B allele can spread, and
+eventually everybody here may be aa, BB. In this other population, the one on the
+lef,t you can have a mutation from a to A. The A allele can spread and
+eventually this population can be AA, bb. So again, we have in this case
+a split between populations, and we have differences that can then
+arise and potentially spread. This is especially likely if
+you have complete isolation. We'll come back to this section when
+we talk about speciation later on. Now groups within species
+are different yet they are related. That they may have some of these
+unique alleles that are not found in other groups. But it's probably more likely that most
+of them have very different genotype or allele frequencies instead. This shows approximate relationships
+from one calculation of various human ethnic groups. So for example, Melanesian and Papuan
+are more closely related to each other than either is two populations from
+the Mediterranean or from Siberia, etc. Now how do we quantify these differences? Well the easiest thing to
+quantify is if everybody in one population differs from everybody else
+in another population at some allele. This is referred to as a fixed difference,
+all right? So for example,
+in Population 1 everybody's AA. Population 2, everybody's aa. So we're looking specifically
+at the aging in this case. Everybody in one population differs
+from everybody in the other population. We refer to this as a fixed difference. So you go back to the ancestor,
+presumably they had the same alleles. But something arose, at least in one
+population, and spread to make it so it was completely different from
+the ancestor and from the others. Now, this does happen, but
+it's not very common within a species. And it's generally not true among
+modern human ethnic groups. Instead as I said, it's more common that you have frequency
+differences of alleles and genotypes. For example A may have a frequency
+of 0.7 in East Asians, but 0.5 in Indian populations. That's just as an example. Now, what we're trying to do here,
+let me emphasize this, is we're measuring differences
+between populations, not individuals. We cannot say just because somebody has A, oh therefore they are of Middle Eastern
+descent or something like that. It's based on overall population. The relative abundance
+of particular alleles differs in one population as a whole
+relative to other populations as a whole. Well this poses a challenge. How do we quantify these slight
+differences in frequency between populations? Well, the deviation from Hardy-Weinberg
+that's associated with the Wahlund effect that I've already introduced, actually allows you to quantify allele
+frequency differences between population. So, let's assume the two populations
+are at Hardy-Weinberg, and that is an important assumption. We'll come back to that later. So, if you sample each population by
+itself you'll see them at Hardy-Weinberg. So this would be similar to what
+we saw with the Aborigines and the Navajo example I showed you earlier. But if you sample both together,
+we see this deviation from Hardy-Weinberg. And again, as you saw,
+that was the Wahlund effect. Now how big this deviation is from
+Hardy-Weinberg when sampling these populations simultaneously, will quantify
+the difference in allele frequencies. That if you're fairly close,
+the allele frequencies must be similar. If you're very different, then you'll
+see a very large Wahlund effect. So the measure that we'll
+use is referred to as F ST. So it's a F with subscript ST. Now this measure ranges from 0 to 1. If you have 0, then there is absolutely
+no frequency differences between the populations you're studying. If it's between 0 and 1, then the allele
+frequencies differ somewhat, and if it's 1 you actually have
+this fixed sequence difference. Such that for
+example everyone in this population is AA, everybody in that population is aa. They don't actually all
+have to be the same. Maybe all of these would be a1 a1,
+or a1 a2, or a2 a2, and over here in this other population
+they're all a3 a3 or a3 a4 or a4 a4. Basically it just means you have no
+overlap in alleles between this population and that population. Now the measure is very simple. So F ST can be estimated as
+the Hardy-Weinberg predicted 2pq. Basically what would happen if
+you were at Hardy-Weinberg- % observed heterozygotes /
+Hardy-Weinberg predicted 2pq. Essentially it's the predicted-
+the observed / the predicted, which is fairly common. Let me show you an application of this,
+and you'll see this is very straightforward. So let's say that, there's an example as
+I mentioned to you of fixed difference. Population 1 everybody's AA. Population 2, everybody's aa. So here's the totals. Now let's imagine we're sampling these
+two populations together, and we have to assume that we're sampling similar
+numbers here to calculate F ST correctly. So here's our pooled population sample,
+100, 0, 100. Well, if we calculate this out
+the total genotype count is 200. When we look at the genotype frequencies
+the observed would be 0.5, 0, and 0.5. All right, half the individuals we're sampling
+from this pooled population are AA. Half of them are aa, none of them are Aa. Here are our allele frequencies,
+0.5 and 0.5. All right, all straightforward so far. Our Hardy-Weinberg predicted
+2pq should be 0.5. And what we see is this contrast
+dramatically from our observed. So here's our Hardy-Weinberg predicted. Here's our observed. And we see a striking
+contrast between these two. Now we apply that formula I just gave you. This is the Hardy-Weinberg predicted,
+0.5,- the observed, 0, / 0.5, and this gives you an F ST of 1. As I mentioned, if you have an F ST of 1,
+that indicates a fixed difference. Let's try one that's not quite so extreme. Here's a set of populations. Each population size here is 1,000. So we have our total
+population size is 2,000. This population is at Hardy-Weinberg. This population is also at Hardy-Weinberg,
+but they differ in allele frequencies. So, here's our pooled population,
+I just summed these numbers together. 250 + 90 is 340. 250 + 490 is 740, etc. So again, what we do is we calculate
+the totals, get the genotype frequencies, get the allele frequency. So, here's our total, 2,000. Here's our genotype frequencies, which is
+each of those numbers divided by 2000. Here's our allele frequencies, actually
+comes out very nicely to 0.6 and 0.4. So what is our Hardy-Weinburg
+predicted 2pq? Well, it would be 2 times 0.6 time 0.4. So 0.6 time 0.4 is 0.24, so our predictive should be 0.48 if
+my math in my head is correct. That is what we see. In contrast to the observed, it's 0.46, so
+again we have a slight difference here. It's not a huge difference in this case,
+but it is noticeable nonetheless. Well now we can calculate a much
+smaller F ST than we did before. Here's our number,
+here's our Hardy Weinberg predicted, 0.48- 0.46 which is the observed, / 0.48. Again, it's always the predicted minus
+the observed over the predicted. And this case our F ST
+measure comes out to 0.042. And again in this case we have small
+differences in allele frequencies. In the previous example we had a very
+large difference in allele frequencies, and you can see that F ST ranges
+from 0 to 1, 0 being no difference, 1 being complete difference. Let me give you one to try. Here's a mixed data from
+the Aborigines and Navajo. The numbers here aren't perfect because
+the sample sizes weren't exactly right, but let's just pretend for
+a moment that they are. Go ahead and calculate what you would
+see as F ST in this example for Aborigine to Navajo. Well, I hope that wasn't too difficult. Let's go ahead and run through them. Again, it's just to
+remind you what F ST is. F ST is the Hardy-Weinberg predicted- the
+observed heterozygotes / the predicted. So let's put in the numbers. Here's our allele frequencies. Here's our expected, or
+Hardy-Weinberg predicted. We do see a deviation in this case. There's our predicted is 0.488,
+our observed is 0.246. So what should F ST be? F ST would be in this case 0.488- 0.246 / 0.488. Comes out not exactly but
+approximately 0.5. So in this case we see
+a fairly large F ST. And you'd expect this that there's been no
+historical gene flow between Aborigine and Navajo. Now again to recap,
+F ST is larger when you're comparing populations that are more
+different in allele frequencies. So again the Aborigine and Navajo were
+very different allele frequencies and that's why we saw fairly large F ST there,
+0.5. If the frequencies were identical,
+F ST would be 0. If they were fixed different,
+F ST would be 1. Now let me give you a couple of values, so you get an idea of what we
+actually see in human populations. Obviously Aborigine and
+Navajo is an extreme example. Among human populations,
+this is from a 2010 study. They used a little bit
+over a million SNPs. If you look at African Americans relative
+to Europeans, F ST was about 0.11, so that's noticeable, but not tremendous. African Americans to Chinese,
+F ST was 0.15. Europeans to Chinese, F ST was about 0.11. And if you look among the European
+populations, let's say for example, you compare the Spanish to the Italians
+to the Germans, things like that. F ST's typically, not always, but
+typically less than 0.01, very, very low as you look
+at that sort of scale. Let me show you a big table. Here's a big table of F ST measures. I'm not going to walk
+through all of these, but you can see that there are some
+cases which are fairly high. Like over here we have a couple that
+are over 0.2, like Papuan to Red Sea, etc. Several of these are high. Several of these are low. But you see this range of values. Now what is F ST in words? Well, we can define F ST as the percent
+heterozygous of randomly chosen alleles within populations,
+that's the observed aspect, relative to what would be expected
+in the entire population, okay? It's the percent heterozygous of randomly
+chosen alleles within populations, relative to what would be expected
+if there was completely randomly interbreeding. And again, it's measuring this
+difference in allele frequencies. So, why don't we see higher
+F ST among human populations? We know there's a lot of non random
+mating out there, why isn't it bigger? Well, there's a couple of reasons. First, some of the assumptions of F ST are
+violated in humans, that this is supposed to be applied to genes experiencing
+little or no natural selection. You'll recall I mentioned earlier that
+F ST should be applied when each of the individual populations is
+known to be at Hardy-Weinberg. Now some of the SNPs, for example, that were studied in that
+previous example, may not be neutral. In fact, some of that variation may
+be under some sort of selection. It's also susceptible to differences, and historic changes in
+population size among groups. But probably the biggest reason
+we don't see higher F ST values is because we actually do have
+a fair amount of gene flow or closer to random mating among population. That'll be the subject for the next video. Thank you.

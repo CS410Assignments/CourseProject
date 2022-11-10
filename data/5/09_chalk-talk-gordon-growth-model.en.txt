@@ -1,0 +1,83 @@
+So, Professor, if I was hoping we can go through
+the idea of the Gordon Growth Model? >> Mm-hm. >> And kind of how that relates
+to what we've learned in CAPM? >> Myron Gordon, a half century ago,
+nearly told what, he gave a formula for
+the present value of a growing quantity. Suppose we have an asset,
+let's call it land, that is producing revenue for you every year, and
+the revenue is growing in value. So it produces x the first year, then
+it produces x times 1 + a growth rate, the next year, and
+then it produces x times 1 + the growth rate squared the next year,
+and then it does that forever. So this is year, now it's times 0, and then we have time 1, time 2, times 3, time 4, it would be 1 + g cubed etc. I say this might be land, because land,
+assuming that it's managed properly and doesn't get depleted,
+will yield a crop every year. And as time goes on,
+the crop will be worth more. Partly because demand for it probably
+goes up in a growing economy and probably because of technical progress. And we're going to assume this land
+goes on growing like this forever. So the question is what do you pay for
+this land at time 0? Okay, so Myron Gordon, he's famous for this formula principally, is that the present value = x/r- g, where r is the rate of discount. What he's saying is that, the present value is x/1 + r, that's this first term here,+ x (1 + g)/1 + r squared + x (1+g) squared/1 + r cubed, okay. And if you calculate, you can show that infinite sum reduces to this simple formula, as long as g is less than r. If g is less than r, then each term
+is smaller than the one before it. And it sums to a finite number. If g equals r,
+then every term here is x/1 + r, they are all the same, and so
+the sum would be infinite. So as long as g is less than r this
+is a formula for pricing the value of a asset that actually yields
+an infinite amount, but in the future It's
+actually growing forever. [LAUGH] Right, so
+actually g can be negative also. It doesn't matter whether it's positive or
+negative. >> So that would be like you're losing
+some proportion every [CROSSTALK] >> Yeah- >> Every decade or something. >> It could be that
+the land is being depleted. >> Okay. >> And so
+the growth rate of the value is negative. So then this becomes r plus
+something because g is negative. You still have a present value, and
+this is an important thing to recognize, that even assets whose payments
+are running down to zero, there still is a price for them today. That's really important to recognize. So some people think that businesses that
+are growing are the only ones I should invest in. That's bad investing. You can make a fortune investing
+in businesses that are declining. You can fill up your portfolio
+with declining industries. It doesn't matter, it's the question,
+can you buy them for less than the present value? And if you're buying them for less than
+the present value, it's a good investment. >> I see. And so, here, just to clarify, g is given? >> Yes, I'm taking that as given, the
+growth rate, it might be like 2% a year. >> Right
+>> And the interest, r might be 5% a year. >> Okay. >> The value would be x divided by
+5% minus 2% or x divided by 0.03. >> Okay. >> And this is a very useful formula because a lot of possible
+investments have a growth rate. In fact they usually do. Usually you don't expect the earnings
+of a company, for example, to stay exactly where they are today. Some companies are expected
+to grow through time and some are expected to decline through time. So you end up using this
+formula all the time to judge. You look at their earnings today and
+you think, well what is it worth? What is the stream of
+future earnings worth? And you can plug it into this formula. >> I see, and r is that also given or is that-
+>> Now, okay. >> Being determined? >> Now I haven't talked
+about risk in this equation. I was saying the land is going to do this,
+we just know this for certain. >> Right, that's just given. >> But we don't in fact, often,
+we don't know the future with certainty. So there's an amount of risk. So if this growth rate is more
+uncertain than you thought, that should lower the price. Right, so if the assets is riskless,
+if there's is no risk, if we actually know all the future payouts from the asset, then this r
+would be the riskless interest rate. But if it's greater, if there is risk. And that would be measured by beta
+in the capital asset pricing model. Then r would be increased
+reflecting that risk. You still use the same Gordon formula,
+but you have a higher r. R is no longer the riskless rate. >> Okay. And I also found that to be a very
+fascinating statement you made that even if most people I think
+typically think that if there's a industry that's declining,
+I don't want to have that in my portfolio. >> Right.
+>> But in this case we're kind of bringing out the idea that even stocks of declining
+industries, those should be in your portfolio if you kind of followed the-
+>> Right. >> The standard traditional [CROSSTALK]
+>> I like to bring up the example of railroads. When the first railroads came in,
+well it was in the 1830s, but by the 1840s,
+there was a big bubble in railroad stocks. Lots of people thought wow,
+railroads are growing. They were right. Railroads were growing. But people paid too much. Even though they're growing,
+you can pay more than the present value. So lots of famous people in the very
+beginning of the railroad era, lost fortune, even including
+Charles Darwin, the great biologist. He couldn't figure out present value. He was a smart guy, but he couldn't figure out what the real
+value of these railroad stocks were. But then as time went on, railroads
+stopped being glamorous and exciting. And they became old hat. And then we got airplanes, and trucks, and cars, and
+all these other alternatives to railroads. So railroad stocks then became
+underpriced relative to this formula. So one of the best investments
+to make in 1929 was railroads, already people were thinking about Charles
+Lindbergh flew across the Atlantic Ocean, everything is moving fast for airlines,
+and they just got overpriced. The same thing happened in the year 2000. In 2000,
+that was the peak of the dot-com bubble. Everybody was investing in computer or
+software, or social media stocks. And because they saw the growth rate. But they made a mistake. You have to use this formula. They made a mistake in thinking that
+they're worth more than they really were, and the whole dot-com bubble collapsed. The good thing to invest in, if you
+could go back in a time machine to 2000, was railroads,
+[LAUGH] everyone was ignoring them. But they're still chugging along,
+doing all this work. And now, even being declining industry, it wasn't living up to
+expectations initially, in terms of earnings growth,
+but they made good investments. Sometimes, not every time, depending on how the price compares to
+the present value of their earnings.

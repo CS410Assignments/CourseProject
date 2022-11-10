@@ -1,0 +1,192 @@
+So now let's have a different schematic
+look at these pathways. So on the left side of this figure, we
+have an illustration of the first pain pathway.
+So again, this begins with an A delta fiber that is going to provide input into
+the dorsal horn of the spinal cord. And then from there, there will be a
+direct projection from spinal cord to thalamus.
+This side of our anterolateral system, is called the spinothalamic tract, because
+it's a direct shot between the dorsal horn of the spinal cord.
+And the principal thalamic nuclei that then relay signals up into our somatic
+sensory cortex. Now, as you might imagine things are a
+little bit more complex on the other side of this figure.
+The other side of this figure is intended to illustrate the second pain pathway.
+So here's our second pain pathway, which begins with C fibers that provide input
+into dorsal horn neurons. That then give rise to projections that
+terminate in a variety of structures throughout the brain stem.
+And even on up into the forebrain. The structures such as the amygdala and
+the hypothalamus. Now, we won't talk in depth about all of
+these targets, but I do want to highlight two in particular.
+The reticular formation refers to a broadly distributed set of cells in the
+core of the brain stem. And among those cells are multiple small
+nuclei. That are involved in very particular kinds
+of functions. And some of these functions are those that
+influence our overall level of arousal and our overall level of attention.
+And it's through such mechanisms, we think, that the reticular formation can
+receive information about pain and thereby modulate our cognitive states.
+There's another interesting structure in the brain stem that receives this
+information. It's called the periaqueductal gray.
+The periaqueductal gray is a structure in the midbrain that surrounds the cerebral
+aqueduct. We'll come back and talk more about the
+periaqueductal gray in a few minutes. This is a structure that's critical for
+the top down or the feedback modulation of pain transmission in the dorsal horn of
+the spinal cord. Now, over here on the right side of this
+bifurcating input is nuclei of thalamus that is on the middle side of that
+y-shaped lamina. And particularly nuclei right along the
+mid-line, and nuclei actually buried within that lamina.
+These nuclei give rise to cortical projections that are accessing part of the
+brain. They're involved in processing emotional
+signals. As well as singles that help build up an
+image of our body that is especially informed by our internal state.
+That seems to be what's going on here in the insular.
+Whereas the anterior singular cortex is a very interesting part of the brain.
+It participates in pre frontal cortical networks that are involved in evaluating
+the significance or the consequence our actions.
+And we know some from some very interesting studies that activation of the
+anterior singular cortex seems to be associated with the burden of our pain.
+And this can be modulated in experimental studies through hypnotic suggestion.
+And it's been demonstrated that the more we feel pain as an unpleasant experience
+the greater is the activity in this part of the cingulate gyrus.
+Okay. Well I just want to review for you again
+the overall organization of somatic sensory pathways.
+And I'm going to refer you to a separate tutorial to go into more detail about the
+organization of the pain pathways. But I'll just remind you that for the
+conscious awareness of somatic sensation, we have two pairs of pathway.
+One pair of pathways serves the post-cranial body and another pair that
+serves the region of the anterior cranium, including the face.
+So for the post-cranial body then, we have pathway that is concerned with.
+Somatic sensory experience in the domain of mechanosensation.
+And this would be the dorsal-column medial lemniscal system that we discussed in a
+previous tutorial. Our system that conveys pain and
+temperature signals for the post-cranial body is called the anterolateral system.
+And now, for the anterior cranium for the region of the face, are mechanosensory
+pathway runs through the principal or the chief sensory nucleus of the trigeminal
+complex, as we saw in a previous tutorial. But for pain and temperature signals, the
+processing runs through a different division of the trigeminal brain stem.
+It runs through the spinal nucleus of the trigeminal complex.
+So at this point I would encourage you to just hold the thought about the pain
+pathways. And we'll take that up in a separate
+tutorial. But for now, let's move on.
+And consider some topics of particular interest concerning how nociception is
+processed and modulated by both local factors as well as neural factors.
+So, let's consider the phenomenon of hyperalgesia.
+Hyperalgesia refers to inflammatory pain. This is a condition of enhanced
+sensitivity to mechanosensory stimulation that follows the onset of injury.
+And the development of a response in the tissue, that engages the immune system and
+other mediators of inflammation. So hyperalgesia is due to the peripheral
+sensitization of our nociceptors. Largely due to the action of paracrine
+mediators of inflammation. So following tissue injury, there's an
+immune response to that injury. And there are immune cells that will
+infiltrate the area such as our macrophages and our mast cells or our
+neutrophils. And they begin releasing immune mediators
+that can have an impact on, the vasculature.
+That supplies this region and have impacts directly on the free nerve endings of our
+first order nociceptive axons. Many of these mediators are those that
+will modulate the activity of our TRP channels.
+Things like ATP bradykinins, protons, histamine, prostaglandins.
+All these mediators can increase the currents that flow through those TRP
+channels. And thereby increase the sensitivity of
+those free nerve endings. Well, notice what else is happening here.
+The free nerve ending itself can release neuroactive peptides that then interact
+with these immune cells or the vasculature.
+So, there is in a sense a bit of bi-directional signaling here between the
+inflamed tissue, and the free nerve ending itself.
+These interactions can lead to an increase in sensitivity of that free nerve ending
+to the signals that are being transduced into pain.
+Well, in addition to peripheral sources of modification that can lead to
+hyperalgesia, there can also be changes within the central nervous system itself.
+Specifically in the dorsal horn or in the spinal trigeminal nucleus that can lead to
+central sensitization. So this can contribute to the phenomenon
+of hyperalgesia. So there may be activity-dependent
+increases in the excitability of these second-order neurons, following high
+levels of nociceptive activity. And this increase in the excitability of
+these second-order neurons might generalize.
+From nociceptive inputs to collaterals of other polymodal inputs that
+might respond to, mechanical stimulation. And this can be a problem, this can lead
+to a phenomenon called allodynia which means that a normally innocuous stimulus
+might be perceived as being painful. And perhaps this is happening because
+these second-order neurons now have generalized their excitable state.
+Now there seems to be a two forms of central sensitization that reflect the
+mechanisms of long-term potentiation. So you'll recall from our discussion of
+synaptic plasticity, that with a coordination of activity across a synaptic
+connection. That connection can strengthen.
+There is an early form of long term potentiation that's transcription
+independent. So, this is what we consider to be a
+phenomenon that's called wind up in the field of pain management.
+So this is when there's repeated activation of nociceptors and it leads to
+the sustained depolarization of that second-older neuron.
+If there is an NMDA receptor dependent mechanism at play, you can imagine that
+sustained depolarization. Might be sufficient to remove magnesium
+block aligned for the influx of calcium. And the establishment of long-term
+potentiation and such synaptic connections.
+So, we know that, that the postsynaptic conductances that are dated by glutamate
+can become more effective now and these neurons that have undergone these sorts of
+wind-up phenomena. And so, presumably the reflects an
+activity dependent plasticity at the connection between these first order
+nociceptive afferents and their targets in the dorsal horn.
+There's also a transcription dependent form central sensitization that we imagine
+might be triggered through that influx of calcium.
+And that requires the mediation of transcription factors that can modify the
+expression of genes in the nucleus of cells there in the dorsal horn.
+So changes in gene expression can lead to a longer term maintenance of that
+hyper-excitable state. So now, let's turn our attention to the
+central regulation of nociception and pain.
+And let's consider the phenomenon of analgesia, which refers to the absence of
+pain. Despite the presence of nociceptive
+stimulus. Well, as I mentioned at the onset.
+Pain is a complex phenomenon. And it's subject to all kinds of
+modulatory influences. For example, context is very important.
+The emotional context of the trauma. Such as stress during injury can lead to a
+heightened sense of the experience of pain associated with that injury.
+Your cognitive understanding can have a profound impact on your experience with
+pain. Perhaps many of you have been injured
+during some athletic competition. And perhaps you were aware of the injury
+at the time, but you quickly, reentered the game and continued to participate.
+And it was only sometime later that the full impact of that injury was
+experienced. So somehow, you had the ability to allow
+context to help you suppress your experience of pain.
+And then there are cultural differences in the experience of pain.
+And we, we know this from studies across the world that have looked at the
+experience of pain in, in different people groups.
+And we know there can be incredible variation in how different cultures
+establish their norms for the response to pain.
+We don't know the explanation for most of these phenomenon but at least some of them
+seem to be attributable to the feedback or the descending modulation of pain
+transmission. And we are now getting some insight into
+the circuitry that's involved. So the feedback pathways that modulate
+pain are depicted in this figure. And there are a number of structures that
+are highlighted here. And I'd like to draw your attention to a
+few of them. One right in the middle is called the
+periaqueductal gray. This is the gray matter that surrounds the
+cerebral aqueduct in the midbrain. The periaqueductal gray is really a key
+node in a network that allows for the feedback modulation of pain.
+The periaqueductal gray is receiving input from structures in the fore brain such as
+the amygdala and the hypothalamus. These are structures involved in our
+emotional experience and expression. The periaqueductal grey receives input
+from the somatic sensory cortex, and from the insular cortex.
+And together these inputs are integrated. The output of the periaqueductal grey goes
+to other parts of the brain stem. In particular, the reticular formation
+that's present in the medulla. And from this part of the reticular
+formation, we have inputs that terminate in the dorsal horn of the spinal cord.
+In addition to the medullary reticular formation, there are really interesting
+inputs that come from some of the nuclei of the brain stem.
+That release biogenic amine neurotransmitters, such as the locus
+coeruleus and the raphe nucleus. The locus coeruleus releases
+norepinephrine in the dorsal horn of the spinal cord, and the raphe nuclei release
+serotonin. And these neuromodulators can influence
+the excitability of the dorsal horn neurons.
+Well this figure is far from complete. And we don't really understand how all of
+this works. But the basic principle at play here, is
+that there are projections from the brain stem to the dorsal horn.
+That can impact the transmission of nociceptive signals right at the very
+first synapse in the pain pathway. Also present in that circuity of the
+dorsal horn of the reason substantia gelatinosa.
+Are interneurons that release neuropeptides such as enkephalins.
+And other kinds of endogenous opioid substances.
+What these neuropeptides seem to do is inhibit the activity of the nociceptive
+afferent as it makes synaptic contact with the dorsal horn neuron.
+So we can imagine that descending inputs from structures like the raphe nucleus and
+the locus coeruleus in the medullary reticular formation can drive the
+activation of these local circuit neurons. With the effect of turning off the output
+from that dorsal horn. And that, we think, is one way that the
+brain can produce an analgesic effect right at the very first synaptic junction
+along our nociception pathway.

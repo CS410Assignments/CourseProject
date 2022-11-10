@@ -1,0 +1,168 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. We've been talking about
+the Hardy-Weinberg Equilibrium and how, under certain conditions and only under
+those conditions, you can calculate or estimate expected genotype frequencies
+from observed allele frequencies. The opposite is always true. You can always know allele frequencies
+from genotype frequencies. But you cannot always infer genotype
+frequencies from allele frequencies. Now in the last example I showed you, the
+last video we saw a case where there were fewer heterozygotes,
+fewer of the Aa individuals, observed relative to what was
+expected from Hardy-Weinberg. Now why might that be? Well this is gonna be the first of many
+possible deviations from Hardy-Weinberg that we'll discuss. And it could be what's referred
+to often as the Wahlund Effect. Well let's look at
+a little bit of real data. Here's some real data from a Navajo
+population at the MN blood groups. MN, just like big A and little a,
+there's two alleles, M and N. There's three possible genotypes. MM, MN, and NN. So let's take a look at what we see
+when we look at the Navajo of this particular group. Well, we can do the same tests for
+Hardy-Weinberg we've done before. We figure out the total number of
+individuals, 361 in this case. Get the genotype frequencies,
+the true observed genotype frequencies. From them, say all of these plus half
+of these, there are allele frequencies. So the frequency for big M is 0.971,
+for big N it's 0.083. Take this squared, .841. 2 p q, so two times this times this. 0.152. 0.83 squared is 0.007. Now we see, this population's not
+absolutely at Hardy-Weinberg, but it's very close, it's very close to
+the Hardy Weinberg predicted frequencies. So let's look at another population now,
+let's look at these Aborigine. Now again if we look at the MM
+blood group in these individuals, let's follow the same procedure. I won't go through all the steps but
+if you want some practice you can pause the slide, take these first set
+of numbers and go through it yourself. We come back to again, a set of genotype
+frequencies that are predicted, and they're very close to those observed. 0.031 is very close to 0.030. 0.293 versus 0.296.
+.676 versus .674. It's within .003 for all of these things
+of the expected genotype frequencies. Now let me ask you a funny question. What if you were an alien from
+another planet, and you came down and you grabbed a bunch of Aborigine, and
+you grabbed a bunch of Navaho, separately, and you put them all together into
+the loading bay of your spaceship. You have this mixed population. So let's say it's exactly the same
+individuals who are genotyped, and we saw the Aboregenie
+are at Hardy-Weinberg. The Navajo were at Hardy-Weinberg. What happens when we
+put all these together? Well, we get these allele frequencies for
+M and N, but we get something that's
+deviating rather dramatically from Hardy-Weinberg expectations
+of the genotype frequencies. Look at that. This is dramatically different,
+this is dramatically different, and this one as well. You notice especially, and this is what
+I want to point out in particular, we expect almost half
+the individuals to be heterozygote. We observe only about a quarter
+of individual heterozygote. So there's a dramatic deficit
+of heterozygotes in the observed relative to the expected. That's like the last example
+from the last video. Now why might we see this? Why do we see this deviation? We have a Hardy-Weinberg population and
+another Hardy-Weinberg population, why is it when we put them together
+It's not a Hardy-Weinberg? What assumption have we deviated from? Well one big assumption we deviated
+from the list I showed you earlier, was the assumption of random mating. The idea is that any two individuals
+are as likely to breed as any other two individuals. Remember from the first
+video from the series, that gametes just floating all around. It's not like that there
+because the Navajo lady is not as likely to breed with an Aborigine
+as she is with another Navajo. So imagine that in one
+population big A is abundant. Then big A's are gonna be very
+likely to encounter other big A's. In little population,
+little As are very abundant. Little a's are gonna be very likely
+to encounter other little A's. But big A's and little a's are very
+unlikely during counter each other that's why you see this deficit of heterozygous. And then in this regard [NOISE] the
+Hardy Weinberg assumption was violated. That Hardy Weinberg assumption was
+not rejected within the Navajo, or within the Aborigine, but it deviates from this combined population
+and this results from nonrandom mating. And importantly, this will very typically
+result in having too few heterozygotes. We expected about half. We observed about a quarter. This pattern is referred
+to as the Wahlund effect. This is when you sample
+a cross population. So the populations within each
+population may have random mating. But when you sample across or
+between populations you get an under-representation of heterozygotes
+relative to Hardy Weinberg. So this is a way for potentially
+identifying different populations. You can see how much of
+this deviation you see. We'll use that, actually, in a subsequent video for
+calculations that are referred to as FST. But let me ask you
+a different question first. Why does it matter? Why does it matter if something's
+a Hardy Weinberg or not? Well in fact, the first step in
+genome-wide association studies for genetic diseases, or any trait, is Is or
+should be to test for Hardy Weinberg. Now why is that? Well, actually geno wide association
+studies assume Hardy-Weinberg is true or assume that you're very very close to it. basically you're assuming that
+there's linkage to this equilibrium. linkage to this equilibrium caused by
+close proximity between marker alleles and disease causing alleles. Remember that fundamental
+purpose of all genetic mappings to see an association
+between genotype and phenotype. And we're hoping this association is from
+close proximity or lack of recombination. So imagine that you see something like, where 20% of individuals with
+AA genotypes have a disease. And 5% on individuals with
+aa genotype have a disease. Then we're assuming there's
+an association between the AA allele, or the AA genotype, or the A marker
+gene more broadly, and the disease. But just being in different populations
+also causes linkage disequilibrium. Let me give you an extreme
+example to illustrate this point. Let's imagine that in Population 1,
+every individual is AA. Okay? Just that simple. Imagine in Population 2,
+every individual is aa. Now let's say that a disease
+is a little more abundant in Population 1 than in Population 2. Okay? Would you say that AA individuals are more likely to have a disease
+than aa individuals? The answer is yes, you would say this
+because just the way it laid it out. Now this is actually a fake LD
+between disease and the gene. Because the disease may not be on the same
+chromosome as the A gene in particular, and in fact,
+the disease may not even be genetic. Lets say, for example,
+in population one every eats a lot, in population two everybody
+has very good weight. You may see obesity is much more abundant
+in population one than population two, but it may have nothing to do with
+your genotype at the A gene. So its really important that you have true Hardy-Weinberg in doing
+these genome wide association studies. Otherwise the associations you see may
+have nothing to do with the genotypes you're observing. And the disease in fact not
+even be genetic at all. Now punchline is if there are allele
+frequency differences between populations at a SNP,
+which is very often true. Let's say the SNP is
+being used as a marker. And if disease incidence differences exists between the two populations you're
+studying, which again, very often true. Sometimes for genetic reasons, sometimes
+for not, but it may not have anything to do with the particular marker or anything
+near that marker you're looking at. Then a genome-wide association
+study will erroneously make it seem that a gene near the SNP is
+causing or contributing to the disease. Now if you test for Hardy-Weinberg then
+you can avoid this error because you can identify if you're looking at one
+interbreeding population or not. Your hope is that the population is
+at Hardy-Weinberg or is very, very, very close to being at Hardy-Weinberg. And then if you see an association
+you know it's not this weird bias. Now, although it's very
+important to test for Hardy–Weinberg, this is often not done. Here are excerpts from two
+studies from not too long ago. This is from the American Journal
+of Epidemiology 2006. The exclusion of studies in which
+Hardy–Weinberg was violated changed the conclusions and changed the statistical significance
+of gene-disease associations. That's scary. Think about it.
+Millions of dollars go into finding these gene-disease associations. We really need to be carefull and
+know that we're doing them right. Here's something from the European
+Journal Human Genetics in 2005. Testing and reporting for Hardy–Weinberg
+equilibrium is often neglected and deviations are rarely admitted
+in the published reports. So this is a really big deal. There's other issues about interpreting
+the deviations for Hardy-Weinburg. Let me show you an example here. So this is a real example where
+a Hardy-Weinburg test was done, but interpreted incorrectly. This is raw data from a 2000
+study of BRCA2 variants. These are from newborn males from
+a hospital in the United Kingdom. Just as a little test here, I want you to
+look, or I want you to do the math for this and figure out how close this
+is to Hardy-Weinburg expectations. Do you see a particular kind of deviation? So try that out. Well hope that wasn't too hard,
+let me go ahead and show you the answers, these are the numbers you should have
+come up with, so these are the two. Genotype frequencies. These are the true allele frequencies. These are the Hardy Weinberg
+expected genotype frequencies. What we see here is our expected
+frequency of the heterozygote is 0.4, our observed was .36. So there is, or there at least seems
+to be, some slight deviation for Hardy Weinberg, and in this
+direction of too few heterozygotes. This was, by the way,
+statistically significant, too. Interestingly, how did
+the authors interpret this? The authors of the study interpreted
+it as that the Aa individuals are less healthy than AA or aa. They postulated that maybe
+there was some disease or there was some problem
+associated with Aa individuals. In fact,
+there is a much simpler explanation. That we're looking at newborn males
+in a hospital in the United Kingdom. It's quite likely, imagine this is
+a hospital in a place like London. It's quite likely that
+in a place like London, there's a lot of subdivision
+of the population. That people of say, Indian descent are probably more likely to
+have kids with others of Indian descent. People from the Far East may be more
+likely to have kids with people from the Far East. People who, who are of European decent
+are probably more likely to have kids with others of European decent. Yes there are cases where people will have
+kids with people from other ethnic groups. But by having this tendency there,
+overall the population, which undoubtedly exists,
+you will get exactly this pattern. It's basically the simpler explanation
+than the Aa individuals are less healthy, is that there's a little bit of a Wahlund
+effect there, but that wasn't considered. It probably didn't take our pop gen class. Now let me close with
+a little ironic tidbit. This is a quote from Hardy's 1940 book. This is when he was about 62. His book is called
+A Mathematician's Apology. I definitely recommend it. It's a very interesting read about
+the elegance and beauty of math. He said,
+I have never done anything useful. No discovery of mine has made or
+is likely to make, directly or indirectly, for good or ill, the least
+difference to the amenity of the world. I would like to say very strongly,
+he was very wrong on this. This Hardy-Weinburg idea,
+which he helped bring about and he helped popularize,
+really has made a huge impact. We're continuing to see it now
+even literally more than a hundred years after the original publications
+of the Hardy-Weinburg work. We still see these applications for things
+like genome-wide association studies. The kinds of things he
+never would have imagined. So this is really cool stuff, even
+though this was written when he was 62, and he was lamenting the waning
+of his mathematical ability, he really did a lot for the world. As did, of course,
+Weinberg and Castle, thank you.

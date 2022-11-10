@@ -1,0 +1,232 @@
+Now I want to turn to the topic of
+information coding. And one concept that we'll see played out
+in the somatic sensory system, in the visual system, in the auditory system, in
+our chemical sensory systems, and even in our vestibular system, is the notion of
+labeled lines. Now what we mean by labeled lines is the
+idea that the response of an axon in a sensory nerve is going to be shaped or
+dictated, if you will, by the kind of receptor that's elaborated at the end of
+that axon. And that sensory receptor is going to be
+specialized to a code, a certain quality of information.
+So what we're looking at here is a cross section through the skin and what we see
+is a rich variety of sensory specializiations.
+So what we're looking at are a variety of endings of the axons of our first order
+neurons. Many of these are going to be sensitive
+to different aspects of mechanical stimulation.
+But some of them are going to be sensitive to the potential threat to
+damage of the skin and relationship to injury, to temperature change to the
+presence of, of chemicals that might harm the skin.
+So, these are examples of what we have in mind by labelled line.
+And here is one example in particular, here is that Pacinian corpuscle that we
+illustrated schematically a moment ago. This structture is found deep in the
+skin, in the subcutaneous layers or near the deeper part of the dermis.
+And this is a structure that's especially sensitive to the vibration.
+Meanwhile, there is a type of receptor that is right where the epidermis, and
+the dermis, interdigitate. It's called the Meissner corpuscle.
+This structure is especially sensitive to light touch.
+The kind of touch that we might use as we use our skin surfaces on our fingertips
+to explore a sensory surface. So the selectivity of the different axons
+that terminate in these receptors is really determined by the specializations
+we see at their terminal endings. And the fact that different axons are
+associated with different types of receptors, implies that there are
+parallel channels that transmit various submodalities of sensation from the
+peripheral surface back toward the central nervous system.
+So another principle that we see illustrated here in this figure, is that
+of parallel processing. All of these afferent axons are
+transmitting information in parallel from their various locations in the skin into
+the central nervous system. in this case, either the spinal cord or
+the brain stem. Now let's consider how information is
+encoded in the firing patterns of the neurons.
+Then this brings us to an important phenomenon that's present across all of
+our sensory systems, and that is adaptation.
+What we find is that when a stimulus is applied to a sensory ending, there is
+typically a, a barrage of action potentials that we see at the onset of
+that stimulus. But notice that, over time, the numbers
+of action potentials typically diminishes.
+For some neurons the barrage of action potentials is really all that we see.
+And after the intial onset of the stimulus there's basically no fruther
+activity in that first order axon. Others continue to fire, perhaps with
+some regularity, but often at a diminshed rate to the abrupt onset of that
+stimulus. So these are examples of what we call
+adaptation. An adaptation can happen very quickly and
+dramatically, or it can occur more slowly and to a less significant extent.
+So some receptors adapt rapidly and other adapt rather slowly and this has
+consequence for the communication of information.
+From our sensory surfaces into our nervous system.
+You can imagine that the slowly adapting types of receptors might be very useful
+for telling us about the presistent presence of a stimulus.
+Whereas the rapidly adapted, adapting sorts of receptors might be quite good at
+telling us about the dynamic changes in the presence of the stimulus.
+Now, we've already considered the concept of threshold and let me just make on
+further comment about it now. And that is that while all sensory
+receptors have some kind of threshold for generating an action potential, that
+threshold might be different for different kinds of receptors.
+Based on the sensory transduction mechanism that's involved, the
+specializations that may surround that nerve ending.
+And also with respect to the location of that receptor within the sensory
+structure, be it the skin, or a muscle, or a joint, or wherever it may be.
+So sensory thresholds can be an interesting way that the nervous system
+can use to, be sensitive to the right kind of information, in just the right
+sort of way. So, as an example, our mechonsensors,
+those that are sensitive to mechanical stimulation, tend to be very sensitive,
+with a low threshold for activation. Whereas our pain fibers, those associated
+with the free nerve endings in the tissues of our body tend to have a higher
+threshold for activation. Now that's a good thing, is it not?
+Because it requires further stimulation of our sensory surfaces in order to
+elicit pain we wouldn't want a light gentle caress to be painful.
+and by modifying the sensory thresholds of different kinds of labeled lines we
+can achieve that goal. Lastly I want to consider with you the
+topic of receptive fields. Now this is a fascinating topic that
+we'll see over and over again as we consider our different sensory systems.
+And let's again stick, for now, with the, example of our somatic sensory system.
+What we mean by a receptive field is simply that region of the body.
+Or that specific area in the space around the body.
+That, when a stimulus is presented, activity can be modulated in a specific
+nerve cell. And here's an example of how this might
+work. Imagine that there's a micro-electrode
+inserted into the post central gyrus. in this case let's imagine that we have a
+primate as an animal model and we can record the activity of neurons in that
+post central gyrus. Now, if that should be the case, what we
+will discover is that that neuron requires stimulation of a very specific
+location in the body in order to have it's activity modulated.
+And the job of the experimenter, in this scenario, is to discover What is the
+surface of the body that must be stimulated in order to modulate the
+activity of that neuron in the pro central gyrus?
+And what the experimenter might discovere is that there is some patch of skin that
+when stimulated can modulate the firing pattern of that neuron.
+So what we see here is that during the period of stimulation there is an
+increase in the number of action potentials that that neuron fires
+compared to what we see before and after. And furthermore, what we find is that
+receptive fields tend to have a center surround organization.
+And here's what we mean by that. There tends to be a center of the
+receptive field, that when stimulated, gives rise to a robust, modulation of
+activity. often, it's a dramatic increase in
+activity, which is what we see here. But sometimes, it's actually a decrease
+in activity. That really doesn't matter, the important
+point is that There is a rapid modulation of nerve cell firing when the center of
+the receptive field is stimulated. Well, receptive fields are surrounded,
+typically, by an annular region that we call the surround.
+And the physiology of the center surround interaction Is antagonistic.
+That is, if the center of the receptive field leads to an increase in firing,
+then activation of the surrounding annulus typically leads to a decrement in
+firing. Which is what we find for the patch of
+skin surrounding this particular receptive field on the skin, for this
+cortical neuron in question. So notice how activation of the center
+leads to an increase in firing, whereas activation of the surround leads to a
+decrease in firing. We'll see the very same pattern of
+activation in the retina, in the visual parts of the thalamus and in the early
+parts of the primary visual cortex when we consider the physiology of the visual
+system. Allow me to make a few additional points
+about receptive fields before we conclude this tutorial.
+Well, we've already looked into the dermis and appreciated the variety of
+receptor endings that we find there over different parts of the dermis.
+I'd like to point out that some of these receptors are really quite spatially
+limited in their extent. Whereas others, because of their size and
+their organization, tend to extend over a greater extent.
+Well, as it turns out, there is, in fact, a variety of sizes of physiological
+receptive fields. So for example, we can imagine that for
+this Meissner corpuscle, perhaps we have to be right on top of it in order to
+stimulate it. Whereas this Pacinian corpuscle, perhaps,
+can be activated through deformation of skin over a much broader area.
+So the size, the orientation, the distribution of the peripheral sensory
+structure will have a lot to do with defining the size of the receptive field
+for the first order neuron. But we can actually record a receptive
+field for any neurons as we saw in the previous slide, that receptive field was
+defined for a quartical neuron. So what we'll find is that at each level
+along a sensory pathway There will be a variety of receptive field sizes and
+shapes that can be identified. For the first order neuron, the size is
+often related to these geometrical factors that I've just outlined for you.
+But when it come to neurons within the central nervous system, the second order
+neurons, the third order neurons, the neurons in cortical networks.
+Principles of convergence have much to do with the finding the size of those
+receptive fields. So for neurons in the cerebral cortex for
+example, what really determines the size of the receptive fields will be the
+degree of convergence. And for neurons in the cortex large
+receptive fields are created by a high degree of convergence.
+That is, many neurons at lower levels of the sensory pathway converging onto the
+same cortical neuron. whereas, smaller receptive fields are
+created by minimal patterns of convergence.
+That is, fewer numbers of cells at antecedent levels of a neural pathway
+converging as information is transmitted onto the level of the cerebral cortex.
+So at the level of the cortex, we see more of a direct relationship between
+receptive field size and the degree of convergence.
+The more there is convergence, the larger we would expect to see the receptive
+field. Now let's look at one final example from
+the somatic sensory system, and how this plays out.
+Imagine we're going to do an an experiment to asses two point
+discrimination. And I would encourage you to do this with
+a friend or a family member. All you need is, let's say a paper clip
+or maybe a little piece of wire that can somehow be bent into a shape something
+like this. And you can vary the distance between the
+ends of this wire in such a way that maybe the wire can be bent so that these
+points of contact can be spatially varied.
+Well what you can do is you can ask a friend, or have them ask you to close
+your eyes while some modest part of your skin surface is explored with this kind
+of homemade caliper. Well if you do that you can ask your
+friend or your friend can ask you with eyes closed.
+Simply tell me whether you feel one point of contact or two.
+So one or two, that's the question. And what you can find is what is the
+minimal separation of the tips of these calipers that will allow your test
+subjects to report two points of contact. So, this is called two-point
+discrimination. And you can imagine how this might work.
+In order for our subject to report two points of contact, we must stimulate at
+least two receptive feelings on the skins surface.
+So, this is illustrated for the finger tip and in the patch of skin on the
+forearm. And what is shown in this figure is
+what's actually observed in most people. That is the receptive fields are smaller,
+in the fingertips where spacial acuity is quite high compared to the forearm where
+spacial acuity is much lower. And this means that two-point
+discrimination will be better. In the digit surfaces compared to the
+skin on the forearm. That is we can detect smaller seperations
+on our fingertips compared to our forearm.
+So from a neurophysiological perspective let's consider these three examples.
+So here in green we have two points of contact that are coming together quite
+closely. Within the receptive fields of neuron B.
+And what we see there is that with the green contact, neuron B is activated to a
+significant extent. But these points of contact only touch
+the margins of neurons A and C. So these neurons fire at not a very high
+rate. So, for the set of primary afferents
+coming from this patch of skin, it looks like only one neuron was activated.
+And we might imagine that we would interpret that as one point of contact
+when, in fact, there were two points of contact.
+Now, let's look at the points of contact shown here in red, a little bit further
+separation. So, we are now getting closer to the
+center of activating neurons a and c. But we're not yet so far to the extreme
+of the receptive field of neuron b that it's not going to be activated.
+So what we have as a result is activation of three receptive fields to a pretty
+similar extent. Well, this might also feel like just one
+point of contact, because we're not adequately differentiating the responses
+of one receptive field, or one neuron from another.
+That only happens once we expand our caliper to the points of contact
+illustrated here in blue. we are very near the center of the
+receptive fields of neurons a and neurons c and we're just at the margin of the
+receptive field of neuron b. So we would expect a robust response from
+neurons A and C, minimal response in neuron B.
+So in the context of a neural structrue that's representing the information
+coming from these three parallel channels, we see clear differentiation of
+activity between two of these three neurons.
+With a separation between those most active neurons.
+This will allow us to make a judgement of two points of contact rather than one.
+So, we think this is the basis of two point discrimination and indeed if we
+survey the body surfaces we find that there is a tremendous range of
+sensitivity. so what we're looking at is a plot of the
+two-point discrimination threshold across the left and right sides of the subject.
+And what we find is, is really a high sensitivity around the fingertips and
+some of the oral facial structures. And not so much sensitivity in some of
+the More proximal parts of our arms and our legs.
+Well, these concepts are illustrated here with respect to the somatic sensory
+system, but we'll see how they play out in other domains.
+I hope you appreciate that what we're talking about here with two point
+discrimination Is really the phenomenon of acuity.
+So what we're talking about here is spatial acuity.
+But the same principles will apply, let's say, in the visual system, where we have
+very small receptive fields, and a high density of receptors in the central part
+of the retinas in our eyes. That's a region of greatest spatial
+acuity. Whereas in the peripheral parts of our
+retina we have larger receptors that are much less dense in their distribution.
+Consequently we have much larger receptive fields in the neurons that are
+receiving input from that receptor surface.
+So acuity is an important concept in sensory systems and we'll return to that
+as we go along in our studies. Well, now that I've given you an overview
+of some of the important principles of organization and function in sensory
+systems. I'll just leave you with the study
+question, and give you an opportunity to consider that on your own.

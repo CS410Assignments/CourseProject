@@ -1,0 +1,198 @@
+Hello, everyone.
+welcome to a set of tutorials on the structure and function of the vestibular
+system. In this first tutorial, I'd like to speak
+to you about peripheral mechanisms of vestibular processing, and in the second
+tutorial, we'll talk about the central processes that operate within the
+brainstem. on up through the brain and even down
+into the spinal cord that implement motor commands based on feedback coming from
+the vestibular system. And then, we'll also talk something about
+how vestibular input is contributing to our broader sense of proprioception from
+which our body schema is created in the brain.
+Now, I'll refer you to our core concepts in the field of neuroscience as well as
+our learning objectives that are found at the top of your tutorial notes.
+essentially our core concepts for this session are that, once again, we're going
+to be confronted with the complexity of the brain and you'll come to even more
+fully appreciate, I think, the fact that the brain is the body's most complex
+organ. And we will be talking about circuitry
+that is genetically determined, as well as structure and form.
+And I think what you should appreciate is how beautifully do form and function go
+together when we're talking about the functions of the vestibular system.
+And I hope you appreciated that when we talked about the cochlea as well when we
+considered audition but we'll carry that theme onward as we consider the structure
+and function of the vestibular system, okay?
+And our learning objectives are that I want you to be able to describe the,
+describe the anatomy of the vestibular labyrinth, this is what we call the
+peripheral apparatus that's deep in our temporal bone.
+And I want you to be able to describe the biomechanics of sensory transduction in
+both components of the vestibular labyrinth that would be the biophysics of
+hair cell transduction in what we'll call the otolithic organs, and then in our
+semicircular canals. But let's begin with an overview of
+vestibular function. So, you should recognize that the
+vestibular labyrinth is an extension of the inner ear that is designed to sense
+the motions that arise from head movements as well as the inertial effects
+that are due to gravity. So, what do we mean here?
+Well, as your head is presumably in a fairly stable position right now, there
+are signals that are due to the force of gravity tugging on our bodies.
+And these signals are being processed by the vestibular system with respect to a
+special set of organs that we find within the vestibular labyrinth.
+So, we're going to talk about that, But, of course our heads are often in motion
+mine tends to bob around quite a bit as I speak.
+I know that. But our heads are in motion and those
+motions produce accelerations. sometimes linear accelerations, as we
+move in one plane of motion or another, we'll see those planes in just a minute,
+or rotational accelerations. So, these are different kinds of ways
+that we could move our head. those linear accelerations in the static
+positions of our head, these are sensed by the otolithic organs, while the
+rotational accelerations are being sensed by the semicircular canals.
+And what we'll discover in each component of the vestibular labyrinth are hair
+cells that do the job of sensory transduction, very similar to the hair
+cells we described in the cochlea when we talked about audition.
+So, the good news for you is that the mechanisms of sensory transduction are
+quite similar in the vestibular system and the auditory system.
+But we'll talk about the biomechanics of these two components of the vestibular
+labyrinth. And you'll see how the biomechanics
+really help to explain the sensitivity of these hair cells, even though the sensory
+transduction is the same. Okay.
+Well, let's continue with our overview then.
+So, vestibular signals are generated in those Otholitic organs in the
+semicircular canals. And then these signals are relayed to
+integrated centers in the brainstem as well as in the cerebellum.
+And these signals travel along the 8th cranial nerve in the vestibular component
+of that 8th nerve. Well, in the central stations, these
+signals are used to adjust postural reflexes as well as eye movements.
+So, in our next tutorial, we'll talk about the anatomy of how those kinds of
+motor actions are engaged by vestibular signals.
+Of course, these, these vestibular signals also can impact our sense of
+well-being, our sense of place, our sense of position, and our sense of movement
+through the environment that is mapped out largely via auditory and visual, and
+visual signals. So, these vestibular signals then are
+going to reach into the parietal lobe where our spatial awareness is
+constructed in cognition. So, in the parietal lobe, we have our
+normal sense of orientation in three-dimensional space, this is where
+the sense is constructed. And should there be some kind of
+pathology, this is where feelings of dizziness would come from.
+there are brainstem circuits that are going to be important for that as well.
+And we'll touch about that in the next tutorial.
+So, what I do want you to understand though, is what is the fundamental, it
+means by which the vestibular signals provide us with a normal sense of
+position and equilibrium. And what are the conditions that might
+give rise to abnormal sensations and how might those be expressed in our bodies.
+Okay. Well, let's move on then and consider the
+anatomy of the peripheral components of the vestibular systems.
+But before we explain the anatomy, it's useful to talk about how we move our
+heads. So, as I illustrated just a moment ago,
+we move our heads both in linear planes, as well as around axes of rotation.
+So just to orient you to this figure. So, this illustrates the basic planes
+through which we move and, of course, we move through all the planes are
+intermediate between them. And we move in, in rotations around axes
+that are intermediate between these cardinal axes here.
+so, we can rotate our heads around the x-axis.
+So, this is a, a, a rolling type of action, okay?
+Think of a, of an airplane sort of rolling off to one side.
+we can change our rotation around the y-axis, as if there was an axis going
+from ear to ear. This is pitch.
+This is nodding our head, forward and then backward, okay, and then we can turn
+out head from side to side. So, this is a rotation around the z-axis.
+This is called yaw. So, if you're flying in that plane and
+the plane does this rather disturbing turn left or right that is movement in
+yaw, okay? So, those are rotational movements or
+rotational accelerations. There can also be linear accelerations in
+the forward and backward direction in the horizontal plane or to the left right
+direction in that same horizontal plane. There can also be movement up or down,
+right, like elevator motion. So, these are all linear accelerations.
+And we see those illustrated here as movements along these principle axes that
+are illustrated. Now these six basic directions or planes
+of motion are going to be sensed by different components of the far
+vestibular labyrinth . So, I want you to, at the end of this
+tutorial, be able to explain, which elements of the vestibular labyrinth are
+sensitive to each of these kinds of motions, okay?
+Well, in order to get there, we need to look at the anatomy of the vestibular
+system. And what we find is that the vestibular
+system truly is a labyrinth. It is a set of interconnected canals that
+arise form the same embryological precursor called the otic placode that
+grew out the cochlea. So, it's not surprising then that our
+cochlea should be right adjacent to our vestibular labyrinth.
+So, what we find in the vestibular labyrinth is a series of canals.
+Now these canals are filled with endolymph.
+So you'll recall from our discussions of the cochlea, endolymph is that fluid that
+is enriched in potassium ions. So, this means that it is more like the
+solutions that we typically find within cells rather than our typical
+extracellular fluids. So, the canals are filled with endolymph,
+which is high in potassium and low in sodium.
+And then surrounding the vestibular membranes is where we find perilymph,
+which is more like the normal extra cellular fluids of the body that is low
+in potassium and high in sodium. And just as endolymph was critical for
+sensory transduction in the cochleas, so will it be critical for sensory
+transduction here in the vestibular system.
+So, here's another view, of our vestibular labyrinth, together with the
+cochlea. So, we have our, our labyrinth over here
+to the left-hand side and our cochlea here towards the right.
+And if we just look at the labyrinth now, we see that there are really two classes
+of sensory structures, associated with each side of the head with each
+vestibular labyrinth. we have a set of otolithic organs, and
+these are the utricle and the saccule. So, together, these two organs are
+similar in their histology and their function.
+But what differentiates them, as we'll see, is the orientation of their sensory
+elements. Now, in a similar way, our second class
+of sensory structures are these three semicircular canals.
+So, we have a superior canal, we have a posterior canal, and a horizontal canal.
+Now, these three canals have very similar mechanisms of biomechanics and sensory
+transduction. What differentiates them is their
+orientation within the temporal bone and that orientation allows them to be
+sensitive to different kinds of head movement.
+Now, within each of these sensory structures, the semicircular canals and
+the otolith organs, we find hair cells. So again, these hair cells are going to
+be similar to what we described in the cochlea, and they provide for the
+mechanisms of sensory transduction. These hair cells are innervated by the
+peripheral processes of ganglion cells that are, are, present in a ganglion
+called Scarpa's ganglion. So, we see that here so there is a set
+of, nerve cells that sit in Scarpa's ganglia that innervate the otolith organs
+and then, a separate population that supply the central sensory regions in our
+three semicircular canals. So, the peripheral process of these cells
+receives a synaptic input from the hair cell and the central process then is
+conveyed along the axons of the vestibular division of the 8th nerve.
+So, let's talk about sensory transduction now and these vestibular sensory
+structures. here's a view of a sensory epithelium,
+this is a view of what we might find in our otolith organs.
+And what we see is a sensory epithelium with hair cells and these hair cells are
+making synaptic connections with the peripheral process of our 8th nerve
+fibers. The hair cells grow a set of stereocilia
+and these stereocilia have a particular axis to the length of the stereocilia,
+with the longest stereocilium on the side of this very special structure called the
+kinocilium. And the kinocilium may or may not be
+present in adult life it's okay if it's not it often does degenerate.
+But what we're left with then is a set of stereocilia that have some sort of
+directional access to their orientation going from the shortest stereocilium
+towards the longest. And when there is deflection of these
+stereocilia from shortest to longest, there will be depolarization of the hair
+cells. And conversely, if we were to have
+deflection in the opposite direction from the longest hair cell towards the
+shortest, we would find hyperpolarization, okay?
+So, let me remind you as to why that would be.
+Again, it's very similar to what we discussed for sensory transduction in the
+cochlea. once again, we have stereocilia that, at
+their tips have these transduction channels that are permeate to potassium
+ions. And the gates on these channels are
+connected one to the next stereocilium by this spring-like protein called a
+tip-link. And as these stereocilia are deflected
+from shortest to longest, there is a tension that's applied to this tip-link
+protein. And that opens up the transduction gate,
+allowing potassium to rush into the tips of the stereo, stereocillium.
+Now, you will remember that the tips of these hair cells are bathed in endolymph,
+which has very high potassium concentrations.
+so high that its even greater than what we find in the cytoplasm.
+So, these very high potassium concentrations allow potassium iron to
+enter through these potassium channels. They depolarize the hair cell and that
+wave of depolarization now spreads down where it reaches voltage-gated calcium
+channels. These voltage-gated calcium channels open
+and calcium rushes into the cell from the fluids that bathe the lateral and basal
+aspect of this hair cell. And as calcium rises within this hair
+cell, then in a calcium-dependent manner, there's excess cytosis of vesicles at the
+base of the hair cells, and the release of neurotransmitter on to the afferent
+terminal. This narrow transmitter is, is probably
+glutamate and it's probably binding to receptors like amper receptors on the
+afferent ending of this 8th nerve fiber. And if sufficient glutamates bound, there
+could be a generator potential developed there.
+If sufficient glutamates bound, then this afferent fiber can depolarize and
+generate an action potential and then a signal will be conveyed along the 8th
+nerve to the brainstem.

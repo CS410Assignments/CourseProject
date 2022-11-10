@@ -1,0 +1,109 @@
+So, what we see here is with displacement
+of the Stereocilia on the apical surfaces of the hair cell.
+There is the Cyclical depolarization and Hyperpolarization that happens as the
+Stereocilia are moved back and forth or up and down.
+In the direction that is parallel to the axis of orientation from smallest
+Stereocilium to largest Stereocilium. And if one were to move these hair cells
+in the Orthogonal direction, that is rather back and forth from the access of
+shortest to longest, then what we would find is basically no change in membrane
+potential. Because we would neither be stretching
+those tip links nor would we allow them to relax back.
+So If we were to look down on the hair cell, what we would find is that there is
+a very special type of Stereocilium called a Kinocilium.
+We're actually born with this, but for most Inner hair cells that Kinocilium is
+lost in life. Nevertheless there is this gradient from
+shortest Stereocilium to tallest Stereocilium that is present next to
+where the Kinocilium once was. And so if we move these Stereocilium
+along this axis from smallest to longest and back and forth, that's where we find
+the greatest amplitude of Oscillation in membrane potential.
+If we were to move In the Orthogonal axis, basically we wouldn't be stressing
+out those tip links. And consequently, we would have no change
+in membrane potential. Now let's look at how good these hair
+cells actually are at faithfully reproducing the cycles.
+Of pressure, that cause these traveling waves to be set up along the length of
+the Basilar membrane. If we stimulate these hair cells at a
+frequency of let's say 300 hertz, 300 times a second, we see a beautiful
+modulation In the membrane potential of that hair cell.
+And as we advance the frequency what we find is that these hair cells can
+faithfully represent the temporal aspects of the stimulus all the way up through at
+least a kilohertz. So here's a thousand hertz a kilohertz.
+Of modulation and we can still detect a beautiful Sinusoidal type cycle in the
+membrane potential of that hair cell. But once we get above about a kilohertz
+or so we begin to lose the ability to follow the frequencies of that pressure
+wave. And you know, that's a pretty amazing
+accomplishment that we can record with fidelity, the movements of these hair
+cells up to more than a thousand cycles per second.
+But, at some point, we just can't operate as quickly as the energy and the
+environment. But we can still encode that energy,
+because there is a DC component to the response, that is, the hair cell on
+average becomes depolarized. Even though the modulations, the AC
+component now basically vanishes as we get above about 2 Kilohertz.
+So as we continue to increase in pitch, in the frequency of the stimulus we can
+still activate hair cells in an appropriate zone at the Basilar membrane.
+But we can no longer produce an AC component of modulation that faithfully
+captures the temporal dynamics of the stimulus.
+Let's back up for just a moment, and I'll remind you then that at the Basal region
+of the hair cell, we find Synaptic Vesicles.
+So for an action potential to be fired in the afferent nerve fiber
+neurotransmission must take place. And a sufficient depolarization to active
+Voltage gated Sodium and Potassium Channels must be generated here in the
+afferant nerve fiber. Now I'd like to invite you to pause this
+tutorial. And look at your tutorial handout for a
+couple of weblinks to some really excellent, resources that have been
+generated. That summarize, these aspects of Auditory
+Physiology that relate to these Peripheral Structures found in the middle
+and the inner ear. The first is an Animation found on the
+website that supports our textbook, and you can navigate there on your own or you
+can simply click the link in your tutorial notes.
+The second is really one of my favorite Animations in all of Neuroscience, it's
+just a wonderful tour through the biomechanics of the Basilar membrane
+created by one of the real giants in the field of Auditory Neuroscience Dr.James
+Hudspeth. Well, he didn't actually do the
+Animation, but he commissioned it and oversaw the production of this really
+beautiful presentation. That I think really makes very clear how
+the Basilar membrane can decompose complex sound even Bach's Toccata and
+Fugue, into component frequencies, that are then encoded in the Oscillations of
+membrane potential in the hair cells that happen to be at each location a long the
+length of the[UNKNOWN] membrane. So please go watch these two Animations,
+and then come back and we will conclude this tutorial.
+Okay well I hope you enjoyed that I know i sure did.
+Now I want to just conclude by talking about Sensory Coding in the Auditory
+nerve. If we look at the cycles of stimulation
+that are going to be transduced by our hair cells, what we'll find is that for
+any given Axon in the Auditory nerve, there is a barrage of action potentials
+that can be recorded. With some predictable temporal
+relationship to the stimulus. In this case, it's a fairly low frequency
+stimulus and what we see is a faithful and highly reproduceable barrage of
+action potentials that is elicited at a particular phase relationship to the
+stimulus. If one were to look across a family of
+axons within the Auditory nerve and plot the firing rate that is observed for any
+given frequency of stimulation, what we would be able to do is to plot a tuning
+function for that Axon. And so, what we're looking at here is a
+plot of the intensity of the stimulus that's necessary to elicit action
+potential firing in the Axon. And what we find, for example this Axon
+that is plotted here in purple above, is that the threshold is lowest at a
+particular frequency. Meaning it takes less amplitude of
+modulation to elicit actual potential firing of that Axon.
+well a different axon is going to have a different BESS frequency, and so on.
+So, here we have examples from 6 different Axon's, recorded in an Auditory
+nerve, and they all have a different BESS frequency.
+And this figure is illustrated in a way that, is meant to organize these best
+frequencies across that tonotopic map that we find established in the Basilar
+membrane. And sure enough, the Auditory afferents
+that innervate the base of the Cochlea. Are going to have their best frequency
+near the higher range of what can be heard and transduced.
+So in this case this gold colored plot is showing the best frequency around ten
+kilohertz for this particular Axon that's innervating the base of the Cochlea.
+meanwhile, way at the other end of the Cochlea, here is an Axon that's
+innervating some domain of the Basilar membrane that's closer to the Apex.
+And we find a much lower best frequency. much less than one kilohertz.
+Well, I should have made this point earlier, but for us humans, we're
+sensitive to sound. Over a range from about 20 Hz to 20 kHz.
+So if we were to be at the base of the Cochlea, that's roughly where we would
+find our maximum frequency that could be represented.
+acro-, across our Basilar membrane whereas out near our helocrotrema, near
+the apex of the cochlea that's were we would find the lowest range of
+frequencies found. Okay, well in our next tutorial, I'd like
+to discuss with you how this information That is generated here in the inner ear
+is processed in the central nervous system.
+So, I'll see you back for that discussion.

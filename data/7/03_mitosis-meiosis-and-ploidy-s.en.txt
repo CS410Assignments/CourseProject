@@ -1,0 +1,112 @@
+Hello!
+And welcome back to Introduction to Genetics and Evolution. In this video I'll be talking
+about some basic processes for getting genetic material into new cells. So the two processes I'll be
+emphasizing in this mini video are mitosis and meiosis. I'm not gonna talk about
+these in extensive detail. There's a lot of molecular parts to it, there's a lot of stages to it that
+I'm not really going to emphasize. I mostly just want you to understand
+these in the context of ploidy. Ploidy refers to the number of complete copies of genetic
+information in your cells. So you may remember in a previous video,
+I referred to most animals being diploid. D-I-ploid. Di stands for two. So most animals, just like you, have two copies of their
+complete genetic code in their cells. One that came from mom,
+one that came from dad. And that's why you're diploid. So let's talk about these two
+processes in the context of ploidy. The first process we'll discuss briefly,
+is mitosis. Mitosis happens when you
+have the division of cells into two cells that are genetically
+identical to each other, and to the parent cell that gave rise to them. So again, this is a process that
+produces two diploid daughter cells genetically identical to
+a single parent diploid cell. This happens inside
+your body all the time. When you're growing new skin cells,
+the genetic material is passed from the old cells into these new cells
+through the process of mitosis. So this is essential all the time
+through growth and development. Now this also presumes that if
+you have no new mutations, we'll come back to this in just a second, if you
+have no new mutations, basically every cell in your body should be identical to
+the original fertilized egg that you were. So if you go back,
+way back in time when you were originally one new fertilized egg,
+the genetic information in there, if it was not altered, would be true
+in all your current cells today. So let me ask the question, what would happen if we did
+have a mutation during mitosis? A mutation is a change
+in the genetic code. What would happen if that
+happened sometime during mitosis? Let's say when you're
+at the 16 cell stage. And one of the cells suddenly had
+some error in the genetic code. Where something changed moving on there. What would happen is you produced
+what's referred to as a genetic mosaic. This shows you a picture of
+a flower that is a genetic mosaic. Where there was a genetic change
+that happened in the cells leading to this half of the flower relative to
+those leading to that half of the flower. So there are different cells
+here that have a change in the genetic code from the others. Now mutations in mitosis control genes
+have been known to be associated with various cancers, so this is often
+a very bad thing when it happens. So let's talk about the other
+process of splitting genetically. Let's talk about meiosis. Meiosis in contrast to
+mitosis produces haploid, or one, genetic copy daughter cells
+from a parent diploid cell. Okay so this is typically
+associated with the formation of gametes such as when you are making
+sperm or eggs in your body. So you start off with you know all your
+cells having two copies of all genetic information, but then you basically
+lose one copy that then gets and the other copy is what
+goes into your gamete. This is typically the precursor
+to fertilization. This is what allows it such that when
+they have kids they also have two copies. And fertilization is what
+brings together the gametes of two parents into an offspring. So you have these single
+copies with 1N meiotic gametes coming together to make a new 2N,
+having two copies, diploid cell. Which would be you for
+example or your kid. Again, half of genetic material is
+from mom, half is from the dad. So we have this sort of union and
+this picture diagrams it pretty well. Imagine this is a compliment
+chromosomes from dad, here's a compliment of
+chromosomes from mom. You see that in the offspring we have two
+copies of the blue, two copies of the red, two copies of the green, etc. Now, what would happen if you got two copies of a chromosome from one parent
+and then got a third copy from the other? What would happen if they didn't
+split as much as it should. Well, the answer is not very good. You typically end up with
+some fairly extreme disease. One of the most minor of
+these would be Down Syndrome. This is when you have three
+copies of chromosome 21. Others are Klinefelter Syndrome, etc. Often when this happens,
+the offspring is inviable and never makes it past
+a couple of cells large. Now let me give you a fictional example,
+and then I'll ask you a question after that to see if you've
+understood what I've said so far. Let's imagine that you're messing with
+your microwave, microwaves are not as dangerous as I'm going to portray this to
+be, so you're messing with this microwave, a lightening bolt strikes your house,
+and all the sudden this big bolt of radiation shoots out of
+the microwave onto your face. And you grow a third eye. [LAUGH] This would never actually happen,
+but lets say the cells in
+your face were effected. Now, these cells that have
+been changed in some way. Would these cells spread by mitosis? Remember, their in your head,
+were they spread by mitosis? Could they spread by meiosis? And would you be likely to pass on the
+affected cells to your offspring or not? So I'm gonna ask you
+these three questions, and we'll see if you understood from that. Welcome back. I hope you understood
+the answers to those questions. The answers,
+let me just briefly go over them. They could certainly spread by mitosis. Because again, mitosis is just what
+happens when your cells are making new copies of other cells. So you're going 2n to 2n. In your head you're probably replacing
+skill cells all the time and they're making new ones. And if there's a mutated
+cell here it might spread to other spots on your forehead right there. It is very improbable that these
+cells would spread by meiosis, because you're not usually
+making gametes in your head. [LAUGH] You may think you are,
+but you're not. And because of that, it's also very
+unlikely you would ever pass on the affected cells to your offspring,
+okay? So, let's just recap real
+quick what's happening. So, with mitosis, again this is the process that's typically
+associated with growth within your body. You start off in this fictional example,
+here there's only a single chromosome, but there's two copies of it. This is one that came from dad,
+one that came from mom. Before it actually replicates there's,
+I'm sorry before it actually passes on to the new cell there
+is a period of replication. So you actually go through
+a very short 4n end stage. We actually have four
+copies of everything. Two from dad, two from mom. The two copies that are there,
+these are called chromatids. They are identical. Just two copies of your mom's single copy, two copies of your dad's
+dad's single copy. Eventually, you get down to these
+daughter cells that are just like the original cell. They are identical to
+the original ones there. We have one copy of your dad's,
+one copy of your mom's genes. And it's just passed on over and
+over again. So, mitosis, you start at 2n,
+you end at 2n. And you have exactly the same genetic
+complement in the beginning as in the end, assuming there's no new mutation. With meiosis, this is what's typically
+associated with gamete formation. Again, you start with this same 2n part. But here in this case you
+actually produced 1n copy. So you're actually passing on only half
+of your genetic information to your kids. You're not passing on all
+of the genetic material. And this works out, so that the kid at the
+end has two copies because it has the one that came from you, and it has
+the one that came from your partner. So 2n to 1n is what you
+typically see with meiosis. Now this is an important part. Meiosis is fundamental to
+understanding inheritance. So this is what we're gonna focus on for
+most of the rest of the lecture. I hope you'll join us, thank you.

@@ -1,0 +1,91 @@
+Hi, Welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. In our last video, we talked about some
+practical examples of real-world hacks that have
+occurred and that which highlighted some of the
+complexities that we have to deal with in terms of differences
+in the threat actors, the hackers we faced
+their motives, the tactics that they
+use, and the end effects. In this video, I want to
+talk a little bit about some of the practical
+questions facing policymakers and the
+constraints they have to solving some
+of those questions. Some of the practical
+questions that they have to deal with
+are things like, does the government have the right to read
+my communications? What if they're part of a criminal investigation versus if it's part of an
+intelligence operation, what does that dividing
+line look like? What are some of the
+authorities that are required? Depending on which country
+you're talking about, whether it's the United
+States or China, or Russia, or the Central African Republic, they're going to have
+different authorities based on their own
+governance structures. You need to think about which country you're
+dealing with and some of the complications associated
+with specific questions. You might have to ask
+questions about should governments use specific
+cyber tools to engage in certain types of asymmetric
+forms of warfare or espionage and how do you enforce such standards where you
+might want to draw a line. Where you say that some targets are off-limits versus
+some which are not. What regulatory powers
+should the government assert to govern critical infrastructure
+should it even do so? These are questions
+that have to be asked. Is the problem of cybersecurity
+simply a private problem, or is it a broader
+public problem? How do you make
+that determination? How do you differentiate
+between the two? These are really, really complicated questions
+that have to be asked, and can free speech be
+sensored if so, in what cases? Depending on what country
+you go to around the world, they're going to have different
+answers to that question. The position in the United
+States might be really quite different
+than what you find in the Russian Federation, which might be actually quite different than what
+you find in Germany. We need to ask these questions. But those questions,
+that policy space, these broad policy questions
+that we hear so much debated in the news
+is a constraint. What I mean by constraint is
+that unlike when living in a free society where
+you're able to do whatever you would like
+unless it is illegal. Policymakers face the
+opposite problem. You're not actually able to undertake certain
+activities unless you are authorized to. This is a fundamental problem. There are some constraints in policy-making simply based on, do you have the right? Does the government
+have the right to actually act in this space? Some practical areas or practical constraints
+that policymakers may have to deal with
+when dealing with the problem of cybersecurity
+might include things like, well, what do you actually
+mean by a cyber event? That may have a very
+specific definition and meaning for a government. Is a website defacement
+against a private company, something that the
+government even deems to be what they
+would call a cyber event. That may be a good question. There might be another
+question about jurisdiction. Is this a private
+matter, a local issue, a national problem, an
+international problem? Who has ownership of this issue? Is it the county government? Is it state government,
+federal government, or is it a matter for a
+community of nations? Should I cooperate
+or not cooperate in cyberspace and there might be a decision calculus for
+that and then finally, how do I enforce a particular
+point of view on Cyber? If I think that a cybersecurity incident has occurred that is
+of public concern, how do I actually enforce
+my will on the other side? How do I respond? Do I send a harsh letter, something that we
+call a dumb marsh? Do I generate financial
+sanctions, travel sanctions? If so, what are the
+conditions and against who? How do I potentially engage
+in precision strikes? If I think that that makes sense. Or in the most absurd example, do I want to engage in
+nuclear retaliation? Probably not likely to occur. But these are fundamental
+questions for the policymaker and these are constraints for
+policymakers when they went to a dry to address some of those
+practical questions. The takeaway here is that
+the number of threads, the complexity of the
+threats is a problem for the policymaker and they want to levy policymakers remember, their fundamental goal is to leverage technology and
+to minimize the risks. In order to understand the
+cybersecurity problem, we need to explore
+the threat landscape. We need to understand
+the internet, how it evolved, how it works. We need to understand
+hackers and their motives. We need to understand the
+techniques they use and what the process of
+hacking actually is. We need to understand the
+effects they can engineer. We need to understand the broader attack surface
+in which it operates in. Next time, we want to talk about the history and
+evolution, the Internet. We're going to deep dive into the first part of the
+threat landscape. I hope to see you next time.

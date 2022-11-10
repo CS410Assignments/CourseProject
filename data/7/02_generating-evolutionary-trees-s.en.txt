@@ -1,0 +1,230 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In this set of videos,
+we are looking at evolutionary trees and the study of phylogenetics, or
+the relationships among organisms. In the preceding video, we talked about
+how to read an evolutionary tree. In this video we're gonna look at
+generating evolutionary trees. And I'll give you the opportunity to
+generate your own evolutionary tree using some DNA sequence data
+by the end of this video. So let's get started. What do we need to generate
+an evolutionary tree. Well we need to look
+at a set of traits and decide on similarity among
+the organisms being studied. So this is a set of four organisms that
+I showed you in the preceding video. So what traits should we use? Well I pictured just a random
+set of four traits and you'll see that the answer isn't
+totally straight forward of what we do. That we can look at the exterior and say hairy versus having
+feathers versus smooth. Well how would this categorize these? Well this one is hairy,
+the one's got feathers, this one's smooth, this one's hairy. So we should say the spider and
+the guinea big are more closely related. That is a little bit funny. Let's look at the others. Which ones have a back bone and
+which does not? Having a back bone would be that these
+two have a backbone, these two do not. That might be okay. What about something else? What about number of legs? Well here we have eight, here we have six,
+here we have two, here we have four. Well that's not useful at all. And the last thing is what about
+presence or absence of wings? Well that was the example I showed
+you in the preceding video, that these two have wings,
+and those two did not. So you can see, it's not clear what to do
+when you're looking at a single character. And you can, in fact, be misled
+when looking at single characters. So, the way this is addressed in
+practice is that we try to study the weight of evidence, especially by
+looking at multiple characters, all right. Then we're looking at
+the number of characteristics that favor one set of potential
+evolutionary relationships versus another. And I'm gonna talk about this first. Then we're gonna come back to looking
+at new versus old characters, and I'll just make a quick comment at
+the end about some more in-depth models. So, with respect to similarity, Here's the same set of animals
+that we looked at before. And here I've laid out a bunch of
+different characteristics, and these are ones that
+are potentially useful. What do we see when we look at this? Well, Taxon two which
+is the ladybug here and Taxon three being the wood duck, they
+share the fact that they both have wings. Okay. In contrast, the spider and
+guinea pig do not. For all the other characters,
+you'll notice that Taxon three and four are similar. These are both,
+these both have an endoskeleton, their skeleton's inside their body,
+whereas these both have an exoskeleton. These two are warm-blooded,
+whereas these are cold-blooded, but that's a little bit of a cheat that I'm
+not going to talk about in this video. These two have closed circulatory systems,
+these two have open. These two have simple eyes,
+whereas these two have complex eyes. And these two have a backbone
+whereas these do not. So, on balance, when you look at
+the weight of all the evidence here. You see that there is a strong
+relationship between Taxon three and four as being similar, and one and two being different from them, even though
+this category of wings throws that off. But I have to emphasize that
+similarity is not enough. You can't just make a good evolutionary
+tree based on similarity alone. Instead, we end up having to look
+at new versus old characters. Characters that evolved fairly recently
+versus ones that may have been retained since the most recent common ancestor. Now let me show you why this is true. Similarity alone can be misleading
+when you're looking at old or reputatively ancestral characters, characters that have been around
+potentially since the root of the tree. Now let's imagine your
+trait is body color, and let's say the two body colors that
+we have here are black and red. And let's say the ancestor was black, and
+let's say the color of the branch that I put on here is the phenotype or the
+appearance that was present at the time. And we have a new mutations in red
+that arose right here in the lineage leading to C and D, okay. If you were to go by similarity alone,
+C and D are very closely related to each
+other because they are both red. And then, A, B, E and F are all
+closely related, well is that true? Look at the tree for
+a second, is that true? The answer is partially. It is true that C and D are closely
+related, as you can see over here, but A, B, E and
+F are not particularly closely related. You see that, in fact,
+B is more similar to C than B is to A. Because the most recent common
+ancestor of B and C is right here, whereas B and A is further back. So this works for new or
+derived traits, traits that have arisen during the evolutionary time of
+the tree that you're looking at. This now assumes that changes
+are infrequent, and again, this tends to work just for
+the newly evolved or derived trait. Now, how can we leverage this to actually
+study evolutionary relationships? The fact this only works for the derived traits in identifying
+which are most closely related. So this leads to what's referred to as
+the parsimony method for tree-building. Basically what we're gonna do is
+we're gonna compare the traits to what we believe the ancestor would
+have had in terms of the trait. Now typically speaking the ancestor
+not usually still around, we don't usually get to look at them. So what people do in practice is they look
+at what's referred to as an out group. So, for example let's say you were
+looking at phylogeny of insects. Let's say these were
+all different insects. The out group you might use might be for
+example, a spider. So something that's similar but clearly
+not an insect and so it's just outside. Using the spider, and looking at all these
+insects, you would then try to identify which forms for each trait are ancestral,
+or basically have been around since that common ancestor and might, for
+example, be present in spiders as well. Or if they're derived,
+a trait that has risen within the evolutionary history of
+insects that you're trying to study. So what you're gonna do then is
+we're going to construct a tree using the minimum number of changes
+from the ancestral form to derived form. Right the minimum number of possible
+changes, you'll be using for actually looking at relationships, you'll be using
+what we refer to as shared derived traits. The technical term for
+this is synapomorphies, but don't worry about that. You're looking for shared derived traits. In this tree right here,
+the ancestral trait is black, right? Black body color. The derived trait is red. So, which individuals
+share the derived trait? The derived trait is red, the individuals
+that share it are Taxon C and Taxon D. So the assumption here is
+that the simplest tree is correct in terms of
+these derived characters. I'm looking specifically at those. So that places C and
+D as being close relatives. This tree also uses the minimum number
+of changes because it only requires one change. So what would have happened instead? So we have A-B-C-D-E-F and
+you see there's the common ancestor. What would happen if instead C was more
+closely related to F, for example? Well, let's take a look at what
+that tree would have to look like. Well there it is. Now C is most closely related to F,
+D is more closely related to E. I just changed the tree around. This in contrast to the proceeding
+one requires two changes, right? We have to have a mutation from
+the ancestral form of black to red, in the lineage leading to C. And mutation from black to red
+in the lineage leading to D. This requires two mutations now. Why is that? What if the mutation was way
+back over here somewhere. Well with mutation, what happened way
+back here, E and F would also be red. But instead we just have D and C being
+red, so this now requires two mutations. So this is clearly not
+the most parsimonious tree. Now I won't say this tree is not possible. We don't necessarily know
+the simplest answers always correct. But it's not the simplest possible tree. Now the important thing
+to keep in mind here is all of this is showing the fact that C and D have the shared derived character is
+that they are more closely related. It actually says nothing about
+the rest of the evolutionary tree. So what about A, B, E and F? Well, we can move them someplace else. Now I put E and F over here,
+and A and B over here. This is actually just as parsimonious
+as the first tree I showed you. So all you're able to infer from
+looking at all this is C and D are close relatives and you don't know the
+relative relationships of A, B, E and F. So ultimately, making a tree using the
+parsimony method requires that you have to use multiple characters. Or if you are using, say, DNA sequence you'll use multiple
+nucleotide positions within a DNA sequence to place all the species you're
+studying onto the tree, okay. Cuz you can only look at those
+shared derived characters. So let's do an example. So this is a pretty straightforward
+example where we have an out group species, right, and we have its set
+of characters for a particular trait. We're going to use the out
+group species to infer which form of each trait is ancestral or
+derived, okay. We have four species, let's go ahead and
+draw a tree, based on what we've got here. We already know that the out
+group is more distantly related, that is just defined as such. When we look at these different traits, what do we see in terms of these
+shared derived characters? That is the most important thing we are
+looking for, shared derived characters. For trait number four, the derived
+character is only found in species A. So it's not shared. It's not a shared derived character, it's just a derived character
+found in species A. That's actually not useful for
+phylogenic inference at all. Let's draw a line through that. We'll actually come back to that in
+just a second, but it's not useful for phylogenic inference. Trait number three, what do we see? The derived character is two legs,
+cuz the ancestral form might be four. And we see is that all
+four species share that. That's actually not particularly useful
+either for phylogenic inference. So we might say right here there's
+a transition in trait three, from having four legs to two legs. We don't actually know it's right there, could be the link is going
+to the out group too. But just for ease of argument,
+let's just put it right there. So that doesn't really
+help us a whole lot. What about trait two? Well here, the out group has four arms. Species D also has four arms but
+these three have two arms. So we have a derived form, two arms, and
+we have it shared by species A, B and C. So given it's shared by A, B and C that would infer that D
+is more distantly related. It does not share the derived character. We have a transition point right here for trait two, going from four arms
+to two arms in taxon A, B, and C. For the last one here, our out group has four eyes, species D has
+four eyes, and species B has four eyes. But A and C share the derived character. So in that case we can say
+B comes out over here. And A and C are the closest relatives. So we can place in here that extra
+transition for trait one right there. So this shows all the transitions so. Here's the point in time right there
+on the evolutionary tree where trait one transitions from
+four eyes to two eyes. Here's where trait two transitioned
+from four arms to two arms. Here's where trait three from
+four legs to two legs, possibly. It could be on this other branch. And then,
+I mentioned trait four over here. We can go ahead and place it on there. That would be right there. It doesn't particularly help
+evolutionary inference, but we can place it on
+the tree nonetheless. So, what would happen
+if we add a character that doesn't agree with
+the other characters. Hm. Well here's trait five. When we look at this we have the out
+group having no wings and A and D share the derived form. A and D were not sister
+species as you saw before. Let's look at the possible
+alternative trees here and let's place all the characters on there
+and see how many transitions it takes. The left version of this has
+the derived version of trait five arising only a single time. Here it is, trait five arises once and
+it clusters in A and B. Or I'm sorry, A and D, I said that wrong. So what does this do to the other things? Well, because of this if we assume
+that this one is right and the others are wrong, then traits one and two have to
+have arisen twice somewhere in the tree. It can't have just arisen once, because if we assume trait five is
+correctly reflecting evolutionary history, then traits one and
+two have to have arisen twice. In contrast, the tree on the right
+assumes that first tree that we saw, and this is assuming that
+trait five arose twice. So here's trait five once, and
+here's trait five a second time, and that's what makes A and
+D similar to each other in that context. But here we have traits one, two, three,
+and four all arising only a single time. So, how many changes do
+each of these require? Let me clear all these circles so
+you can see a little bit better. Well over here we have one,
+two, three, four, five, six, seven changes, right,
+to make this evolutionary tree. In contrast, this one over here
+requires only six changes. So which of these is more parsimonious? The answer is the one on
+the right is slightly more parsimonious because it only involves
+six changes, rather than seven changes. Now the way I did this, there are other
+ways you could actually make the same tree if you have changes going, for
+example, to one form and then back. But no matter how you do it, this tree
+is slightly more parsimonious because there's no way to make the trees that
+would involve fewer than six changes. So let me give one for you to try. Here's one for you to try. This now, I've changed a little bit so now this involves DNA sequences instead of
+wings or no wings, four legs or two legs. But the principle is exactly the same. Now you might be slightly panicked. What!
+How do I do this? So let me break it down for you. First thing you do is you just
+look at what are the sites that are variable, right? Well these are the sites that are variable
+on the tree, or on the sequence. So we have traits, this is equivalent
+to the same trait one, two, three, four, and five. So that's pretty straight forward and what
+you do is you're comparing the out group to the four species and you're seeing
+which of them share the derived form. And then from that I want you
+to make an evolutionary tree, so why don't you pause the video for
+just a second. Try to construct a tree and
+then I'll give you three choices and then I want you to do the in video
+quiz to try each of the three choices. See which choice it is. Okay, so go ahead and stop the video for
+a second and construct a tree. Hopefully you've all ready stopped
+the video, I'll go ahead and show you the three choices now and then you have to vote which of
+the choices it is in the in video quiz. Here are the three possible choices. I hope that wasn't too difficult. So, again, what are we trying to do? We're looking at the shared derived forms. So, I've highlighted here the derived
+forms for each of these things. And as you can see, trait two is not
+useful because the out group has C. Everybody else has C except for species B. So this does not have a shared derived
+form so we can just ignore this one. For the others, trait five is also not
+particularly useful because all it has is the out group difference from
+the three non-out group species. So,we don't really need this either. The ones that are more useful
+are traits one, three and four. So who shares the derived forms? Well for trait one, A and
+D share the derived form so we can draw something that clusters A and
+D, right. For trait four, again A and
+D show the derived form so again A and D. So if we're mark on the tree,
+this is where trait one changes and this is also where trait four changes. And then what happens with trait three? Well that clusters B and C together. So this would be the evolutionary
+tree that we'd expect. That B and C are clustered
+together by trait three, A and D are clustered together by traits one and
+four. And theoretically if we were to put the
+other things on there, this is where trait five would have transitioned or
+potentially the out group lineage. Right before trait,
+right before species B, you'd have the trait two one if
+you were to place it all on there. Essentially B and C are sisters,
+A and D are sisters. The question to ask is,
+is the answer right? Well, the real answer
+is that we don't know. Parsimony doesn't always result in a tree that accurately reflects what
+happened over evolutionary history. Because you can have similarity in some
+traits that doesn't reflect ancestry, but reflects a convergence, that you had
+two mutations that happened to go to A at the same site,
+that made them become more similar. That's often referred to as convergence, and those traits are often
+referred to as homo plastic. You basically can't have these shared
+derived traits evolving more than once, and it's something that
+there's no way around. Now, the way people have tried to address
+this is to use various model-based methods, such as maximum likelihood
+methods or basing methods, and those often do better, but
+they're still not always correct. They're not 100% correct, and different
+genes may give you different trees. The next video will talk about
+an application of phylogenetic trees for testing evolutionary hypotheses. Under the assumption that
+your tree is correct, or at least very likely to be correct. Thank you. I hope you enjoyed this video.

@@ -1,0 +1,112 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In this set of videos we've been
+talking about evolutionary trees, also referred to as phylogenetic trees. In the first video we talked about
+reading trees, and interpreting them. In the second video we talked
+about constructing them. In this video, I'd like to do is
+I'd like to talk about one use for evolutionary trees, and specifically using
+the phylogenetic comparative method. Now in the first video, you might remember
+I did talk about a couple of uses for trees and certainly there's
+a general usefulness for them for trying to categorize life and understand
+the history of life on the planet. But I want to talk briefly about
+using this information for testing evolutionary hypotheses. There are a lot of evolutionary
+hypotheses out there that can be tested. I just wanted to present to you a couple
+that have been out there for a long time. These are three broad patterns that
+have been described since the 1800s. They must have been applied
+to warm blooded animals. They all have specific names, but I don't
+want to burden you with too many names. One is that typically speaking, in colder climates animals tend
+to have a larger body size. Another is that in colder climates
+animals tend to have shorter appendages. By appendages I mean things like arms,
+legs, but even things like ears. So this is an example right here. Notice how small the ears are on the polar
+bear relative to the grizzly bear, so they seem to fit that second rule. And last but not least,
+animals tend to have, in general, a lighter color in dryer climates. Now, these are tendencies that are out
+there and people have seen them. But how do you test whether these rules
+are general and whether they actually have some sort of underlying cause,
+whether they're meaningful in a sense. Well, the most basic thing people would
+do is look for multiple examples, right? That if you tend to see a lot of animals
+have short appendages in cold climates, you'd say oh okay, this fits the pattern. And you see many animals have
+long appendages in warm climates, again, fits the pattern. So you'd have a seemingly general pattern. And you would have some potential
+underlying cause that you're interpreting, in this case, to be climate,
+and temperature in the climate. But there's a problem. And that problem is
+the problem of independence. So let me give you a simple example. Let's say you have two groups of people. One group that exercises, and
+I have them here in blue. And one group that does not exercise,
+and I have them here in red. So that would be equivalent
+to temperature, for example, in the previous thing. And you sample a lot of individuals,
+and look at that. There's all of the blue individuals,
+they tend to be kind of tall. There's the red individuals,
+they're not quite as tall, so there appears to be a pattern there,
+right? Well, the issue is,
+are those two things independent? But what if all your
+exercisers are relatives? Hm.
+Well then you don't really know, are all of these blue exercising
+individuals tall because they're exercising, or is it that they just happen to have
+a tall allele at a particular gene? And that these individuals happen to have
+the short allele at a particular gene or a set of genes. Then basically we can't separate out
+this relationship, this historical familial relationship from the fact that
+whether they exercise or don't exercise. Well this illustrates
+the problem of independence. Now what happens here is
+you have a pattern, but this pattern may be an artificial pattern
+because the groups are relatives. And basically the differences you're
+observing between these groups may have nothing to do with the treatment. The treatment in this
+case could be exercise. It could be cold or dry climate. But you can't really tell if all
+these individuals here are short because they experienced lack of exercise
+or a particular kind of climate, and these individuals are tall because
+you have this confounding variable. You have this extra facet in
+that these are all relatives, these are all relatives here. This is sometimes referred
+to as pseudoreplication. When you have sampling multiple
+individuals that differ in a particular treatment, but in fact
+they're not independent of each other. What could've happened theoretically is
+that there is a genetic predisposition to being short and
+a genetic predisposition to being tall. And say for example there was
+a transition here to becoming short. There could be just one
+evolutionary transition. In this case, the real sample size is one. Your number of what are referred
+to as phylogenetically independent contrast, is one. Because there's only one
+transition between blue and red, when you look at this branching thing. And we don't know whether it was
+a transition from blue to red, or from red to blue, but
+all you need is one transition. Now, in contrast though, notice here we have four short red
+individuals, two tall blue individuals. In this case we have exactly
+the same number of individuals, but we don't have this confounding
+aspect of relationships because we have a single family
+that has both blue and red. We have a single family
+here that has blue and red. We have a single family
+here that has blue and red. What is the minimum number of
+transitions it would take to get this? Well it would take at minimum, three. Let's say hypothetically,
+let's say the ancestor was red. Then you have a transition to blue in this
+family, transition to blue in this family, transition to blue in this family. Okay, so
+in this case the real sample size or the number of phylogenetically
+independent contrasts here is three. Because that's the minimum number of
+evolutionary transitions that you have this example. And if in this case all these
+tall individuals exercise and all the short individuals don't. Then you have slightly
+more confidence in that exercise is leading to a higher height. So let me give you one for
+you guys to consider. Imagine a hypothetical scenario that
+you want to test that perhaps slugs retain more fat in high latitudes,
+potentially because they're colder, than in low latitudes. And maybe they do this for insulation. So what you've done is you've
+sampled six island slug species. Four of which are from high latitudes,
+two from low latitudes. You know their latitude,
+and their fat content. And then you've gotten DNA sequences and
+you construct an evolutionary tree using some of the methods from
+the preceding video. Let's say this is tree that you got. So the blue indicates the latitude,
+so these four are from high latitude, these are from low. The red letters indicate the fat content. So those four have high fat content. Those two have low fat content. And you have this evolutionary tree,
+this phylogenetic tree. How many independent
+contrasts do you have? So think about that for
+just a few minutes and then, you can pause the video if necessary,
+and then answer the in video quiz. Well I hope that wasn't too difficult. Looking at this and again, when you're trying to think of how many
+phylo genetically independent contrast you try to think what is the minimum
+number of changes in state? So let's say hypothetically, way back in
+time the ancestor was a high latitude and a high fat content. Well it only takes one transition
+from both those traits right there in order to get this full
+set of relationships. So in fact, for this tree you only
+have one phylogenetically independent contrast that you know of. Now this is a very important thing, and
+evolutionary biologists were a little bit slow to fully accept this until
+maybe the 1980's, where it was really brought to people's attention
+by this fellow here, Joe Felsenstien. He had a great quote in one of his papers. "Phylogenies are fundamental
+to comparative biology, there is no doing it without
+taking them into account.". Now again, when we're trying to
+make broad evolutionary inference, like those three rules from the beginning
+of the video that I presented to you, we need comparisons among groups. But in order to access our
+confidence in these comparisons, we need to know evolutionary history. We need to know how many independent
+comparisons we're looking at. So comparisons are most
+meaningful when studied in the context of their
+evolutionary history. And that's where the field of
+phylogenetics comes into play. It is very, very important for
+evolutionary studies. Well I hope this set of videos was
+helpful and I hope you had a good time. Thank so much.

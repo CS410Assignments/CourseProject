@@ -1,0 +1,274 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In the most recent videos, we've been talking about how
+you map a simple genetic trait. So a trait whose variation is caused
+by variation at a single gene. In the previous video, we talked
+about mapping a simple genetic trait using a cross, or basically a pedigree. In this video, we're going to
+take it a little bit further. We're going to look at different
+sort of genetic mapping. But let me stress the underlying
+principle of all genetic mapping, including what we'll be
+talking about in this video, is an association between
+genotypes at markers. So, having AA or
+aa at a particular marker, and the appearance of a trait or disease. Yeah, so let's look at this. Can we map diseases without
+controlled crosses or pedigrees? This is a big question. Now obviously it's not socially
+acceptable to force people to mate with others especially
+ones who may have diseases. So if you wanted to map
+the genetic basis of say, predisposition to some sort of cancer. You can't find, well here's a cancer
+person, here's somebody who's a carrier, let's make them have kids. Things like that,
+that obviously would never fly. And you also can't always find
+enough subjects who happen to have bred in an informative way. All right,
+you can't find these individuals who, you can't find tons of people who
+have a particular kind of cancer and happen to have kids with somebody who was
+a carrier for the same sort of thing. So is there another route? The answer is yes. What we can do is we can leverage
+population data over time. Now, on average, this is a just broad, off
+the cuff average, human generation times, historical average,
+is on the order of about 20 years. So when we looked at
+recombination previously, we were looking at what
+happened in one individual. So basically we were looking at a time
+frame in total of about 20 years, or one generation. One bout of myosis. One iteration of some crossing over. Now, when you're looking at genes
+that are very close together. So genes that are maybe, you know
+thousands, or even tens of thousands, or even potentially hundreds of thousands,
+there's a very, bases apart. There's a very low probability of
+having a cross over between them. There's a very low
+probability of exchange. Now, if you're looking at bases that are
+say, hundreds of thousands of bases apart, although there's a very low probability
+of exchange in one generation. If you look over the thousands
+of years of human history, there actually has been
+a lot of recombination. So just putting in a little
+bit of math to it. If the probability of
+exchange is only 0.1%, so it's very low, in one generation,
+between two say snip markers. There would actually be a 99.3%
+probability of exchange when you iterate that over 5,000 generations. You can think of that like
+flipping a coin, that, yeah your odds are 50% of getting
+heads with one coin flip. But what are your odds of getting
+heads if you flip the coin 50 times that you get at least one heads? It's very, very high. Same sort of thing happens, even when you
+have very low probabilities of exchange. Now, over human history, most neighboring genes will have
+had their alleles shuffled. And this will be true even for very close
+genes, but even sometimes within genes. You'll actually find some areas
+Inside a gene that will actually have a crossover event. So you'll have, for example,
+the father's copy, mother's copy, we'll have a crossover
+event that makes it so this end of mother's copy links up
+with this end of the father's copy. Now let me show you this with a picture. So lets imagine we're starting
+a population with four chromosomes. Lets say that going to this island,
+we have two individuals. One of them is heterozygous
+blue over red and one of them is heterozygous
+brown over purple. And this, Adam and Eve of this island,
+basically start a population and their kids have kids,
+their kids have kids, etc, etc. And they live on this island for
+many, many years. Okay, so we have these four
+chromosomes that started everything. It happens to be that the blue chromosome
+has a disease causing mutation, okay, so that's a little star
+that's under the D in the blue. Let's say we have some genetic markers,
+so we can look at genotype at marker one. See if it's blue, red, brown or purple. We can look at genotype at marker two,
+and say it's blue, red, brown or purple. And what we see is that after all these
+generations, after many generations, instead of having one crossover
+event that's happened, we have this sort of shuffled up
+chromosomes as you can see here. Depending on how many generations you may
+actually see a lot more shuffling than is depicted here. But this is sort of a moderate
+amount of shuffling there. So this might be after, say, hundreds of generations rather
+than thousands of generations. We see this sort of shuffling in here. Now, what you see, nonetheless,
+even though there's been this shuffling. We see the same principle that we saw
+before with genetic mapping and crossing. That things that are very close to
+each other tend to remain associated. Things that are farther apart
+don't have that same tendency. So when we look at D and M1, you tend to
+have the same type there, blue with blue, brown with brown, red with red,
+purple with purple, blue with blue, etc. For D and M2 we don't see the association. Here it's red with purple,
+blue with brown, brown with blue, etc. They've become dissociated from each
+other, D and M2 become dissociated. Whereas D and M1 remain associate. So, we can actually, if we could genotype
+what's going on at markers one and markers two, we can still see an association
+between genotype and phenotype. In this particular case, ones that
+have the blue allele at marker one are likely to have disease
+causing mutation as well. Now let me build on this
+with another facet. Recombination, or actually crossing over,
+is not homogenous. When you look at a very, very fine scale. So far,
+we've been looking at whole chromosomes. And we see one crossover event in
+one generation, sometimes two, things like that. But if you look at a very, very fine
+scale and over very long periods of time, we see these crossovers don't
+just happen completely randomly. There are a couple of spots across
+the chromosome that they tend to happen. These are referred to as
+hotspots of recombination. You find them every few
+thousand bases in humans, and the rest of the genome basically has
+a recombination fraction or rf of zero. That you essentially don't see
+recombination in these different areas. So looking at this, this is a stretch
+of genes across one human chromosome. And this shows you
+the recombination fraction. These peaks in recombination
+are crossover hot spots. So you see, for example, there's a crossover hot spot
+here between DMB and PSMB9. So, you might expect, over a very
+long time, this is a place where a crossover may happen, and
+DMB can become dissociated from PSMB9. In contrast, PSMB9 and TAP1,
+they're both very close to each other and there's no recombination hotspot. So even over a very long time, it seems like these two
+are likely to be stuck together. They're in the same window
+between these two peaks. You can think of these peaks
+as defining a boundary. And in here, in this window part,
+you essentially have, recombination of 0. But here in these peaks,
+you do have recombination. So this can become dissociated from this,
+but this cannot become dissociated from that. So what are the implications of this? And I'll show you an application of this,
+so it'll make a little bit more
+sense in just a moment. We have shuffling occurring between these
+windows every few thousand base pairs. Let me emphasize, when I'm saying
+this shuffling is occurring, I don't mean every generation it happens. I just mean there is some chance that, over thousands of generations
+you can have this shuffling. You can have a crossover event
+happen at one of these hotspots. Potentially once or a few times every
+couple of thousand generations. But in contrast to that, we have some
+areas where no shuffling is occurring and those are the areas within the windows. The areas between
+the recombination hotspots. There's basically no recombination, or you can say that they are in linkage
+disequilibrium, is often refered to as LD. They're in linkage disequilibrium. Essentially the alleles
+at one are stuck with the alleles they started
+with at the other one. Now, some of these windows
+are going to contain genes that have alleles causing disease. What we can do is we can leverage
+these recombination hotspots and windows between them to find
+the disease causing gene. Let me illustrate this with an example. Now, again as we said, we have these windows within which
+recombination doesn't happen. And we have recombination hotspots
+where recombination can happen. So I've depicted here this
+little lightning bolt indicates a recombination hotspot. Now I've made it so the recombination
+hotspot is only one base long. That's not actually true, but
+let's just pretend this for the second. So I'll draw a line down here and
+saying that is the site that recombination can happen, sometime over
+the course of thousands of generations. Now within these windows here, so
+between recombination hotspots. Maybe there's another one over here. Within these windows you
+won't have recombination. So what you'll see is that will
+tend to be an association between the genotypes at these SNPs. So let's look at, for example SNP1,
+the C is associated with G, the T is associated with C,
+C with G, C with G, T with C, etc. So, you see that there's
+a strong association there within one of these windows. Now, let's look between windows. So, let's take SNP3 and SNP4. So, this is in one window. This is in a different window. A is with G. This case, G is with G. This case, A is with G. A is with C. G is with C. So, we see that, over the course of time,
+the alleles in this window, have become dissociated from
+the alleles in this window. However, within the windows, these different SNPs stay
+very strongly associated. Then in this particular case,
+we have one causing a disease. Now, let's focus on that and let's
+pretend we didn't look at all these SNPs. Let's just look at a couple of them. Make it a little bit simpler here. What we see looking at this is that, if you're looking at it for
+an association between genotype and phenotype, which is what we're always
+trying to do with genetic mapping. We see here that this individual would
+have the disease because it has this A mutation. We don't actually know this A mutation
+cuz we're not looking at it we're only looking at the snips. But G's tend to have the disease mutation. C's do not. This G actually is okay. This G has the disease mutation. C is not.
+C is not. So we see that, on average, if you have a
+G, you're more likely to have the disease. If you have a C,
+you're very unlikely to have the disease. So there is an association here
+between the genotype at SNP2 and whether you have the disease. And that's because SNP2 is linked
+to the mutation causing it. Now let's try the same thing with SNP5. In this case an individual
+with T has the disease. This individual with T does not. T does not, A has the disease,
+A does not, A does not. There's no particular association
+between the genotype at SNP5 and whether you have the disease. And the reason for
+that is because when you're looking, even over the course of many generations, SNP5 has become dissociated from
+the disease-causing mutation, okay? So, our prediction again is that,
+like with all gene mapping, the disease gene mapping is
+associating the genotype. And this is looking at the marker,
+in this case the SNPs at one location. With the phenotype, which is the disease. And we again, we don't know the SNP or
+the mutation causing the disease or trying to figure out where it is. If a marker is very close to
+the disease-causing gene. Then individuals having one allele at
+that marker will be more likely to have the disease than individuals
+having a different allele. Essentially, the marker will be in LD or in linkage disequilibrium
+with the disease gene. And this does not mean,
+I want to emphasize that, this does not mean that the marker gene or
+SNP causes the disease. So that the answer to this
+would be a very resounding no. This is a common misconception. People say that, oh look,
+that's associated with the disease and therefore it causes it. No, it just means it's in linkage
+disequilibrium with the alleles causing. So let's give you
+an example to try this out. Let's say that you were trying
+to map Irritable Bowel Syndrome. And you're sampling a population for
+alleles of two markers, and you're looking at
+incidence of this disease. Now, just to make things
+a little bit simpler, we're just gonna forget the heterozygotes. We'll just go with AA and aa, okay? So, AA individuals, you look at 100
+individuals, and 20 of them have IBS. aa, you have 200 individuals and
+40 have IBS. Is there an association between
+genotype and phenotype? Well you might say, yes. Because look,
+a lot more of these have IBS. On the other hand,
+you sampled more individuals. Let's look at what
+actually is going on here. In this case, out of 100 individuals,
+20 have IBS, so your probability of having IBS in
+this case would be 20/100 = 0.2. For aa, you have 40/200 so again your probability of having the disease is 0.2,
+20%. So, there really is no association
+between the genotype at SNP 1 and the disease, so we just cross this out. What about SNP 2? Well here we are, 50 individuals, 45 have
+IBS or 250 individuals, 15 have IBS. Well, let's look at this then. In this case, we have 45/50 for
+big b, for BB. For bb, you have 15/250. That's a huge difference, [LAUGH],
+you can do the math there, that's a huge difference
+between those two types. So in this case, we can say that your genotype at SNP 2 is
+associated with Irritable Bowel Syndrome. This does not mean that SNP 2 causes it, it just means that SNP 2 is probably
+closely linked to a gene that causes it. It could be, it could be that SNP
+2 actually does cause it, but it's improbable you would have
+happened to have just found that. So I won't rule it out, but in this case,
+SNP 2 is associated with it. SNP 2 must be near the disease
+causing mutation or, possibly but unlikely, it could be it. Now, you may be thinking,
+the genome's a big place. There's over 3 billion
+bases in the human genome. And if there's a hotspot, as I mentioned
+before, every about 3,000 base pairs, how many markers would you need
+to study to find disease genes? Well, basically,
+how many windows are there? So there's 3 billion bases total,
+there's a hotspot every 3,000 base pairs, how many markers do you need to find? Well, the answer's pretty simple. Basically you just divide this by that. So essentially,
+you need about a million markers. You need about a million markers to sample
+the whole genome to try to find disease causing genes, given these,
+given these windows. Now that may sound very difficult,
+but technology helps. In fact, this is really not a problem at
+all now, thanks to recent innovations. We have microarray chips that can
+actually tell us the genotype of over a million markers at
+once just from your spit. This is what some of the companies
+I mentioned a while back, like 23andMe do when you send them
+that little tube of your spit. They basically are genotyping you for over
+a million markers, and they'll do this for you at a fairly low cost. And they can tell you from that, your
+susceptibility to many mapped diseases. They are basically using published
+data on those diseases and they're mapping them Now,
+I'll give you an example to try. I give you here 1000 people,
+950 of them are healthy and 50 of them have cystic fibrosis. You're trying to map if there's a gene
+associated with any of these markers that may be causing cystic fibrosis. So I want you to go ahead and try it out and do the same sort
+of thing that we just did. And see are any of these markers,
+possibly more than one of them, associated with the gene
+contributing to cystic fibrosis? Well, hopefully that
+wasn't too challenging. Let's give it a shot. See where is the strongest association
+between gene and template. And normally you want to do
+some statistics with this. We're gonna skip the statistical facets, we just wanna see where you
+see the strongest association. Now, in looking at this,
+let me just do two of them. I'll do one negative, and
+then I'll do the right answer. So this first one. You're looking at, let's say for example, 600 of these 1000 people have the big
+AA allele, 400 of them have aa. Among the ones with AA,
+28 have cystic fibrosis. So you just pull out your calculator and what fraction of AA individuals
+have cystic fibrosis? 28 divided by 600. And that would be 4.6%. So what about for little a little a? Well, we've got 22 divided by 400 and that is 5.5%. So maybe there's a little hint
+of an association, maybe not. That could just be random. Again, we're not gonna
+worry about the statistics. I just want you to look for
+where is the strongest association. You also get Marker 3. There, we have 45 out of 100. So, 100 have CC, 900 have cc. Again, we've just pretended
+there are no heterozygotes. So, for
+the first one it's 45 divided by 100. Well, I can do that one in my head. That would be 45%. Okay?
+So, if your big C big C, your odds of having
+Cystic Fibrosis is 45%. What about little c, little c? Well, it'd be five divided by nine, oops. Five divided by 900, that would be 0.5. Well that's a huge difference! 0.5%, 45%. There's basically a 90 times
+higher chance in Cystic Fibrosis if you're a CC than if you're a cc. So clearly in this case there's
+a very strong association of Marker C with cystic fibrosis. So what does this mean? The CC genotype at Marker 3
+causes cystic fibrosis right? Wrong. It is not the case. It is linked to variation causing. Now one question we wonder is why do some
+people with cc still have cystic fibrosis? And in fact,
+why doesn't everybody who is CC have it? Well there's many answers to this, and this comes back to the italicized
+word in our video title, right? I said we were mapping
+very simple genetic trees. But simple is sometimes
+somewhat unrealistic. So you can have environmental effects. A lot of diseases have multiple
+genes contributing to them. And we'll talk about, as we go into
+some of the subsequent videos, some of these confounding
+factors that make it so a lot of the mapping is not as
+simple as I've made it to seem here. But sometimes you are lucky. Sometimes there are traits or, with
+allelic variation that is very strong. Now, let me conclude this video
+with just a quick re-cap. Now, this is showing you the distinctions
+between association mapping in a population, like we just did. And a cross pedigree mapping as
+we have done in previous videos. And with a cross,
+you're mapping in known families. So you're taking individuals that,
+for example, are carriers. And seeing what happens when they
+have kids with individuals that have the disease, or
+maybe carrier with carrier. Your resolution,
+just to give you some idea how precisely you can localize
+these genes causing disease. This is just a ballpark. This is not a, you're looking at a
+resolution of about 2 million base pairs. You've narrowed it down from the whole
+genome to about 2 million base pairs. It's better than nothing. In this you have, for crosses you
+have one generation of recombination. You're looking at just one
+bout of crossing over. And importantly,
+this actually works fairly well, even if the mutation is rare
+in the overall population. So that is actually a plus. With populations, you're actually,
+rather than mapping in known families, you're mapping across a population, right? You're just taking a bunch
+of of unrelated individuals, they just all happen to be in the same
+species and the same population. The resolution here is much better. Rather than 2 million base pairs your
+resolution here is about 3,000 base pairs. Because it's about those windows
+between recombination class. Importantly the reason that you have so
+much high precision here is because here you're leveraging many
+generations of recombination. Whereas in the cross your leveraging
+one generation of recombination. So your precision is higher because you
+have a lot of many more recurring of events to happen, therefore you can
+more precisely localize what's going on. You know the down side to this one
+is that this doesn't tend to work if the mutation causes a disease. It's very rare in
+the population you're seeing. Now one question people often ask is, what is the recombinationary between
+the two sides of the hotspot? They think it's something like ten cM,
+or 10% of recombination. No, let me emphasize. For reference, the recombination fraction across a hotspot in one generation
+is probably less than 0.01 cM. This is why you have to look across many,
+many, many generations of recombination
+to see any effect from them. Well I hope this was helpful. Thank you for joining us.

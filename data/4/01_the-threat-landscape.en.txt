@@ -1,0 +1,190 @@
+[MUSIC] Hi, welcome back to Cybersecurity for
+Everybody. I'm Dr. Charles Harry. In our last video, we tried to demystify
+what we mean by cybersecurity. And in this video,
+I want to start to define what we mean or what we would term by
+the threat landscape. And so specifically, the question that
+I want to talk about in this video is, when we talk about cyber
+as a security problem, what is it that we're
+actually talking about? Let's kind of drill
+into this a little bit. So we call this the threat landscape. And it's really about trying to
+put cybersecurity in context. And what we mean by that is that there
+are a variety of different options or concepts that we need
+to address if we want to get a better handle on
+cybersecurity as a problem set. So that might include
+things like the Internet, hackers, tactics, effects, and
+something we call the attack surface. The Internet might include
+things like the protocols and physical structures to move information
+from one point of the earth to the next. It might include the motivations and
+skill levels of hackers. Not all hackers are of equal skill,
+so we need to talk about that and some of the important differences
+between those various groups. We need to talk about what
+we actually mean by hacking. What are the tactics, what
+are the processes that hackers have to use in order to compromise information or
+to create a disruption? We need to talk about
+the effects they can achieve. Are we only talking about
+data that's compromised? Are we talking about the ability for
+hackers to turn off, let's say, the power in a particular
+area of the world? We need talk about that and
+how to classify that. And then, finally, we need to talk
+about the broader, what we would call, attack surface. The interplay between physical and human systems that create the areas of
+opportunity for hackers to exploit. This is what we would call
+the threat landscape. So let's talk about at a very high level,
+the first one of these, the Internet. So what are the topics that we need
+to discuss in order to get a better handle on basically the field of play for
+hackers and defenders? Well, this would include,
+of course, devices, your laptops, your phones, but
+it also includes even some of the sensors, things like your Alexa devices or
+your Google Home smart devices. But it also includes things
+like physical infrastructure. It includes things like fiber optic
+networks, it includes microwave networks, it includes routers and switches. How do we actually understand
+the security vulnerabilities associated with the physical devices? So we're going to have to talk about that. It also includes logical structures,
+the instructions, the way in which information
+is actually routed. How do we actually make determinations
+that information should go to this particular network
+instead of another? So we need to talk about that. It also includes things like applications. So cybersecurity's not
+simply about the networks, it's not simply about the hardware itself,
+but it's also very specifically
+about the applications we use. And then, finally,
+we need to talk about governance. What are the rules of the road? Is this pure anarchy and everyone kind
+of makes up the rules as they go? Are nation states the ones that
+are actually responsible for writing those rules, or
+is it something different? So we'll talk about that. So when it comes to hacking,
+though, the hacking is done by specific individuals, or
+by organizations of individuals. And we oftentimes use the term hackers. Sometimes we use the term threat actors,
+and we'll talk about that in more
+depth in a different video. But the important thing
+to remember here is that hackers have different motivations
+as well as skill levels. So in some cases, hackers may
+simply be motivated by curiosity. They're just insanely curious
+about how technology works and how to potentially prove
+that out on the Internet. But there are other types of hackers
+that may want to actually promote a specific social or political agenda. Others may actually
+have financial motives. They may want to try to steal information
+to sell on the dark web to make money. Or they may actually leverage their access in a particular bank
+to illicitly transfer funds. Or finally, the hackers may have
+political or military objectives. They may be affiliated with
+a large nation state or a small nation state who are interested
+in understanding the motives of another. And then, finally, the skill level or
+sophistication of the actors varies. Not all hackers have the same ability. Oftentimes in popular media,
+you go to a movie and you see, what? Someone sitting in their
+parent's basement who is able to take down an entire electrical grid, or they're manipulating the traffic
+signals in a large metropolitan area. It doesn't really work that way. While yes, there are some hackers and
+hacking groups that do have certain skills that allow them to engage in that
+type of highly disruptive activity, the vast majority do not. So regarding various skill levels, we need to think about
+the various skills of hobbyists, of activists, criminal organizations,
+as well as nation states. This is an important differentiator. James Clapper, who's the former director
+of National Intelligence, said, in testimony on Capitol Hill that there
+are a variety of different threats that the United States face. And these threats come from
+different hacking groups. But specifically, the thing to take away
+here is that he notes that hacking and the effects of hacking have increased
+in size, scale and severity. And we're seeing everything from highly
+disruptive attacks to exploitive attacks, defacements, attacks on point of sales
+systems used in retail organizations. Those are the things that you
+swipe your credit cards with. Denial of service attacks,
+attacks on control systems that are used to do things like manage your power and
+water systems. But there are a range of actors and
+methods of attack and targets that are all used. We see these attacks occurring in
+the commercial space as well as personal networks and government networks. We see hacktivists, advanced persistent
+threats, or what we call APTs, criminal and hobbyist groups, all alike, attacking a variety of different
+targets with different end effects. And specifically, he notes that there is
+not likely to be what is oftentimes thrown in popular culture, a cyber Armageddon. Or sometimes we use the term
+cyber Pearl Harbor. And that's probably not going to happen. There's not going to be a single event
+that takes down the entire Internet. That's something that we tend to
+hear oftentimes in the movies, but that's probably not true. So what we are more likely to see
+are several nations around the world engaging in very targeted,
+and in some cases, very sophisticated attacks,
+that can have a variety of effects. And so we, either as consumers, or
+policy analysts, or corporate executives, or part of a leadership team,
+need to have a much more nuanced and sophisticated understanding of
+what threats are out there. Who is conducting them and ways in which we might be able to
+build resilience in our systems. Both the technical systems as
+well as our human systems. And that's really one of the fundamental
+learning objectives of this entire course. So in addition to the hackers and
+the effects that they want to engineer, the threat landscape also includes
+the tactics, techniques and procedures, what we call TTPs. And these tactics can include a variety
+of different terms that maybe you've actually heard of when you've
+read a news article about a cyber event. They include things like phishing, where I'm sending you that illicit email
+with the hope that you click on a link. And when you click on that link that
+allows me as the hacker maybe to engage in some sort of nefarious activity. So that email that you get
+from the Nigerian prince isn't really from a Nigerian prince. But it can also include
+things like ransomware, where I encrypt your hard drive
+on your particular computer and I demand payment in order for
+me to send you the key that unlocks it. It might also include something that
+we call a distributed denial service, where now your computer or your web
+application server is that much slower or doesn't work all together. It can include other terms like privilege
+escalation, infrastructure, virus, Trojan. It might also include malware-less
+attacks, where attackers are not actually including particular programs
+to run on the disk of your computer. They're using what we would call
+a variety of different scripts, like PowerShell and batch scripting. And then, finally, there might be
+attacks on critical infrastructure, what we would call industrial
+control systems, ICS attacks. So when we discuss threat landscape and
+what we mean by hacking and the tools and techniques, we'll talk
+about these terms in more depth. Finally, after those tactics
+by hackers have been employed, they're engineering some sort of effect. That is the goal the hacker. The hacker is not simply interested
+in moving around your network. The hacker actually wants to
+achieve some sort of goal. So we need to talk about in
+a much more sophisticated way, the effects that they seek to engineer. Because there's a variety of different
+effects that they can achieve, everything from stealing information, to manipulating
+control systems, to demanding payment. And so when we in fact take a look at
+a lot of the various cyber events that are occurring, things like attacks
+against the transportation networks in San Francisco, or
+attacks on the electrical grid in Ukraine, or industrial attacks in Germany or
+Iran or in the United Arab Emirates, there are a variety of different effects. So we need to talk and understand and
+have a more sophisticated language for understanding about
+hacker-induced effects. We also need to talk about how the costs,
+the impacts, can be measured. Because oftentimes in this space,
+we use a variety of different terms and we don't have a consistent
+way of measuring severity. Because not all cyber attacks
+are frankly a public concern. Are you really concerned about
+an attack on a retail giant? Well, you might be if your
+data was compromised. But does that mean that
+the White House should be involved? Maybe, maybe not. What if your favorite local restaurant
+has its network compromised and it's taken down for two weeks? Should the White House be involved? Should the United Nations be
+concerned about that issue? Should other countries be
+concerned about that issue? Probably not. So how do we make a determination? Well, that really boils down to,
+what are the costs? How do I measure it? And how do I actually make a determination
+of whether this is a private problem or a public concern? So these effects can be certainly measured
+in a variety of different way, and they can be categorized in
+a variety of different ways. And a lot of individuals, the technologists who are charged with
+actually protecting these networks, need to actually be thinking about
+the end effects that are of most concern. In a fairly recent SANS survey,
+going back to 2017, what we see here is that
+the respondents in this particular case ranked order the effects that
+they're most concerned about. So it's not that they're just
+concerned about hackers and hacking, they're actually
+concerned about very specific effects that can be
+engineered against their network. And this very simple chart references
+a variety of different effects that they have often seen. So in some cases, they noticed that most
+effects are in fact quite a nuisance, they're much more of a nuisance
+rather than a real impact. But they are concerned
+about system damage. They are concerned about other
+types of data being compromised, so understanding effects is critical. And then, finally, we have to be
+worried about the attack surface. Because our individual networks,
+our organizational networks, and our government networks
+are interdependent and complex. It is a mix of business and personal
+devices working together with a variety of different services,
+many of which are globally distributed. How do we protect all of that? How do we protect the data in transit? How do we protect the data that's resident
+in any one of those data repositories? And whose laws actually matter? Whose laws carry weight? If I'm sitting in the state of
+Maryland using a service that is hosted in Texas and
+there's a compromise to that particular business's network in Texas,
+whose laws apply? State of Maryland, state of Texas? What if they're different? What if they have different thresholds for
+what needs to be reported? Does that matter? Let's make it more complicated. What if that business operates in Ireland? Do they need to follow Irish law,
+US law, Texas law, Maryland law? So the Internet is a story of complexity,
+interdependence is globally distributed. Are your defenses optimized? And so these are some of the fundamental
+questions we need to address in this course. And then, finally, we have to
+attribute the attacks to individuals. Attribution, or the ability to identify
+who is actually responsible for the hacking activity,
+is really complicated. They use proxy infrastructure, the ability
+to use other devices to make it look like it's coming from somewhere else. So if the hacker is operating in Houston,
+Texas, they're actually rerouting all their
+communications through Romania. They use cutout identities, or the ability
+to use fake IDs, fake individual names, addresses, phone numbers,
+it makes it more complicated. And so law enforcement has a really
+difficult time trying to understand not only the tools that are being
+used to conduct the hack but also from where to hide. So in this video, what we've covered
+is trying to not simply demystify what we mean by cybersecurity, but start to
+define the broader threat landscape. The Internet and how information
+traverse is, the threat actors and motivations, the tools and
+tradecraft that hackers use. We take a look at the effects
+that they achieve. And finally, the broader attack surface. In future videos, we'll delve deeply
+into each one of these areas. I hope to see you next time.

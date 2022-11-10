@@ -1,0 +1,162 @@
+Okay then, well let's consider the
+systems within the central nervous system that organize our visceral motor output.
+So first speaking very broadly, and then we'll begin to look at each division in
+terms of structure-function relations. So beginning up in the forebrain.
+We will talk about higher brain centers that are principally in the ventral and
+medial aspects of the forebrain, those parts of the brain that we associate with
+the limbic system. Or, as you'll hear me talk later, I
+prefer the term limbic forebrain, rather than limbic system, because there's
+really not one system associated with this set of structures, but probably
+multiple systems that have different kinds of functions.
+Nevertheless, these structures form a limbus, or rim, around the corpus
+callosum in the diencephalon, and extending into the medial parts of the
+temporal lobe. Well, with respect to visceral motor
+control, the relevant aspects of the limbic forebrain are the cingulate gyrus,
+the orbital and medial division of the prefrontal cortex, and the amygdala.
+So these structures are telencephalic. They integrate a tremendous amount of
+information coming from just about every source that one can think of.
+And the result of this integration is some sort of governance of the output of
+our visceral motor system. Among other possible consequences of
+integration in the limbic forebrain. Well one key structure that mediates the
+effect of these telencephalic structures on our motor elements in the brain stem
+of the spinal cord is the hypothalamus. And working closely with the
+hypothalamus, are networks of neurons in the reticular formation of the brain
+stem. So, these together we might call higher
+brain centers interact with our lower motor neuronal pools, that ultimately
+convey the signals out to the vector structures in the viscera.
+And so, the connections, then, between the higher brain centers and the lower
+motor neural pools become important. So there are, of course then, descending
+projections, that connect structures like the amygdala.
+The hypothalamus, the reticular formation with circuits of lower motor neurons,
+more closely associated with the relevant cranial nerve nuclei and the neurons that
+exit the spinal cord interact with our ganglionic neurons that govern
+sympathetic and parasympathetic overflow via the spinal cord.
+So, indeed, we're going to want to roughly localize these descending
+projections, but primarily focus on the distribution of our preganglionic and
+ganglionic neurons, when we talk about the visceral motor outflow.
+So one point of emphasis in your study will be to understand.
+How the organization of the sympathetic and parasympathetic divisions differ not
+only functionally but also anatomically. Well let's begin to look at that and
+consider just very broadly the distribution of elements that convey the
+outflow from the central nervous system to the viscera.
+So this is a figure from the textbook that I know is small, and it may be hard
+to appreciate in this view. but I'll try to highlight just a few
+features here for you that might, might make it more obvious to you what the
+points are that I want you to take from this.
+And you'll probably find some versions of this information in various sources that
+are more readily accessible to you. Well, lemme just state that, while we're
+looking at the impact of visceral motor outflow on a variety of effector systems,
+I, by no means, intend for you to learn or commit to memory each single action on
+each of the end organs that are illustrated here.
+what's more important to me is that you understand the basic functional
+distinctions between the sympathetic and parasympathetic divisions, and that you
+know something about the organization from an anatomical perspective,
+especially how preganglionic neurons connect to ganglionic neurons.
+Okay, well let, let's step through this. And highlight a few salient features
+here. So let's begin on the right side of this
+figure. And on the right side we have a depiction
+of the sympathetic division of the nervous system.
+and what I want you to recognize is that to get from the spinal cord to the
+viscera there is a two-neuron chain. The first neuron is distributed in the
+thoracic levels of the spinal cord. And so we see these representations of
+these neurons, here in a column of cells that we call the intermediolateral cell
+column. This is where we find the neuron that
+connects the central nervous system to the neuron that ultimately supplies the
+viscera. So, because it's a two-neuron chain, this
+neuron that we find in the thoracic spinal cord, we call a preganglionic
+neuron. So this preganglionic neuron sends an
+axon a short distance. Out through the ventral route to the
+spinal chord. And it connects to a ganglion.
+Now this term ganglion, as I think you now appreciate, is a word that we use to
+describe a collection of cell bodies outside the central nervous system.
+we'll talk. As we have already about the basal
+ganglia as being really an exceptional use of this term ganglia.
+so putting basal ganglia aside, the usual use of the term ganglia is to refer to
+these collections of neurons that sit outside the central nerovus system.
+Typically associated with a nerve. A nerve route, in this case, a chain of
+ganglia that run alongside the spinal cord just outside the vertebral bodies.
+So, we have this chain of elements that run alongside the spinal cord just
+outside the vertebral body. And it is within these ganglia that we
+have the cell bodies of the neurons that actually then go and project out to our
+end organ. Okay.
+So for example, let's look at the function of the sympathetic division with
+respect to the heart. Well, what happens when there's
+activation of these preganglionic neurons and the postganglionic elements is that
+the beating of the heart accelerates, and the contraction, or the contractility, of
+the left ventricle increases, thereby increasing the cardiac output.
+So the sympathetic system is associated with supplying a greater volume of blood
+to the body for those times when it is especially in need of extra energy in the
+form of oxygen and glucose. We'll spend a little bit of time talking
+about the governance of the bladder in the third part of this tutorial, so I
+won't say anymore about that now. Okay, so here's the important take home
+message that I want you to understand about the sympathetic division.
+it is a two-neuron chain. So two neurons from CNS to the peripheral
+organ, and the sympathetic division is preparing the body for action.
+So it's involved in mobilizing the resources of, of the body.
+And if one were to look across this entire set of effects that we see here on
+the right side of this figure. We could understand how the body is
+getting ready for action in various ways. Now lets have a, little bit of a closer
+look at this relationship of preganglionic to postganglionic neuron,
+in the sympathetic division of the visceral motor system.
+So, here's a bit of a closer look, now, at the thoracic spinal cord.
+And if we look in the thoracic spinal cord, I hope you'll recall that there's a
+distinctive feature of the grey matter of the thoracic spinal cord, that we find on
+the lateral aspect of that grey matter. In fact we call this feature the Lateral
+horn, which is one way that, if you're looking at cross sections of the spinal
+cord, you know you're in the thoracic region.
+If you see that distinctive lateral horn. So, this lateral horn is present because
+there is a column of neurons. And that column of neurons is called the
+intermediolateral cell column, and we find it right here.
+And these are the preganglionic neurons that send their axons out from the spinal
+cord, to supply the ganglionic neurons, which in turn innervate the viscera.
+So here's a look at this organization. So again we have the lateral horn of the
+spinal cord, we have a cell body that grows an axon that exits through a
+ventral root, and it's now entering the spinal nerve.
+But it exits that spinal nerve to join the sympathetic trunk.
+And we call this little branch here the white communicating ramus.
+white because, these axons are, well myelinated.
+And once these axons enter the sympathetic trunk they may make a
+synapse, with a ganglion at the same level of that spinal nerve.
+some of these axons will actually run some distance to reach more distant
+ganglia. Some might run right through the
+ganglion, in order to reach a more distant target.
+there are some ganglia that are not right along the sides of the vertebral bodies,
+but are set in a more interior location. At a somewhat greater distance, these are
+called prevertebral ganglia. So, those tend to be more common in the
+lower part of the viscera in the abdominal cavity.
+Well, okay. So these preganglionic axons then
+interact with a postganglionic neuron or a ganglionic neuron.
+That we find here in one of these, collections of cell bodies.
+And these ganglionic neurons then give rise to an axon that leaves the
+sympathetic trunk, joins up again with the spinal nerve, and then goes out to
+supply some visceral target. Now we call this little branch that
+reconnects the ganglion to the spinal nerve, a gray communicating ramus,
+because these axons, for the most part are unmyelinated or only very poorly
+myelinated. So they don't have quite the same
+glistening appearance as does the white communicating ramus.
+Well, just a word about the neurochemistry here.
+so, the transmitters of the ganglionic neurons and the preganglionic neurons
+are, are quite rich. And, and quite diverse.
+In fact, there are probably multiple neurotransmitters being released at these
+synaptic connections. Nevertheless, there, there are some
+dominant transmitters that you should know about.
+The neurotransmitter of the preganglionic neuron, and, this was actually
+highlighted in the previous slide here. So, the neurotransmitter of the
+preganglionic neuron. That connects the lateral horn of the
+thoracic core to the sympathetic truck, trunk, is the neurotransmitter
+acetylcholine. Now the neurotransmitter of the
+postganglionic neuron, that is the neuron that connects the ganglion itself to the
+end target here. this neuron is releasing the
+neurotransmitter norepinephrine. So, the modifier that we use to describe
+that is noradrenergic. And, as we'll come to see, these
+neurotransmitters interact with adrenergic receptors, the alpha and the
+beta receptors for norepinephrine. Where as the acetylcholine neurons, they
+interact with a variety of muscarinic acetylcholine receptors.
+And all of these neurotransmitter receptors in our visceral motor system
+are of the G protein coupled seven-transmembrane receptor family.
+So as you will recall, these are the receptors that mediate a broad diversity
+of post synaptic effects depending upon the second messenger systems that are
+activated by those G proteins. So these effects tend to be a little bit
+slower to develop than would be the case in our fast ionotropic receptors.
+but as I mentioned, the diversity effects can, can be quite remarkable, and in some
+cases quite long lasting.

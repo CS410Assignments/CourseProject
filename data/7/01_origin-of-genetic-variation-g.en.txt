@@ -1,0 +1,155 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. So far we've studied the inheritance
+of very simple genetic traits. Traits whose variation is caused by
+maybe two alleles at a single locus. And we've looked at how
+to map that genetic grid. What I'd like to do now is get into
+some slightly more complicated path. Let's look at how traits really are. Most traits are not, most variation in
+most traits is not usually caused by a variation at a single
+gene with two alleles. So we'll first talk about mutations
+as the source of genetic mutation. And then we'll go into what the genetic
+basis is of normal traits and what are some complications rather than
+the overly simple model we used so far. So, let's get started. You go back somewhere between three and
+a half and four billion years ago, we had what we
+believed to be the first origin of life. And we don't know exactly
+what that life looked like or exactly the conditions were, but we can
+imagine that maybe there was something along the lines of single haploid genome. I say haploid, I mean having one copy of
+the genome, in a single primitive cell. Now genome there is
+probably an exaggeration. It probably wasn't anything
+nearly as complicated as most of the genomes you see today. But it would have been some small piece. Now the question I'd like to pose to you
+is what would you, what would have to be true for you to define this thing as
+alive, this original cell as alive. How would you decide it was
+alive rather than inanimate? Well the most likely answer people would
+say is it replicates, it reproduces. That it makes another copy of itself so
+this one makes these two other daughters, and what it makes will
+be dictated by its gene. Now let's imagine hypothetically that
+the genetic code that was found in that original cell never, ever changed over the
+three and a half billion years of time. What would life look
+like on the planet today? The answer is if it never changed,
+and if its genetic code is dictating what it can make,
+basically life would look like this today. There'd be a lot of copies of that simple, haploid genome inside cells
+all around the planet. That's obviously not what we see today. So there obviously has been
+introduction of some sort of new variation into the diversity
+we see on the planet today. Now where does this variation come from? Well this is the theme for
+today's lecture. Where does this variation come from? What is the source of these
+changes in the genetic code? Well, the answer is mutations. Mutations are often defined in
+textbooks as a changed DNA sequence. But very importantly, I'd like to
+emphasize they are the ultimate source of all genetic variation on the planet. Because again, if we have a single origin
+of life, which we do assume, single origin of life, common ancestry of all existing
+life, then all the diversity we see has to come from iterations of mutation from
+that original self-replicating form, okay. So, what is a mutation or
+what is a mutant? I mean you hear this word often,
+both in common parlance and in the movies, things like that. Well, a mutant may be what you call your
+brother when he's being very annoying. Get off me you mutant! I heard that many times. Those of you who are fans of science
+fiction, a mutant in the comic world is an individual who possesses a genetic
+trait called an X-gene that allows them to naturally develop
+superhuman powers and abilities. So this is, there's a picture
+here form the comic X-Men. You may have seen the movies from that. Probably not the definition we'll be
+using here in this class, as you'd guess. You make think of a mutant as someone who has an extreme
+disfiguration such as extra fingers. So, this individual right
+here has polydactyly. So if you count,
+they actually have six fingers. This actually something that does come up. This is a mutation that
+does crop up periodically. It's a little harsh to refer to the person
+as a mutant because they have this. It is a mutation which arises. Now honestly, there's a little bit
+of truth to all those definitions. Though less so for
+obviously the X-Men version. [LAUGH] But again, the ultimate
+source of all variation is mutation. It is any sort of change
+in the genetic code, okay. So you can think of it this way, that
+mutations happen and they happen a lot. They happen far more
+frequently than you may guess, and you'll see in a subsequent video,
+we'll talk about mutation rates. Now one of the most common types that
+we'll focus on for this, is an error replication or a meiosis that leads to
+a change in a base or a nucleotide. So imagine you have this stretch
+of sequence in a mom, okay? And let's say the mom is
+homozygous with this. So she has two copies of this stretch
+of sequence that starts with ATG. Now let's say, in one of her eggs that
+makes the kid, there was this base change, going from A to G. So this is actually what's in the kid. The kid then has a mutation. He or she has a nucleotide variant that
+was not found in either of the parents. So that is by definition a mutation. Now importantly,
+let me emphasize what a mutation is not. So mutations do not happen
+when you need them, right? They don't happen preferentially
+when you need them. You can imagine something like, oh it'd
+really be great to have six fingers. [SOUND] No, no, no. That doesn't happen at all. They are random with respect to need,
+okay? Now many mutations are bad. In fact, probably, you could argue
+that most mutations even are bad. Or at the very least, a large fraction. Why is that the case? If you think about it,
+our genetic code is not completely, but largely fairly streamlined. So if you introduce a random change,
+it's likely to be something that's bad. It could be something,
+but doesn't really matter. But it's likely to be
+something that's bad. The analogy I often like to use is
+imagine that you have a car, right. And this car has come together
+over a very long period of time. And you take a hammer from way across
+the room and throw it towards the car. What are the odds, that hammer will
+make the car better in some way? Probably not zero, but it's extremely low. In contrast, what are the odds
+the hammer will either do nothing, or nothing substantive, or
+it will actually be bad for the car? Probably pretty high. So, on average, we tend to assume that most mutations
+are either bad, or they don't matter. I used one example here of
+one that doesn't matter. Maybe you're familiar here
+with the triplet code. So again, genes tend to code for protein. They have a triplet code
+associated with it. And very often, that third base in the code does not
+change which protein's produced. So, if you have as part of this code,
+AAA versus AAG, you would actually put the same
+amino acid into that protein. There would actually be no
+change in the final protein. So again, most mutations tend to fall
+into one of these two categories, either the bad or the don't matter. Now rarely, but it does happen,
+a mutation may be good, advantageous. Now again, it doesn't arise when you need
+it, but it may just happen to be good. And it may not necessarily even be
+good at the time when it first arises. But it might end up being something that
+is useful in a subsequent generation. So thinking about that, let's imagine
+that a mutation has happened, and then you vary it down so
+it exists in the population. So here's our first generation. Everybody has the same sequence, okay? And we have this one mutation like
+the one we talked about previously which has arisen in one egg cell. Now as you'll notice, we now have the birth of a SNP,
+a single nucleotide polymorphism. Because here all the sequences
+were exactly the same. But here we have one site
+which is polymorphic. It has two different variants there. Now let me ask you a question. Is it more important that this
+transmitted meiotically or mitotically? Remember we talked about meiosis and
+mitosis way back an the beginning. Well the answer is definitely
+meiotic because let's say for example, this new mutation starts
+in this part of your hand, it spreads to the rest of your hand, it
+never gonna get passed down to offspring. It's much more important that it
+gets transmitted meiotically so that it gets onto further generations and
+gets into generation two. So what happens then? What happens then is this
+new variant may be lethal, it may cause immediate
+death of the embryo. That's a possibility and
+in the previous slide, I show you one individual
+was heterozygous for it. Maybe that individual
+will tie at the age of. A couple of months in utero. It could cause some other
+sort of loss of fitness. It could be, you notice it doesn't
+immediately die, but they have extreme, gastrointestinal distress that makes it so
+they're not able to thrive as well. It's a possibility. These are definitely in the bad category,
+right? Now it could be that this mutation
+cause no change in fitness. That this mutation is just the same as the parent in terms of overall
+probability of passing on the genes. So this will be what's referred
+to as the neutral category. And finally,
+maybe it causes super fertility. Maybe it makes it that this person
+is extremely attractive, or that when they do mate with an individual,
+they're much more likely to fertilize. This would definitely be a good category. This would much more be like
+X-men version category. So, let's follow what happens after that. So again,
+we left off last time with generation two. Here's this new mutation. Well It may spread, it may get lost. It's possible that this individual
+would leave no offspring. Let's imagine this, the case when I said
+this individual died at a very young age. Or could just die for a random reason. Maybe this individual gets hit
+by a car at the age of ten. It could happen that this
+just never gets transmitted. That's one possibility. But, let's assume it does get transmitted. Well then some individuals will get it. This individual gets it here, this
+individual gets it here, and in this case we even start getting some homozygotes
+because this individual gets it and passes it on and has a kid with this one. So, again we have an individual
+here who's homozygous. We have a few others. This one seems to be spreading
+in this particular case. So it looks like maybe this particular
+mutation was advantageous or possibly neutral, but
+certainly not very bad. So this is a kind of thing that
+can happen with new mutations. We have this new variation. It arises. It may just get immediately
+lost because it's bad. It may get immediately
+lost if it's neutral. It may even get immediately
+lost if it's good. Let's say for example,
+this individual had super fertility. But again, got hit by a car. That could happen. But, for a lot of mutations, they will
+arise, you have the birth of a new snip. They'll be there in population for
+some time. Now, over time many rounds of this
+mutation, not just that individual one which generate a lot of
+variation in natural population. Again, as I emphasize, a lot of mutations don't necessarily have
+an effect on fertility or life span. But they may still effect a phenotype. They may still effect how
+an organism look, right? Let's say for example there's a mutation
+that's slightly lengthened your earlobe. Maybe that wouldn't effect your
+probability of having kids whatsoever passing on your genes. But, it still could get passed on,
+and in that sense, it is still neutral,
+even though it has an effect. Now, I'm gonna come back to
+this example in the next video. But I just want to introduce it. There's lots of genetic variation in
+things like, for example, human height. Now some of that of course, has to do
+with nutrition rather than genetics. But where does that variation come from? Is that actually all just
+from mutations at one gene? Well, take a look at the next video and
+see what you think. Thank you for joining.

@@ -1,0 +1,134 @@
+Now, the delayed outward current behaves
+differently. It continues to grow monotonically with
+increasing membrane potential. Now, these observations together again
+provide evidence that this transient inward current reverses near 50
+millivolts, while the delayed outward current increases steadily.
+Now, knowing something about the ions that are present in seawater, and having
+some sense of what the ionic contributions might be to the cytoplasm
+within axons, knowing something about Nernst equation.
+And then, having the ability to manipulate some of these empirical
+parameters in this experiment, allowed Hodgkin and Huxley to identify what are,
+in fact, the ions that are caring these two kinds of currents.
+What they concluded is that the early current is carried by sodium.
+Now, the Nernst equilibrium for sodium happens to be very close to plus 52
+millivolts in their experimental preparation.
+That is highly circumstantial evidence supporting this conclusion that the early
+current is carried by sodium. One way to test that hypothesis would be
+to change the solution that is bathing the neuron.
+And if you substitute the solution with one that removes all sodium, the
+prediction would be that the inward current ought to reverse to become an
+outward current. Because even though the normal
+physiological concentrations of sodium are much greater outside than they are
+compared to inside, if you artificially remove all sodium from outside the cell,
+there will be a concentration gradient favoring the efflux or the outward flux
+of sodium. And that appears to be what is recorded
+in this experiment. Then, returning back to normal
+physiological conditions, similar to what we find in sea water, the inward current
+is, once again, restored. This conclusion is further supported by
+experiments using a toxin found in nature.
+A toxin called tetrodo-toxin found in the, a puffer fish.
+And when that toxin is applied to this axon, what we find is that the transient
+inward current is blocked. All we're left with is a delayed outward
+current with the application of tetrodo-toxin.
+So, that result provides additional empirical evidence supporting the
+conclusion that the early current is carried by sodium.
+Now, additional experiments were done using a tetraethyl-ammonium ion, which is
+now known to block potassium channels. And when that ion channel blocker is
+applied to this preparation, what we find is that the delayed outward current is
+removed and all that we find is the transient inward current.
+So, this is very good evidence supporting the conclusion that the late current is
+indeed carried by potassium ions. Okay.
+Well I think we're ready to move on in our consideration of these data.
+And I want to introduce an additional concept that I think helps us come a
+little bit closer to the underlying biological mechanisms that explain the
+ionic basis of the action potential. And this concept that I want us to think
+about is conductance. Now, we're familiar with Ohm's law from
+our study of Physics, right? So, Ohm's law is V equals IR or voltage
+equals current times resistance. Well, this concept of conductance, well,
+has more of a formal expression. for our purposes, we can represent
+conductance by the lower case letter g and simply state that it's comparable to
+the inverse of resistance. So, it's possible then to rewrite Ohm's
+law in terms of current. And what we can state, then, is that
+measured current is proportional to the conductance for that permeant ion times
+the voltage. Now, this voltage term is interesting.
+This voltage term provides the driving force for the current that we can record
+that is passing through a neural membrane.
+But in order for that current to actually flow, not only must there be a driving
+force, but there also has to be some means by which that ion can pass through
+the membrane, which is to say, there needs to be conductance.
+So, I want you to appreciate using this version of Ohm's Law that current flow
+really requires two kinds of functions. There needs to be conductance greater
+than zero and there needs to be some voltage that creates a driving force
+term. And so, rather than saying that the
+voltage needs to be greater than, than 0, what we need to express is that the
+voltage must be greater or different from the Nernst equilibrium potential for the
+permeant ion. Okay.
+So, this allows us now to return to our experimental situation where we changed
+membrane potential and recorded current. But now, we get to introduce this version
+of Ohm's law that helps us understand the movement of ions in terms of the
+conductance of the membrane for the permeant ion.
+Again, what we have here is current, which can be measured experimentally.
+we know something about the membrane potential of the neuron.
+And, given the concentration gradient of the permeant ion, we know it's Nernst
+equilibrium potential. So, the driving force term then becomes
+the difference between the membrane potential at any point in time and the
+Nernst equilibrium potential for the permeant ion.
+So, what would happen then if the membrane potential is exactly the Nernst
+equilibrium potential for the permeant ion?
+Under that situation, the driving force is equal to 0 and no net current is going
+to flow. This is one way to establish
+electrochemical equilibrium for a permeant ion.
+That is, it's possible with the patchplant method to set the membrane
+potential exactly to the Nernst equilibrium potential for the ion in
+question. Well, this formulation should make it
+obvious that there is another way in which to have no net current flow for an
+ion, and that is when conductance is equal to 0.
+That is, when there's no means by which an ion can cross a membrane, there may be
+a driving force. But if there's no conductance, then the
+measured flow of that current is going to be 0.
+Okay, well, these are some theoretical ways of considering the experimental
+results obtained by Hodgkin and Huxley. And what's shown now in the lower part of
+figure 3.3 are the same data, except now the measured ionic current is expressed
+in terms of the conductance that is associated with the transient current and
+the delayed outward current. now having confidence that, that inward
+transit current is carried by sodium and the delayed current is carried by
+potassium. So, what we can now do is express these
+current fluxes in terms of conductances for sodium and potassium.
+So, let's look at these one at a time. When we look at the conductance change
+for sodium with depolarization, what we see is a very sharp and steep rise in
+sodium conductance that happens with increasing depolarization.
+So, it should be obvious then that the sodium conductance is voltage-dependent.
+But look what's going on here. Even with a sustained depolarization,
+this conductance that quickly rises well above 0, falls back towards 0, even
+though we continue to clamp the axon membrane to some value as indicated here
+in the figure. So, this tells us that this conductance
+is not only voltage-dependent, but it's also time-dependent.
+Actually, the same conclusions can be made with respect of the potassium
+conductance, but in a different way. What we see is with increasing
+depolarization, there is a growth to this potassium conductance.
+So, like the sodium conductance, [SOUND] there's evidence for voltage-dependency.
+But notice, the growth is gradual and the onset of this conductance is relatively
+slow compared to the onset of the sodium conductance.
+So, there is an element of time-dependency that we see for the
+potassium conductance. Now, that conductance does not fall back
+down sharply the way we saw for the sodium conductance, rather, the
+time-dependency is in the relatively gradual onset of this rise in potassium
+conductance that we see. So, nevertheless, both conductance are
+time-dependent. But the time-dependency seems to suggest
+that there may be different molecular mechanisms that mediate those time
+dependencies. Okay.
+Let's return now to the sodium conductance and make an additional point
+about this rapid fall in sodium conductance that we see after the rapid
+rise. So, we actually have a term for this, we
+call this inactivation. Now, as we'll see in the next tutorial,
+inactivation is not exactly the same mechanism as simply closing an ion
+channel. so, we're going to want to understand
+that point in the next tutorial. But for now, I'll just highlight the fact
+that the sodium conductance inactivates. [SOUND] And what we mean by that is this
+rapid fall and conductance that follows the rapid rise.
+Now notice, the potassium conductance does not inactivate, so there's no
+inactivation [SOUND] of the potassium conductance.
+Now, there are certain types of potassium conductance that can be found in certain
+neurons that do, in fact, inactivate much like the sodium conductance.
+But not this conductance, not in this axonal membrane from which these
+experiments are derived.

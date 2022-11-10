@@ -1,0 +1,236 @@
+Welcome to this tutorial on Upper Motor
+Neuronal Control. This topic, once again confronts the
+complexity of the brain. And we come now to consider how movement
+is controlled by the brain. Obviously a very complex topic.
+But one that we are beginning to understand with greater clarity.
+We're going to be describing circuitry in the brain that is determined by genetic
+plans, and laid down early in embryological development.
+But never the less, life experiences can have a significant impact on this
+circuitry. And this is a wonderful thing, because it
+allows us to have a flexible motor system, that can learn new skills and
+take on new challenges. And this of course is[UNKNOWN] to human
+performance, as well as to rehabilitation following impairment of motor control.
+So, this tutorial is going to be broken into several parts.
+we begin with the general overview of the motor system and the means by which upper
+motor nuerons govern lower neurons. And our focus, for the remaining portion
+of this part, will be on the primary motor cortex.
+So the learning objective for this first part is that I want you to be able to
+discuss the organization of the primary motor cortex, and its contributions to
+the control of volitional movement. I want you to be able to characterize the
+representation of the body in the primary motor cortex.
+And to compare that representation that we find in the precentral gyrus, with
+what we've already discussed in the postcenteral gyrus, which is where we
+find our primary somatic sensory cortex. And finally I want you to be able to
+think well about how movement is encoded in the primary motor cortex.
+So I want you to consider the phenomenon of population coding, as one means by
+which movement is, is governed in the cortex.
+Okay, so let me, once again, show you this schematic that lays out before us
+the organization of the motor system. And we've already talked some about our
+lower motor circuts, which includes the lower motor neurons themselves that
+ennervate skeletal muscles. But also local circut neurons that
+organize the output of these lower motor neurons.
+Those local circuts can Integrate signal reflexes.
+They can generate rythms and patterns, if their part of networks that we call
+central pattern generators. And I've already made the point to you
+that, its really these local circuits that are receiving this descending input,
+from higher centers in the brain. Although there is some access to lower
+motor neurons themselves. And that access is seemingly privileged
+for the parts of the spinal cord that govern the expression of skills,
+especially what we do with our hands and our fingers.
+But for the most part, what we're going to be concerned with today, is how upper
+motor centers interact with these lower circuits.
+That help organize the motor output of our motor neurons and the spinal chord in
+the brain stem for our cranial nerve motor nuclei.
+And what we're going to talk about is really two main stations.
+They are centers in the brain stem that provide for upper motor neuronal control,
+and centers in the motor cortex. So in this part of the tutorial, our
+focus will be here in the motor cortex. But we'll also spend some time talking
+about the brain stem, in subsequent parts.
+Now, just to help us understand really the relationship between upper and lower
+motor neurons. I'll, remind you of a phrase, a memorable
+phrase that, Charles Sherrington, great British physiologist, in the early part
+of the 20th century provided for us. He thought of these lower motor circuits
+as the final common pathway, for movement.
+So to me what this phrase, final common path, implies is that it's up to the
+lower motor circuits to actually implement the movement.
+And one thing that I'd like to share with you, is that what's really going on,
+especially at the level of motor cortex, is not micromanagement of movement, but
+rather the encoding of movement intention.
+And so this will be a theme that I hope to elaborate as we progress through this
+tutorial. So our focus again here is going to be on
+the motor cortex, and what we will discover there is really a mosaic of
+motor control areas. So this mosaic of motor control areas is
+found in the posterior part of the frontal lobe.
+So again, to re-orient you to the human brain, here's the central sulcus, so this
+then is the precentral gyrus. And the posterior part of the frontal
+lobe then would be from the central sulcus maybe anterior, including the
+precentral gyrus, and then the posterior part of our superior, our middle, and our
+inferior frontal gyri. So that's what we're talking about.
+That's what we mean by this motor cortex and that iswhere we will find it, in this
+posterior part of the frontal lobe. So these motor cortical areas are
+involved in the expression of what I like to think of as specific motor behaviors
+or skilled motor behaviors. So these are behaviors that we choose to
+perform, so there's an intentionality about it, or an aspect of will or
+volition. Also included in this motor cortex are
+areas within this broader mosaic, that are concerned with behaviors that well,
+perhaps are somewhat less volitional. And what I have in mind here, are the
+kinds of behaviors that relate to the expression of emotion.
+we can think of the extremes of fight or flight, but we can also think of the
+nuances of organizing our facial gestures and our posture in a way that
+communicates non-verbally. And perhaps somewhat unintentionally the
+status of our cognition as it pertains to our sense of well being, our sense of
+mood, our affect. So we'll see within this motor cortical
+mosaic divisions that are more concerned with the expression of emotion, than the
+expression of skilled behavior. So in addition to these motor cortical
+areas let me just say a word about these brain stem centers that we'll, we'll come
+to in a different part of this tutorial. These brain stem centers are organized
+aspects of movement, but I like to think of as setting the stage for the
+expression of skill. if you will, if we can work with this
+theatrical metaphor, the brain stem works behind the scenes.
+perhaps they're the stage managers and the theatrical production, so to speak.
+the brain stem centers are concerned with adjusting posture, with setting the gain
+of segmental reflexes. These activities are important so that we
+can express skill. Now thinking anatomically the skill that
+we expressed is often done with our distal extremities.
+Our hands and our feet. Where as the stage setting functions
+typically concern our posture, which involves our axial muscles and our
+proximal lean muscles. So one differentiation between the
+contributions of the motor cortex to movement and the brain stem.
+Have to do with the difference between the skilled behaviors that we express
+with our distal extremities, and also our oral facial structures.
+And those behaviors that set the stage for the expression of skill.
+Involving our trunk and our proximal limbs.
+And what I'm think about, primarilly, is posture.
+Now one important way to think about this differentiation between skill and
+posture, is to recall the way that the body is mapped in the ventral horn of the
+spinal cord. you will recall that there is a medial to
+lateral mapping of the body with the more proximal limb muscles mapped in columns
+of lower motor neurons, that are found near the medial part of the ventral horn.
+And the distal muscles are governed by lower motor neurons that are found at
+progressively more lateral positions, in this ventral horn.
+Now as we turn our attention to the way that upper motor neurons control these
+lower motor neurons. I would highlight that we see the same
+medial to lateral organization with respect to the white matter, that
+provides means for upper motor neurons to communicate with lower motor neurons.
+Out here in the lateral part of the spinal cord is where we find the lateral
+corticospinal tract. And this is mainly going to provide axons
+that are concerned with governing the control of these distal extremity
+muscles. So this huge input from motor cortex to
+spinal cord is primarily directed at the lateral part of the ventral horn.
+Now we also have a anterior or ventral and medial part of the white matter that
+is primarily receiving axions from the brain stem.
+So, these axons are terminating in the medial part of the ventral horn, where we
+have motor neuronal columns that are mainly concerned with posture, and
+proximal limb muscles. So, again this medial to lateral
+dichotomy is, is very important. We can associate this lateral
+corticospinal tract primarily with skill. And this medial group of axons, that
+includes components from the brain stem and a small component from the cortex, as
+mainly being concerned with posture and other elements that I'll simply call
+stage setting. And if you can remember my theatrical
+metaphore, then perhaps you will recall what is really going on here in these
+medial white matter systems. Setting the stage for the preformance of
+skill. Let's have a closer look now, at least in
+schematic form, at the way upper motor neurons relate to lower motor neurons.
+Now this is really a schematic view of the same principals that I just attempted
+to illistrate for you. notice that in the lower motor neurons,
+which are at this level. We've now schematically organized them
+into medial and lateral components. Okay?
+So we have the medial cell columns that are found in the medial part of the
+ventral horn, and then the more lateral cell columns that are found further out
+lateral. And so, that should remind you, that the
+medial columns are concerned with only axial and proximal limb muscles.
+While the lateral columns are mainly concerned with the distal limb muscles,
+through which we express skilled movement.
+Now if we look at the way, that the upper motor neurons and the cortex, and the
+brain stem relate to these columns of lower motor neurons.
+this figure is intended to emphasize the point that the upper motor neurons in
+cerebral cortex, are mainly concerned with the lower motor neurons in the
+lateral part of the ventral horn. And I want you to notice that in this
+figure, the anatomical relationship across the midline of the body.
+So the upper motor neurons on one side, let's call this the left side.
+Are going to govern the movements expressed via the contralateral side of
+the spinal cord. In this case, it would be the right side.
+And so that implies that there must be a pathway that crosses the midline.
+So we are going to spend a fair amount of time talking about this pathway.
+And this pathway is in fact that lateral corticospinal tract that I've mentioned
+just a moment ago. Okay?
+So, the lateral components of our open motor neuron or pathways in the spinal
+cord relate to the lateral part of the ventral horn, which is concerned with
+skill. Now, let's talk about the upper motor
+neurons of the brain stem. So, these neurons are sending axons down
+through the white matter of the spinal cord, but mainly in this anterior and
+medial part of the white matter of the spinal cord.
+And these axons govern the output of the circuits that we find in the medial part
+of the ventral horn, that are mainly concerned with axial and proximal limb
+muscles. And with respect to sightedness, I want
+you to know that this input is distributed to both sides of the spinal
+cord. There are some exceptions where the
+inputs are primarily to one side or the other.
+But for the most part we can generalize and say that our brain stem pathways give
+rise to bilateral projections, to the medial part of the ventral horn.
+In contrast to the inputs from the motor cortex, which are primarily directed
+across the midline to the counter lateral side of the spinal cord, and specifically
+to the lateral part of that ventral horn. So what I've tried to outline for you
+here is this concept of parallel path ways.
+So we've talked about this quite a bit in our sensory systems and now we encounter
+it in the motor systems. Where there are descending inputs from
+different grey matter structures ,that are running in parallel and targeting
+different parts of our lower motor circuitry that we find in the spinal
+cord. Now, there's an even larger dimension of
+parallel pathway for motor control. So here in this slide we have
+illustration of how our upper motor neurons in the cortex and the brain stem
+collaborate, in order to express those movements that arise from our volition.
+And so we have again these lateral components that are mainly derived from
+the cortex. And they're concerned with the fine
+control, or the skilled behavior that we express with our distil extremities.
+And then there're medial components, that are arising primarilly in the brain stem
+and they're concerned with adjusting posture.
+As well as governing the more proximal limb muscles, that are necessary in order
+to express behavior with the distal extremities.
+Now, there are lateral and medial pathways.
+The lateral pathways are primarily associated with a major projection from
+the cortex to the spinal cord that we call the lateral corticospinal tract.
+And this is a collection of axons that, as it runs through the brain stem, and
+specifically in the medulla, forms a structure that we call the medullary
+pyramid. So for this reason, we call this pathway
+the pyramidal pathway. [SOUND].
+Sometimes we speak of a pyramidal motor system, what we have in mind is the
+connection between the motor cortex, and the spinal cord that runs through the
+medullary pyramid. So the pyramidal motor system is a kind
+of short hand, to refer to this aspect of volitional motor control that links the
+cortex with the lower motor circuits of the spinal cord.
+Now there's another term I'd like to introduce, and that's corticobulbar.
+this is a bit of an odd term, I know. but what it refers to, are projections
+from the cortex to the brain stem. This term "bulbar" often is used to refer
+to the brain stem. perhaps because of the way that the pons
+gives the brain stem the appearance of a, of a bulb, perhaps.
+but never the less, the point here is that cortical bulbar is to be contrasted
+with corticospinal. Corticospinal obviously refers to
+projections from the cortex to the spinal cord.
+Cortical bulbar refers to projections for the cortex to the brain stem.
+And for some authors, it means specifically the projections to the
+cranial nerve nuclei, that are expressing motor behavior.
+So those would be our somatic motor nuclei and our branchial motor nuclei.
+There are massive projections from the cortex to the brain stems that are not so
+much concerned with the providing upper motor neural control.
+We'll talk about those separately when we consider the cerebellum.
+So in the subsequent part of this tutorial, I'd like to spend just a little
+bit of time illustrating for you an emotional motor system.
+So what I have in mind here, are projections that are coming from what we
+call the limbic centers in the fore brain, which are primarily in this
+ventral medial fore brain. and some other structures including
+including the hypothalamus and the amygdala that provide descending
+projections. Now I'm going to stretch the medial and
+lateral concept just a bit. But I think it's possible to apply the
+same concept of lateral and medial descending pathways that we see very
+clearly in the control of voluntary movement, to the organization of
+emotional expression. So what we see in our lateral pathways,
+are pathways that allow for the expression of specific emotional
+behaviors. And what I might have in mind here as
+examples, would be motor behaviors that characteristically define a particular
+emotion be it a facial expression for example, or a posture.
+meanwhile, there are medial pathways that set the stage.
+They're concerned with setting the game, for example.
+modulating the threshold that which we express that specific emotional behavior.
+Be it our tendancy to laugh, to cry, or to become angry, and to express that
+emotion within the muscles of the face.

@@ -1,0 +1,76 @@
+Alright, I'd like to switch gears a bit
+now and talk to you about the anatomy of the output of the cerebellum.
+And we'll consider this anatomy really in, in two steps.
+First, I'd like to talk to you about the ascending outputs from the cerebellum.
+They are ascending anatomically and that they leave the cerebellum and they enter
+the brainstem via the Superior cerebellar peduncle.
+And then they ascend in the superior direction, to encounter targets in the
+brainstem and in the motor thalamus. So, the source of these outputs are the
+Deep cerebellar nucleis, specifically the dentate nucleus and perhaps the
+interposed nuclei as well. But the dentate nucleus quantitatively is
+the largest and most significant of the sources of these ascending cerebellar
+outputs. So, recall again that we've got a bit of
+a challenge that we've got one side of the cerebrum is related to the opposite
+cerebellum. So, for the outputs of the cerebellum to
+impact these upper motor circuits, there needs to be a crossing of the midline, a
+decussation. And here's how it happens.
+The deep cerebellar nuclei in question, namely the dentate nucleus, grows an axon
+that exits the cerebellum through the Superior cerebellar peduncle.
+And some of these axons will ascend and terminate in the ventral lateral complex
+of the thalamus, the ventral lateral ventral anterior nuclear group.
+There are other axons that will terminate among upper motor neurons in the Superior
+colliculus. Probably not the same axons, but nearby
+axons. So, these ascending inputs target the
+motor thalamus and the Superior colliculus.
+There are also collaterals that will reach yet a different target, the red
+nucleus. Pardon me for writing the word red in
+blue. But the red nucleus also receives
+collaterals from these axons as they make their way through the midbrain on their
+way to the thalamus. Well, the motor thalamus then as you
+know, will send its inputs to the primary and the pre-motor cortex.
+And at this level, we believe that the error correction signals can modulate the
+output of the motor cortex. Here's an anatomical view of these
+outputs and draw your attention again to our beautiful dentate nucleus here.
+So, there are cells that sit in this dentate nucleus that grow axons that
+stream out across this beautiful Superior cerebellar peduncle, which is this big
+bundle of white matter that we see here and there.
+So, we'll call that Superior cerebellar peduncle.
+And notice that the decussation is actually outside of the cerebellum in the
+upper part of the pons near the junction of the pons and the midbrain and the
+axons branch. And terminate, some of them will in this
+red nucleus, which we find here in the midbrain.
+And then others will terminate up around in this region, the area of the ventral
+anterior ventral lateral complex of the thalamus.
+So, this decussation then allows the appropriate hemisphere of the cerebellum
+to relate back to the upper motor circuits that govern the same part of the
+body. Now, let's talk about what we might call
+the descending outputs of the cerebellum anatomically descending, not up to the
+motor thalamus, but directed towards brainstem targets.
+So, recall again that we have our deep cerebellar nuclei near the midline.
+We've got the fastigial nucleus and a bit more laterally, we have the dentate and
+the interposed nucleus. And for the decending inputs now we focus
+mainly on the connections to the reticular formation of the brainstem.
+Now, the resitidual nucleus also has some connection to the Superior colliculs but
+it's probably not as functionally significant in our brains, as is the
+larger output that's coming from the dentate nucleus.
+So we'll focus mainly on the right side of this figure to consider these
+descending outputs. So again, the major output of concern
+here is connections from the medial part of the deep nuclei of the cerebellum to
+the reticular formation of the brainstem. And the reticular formation, as you know,
+gave rise to projections down to lower motor neurons in the medial part of the
+ventral horn of the spinal cord. So, these are motor neurons that are
+going to be mainly concerned with posture and the movements of the proximal muscles
+of the limbs. Now, I mentioned in our introduction that
+the vestibular nuclei are sometimes considered deep cerebellar nuclei that
+are displaced out of the cerebellum and into the brainstem.
+And here's why. The vestibular nuclei receive input
+directly from purkinje cells of the vestibular cerebellum.
+And these nuclei then, are in a position that's somewhat similar to these deep
+nuclei. Although in this figure, we chose to put
+them outside of the cerebellum as they actually fall anatomically, right along
+side the reticular formation neurons. So, these vestibular nuclei then give
+rise to their own spinal projections, where they helped to maintain balance
+under conditions. In which there has been some kind of
+acceleration of the head, often associated with a disturbance of postural
+control. Well, when you come back for Part 3,
+we'll talk about functions and dysfunctions of the cerebellum.

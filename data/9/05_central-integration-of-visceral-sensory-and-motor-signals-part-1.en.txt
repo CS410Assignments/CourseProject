@@ -1,0 +1,165 @@
+So here again in a view of the
+intermediate grey matter of the Sacral cord we find the location of these
+neurons. Now as I mentioned in broader view, what
+these neurons actually do is they exit the spinal cord through the ventral
+roots. They bypass our Paravertebral Sympathetic
+trunk. And rather they make their way to ganglia
+that are associated with the viscera. And that's where we find our synapse with
+our post-ganglionic neuron. And the post-ganglionic neuron then
+supplies, the visceral tissue, whatever that target organ happens to be.
+Now, before we move on and consider more central aspects of visceral motor
+integration, I want to suggest, make a couple of, of points of emphasis here.
+Now, I want you to understand that, there's always coordination of activity,
+in our sympathetic outflow and our parasympathetic outflow.
+Yes, they do represent, rather, extreme ends of a continuum of function, but that
+function is a continuum, and there is tone in the outflow of each division all
+the time. So, while sometimes it's helpful to
+emphasize, for example, that our sympathetic division is about fight or
+flight, or the mobilization of resources for action, I want you to understand that
+that's not the only circumstance in which there is outflow from our sympathetic
+division. And likewise.
+For our parasympathetic division sometimes we consider this to be a
+division that is restoring resources in times of resting and digesting.
+And it's perfectly fine to use those kinds of monikers as a way of
+understanding the principle actions of these divisions.
+But what I really want you to get is the idea that there is a continuum of action
+here where there's tone in each side of this visceral motor outflow.
+And, the, a couple of points that I want you to take away from this are that the
+functions are complementary, but they're coordinated.
+There's always some tonic activity in both divisions of the visceral motor
+outflow, and while it's possible to increase activation in, a wholesale
+fashion across multiple visceral organs. That is not necessarily how these
+functions are coordinated. Rather, there can be local coordination
+of sympathetic and parasympathetic outflow that can serve to coordinate the
+activity of just one organ system without necessarily engaging the entire visceral
+effector system, in an all-or-none fashion.
+Well one important context in which this ongoing coordination of parasympathetic
+and sympathetic activity is played out at the organ-specific level reflects the
+operation of reflex activity. So I want us to now begin to move into
+higher levels of processing in the central nervous system, but before we get
+there. I want you to appreciate the fact that
+there is a rich source of sensory information that is coming into the
+central nervous system, and this information is integrated at various
+levels. at one level of input, there is
+integration and an important nucleus of the brain stem that I'll talk about in a
+little bit more detail in just a moment called the nucleus of the solitary tract.
+There is also integration in the spinal cord for the viscera of the abdomen
+especially. And then there is outflow.
+From this network that's integrating these sensory signals to preganglionic
+neurons that then can engage in visceral motor response.
+So this kind of reflex activity is not unlike our segmental reflexes that
+organize the output of our alpha motor neurons.
+As we've talked about when we discuss the myotatic reflex, for example.
+So, there's sensory signals that are integrated at a very local level and that
+can influence the output of our preganglionic neurons, both
+parasympathetic and sympathetic. In this way, the activity in a visceral
+effector system. Can be regulated in a moment to moment
+basis with adjustments in the tone of our sympathetic or parasympathetic outflow,
+depending on the organ system in question.
+Well, I want to say a little bit more about, the sources of this visceral
+sensory input. So this visceral sensory input
+essentially comes, through two cranial nerves, and through collaterals of our
+anterolateral pathway. So, in this illustration, we see those
+two cranial nerves. They are the glossopharyngeal nerve,
+cranial nerve nine, and the vagus nerve, cranial nerve ten.
+So this sensory information comes via the neurons that are associated with the
+ganglia of these two cranial nerves. And their peripheral process, is very
+much like our somatic sensory elements that we've already discussed,
+mechano-sensory axons. no susceptive axons free nerve endings.
+But in the case of our visceral motor afferents, there are also specialized
+tissues in certain regions of the body that are sensitive to the chemistry of
+the blood that's flowing past the structures.
+Or the chemistry of the extra cellular fluids.
+And so there are chemoreceptors that are sensitive to changes in pH, in carbon
+dioxide, in oxygen tensions for example. So there are mechano-sensory afferents,
+there are nociceptive afferents and there are chemo-sensory afferents, all
+supplying information that is fed into the central nervous system.
+So as I mentioned, an important integrator of this incoming information,
+is this nucleus of the solitary tract. An we've already talked about, this
+nucleus when we talked about, our gustatory system.
+As you'll recall, this nucleus really has two principle divisions to it.
+There's a rostral division which is receiving this incoming special visceral
+sensory information about taste. And then there is a caudal division and
+that's the part that I want to focus on here.
+It's this caudal division that's receiving this input from these cranial
+nerves and from collaterals of our anterolateral system.
+So this nucleus of the solitary tract, then, is really a key center that
+integrates incoming visceral sensory signals.
+So just to give you a view in a brain stem cross section.
+This nucleus is really quite distinct. It's found in the upper part of the
+medulla. And we recognize it.
+As something that looks sort of like a bull's eye.
+there is a dark milinated spot right in the middle of the nucleus, so that spot,
+that is actually the axons of these afferents that are entering this nucleus
+and its dark because these afferents are well milinated.
+And the gray matter of the nucleus of the solitary tract surrounds this tract.
+So, hence, you can understand why this is called the solitary tract.
+Because it's sort of sitting there by itself in isolation.
+And it's isolated then by the gray matter of the nucleus that surrounds the
+solitary tract. [INAUDIBLE].
+Well, that's where you would find, this nucleus.
+The upper part of the medulla. The dorsal aspect of the tegmentum.
+Now, I want to make just one other comment about visceral sensory afferents.
+And it's reflecting some fairly recent discoveries about.
+the way that visceral pain is processed in the central nervous system.
+There is now a, a well understood pathway that runs through the medial part of the
+dorsal columns of the spinal cord that conveys visceral pain information.
+Now this is In addition to the pathways that run
+through our anterolateral system. So I don't want you to hear me saying
+that this conflicts with what I just said about the anterolateral afferent
+supplying the nucleus of the solitary tract.
+Rather this is an additional pathway that was discovered in the late 80s and the
+early part of the 90s. And what we think is happening here is a
+pathway that connects especially the lower GI system.
+from the first order afferent, which would be a nociceptive element in the
+appropriate spinal root, to a set of second order neurons that are found near
+the central canal of the spinal cord. And these neurons send an axon, not to
+the anterolateral system as we might've anticipated.
+But rather up along the medial edge of the dorsal columns.
+And there they synapse with neurons in the dorsal column nuclei.
+That grow an axon that appears to enter the medial lemniscal pathway and make
+synapses on neurons in the ventral posterior complex that project not up to
+the postcentral gyrus, but rather into the insular cortex where representation
+of. Visceral sensory information, seems to be
+elaborated at the level of the cerebral cortex.
+Well, this pathway is worth mentioning because it highlights an important
+clinical phenomenon that I should mention, and that is referred pain.
+Now, referred pain is often considered a phenomenon involving a crosstalk between
+dorsal root ganglion neurons that supply, let's say, skin tissue and dorsal root
+ganglion neurons that might supply visceral tissue.
+So, here I'll just indicate that this is maybe the lumen of the gut and there is
+some kind of a visceral sensory axon innervating that tissue.
+Well, the central processes of, of these neurons might very well converge upon the
+same cell in the dorsal horn of the spinal cord.
+So here is the, spinal cord. Let's just say this is the dorsal horn
+and somewhere in here is a second-order neuron of the anterolateral pathway.
+So one might imagine that the pain associated with this pathological process
+in the viscera might actually get referred to the more peripheral
+structure. And the fact that these patterns are so
+predictable, suggest that they actually do align with the organization of the
+body map, in the dorsal horn of the spinal cord according to the segments of
+the spinal nerves. So, illustrated here, for example, are
+visceral pain patterns associated with the esophagus, with the heart, and with
+the left ureter. So, this dorsal horn cross-talk
+hypothesis provides a reasonable framework for explaining these referred
+pain patterns. Well it has occurred to me certainly, and
+others, that this newly discovered dorsal column visceral pain pathway provides yet
+an additional possible explanation of referred pain.
+consider the gracile nucleus, for example.
+It's integrating inputs from the lower part of the body from mechano-sensory
+afferents that are more peripheral in their distribution.
+In the cutaneous surfaces, in the deeper tissues of the limbs, for example.
+But in experimental studies using known human primates, for example, we know that
+the very same gracile nucleus neurons may also respond to distension of the bowel.
+So they seem to be receiving input from visceral nociceptors, in addition to
+their mechan-osensory afferents concerning the lower extremity.
+So this might be yet another means by which some kind of crosstalk.
+might occur at the level of innervation of a distinct gray matter structure.
+So, just keep in mind referred pain doesn't necessarily have to happen via
+interactions in the dorsal horn to spinal cord, it actually might happen at
+multiple levels of our somatic sensory pathways.
+At least I think this gracile nucleus is a good candidate where some visceral pain
+might be referred to a more peripheral target.
+Well, let's get back to thinking more broadly then, about the central
+integration of visceral sensory signals, as the output of the visceral motor
+system is organized and ultimately coordinated.

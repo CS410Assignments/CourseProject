@@ -1,0 +1,201 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In the previous video we talked about the
+evolutionary advantages of recombination. In this video we're going to be looking
+at something a little bit different. We want to look at how recombination
+will affect patterns of neutral DNA sequence variation. DNA sequence variation
+that may not matter in and of itself, but it is actually impacted
+by say the spread of adapted variants. We'll look at two related concepts,
+selective sweeps and hitchhiking, in this video. We left off the last video
+by asking a question, how does recombination
+affect molecular evolution? And we showed, in the previous video
+that recombination can help combine good mutations and this is good for the
+population because you don't have to wait for two beneficial mutations to arise
+in the same genetic background. It also helps you get rid of bad
+mutations from a population. It stops this process that we
+refer to as molars ratchet which is the steady deterioration
+of fitness in a population. As you accumulate more new mutations,
+you can't get rid of them. Such that essentially you lose
+the mutation free class and the population as a whole gets worse and
+worse and worse. But again the question
+we want to ask now is, how does recombination affect
+variation in neutral sequences? Sequences that have no
+direct effect on fitness. Well the first question we have
+to ask before we ask that is, how do we quantify molecular
+variation as a whole? So we have here nine
+different sets of sequence. And these are potentially
+from different individuals. So this could be from individual one,
+two, three, four, five, etc. Well we look at this, and
+most bases are the same. So the stretch of three Ts is
+the same in all nine individuals. All right, we're assuming at this
+point that you only have one copy, we're not looking at the two
+copies that each individual have, but let's say we randomly selected
+one copy from each individual. There are three sites that are variable. There's a site variable here,
+here, and here. They're depicted in green. Is it sufficient to just to say there
+are three variable sites out of however many there are here,
+maybe about twenty or so? No, because you notice that
+they're very different. So here at this first site, we have one individual who has a G but
+everybody else has an A. So that's an example of a very
+rare variant of that site. Here we have multiple
+individuals who have a T, so a little bit less than half and
+several have an A, and here it's very close to 50/50 and
+there is four Ts and five Cs. So what we need to do is find some way
+of capturing these relative abundances in our measure of how
+much variation there is. So one commonly used metric for measuring
+the amount of molecular variation in DNA sequences, when you have sequences from
+many individuals, is referred to as pi. Okay?
+Well, pi just very simply put is
+the average number of pairwise mismatches among all
+the sequences you have. This is analogous the 2pq idea that we used back when we were originally
+studying Hardy Weinberg. It's kind of like the average
+number of predicted heterozygotes. So let's look at these three
+example sequences I have here. Between the first and second sequences,
+how many mismatches are there? Well we can look very simply,
+there is one here, one here, one here. Made it very easy by making them red? Well we have three mismatches between
+the first and second sequence. What about between the second and third? Well, those same three positions
+also differ between the second and third sequence. So there you go, we have another three. What about between the first and
+third sequence? How many mismatches are there? Well, the only variable sites,
+are the red ones. And, here they're the same. Here, they're the same. And, there they're the same. So, in fact, between the first and
+third sequence, there are 0 mismatches. Now, pi is just the average
+number of pairwise mismatches. So, we have, in this case,
+3 numbers for mismatches, 3, 3, and 0. And we had three pairwise combinations,
+so we just add these up and divide by the number of
+pairwise combinations, which in this case was three,
+we got three different comparisons. 3 + 3 = 6, 6 / 3 = 2. Now it's not very useful just to use
+this two by itself because it could be two in 10 bases, two in 100 bases, two
+in a 1000 bases, so typically when people talk about pi, they average out by
+the number of sites being investigated. In this particular case we looked
+across a stretch of 20 bases. So pi per site would be two
+divided by the number of bases, which in this case was 20. So in this case, pi would be 0.1,
+or simply put, 10%. Now pi is going to be much more affected
+the more differences you have among sequences, so this is kind of interesting
+in that if you have a very rare variance, it's not actually going to raise pi
+all that much within a population. Whereas common variation if say
+half the individuals have C, and half the individuals have T,
+you have a lot more opportunities for pairwise mismatches. So pi per site is greater when there are
+more bases differing among individuals. And pi is not as much affected
+by very rare variants. Let's apply this and see what's happening
+in terms of studying neutral sequences and spread of variation. So again, the question is, how do patterns of recombination
+affect variation in neutral sequences? Now what happens,
+although these particular sequences, or the variance that are found at
+these sequences, may be neutral. There may be an occasional
+beneficial mutation that arises. So what happens when you have
+an occasional beneficial mutation? How does that affect the neutral
+variation everywhere else? So sequences are not intrinsically
+neutral, it just happens to be the variation that's present at
+those sequences that is neutral. So let's assume a case where we
+have no recombination whatsoever, we have this variation here
+at base one is neutral. In this case now we have three Gs,
+and about six As. At base two, we again have these As and
+Ts, at base three we have Cs and Ts but we're assuming all this
+variation is neutral. None of this is affecting fitness. Now, in this base four here, and
+let's say that it's possible for there to be an adaptive
+mutation at base four. And let's say here it is. So here this G that has arisen
+by mutation is adaptive. Well if there's no recombination
+across this entire stretch, what's going to happen? Well, since this G here is adaptive,
+it's going to spread. And since there's no recombination, it's basically glued to
+this whole set of sequence. So as this G spreads, so will this C,
+so will this A, so will this A. Right, so
+let's watch what happens over time. The G starts to spread. So G now is across half the population, guess we erased all the variation
+in that half of the population. Those other three bases. As G spreads completely, we've lost
+all variation not just at the adaptive site but at these three sites that
+previously had neutral variation. Okay, notice this though, we had
+the spread of an adaptive variant and we had a loss of variation
+at these other three sites. And not only did we lose variation, but
+we specifically carried this one variant, the C, the A and the A, from those three
+sites, along with the spreading G. So what we witnessed is called hitchhiking
+associated with a selective sweep. So, a selective sweep is
+the spread of an advantageous allele through the population
+by natural selection. It's what we expected from number four. Right?
+That fourth base was the adaptive variant. And importantly, the loss of variation
+associated with the sites near it. So, it's swept out all the variation
+that was present there before. Hitchhiking is a related concept. This is the spread of nearby alleles
+along with the advantageous variant because of linkage or
+because of this lack of recombination. So in this case at SNPs one two and three
+we had the A A anc C variants that all hitchhiked along with the spread of
+that adaptive variant at base four. So the sweep there is what got
+rid of all the old variation and hitchhiking is what happened in terms
+of these particular three variants. Now this was the case when there
+was no recombination whatsoever. What would happen if we actually said
+there was lots of recombination among these sites, that they weren't all
+glued together as one variant? Let's try that. So now, this is exactly the same
+slide that we saw before. So what if there was lots of
+recombination among these sites? Well, we might initially have, this
+variant right here is going to spread. And it is in the very first generation
+it is associated with this A, A and C at bases one, two and three. So, okay, it spreads a little bit. But now there's some opportunity. Let's say for example this one
+has a kid with one of those. There's opportunity for
+some recombination to happen. So, a heterozygous individual experiences
+a cross over before making a gamete. So initially, we have this AAC associate
+with the G but we have this other bit, we have this other haplotype GTT,
+well what might happen is we might have a crossover just like
+that which essentially puts this G and C next to a T and G over there,
+producing this new gamete. You see this?
+So this is something that was not found in the parentals, right? This is a recombinant, because the G and
+C were previously together. The T and G were previously together, but this group was not previously
+with this group, because you see, one of them came from this haplotype,
+one came from that haplotype. So that get's moved into the egg. We now have a case where there's
+the G adaptive variance associated with the T and G over there,
+rather than just with the two As. Note the C there is still with
+the G because it was a lot closer. So we might have you know more spread. So what's happened in this case? This is a little bit different now. We look here at base one. There's still some variation. We look here at base two,
+there's still some variation. Base three actually has a little
+variation, but it lost a lot of it. This one little T slipped in, but mostly
+you lost a lot of the variation there. So, let's break this up. So, what happened with recombination? While the mutation at site four
+still spread, that's very important, it's not that selection stops, selection
+operated just the same as it did before. Recombination allowed SNPs one and two to
+maintain actually most of their variation, that we still have two abundant
+alleles at those two SNPs, right? So, the other alleles recombine onto the
+chromosomes baring the sweeping allele at site four. So, pi was actually not reduced in that
+left half of the picture that we just saw. SNP 3 had something that was kind
+of intermediate between the two. At SNP 3 most of
+the population got one allele. Right we had that one
+variant that spread but there was a rare one
+that there that didn't. So most of the chromosomes have the same
+allele at SNP 3 after the sweep. So there was a loss of variation at SNP
+3 but not to zero just lost some of it. And there was one particular allele that
+became very common by hitchhiking, okay? So in this case, if you go back, let
+me go back actually a couple of slides. So you go back here, looking at this. There is, if you split this in half, there is a big loss of variation
+in this side of the picture. All right. Whereas there is basically no loss of
+variation in this half of the picture. Okay? So pi is greatly reduced in the right
+half unlike the left, and we did actually have a reduction variation at SNP 3 but we
+did have hitchhiking still happen as well. So this is pretty cool, and this is
+the kind of thing that we expect happens as we have the spread of adaptive
+variants through human populations, or through populations of any species. Let me show you one hypothetical example. It's actually not hypothetical. It's a real example. This is looking at variation at
+a single nucleotide polymorphism near the EPAS1 gene. Now this affects tolerance to low oxygen. So there were some interesting studies
+looking at high-altitude Tibetan populations, and sure enough,
+what it turns out, these are very high-altitude populations. This affects tolerance to low oxygen. There's evidence for a recent sweep and
+hitchhiking in these Tibetan populations. If you look at a particular SNP, the A variance in Europe is at
+a frequency of about 0.46, right? Now there is a mutation to tolerance for
+low oxygen that arose in China. It arose on a chromosome
+that had this A allele. So in these Tibetan populations,
+we now see that A SNP frequency is 0.89. So this A SNP hitchhiked along with
+the adaptive variant at EPAS1 and it's beneficial to have this new variance. So, this is something that's often
+used a signature of natural selection. Now let me recap three principles here. First, adaptive alleles can sweep,
+that means that they spread through the population and
+they eliminate some variation nearby them. The second is that SNP and
+or marker alleles, you know SNPs are markers,
+that are near the adaptive allele. By near I mean that they
+don't recombine away from it. And not necessarily referring
+to physical distance, I'm more referring to
+combinational distance. So basically if they have zero or low recombination from the adaptive
+allele, they will tend to hitchhike, and pi will typically be reduced at
+those SNPs or in those areas. In contrast, SNPs or marker alleles that
+are far from an adaptive allele, so, in other words, that there's a lot
+of recombination between them and the active allele, they do not hitchhike,
+and pi is not typically reduced. You did not see the evidence
+of a sweep in those cases. So, this is pretty cool and there's actually exercises to demonstrate
+this if any of you are interested. This is actually one
+developed by my laboratory. This is something where you can
+essentially put this together in your lab. There's a paper on it in the journal
+Evolution Education & Outreach by Heil et al. Heil is a PhD student of mine. Essentially you start this population
+with a bunch of white eyed fruit flies. These white-eyed fruit flies are healthy. They're okay.
+They're doing fine. We introduce a red-eye allele. That's actually the wild type allele. What ends up happening is after several
+generations you see that most of the flies end up having red eyes because this
+red-eye allele is advantageous. Now this bottom part shows
+you a chromosome, so the eye color gene is on the x chromosome
+and here's the red white eye color gene. Now you can do PCR or ways of assaying
+two particular genetic markers. One of them's called near. One of them's called far. Near happens to be right
+next to the eye color gene. Far is very far away. Now let me ask you in closing here,
+what do you expect? Which of these two market alleles should
+hitchhike along with the red eye variant? And then two related questions. Do we expect pi to be
+reduced at the near region? And do we expect pi to be
+reduced at the far region? So try those out, and
+then check out the next videos. Thank you for your time.

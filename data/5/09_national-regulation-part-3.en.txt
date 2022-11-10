@@ -1,0 +1,121 @@
+So I wanted to tell you about
+insurance of corporate accounts. We have the SIPC,
+which I'll come to in a minute, which was created in response
+to failures of brokerage firms. So Goodbody & Company in 1970 was
+a brokerage firm which failed in 1970. It went bankrupt. Now what does a brokerage firm do? Well, there are members of
+that firm are stockbrokers. You have to call a stockbroker. They didn't have online
+brokerage back then. You would get on the phone. If you want to buy shares,
+you'd say, who is a good broker, and your friends would tell you,
+call so and so at Goodbody. And then you would call this person and say, I'd like to buy 100 shares
+of Ford Motor Company stock. And the guy would execute the order for you on the floor of
+the New York Stock Exchange. And then you would own the shares. Then the broker would send you a statement
+and show you how many shares you own. But the funny thing is, that the standard
+was that the shares, unless you asked for the certificates, you could say I
+want the certificates mailed to me. And then the broker would tell you,
+well, I can do that but do you really want to worry about those? I can just hold them for you. And then it's easier
+when you want to sell it. You don't have to mail them back to me and
+all that. So then most people said, okay, fine. That meant that the shares were held by
+the brokerage service on your behalf and actually, as far as the company knew,
+they didn't even know that you existed. You were now shareholder in the company. Until the brokerage service
+reports your name to the company, they're just held in
+what's called street name. So the Goodbody & Company is
+the official owner of the security although they're operating on
+your behalf as a stockholder. So what happened when
+Goodbody went bankrupt? Well, this was a big issue
+because it could threaten the public confidence in
+the whole brokerage system. So the financial community,
+Merrill Lynch, took over Goodbody. The New York Stock Exchange pledged
+30 million to cover losses. And in fact, none of Goodbody's
+retail customers lost anything. But it wasn't because of the government. It was because the financial community
+had some sense of integrity. What was happening in Goodbody,
+they weren't running the business right. And so, yeah, they held your shares,
+but they were doing something else. And they just got wiped out,
+but nobody lost. But it led them to thinking
+that we have to do something. So if Senator Ed Muskie took that example
+of Goodbody & Company to think that we need something like deposit insurance
+for shareholders in securities, if we're going to have things held in
+street name, it's just like a bank. You have to trust them that they
+really have the shares for you. So they created a public insurance. Well, it's like the FDIC,
+the Federal Deposit Insurance Corporation. The SIPC is Securities and
+Investor Protection Corporation. And like the FDIC, it has limits on
+how much they'll support you for. So the current limit is
+$500,000 per account. And also, separately, you might also have a cash account at your
+stockbroker that you would deposit in. You could write a check to your broker for
+$100,000, and say, we're going to think
+about what I'll invest it in. You hold the $100,000 for me. Well, that kind of account
+is only limited to $100,000. So there have been a lot
+of complaints about SIPC. The SIPC, over the years, has been
+very worried about its own integrity. It is on its own feet
+as a corporation that, well, it would probably be bailed
+out by the government if it failed, but [LAUGH] it disallows claims
+that aren't filed properly, claims against bad behavior
+of your stockbroker. And it doesn't cover everything. And it's also extremely slow to pay. Nonetheless, it's a positive thing. The 2008 financial crisis, a lot of our
+regulation is always a reaction to crisis. So we've talked about the 2008 crisis. So in the 2008 crisis,
+it was substantially a mortgage crisis. Banks lent to homeowners under mortgages, on their homes, to buy their home, and it became a period,
+as we've talked about, of high leverage. Banks were allowing homeowners to
+borrow a lot against their home. And banks often conceal their liabilities
+in what's called off balance sheet accounting which needed
+to be regulated more. Home appraisers were, in effect,
+bribed by mortgage lenders. Well, it wasn't a literal bribe, where they would hand you
+a suitcase full of $100 bills. It was simple, very simple. When you take out a mortgage, okay, part
+of due diligence in approving a mortgage is to find out, is that house
+really worth what you paid for it? Because you could be playing
+tricks on the broker, you might have paid too much for a house. The other side of the transaction was
+your crony is going to pocket the money. So you have a sales certificate for
+a lot of money, but it's phony. So in order to protect against that, banks have to hire someone
+to go look at the house and appraise it, give it an independent
+guess of what the house is worth. Unfortunately, some of the banks
+would tell the appraiser what the sale price was. And then the appraiser would come
+back with a value slightly above that all the time. So you'd think that the bank
+would catch onto that. You know, this guy's a sleazy appraiser. There has to be some times where he
+disagrees with the purchase price. If he's constantly coming out with
+an appraisal just a little bit above the purchase price,
+this guy is a phony, right? I mean, there has to be some instances,
+but banks didn't care. That's partly because that was
+before the 5% retention rule and a qualified residential
+mortgage regulation. So they just didn't care and,
+in fact, some brokers which were the more reliable and of higher integrity,
+who didn't play that game, they just wouldn't get called
+back by the bank anymore. The bank just wanted to see it approved. It became cynical. So there are other examples they
+give you like rating shopping. Banks who are issuing mortgages or
+other mortgage originators would call the ratings services, Moody's and
+S&P and Fitch and others. And they would say, we're thinking
+of floating this kind of security. Can you give us any indication of what
+the rating would be before we send it to you and have you officially rate it? And if the rating agency gave it on
+the phone a bad rating, they'd say, okay, I think we'll rethink that,
+we'll talk to you later. And they never called them back. That's called rating shopping. So if you have a number of raters and you
+only submit your securities to be rated to the one that told you on the phone
+they'd give it a good rating, then something's wrong. So Dodd-Frank Act created
+the Financial Stability Oversight Council, which is FSOC, which is headed by
+a number of regulatory agent heads which is supposed to look at all these problems
+that might lead to another crisis. And it also created the Bureau of
+Consumer Financial Protection, CFPB, usually, Consumer Financial
+Protection Bureau, cfpb.gov. That was Elizabeth Warren's idea,
+who is now a US Senator. Similar things happened in Europe, again,
+in response to the financial crisis. The European Systemic Risk Board, the European Banking Authority,
+European Securities Market Authority, and European Insurance and
+Occupational Pension Authority. They spread them over different cities,
+that's the European Union style. >> So how do you think they
+actually balance the innovation of financial institutions while
+also trying to risk management? >> Right, now here is a problem. The government agencies tend
+to become bureaucratic. And they assign specialized
+functions to different people, so what tends to happen is they
+have rules with numbers, and they have different kinds of vehicles with
+numbers and letters associated with them. And you come into this
+maze of rules that they themselves can't even change overnight. If you want to appeal to changing some
+basic rule that they have, they're going to have to put it up for comment,
+they're going to have 10,000 comments. It becomes hard for any individual,
+even a well-meaning regulator, to do the right thing. These are just occupational hazards. The regulators that I've met, I've been impressed, as I think many people are attracted to
+the job as a regulator. You might think,
+why would anyone want to do that? [LAUGH] Well,
+I can see why one wants to do it. Because one's interested in, let's say
+finance, if it's a financial regulator, and one is a well-meaning person. Isn't it an interesting job to be
+trying to get the system to work well? Now some people say I'm naive
+to suspect that anyone would be interested in doing that. But I kind of feel that I know
+that they are because I met these people and
+it seems like it's a good thing to do. And not everyone is
+motivated the same way. So I think that this is something
+that's not mentioned enough in finance discussions,
+that we do really have well-meaning people who are confronted with a system that
+may not always function well for them to feel good about what they're
+doing, and so they want to fix it.

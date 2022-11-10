@@ -1,0 +1,150 @@
+Well, there's a lot of interesting
+discussion these days, in the field of the neuroscience of pain, especially as it
+relates to various psychological phenomena that had been well studied in another
+context, such as the placebo effect or expectancy effects.
+It very well may be that these Affects are mediated via projections that modulate how
+this periaqueductal gray. Then mobilizes the resources of the brain
+stem. To modulate the transmission of no
+susceptive signals in the dorsal horn of the spinal cord.
+So, stay tuned. I'm sure we will learn much more about
+these mechanisms in the years to come. And now, let's turn our attention to
+feedforward modulation of nociception. And this gets us into a really fascinating
+discussion of an idea that's more than 50 years old now, and it's called the gate
+theory of pain. And the idea essentially is this.
+That somewhere in the central nervous system, there is competition between the
+signals that are being driven from our mechanoreceptor afference and those that
+are driven from our no susceptive afference.
+And this competition, potentially, can allow for a mechanoreceptor to close the
+gate on the transmission of pain signals. Well, here's one circuit that was proposed
+by Melzack and Wall about 60 years ago. That attempts to provide a way of
+understanding why we do something as simple squeeze a finger after we've hit it
+with a hammer. Well, The idea is that in addition to the
+usual projection to the dorsal columns that our mechanal receptor apharent might
+provide, perhaps there's a collateral that synapses on one of these small
+inter-neurons in the substantal gelatenosa That potentially can inhibit the
+transmission of pain information from let's say an A delta afferent synapsing
+upon a dorsal horn projection neuron. Well, if we imagint that this A beta fiber
+conveying the[UNKNOWN] sensation. Fires action potentials that converge upon
+such an interneuron. Then perhaps the effect is to suppress the
+firing of our C fiber afarrent on the dorsal horn neuron.
+And this conceptually would be a paradigm for closing the gate on pain transmission.
+So getting back to hitting your thumb with a hammer, our first impulse often is to
+squeeze that thumb that's just been struck.
+Well, I think what our impulse is driving us to do is activate mechanoreceptors, and
+that competition between nociceptors and mechanoceptors might be playing out in the
+circuitory of the dorsal horn of the cervical spinal cord as we squeeze our
+thumb, such that what we actually experience then has more to do with the
+sensations that are driven by the mechanoreceptors than those that are
+driven by the nociceptors. Well, this is a rather vague concept that
+I think still remains to be well established in the neuroanatomy in the
+neurophysiology of the circuits of the dorsal horn, but the idea itself has been
+very powerful and it's led to a number of new interventions that are aimed at
+closing the gate to paint transmission, perhaps at other levels for example, one
+surgical intervention now to address some forms of pain would be to stimulate with a
+micro-electrode the dorsal columns of the spinal cord.
+So, the idea would be that perhaps there is another gate, or maybe a series of
+gates. At higher levels of processing along our
+symatic sensory pathways. Perhaps in the thalamus, or perhaps in the
+cortex itself. And by activating mechanosensory fibers,
+perhaps the gate to the transmission of painful information can be shut.
+Well let's move on now and talk about a few remaining topics before we rack, wrap
+up and, and let's just spend a few minutes thinking together about chronic pain.
+Well chronic pain is a huge problem in societies around the world.
+It's the source of untold disability, and suffering from people from all walks of
+life. And chronic pain can usually be
+conceptualized, as either being related to some no-susceptive source or not all.
+So there is a nociceptive chronic pain that results from ongoing stimulation of
+nocicepters. You might imagine there is some ongoing
+sites of inflammation or injury to peripheral structures that continues to
+drive [unknown] activity in our nociceptors.
+Such forms of chronic pain would stimulate both our a delta and our c fibers and so
+one would expect both first and second pain sorts of signels.
+There's also a chronic pain syndrome that has largely remained somewhat of a
+amysterty to meducal neuroscience. Typically this is a syndrome of chronic
+pain when there is no known nociceptive idiology.
+Examples might include some individuals who suffer with chronic lower back pain
+perhaps fibromyalgia. That doesn't mean that there is not
+nociceptive source, it's just that to date none has been discovered when we apply
+this label of chronic pain syndrome. The actual etiology therefore remains
+poorly understood but in most cases we consider it to be not a matter of a
+psychogenic etiology. But rather just, an ideology that remains
+poorly understood in terms of the fundamental neuroscience that underlies
+the source of these signals that are interpreted as pain.
+There have been a variety of recent proposals about, where these chronic pain
+states might come from. One idea that is under investigation is
+that perhaps there's some dysregulation of those feedback descending systems that run
+through structures like the periaqueductal gray and ultimately through the brain stem
+and into the dorsal horn of the spinal cord.
+Some disregulation of the brain's intrinsic means of dampening down
+nociception, potentially could lead to sustaining a chronic pain state.
+But undoubtedly there's more to it than that and probably a lot more interesting
+neuroscience involved. Which leads us to our final topic, and
+that would be neuropathic pain. So neuropathic pain refers to pain that
+arises because there's abnormal activity in a nociceptive pathway that's unrelated
+to the presence of a nociceptive stimulus out in the peripheral structures of the
+body. Well, one can imagine at least two kinds
+of sources of this kind of abnormal activity.
+One could be if there's direct compression on a nerve and that compression can cause
+there to be a physical opening of ion channels in the membranes in that region
+of the compression. Should that be the case, one can imagine
+the development of an ectopic focus for the generation of action potentials that
+then propagate centrally and ultimately, the central nervous system interprets that
+as pain. So nerve compression can be a common
+peripheral cause of neuropathic pain. Now, if that's the case, one might expect
+there to be other accompanying sensations, and often that is the case.
+There are paresthesias, which is a term that's used to describe just unusual
+somatic sensory sensations. That don't commonly map on to the usual
+experience of encountering a mechanical stimulus.
+Well this is one common scenario where neuropathic pain can be trouble.
+But neuropathic pain can also arise through central mechanisms.
+So among the central causes of neuropathic pain Would be the sustained sensitization
+of neurons in a nociceptive pathway. We've already talked some about this
+phenomenon of windup. One can imagine if neurons in the dorsal
+horn of the spinal cord, for example, stayed in that state for an extended
+period of time then that might lead to the development of a chronic pain condition.
+Another idea about neuropathic pain is that perhaps it's a reflection of abnormal
+autonomic nervous system output, to visceral structures, including perhaps
+even the vasculature. So one idea is that maybe the sympathetic
+outflow to the viscera Is disregulated in some way.
+And then visceral sensory inputs back into the nervous system are what's driving this
+interpretation of pain. But I think perhaps the most interesting
+idea that's emerged in recent years is the notion that neuropathic pain may arise
+because of plasticity. That's become maladaptive for human
+behavior. And this maladaptive plasticity might be
+sustaining the chronic pain state. 1 prime example of such phenomena, might
+be those that are affiliated with phantom limbs.
+So, phantom limb sensations are those that are generated following a nerve injury or
+limb loss either through trauma or through surgical intervention.
+And, here before us are illustrations of what some patients have reported to be the
+sensations associated with body parts that are no longer present.
+And you can see that these sensations take a variety of forms.
+Sometimes there's nearly a complete sensation of the missing limb.
+Sometimes it's only a partial sensation of that missing limb.
+Sometimes there's this phenomenon of telescoping, such as what we find here.
+Where the more distal part of the missing limb feels like its more proximal than it
+actually would be or the limb intact. Well these sensations I think really
+capture what I started off telling you about.
+And this is that pain is a tremendously complex phenomenon.
+It involves more than just new susception. But perhaps even more signifigantly, it
+involves how those no susceptive signals become integrated into our conscious
+awareness. And that phenomenon is 1 that, I think,
+will continue to be a problem, in health care.
+But also. I think neuroscience offers wonderful
+opportunity to approach this problem through new multi disciplinary means.
+One might imagine for example, if the problem of pain really is one of in the
+forebrain. Then there may be different ways to
+intervene. That don't necessarily work through the
+peripheral channel that might have triggered the pain in the first place.
+Perhaps this is why social structures, physical exercise often can be such a
+benefit to people that are experiencing pain states.
+Well, there's much more research that needs to be done in this fascinating field
+of, of pain and pain-management. And I hope that you all might have an
+opportunity to contribute to the advancement of this field and the
+alleviation of human suffering. But in the meantime, let's apply ourselves
+well. To the studies of the mechanisms of
+nociception and to the organization of the central pathways that convey nociceptive
+signals into the nervous system and on up to the levels of the cerebral cortex.
+So, if you've not yet looked at the tutorial on the pain pathways, you might
+want to go ahead and queue that up next. So, I'll see you there, when we.
+Briefly review the pathways for pain transmission in the central nervous
+system.

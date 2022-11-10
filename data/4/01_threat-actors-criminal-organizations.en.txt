@@ -1,0 +1,121 @@
+Hi. Welcome back to
+cybersecurity for everyone. I'm Dr. Charles Harry. We've been talking a lot
+about threat actors. Remember, threat
+actors are using vulnerabilities to
+exploit and achieve an end effect against a
+particular organization and they can act either alone or as
+part of a broader collective. They leveraged their skill
+and resources to achieve a specific end effect and they're motivated
+by different things. In our last episode, we talked about hobbyists
+but in this episode, I want to turn our attention to criminal organizations.
+Who are they? They can be low-level. These criminal
+organizations could be low-level criminals
+utilizing very, very basic techniques, or they could be highly
+skilled hackers. They can also be
+highly resourced. This is a big difference between the hobbyist and
+the criminal enterprises. Some of these criminal
+organizations are incredibly well-financed. They can use both
+off-the-shelf capabilities, like what we find in Kali Linux build but they can also
+develop their own tools. They are likely to
+engage in activity that results in them earning
+some level of return. That is their
+primary motivation. We'll talk about that
+more in a second. They can act alone or as part of a broader criminal
+organization and they might actually
+have connections to government and
+security organizations. This is a real
+differentiator between hobbyists and criminal
+organizations. Some criminal enterprises act
+in somewhat of a gray zone. They have connections back to their home governments or security organizations
+and it makes it very challenging to do both the attribution and frankly to bring
+them to justice. It's for that reason that the Federal Bureau
+of Investigation spends a lot of time and resources trying to identify and apprehend criminal
+organizations and individuals. Let's talk a little bit
+more about their motives. Whilst many of us would guess, criminal organizations
+are primarily motivated to conduct cyber
+attacks for financial gain. They can use a variety
+of techniques and tactics to engage
+in online fraud, extortion, or outright theft. In fact, international
+corporate spies or criminal organizations
+conduct industrial espionage, the stealing of
+corporate secrets. What kind of tools do the
+criminal organizations potentially use to
+conduct these attacks? Well, just like
+with the hobbyists, they use Kali Linux
+in some cases, a lot of those
+off-the-shelf capabilities. Especially for things like
+conducting reconnaissance, a lot of those
+off-the-shelf capabilities are really quite useful. However, they also build their own tools
+for exploitation. Yes, they may use things that
+are fairly standardized, but they would also potentially
+utilize their own tools. They also may use their own custom tools
+and tactics for delivery. In fact, we see a lot of criminal organizations
+spending quite a bit of time and effort developing new tradecraft for achieving these
+broader end effects. What kind of attacks
+do we potentially sees criminal
+organizations conducting? No. We absolutely see criminal organizations encrypting data and
+demanding money. We call this ransomware and we've seen plenty
+of examples of that occurring all around the
+world specifically here in the United States against a lot of different
+municipal networks. We also see criminal
+organizations conducting
+denial-of-service attacks, overwhelming web servers,
+and less money is paid. We absolutely see SQL
+injection attacks being orchestrated by
+criminal organizations. We also see them
+guessing passwords, doing those brute
+force attacks as a way to gain access into
+a particular organization, and using that as a
+way to potentially move further into
+those organizations. We absolutely see the
+elicit access to point of sale systems as a way to covertly steal
+credit card numbers. These are just a
+handful of examples. There are many others, but there are a variety of
+different techniques and tactics that are leveraged by criminal organizations to
+achieve their end goals. One example is the
+Target Corporation. Back in 2013, the Target Corporation had a
+significant data compromise. Now, in this
+particular compromise, over 70 million credit card
+numbers were actually taken. The threat actor behind this particular
+compromise was able to gain access to the
+Target corporate network through a third-party vendor, actually part of their heating and air conditioning vendor. They gained access to
+point-of-sale systems across multiple stores and once they had access to those
+point-of-sale systems, covertly stole
+credit card numbers from millions of
+American consumers. They were able to
+do so because they were able to install a piece of custom software known as BlackPOS on all of
+those various devices. Over the course of many months, they were able to compromise those 70 million credit card
+numbers. Pretty impressive. Who are some of these
+criminal hacking groups? Well, cybercriminals
+are found all over the world and this is just
+a handful of examples, they include really
+colorful names like Wolf Spider and
+Skeleton Spider. One of the things you'll
+notice in this industry is, and when we talk
+about threat actors, we tend to give them
+colorful names. But the important thing is that cybercriminal organizations
+vary in skill, the tools used, the
+effects that they achieve, and the relationship with
+their home government. Not all criminal groups
+have equal skill. Bottom line is, criminal organizations are
+looking to make a profit. When we take a look at what cyber events are achieved
+by criminal organizations, they really do vary across a
+number of different sectors. Yes, we still see significant attacks going
+against professional services, those dentist office,
+and the accountants. But we also see significant
+attacks in the retail sector, a hotel and hospitality. The goal there is to
+gain access to data that they can later
+sell and make a profit, or in the case where we see
+ransomware attacks encrypting that data and demanding a
+payment before it's released. What can we take away from
+this particular episode? Well, first of all,
+criminal organizations tend to be higher
+skilled than hobbyists. They are primarily motivated
+by financial gain. They oftentimes
+use custom tools, which makes them
+very different than what we see with hobbyists. They focus on a variety
+of fraud, theft, and extortion tactics
+in order to make money. They're found all over
+the world with some being tied closely with
+their home governments. In our next episode, we're going to walk
+through a case study. We're going to talk about a particular extortion event that occurred in San Francisco. I hope to see you next time.

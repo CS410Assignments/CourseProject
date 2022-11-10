@@ -1,0 +1,148 @@
+Hello.
+Welcome back to Introduction to Genetics and Evolution. I decided to add this extra, short video
+because several people expressed that they didn't know a little bit about
+the scales organization of genetic data. Now, we talk about genes, and we talk
+about how they affect the phenotype, and we talk about how they are hereditary,
+we mentioned DNA but we never really said
+anything about how is it that the DNA sequence encoded in
+genes actually affects phenotypes. That could easily be the topic for
+an entire course. In fact it is a topic for many courses. But others introduce just some very basic
+concepts just to help you understand the context of the class that we're doing
+right now on genetics and evolution. And how is genetic information
+translated into phenotype? Now we've already talked about how DNA
+is the primary hereditary material. That is the material that is
+organizing chromosomes that is passed from parents to offspring that is
+allowing this mechanism for heredity. Now there are sections within chromosomes
+that have specific instructions and these sections are referred to as genes. This is a term that you hear all the time. Now the question that I'm
+posing to you know is what, or how does this impact the phenotype? How is it that the DNA sequence that's
+present in these different genes actually changes your hair color? Or your eye color or
+your personality or your IQ. Well a lot of this, not all it,
+a lot of this is done through protein. Now you hear the term proteins all
+the time in the context of your diet. You know, are you getting enough protein,
+this kind of food is high in protein. And in fact, proteins are vitally
+important to many many aspects of your health, well being and development. Some proteins are structural. They're basically putting you together. Some are mechanical. They're essential proteins in various,
+your muscles for example. Some of them are biochemical. The enzymes that you use for
+digesting your food for example are largely protein based. And they can even affect
+things like cell signaling. So your hormones for
+example have protein components. You know,
+the central dogma of molecular biology. This is a fundamental principle. And this is an oversimplification,
+I should stress ahead of time. But, it is nonetheless a fundamental
+principle of molecular biology, is that there are three primary
+levels of genetic information. They are also interrelated to each other. Now DNA, as we talked about, is that
+hereditary material that is passed to offspring but it also replicates itself,
+both inside your body and in the context of transmitting this
+genetic information to your offspring. So DNA replicates itself. DNA also produces RNAs. And we'll focus on one particular kind of
+RNA here, referred to as messenger RNA. Messenger RNA is an intermediate
+between DNA and protein. There are some forms of RNA that
+are directly functional but again we'll be emphasizing it
+in this video the messenger RNA. Those ones which are actually putting
+together the protein sequence. These messenger RNA's
+are translated into protein. Now, the structure and content of
+these proteins are what directly impacts your phenotype or how you look,
+how you feel, how you act. Now, proteins are actually
+composed of chains of amino acids. Again, you've probably heard the term
+amino acids in the context of things you wanna get particular
+kinds of in your diet but if you look over here on the right
+we have a string of amino acids. Now this would be part of a protein. If we zoom in on some and we see a particular amino
+acid that you've heard of. I know alanine, leucine,
+serime, et cetera. Now how is it we get from
+DNA to these proteins? Aside from having this RNA intermediate. Let's talk about each
+step just very briefly. So, the first step is DNA forming this
+RNA, specifically this messenger RNA. Well, the formation of messenger RNA from
+DNA is referred to as transcription. Now, as you may remember
+from other courses, DNA is double stranded and you have this,
+you have this complimentary pairing So for DNA to DNA you always have
+these four different types. A C G and T. These are the four different
+nucleotides of DNA. A always binds with T. C always binds with G. G always binds to C. And T always binds to A. And we see that right here. So here's DNA to DNA. A to T. A to T. T to A. C to G.
+G to C. Now when you're producing the messenger
+RNA you have the same sort of complementary relationship, except in
+this case the T is replaced with a U. So this is a uracil. So in addition to being
+a different sort of compound. A DNA is deoxyribonucleic acid. RNA is just ribonucleic acid. It doesn't have the deoxy facet to it. You see it has the same sort
+of complimentary pairing. So we have a double strand of
+DNA has been separated out and we have this RNA transcript that's
+being produced in the middle and you have this same sort of
+relationship with nucleotides. So you're essentially making
+a copy of the DNA as RNA. You know,
+the sequence here of this RNA transcript, exactly matches the one
+here at the bottom. Aside from the switch from T to U. See TACTGCC, UACUGCC. Et cetera. So this how the DNA is making
+its copy as messenger RNA. Now what happens is this RNA copy of
+the gene sequence will leave the cell, I'm sorry, leave the cell nucleus,
+it will enter the cytoplasm and that's where it directs
+the formation of these amino acid. So here this messenger RNA,
+when it comes out. has to produce these amino acid chains. The term for this translation from messenger RNA
+to amino acid chains is translation. This says we are taking this
+messenger RNA sequence and we are making it into a very
+specific string of amino acids. It's not just any amino acids but
+it's very specific. And again we have a code,
+just like the code we saw before. Now this code for translation uses
+three nucleotides at a time or three bases at a time. So this is a triplet code. So what happens, it's looking at
+the messenger RNA here at the bottom. We have an AUG. That is associated with
+one particular amino acid. ACG, this is associated with
+another amino acid, GUA, it's associated with another amino acid,
+et cetera. So it's going in this triplet code. Three nucleotides at a time. From messenger RNA to the resulting
+string of amino acides, okay. This will continue, until it gets to
+what's referred to as a stop codon. There are three diffeent stop codons,
+this is one of them. UAA. UAA is not associated with an amino acid, and it terminates the production
+of the string of amino acids. So continue adding these on until you get
+to a stop codon, and then boom, done. We have completed the process. So let me show you how you
+actually identify these. There are tables,
+these are referred to as codon tables, that show you what AUG stands for, what
+UAA stands for, in terms of amino acids. But here is a standard genetic code table. Here's AUG, as you saw before, as. That is correct, according to this table. UAA was the stock code on,
+as you saw before, as well. But you see all the different
+combinations; there's 64 different combinations. That's because it's 4 since there's
+4 nucleotides to the 3rd power cause it's a triplet code. So 4 to the 3rd is 64 and
+that's the size of this table. There's 64 possibilities here of which
+61 are associated with amino acids. 3 of them are not. There's three stop codons. They are not associated with amino
+acid but we can immediately translate. CCC will give you a Proline. An AAA in the message line will
+give you a Lysine amino acid. So we have this perfect genetic code for
+putting these things together. Now, before closing may introduce
+some areas of the genome, because I'll be using these terms occasionally and
+I want you to be familiar with them. Again, as I mentioned before, genes are these areas that have
+amino acid coding segments. Not all of the gene, however,
+codes for an amino acid. There are some segments
+of genes that don't. And one example of a segment of a gene
+that does not so is the intron. Introns are areas within genes that are
+actually spliced out of the messenger RNA. So, an RNA is produced from large segment
+of the gene, but then these intron regions just essentially get cut out of the final
+messenger RNAs that's put together. As a result of that, they do not
+affect the final amino acid sequence. [INAUDIBLE] That's a very important point. So, intron sequences do not affect
+the final amino acid sequence. The other region I'll introduce to you is
+what's referred to as intergenic regions. These are the areas that
+are found between genes. Now, just because it's not found in a
+protein coding gene does not mean it's not important. Does not mean that it
+does not have a function. In fact, a lot of these intergenic
+regions are functional. Several of them regulate how
+much messenger RNA is produced. Especially from neighboring genes but not
+exclusively and some times the intergenic regions even produce other types of
+RNAs that we've talked about here. So let me give you a fictitious example,
+these are three real genes but I've diagrammed them
+not how they truly are. So let's say there's the check two gene. Check two you may have heard of,
+because there is mutations in it that are associated with a fivefold
+greater risk of breast cancer. I have another gene
+here I refer to as NF2. Another gene here, I refer to as Sox3. I've depicted them again, fictitiously, so that they're not actually right
+next to each other, like this. So check to as I predicted
+here would have this. Also codes for a messenger RNA. And ultimately that is really
+to amino acid sequence. But maybe a segment here,
+this is the intergenic region. This segment right here
+may actually affect, depending on the DNA
+sequence that is found here, may affect how much of this check two
+messenger RNA is actually produced. So this segment is actually
+vitally important and it effects how much of is produced,
+which will then also potentially effect how much of the protein
+is ultimately produced. It does have a function, but its sequence does not affect the amino
+acid sequence of this check to protein. Nf2's expect two has large regions that
+are associated with amino acid sequence, but also has an intron. So the messenger RNA is ultimately
+produced from Nf2 in this fictitious example. But it has sequence attached
+to this sequence, but the middle part would not be present. Even though is there in the gene itself,
+it is not found in the messenger RNA. Sox10 similarly has this
+large coding segment, this protein coding segment, this protein
+coding segment but as two introns. Again, those two introns would not
+be found in the final protein. And again, both of these may have other
+sections here in the intergenic DNA that are regulating. How much of the messenger is
+produced of those two genes as well. This was a i just wanna introduce
+some of these terms to you. Code, i want you to
+understand the central DNA, makes messenger RNA, which affects
+amino acids sequence of proteins and I want you to notice that the genes these
+particular areas referred to as introns that do not affect the final
+amino acid sequence of protein. I hope that was helpful and
+I hope it was interesting. Thank you for joining.

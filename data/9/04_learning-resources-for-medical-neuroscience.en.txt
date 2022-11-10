@@ -1,0 +1,333 @@
+So let's consider our learning resources,
+and we'll start with our course website. I think the website should be
+rather intuitive for you, so I won't be labor its organization. I'll just simply note that on the
+left-hand column, you'll find the content of the course organize by weeks,
+and within each week there will be some texts that will introduce
+you to the lesson of interest. There'll be some objectives for
+you to consider. And then you have the content. And that content comes in the form
+of video lectures from myself. And I would highlight that there
+are notes files that accompany nearly every video lecture. And that note file is for
+your own use, your own annotations. Many of them are available to
+you as both a PDF document and a Microsoft Word document. And given your preference,
+you can choose to acquire one or both kinds of formats and
+interact with that however you see fit. Of course, I would just ask that you
+consider this to be fair use for your own studies and learning. It is my intellectual property that
+I'm willing to share with you, so please don't repurpose this for
+any other reason. Just use it for
+your own studies and advancement. We also have a fabulous new resource
+that I'm so excited to introduce you to. It's a website called Learn Medical
+Neuroscience that was created by a very special individual who was
+with me in the very first edition of Medical Neuroscience and has supported
+thousands of learners from all over the world since then, as a community
+teaching assistant and now a mentor. Her name is Ellen Vos, and
+I will now turn to Ellen and ask her to give you a tour
+of this wonderful website that you can access at any time to support
+your learning of medical neuroscience. >> Hello,
+students of medical neuroscience. Welcome to the course. I'm glad to meet you. My name is Ellen, Ellen Vos. And as Vos is a very common
+name in the Netherlands, where I come from,
+I've added Wisse on Coursera, so you might meet me as Ellen Vos-Wisse
+on the discussion forum. I was a student myself in 2013,
+in the first run of the course, and I've been asked to be a teaching
+assistant and mentor ever since. As a teaching assistant,
+I try to help people on the course by giving them study tips
+in discussion forum and by creating links to useful content,
+explaining or going deeper into core concepts of the course on
+the course wiki in a virtual lab. But the virtual lab was
+not easy to access. You had to log in to the course, and then log in to the course
+wiki again to get at that. So this year I decided to make a website
+supporting the learners of medical neuroscience, and that website is
+called LearnMedicalNeuroscience.nl. I want to take you on a quick tour there. We go to the homepage. We see our instructor, Professor White,
+visualizing knowledge. And that is very important, but
+it's important to do it yourself, not just look at other people's do that, because
+the learning experience is far less then. And there's also the structure of
+the website Learn Medical Neuroscience. There's the Learning Community, Virtual
+Lab, which is the core of the website, the Learning Materials,
+and the Neurological Exam. If I take you to the top, there we
+have the main menu of the website and I want to take you to
+the Learning Community. At the top you see the carousel of
+images with GetNeuro on Instagram. So if you have an image there and you give it GetNeuro then it
+appears on this carousel. I'll explain it later. The Learning Community, you can actually
+benefit by active participation. Learning medical
+neuroscience takes effort. It doesn't come easily. And learn socially on the discussion
+forum is a great help. The discussion forum, on the course home page you follow
+the arrow to course content. There is a menu at
+the left of the screen and you can see a button labeled discussion
+that takes you to the course forums. Make a habit to visit
+the forums regularly. Start a thread, and when others start
+to respond on it, go back to it and keep it alive for some time, and
+join in in other discussions as well. Going to the discussion forum is
+not at the expense of your study, but it really strengthens your study. There are the GetNeuro Challenges
+by course staff. You're invited to join
+in those challenges. And we'll go to the news page later and
+I'll show you some of the winners of the first session of 2016,
+of the first two GetNeuro Challenges. There are also Google Hangouts
+that students have the opportunity to ask questions
+directly to Professor White. They are usually very stimulating events. And the video embedded here is from a hangout later in the first session,
+the last session of medical neuroscience, so all students were advanced
+in their studies then. So don't hesitate to ask
+explanatory questions as well. In the second hangout of
+the 2016 last session, Grace from Denmark has very
+good questions on nature, nurture, and self-organization, and
+Professor White starts explaining. I had taken the course four times,
+seen the videos multiple times, but that session during that hangout
+gave me so much more insight. I really learned from that. There's also an active Facebook group
+with a lot of social interactions. It's a lot of fun, and
+I advise you to join. There are some pictures of
+neuroscience behind the scenes. Okay, let's go to the Virtual Lab. The Virtual Lab is really
+a scroll-down menu. And I want to go to the Virtual Lab
+itself, so I click the Virtual Lab. And there you see the layout
+of those Virtual Lab pages and the Neurological Exam,
+they all have a featured video on the top. They don't have the news and the additional menu on
+the right side of the screen. Our featured videos are diffusely
+connected with the course, so I'll show you one in neural signaling. That is, they have information on not only
+the unit or the place they are presented in but usually with more
+places within the course. Here is the structure of the Virtual Lab. You have the General Resources, the Unit
+Pages, and Additional Neuroscience Sites. I want to take you to
+the General Resources. If I scroll down I want to I
+click Neuroscience, 2nd edition, the first resource, and
+that takes you to the second edition of the Neuroscience textbook
+on the NCBI bookshelf. It is not easily searchable,
+it shows you the content and if you want to look into this book,
+you have to enter the key term and search this book and
+then you can get the information. I'll show you more about it later when
+we get to the summary of pathways. Closed it again, and
+then I go click the glossary that takes you to the webpage
+of the course textbook and it gives you a very good glossary which
+can be very useful in your studies. And then I want to go to Genes to
+Cognition Online, and I click the 3D brain on the right side of the screen and
+there you get the whole brain. And if you mouse over it, you see
+the different parts and you get the names. With a button on the left-hand side, you
+can rotate it and go from left to right. But I want to show you something else. I want to go to the drop-down menu,
+and I select thalamus. That really shows you the thalamus
+in its surroundings, in a way that it's situated in the forebrain,
+so it really tells you a lot more. If you go to the left side,
+you get more information, the overview of the thalamus,
+a case study, associated functions, and associated cognitive disorders
+associated with damage. So this resource is important
+in more stages in the course. It's important in neuroanatomy but
+also for the final exam. So we will find this resource
+on more places of the website. It is intended to be like that,
+it's not an oversight of me. Because people enter the website
+at very different pages and I don't want people to miss it. I close this again and
+we go to handwritten tutorials. This is the homepage of
+the handwritten tutorials. These are another resource that I like
+because they are schematic drawings of structures which
+the information is built up. That, it's drawn first, and
+then the names are given. So it can takes you step by step
+through a whole lot of information. If we go to Brainstem Anatomy
+1 Midsagittal structure, you see the video on the left. And I want to show you the complete
+picture at this moment. So I click the drawing and there you see the completed picture that
+is completed at the end of the video. And you can use that for your own study
+and to start drawing for yourself, of course. I close that now, I close brainstem
+anatomy, and I scroll back to the top. I go to Virtual Lab Unit 1, Neuroanatomy. Here I want to go to the second resource,
+The Human Brain by Anatomy Amsterdam. I click that and then I go to Cerebrum
+slices in a menu on the left-hand side. And I click the first
+of the coronal slices. In the little brain at the top left, you see that it is a brain slice
+very much anterior in the brain. Here you can put on, click on the labels. And then you see that those
+labels are a bit more Latin. It is is bulbus olfactorius
+by Professor White and the textbook talks about olfactory bulbs. So you'll have to get used to it
+if you want to use this website. I turn the labels off, and then with
+the little arrow in the button below that, I go to second, third, fourth slice, and
+I give you with the labels. A lot of these structures,
+you'll meet in the course. And by going from anterior
+to posterior in the brain, you really get some insight in
+three-dimensional structures of the brain. I think it's very useful, especially for
+the people that do not have cell views. But even if you do have cell views,
+it might a nice addition. Okay in the main menu at the left-hand
+side, I take you to the MRI. And here again, you have frontal,
+axial, and images. And you can put on the labels or not,
+and you go from one image to the next, from posterior to anterior, or
+from the middle to the side. I'll close this one. It's a very,
+very nice website so do explore. Okay, and I want to take you to lateral
+surface of the cerebral hemispheres. And I click Gross Cortical Anatomy
+by Handwritten Tutorials. I want to show you a bit of the video and
+just let you enjoy it for a bit and then we'll continue. We go to the YouTube site, and I enlarge
+it because I like to look at it bigger. >> Hi, in this video,
+I'm going to talk about the gross cortical anatomy of the brain. So we're going to be looking at
+the brain from its lateral aspect. So I'll just draw it up here. There are two ways of
+looking at the brain. One is its gross anatomy, which is just the anatomy as we see it. And the other is looking
+at it functionally, so splitting up the brain
+into its functional parts. Then we're going to look at just
+the gross anatomy, and in the next video, we'll look at the functional anatomy and
+how it relates. So here we have the central sulcus, and this is a very important
+sulcus in the brain. >> Okay, well you can watch the rest
+of the video for yourself but you get an impression of what
+this resource looks like. I want to take you to Unit 2,
+Neural Signaling. And here I want to show
+you the featured video. You can look it on the page, of course. But that's a bit small. You can go to YouTube and enlarge it. And here you see what I mean
+with connected with more units. This is neural signaling but it also tells
+you more about what goes on in the brain. So it's relevant to brain anatomy. It's also relevant to Unit 3 on sensory
+systems because there's a large collection of gray matter
+nuclei in the forebrain. The thalamus that are important for
+sensory systems. It's also important for motor systems
+because there are other collections of gray matter nuclei in the forebrain,
+the basal ganglia, that are important and that you'll need in the motor systems. And this video really sets
+your frame of mind for understanding what goes on in and
+around those nuclei. Now we're entering the brain. Look, and that's corpus
+callosum over there, wonderful. Well, we close it, and we go back
+again to learn medical neural signs. Here I want to show you a resource in
+ionic basis of the resting membrane potential. The last one and action potential. Then you go to the site of
+the neuroscience textbook. And those animations are wonderful because
+they really build up the information and go step by step. You can go through the animation
+narrated or through. I'm going to take you through though. And I want to go to slides 7. That shows you the action potential. And slide 8 shows you the action
+potential and the Membrane channels that are important in different
+phases of the action potential. If you go click further,
+you can see them opening and closing in different phases
+of the action potential. So, those are really valuable resources. You need animation from this textbook, but also from other textbooks
+from the same publisher. I'll close this one. And we go back to Unit 3, Sensory Systems. I want to draw your attention to
+a resource that was created for us by a community teaching assistant,
+Jackson. Who did it in 2014. You may bring section cards and
+bring section images for tracing tracts. I want to go to the tracing tract images,
+click that, and you can use them to make your own
+drawings and really enlarge your insert. I want to click the third one. Because that one is coming back in the
+summary of pathways we're going to later. I close that. I go to the top again. And I want to go to additional
+neuroscience sites. This is really additional information. Some TED playlists. How you again to contribute to
+neuroscience when you have to map the neuron and
+there's a neuro to see these are wonderful interviews on neuroscience like for instance episode five on grid cells and
+navigation with [INAUDIBLE] and [INAUDIBLE] who won the Nobel Price for
+their research And that interview really gives you an insight
+in what neuro sign research is about. So if you're interested in that it
+might be very nice to watch that and learn some relevant brain blocks there. Okay, I want to go to leave
+the note virtual lap and I want to go to learning materials. There you have the brain
+section images again. And here you have another in general
+learning materials medical news that you another list of resources, but they are
+not linking to resource websites Content, or explaining content, but more
+a possibility to review your knowledge, so you can practice, and
+practice, and practice again. For instance, the last one is
+the practice problem from the text book. Professor White created the possibility
+for you to create an account there and use this. There are neuroscience
+book recommendations, and [INAUDIBLE] the summary of pathways. If I click that. This is a summary I made for
+myself in 2013. And I started to share with in 2014 and
+later years. And if we scroll down. We see a lot of images. These are copyright free so
+I can share them with you. And if we go to page three we
+see the dorsal column medial. You recognize the image because
+that's from the tracing tracks images that created for us. If I go to the top. You can see where it is in
+the 5th edition of the book, and the 6th edition will be
+added later of course. And if I click the blue link, below that, it takes me to the textbook on
+the neuroscience bookshelf. If I Type figure. Insert this book. It gives me one resource where I can look,
+and if I click that, you can see image figure 9.6, which is a better Representation of the main mechanosensory
+pathways that my drawing was. So you can use it for your own studies. You can't share it with others,
+it's protected by copyright. So you can only use it for yourself. You can direct others to it like I did,
+but you can't directly share the images. If I scroll down a little bit more,
+We go to page seven. And as you see the facial pathways
+from anna to me Amsterdam. Well there a lot of more things in it and
+students find it really useful. So you can download it from my drive. There is also a summary on unit 3-4 and
+summary on unit 1-2. We go back to the top, we click the neurological
+Excel Which gives you information on neurological exam as you might have
+guessed but also the neurological cases. A wonderful site from the University of
+Utah that really gives you sort of method of learning the neurological exam and
+doing the neurological exam well. There are also the clinical
+neurology videos. They represent one of our member of our
+learning community in January 2016. Plus a resident at the neurology
+department in Madrid. And he presented to us
+in the discussion forum. It's wonderful. It's a site with 700 videos
+on neurological cases. To sell wonderful stocking material. There is a nice paragraph on dealing
+with neurological constraint. It's really inspiring to see
+people handle those constraints. If we go to Parkinson dances,
+that's really very nice. You see the pleasure people with
+Parkinson's disease can get From dance and it was really an eye opener for me to
+see how things like that were possible. The feature from unit four
+motor systems is also. There's also information on. She's a member of our learning community. She joined [INAUDIBLE]. January 2016. And she's a stroke survivor that
+suffers from locked in syndrome. She has her insides in writing for
+Huffington Post. I'll go to the top again. I click contact, And contact for students of
+Medical Neuroscience you can contact me through the Learn Medical Neuroscience
+subforum on the course website. You can ask me questions,
+point out things to me, or you could write a news article
+on general Neuroscience news. But I could copy and paste,
+with your name of course, in a news rubric of this
+website if you want to. There's a contact form for
+people that don't belong to the course. And now we go to the News page. On the page is featured
+the video news is also on the right side of the screen
+as is the second menu. We go to News page And here you get the hang out teaching
+award for Professor White, that's but something that is a lot
+of pleasure that he got this award. And there is at the bottom the British
+from the second get neuro context. You had to make an image of
+something in your daily life or in nature that resembles
+neuro electrical structure. And we have the tree roots,
+the mandarin, and the cauliflower. The next one is important, the practice of neurology called
+exam on a virtual patient. Duke is working on an application
+with a virtual patient called Carl. And you can practice it for yourself. But also Duke can learn
+from your experiences. So fill in the entrance survey and
+the exit survey when you are finished with
+doing three runs of examination. Duke can really learn
+from your experiences and it's a way to give something
+in return to the university. If I go to the next page, we get the winners of
+the first GetNeuro challenge then you had to give an image of yourself
+like [INAUDIBLE] medical neuroscience. And here we see writing and studying neuroscience while waiting for
+her freight train to be loaded. From down under. And burning the midnight oil at 3 AM watching Professor White
+studying neuroscience. So that's really very, very nice. At the right hand side of this page, you
+also see the second menu of this website. That's about study strategy and
+old study tips. I want to click Study Strategy. And there is sort of a road map for
+your study of medical neuroscience. You can see that visualize your
+knowledge is very important and you can find it there. I want to take you to
+the general study tips. The first study to is practice,
+practice, practice. With exams they are not only
+there to acquire grades, they're great practice material,
+so do them multiple times. That's very useful. If we scroll down, we see a wonderful, useful tip by
+Nicole Foster on taking notes. There's more information though,
+go and have a look. The study tips neural
+anatomy The unit study tips do have a figure that I think is
+useful for learning that unit and there's a kind of bonus they're copyright
+free so I can share them with you. There's also most of them are also
+in the summary of pathways. Well, there are also study tips for the
+final exam and I'll give you some more. It tell you to go back to certain parts in
+the course that are relevant and all that. So this concludes my short
+tour of the website, learn medical news site I
+hope you enjoyed the tour. I hope you will enjoy the course. And I look forward to meeting you
+on the discussion forum, goodbye. >> Thank you, Ellen, for everything you've done to support
+medical neuroscience over the years and thank you for creating this fabulous new,
+>> Repository of information and resources of all sorts that I know
+are students will greatly benefit from as they pursue their studies
+of medical neuroscience. In addition to the content
+that I prepared for you on our course website, there will also
+be recommended readings from a textbook. >> That textbook is Neuroscience,
+available now in a fifth edition from the publishers
+Sinauer Associates Incorporated. Now I need to let you know that my
+name is on the cover of this book so I have a bit of a conflict of interest in
+pushing this book too strongly on you, but I do want to commend it to you. Obviously I'm involved with the project. I've helped to create a fair
+bit of content for this text. It's a project that I believe in, and I believe in generally in
+the value of textbooks. I have here the French
+edition of this book. I'll just let you know that this
+book is available from various distributors in multiple languages. So if your best language is not English,
+you may look into see what translation of this book might be
+available to you where you are. So I consider this to be a wonderful
+option for those of you who prefer to have a book in your hands,
+not just a screen in front of you. But I would also say that
+it is entirely possible that you will be completely satisfied and
+fulfilled in your studies of medical neuroscience even without acquiring a copy
+of the book and pursuing the readings. But I want to give you as many
+options as possible to be successful. Including knowing that there is an attempt to organize this course
+around the structure of this book, so that you can count on the book to
+provide a valuable resource for you. That will explain those
+concepts with greater clarity then perhaps I have in my
+video lessons with you. There's another book that I
+would strongly commend to you. It's Neuroanatomy Through Clinical Cases
+by Dr Hal Blumenfeld. This book is also published
+by Sinauer Associates. Now I'm not assigning readings from
+this book because in many ways, this book is actually a bit beyond
+the scope of medical neuroscience. But it's a fabulous resource, for any of you that may be pursuing
+the neurological specialties. The approach that this book takes, is to
+lay out some foundational neuro anatomy. And then to challenge your understanding
+through a series of clinical case studies. It's very much the method that we use here
+in this course, medical neuroscience. It's just that the content of this book
+goes beyond an introductory level. Which would be consistent with what most
+medical students would learn in their first year of medical education. That's what we strive to achieve
+in medical neuroscience. This book would serve those students well. But also more advanced learners that
+are progressing deeper into their medical studies. Another resource that we will
+use in medical neuroscience is an online atlas of
+the central nervous system. Again, a disclaimer. My name is on this product. This is called Sylvius4 Online,
+An Interactive Atlas and Visual Glossary of Human Neuroanatomy,
+also published by Sinauer Associates. My partner in this project,
+Mark Williams and I, have created this atlas,
+and it is web served. If you choose to purchase our
+textbook of neuroscience. Then a subscription to this
+atlas comes with that textbook. Otherwise you could choose to acquire this atlas as a standalone subscription
+directly from the publisher's website. So you can find that online, and
+acquire that if you choose to. Again, it's not essential for
+success in Medical Neuroscience, but I would recommend this atlas. If any of you may be interested
+in acquiring an atlas, there's lots of free, interactive
+atlases available on the internet. Sylvius has the advantage of
+being the most detailed atlas concerning the internal
+anatomy of the brain stem. Really the only atlas of its kind
+that delivers content in that area, which will become important in units
+three and four of this course.

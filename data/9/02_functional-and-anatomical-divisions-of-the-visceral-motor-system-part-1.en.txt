@@ -1,0 +1,140 @@
+Welcome to a set of tutorials on the
+visceral motor system. I'd like to take this set of tutorials
+in, in three parts. this first part, I'd like to give you a
+bit of an overview including some discussion of the functional divisions of
+the visceral motor system. And then we'll have session on the
+hypothalamus, a very important part of the brain's means of controlling visceral
+motor activity. And then lastly, I'd like to illustrate
+some of the principles of how visceral motor activity is integrated with sensory
+input, as well as somatic motor output, in the governance of one important
+function, and that's the function of controlling the bladder.
+Well, this topic of visceral motor integration and visceral motor control
+relates to some of our core concepts in the field of neuroscience.
+You're very used to hearing me assert that the brain is the body's most complex
+organ. But that is a fact that I hope is not
+lost on any of us as we pursue a deeper understanding of how the brain governs
+the body within which it resides. We'll also be talking more about
+circuitry today, that is genetically determined, but still subject to life
+experiences and the modifications that use can feed back into a functioning
+nervous system. Alright, so in this first part of our
+tutorial on the visceral motor system, I have three learning objectives for you.
+First, I want you to be able to describe the anatomical organization of the
+sympathetic and parasympathetic divisions of the visceral motor system, including
+the sources of preganglionic innervation and the location of the postganglionic
+visceral motor neurons. So, as this objective implies, there are
+important differences between these two major divisions of the visceral motor
+system that I want you to be able to have a discussion about, perhaps with a
+friend, even a family member who may be curious as to what you're learning in
+Medical Neuroscience. I want to you to be able to characterize
+the major functions of the sympathetic and parasympathetic divisions.
+Now, that's not to say that I want you to account for sympathetic and
+parasympathetic governance of each visceral-motor effector system in the
+body. that would be beyond the scope of this
+course. But rather, I want you to be able to have
+a discussion that highlights the general characteristics of sympathetic
+activation, parasympathetic activation. And one great way to do that is to pick
+out a subset of those visceral motor effectors that are particularly
+instructive for you, and think about how do these two systems interact to govern
+the activity of that system? And then finally, I want you to be able
+to identify and discuss the neural centers in the central nervous system
+that regulate the outflow of activity in the preganglionic fibers of the visceral
+motor system. So we want to back up to higher centers
+in the brain and understand, how does the brain govern the coordinated output of
+these two divisions of our visceral motor system?
+Well, let's now begin by considering in broad overview the functions of the
+visceral motor system. Well, what the visceral motor system does
+is it maintains the internal environment of the body, and it regulates the
+activity of the visceral organs, the glands and the blood vessels.
+The visceral motor system governs the circulation, respiration, digestion,
+metabolism, bodily secretions, thermal regulation and reproduction.
+Elements of this system, together with components of the somatic motor system,
+are involved in the experience and expression of emotional behavior, and
+indeed other dimensions of cognition that have an impact on the internal workings
+of our body. Well, I think you're familiar with some
+of the basic functional divisions of the visceral motor system.
+and perhaps I should pause here and just state that I've been using the term
+visceral motor system. You may be wondering, well aren't we
+talking about the autonomic nervous system and in-, indeed we are.
+these terms for the most part are synonymous.
+I prefer visceral motor systems because it allows us to focus on the effector
+systems that we're concerned about in this particular session.
+That is our visceral organs. There's also an element of autonomic
+nervous system function that involves the somatic motor system.
+So, I don't want us to conflate thinking about the viscera with thinking about
+somatic motor effectors. That's a point we'll come back to in the
+third part of this tutorial. Just so that you're not thrown off by my
+terminology, so from here on out I'll be referring to the visceral motor system as
+those aspects of autonomic function that pertain to the governance of visceral
+effector systems. Okay, with that said, we basically have
+three functional divisions of our visceral motor system.
+We have a sympathetic division which is involved in energy mobilization.
+There is a parasympathetic division, which is involved in energy conservation.
+So, already you get a feel for the complimentary actions of these two
+principal divisions of the visceral motor outflow.
+But there's also a third division that I'll just touch on very briefly.
+and that has to do with the neural networks that govern the activities of
+our gastrointestinal tract. We call this the enteric division.
+So this is a system of neurons that function in something of a
+semi-autonomous way. I'll say more about this, this system in
+just a minute. And what this system does, is it
+coordinates our digestive reflexes. Well again to think in very broad big
+picture terms, the coordinated activity, of these three divisions of the visceral
+motor system, is really all about two principle kinds of, of functions.
+one is homeostasis, so this is a, a wonderful term coined back in the early
+part of the 20th Century by a great physiologist by the name of Walter
+Cannon. And what Cannon had in mind with
+homeostasis, is the constancy of the internal environment.
+That is working to keep the body more or less at a set point of some sort.
+Well, homeostasis is what our bodies are about arguably most of the time.
+But we couldn't survive very long if this was the only mode of action of our
+visceral motor system. indeed, there are times when in order to
+restore that proper balance, we have to change, we have to push the body into
+rather emergency action. And so this concept is what we might have
+in mind with this term allostasis which was coined more recently by a
+contemporary neuroscientist name Bruce McEwen.
+An allostasis refers to imposing a change of the internal environment, so that we
+can eventually cycle back and re-establish homeostasis.
+And I think these two terms, homeostasis and allostasis, they capture a sense of
+what the visceral motor system is all about.
+It's about trying to maintain the constancy of the internal environment,
+and the capacity to radically alter the state of the internal environment when
+the conditions demand for such action. So, we'll see some examples of that as we
+go, and talk about how these two aspects of this remoter function are, are played
+out. Well, before we get into more detail of
+the anatomy and the function of our two principle divisions, our sympathetic and
+parasympathetic divisions, I just want to mention very briefly the enteric
+division. So the enteric division really refers to
+a network of neurons that are found in the lining of the gut.
+So, here's an illustration that reveals just a small piece of representative
+tissue from the lining of our gastrointestional system.
+for example this could very well be the lining of the small intestine.
+And what I want you to notice are these networks of neural processes that run
+through particular layers of this tissue. So they are actually two networks we, we
+call each network a plexus. So in close association with the muscular
+layers of the gastrointestinal system, especially the longitudinal muscles that
+are, are responsible for moving the contents of our gastrointestinal tract
+along through a pattern of muscle contraction that will propel in a
+wave-like fashion. The contents of the gut along the GI
+tract. this plexus is called the myenteric
+plexus, or Auerbach's plexus. So it's responsible for coordinating this
+rhythmical contraction of our longitudinal muscle.
+Well, there is a deeper plexus, and this plexus is found in close association with
+the mucosa that lines the gastrointestinal system, this is called
+the submucous plexus. And this submucous plexus also known as
+Meissner's plexus, this is a network of neurons that coordinates the secretions
+of the various glands that are very important in mediating digestion, within
+the gastrointestinal system. Now these two networks of neurons, they
+can function in a semi-autonomous way, that is, if one were to have damage to
+the spinal cord or the nerves that supply, this network, then this network
+can still function, however the functions are not very well coordinated with
+respect to the needs of digestion. So there definitely is input to this
+enteric division of the visceral motor system from both sympathetic and
+parasympathetic sources. never the less, there's a certain degree
+of autonomy that we recognize in the functions of this enteric division.
+Okay well that's all I'm going to say about the GI system.
+we certainly could say more. There is a, a rich degree of, of
+neurobiology in just about every way associated with the activities of neurons
+in these networks. but we'll turn our attention then to the
+sympathetic and parasympathetic divisions and then the means by which the brain
+regulates these two sets of outflows from our visceral motor centers within the
+brain stem and the spinal cord.

@@ -1,0 +1,257 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous video we talked about
+mutations as the ultimate source of all genetic variation. But the very end I posed
+a question to you. When you look at a lot of traits, we see
+a lot more variation than seems to be explainable by simple single
+gene two allele inheritance. Now if you look at something like human
+height, even after you correct for things like diet and things like that,
+you tend to see a lot of variation. There are some individuals that are very
+tall, some individuals that are very short, and a lot of people with sort of,
+quote unquote intermediate heights. And that's not true just for human height
+but it's true for a lot of traits. So why do we see so
+much phenotypic variation. And it's phenotypic variation that we know
+often has an underlying genetic component. Well the answer to that is that
+the simple single gene two allele model is actually not sufficient for explaining
+the variation that we see out there. And in this lecture, we'll go over
+several reasons why that's the case. We'll focus on five particular things. But, the big question that I want
+you to think about to start with is, why do we see so
+much variation in traits? At the very end of the last video, I posed to you the question of
+height as one example, right? Well, one possible explanation, this is not necessarily
+a complete explanation, but one possible explanation is that more than
+one gene controls variation at a trait. So, something like human height
+rather than having a single gene that has a tall allele and a short
+allele, you could be homozygous tall or homozygous short, or heterozygous. Maybe there's a lot of genes that
+contribute to the variation in height. Now, honestly this idea of more than
+one gene controlling any trait is probably true for
+just about any phenotype you could study. LIke there is no single diabetes gene,
+there is no single cancer gene, things like that. You may hear these kinds of words
+all the time in the media, but they are just not true. Now let me give you a fictional example. Let's pretend that alleles at
+6 genes control human height. Okay? Let's look at what this would result in. Now here's a simplified example. Let's imagine there were six genes for
+women's height. We'll focus specifically
+on women's height, okay? Now let's say that for each case,
+look at the bottom of the slide, here, for each case your height in inches is
+determined by your genetic code. And you are five foot zero inches plus the number of capital
+letter alleles in inches. Okay?
+So imagine that, I apologize for those of you who are used
+to the metric system so you could do the same thing
+with meters in some way. But let's say that based on the number
+of capital letter alleles you have, you add one inch for each one. So let's try that with the first one here. Let's just count the number
+of capital letter alleles. Well for the first gene we have two. Second gene we have one. Third we have two. Fourth, we have one. Fifth, we have one. So we would say you are five foot zero,
+five foot, one, two, three, four, five, six, seven. So this individual would be
+five feet seven inches tall. The next one has two capital
+letter alleles, the B and the D. So, this individual might
+be five foot two inches. So, let's imagine that you iterated this
+across all these different, and this is, again, a completely fictitious example. We're assuming now each of these
+six genes only has two alleles. It has a tall variant and a short variant. And they all act somewhat
+independently of you, each other. So what would you see? Well we can iterate across
+all these different genes and all these different people and this is
+the spread you would see, 5'7", 5'2", 5'6", 5'8", 5'6", 5'6", 5'10". Now I want you to look at this
+distribution for just a minute. We have three different individuals
+that are five foot six. But if you look at them, none of them
+actually have the same genotype. Alright that if you look at them,
+like this individual right here, individual number six,
+has a capital AA and a little a. Individual five has two little a's. Compared to individual number
+three here who has two capital Bs, individual five has one capital B. And individual six has no capital Bs. So there's a lot of variation, but
+it ultimately leads to the same height. So as you can see from this model, there's a lot of different
+ways to be five foot six. In contrast,
+how could you be five foot zero? There's only one way you
+can be 5 foot zero and that would be if you're lower case for
+all of them. So what this does, if you iterate this, is you come up
+with this sort of distribution, right? You come up with what is referred
+to as a normal distribution. It's not intended to imply that other
+distributions are abnormal, [LAUGH] but just this is something
+that you see quite a bit. That there's a lot of different ways to
+be intermediate, but there are fewer ways to be extremely tall or
+extremely short in this particular model. So this is often called also a bell curve. And again, there's only one way you
+can be 5' 0" or 6' 0", but there are many ways to be 5' 6", and that's
+why you see this distribution like that. Now one example of this is one that
+some of you may be more familiar with is it's just like test scores. There's a lot of different ways
+you can get a 50% on the test, based on which questions you get right or
+wrong. There's only one way to get 100%. There's only one way to get a 0%. And those are to get everything right and
+everything wrong, okay? So what happens with this is you can
+generate what looks like continuous variation, from variation at many genes. And this is, even though each of the individual
+genes are inherited in a mandilian way. So, let me break this down
+with a couple of sub examples. So, you can do the same sort of
+thing if you do an F two cross. An F two cross is the same as crossing
+two inbred types, so, for example big A, big A, to little a, little a's. Taking the F1s, which we recall
+are the offspring from that, and having the F1s breed with each other. That's the F2. So in this case, if we have one gene
+contributing to variation in height. You start with these homozygous
+tall AA six foot kids, breed them with homozygous short
+aa five foot tall individuals. So all the offspring would be big A,
+little a. So let's say we cross Aa to Aa. Well, we draw a little tiny square
+that we're very familiar with. And in the F2 we get one quarter AA, we get one half Aa, and one quarter aa. Alright, there's two out of four
+ways to be big A and little A. One out of four little a to little a, and
+one out of four to be big A to big A. So, you get something kind
+of like what we just saw. This is now just from one gene. What if we did two genes, and
+they sorted independently? Well if we do two genes and let's say for
+example this times big A big A big B big B versus little a little
+a little b little b. Then you'd have a slightly broader set. You can follow what's going on
+in the A gene follow what's going on in the B gene and
+you'd get 1/16th. It would be little a little
+a little b little b. 1/16th would be big A big A big B big B. And then you have a whole bunch of other
+intermediates that then would have the different sort of heights. This would be the one that
+would be five foot tall. This would be the individual
+that would be six foot tall. But all the rest would be intermediate. And this is again the spread that you see. And finally,
+this is the example we actually saw. That is you have six genes for height, you generate this virtually normal
+looking distribution, or bell curve. It's continuous and it's bell shaped. It's not exactly continuous but it looks
+pretty close to continuous in this case. So that's pretty cool. And this shows you how variation at more
+than one gene contributing to a trait can generate this sort of variation
+that we see in traits out there. Where things aren't just tall versus
+short but they're much more continuous. So why else do we see so much variation? One other possibility was referred
+to as variable penetrance. And this is the case of what
+happens when mutants don't always affect the phenotype in the predicted way. So let me show you an example of this. The eyeless mutation in drosophila is
+one that exhibits a variable penetrance. Now, this, on the left hand side here,
+we have a drosophil with a regular eye. There it is. So it's a nice big beautiful thing. When you have the eyeless mutation
+you often have a shrunken eye. So you see this individual
+has a very small eye. Now, what's tricky is you may be
+homozygous for the eyeless mutation. You may have two copies of it. Sometimes, you actually
+will have a normal eye. Sometimes you'll have
+a shrunken eye like this. Sometimes you'll have no eye at all. It's always the same mutation, but
+it doesn't always have the same effect. And this is why we say that
+mutation is "not fully penetrant". It exhibits a variable penetrant. Now this is very often true when you
+look at disease susceptibility genes. So, for example, the BRCA1 breast cancer
+susceptibility gene that's out there. And most of the population,
+if you're a big B big B or big B little b, you have a low chance of getting
+breast cancer, on the order of 12%. Unfortunately, that's low. If you have two mutant
+alleles at this gene, though, then you have a 60%
+chance of getting breast cancer. So this is five times higher
+chance of getting breast cancer. This is five times what is
+a reasonable risk there. But not everybody who is little b
+little b will get breast cancer. This is not fully
+penetrant in that regards. So breast, the BRCA1 breast cancer
+phenotype is not fully penetrant. Cuz you can be little b little b and still
+have all non cancerous cells in breast. So this sort of variable
+penetrants also contributes to some of the variation we see in traits. But what else could do it? Well another very interesting one is
+the idea of interactions among genes. All right so essentially what's happening
+in terms of your genotype at one gene, will effect how much the other
+gene contributes to the trait. So, let's go back to the example
+I showed you earlier with height. So in this example, we used basically
+all these different things as completely independent of each other. And we just added up their effects. We refer to this as sort
+of an additive model. Where we just add up the effects of what's
+going on on all these different genes. At A, B, C, D, E, and F. Well in fact,
+that's not always the way things work. Often, especially when you have things
+like pathways, you can have epistics. So, here is the example
+of pea flower color. Now, most pea plants will have
+a nice pink color to them, and there are several steps in the production
+of this pink color in them, and these steps
+are genetically determined. So let's imagine you have this precursor, this is the compound that ultimately will
+lead to the pigment in these pea plants. Now there are two genes, the C gene and the P gene, that produces C protein and
+a P protein. And these lead through these intermediate
+steps to ultimately make anthocyanin. Anthocyanin usually gives them
+this beautiful pink color. Now you can actually stop
+this process at either place. If you're a homozygous for mutant at C,
+or homozygous for mutant at P, you don't produce any anthocyanin and
+instead you end up with a white pea plant. So let's follow this through here. Now we can block the process
+at either place, and get white peas instead of pink peas. So, what this means is if you're
+homozygous little c, little c, or little p, little p. Doesn't have to be both,
+then you will produce white peas. Otherwise, if you have at least one
+capital letter allele, the dominant normal allele, then you'll produce the beautiful
+pink peas you're supposed to produce. So, here's all the possible
+things you could do. Let's go through each of them and label
+whether the peas will be pink or white. So this one will be pink,
+pink, pink, pink, pink. This one has two little p's. So that stops the process right here. It will go from precursor to step one but
+you never get to sign in. So this will be white, this would be pink, this would be white,
+this would be pink, pink, white, white. These ones over here
+are gonna stop at the C. Pink, white, white, white, one,
+two, three, four, five, six, seven, so there's seven different
+possibilities that lead to white. Now this actually was observed by William
+Bateson and some of his colleagues. Many, many years ago where they
+actually they actually found in doing this particular cross,
+the found a 9 to 7 phenotypic ratio. It just didn't seem to follow
+standard Mendelian inheritance, you didn't immediately
+know what was going on. But they inferred that there was
+something like this going on. That essentially there were variation at one gene was affecting what happened
+to the variation at the other gene. So, look at this example right here. Now normally, again, capital C and capital P are suppose to work
+together to lead to a pink plant. So, if you look at this
+example right here. If you are little c, little c, it doesn't
+matter what your genotype is at peak, you will always produce a white pea plant. Similar if you are little p, little p,
+it does not matter that your genotype is big C over there, cuz you will
+only produce a white pea plant. So in that sense,
+what's happening at one gene is moderating whether or not variation
+at the other gene even matters. Okay?
+So that is epistasis because that is
+an interaction between the two things. It makes it so what's happening
+at one gene doesn't matter. We didn't see that with the height
+example because at that point we had to account for
+what was happening at every single gene. Here, once you see the little p, little p,
+you don't even have to look at C. Okay so that is epistasis. Let me give you another example. This one instead of from
+peas it's from mice. This is what produces mice with this nice sort of brown which is
+referred to as agouti color. Again there's two genes
+that contribute to it. And you have to have both the A and
+B together. And this case is a slight deviation from
+the, from what I talked about before. If you're little b, little b, you actually produce albino
+mice, these all white mice, okay? In contrast if you have
+little a little a but big B, then you actually make
+black mice like this one. You don't make the agouti ones or
+the white ones. So what happens here is what's going
+on at B moderates the effect of A. So A changes you from agouti
+to black if it's with a big B. In contrast if you're with a little b,
+little b, then what's going on at A doesn't matter
+cuz you're always going to be albino. So again, you have this masking
+of the effect of one gene. You're masking what's going on at
+A because of the genotype at B. So, that is an example of epistasis. And honestly, that's only one
+way that epistasis can happen, two genes where gene 1 B is
+a switch that turns off gene 2. Right, this is similar
+to what we just saw. Whereas gene 2 affects the disposition of
+coat color, where one causes black and the other causes brown. But if you turn off the switch,
+it doesn't matter. So this is what was going on
+in this particular example. Genotype at B modifies the effect
+of the genotype at A, and sometimes eliminates
+its effect completely. So epistasis is something that again
+can generate unexpected diversity. And is one of the complications to simple
+single gene inheritance the way we were following before. Well what else can happen? Well there can be more than
+two alleles in a locus. Almost everything I've shown you so far has had this very simple
+Big A little a, big B little b. But in fact, there are times when you
+have more than two alleles in a locus. Probably the most famous example of
+this is the classic example of AB and O blood types. These are, relate to variation at a gene
+located on chromosome 9 in humans. There are three alleles, A, B and
+O as you see from the title. A and B are both dominant over O. But A and
+B are not dominant over each other. And what happens in this case is A and
+B create very specific antigens, but O does not. So the possible blood types you
+can have are A, B, AB, and O. And the possible genotypes are these,
+AA, AO, BB, BO, AB, OO. Now I said A and B are dominant over O,
+so what if you are AO genotype? What blood type would you be? The answer to that is you'd be A. So AO and AA both have blood type A. BB and BO both have blood type B. A and B are not dominant over each
+other so you'd just be blood type AB. And OO would obviously just be O. Now for in the medical angle
+if you get a transfusion with the wrong blood type you will actually
+reject it if it has a foreign antigen. So if you're an O blood
+type it's very good for you to donate blood because you
+don't have any of these antigens. You don't have the A or B antigen. Anybody can get O blood transfusion and
+they'll be okay. In contrast, if you are AB, you're the
+best for receiving a blood transfusion, because you have both antigens. Doesn't matter what they give you,
+you'll be okay. So that just illustrates the medical
+relevance to this particular example. Now what do you do when you have
+these three genes at a locust? Well, again as I said, A and
+B are dominant over O. Here's all the blood types. Basically the inheritance works just
+the same as the way we studied for single genes. So I did across here as an example of
+an AO female crossed to a BO male and you see you get four possible
+blood outcomes there. You can be AB, BO, AO, or OO. Let's do one just as an example. Let's say that you crossed AO to AO,
+right? So let's do that. AO, AO. What would you get? Well, you may get AA, that would be blood
+type A, AO, which would be blood type A, AO which would be blood type A, or OO. So if you have genotype AO,
+your wife has genotype AO, you have kids on average a quarter
+of them should have blood type O, three quarters should have blood type A,
+just like you the mom, okay? Just follow basic Mendelian inheritance,
+the only difference in this case is we actually have three alleles,
+rather than two. So we've gone over four different
+ways we see so much variation. They can have more than one
+gene controlling trait. You can have variable penetrance of one or
+more the alleles. You can have interactions among genes or
+epistasis. There can be more than two alleles
+at a locus but the big one that we didn't really talk about, and
+this is something we'll come back to in some of later lectures, but
+I just want to mention it briefly here. Is obviously the environment and
+interactions with the environment. And when we come to heritability
+we'll talk about this quite a bit. But this is one of those things
+that is probably really obvious. The environment can affect phenotypes. It can either affect them directly,
+or they can interact with genotype. Probably one of the simplest examples
+maybe you've experienced is sun tanning. In the absence of sun, you don't tan. So clearly that is
+an environmental effect. I'm not talking about
+tanning beds of course. And also maybe you probably know that some
+people naturally tan more easily than others, right? But there are some genotypes out
+there that will tan very easily and some genotypes that won't tan so easily. They're much more like, you just burn or
+freckle or something like that. And that is an interaction of
+the environment with genetics. So, that gave us, again five different
+ways that we actually see so much variation out there. And this is why simple, single gene
+models are not typically sufficient for trying to understand genetics. So in the next video we'll talk
+briefly about mutation rates. But then I want to come back to, how do we map traits when
+they are complex like this? When they exhibit things like potentially
+epistasis having multiple alleles having many genes contributing to them. We'll come back to that shortly. Thank you very much.

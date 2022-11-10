@@ -1,0 +1,170 @@
+Okay, so, this has really been an
+extended introduction to the components of the Basal ganglia, and a little bit
+about their function. Now let's turn to a sharper focus on the
+major parts of the Basal ganglia. And we're going to focus on really just
+two of these processing strings, two of these loops.
+I'd like for us to consider the organization of body movement loop, And
+the organization of the limbic lobes. So the body movement loop is a circuit
+that runs through the basal ganglia that's primarily concerned with the
+movements of our limbs. The limbic loop is a circuit that runs
+through the basal ganglia that's concerned with our affect and our
+motivation. And that will be important when we
+consider the neurobiology of addiction. All right, so let's, let's look at what's
+common about these two parallel processing streams that run in the basal
+ganglia. they both have cortical input.
+In the body movement loop, the cortical input is primarily From the motor cortex,
+and the parietal cortex where we find our somatic sensory signals.
+So the input is coming from a fairly large region of the frontal parietal area
+of the cerebral mantle. In the limbic loop, the cortical input is
+coming from Telenscephalic structures that we associate with the ventral and
+medial parts of the fore brain. This includes the amygdala, the
+hippocampus, the orbito and medial parts of the frontal lobe, just in front of the
+motor cortex. This includes the cingulate gyrus and
+regions of the temporal cortex. This cortical input comes into striatum,
+but to a region that we call the ventral striatum.
+Which, as we'll see in just a moment, sits inferior to our putamen.
+And there is a division of this ventral striatum that I'm going to want to
+highlight for you. That's called the nucleus accumbens, and
+I'll show you that region when we look at some sections through the basal ganglia.
+It's worth mentioning now because the nucleus accumbens, is ground zero, for
+research on addiction, in the human brain.
+Well The striatum then sends inputs to the pallidum.
+And for the body movement loop, the pallidum is the globus pallidus.
+In particular the internal segment of the globus pallidus.
+For the limbic loop, the pallidal region is called simply the ventral pallidum.
+It's a division of the pallidum that's inferior and just a little bit posterior
+to that part that we recognize as the globus pallidus.
+Now, the pallidum provides the output for the basal ganglia, so in the body
+movement loop, the pallidum, here, is the internal segment of the globus pallidus,
+which projects to our motor thalamus. The motor thalamus, in turn, sends
+signals back into the motor cortex. In the limbic loop the vental pallidum
+projects to a different thalamic structure.
+It's called the mediodorsal nucleus of the thalamus.
+And this is the thalamic nucleus that sends signals back to many of
+these[UNKNOWN] structures. That provided the original input to the
+ventral part of the striatum. In particular, the cingulate gyrus and
+other parts of the orbital and medial prefrontal cortex.
+So again the point here is to lay out the specific processing stations that are
+involved. And these different processing strains
+but also to highlight what's common here. Cortex to striatum, striatum to palldium,
+pallidum to thalamus and then thalamus back to cortez.
+Okay I think that we're ready to actually look into the brain and see what some of
+the structures actually are. So, first with an illustration.
+What we have here is a coronal section through the fore-brain, and this allows
+us to see the various components of the striatum there, that are visible at this
+level. we see the putamen, and the caudate
+nucleus, divisions of the striatum that are separated by the internal capsule.
+just on the medial side of the putamen is where we find the globus pallidus and as
+we'll see the globus pallidus has two parts to it.
+An external part and an internal part. The output from the pallidum is directed
+towards the thalamus and we see our motor thalamus here in this level this is a
+structure that we recognize as the ventral anterior/ventral lateral complex
+of the thalamus. And those terms provide some indication
+as to what part of the thalamus is in question.
+And then, of course that part of the thalamus is what gives rise to
+projections on up To the motor cortex. Now this circuitry is modulated and some
+very important that we're going to spend some time talking about.
+The principal modulation that we will consider is coming from the mid brain and
+it comes from a division of a region that we call the substansia nigra.
+Now you, you may have heard about the substantia nigra.
+you may have seen the substantia nigra. The substantia nigra is one of those
+wonderful terms in brain anatomy that tells you what it is.
+It's the black substance. If you look at a brain at autopsy, and
+make a section through the midbrain, you will see a dark substance.
+That forms a bit of a line that is nearly sitting on top of the cerebral peduncles.
+So that dark substance is what we call the subtantia nigra pars compacta.
+The dark substance is there as a result of the biosynthesis of the
+neurotransmitter that's released by these cells.
+That transmitter is dopamine. And over a life time of making dopamine
+these cells accumlate a dark pigment which gives the dark substance its name.
+Dopamine is released at the axon terminals of these cells and the
+projections from this parts compact of the substansia nigra is targeted to the
+striatum. To the putamen, and to the cottay
+nucleus. So dopamine from the mid brain becomes an
+important neuromodulator of basal ganglia function.
+We'll spend a bit of time talking about that.
+There's another structure that provides an important Modulatory influence over
+the basal ganglia, and that is the sub thylamic nuclei.
+The subthalamic nuclei sit basically just in front of the substantianagra, on top
+of the cerebral peduncles, at a junction between the diencephalon and the mid
+brain. But the subthalamic nuclei are part of
+the diencephalon. The subthalamic nuclei provide input to
+the internal part of the globus pallidus and help to sustain activity that drives
+the output from the internal segment of the globus pallidus to the thalamus.
+So, one might quibble about whether the subthalamic nucleus are really part of
+the basal ganglia because they're diencephalic, I don't include them as
+part of the basal ganglia directly. Rather, I consider this to be an
+important source of modulation of basal ganglia function.
+Now, it's not illustrated here, but I'll also point out Well we have the
+substansia nigra in front of us. That there is a medial region in the
+vicinity of the pardus compacto that likewise contains a collection of cells
+that make dark substance. this is what we refer to as the ventral
+tegmental area or the VTA for short. The ventral tegmental area provides a
+dopamine projection to the ventral part of the striatum that participates in the
+limbic processing string. Alright, well let's look now at the
+forebrain and try to appreciate the complex geometry of the basal ganglia.
+And I'll start actually with our brain model that we have here.
+So I've alluded a few times as our focus has been on the brain stem that there are
+structures that are part of the forebrain that are sitting on top of this brain
+stem in this model. And what we're looking at basically is
+the basal ganglia. So from the frontal view we're looking at
+the putamen laterally. And on the medial side is the caudate
+nucleus parts of the striatum and when the caudate nucleus and putamen join
+together down below that's the region that we call the ventral striatum and
+specifically there is a division here that we call the nucleus succumbence.
+So the nucleus accumbens is simply the inferior and anterior continuity of the
+putamen and the caudate nucleus. Now, I want to show you the posterior
+view, which we would only see if we dissected away the forebrain.
+And let me first orient you a little bit, so this bundle of white matter that we
+find right here, this is called the internal capsule.
+And it's an important landmark that will help you recognize what parts of the
+basal ganglia you are looking at. And what you should remember is that the
+putamen is on the lateral side of the internal capsule.
+Whereas the caudate nucleus is on the medial side of the internal capsule.
+Now the two, the putamen and the caudate, they join together around the anterior
+side of the internal capsule with the nucleus accumbens forming the inferior
+continuity. But on the Posterior and dorsal aspect of
+the basal ganglia. The caudate nucleus extends a long tail,
+that runs along the medial edge of the internal capsule.
+And it actually extends all the way down into the temporal lobe, which is not
+illustrated here in this model. But we'll see a long tail of the caudate.
+That extends quite a distance into the temporal lobe, following the course of
+the lateral ventricle. Now, there's a important basal ganglia
+component that we cannot see in this model, and that is the globus pallidus.
+The reason that we can't see it is that it's buried just on the medial edge of
+this putamen. It sits between the fibers of the
+internal capsule and the putamen. Now if we look at this illustration.
+Hopefully you'll have some orientation now as to what were seeing.
+So from this lateral view. We can pre shade the Putamen.
+That division of the[UNKNOWN] that we find most latterly.
+And the putamen is continuous in its anterior extent with what we call the
+head of the caudate nucleus. And now from this illustration, you can
+see how the caudate nucleus wraps all the way around the body of the lateral
+ventricle, and follows the temporal horn of the lateral ventricle.
+Into the temporal lobe. Now again what we don't see here again in
+this view is the globus pallidus, because the globus pallidus is completely
+enveloped by the putamen. But what we do also appreciate is the
+position of the thalamus. So here's the thalamus.
+That is a large egg shaped structure. That's on the medial side of the internal
+capsule and it is a little bit more posterior in its extent than is the
+putamen so we'll note that the thalamus seems to be shifted just a little bit in
+the posterior direction as we look at cross sections through the brain.
+So lets go ahead and do that now. Alright, so we are looking at a coronal
+section through the forebrain taking the level that is just catching the anterior
+tip of the temporal lobe. And I want you to notice of course all
+the cortex that we find. Forming the bark around the margins of
+the cerebral cortex. We have white matter underneath.
+But now we've got this deep gray matter that is bulging out into the lateral wall
+of the lateral ventricle and it seems to be surrounded superiorly.
+Latterly and inferior with the white matter of the hemisphere.
+So lets look at what we have here. we are looking at a section that would
+have been taken very near the front edge of the internal capsule.
+So what we would expect to see is this continuity of the caudate, the putamen
+And then the ventral striatum, the nucleus accumbens down below, and that's
+really what we observe here. So you'll notice just a little whispy bit
+of white matter that is labeled number six here in the left hemisphere.
+That's the front edge of the internal capsule.
+So what must mean then that what we have in this view is all[UNKNOWN] So we have
+the caudate nucleus on the medial side of the internal capsule.
+The putamen on the lateral side, and where the two come together, we have the
+nucleus accumbens

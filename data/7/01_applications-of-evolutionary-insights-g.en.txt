@@ -1,0 +1,228 @@
+Hello!
+And welcome back to introduction
+to genetics and evolution. I'm very excited about this set of videos. What we'll be doing now is tying together the content from various
+parts of the class. We'll be talking about things
+from transmission genetics, quantitative genetics, population
+genetics, molecular evolution, and tying it all together to talk about how these
+concepts can be applied to help humanity. So let's get started. Just to put it out there for you,
+these insights are very important. These are things for which there
+are direct human medical applications and other sorts of applications as well. As I like to say,
+it's not all just math and dinosaurs. [LAUGH] As people from outside
+the community sometimes tend to think. What I'll do is divide this
+video into three sections. I will talk very briefly about
+Quantitative genetics which is has had a huge impact. I will be repeating some
+things that you saw earlier. I'll talk briefly about selection and
+microbes. Also repeating some things
+that you heard earlier. And finally, I'll go into two vignettes, two stories about applications
+of evolutionary insight. Now obviously, quantitative genetics
+has been applied for many, many years, even if people didn't give
+it that particular term. It's long been know that there
+are similarities between parents and offspring, and that some traits
+are more heritable than others. There's some traits for which you
+will look more like you parents, or you'll behavior more like your parents,
+than other traits. Now, the similarity is what's been applied
+in the context of selective breeding. So this is what farmers have
+been doing for many years. These are what people who grow livestock
+have been doing for many years. And, importantly, people who are rearing different kinds
+of pets have been doing for many years. Many of you know, of course, that the ancestor of the modern
+dog was much more wolf-like. But yet today,
+we see this incredible variation. And this variation came about as
+a result of selective breeding. People identifying traits
+in particular dogs, getting dogs with similar traits to have
+kids, and just repeating it over again and again until the trait was more and
+more elaborate. You have the small size of the chihuahua,
+or behaviors of particular kinds of dogs. Darwin was very familiar with this in
+the context of various fancy pigeons, and this is something that has been a common
+thread for people historically. But importantly, look at crops. This is a standard mustard plant here. This is actually the ancestor of many
+of the foods that you eat all the time. Like broccoli, cauliflower, kale, etc. I mean these are the kinds of, these are the things that are direct
+products of artificial selection. So these are in fact applying
+quantitative genetic principles. Applying evolution,
+although in this case guided by humans. Antibiotic resistance is an example
+we talked about earlier. In the example I told you about was
+that of penicillin which was first mass produced in 1943. At the time it seemed like the wonder
+drug, and you could see that from this ad over here where, thanks to penicillin,
+he will come home. Over time, the bacteria which were initially dying in
+response to penicillin stopped doing so. The first resistant staph
+strains were found in 1947. By 1950, 40% of staph isolates resistant. By 1960,
+80% of staph isolates were resistant. And how did this happen? Well, you saw this earlier, but hopefully
+now you have a better understanding, that we had natural selection for
+bacterial resistance to antibiotics. That is actually still happening. We had this original population. The blue ones were susceptible to
+antibiotics, the red ones were resistant. The red ones were in the far minority. After the antibiotic was applied, we killed off a lot of
+the susceptible strains. The resistant ones were
+the only ones that were left. They had no competition and
+they have spread. As a result, a lot of bacteria that are
+out there now are antibiotic resistant, far more so than before human
+application of antibiotics. And in that regard, antibiotics were, and
+very often still are, over-prescribed. Now, I do not, I do not advocate
+stopping all antibiotic usage, because obviously these are things
+that are helping humanity, getting rid of illness and
+things like that. The thing I would emphasize to all
+of you who are watching this is to avoid antibiotics as
+a preventative measure. When, you know,
+your doctor tells you well, I don't think you really
+need this antibiotic. Well why don't you take it anyways,
+just in case? No, that is bad because what that's
+doing is that's continuing to select for more resistant strains out there. Wait until you know you need it and
+then take it, because you may not need it. What's also happened alongside
+this is that a lot of good microbes have been killed. And in fact, humans have co-adapted with a
+lot of these good microbes that again they synthesize our required vitamin K, they
+help us to resist invading organisms, and they effect regulation
+of stomach hormones. But by our over application of
+antibiotics, we've killed a lot of the good stuff too, and there was a study
+in 2011 showing that an increase in risk of inflammatory bowel disease in response
+to number of courses of antibiotics that kids were given, that those kids with no
+antibiotics had very low incidences of inflammatory bowel disease, and
+it went up with more and more courses. Now again these are stories
+you already saw, so let me tell you a couple of new stories. First I'd like to tell you about the story
+of the control of mosquito spread of Dengue using intracellular bacteria. This was a really cool case where
+an evolutionary insight may actually save a huge fraction of the world's population. And next we'll talk about the human
+evolution of lactose tolerance, or lactase persistence. So let's start with dengue. So let's start by looking at Dengue. Dengue is obviously a bad disease. It is caused by a virus which
+is spread through mosquitoes. It is in fact the leading cause of
+childhood death in Southeast Asia, and in fact, not just Southeast Asia,
+but 40% of the world is at risk for infection from Dengue. There've been epidemics in
+various parts of the world, including here in the Americas
+as recent as 2009, and they'll probably continue to have them for
+quite some time. So, how do you control this disease? Well, two options have been tried. One is to kill mosquitoes,
+basically go in there and just wipe out as many as possible. That helps, but the problem is, we can't
+get rid of all the mosquitos out there. The other is to avoid mosquitos,
+things like nets, things like that. So basically to keep
+humans away from then. Again, that has some effectiveness,
+but it doesn't eliminate the problem. Unfortunately, there's no
+available vaccine yet. So, let's set that aside. That's what's happening
+in terms of Dengue. Now let's talk about
+an evolutionary study. What's happened completely separately
+from what was going on with Dengue, is research on this Wolbachia bacteria. This is an intra-cellular parasite,
+so parasite within the insect cells. It's extremely common
+across insect species, maybe 80% or more of insect
+species have Wolbachia in them. its passed through the eggs so
+its totally maternally transmitted. So mothers pass it to
+the kids through the eggs. Interestingly there's often this pattern
+called cytoplasmic incompatibility associated with it. But basically you get no offspring
+when you mate an infected male to an uninfected female. So infected male to
+infected female is fine. Uninfected to uninfected
+is obviously fine, but interestingly if you have an infected
+male and an uninfected female. So I have here, here's the male symbol,
+infected male and uninfected female yields no offspring. All the others yield offspring. So let's think about what this does. This creates a very interesting
+illusionary dynamic. So looking at this chart,
+let's focus on the columns here. Is is better, if you imagine some of
+the females population are infected, and some are uninfected. Some of the males in the population
+are infected, some are uninfected. Is it better, as a female, to be infected,
+or is it better to be uninfected? Think about that for just a second,
+then try this quick question. Well, I hope that was a very
+easy question for you there. You're looking at the infected females,
+they can always have kids. When you look at the uninfected females, they can only have kids if they
+mate with an uninfected male. So, in fact,
+it's actually better to be infected. As a result of this dynamics,
+when insects have Wolbachia infections, the infection spreads very rapidly
+because there's actually an advantage to females who are are infected. And since it's only passed maternally, this advantage to females allowed it to
+spread without any problem whatsoever. Now linking these two things together,
+it's easy for Wolbachia to spread insect populations,
+and we have this Dengue fever thing. 2009 there was a couple
+of interesting papers. One was published showing that you could
+introduce slightly life-shortening Wolbachia into mosquitoes. In shortening the lifespan
+slightly of these mosquitoes, they were less likely to
+actually transmit Dengue fever. That's pretty cool. And you can actually introduce
+this Wolbachia that makes it so the mosquitoes are still alive,
+they're still having kids, but they're not actually transmitting Dengue. Another study in 2009 showed that
+Wolbachia directly inhibits viruses from infecting the host. So it's actually potentially blocking
+them from getting Wolbachia. Wolbachia infection actually may
+cause an immune upregulation and viral inhibition as it was
+elaborated in an even later study. And so basically if you introduce
+wolbachia into mosquitos you make it so those mosquitos are less likely
+to give the disease to humans. That's cool. And this wolbachia infection will spread
+because of that female advantage to being infected. So what's happened since that time,
+or actually, had been controlled Wolbachia-infected mosquito releases
+in Australia to test this out. So up here in here in Northern Queensland, they released a set of mosquitos that were
+infected with Wolbachia, and they looked at what fraction of the mosquitos
+captured actually carried Wolbachia. Show this shows, this is times and
+days on the x-axis. On the y-axis is percentage of
+the population that had Wolbachia. And, you can see very rapidly for these couple of releases, the entire
+population was infected with Wolbachia. Again, this is great because in
+being infected with Wolbachia, you're less likely to transmit dengue. So as a result, there's an evolutionary
+study that may reduce or potentially even completely
+eliminate Dengue out there. This was leveraging purely
+evolutionary research on Wolbachia. And nonetheless the outcome
+may affect 40% of the world's population that is at risk for
+this disease. That is cool, isn't it? Let me tell you another very cool story. Let's look at understanding the human
+evolution of lactose tolerance. Some of you out there may have experienced
+this problem of lactose intolerance. When you're lactose intolerant,
+which my daughter is actually, you get extreme painful gas
+when you consume milk products. And this typically isn't something that
+happens right off the bat when you're a baby, but it's something that starts when you're
+sometime more than five years old. Sometimes quite a bit older, sometimes it happens, it starts when
+you're a teenager or something like that. Now actually if you go back in time,
+if you go back ten thousand years ago, all humans were actually
+lactose intolerant. The mutant condition is actually tolerant. You may think, well how did that happen? Well think about it. How many, ten thousand years ago, how many
+adults are drinking any sort of milk? None, so there was no cost to this. You were not nursing as an adult so you
+obviously didn't need any human milk, and we haven't yet domesticated cows. There was no problem associated with this. Today, we actually see
+quite a bit of variation. Among the Dutch, you see a very low
+incidence of lactose intolerance, of European Americans again pretty low,
+African Americans kind of intermediate. A fair number of southeast Asians
+are actually lactose intolerant. What happened? What changed all this? Well, it was found that in Europe
+about 7500 years ago, there's a 1-bp mutation that happened that allowed
+production of lactase enzyme. This is the enzyme that breaks
+down lactose and makes it so you don't have these stomach problems. It breaks down lactose in adults. It allows you to digest lactose. Now, this timing, this 7,500 years ago, coincides with
+the onset of dairy usage in Europe. So what this did is this allowed
+an extra source of nutrition and nourishment for
+people that were out there. There was an advantage to it
+when this mutation arose. There was a selective
+advantage associated with it. If you look at your earlier
+European fossil, and sequence them, they in fact do not have this mutation,
+so we know this actually happened. Coinciding is what we expect
+from molecular evolution, there was a selective sweep
+around this new mutation. I actually made up this particular figure,
+this isn’t true data, but imagine here on the X-axis is position
+in base pairs, on the y-axis is pi, a measure of nucleotide diversity,
+or nucleotide variation. If you look right here near the mutation, this Eurasian CT mutation,
+which allows Lactase persistence. You see much lower pi
+than regions further out. So there's a long stretch
+with no nucleotide variation around lactase in individuals having
+this new derived tolerant allele. This is clearly not
+the result of genetic drift. This is something that would be
+expected from a selective sweep. So that's very cool. I made up this particular data here, but this was just illustrative
+to show you what happened. So it sounded like this is a cool story,
+but in fact the story is more complicated. In fact there were multiple mutations. In Africa there was
+a different 1 base permutation that happened at a different time,
+this case 5000 years ago rather than 7500, that allowed adult lactase production. This was found using genome
+wide association studies, which we talked about earlier. Again there we see evidence for
+a selective sweep, in Africa too. And the estimate is selective
+advantage of about 5%. That basically,
+the fitness of not having this mutation, the relative fitness would be
+95% of that with the mutation. Again, these are concepts
+that we talked about. This later date is 5,000 years
+ago instead of 7,500 years ago, coincides with later cattle domestication
+in East Africa then in Europe. So again we see a lot of the things we
+discussed in class being applied for understanding human history. But in fact the story gets
+even more complicated. If you look in the middle east, there's
+yet another origin of lactase persistence, and there it seems like it's
+the effect of two mutations together. You have to have both of them to get it. By requiring both,
+this is an example of epistasis. Something we talked about long ago. There is evidence in this case that
+this may have been a response to camel milk consumption,
+rather than cow's milk consumption. And probably, these are probably not the
+only lactate specific mutations out there. But this is really cool because
+we're really understanding a lot about ourselves. And we have these independent
+evolutionary events that are very similar happening in different human populations. Now let me get you to apply something that
+you learned here with a quick question. Given that these mutations happen
+at different times and happen at different spots of the genome what might
+you predict to be true from the following. So, again, since we see these different
+mutations, they arose at different times. All we can infer is the most
+likely answer, in this case, is that there was a lack of gene
+flow among these populations. There had been gene flow, from Europe,
+into these other populations, then there would never have been
+the need for this other mutation. It probably just would have spread,
+in Africa, in the Middle East, etc. So, this is, again, migration or gene flow, is a great
+homogenizing force of evolution. And again,
+more applications of what we learned. Putting this all together, we have these evolutionary genetic studies
+of an interesting condition in humans. This is a medical condition,
+I guess you could call it. It was identified by genetic mapping, this
+was what was used to isolate the cause alleles, and in doing this identified
+multiple independent origins. Evolutionary analysis identified
+the strength of selection. Basically we saw what
+the relative fitness was. And we see evidence of hitchhiking in
+molecular evolution of the genome. And this is all, this is coupling genetic
+data with evolutionary analysis to date the new mutation. And they infer the cause
+from anthropological data, so this is tying everything together. So overall, again, these evolutionary
+insights, that we've been talking about in the class, can be applied to either
+aide humanity or understand humanity. And again, it's not all just math and
+dinosaurs. In the next video we'll talk about some
+misapplications of evolutionary insights. I hope you'll join us. Thank you.

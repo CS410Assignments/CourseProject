@@ -1,0 +1,251 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. Today, we'll be starting to look at
+the process of species formation which is also just called speciation. This is an area very near and dear to my
+heart because this is an area where in fact, I've conducted quite
+a bit of research myself. And indeed in one of the later videos
+you'll actually see a little bit of the research that I did. But let's start a lot more basically. Let's start by going back a step
+to something we talked about way back in the beginning of this class. What are the two fundamental
+processes of evolution? Well, one of them as we described it is
+this idea of change within lineage, that over time, we have this set of ancient
+forms that lead up to the modern form. So we have these horse ancestors or at least contemporaries of horse
+ancestors that were half a meter tall. And over time and
+leading to the present day, we see the modern horse on the order
+of a meter and a half tall. This is what most of the class
+has been focusing on so far. This sort of change within the lineage,
+natural selection within a lineage, within a population, etc. Well partly,
+we've sorta ignored up until now, is this idea of formation of new lineages. That again horses, zebras and donkeys
+shared a common ancestor very long ago. But over time we had these splits into one
+lineage leading up to the modern horse. One lineage leading to the modern zebra. One lineage leading to the modern donkey. Now, this lineage formation is what leads to the diversity of
+life that we see on the planet. I have here just a couple of examples of
+animal life, obviously we can do this with all life and include fungi and
+plants and things like that. But as you see here you have
+multicellular ancestor and then long after this multicellular
+ancestor within the animal lineage we have this early branch off to the sponges. We have a later branch off after we
+have the evolution of true tissues to these comb jellies. We have bilateral symmetry involved. We have our various worms,
+that would be a C.elegans worm. It's a model system. We see later crabs and starfish and
+humans are reasonably close related. Now, this is a tree of life. Where lower on this tree is long,
+long ago. Higher on the tree,
+up to here is the modern day. There are probably some branches
+that died off in there. But what would happen if there
+was never any branching? What would happen if there
+was no new lineage formation? Well instead of tree of life we'd have
+something much more like the twig of life. So you wouldn't have an instructory
+you just have another comb jelly. Just like all of you. Just like all animals. That's not what we see of course at all. So what we have happens is we have to
+have these branches but additionally species have to form and make these new
+lineage without actually going back. So you don't see these intermediates
+between modern day forms. Now, again we've talked about this
+way back when we've talked about evidence for evolution. We don't expect these intermediates
+between modern day forms. So we don't expect a crocodile and a duck
+to get together and make a crocoduck. So that's just a ridiculous idea. Now, organisms overall exist
+in these discrete clusters. So we have groups that we can identify and
+say this is an insect. This is a spider. This is a bird. So these very discreet clusters. Now, how do these discreet clusters form? That is the ultimate question. Now Darwin,
+actually only addressed this indirectly. Where he considered species and gender to be just an extension of like,
+varieties of flowers or things like that. We didn't actually talk about the exact
+splits of species and what makes this one become different from that one
+and ultimately lead to these new forms. Aside from just generalities talking about
+the importance of natural selection which was certainly correct as well. We just didn't get into the nitty gritty
+that a lot of us like to do today. So in this set of lectures not
+just in the current one, but the set of lectures we'll look at
+why these clusters don't fuse? Basically, why don't we see intermediates? And then subsequent videos will look at
+how geography affects species formation and the genetic basis for
+species formation? How many genetic changes does
+it take to get a new species? Now, when you're looking
+at the origin of species, it's useful to have an idea
+of what the product is. So what is a species, anyway? Well on a practical level, you go outside. You see squirrels or depending on where
+you are, maybe you see kangaroos and things like that. And you identify what they are,
+not by their DNA sequence, but by looking at them by appearance. So how different do you have to be? Well I have here a picture
+of four different ducks. How many duck species
+are represented with them? Well they don't all look exactly the same
+but then again all of you watching this video don't look exactly the same yet, we
+presume that we are all the same species. So how many different
+species of ducks are this? That's a tough question. Well, we can add in the males. You might have already guessed those
+are all female ducks and then the males. The males are quite different. But in fact the males are actually
+more different from the females than the females are from each other. In fact these are actually are four
+different species of ducks. Just to give you an idea
+of who pairs up with who. These would be mallards. These would be your pintails et cetera, so they're in a diagonal
+relationship to each other. Now, we can't decide what species
+are based on appearance because of things like this. That often times,
+males of species look more different from females than they
+do from males of other species. So that's obviously a bad thing for
+using appearance for identify species. So what the most widely used concept is
+for species is this idea of a gene pool. Who is in the same gene pool and these gene pools are you can think of
+those groups of interbreeding in actual populations that don't exchange
+genes with other such groups. This has been termed
+the biological species concept and it's probably the most generally
+used species concept of it. Basically, if we see
+groups they interbreed, they produce fertile
+offspring with each other. That is a species. We see it another group,
+even if they look very similar, if they don't interbreed with
+the first group, different species. So the question is,
+what prevents this exchange of genes? That is going to be a set of
+traits that defines the species. Well these traits,
+I'll call them barrier traits. Some people refer to them as
+reproductive isolating mechanism but I'll just use this because
+it's a simpler term. These barrier traits can be
+grouped into two broad categories. One possibility is a trait
+that prevents interbreeding. Basically, it makes it so you don't interbreed with
+a member of the other species. And I'll give you some specific
+examples of these in just a moment. You may live in different parts
+of a common environment so you just don't encounter the other type. You may breed at different times of day or
+different seasons or your just not attracted to each other. That last one is very common. So for example, you go to the zoo, you see a chimpanzee,
+you're not inclined to mate with it. In fact,
+it's not inclined to mate with you either. So again, we're just not attracted
+to members of other species. Even though the chimpanzee is
+our closest living relative, we have no attraction to it. So this is the category where
+interbreeding doesn't happen at all. There's also the whoops,
+accident happened. They did actually have a mating event. But this interbreeding doesn't result
+in gene exchange for other reasons. So this would be a case for example if
+the sperm don't fertilize the eggs of the other species or the seed of
+the other species from the pollen. Hybrids may die early in life or the
+hybrids may live but are actually sterile. That last one people always
+think of the same example. The mule is the sterile hybrid
+of the horse and donkey. So horses and donkeys are separate species,
+the mule is a sterile hybrid of the two. In fact, I like a much cuter example,
+this is the zonkey. I love the zonkey. This is the sterile hybrid
+of the Donkey and zebra. But look at its legs! It looks like it has socks. [LAUGH] Anyway, let's talk about some
+specific examples of a lot of these traits and I give you a couple right here. So first on habitat differences, so
+there's an interesting case with Rhagoletis fruit flies, these are true
+fruit flies unlike Drosophila. They actually attack fruits on trees. Within North America for one particular
+species called Rhagoletis pomonella. They are two races. They're probably well along
+the ways of becoming good species. One breeds exclusively on apples as
+you see a picture of an apple here. The other breeds exclusively
+on Hawthorn berries. Now, interestingly if you study them, they
+survive and reproduce much better if they breed on their own host than if you
+transplant them to the other host. They will live on the other host,
+but they just don't do as well. Thus, because of that, there are clear
+genetic differences between these race. So you may think okay, big deal. So they specialize on
+these different forms. What's interesting about
+Rhagoletis pomonella is the apple race probably just formed
+within the last few hundred years. That if you go back before the 1600s
+there were no apple trees in the US. And in fact, in this particular example, it's likely that this happened
+just in the last 120 years. That we had this formation
+of this new apple race. It obviously used genetic variation that
+was present in the ancestry that somehow it's made it so now they almost
+never interbreed with each other. The apple race and the hawthorn race. And they're better on their own hosts. So they're well along the way to
+species in a very short period of time. That's very cool. Let's look at another one. I mentioned timing differences. A great example of this
+are periodical cicadas. So they're two very closely related
+species, Magicicada septendecim and Magicicada tredecim. Some of these emerge,
+the tredecim emerge every 13 years. The septemdecim emerge every 17 years. Most of the time though,
+they're just burrowing around underground, eating tree roots and things like that. And then at this point,
+every 13 years or every 17 years, they come up, they drop their
+exoskeleton and the start calling. Many of you have probably
+heard cicada calls. They can be very, very, very loud. As you can imagine because of these
+differences in timing they actually overlap very rarely. In fact, they only overlap on average,
+once every 221 years. So there's a timing difference
+here that keeps these apart. Obviously this is true for
+a lot of other species as well. We can think of various plants
+that only flower in the fall or in certain months of the spring. And again, they don't encounter each other at the time of mating because
+of these timing differences. Let me show you the case of
+a pair of species that I work on. These are the North American fruit flies,
+Drosophila pseudoobscura and Drosophila persimilis. These are North American, they're
+found together in various populations. They look absolutely identical. Even under a really good scope you
+cannot distinguish one from the other. The way a male courts a female
+is he'll come up beside her. He'll extend his wing and he'll vibrate it and it makes a very
+species specific courtship song which is thought to be a part of
+the basis on which they distinguish. Now, let me play for you,
+I have here on my iPad, I'll play for you what this song sounds like. First I'll play for
+you a Drosophila pseudoobscura. [SOUND] Play that for
+you again because it was very quick. [SOUND] And now I'll play for
+you a Drosophila persimilis. [SOUND] So
+those songs are quite different. They're very easy to tell apart and that's just the series of sound pulses
+made by the male vibrating his wing. That is part of what it
+appears the female uses for distinguishing somebody as being
+an appropriate mate versus not. The females will reject males
+that sing the wrong song. Very cool. That's just mediating this idea of
+just not attracted to each other. So these are the cases
+of not interbreeding. Let's talk about the cases
+of actual breeding but not producing fertile offspring. Great example of this is
+fertilization specificity. So we have here a picture of the pink
+abalone and the red abalone. These are ones that release their
+gametes out into the ocean. The gametes encounter each other, but in fact the sperm from one type will only
+fertilize the eggs of the same type. And in fact in this particular case,
+molecular genetic studies have identified some of the actual
+proteins on the sperm and egg, that mediate this
+species specific interaction. That's extremely cool. Many of you can think of
+other examples of this. If you think of the context of gametes
+being spewed out there indiscriminately, common thing of that is of course pollen. [LAUGH] If you have allergies like I do, you can imagine that a lot of trees
+are spewing their pollen at the same time. And they're not fertilizing
+just whatever they hit, they're only fertilizing
+the seeds of the same species. There's an interesting example
+where hybrids are sick or dead. So if you look at the intertidal copepods
+these are ones that are found in, there's one population in Northern California and
+a separate group in Southern California. If you actually interbreed them,
+which you can. The hybrids are okay, but
+they're kind of sickly. And in that particular case,
+this sort of sickliness, this inviability, is associated with defects
+in getting energy. Basically, the mitochondrial electron
+transport system pieces from one, a piece from the other,
+just don't work well together. And this is another case where some of
+the specific genes are actually known. So these are cases where we can
+actually identify what is making this intertidal copepod a different
+species or type from this other copepod. And finally,
+as I mention hybrid sterility. I already showed you
+the example of the Zonkey. The sterile hybrid of the Zebra father and
+Donkey mother. These are found in South Africa and they're typically sterile,
+especially the males. We'll come back to this idea
+why males in particular tend to be sterile in a later video. The other one here on the left is a Liger,
+and that's the hybrid of a lion father and tiger mother. These probably actually
+don't happen in nature, but you sometimes see them in circuses or
+something like that. These ligers are huge. They're really, really big. But again, males are typically sterile. Now, we've talked about all
+these different traits. This hybrid sterility,
+mate discrimination, timing differences. I talked about them like they're all individual ways that
+species can be separate. But in fact these barrier
+traits all act together. There are very, very few documented cases
+out there where you look at two species in detail and you only find
+a single one of these traits. Often, you see all of them or
+most of them. That the hybrids are sterile and females are disinclined to mate
+with males of the other species. And there's a habitat difference. You often see a lot of these together. The debates that you see among
+evolutionary biologists today, are basically just whether some
+of these barrier traits are more common earlier in the divergence
+process than others. There are a few people who argue that, for example these behavioral preferences tend
+to evolve earlier than hybrid sterility, may or may not be true,
+there are certainly examples both ways. But importantly,
+if you go back to the 1930s, thanks to the efforts this fellow here. This is Theodosius Dobzhansky. He's a Russian geneticist who
+pioneered a lot of work in speciation. He made it such that a lot of genetic
+studies of species formation started to focus on looking at the genetic
+basis of these particular traits. Why is it that the courtship songs of
+species one and species two differ? What are the genetic changes
+associated with that? Why is it that the hybrids are sterile? Well, let's dissect the genetic
+basis of this hybrid sterility. Now again,
+these barriers are not always perfect. Right? That there are estimates out there that
+suggest on the order 10 to 25% of species will hybridize with at least one
+other species every now and then. And sometimes they'll even exchange
+a few genes if the hybrids are not completely sterile. Some of them might make it through,
+some genes might make it through. This does not undermine
+the usefulness of this concept. There are still parts of the genome of
+these species that are actually still distinct in clusters. You really should think
+of speciation as a point, not a boom now this is a new species,
+but as a process. It's this divergence
+that happens over time. Just emphasizing this idea
+of parts of the genome, you might find hybridizing species that
+can exchange some genes but not others. You might find for example, that these genes are associated with
+hybrid ones that are in different color. You might find that even though
+these species hybridize and some subset of hybrids are fertile, you'll find that this subset of genes
+don't move from species A to species B. So I depicted this as though this is
+a pair of chromosomes from species A and a pair of chromosomes from species B. That again, if you look at it genetically,
+species will sometimes exchange a few genes but other genes will
+not flow between these hybrid. Now, there are some species that have
+hybridized for a very long time. And in fact,
+some hybrids zones have persisted for literally thousands of years
+as best as we can tell. This shows you that two species,
+Mus musculus and Mus domesticus. These are common house mice species and if you look here between say Romania,
+Bulgaria, and Greece. Domesticus is found in the lower part. Musculus is found in the upper part. There's this area in the middle
+here going through Bulgaria, where you see hybridization. Where you will find individuals
+that have part of musculus genome, part of a domesticus genome. And this has been happening for
+a very long time. And you'll see that some genes will move
+across the hybrid zone from domestics and musculus or vice versa. But some genes absolutely do not. They stay unique to musculus or
+they stay unique to domestics. Now, there are a number of tricky
+areas in the study of speciation. These tricky areas
+include like what happen if species are geographically separated? We'll say that you have a set of
+elephants in South America and you have a set of elephants in Africa. There are no elephants in South America,
+but pretend. [LAUGH] If you have these two populations
+of elephants, they're not exchanging genes, they are separate gene pools but
+do you consider them a separate species? Hard to answer that question. What if the groups are asexual? What if they just never interbreed? Is every individual bacteria
+a different species or is every bacteria the same species? Because they'll sometimes
+just spew out bits of genes. Again, tough things. And how much gene exchange is too much? I emphasize that you can have
+a little bit of gene exchange and still be considered to be good species. Again, tough question to answer. But just to recap, species are defined as diagnosable
+groups that don't exchange genes. Gene exchange prevented by one or more of
+those barrier traits that I went over. And again, gene exchange does not
+need to be reduced to zero for groups to be considered species. They just need to be diagnosable. And you need to be able to
+say that is a herring gull or this is a lesser black backed gull or
+something like that. Well, I hope this was helpful. Thank you.

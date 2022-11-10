@@ -1,0 +1,210 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. We've been looking at the process of
+speciation, or species formation. Now, speciation is what leads to this
+diversity that we have on the planet, in terms of all the species that we see. In the last video, we tried to understand
+where did all these species come from and why don't they fuse with each other? Where do these clusters come from? We talked about the importance
+of these barrier traits. These are traits that prevent gene
+exchange between existing species. And those are what basically keep
+one species distinct from another. In this video,
+we'll look at the effects of geography and how that affects species formation. But the reason we're interested
+in geography is, we wanna know, more fundamentally,
+what makes new species evolve. And we wanna understand
+the evolutionary processes involved. So what we're looking at happening here
+is the formation of barrier traits. When you have a barrier trait evolve,
+it separates one group from another group, you have a new species. Because you've cordoned off some or
+all of the genome from gene exchange. Again, you can have a little
+bit of gene flow and still be considered a separate species. Okay. A little bit of gene flow
+between the two types and still be considered a separate species. Again, we're interested in
+the evolutionary processes. We're interested in the relative roles of,
+for example, random or stochastic processes. What is the importance of,
+for example, genetic drift? What is the importance of mutations
+that just happened to arise in one group that didn't
+arise in another group? Those would just be random. We're also interested in the different
+types of roles that natural selection can have. So natural selection can act directly
+on traits to prevent gene flow. So for example, natural selection may
+directly favor a behavioral preference. And we will look at
+an example of that later. Or, natural selection may
+act more incidentally in the context of making these traits. It may be that it's beneficial for
+individuals in one particular population to forage in the tops of trees,
+and after they've done this for a while, they have a preference for
+foraging in the tops of trees. And then when they come back with their
+ancestors that foraged on the bottom, they just don't encounter each other. That would be more incidental. Now, we'll look at each of these
+in the context of these models of species formation. The first model we'll look at is often
+referred to as allopatric speciation. And that is speciation
+involving geographic isolation. So, I have here just four
+steps diagrammed out. You imagine you start off with one single
+population that's fully interbreeding. And maybe something happens over time,
+maybe a stream evolves that separates the population into two sub-populations,
+or perhaps a mountain range. Over time changes may happen,
+such that this group evolves in one way, this group evolves in another way. But again, there's no
+interbreeding between the top and bottom group because of this barrier. It's not because of
+anything intrinsic to them. And then after a long time when they come
+back together, they've happen to have changed enough that they don't interbreed
+or don't produce fertile offspring. So the big question is,
+what made these changes happen? What was happening in this period where
+one was on one side of the stream, one was happening on
+the other side of the stream? Well there are many possibilities. You may have had new random mutations that
+arose in one side that didn't arise in the other, and they spread, and
+then they fixed, eventually. You may have the abundance of gene forms,
+or alleles, just change
+randomly on two sides. Basically you have genetic drift. The other possibility was the environment
+was different on two sides. Maybe one environment they're selected for tolerance to a particular chemical, or
+tolerance to heat, something like that. And eventually, as a result of that, different alleles were
+favored by natural selection. But in all these cases,
+we did not have selection for the barrier effect specifically. The barrier effect was
+an outcome of random or selective processes, but
+it was not directly selected. Because they didn't encounter
+each other at the time, so there couldn't have been selection
+to avoid mating with those species since they never encountered
+the other population at all. So, the concept that's important here
+is that gene flow is the homogenizing force in evolution. So if you cut off gene flow for
+a very long period of time, then it's easy to diverge into
+two differentiated populations. That's the fundamental basic
+principle to allopatric speciation. There's a lot of evidence for this. One line of evidence is we tend to see that species boundaries are associated
+with geographic barriers. So, you'll see a lot of different species
+have the same species boundaries. So, Point Conception is a place
+along the coast of California. That's an area where there are 21
+species of snails, algae, and barnacles, that have ranges ending here, and that
+have a close relative on the other side. So there is 21 species on this side, 21 species on the that side, and the
+closest relatives are on the other side. It suggests that there is
+some sort of break here, there is some sort of current or
+something that makes it so there is an absence of gene flow that
+allowed these forms to separate. There have also been experimental studies
+trying to recapture this allopatric speciation process. There is a famous one from Dodd from
+1989 that did a selection experiment. So, she started off with
+a single species of fruit flies, it is actually Drosophila pseudoobscura,
+the ones I mentioned earlier. One group was fed starch based food for
+many generations, the other group was fed a different sort of sugar,
+a multos-based food for many generations. So after eight generations when
+she brought them back together, it turned out that the ones
+that bred on starch tended to prefer to breed with
+others that bred on starch. The ones that bred on maltose
+tended to prefer to breed with others that bred on maltose. It wasn't a perfect preference, but there was definitely a preference
+that was observable, in that regard. So just by virtue of some incidental
+selection to preferring maltose food, or consuming maltose food or consuming starch food,
+we had this behavioral preference evolve. So that's kinda cool. That was a simple model
+of allopatric speciation. Let me give you, now,
+allopatric speciation with a little twist. This is a case where we have
+geographic isolation but you actually regain contact
+before speciation is complete. This case again you are starting off
+with one population just like before, you're separated by your stream
+just like before, changes happen. So you have this start of evolving a new
+species, but in this case, before they are all the way at good species, they
+actually start to encounter each other. So that they're somewhat different but
+they're not completely different, and we have for some reason continued divergence
+and the formation of barrier traits. Now this is related to
+the concept of reinforcement. Now reinforcement comes from this
+idea that hybridization is bad, right, that anything that facilitates
+organisms passing on their genes would be favored by natural selection. Of course, right, it's always good to have
+as much of passing on your genes as much as possible in terms of fitness. Now, species hybrids are very often
+sterile or have somehow reduced fitness. This may be true in this beginning of
+evolution, that maybe the hybrids aren't completely sterile, but they're a little
+bit more sickly than within species types. As a result of this,
+producing sterile hybrids is costly. If the hybrids are sterile, the producing is costly because you're
+not passing on your genes any further and you're wasting gametes and
+parental efforts in producing these. If hybridization is bad,
+then we predict alleles that prevent or reduce mating with the other species
+will be favored by natural selection. Because they will reduce
+this bad hybridization. Essentially if you mate
+with your own type, you will produce offspring
+that is fertile and viable. If you mate at random, then you'll produce
+some sterile or less-fit offspring. Therefore, there's a preference for,
+or there's selection favoring alleles that will make it so that you
+preferentially mate with your own type. So this selection will only
+operate in populations where you can mate with the other species. If there's no choice but your own species present,
+then there's no selection for that. So we predict that this reinforcing
+selection should only operate in populations where you can
+mate with the other species. Well this relates actually
+to my dissertation study. If you go back to 1995,
+that's me in 1995, with more hair. I worked again on Drosophila
+pseudoobscura persimilis. Just to recap,
+these species look exactly alike. The hybrid males of
+the species are sterile, so there's definitely a cost to mating with
+the other species, because half your kids are sterile and they are bad at
+passing on genes, of course. Hybrid females are fertile, right. So there's some conduit for
+potential gene exchange. They do mate in nature, but not very much
+and they're native to North America. Let me show you their ranges. This shows you the range of drosophila
+pseudoobscura and persimilis. The yellow indicates where
+pseudoobscura's found by itself. The red indicates where both
+pseudoobscura and persimilis are found. Now if hybridization is bad,
+if you're having selection favoring better discrimination against mating with
+the other species, would that selection operate on drosophila pseudoobscura
+here in the yellow population? Would there be selection there to
+preferentially mate with your own type? Or would there be selection here in the
+red population to preferentially mate with your own type? Think about that for a minute and
+try this in video quiz. I think that was pretty easy. At least I hope you
+found that pretty easy. The basic question here is where is there
+going to be selection to preferentially mate with your own type? What happens, I have brought flies from
+these populations back to the lab, and what I found is that when we look at
+drosophila pseudoobscura from yellow, they showed very low discrimination. They would mate with
+persimilis pretty easily. When I drosophila pseudoobscura from
+the red populations they had very high discrimination. They were very reluctant to mate
+with drosophila persimilis. So this is consistent with this idea
+of reinforcement, that selection directly favors a behavioral preference
+and this is just one example. There's actually evidence from
+a lot of other species as well, that if you look at these species. These are fly catchers
+form genus Ficedula. There's differences in sexually preferred
+characters in areas where the species overlap versus where they're found alone. Then if you look at, Ficedula hypoleuca
+and Ficedula albicollis, they basically look very similar in populations
+where each one is found by itself. In contrast, when you look in populations
+where they're found together, hypoleuca has a much
+more brown appearance. So again,
+they've adopted this different look through the sexual selection pressure. And generally speaking,
+this is another one species example. Generally speaking,
+they do surveys across species, you tend to find that co-occurring
+species show higher mating discrimination than geographically separated ones
+when brought together in the lab. So this is looking at variation
+among species rather than variation within species. So this all lends credence to this
+idea there can be selection for stopping mating with the other species. Now what traits can be selected? Now habitat differences between species
+can prevent making bad hybrids. Timing differences between species
+can prevent making bad hybrids. Mate preference differences between
+species can prevent making bad hybrids. But let me ask you this. Can you have selection for
+hybrid sterility? Well, think about that for just a second. Does that actually prevent
+you from making bad hybrids? Well, that was a pretty easy question for
+you. In fact, the answer is no,
+hybrid sterility is too late, you've already made the bad hybrid. So it doesn't actually help you
+to ever have hybrid sterility. In fact, there's almost no circumstance
+that you can find where you can actually have natural selection favoring
+making sterile hybrids. Whereas you can have natural
+selection favoring all those things that prevent interbreeding. The last model I
+introduced to you briefly, this is a case where you have
+no geographic isolation. This is often referred to
+as sympatric speciation. So, you start with one population,
+no stream or anything but you just have partitioning
+into distinct types. Interbreeding is reduced, and
+they continue to form and eventually become separate species. This probably requires very
+strong natural selection. Imagine if you had distinct niches. And imagine, in the course of
+adapting to these distinct niches, it makes it such that if you actually
+are intermediate in some sort of form. If you're not adapted to niche one,
+if you're not adapted to niche two, you're actually bad in both. Or if you're a frequent switcher,
+you're actually bad in both. That would make a situation where you
+could potentially have this sort of split happen. But there are trade-offs associated with
+adaptation to niche one versus niche two. Now there is some evidence for
+sympatric speciation. It's not very common but it might
+happen at some frequency out there. Probably the best example is that
+of the Crater Lake cichlids. These are ones that have shown
+distinct habitat adaptations. They have diversified in their feeding
+apparatus, as you see over here. And they have diversified
+in color patterns. So we actually see behavioral
+preferences associated with those. With these crater lakes now, they are open where individuals can
+swim from one niche to another. So there are niches there. The nearest relatives are nearby. But we've had this diversification
+in deforms just in one area. Now, there's probably not
+a single answer out there, there's probably diversity of answers
+to these but looking at the things that I raised, you can have natural
+selection incidentally cause new species. We saw that in the allopatric example,
+especially that artificial one that I mentioned with the starch and
+maltose foods. You can have natural selection directly
+drive or help formation of a new species. That's what you tend to see in
+the context of reinforcement. Random processes almost
+certainly can contribute. The big question, and this is
+the kind of thing a lot of speciation researchers struggle with, is how
+often do each of these things happen? And I mentioned for
+example that sympatric speciation is rare. You've probably can find a biologist
+out there who might say it's actually quite common. We don't know. The real answer is we don't actually know. It just seems like it should be hard but we don't really know because
+it's hard to test these. So just a recap, from geographic patterns
+we can sometimes infer the evolutionary processes that drove these splits. That we have evidence for
+diverse modes of species formation. So we have evidence for
+allopatric speciation. We have evidence for reinforcement. We have a little bit of evidence
+of sympatric speciation. And these suggest there are diverse
+roles for natural selection and random processes. And finally,
+the big question now is the relative frequency that all these things happen. So, we shall see. Thank you very much.

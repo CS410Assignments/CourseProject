@@ -1,0 +1,166 @@
+Well, let me say just a little bit about
+the orientation of hair cells in our sensory epithelium because this turns out
+to be quite important for understanding the function of each of our sensory
+structures in our vestibular labyrinth. For the otolith organs, what we find are
+the hair cells are arranged with a certain axis of symmetry that divides the
+sensory epithelium within each of our otolithic organs.
+So, for example, notice here in the saccule.
+So, this is the sensory epithelium. In the saccule, this is called a macula,
+meaning a spot. So, there's a special sensory spot in
+each otolith organ called a macula. And these arrows here are meant to
+illustrate the axis of symmetry of the hair cells.
+Now, notice that in the saccular macula, there is an axis of symmetry that sort of
+runs right down the middle of this structure.
+And the hair cells are organized from shortest to longest going in opposite
+directions, so the arrow points towards the longest stereocilium.
+So, this means that if we're going to deflect these hair cells along their axis
+for depolarization or hyperpolarization, then this saccular macula would need to
+be rotated essentially along the y-axis. Which means, the saccular membrane is
+going to be sensitive to deflection that would either pitch the head in a forward
+tilt or in a backward tilt. Also, the accelerations up and down that
+we would experience in an elevator would also be expected to be in line with the
+orientation of activation that we find here in this saccular macula.
+Now, let's look at the utricle and its macula.
+Now, there is also and axis of symmetry here and there's a bit more of a
+curvature to this axis. And what we find are that the hair cells
+are arranged, basically with the opposite kind of polarity, that is the longest
+stereocilium is towards the line of symmetry with the shortest being
+peripheral to that line of symmetry. Now, this utricular macula is largely in
+the horizontal plane. Not entirely, there's a little bit of it
+that curves upward, but it's largely in the horizontal plane, while the saccular
+macula is largely in the vertical plane. So, this means that this utricular macula
+is going to be most sensitive to linear accelerations that we might make with our
+head in the horizontal plane. If we were to tilt our head to the left
+or to the right in this sort of a rolling action if we held that tilt what we'd
+find is that is that it's really this utricular macula that is most sensitive.
+And again, it has to do mainly with the fact that these hair cells are going to
+be activated because of the axis of depolarization and hyperpolarization
+would be activated as we tilt our head from one side to the next.
+[SOUND] Okay. So, that's a bit about the organization
+of the hair cells and the otolith organs. We'll come back to this.
+What about the semicircular canals? Well, the semicircular canals are a bit
+more straightforward. They're the hair cells are found in these
+bulb-like structures that we find in here.
+And these bulb-like structures are called ampullae or ampulla or a, a singular
+bulb. And within that ampulla, there's a
+sensory epithelium we call that a crista and that's where we find our hair cells.
+And in each crista, the hair cells are arranged basically just in one direction.
+So, unlike our otolith organs where there is an axis of symmetry, there's no axis
+of symmetry in the semicircular canals. within that ampulla along that crista,
+all of these hair cells will either get deflected together in one direction
+towards the longest stereocilia or away from that longest stereocilium, towards
+the longest was depolarization, away would be hyperpolarization.
+Now, I want to talk about each of these classes of organs and consider how the
+biomechanics of their function relate to the sensory transduction mechanism.
+And let's first start with our otolith organs.
+So, here again is the macula of the otolith organ.
+And let's just say that this would be the macula of the utricle.
+And what we find is that these hair cells are not just projecting out into the
+endolymph but rather there's a gelatinous membrane that sits right on top of the
+apical surface of this sensory epithelium.
+And yet, on top of that gelatinous membrane are these calcium carbonate
+crystals that we call otoconia and otoconia quite literally means ear
+stones. So, we have basically a layer if calcium
+carbonate crystals. We can think of it really as a layer of
+pebbles that are sitting upon this relatively dense, relatively heavy
+gelatinous mass. So, what would that mean if we were to
+tilt our head in one direction or another?
+Well, when we tilt our head, we're going to shift the distribution of that
+otolithic membrane relative to the fixed structures of the sensory epithelium.
+So, if we have a static tilt but, say, in the backward direction, go ahead and tilt
+your head back if you like. What we find is that this gelatinous
+membrane with the weight of it being pulled by the force of gravity we find
+that that membrane would begin to slip in the downward direction relative to the
+fixed sensory epithelium. And the result is that the hair cells are
+going to be bent in the downward direction.
+Now, remember the axis of symmetry that we found.
+So, in this illustration, the hair cells that are here to the right are going to
+be depolarized because they are being deflected toward their longest
+stereocilium. But the hair cells on the opposite side
+of the axis of symmetry are going to be hyperpolarized because they're going to
+be deflected away from their longest stereocilium.
+So, within each macula of, or otolith organs have the population of hair cells
+will be activated by a static tilt. Whereas, the other half will be
+deactivated or hyperpolarized. So, this is not unlike the situation we
+talked about in the retina, where for the spot of light that strikes the retina,
+half of the population of Ganglion cells for which that spot hits the receptive
+field will turn on. Those will be our on center cells and the
+other half will turn off. Those would be our off center cells.
+So, we can think of this symmetry in the macula of the otolith organ as being
+somewhat analogous to the on and the off structure of receptive fields in the
+retina. only here now rather than there being a
+physiological explanation, there's really a, a biomechanical explanation, the on or
+the off or the hyperpolarization and depolarization simply has to do with this
+axis of symmetry that runs through the membrane.
+Okay, well, let's consider now what happens when we accelerate our head in
+addition to when we tilt our head. So, this would be our resting posture
+with the gelatinous membrane and the otoconia right on top of the otolithic
+organ, so our hair cells will be in a neutral position, and what I just
+described for you is the impact of that backward tilt.
+So now you're familiar with the idea that gravity would pull that otolithic
+membrane and there would be a shearing force that would depolarize half of the
+hair cell population and hyperpolarize the other.
+Well, we can also activate this system if we accelerate our heads forward.
+So, if we start walking, for example, or just lean forward with our head,
+basically what we're doing is that we are accelerating the sensory epithelium.
+And that will sheer against the otolithic membrane, because of the inertia that we
+would have as these membranes slip past each other as we accelerate the sensory
+epithelium, which is, of course, fixed to the bones of the head.
+So, forward acceleration would be similar to this backward tilt, at least for this
+sensory epithelium. Now, movement in the opposite directions
+would be expected to produce the opposite physiological results.
+So, a forward tilt of the head would result in gravity tugging forward that
+otilithic organ. And now, that sensory epithelium should
+show the opposite physiological response. And now the hair cells that were
+depolarized by backward tilt will be hyperpolarized by forward tilt.
+And those that were hyperpolarized by backward tilt, backward tilt are now
+going to be depolarized. Likewise when we decelerate, so if you're
+walking and you come to a stop, now what's happening is that this sensory
+epithelium is decelerating creating a shearing force against the otolithic
+organ as the forces of inertia eventually allow for the stabilization of this
+membrane back in line with the neutral position of the hair cell stereocilia.
+So, deceleration is going to be similar to activating this membrane with a
+forward tilt. Now, let's look at the physiological
+responses of the actual cells that are giving rise to the signals that can be
+recorded in the 8th cranial nerve. So, if we were to tilt our head forward,
+what would happen is that there would be, a significant elevation in the firing
+rate of axons in that 8th cranial nerve as long as we sustained the tilt.
+And the reason is simply that as we start that tilt and then maintain it, gravity
+has now pulled that otolithic membrane forward relative to the sensory
+epithelium. So, these hair cells maintain their
+deflection of the stereocilia towards their longest stereocilium that would be
+consistent with depolarization. So, this would be a recording from an
+axon that innervates such hair cells on one side of that axis of symmetry.
+So, these cells fire tonically, so we call this a tonic or sustained pattern of
+activation, as long as the head is in its tilted position and when we restore our
+head to neutral, then the firing rate returns to rest.
+Now, if we were to tilt in the opposite direction, the very same axon would be
+expected now to decrease its firing rate. And that's exactly what happens.
+So, if we're recording from the cell that was activated by a forward head tilt with
+a backward head tilt, then that neuron is going to have a decrease in its firing
+rate. So, it makes some sense then that there
+ought to be a fairly high level of spontaneous activity in this system
+because otherwise, it wouldn't be possible to decrease the firing rate if
+the firing rate were already nil. So, having some significant measure of
+spontaneous activity allows this system to either be increased or decreased,
+depending upon the deflection of those stereocilia, okay?
+So, again, let me just emphasize the major physiological point that I want you
+to take away from this and that is that when we move our head by linear
+acceleration or by tilt in the vertical plane, we are largely going to activate
+our saccule. And this is again, because of the
+orientation of the sensory epithelium, which is largely in the vertical plane,
+but also, the direction of organization of those hair cells.
+So static tilt forward, forward and hold and backward and hold or a elevator type
+acceleration, up and down, that’s going to activate these hair cells that are
+otherwise in this direction. In the same way, the maccula of the
+utricle is arranged to be sensitive to motions in the horizontal plane.
+So, linear accelerations forward or to the side as well as head tilt, tilt and
+hold to one side or the other is going to activate the utricle macula more so than
+the sacculus. Now, like most complimentary systems in
+neuroscience there is some overlap so we can expect that any one kind of head tilt
+or any one kind of linear acceleration is mainly going to activate one kind of
+membrane or the other. But the other one will contribute to the
+sensations that are derived from that movement to some degree.
+And certainly if we move along some oblique axis of acceleration or some
+oblique direction of tilt, we can expect both otolithic membranes to contribute to
+the sensations that are derived from that motion.

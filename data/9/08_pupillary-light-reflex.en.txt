@@ -1,0 +1,108 @@
+Welcome back.
+In this tutorial, I'd like to talk to you briefly about the circuitry that's
+responsible for the pupillary light reflex.
+again, our journey into the visual system is an attempt to make it a bit more
+simple, some of the most complex pathways and function of the brain itself.
+We will once again consider circuitry, that is genetically determined and
+provides a foundation for one very useful aspect of nervous system function.
+One that is exploited from a clinical point of view to assess the integrity of
+cranial nerves and brain stem circuits, that is the pupillary light reflex.
+So my learning objectives for you, are to describe the distribution of retinal
+axons, from ganglion cells to their major processing centers in the forebrain in
+the brainstem. And we have some particular brain stem
+targets in mind in this tutorial. And I want you to be able to use that
+knowledge to discuss the neuroanatomical basic for the pupillary light reflex.
+So let's consider again, the distribution of the axons of our retinal gangling
+cells. Those that reside on the temporal side of
+the retina, grow their axons out through the optic nerve, and they remain on the
+ipsilateral side of optic chiasm, being distributed to the appropriate targets in
+the diencephalon and to the mid-brain. those axons that arise from nasal retinal
+ganglion cells, that sit here in this location, close to the nose on what we
+call the nasal side of the retina. They grow their axons through the optic
+nerve. And when they get into the optic chiasm,
+now these axons cross the midline. And they give rise to projections to a
+variety of targets in the diencephalon and in the midbrain.
+including the hypothalamus, and the lateral geniculate nucleus of the
+diencephalon. And the superior colliculus and the
+pretectum and the midbrain. And for this discussion today, the
+projection of interest is this projection to the pretectum, that I would highlight
+here from the retina into a set of nuclei that sit in a transitional region between
+the diencephalon and the midbrain. And in that region of the dorsal part of
+the midbrain, we have the superior and inferior colliculi.
+That, collectively, is called the tectum. Tectum means roof.
+It's the roof over the cerebral aqueduct. So the region just in front of the roof
+is the area of our focus in this session. That's what we call the pretectum.
+That's where we find a collection of nuclei that receive direct input from the
+retina. And it's those cells that will coordinate
+the distribution of that sensory information to the motor structures that
+result in the constriction of the pupils. So let's look now at a view just
+specifically of this reflex circuitry. So now what we see are the sensory and
+the motor limbs of this reflex arc. And let's first consider the sensory
+limb. Now the retinas are projecting into the
+pretectum. And notice that the pretectum in one side
+of the mid line is getting input derived from both retinas.
+So the temporal retina of one eye, the nasal retina of the other, are both
+contributing input into that pretectum. So that's important.
+so you need to understand that the sensory signals going into one side of
+that circuitry are derived from both eyes.
+Now, the motor limb of this reflex circuitry arises out of the pretectum.
+Now notice another very important fact about this circuitry here, that pertains
+to sidedness. The projections from these pretectum
+nuclei to the motor nuclei in question are bilateral.
+So here is our pretectal nucleus and it gives rise to axons that are directed to
+both sides of the midline. And specifically the target there is a
+small parasympathetic preganglionic nucleus called the Edinger-Westphal
+nucleus. It sits just dorsal and slightly lateral
+to our somatic motor nucleus or ocular motor nucleus and it's in this
+Edinger-Westphal nucleus that we have the preganglionic neurons that grow axons out
+through the third cranial nerve. So, here in green is a Edinger-Westphal
+nucleus, and it's growing an axon out through the third nerve, which makes a
+synapse on a post-ganglionic neuron, in the ciliary ganglion.
+And then that neuron grows its axons, into the eye itself, to supply ganglionic
+parasympathetic innervation of the constrictor muscle of the iris.
+So, when this motor signal is conveyed down that third nerve, the iris will
+constrict. Now, notice one other important fact
+that's worth emphasizing about the organization of the motor limb of this
+reflex. Once the signals leave the Edinger
+Westphal nucleus, they remain on the same side.
+That is, they remain ipsilateral. So there is bilateral distribution of
+sensory signals into this circuitry. And then from the pretectum to the motor
+output there is once again bilateral distribution of information.
+But once we get to the parasympathetic motor nucleus the information is
+unilateral. Specifically it remains ipsilateral.
+Okay, now, I'm going to want you to think through systematically all the various
+perturbations of the pupillary light reflex.
+Imagine shining a light in one eye, and looking for constriction of the pupil.
+Shining a light in the opposite eye and doing the same.
+And imagine what you might see in a variety of patients.
+There will be hopefully, all of your patients, but we know sadly that won't be
+the case. Hopefully all of your patients will show
+symmetrical, bilateral constriction of the pupils.
+And this bilateral constriction is an indication that the signals are being
+processed in the pretectum, distributed bilaterally to the motor nuclei.
+And these signals are being sent along the efferent pathway to the constrictor
+muscles of the iris, leading to the symmetrical constriction of the pupils.
+Now if any of that is not observed, then you very well may have an injury to the
+eye, to the optic nerves, to the optic tract, to the circuitry of the pretectum,
+to the region of the Edinger-Westphal nucleus in the nerve roots of the third
+nerve. Or the path taken by those preganglionic
+or postganglionic axons out to the constrictor muscles of the iris.
+And it's your job as a clinician to reason through this circuitry and make a
+judgement as to whether you think there is a localized lesion.
+Now, our focus here is on the constriction of the pupil, but let me
+just say in passing, that there's also a dilation of the pupil that's under the
+governance of the sympathetic nervous system.
+And as you may recall the sympathetic outflow, comes preganglionic neurons, in
+the intermedial lateral cell column of the thoracic spinal cord.
+So there's a rather circuitous route that the neural signals take to get out of the
+brain into that sympathetic chain of ganglia and then back to the iris.
+So just keep in mind for our consideration here that pupillary
+constriction is under the governance of the parasympathetic outflow through the
+third nerve where as pupil dilation is under the governance of the sympathetic
+nervous system. So I'd like to leave you after this brief
+tutorial with three study questions and these are questions that will present
+clinical vignettes from three patients. each of whom has some sign associated
+with your performance of the pupillary light reflex.
+And your job is to consider whether there may be a localized lesion to either the
+sensory limb of this reflex, the motor limb or perhaps the central stations in
+the pretectum where sensation is integrated to produce motor action.

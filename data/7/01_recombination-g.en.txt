@@ -1,0 +1,182 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In most of the videos that you've seen so
+far, we were studying patterns of genetic inheritance looking at
+alleles from one gene at a time. In the last video you saw,
+we studied patterns of genetic inheritance looking at two genes at a time,
+rather than one. We're focusing on genes that
+are on different chromosomes, and we discussed how those
+assort independently. They follow Mendel's Law
+of Independent Assortment. In this video we'll continue to
+look at patterns of inheritance, of two genes at a time. But looking at genes that may actually
+happen to be on the same chromosome, but maybe not right next to each other. Now this is called crossing over and this is a subset of the overall
+process of recombination. Many of you use Wikipedia, I know, recombination, you can basically
+break up the word as I've done here. Re or a new. Combination. So basically recombination is shuffling
+of alleles into new combinations. Combinations that were
+not found in the parent. I will emphasize the Wikipedia definition
+in this regard is not precise. Wikipedia definition focuses specifically
+on one type of recombination called crossing over which
+will be our primary focus. But I want to emphasize that
+all recombination is important. Both through genetics and evolution. And independent assortment is
+one type of recombination. Essentially you have recombination
+when you produce a gamete that has a combination of alleles that
+was not found in one of the parents. This gamete is then called recombinant. So you have to examine this by looking at,
+essentially two stages. You have to look at a person. The sort of focal person. You have to look at the gametes
+that made this person. You know, the things from their mom and
+their dad. And we have to look at what
+happens in their gamete. So, let me illustrate
+this with an example. Let's say that you're looking at
+something on the X chromosome, which is one chromosome. And let's say you're looking at
+the two traits that I talked about in the last video. Being colorblind vs not colorblind. And let's say that you're also looking at
+a trait that's controlled by one gene. Something similar to
+the way I described before, with your left thumb landing on top. As opposed to the right thumb on top. Or the one with the left style
+landing on top is dominant. So if you have a sperm from somebody
+who was not colorblind, and with left thumb on top, so
+this is the sperm that's coming in. Here's the egg,
+the X that's colorblind, and right thumb on top, we end up with
+somebody who's heterozygous for both. He has one copy of each alleles. Now in this case, this individual,
+who is a female, is gonna have an egg. Note now this egg will through this
+process of independent assortment, is just as likely to
+give this x as that x. In this particular case, this x is
+the one that lands in the egg, and this other chromosome that has the left
+thumb on top is also lands in the egg. Note this combination
+is found in this egg. The Xcb and the L. The Xcb actually came from the mom,
+from this individual's mom. The L came from this individual, dad. So, we actually have a new combination. This is a combination that was not one
+of the forms that made the person. This was not something found
+in parental sperm or egg. When it is a new combination. That is why this is called recombinant,
+right? Because we do not see anybody
+up here who's Xcb and capital L. So what's the opposite of a recombinant. The opposite of a recombinant is
+a parental type or nonrecombinant. So the first part of this figure is
+exactly the same as the previous one I showed you. But in this case. What happened is this ended up in
+the egg and this ended up in the egg. Now, these two are the exact combination
+that's founded one of the parents. So, this would be considered a parental or
+non-recombinant gametes. See what I mean? So, basically what you're looking at
+gametes that made the individual and gametes that are coming out of
+the individual and you're looking to see is there a new combination of gametes
+coming out of the individual. If there is,
+then you've had recombination. There's two means of recombination. One of them is independent assortment,
+which we've talked about. And this is typically what happens when
+you have different chromosomes, right, that you're just as likely to pass on one copy of the chromosome as another copy
+of the chromosome based on Mendel's laws. Now, the other possibility
+is crossing over. Now, again, sometimes the word
+recombination is synonymized to this. Sometimes people, when they say recombination are referring
+specifically to a crossing over. In this case, you're actually breaking
+off a piece of one chromosome and sticking it to another. This right here is a picture from
+Thomas Hunt Morgan's book from about 1960, where there's a white chromosome and
+a black chromosome. Pretend that one came from the dad and
+one came from the mom and we see in the offspring, we may get
+this part black part white chromosome. So it's this again new combination but it's actually happening along the length
+of one particular chromosome. So let me recap what these two things are. First in terms of independent assortment. Importantly, we can study
+independent assortment by multiplying probability, right? Because we assume that traits
+are inherited independently. So, again, if you're just as likely to
+pass on this alleles as that alleles, we can then just multiply
+the probabilities to get what's gonna happen
+among all the offspring. So in this example here, this is one of
+the one's we did in a previous video, you're heterozygous for both t and s. This is what would happen in terms of t's,
+this is what would happen in terms of s's. If you're big T little t
+crossed with big T little t, 1/4 of your kids would be big T big T. One half will be big T, little T. One quarter will be little T, little T. Same thing is happening with S's. So then to see what would happen for
+the combinations, we just multiply the two things together. So the probability of being big T,
+big T, big S, big S will be 1/4 times 1/4 or 1/16. That's what this is right here. All of these are divided by 16. So one will be this. The probability of being ttSS. So again, it'd be 1/16, that right there. The probability of being TtSs,
+that's one half times one half, so it'd be a quarter or four sixteenths,
+so we see right there. So, this assumes true independence. Now independence works well with
+this independent assortment thing. And you can see how this happens
+by looking at the chromosomes. Imagine here, let's see,
+all the blues came from dad and all the reds came from mom. This is now in the individual,
+this is chromosomes 1, 2, 3, and 4. Okay? You have you meiotic divisions and
+they produce this set of gametes. You can see along here,
+you may pass on the red chromosome 1. You may pass on the blue chromosome 3. You may pass on the red chromosome 4, etc. All sorts of different
+combinations happen. But in reality when you're looking
+at genes along the chromosome, it's not that simple. Often homologous chromosomes, these
+chromosomes that basically either came from dad and came from mom, will trade
+pieces during this process of miosis, that was what was depicted
+in that diagram from Morgan. So this happens when they're doubled and
+this process is called crossing over and this again forms recombinant
+chromosomes or recombinant gametes. Where if you're looking at two
+genes you can get combinations not found in the parents
+among the alleles. So let me just walk through
+this a little bit more slowly. So you have two homologous chromosomes. One inherited from the egg,
+one inherited from the sperm. So here it is. Here's your egg chromosome,
+here's your sperm chromosome. See them both.
+So here they are. They're put together. So what happens then,
+in the individual, so let's say for example this is me and the red I got
+from my mom, the blue I got from my dad. What may happen inside me in the process
+of making some of my gametes, I may have something like this happen,
+where pieces get broken and stuck together such that among my eggs, I obviously don't produce eggs, but among
+my eggs I might have some nonrecombinant. So this is passing along
+exactly what I got from mom, and some that are recombinant,
+bits from mom, bits from dad. Bits from mom, bits from dad. This is a recombination event
+happening along a chromosome. So you may be wondering, how do we
+tell if recombination is happening? How can we tell that this is going on? Well what happens is,
+we look at genetic markers, and we'll talk about what genetic markers are. But you can think of them as
+sort of the big A, little a and big B little b that we've
+talked about in the past. You can think of in like the traits that
+are associated with which thumb's on top or being colorblind or not. In this case, let's say for example, we know that from your mom,
+you got the capital A and capital B. We know from your dad you got
+the little a and little b, right? The nonrecombinant eggs from this
+individual will be capital A, capital B and little a, little b. It's something that was identical
+to the sperm or egg that made you. Recombinant eggs would be those new
+combinations little a, big B and big A, little b. Now importantly,
+you won't always have recombination. In fact, let's say for example, the a and
+b genes were right next to each other. They are basically stuck together. At that point you refer to
+them as being totally linked. They are linked together. That if you get the big A,
+you're always going to get the big B. When you get the little A,
+you'll always get the little b. If that was true, then you would
+only get these nonrecombinant eggs. Right. Basically if these two
+things were glued together. And you will only get nonrecombinant eggs. What tends to happen is
+neighboring gene variants, or alleles, tend to stay associated. So, I diagramed here what you might
+imagine looking at several chromosomes from one heterozygote individual. So, again, here's the chromosome
+from mom on top, it's red. Bottom chromosome is from dad,
+it's blue on the bottom. Their producing gametes. You might see this along
+the gametes there. So you have a stretch of reds, stretch of
+blues, stretch of blues, stretch of blues, stretch of red, etcetera etcetera. If you look at this,
+how often are A and B linked? How often do you inherit a red A with
+a red B, or a blue A with a blue B? A and B are right next to each other. And if you look across this whole chart,
+pretty much always. And if you get a red A,
+you're always getting a red B. If you're getting a blue A,
+you're always getting a blue B. You see that very clearly along here. In contrast, how often are A and C linked? Notice, A and C are further apart. Well, here, in this first individual,
+A and C are both red. On the second,
+we actually get a red with a blue. Or we go blue with the red. Course we go blue with the blue. So, really only about half the time
+are you getting the two parental types and half of the time you're
+getting the recumbent. Now this is what's used for
+constructing genetic maps. That if you have genes close together
+they tend to be inherited together. You're violating this principle
+of independent assortment, I would describe before though what's
+happening in this case is your looking along one chromosome rather than
+looking at different chromosomes but you can no longer multiply
+the probabilities like we did before. Let's try to follow this,now
+let's assume total linkage. Let's assume that a and
+b are stuck together. They're right next to each other. So let's imagine dad is big A, big B. And let's imagine mom is big A,
+little a, big B, little b. So dad is always giving the same gametes,
+no matter what. Dad is always giving a big A,
+big B, right? So, we see that along this chromosome. Dad is always giving a big A, big B. Mom in this case will only give a big A,
+little b, right? Or a little a big B. As we said it's linked right? So this is what moms going to give. So what kind of offspring can we see. We can have big A big A, big B little b. Same over here. Or we can have big A,
+little a, big B, big B. So in this case there's only two possible
+forms that you can get out of this. There's only two possible offsprings, if you have total linkage in this case,
+right? What would happen if in contrast,
+there was no linkage? What would happen then? Well again,
+dad is always going to be giving big A, big B, right,
+that is all he can ever give. Even if he did have recombination then
+you'd never know because it'd always still be big A, big B. But in this case,
+mom has more things she can give. Here we have the parental types. Big A, little B and little A, big B. But if there is no linkage, sometimes
+little A, little B can go together, or big A, big B can go together. So these are recumbents and
+these are parentals and as a result there's a lot more possible
+options that you can get up so we can get in this case big A, big A,
+big B ,little B, big A ,little A, big B, big B, big A, big B, big B, and
+big A ,little A, big B, little B so in this case now we have four possible
+types of offspring rather then just two. Now, one thing I hope you noticed
+in looking at this is that phase was important, that basically,
+which alleles is next to the other one. In this case, let's say, for example, you were to say an individual is
+big A,little a,big B,and little b. We don't actually know the phase. You don't know what combination of
+alleles he got from a sperm that made him as opposed to the egg that made him. In this top example the egg
+that made him was big A, big B and the sperm that made him was
+little a,little b, well that's one possibility the other possibility is that
+egg that made him was big A, little b, and the sperm that made him was little a,
+big B. In each of these cases you get
+different sorts of recombinant gametes. This these bottom ones,look
+at the bottom set. The capital letter ones
+are recombinant gametes here, right? Because you have to have
+a recombination of it to get those. For the top one, one capital with one
+lower case is what's recombinant. So it's very important that just
+because you see an individual that's big A ,little a, big B, little b ,you
+can't actually just from that alone. Figure out what sort of
+recombination is going on. So we'll pick up on this in
+the next video to look at how to calculate recombination distances. [INAUDIBLE] Thank you very much.

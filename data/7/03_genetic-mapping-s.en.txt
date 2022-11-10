@@ -1,0 +1,144 @@
+Hello.
+And welcome back to Introduction
+to Genetics and Evolution. Now, we'll start tying in some of the
+things that we've talked about in previous videos about inheritance
+of multiple genes. So, alleles of multiple genes at one time,
+with recombination, and specifically crossing over, to get
+to the principle of genetic mapping. How do we actually find genes related to
+diseases or other traits of interest? So let's get started. So what is genetic mapping? Well mapping, simply put, is using associations between alleles
+at multiple spots in the genome, spots in the genome are referred to
+as loci, to do one of two things. So either we determine where
+a gene is relative to other genes. So for example, in the case we were doing
+before with the Drosophila mutations, we were looking to see where is the cinnabar eye color gene
+relative to the vestigial wing gene. Or we may be trying to localize
+a gene that is causing a phenotype. So we may be, for example, trying to find
+where is the gene that is related to diabetes predisposition or
+cancer predisposition. And this, again,
+is often done in the context of cancer. So, this was one of
+the primary driving forces for the human genome project,
+a little bit over a decade ago. That we wanted to be able to map
+genetic diseases in the human genome, once the sequence was obtained. Now, the goal from this was to basically
+find a way to find these genes faster and easier than could have
+been done in the past. So what they did is they essentially made
+this catalog of all 20,000 human genes. This was a huge undertaking. Because in order to do this they had
+to assemble 3 billion bases of DNA into order. So just going along chromosome 1, and
+saying the sequence is ATTAGACCC. That's actually exactly it. No, I'm just kidding. [LAUGH] They essentially had to assemble
+the sequence along these long chromosomes. And again, it's 3 billion bases of DNA. So this was a massive
+international undertaking. But they were able to do it, and they were able to come up with the first
+draft human genome around 2001 or so. And they sorted these along
+with 23 pairs of chromosomes. This shows you what some of
+the chromosomes look like in a karyotype. Now, people thought, when you talk
+to the general public they say, well, we have the whole
+human genome sequenced, so don't you know where all the genes
+are that are associated with disease? Well, there's a problem there. And this is something I really want to
+emphasize because it's a common source of misunderstanding. It's not easy to go from DNA
+sequence to disease-causing gene. Because the DNA sequence
+looks something like this. ATGGCGAGCTAG, etc etc. It's not labeled, I cause cancer. [LAUGH] It doesn't scream out to you that,
+here's a gene that's important for this, or even, is this necessarily
+a protein-coding gene at all. So, we can get some guesses, or
+some hypotheses, of normal functions of genes from a sequence, but we can only
+guess what sequences may cause problems. That's why we have to go through this
+somewhat arduous task of genetic mapping. Now, genetic mapping is
+very much a first approach. It is not conclusive. You can't just map a disease,
+and, oh, there it is, done. And say that's the basic cause. It's definitely the start
+of looking into this. And what's happening when you're doing
+genetic mapping, this is very much like what happened with our Drosophila examples
+from previous lecture, where identifying the location of disease mutations
+relative to other spots in the genome. These other spots are the genetic
+markers we talked about. So these are essentially
+reference points in the genome. And if you have a fully assembled genome
+sequence, then you know, for example, the reference point of this marker is at
+essentially base 1342 on chromosome three. Right, so that gives you
+a reference point, so along this, if I know it's this way from that
+marker and that way from that marker, I can localize and say, okay it's
+between base 1342 and base 20,346,655. You can basically narrow it down where in
+the genome these things are relative to genetic markers. And again, the principle is very similar to what
+we did with the Drosophila mutation. So how do we get genetic markers? Well, again, this is where we can leverage
+some of the resources that came about partly as a result of
+the human genome sequence, that multiple people were used for
+the first, original human genome sequence. And we've had many, many, many more human genome sequences since
+that first one that came out around 2001. And what happened in doing this is
+you can compare nucleotide sites. You can basically put
+the sequences together and say, well here is a stretch of
+sequence from one individual. Here's a stretch of sequence
+from another individual. And look, there's a few bases that we
+see are different between individuals. Any pair of individuals will have
+a couple of base differences. As long as they're not necessarily
+identical twins, for example. So here we can say, well this is
+a difference, this is a difference. We can use those as
+potential genetic markers. Now these particular sites are referred
+to as single nucleotide polymorphisms. Single because it's one base, nucleotide
+because it is one of those bases of DNA. Polymorphisms means
+a variation within the genome. So poly for many, morph for form. So, single nucleotide polymorphism. This is often just abbreviated as SNPs. So it's a nice, catchy sort of term. [LAUGH] Anyway, what we can do is we can,
+using blood or spit or something like that. This is what they use for some of those DNA tests I talked
+about in an earlier video. We can genotype blood or
+tissue for these SNP markers and use them as reference points. So we can use this as a marker and then try to map a disease
+relative to this base. Use this as another marker and try to
+map the disease relative to that base. And maybe we can say it's between them or
+off to this side or off to that side, etc. So what resources do we have? Well we have many. So, first and foremost, we now have the
+genome sequence mostly put together from end to end on each chromosome in humans. Now I'm emphasizing this case, humans. The same principle of genetic mapping
+can be applied to any organism. Now we have, in the case of humans, we have 23 long sequences
+corresponding to the chromosome. There are some areas that
+are not very well assembled, and there are some potential errors in there,
+but this is a very strong starting point. We also have computer
+generated predictions for what parts are likely genes encoding for
+proteins. So again,
+the sequence is just like A-C-A-A-T-G-G-G. It doesn't tell you, this part is relevant
+for making a protein, this part is not. But, we can generate predictions, though,
+from computer algorithms for doing this. And last, but far from least, we have data showing some bases that
+differ between a lot of humans. This is referred to as the HapMap project. Where we know a lot of
+particular sites in the genome, just like in the previous slide. Let me go back one. Just like in the previous slide,
+we have a lot of these mapped out, where some individuals have A and
+some individuals have G. So, a lot of those are known, and we can leverage this last set as
+genetic markers when mapping diseases. Now, ultimately the essence of
+genetic mapping is to look for an association between genotype,
+or marker alleles, and phenotype, or, for example,
+a disease of interest. If you tend to see an individual that has
+an A base at site tends to have a disease, then it's likely that A base is
+either the disease-causing gene or at least very close to it. It is linked to it,
+like we talked about last time, okay? So, again, this is just showing you
+what I just discussed a second ago. We have the genome sequence
+just like the stretch of bases. We have predicted genes, and
+we have this HapMap SNP, these single nucleotide polymorphisms. So these are the ones that
+we use as genetic markers. And these are, in essence,
+this difference between individuals, are basically the same thing like what
+we were talking about with big B and little b like with Mendel's peas, those
+are caused by these sorts of differences. Again, all genetic mapping comes down to
+seeing an association between genotype, alleles at particular markers, and your
+phenotype, which is the trait of interest. I can't say that enough times. But that is what genetic mapping is. And that is how you are able to find,
+along this whole stretch of sequence, where are the genes that are associated
+with trait differences or disease predisposition. Here's an extreme example. Let's say that we wanted to map
+a recessive genetic disease, let's say, it's sickle cell anemia for example. Let's say that we're trying to map it
+relative to two genetic markers, A and B. Let's say at each of these genetic
+markers they have two forms, big A and little a at the A locus, big B and
+little b at the B locus, okay? So you crossed two individuals. You don't actually cross humans,
+but let's just pretend. You crossed two individuals. One of them is a carrier for
+sickle cell anemia and is heterozygous for these markers. So this individual is big A,
+little a, big B, little b. We also have this person have kids
+with somebody who has the disease, so may have sickle cell anemia, so little a
+little a, little b little b in this case. Let's say you get this set of offspring. So this first one is AaBb, and is okay. Next one is Aabb and is diseased. aaBb and is okay. aabb and is diseased. So take a moment, look at this for
+just a few minutes here. And think about what would you conclude? Whether the A marker or the B marker
+is closer to the disease mutation. Now remember we don't assume
+that it is the disease mutation. We're just saying it's linked to it,
+one of these may be linked to it. So think about it, would it be
+the A marker, B marker, both, or neither? Well, I hope that one
+wasn't too difficult. Again, the essence of all
+genetic mapping is looking for an association between genotype and
+phenotype. So let's look at the two
+genes in isolation here. Let's look at the A gene
+versus the B gene. And that's the easiest way
+to see what's going on. So when you're looking at the A gene,
+what's going on? When you're,
+we have two possible genotypes. We have Aa, all right, so the top two
+are Aa, and the bottom two are aa. Do we see any sort of
+consistent association? That if you're a Aa you
+tend to be diseased, or if you're aa you tend not to be,
+or something like that? No, we see half the Aas are okay, half of them are diseased, half of the aa
+ones are okay, half of them are diseased. So there's no association with A. So A is not associated with this genetic
+disease or not clearly associated with it. What about B? Well in this case,
+Bbs are okay, bb is diseased. Bb is okay, bb is diseased. This very much suggests that
+B is linked to the disease, and specifically the little b allele,
+individuals that are bb, tend to be the ones that get this disease. This would suggest that the little b
+allele is actually associated with some sort of disease-causing
+mutation in this instance. So we'll elaborate on this quite
+a bit more in subsequent videos. But I hope you find this exercise useful. Thank you.

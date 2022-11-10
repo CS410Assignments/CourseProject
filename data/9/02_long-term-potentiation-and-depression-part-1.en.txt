@@ -1,0 +1,252 @@
+Welcome to this tutorial.
+This is the first of three devoted to the fascinating topic of synaptic plasticity.
+in this tutorial, we're going to talk about two particular mechanics, one
+called long-term potentiation or LTP for short, and the other, long-term
+depression, LTD. This tutorial will be followed by one
+that will frame up our understanding of plasticity as is occurs in real brains
+one spike at a time. And then, lastly, we'll talk about the
+famous Hebb's postulate and how our understanding of synaptic plasticity is
+framed up In those terms. Well, this topic relates to several key
+concepts in the field of neuroscience and they are enumerated below.
+neuroscience core concepts 2, 4, and 8. We will continue to talk about how
+neurons communicate through both electrical and chemical signals.
+And the plasticity that we'll be speaking of in this tutorial relates to plasticity
+of chemical signaling. And the point of plasticity is that it
+provides us with a means for life experience to change the nervous system.
+So we're beginning to talk about some of those most fascinating topics in the
+field of neuroscience. Those topics that pertain to
+understanding how the experiences of our lives are transduced into permanent
+change in the nervous system. All of this holds great promise for the
+future, fundamental discoveries promote healthy living and the treatment of
+disease. These topics that we will be exploring in
+the next few sessions are really giving us a glimpse into the future of medical
+neuroscience as principles of synaptic plasticity are better understood.
+So can rational intervention be developed that will harness this amazing plastic
+potential of the central nervous system for therapeutic advantage.
+And for those of you that are getting into the healthcare industries these are
+exciting times. Because, as basic neuroscience progresses
+and this domain of understanding these principles, so will our capacity to apply
+these principles for therapeutic good for the patients that you'll come to serve.
+So, I'm privileged to be a small part of your education that will usher in this
+new frontier in the world of medical neuroscience, where we will understand
+how to optimize our capacity to change the nervous system of someone who is
+dealing with impairment or disease or disability.
+Or, perhaps someone without those conditions who wants to optimize their
+performance and whatever domain of life is of concern to them.
+So, that's what's possible. over the course of your lifetime in your
+practice, as we come to better understand the brain basis of synaptic change.
+So I do have some learning objectives for you.
+I want you to be able to characterize general cellular mechanisms for synaptic
+change. In particular, I want you to be able to
+discuss the mechanisms of long-term potentiation.
+And I want you to focus on two glutamate receptors.
+The AMPA or AMPA, subtype of glutamate receptor and the NMDA glutamate receptor.
+And I want you to discuss the role of these receptors in the induction and
+maintenance in the induction and maintenance of long-term potentiation.
+Likewise, I want you to characterize long-term depression, and I want you to
+discuss the molecular basis for long-term depression in two important regions of
+the central nervous system, the cerebral cortex and the cerebellar cortex.
+Well, you may not need any motivation at all when it comes to this topic of
+synaptic plasticity, but again, for those of you that are pursuing careers in
+healthcare I think it is especially pertinent that you learn these lessons
+well. one motivating statement, at least for
+me, has come from one of my colleagues at Emory University who's been a leading
+thinker and researcher in the translation of basic science discovery in the domain
+of synaptic plasticity to intervention with people that are dealing with
+neurological disability. So what Taub and his colleagues have
+written some years ago in a really excellent review, in Nature Reviews
+Neuroscience, he wrote that behavior, that is the sensory and motor experiences
+of our bodies, can have a profound influence on the function and
+organization of the nervous system... And that this effect can be manipulated
+to therapeutic advantage in individuals with central nervous system injury.
+So understanding the rules of plasticity will increase our capacity to help people
+that are dealing with central nervous system injury and disease.
+Because, we will better understand how to take the sensory and motor experiences of
+their own bodies use that capacity to reshape the structure and function of
+their nervous systems. So let's begin this discussion by making
+sure we really know what we're talking about when we use this word, plasticity.
+Plasticity simply means the capacity of the nervous system to change.
+And, we can think about this concept from a number of different perspectives, and
+I'd like to suggest a few of them. I'd like to suggest the temperal frame of
+understanding plasticity. Plasticity can be short-term.
+Over the course of milliseconds to hundreds of milliseconds to seconds to
+minutes. It can be long-term.
+It can last minutes to hours to days to even a lifetime.
+Just think back for a moment to some of your earliest childhood memories.
+It's amazing is it not that that is even possible?
+That some formative event changed the function, maybe even the structure of
+your nervous system, in such a way that those events can be recalled.
+now years later, in my case decades later.
+truly a remarkable achievement for a nervous system to have this capacity to
+store a lifetime of change. Now, of course, that's not to say that
+the process of remembering or recalling does not, itself, induce a new round of
+plasticity, indeed it doe But nevertheless, the basic information that
+was laid down in the initial event that you and I may be recalling.
+is still with us. It's still present in the functional
+architecture of our brains. Amazing.
+So, our discussion today will begin to get at an explanation as to what may have
+changed and how w can also consider plasticity in spacial terms.
+That is, where does plasticity occur? Well, plasticity occurs at synapses.
+That's what we will talk about today. Plasticity might also occur within the
+structure and function of the neuron itself.
+That is, it may simply not be a change at the synapse, but perhaps a change in
+different compartments within the neuron and the same could be said of glial
+cells. And in particular, I'm thinking about
+astrocytes that are important in modulating the activities of neurons
+within grey matter. Astrocytes themselves are subject to
+plastic responses induced by changes in their surrounding neural elements.
+Plasticity can affect the structure and function of entire neurocircuits and
+entire systems comprised of multiple neurocircuits operating in series and in
+parallel. Imagine the accrued impact of synaptic
+plasticity and cellular plasticity throughout an entire neural system.
+The change can be profound. That change can ultimately be reflected
+in the organization of functional representations we have in the brain.
+Consider, for example, the map of the body that we have in our somatic sensory
+cortex. That map is constantly being updated as
+we change the use of our body, or perhaps, as the body becomes injured.
+So, plasticity is a means by which we can constantly update and refresh the
+learning and the representation that we store, even across an entire cortical
+area. Well with such change pervasive
+throughout our organization of neural systems and neural circuits, it's not
+surprising then that plasticity should be the bases of basically everything we do
+in our nervous system that is predicated upon learning and change.
+So, plasticity is the basis of memory, it's the basis of acquiring the motor
+skill that you may have acquired in life, be it in athletics or perhaps performance
+arts. Maybe it's in a musical instrument
+whatever it may be involving the acquisition of motor skill, there's been
+some plastic change at multiple places in your nervous system that has made that
+skill possible. The same would apply to cognitive skills.
+any domain of learning requires that there be some plasticity.
+Certainly the development of language or the acquisition of new languages
+throughout life. mathematics for example, the ability to
+acquire new skills and then apply that knowledge in problem solving.
+That's another example of plasticity in action, as would be any of the dimensions
+of the performing arts as I mentioned a moment ago.
+And finally, again, putting it back into the context of healthcare, adaptation,
+and recovery from injury or disability requires plasticity within the central
+nervous system. So, let's just review some of the basic
+cellular mechanism of plasticity that seem to apply to multiple forms of
+plasticity. And we'll see how these are played out in
+different contexts. So, plasticity usually begins when neural
+activity triggers the activation of postsynaptic second messenger systems.
+And those second messenger systems usually involve an alteration in the
+level of intracellular calcium in the postsynaptic neuron.
+So calcium will be a key index that is used by the postsynaptic neuron to know
+which way to go with its plastic response.
+So calcium within the postsynapitc neuron triggers the activity of second messenger
+systems that often converge on one of two categories of enzymes.
+one category is the protein kinase family of enzymes these are enzymes, that
+phosphorylate target proteins. And that's often a mean of turning on
+that target protein. Another category is phosphatases, and
+phosphatases are enzymes that dephosphorylate target proteins.
+So, it's this alteration in protein phosphorylation that mediates the early
+stages of synaptic plasticity. Where new proteins don't need to be
+produced, so, so we've not yet really altered the overall protein complement of
+the post-synaptic cell. We've just altered the function of the
+proteins that already exist. However, for the long haul, there must be
+long lasting change in synaptic strength that's brought about by other mechanisms,
+those mechanisms that involve a change in gene transcription.
+Well, all of these steps are common to multiple forms of plasticity, and one key
+differentiator of one form or another is going to be The level of calcium that's
+present in the post synaptic cell. So, pay attention to where the level of
+calcium becomes critical for determining what type of plasticity is observed.
+Okay so now we're ready to talk about one particular mechanism of plasticity called
+long-term potentiation. But before we can, I need to introduce
+you to a model system that was foundational for the studies that first
+brought to light these mechanisms. And that model system is the slice
+through the hippy campus from a rodent Used as an animal model.
+So, these experiments can be done, because when an animal is humanely
+sacrificed and its brain rapidly removed, tissue slices can be obtained from that
+brain and those slices can actually be kept alive for some period of time.
+perhaps as long as a day. And during that time, those slices can be
+probed with microelectrodes, and axons can be stimulated, and the activities of
+cells can be recorded. And this is what was done from slices
+obtained from the hippocampus of rodent models, so the hippocampus in the rodent
+is in the posterior part of the forebrain.
+And is something of a C-shaped structure with part of in the dorsal aspect of the
+forebrain, and the rest of it wrapped around the medial margin of the lateral
+ventrical as it extends in the posterior part of the forebrain.
+Now in primates, of course, the hippcocampus has rotated further down
+into an inferior and forward position. So, in primates, the hippocampus would be
+found in a position of the medial temporal lobe.
+but of course, rodents don't exactly have a temporal lobe.
+They have corresponding cortical regions but not a lobular shape per se.
+Well, be that as it may, it's possible to obtain sections through this hippocampus
+and keeps those sections alive in a dish, if you will, and manipulate the activity
+of those cells while recording different populations.
+This is all done with microelectrodes. So, there's a particular circuit that you
+should be introduced to in order to make sense of the experiments that I'd like to
+tell you about and it involves basically a three neuron pathway through the
+hippocampus. And it begins with inputs that arrive
+into a part of the hippocampus called the dentate gyrus.
+And these inputs are coming from the cortex just outside the hippocampus.
+And something called the entorhinal cortex, part of the parahippocampal
+gyrus, which you may recall from viewing the surface of the human brain from
+below. And, these inputs make synaptic
+connections on a type of cell called the granule cell.
+The granule cell then sends synaptic inputs to a large pyramidal cell that's
+found in a region called the CA3 region of the hippocampus.
+this large pyramidal cell sends axons to several different places.
+One of them is to a different sector of the hippocampus called the CA1 region.
+And it's this pathway from CA3 to CA1 that we're going to focus in on and use
+as our model system. this axon that goes from CA3 to CA1 is
+called the Schaffer Collateral Axon. And it's possible then to put micro
+electrodes into this system And stimulate some number of these axons that might be
+converging on a pyramidal cell in the CA1 region.
+And the experiments that I'd like tell you about are as follows.
+A particular microelectrode that is positioned along this pathway is going to
+be stimulated. So, over time, there may be a brief
+barrage of electrical pulses applied. This may last just a couple of seconds at
+a very high frequency and this is called a tetanus.
+So this kind of tetanic simulation is what will be used to stimulate a pathway
+and induce long-term potentiation. Meanwhile, a second microelectrode can be
+positioned to activate a different set of axons that is present and functional, but
+just not stimulated with a tetanus. Now, to measure the impact of the tetanus
+in the pathway that's stimulated, as well as the parallel pathway that wasn't
+tetanized. It's possible just to provide a test
+shock, maybe about once every 30 seconds. And then, record from this post
+synapticcell, the amplitude of the excitatory postsynaptic potential, and
+see what happens to that postsynaptic potential.
+Does it stay the same? maybe it increases.
+While this is the base, basic experiment that was performed and the results are
+shown here. So, Pathway 1 is the pathway that
+received that tetanic stimulation. So, before the tetanus, a single
+electrical shock gave rise to a particular excitatory postsynaptic
+potential of a particular amplitude and a particular bit of rise.
+But then, after this tetanus, look at what happened.
+The excitatory postsynaptic potential in the same pathway, in response to a single
+shock, is about doubled in amplitude. So this is long-term potentiation.
+Difference in the amplitude of the response of that synapse to the test
+shock between the prestimulus condition and the poststimulus condition.
+Something about that brief, tetanic stimulation caused some fundamental
+change in the strength of this synapse. So, now, it has twice the impact on the
+postsynaptic cell than it did previously. Now, that was for the pathway that was
+stimulated with the tetanus. Look at the parallel pathway that was not
+tetanized. It's present, it's active.
+In response to a single shock stimulus, it gives rise to a excitatory
+postsynaptic potential just like the neighboring pathways, only now, before
+and after the application of the tetanus to Pathway 1, there's no change to
+Pathway 2. No change, no LTP.
+Here's another way to look at these data. Plotted here are the responses in these
+two pathways to the single test shock applied about every 30 seconds or so, for
+about 15 minutes, before the tetanus to about an hour afterwards.
+And what we see in Pathway 1 is about a two to threefold increase in the
+amplitude of the EPSP over time. Now, there is some decay of this
+potentiation over the course of this experiment lasting about an hour.
+But nevertheless, after about one hour of time, there is still about a twofold
+increase in the amplitude of that EPSP, the excitatory postsynaptic potential in
+the pathway that was tetanized. In the pathway that was not tetanized,
+there's essentially no change. Now, these initial experiments were done
+at a time when slices in a dish could be kept alive for about a day or so.
+but what one really wanted to know was whether this potentiation might be a
+mechanism of learning and memory over a much longer period of time and that
+required in vivo experiments. And indeed, this has been done, and we
+now have a compelling body of data suggesting that long-term potentiation
+may indeed be the mechanism by which information is stored across a lifetime.
+Well, this is not a lifetime, but for Rodin, it's still a very long period of
+time within his lifespan. Notice, that following the application Of
+o tetanic stimulation, there is a significant increase, in the amplitude of
+the excitatory postsynaptic potential recorded in vivo, out for about a year's
+time. So now we're beginning to gain confidence
+that long term potentiation may be one means of storing information at the
+synaptic level across a lifetime.

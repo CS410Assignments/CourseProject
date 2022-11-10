@@ -1,0 +1,226 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. Now, we've talked about various
+evolutionary forces so far, and particularly emphasized two of them,
+natural selection, and genetic drift. Now, a common question for people who
+are studying patterns of molecular evolution is, do particular genes
+evolve primarily as a result of the action of natural selection,
+or genetic drift? And how many genetic differences that
+we see between species were driven by selection or drift? Well there are several challenges
+in trying to search for the signatures of natural selection and
+individual genes. And infer the historical
+processes that operated on them. In this set of videos,
+we're be looking at this, particularly in the context of
+the gene changes that make us human. So what we'll do is we'll compare human
+sequences to those of our closest living relatives,
+which are chimpanzees, depicted here. Now nucleotide variation exists
+within species and between species. In this illustration we
+have a stretch of sequence, it's about maybe 15 bases long or so. We have three variable sites. This first variable site shows
+a fixed difference between species. Meaning all individuals of
+Species 1 differ at that nucleotide site from all
+individuals of Species 2. So all of Species 1 have a C,
+all of Species 2 have a G. The second one shows
+variation within Species 1, where some individuals are G and
+some are A, whereas Species 2 doesn't have any variation and nucleotide
+site 3, we have exactly the opposite. There's variation within Species 2,
+there's one individual that has a G, whereas all individuals in
+Species 1 are the same. We see this variation,
+how do we interpret it? Well the big question is how much of the
+variation that you see within species, or between species, is neutral, and primarily
+evolving by this process of genetic drift? And how much of it is selected, or
+can we identify any that seemed to have experienced some sort
+of natural selection? Well, there's two schools of thought,
+as I mentioned before. There's sort of the neutralist
+school of thought, that most of the variation that you
+see in between species is neutral, and is evolving by
+the action of genetic drift. So if a mutation arises, its probability of eventual fixation
+is equal to its allele frequency. It bebops around, maybe it's lost,
+maybe it's fixed. In contrast, there is the selectionist, that's just the very little of the
+nucleotide variation that we see within or between species is neutral,
+that actually, most of it is selected. So the big question for
+us then, is what makes humans, or you could look at any focal species,
+special? Well if you look historically, the human genome sequence
+was first published in 2003. It was available a few years before that. The chimpanzee genome sequence,
+that was published in 2005. And if you look at these genome sequences,
+they're very similar. On average,
+98.7% of the nucleotides match up. Now what evolutionary biologists want
+to do is to look at specific genes and say, for this particular gene it seems like there's
+primarily evolving by genetic drift. And therefore, those changes are,
+in terms of fitness, irrelevant. And others that seemed to evolve
+primarily by natural selection, and thus may be important. It may actually, those ones that
+are important, may be contributing to what makes us particularly unique and different
+from our common ancestor with chimpanzee. Now 98.7% nucleotides sounds like
+we're very similar, however, given our genome size is about 3.1 billion
+bases, we're actually different by about 47 million nucleotide sites,
+so that's quite a few. Let me introduce to you the Neutral Theory
+of Molecular Evolution. This was popularized through
+the writings of Motoo Kimura. Now he suggested that most mutations
+that you actually observe, most mutations that get abundant and that eventually get fixed within
+a species, have no effect on fitness. So essentially they're
+arising by mutation and then they're bebopping around just
+randomly, due to these stochastic forces, and they're spreading by genetic drift or
+maybe immediately getting lost. It's actually by genetic drift. They are not spreading
+by natural selection. Now, he doesn't argue against bad
+mutations, he is perfectly comfortable with the idea that some mutations
+are bad and immediately get eliminated. But that most of
+the variation that you see tends to not have any
+particular effect on fitness. There's a corollary from this,
+that if this is what is happening within the species, then we expect most of the
+nucleotide differences between species. And once it differentiates
+between species one and species two presumably also spread by
+drift rather than spreading by selection. Now this, for many decades,
+has served as a null hypothesis. One we are essentially testing,
+we are looking at genome sequences or individual gene sequences. Now, what the theory doesn't do is, it doesn't say that all
+mutations are neutral. It very much acknowledges that there
+certainly are adapted mutations. Nobody, no neutralist would ever argue
+that a camel's hump is neutral or anything like that, and
+obviously there's a genetic basis for it. It also, as I mentioned,
+it acknowledges common bad mutations. But again, that variation that you see,
+that variation that becomes abundant or eventually fixed, tends to have little or
+no effect on fitness. So the variation that you see within or
+between species. And some people really don't buy this. There was a paper published
+in 2008 by Matt Hahn, and he suggested the patterns apparent for multiple species at multiple loci make
+the case for rampant nonneutrality. So he suggests, and many others agree,
+that in fact, there's very little of the genome that's evolving purely
+by the action of genetic drift. However, many, but not all, human
+pseudogenes appear to evolve neutrally. Pseudogenes are these things that used to
+be, historically, some sort of gene, but they essentially are no longer functional, they're just relics that
+are found in our genome. Now the great question again, for us, is
+how do we tell which of these forty seven million bases that differ
+between humans and chimps, evolved this difference by drift or
+evolved it by selection. Are they important or are they random? Or there's a simple thing you could
+try to do, though it won't work, and that's just basically look at those
+areas that are most different. Basically, pick those genes that
+are most different between humans and chimps and say, well those were
+probably the ones that were important. So you could do something like this,
+instead of looking at genes, looking at a million bases at a time. There's some stretches between humans and
+chimps that differ by more than 2% and others that differ by less than 1%. The problem is, just because there's more of a difference,
+doesn't mean selection is involved. Now you can see there's
+a full distribution here, so some of these might have very
+large differences purely by chance, some may have very small
+differences purely by chance. Not all base differences are important and we can't just count them
+all exactly the same, okay? Just to illustrate with you what
+I showed a second ago here, thisis sequence differences
+looking along a chromosome. So this is the human chimp divergence or
+difference in sequence. You see there's a couple of peaks here
+that are potentially interesting, there's a lot of values as well. There is an interesting
+correlation of this with recombination rate that we
+talked about elsewhere. But again, not all sequences matter. As I mentioned, base changes in
+pseudogenes potentially don't matter, because they're not coating any protein. I also introduced introns back in
+one of the first genetics videos. These do not contribute
+to the final amino acids. Even though the sequence
+is found within the gene, they don't contribute to the final
+amino acid sequence and, therefore, don't affect the protein. So intron sequences are often thought
+to have no effect on phenotype, not always, but often. Another set of sequences that may
+not matter so much are these codon third-position changes, or specifically
+any change that's referred to synonymous. Basically there are multiple codon
+sequences, multiple triplets in the DNA and then eventually in the RNA, that
+will make exactly the same amino acid. So looking at this AGA encodes
+the amino acid serine. AGC encodes the amino acid serine. AGG encodes serine, etc. So we see this, even though we're
+changing that third nucleotide in this stretch here,
+it doesn't actually change the amino acid. And that's frequently true for
+these codon third-positions. In contrast, the second-position
+always changes the amino acid. So you see this triplet code AGA, so let's
+change that from AGA, which was serine, to AAA, that's phenylalanine,
+ACA which is cysteine, ATA is tyrosine. So those are always nonsynonymous. If you're changing the amino acid, you're necessarily changing
+something about the protein, right? So there is a high probability that
+a lot of these nonsynonymous changes can affect fitness. In contrast, if you're not changing
+the amino acid, then it's more likely, though not certain, that you're not actually affecting
+the final protein in any detectable way. And these may be closer to neutral. Now nonsynonymous differences,
+I said, affect the protein. And these nonsynonymous differences
+in coding DNA will make a different amino acid stuck into the protein and
+they are likely to affect the phenotype. Now, just because it's having an effect, doesn't tell you
+the direction of the effect. These nonsynonymous differences
+may be detrimental, right? They may be bad if the original
+protein was better. So when you have a mutation
+from AGA to ATA, that may make the protein in some
+way unstable, and make it so you're not producing something you
+were supposed to be producing well. They may be neutral. Even though it is changing an amino acid, it may not actually affect the protein's
+function or structure in a noticeable way, aside from the fact that it is just
+a different amino acid in there. Or it may even be advantageous. Maybe this new protein,
+maybe it's better to have AAA than AGA, the amino acid associated
+with [INAUDIBLE]. So these nonsynonymous differences can be
+detrimental, neutral, or advantageous. In contrast, synonymous differences
+are presumed, in general, to be neutral or close to neutral. They're not effecting the phenotype. Now what we want to do, as evolutionary
+geneticists, is to bin these changes. We want to, we have our three bins here,
+positive selection, negative selection, and neutral. So, some of these gene changes that
+don't matter, they're neutral, we'll toss them into this bin. Many of the gene changes are going to be
+bad, so selection will prevent them from ever becoming abundant to the population
+or going to fixation, going to 100%. So they'll go into what's referred
+to as the negative selection bin, or purifying selection. Basically, this is the full
+set of mutations that are bad, that are quickly held at low frequency in
+the population and ultimately eliminated. So that's the negative selection bin. And then we have the occasional
+gene changes that are good, right? These are ones that will be
+captured by natural selection and potentially spread all
+the way to fixation, to 100%. So these are positively selected. So we want to bin each of these in there. We want to know how much there
+is within and between species. Well let me ask you a question first. Among these different things,
+if all base changes were neutral, would we expect there to be more
+synonymous differences between species or nonsynonymous differences? If all base changes were neutral,
+if it didn't matter if you were AAA, or ACA, or AAT,
+which do you think would be more abundant? Well, the answer there
+may have surprised you. That in fact,
+there are actually more potential nonsynonymous changes than there
+are synonymous changes between species. If we assumed all base
+changes were neutral. Well let's explore this for a minute. Now first, well let's think
+about what's happening here. When we're looking at
+differences between species, then a mutation has to have
+arisen within an ancestor, and has to have spread and that's why it's
+creating this difference between species. So if species one has
+A at a particular site, species two has T at a particular site,
+let's assume the ancestor had the A. What had to happen is, in this lineage
+leading to the ones that have a T, there had to be a mutation from A to T. And then the T variant had to spread,
+right? So the mutation has to occur and the new
+mutant allele has to fix, or go to 100%. Now, the probability of fixation
+if it's neutral is 1/(2N). It is the alleal frequency
+of the new mutation. The probability of fixation if it's
+bad is much less than that, okay? Now, interestingly, if you think about it, most coding mutations
+are going to be nonsynonymous. There are many more mutations that will
+happen that'll be nonsynonymous than synonymous. The reason being there's a lot more ways
+to be nonsynonymous, because all second position changes are nonsynonymous, most
+first position changes are nonsynonymous, and some third position
+changes are nonsynonymous. Let's look at this here by
+looking at a codon table. So let's look at this codon table and
+let's use this top corner one, UUU, just as an example. So this is phenylalanine. What base changes will change
+this phenylalanine this UUU into another phenylalanine? Well in fact,
+the only change you can have is a U to C. If you change this last U to an A,
+it's a leucine. If you change the last U
+to a G it's a leucine. If you change the first U to anything,
+to a C, to an A, or a G, it becomes a leucine,
+isoleucine, methionine, or valine. If you change that second base,
+the second U there, to anything, it becomes a serine, or tyrosine or
+stop codon or cysteine. So, really there's very few ways
+to change things synonymously, but there's a lot of ways to
+change things nonsynonymously. That was kind of an extreme example but that's generally true looking across
+all these different amino acid codons. Still, even though that's true, synonymous sites usually
+accumulate differences faster. Now when you look between species,
+typically speaking, you see more synonymous changes
+than nonsynonymous changes. Even though from mutation alone, there should have been more
+nonsynonymous changes. What does that tell you? Well that tells you that probably a lot
+of those nonsynonymous mutations are bad, and they don't actually get
+the opportunity to spread. In contrast, the synonymous
+changes do have this opportunity. So here's a figure from
+one of your textbooks. This is showing differences between
+flu viruses over a 20 year period. Here's the synonymous, here are an
+accumulation of synonymous mutations, here's the accumulation of
+nonsynonymous mutations. So even though you're getting more
+of these nonsynonymous mutations, they are selected against right away and
+never allowed to spread. So synonymous mutations
+happen less often but are more likely to spread because
+there's not selection acting against it. So, again, coming back to this question
+of how do we look at these differences between humans and
+chimps or any two species? Well one is, let's just look at genes
+that have many nonsynonymous changes. Those are probably ones that matter right? Well, not so simple. Unfortunately, mutation rates are not
+the same in all different genes. Some genes will get more mutations
+than others because of selection. And If you get more mutations, you're
+likely to accumulate more differences, whether they're synonymous or
+nonsynonymous, between species. So again, just looking at nonsynonymous
+changes doesn't give you a lot of information about selection or importance. It's a decent candidate by looking at
+those but by itself you can't tell. The answer is, so we use these synonymous
+differences to scale the number of nonsynonymous differences. Basically, synonymous differences
+should accumulate neutrally and we can use them to scale for potential mutation rate differences
+between different parts of the genome. So what we can do is, do some sort of ratio of nonsynonymous
+differences to synonymous differences. And that is essentially estimating
+the non-neutral changes relative to neutral changes. From that, we can potentially interpret,
+though not completely cleanly, but we can potentially interpret
+the action of natural selection. So in the subsequent videos we'll
+be doing this using two tests. One we call dN/dS, the other
+called the McDonald–Kreitman test. I hope you enjoyed this, Thank you.

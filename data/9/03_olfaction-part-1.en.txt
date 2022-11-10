@@ -1,0 +1,163 @@
+Okay, I think we're ready now to explore
+the chemical senses. Beginning with the sense of olfaction.
+As I've already told you, this aspect of our consideration of the chemical senses
+will reveal again the complexity of the human brain.
+And will provide us an opportunity to explore some really fabulous circuitry
+that connects the sensory periphery in the olfactory system to the brain.
+And I think you'll be surprised with some aspects of the specificity of that
+relationship that reflects genetic instructions that are played out.
+Both in, in brain space and in time, as the nervous system develops.
+An all of this, is critical for the foundation of the olfactory sense.
+So my learning objectives, for you, in this session, in this part of our
+tutorial, are really three-fold. I'd like for you to be able to
+characterize the peripheral and central organization.
+Of the olfactory system. I'd like for you to again focus on this
+critical issue of sensory transduction that's been central to all of our
+considerations of sensation so far in the course.
+And I'd like for you to get a feel for how information is actually encoded.
+In the olfactory system. I think one of the values in studying the
+chemical senses is that we discover perhaps some surprising means for coding
+information in the sensory system that especially an olfaction seem to be quite
+different than the kinds of coding mechanisms that we've seen so far.
+In somatic sensation, in vision, and even in audition.
+Alright, well let's begin with an anatomical overview of the olfactory
+system. So, as I've already mentioned to you,
+olfaction begins with airborne molecules interacting with receptors.
+And those receptors are found in our olfactory epithelium.
+And our olfactory epithelium is found in the dorsal and medial aspect of our nasal
+passageway and it's there that we find our receptor cells.
+We'll have a closer look at those receptor cells in just a little bit, but
+for now, I just want to place them for you.
+So our olfactory epithelium then is where sensory transduction occurs.
+So our sensory cells then, are found within our olfactory epithelium, which is
+shown at a little bit higher magnification here to the right.
+And these cells grow an axon. That passes through perforations in the
+ethmoid bone and we call this region of the ethmoid bone, the cribriform plate.
+And these axons enter a part of the brain called the olfactory bulb, and there they
+make synaptic connections with neurons that are in the bulb, and are actually
+part of the brain. Now, if you remember what the ventral
+surface of the brain looks like, from our tutorials where I showed you the actual
+human brain specimen, you might assume that the olfactory bulb and this, this
+long connection, is actually a cranial nerve.
+Well, it's not. The olfactory bulb is part of the brain.
+The cranial nerve that we associate with olfaction represents these axons that
+pass through the cribriform plate. So this is our first cranial nerve,
+cranial nerve 1. It's the axons of the primary sensory
+neurons. That have a cell body in the olfactory
+epithelium and grow an axon through the cribriform plate to make synaptic
+connection in the olfactory bulb. This long extension then, that connects
+the olfactory bulb backward toward the brain, this is called the lateral
+olfactory tract. So, again, not a nerve, but an extension
+of the brain. The cells in the olfactory bulb that grow
+the axons that form this lateral olfactory tract, they are called mitral
+cells. We'll talk more about that in a little
+while, but for now I'll just mention that the mitral cells are then the principal
+projection cells that connect the olfactory bulb to the rest of the brain.
+And as we'll see these structures in the brain are part of what we call the
+olfactory cortex. Okay, so here more schematically, we have
+our olfactory epithelium, here, which is where we find our olfactory receptors.
+The first cranial nerve connects those receptor neurons to mitral cells in the
+olfactory bulb. And there are other cells as well, that
+we'll talk about when we look in more detail at the, cellular structure of the
+olfactory bulb. So the axons of the mitral cells project
+through the lateral olfactory tract to a series of targets.
+That are found in the ventral and medial aspects of the forebrain.
+Now, collectively we call these targets the olfactory cortex.
+Some of these structures are quite prominent and clearly are cortical in
+nature such as the pyriform cortex. here we're spelling it with a y, you'll
+notice in my handout I spell it with a, with an ipiri.
+You'll see spellings both ways, so either spelling is acceptable.
+Don't worry about that. another major cortical structure that is
+clearly laminated and recognizable as cortex, is the entorhinal cortex.
+So this is cortex, a little bit more posterior back on the medial aspect of
+the temporal lobe. It's part of what we call the hippocampal
+formation. Now these two other components, the
+olfactory tubercle and the amygdala, these are structures that we considered
+to be corticoid structures. And so this is simply a way of saying,
+well, they are derived from the same kind of embryological tissue that formed the
+beautiful laminated cortex. However, the organization of the cells is
+not quite so clearly laminar. So from that perspective, we call this
+corticoid. Now I should emphasize that each of these
+divisions of. The olfactory cortex are heavily
+interconnected with one another. While sometimes we tend to focus on the
+pyriform cortex really it's this entire extended network of cells that constitute
+our olfactory cortex. Well in addition to intrinsic
+associational connections, these divisions of the olfactory cortex also
+have projections to other parts of the brain.
+And this includes the thalamus, the hypothalamus, and especially important,
+is the orbital and frontal parts of the prefrontal cortex, that is the part of
+the frontal lobe that sits just above the orbits of the eyes.
+As we'll come to discuss, as we move along through this set of tutorials.
+It's here in the orbitofrontal cortex that information from all of our chemo
+sensory systems is combined with somatic sensation and, and even visual
+sensations. And it's in this part of the brain that
+our concept of flavor appears to be represented.
+As well as a sense of the rewarding value of food.
+Now, of course in addition, food can be a powerful trigger for memory and for
+recall, so it makes sense that the entorhinal cortex has direct access to
+the circuitry of the hippocampal formation where new declarative memories
+are formed. Now, let's look at these brain regions
+from an anatomical perspective. And I'll go ahead and show you my brain
+model. just to remind you in a bit more
+realistic fashion what we're actually looking at here.
+So I think you can recognize nicely the olfactory bulb, and the lateral olfactory
+tract that connects the olfactory bulb back to the olfactory cortex.
+And even in this brain model, as you may remember from looking at the actual human
+brain, it does look like a nerve. But again, I would emphasize, that the
+olfactory bulb is really part of the human brain.
+Well, the lateral olfactory tract then connects back to the inferior, and
+posterior part of the frontal lobe, right near the junction of the frontal lobe and
+the temporal lobe. That's where we find the beginnings of
+our olfactory cortex. Well now, to look at our figure from our
+textbook, that cortex is illustrated here in the green shade, and the first
+division that we encounter of that cortex is the olfactory tubercle.
+So, this is really a ventral part of the striatum.
+So, it sits just below the main bulk of the basal ganglia.
+We'll get to talk about that in the next unit but just to help you localize this
+region it's just dorsal and a bit anterior to the level of the optic
+chiasm. Which we see right here on the ventral
+aspect of the brain. Well, the rest of the olfactory cortex
+flows into the medial part of the temporal lobe.
+So, there's a junctional region where the temporal lobe attaches to the inferior
+and posterior part of the frontal lobe. It's there that we find this division
+that we call the pyriform cortex. So this illustration, perhaps, is just a
+bit too generous. Indicating a more medial and, perhaps, a
+more ventral position of the pyriform cortex.
+But most of the pyriform cortex is actually tucked underneath this little
+region where the temporal lobe joins the frontal lobe.
+Well, that leaves us with the rest of this medial.
+parahippocampal gyrus, and that's where we find the cortical divisions of the
+amygdala and the entorhinal cortex which receive the inputs from the mitral cells
+of the olfactory bulb. Well now that you have a bit more
+information about where the olfactory cortex is present.
+I want to make just a couple of general points about the organization of these
+olfactory structures, that are worth noting as we discover this anatomy.
+First of all, I want you to notice, that there is no thalamic relay between the
+sensory structures, that we might consider to be more peripheral, such as
+the olfactory bulb. And the cortex.
+Now, in all of the other sensory systems that we've evaluated so far, you'll
+recall that there is a nucleus of the thalamus that receives ascending or
+incoming sensory information and projects that information into cortex.
+And this we think is, is quite important for how the sensory systems operate.
+The thalamus, is something of a gatekeeper, to the flow of incoming
+sensory signals to the cerebral cortex. Well this doesn't seem to be the case, in
+the olfactory system. There is a connection to the thalamus,
+but it happens after information has been processed in the cerebral cortex.
+So, there's no obligatory thalamic relay between the olfactory bulb and the
+olfactory cortex. So, the second point worth highlighting
+is that as we detail the organization. Of the cortex itself and consider the
+topic of sensory coding, what will be very clear is that there is no known map
+of the sensory environment. And there may not even be a clear map of
+the sensory periphery at the level of cortical processing.
+Now there are very precise rules that help us understand how our sensory cells
+are related to specific neurons in the olfactory bulb.
+The challenge in understanding olfaction, is that those rules are not conserved as
+the olfactory bulb projects back into the olfactory cortex.
+So at least no one has yet demonstrated in any compelling fashion, that there is
+something like a topographic map of the sensory environment in the olfactory
+cortex. In the way that we've seen it for a body
+map, in the postcentral gyrus, a map of the retina, or the visual environment in
+the occipital cortex revision, or even a map of[UNKNOWN] or map of the basilar
+membrane of the auditory environment. So, it's as if the rules of coding seem
+to be different in the olfactory system and that makes it very much worth
+exploring and understanding.

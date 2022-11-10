@@ -1,0 +1,343 @@
+[BLANK_AUDIO]. Hi everyone.
+Welcome to this tutorial on the Molecular Mechanisms of Action Potential
+Generation. So in the previous two sessions we've
+been talking about the ionic basis of action potential generation.
+Now we want to move more towards the biological question of, what are the
+mechanisms that are responsible for the production of this signature electrical
+event, that we find in excitable tissue? All of this relates to one of our
+Neuroscience Core Concepts, the one we've been focusing on.
+the fact that Neurons communicate using both electrical and chemical signals.
+So, we continue to talk about the electrical signaling activity of neurons
+and very soon we'll be moving in to talk about the chemical signals.
+Well, for today's session we have some learning objectives.
+I want you to be able to describe the molecular properties of sodium and
+potassium channels and understand and recognize how these properties explain
+the voltage and time-dependent permeability changes that underlie the
+generation of action potentials. And secondly, I want you to be able to
+describe the molecular mechanisms that establish the chemical gradients for
+these important ions, sodium and potassium across the neuronal plasma
+membrane. Well, to begin, let's again reiterate
+some of our foundational principles, that is, that charges in potassium and sodium
+permeability underlie the action potential.
+So we've seen this figure a few times before.
+It allows us to conceptually understand the resting membrane potential as being a
+state dominated by the leak conductance for Potassium.
+the rising face being a phase of action potential generation where there's an
+explosive increase in the permeability of the membrane for sodium.
+Such that at the peak of the action potential, the membrane potential comes
+very close the Nernst equilibrium potential for sodium.
+Because the sodium permeability of the membrane is so much greater than any
+other ionic permeability, the ability to predict membrane potential.
+becomes as a first approximation the Nernst equilibrium equation for sodium.
+Well, the falling phase of the action potential involves a dramatic reduction
+sodium permeability, and this is the inactivation of the sodium conductance.
+We'll talk about the molecular mechanisms for that inactivation in this tutorial.
+But in addition, we know that the voltage and time dependency of the potassium
+conductance means that the potassium permeability is rising at the same time
+that sodium permeability is collapsing. And those two factors together allow us
+to return to our resting condition where once again the permeability of the
+membrane due to the fact that there's some leakiness of the membrane to
+potassium is greater than sodium permeability.
+And once again the resting membrane potential is established being close but
+not precisely the Nernst equilibrium potential for potassium.
+Well this conceptualization allows us to again to understand how changes in
+membrane permeability lead to changes in membrane potential.
+And as we discussed last time, and we'll talk about the mechanisms today, changes
+in membrane potential can in turn have an impact on changes in membrane
+permeability. Now I would encourage you to, view,
+again, the animation that's available on the website that supports our textbook.
+It's animation 2.3 on the action potential.
+You can click following the hyperlink on your tutorial notes or just navigate on
+your own to that website. Alright, well, for today what we really
+want to understand is what are the molecular mechanisms that allow a change
+in membrane potential to impact membrane permeability?
+And this drives us to consider the actual integral membrane proteins themselves
+that constitute ion channels for sodium and potassium.
+We'll do so in two ways. First we'll consider a functional model
+for how this feature, change in membrane. Potential leads to a change of membrane
+permeability, and then we'll consider the actual molecular structure of these
+proteins and gain some insight as to how this plays out in actual biological
+terms. So first the functional model.
+Now, this is an experiment that should be familiar to you now.
+what we're doing is using our voltage clamp method to apply a step
+depolarization that is going to be supratheshold, that is well above
+threshold for the generation of action potentials.
+And rather than showing you the action potential or the.
+Voltage and time-dependant changes in conductance, I want to show you our
+current understanding of what's happening at the level of the integral membrane
+proteins that constitute permeability channels for sodium and potassium.
+So let's step through this figure in time and let's look at what happens at the
+onset of depolarization. So, that would be time 0., when we first
+depolarize. Now, recall that the inward current is
+fast, that is the increase in sodium conductance is quite rapid, relative to
+the increase in potassium conductance, and now we gain some insight as to how
+that might happen. almost instantaneously, with the
+depolarization step the, probability of sodium channels reconfiguring from their
+closed state to the open state is dramatically increased.
+In other words, sodium channels open at the onset of depolarization.
+Now notice what's going on for potassium channels.
+The probability that a potassium channel will go from a close state to an open
+state, is less than for the sodium channel with this step in depolarization.
+If we consider the behavior of a single ion channel, which its possible now to do
+we can understand this behavior in, more principle terms.
+But on the aggregate what we can say is that the sodium channels respond as a
+collection of proteins more rapidly. With greater probability of opening with
+the onset of depolarization relative to the potassium channel.
+This is why the positive feedback phenomenon is so rapid, and why the
+repolarization phenomenon lags the explosive rising phase of the action
+potential. Okay, so let's move a little bit further
+out in time. Now we are a few milliseconds later.
+And we see that the sodium conductance is beginning to inactivate.
+Why? Not because the pore of the channel is
+pinching down, but because there is a particular mechanism at play here on the
+inner aspect. That is, the cytoplasmic surface of the
+sodium channel. There is a gate that we call the
+inactivation gate that swings shut as the membrane becomes depolarized.
+So, we'll talk about what exactly that is and why that's happening in just a
+minute. But for now I want you to note that
+inactivation of the sodium channel is due to the fact that there is this particular
+cytoplasmic feature of the channel protein.
+That swings closed and plugs up the pore of the membrane from the cytoplasmic side
+preventing any further influx of sodium channels.
+And this is why that sodium conductance rises so rapidly and then falls equally
+rapidly because of the development of inactivation.
+Now at about this time our potassium channels are opening up more
+consistently. That is the probability of channel
+opening is greater, and more and more potassium channels are in fact in the
+open configuration allowing for potassium, to flow out of the neuron.
+This contributing to repolarization and eventually the undershoot of membrane
+potential. Now notice the cytoplasmic surface of
+this potassium channel. There is no inactivation gate, at least
+on this particular type of potassium channel.
+So these channels are going to continue to remain in their open configuration
+provide that we continue to depolarize this membrane, in this case with the
+voltage clamp experiment. It's only with the cessation of
+depolarization, that is when we step back down near the resting membrane potential,
+that we induce a change in both kinds of channels.
+This hyperpolarization is essential to restore the closed state for both of
+these channels. For the sodium channel, that means that
+the pore itself Is closed, and the inactivation gate is open.
+For the potassium channel it means that the pore simply has closed off preventing
+any further efflux of potassium ions. Now let me again restate the point about
+the sodium channel, because it is important.
+Notice that there's a difference between inactivation and closed.
+In the inactive state, the pore of the channel is open but the gate has closed
+on the cytoplasmic surface of the channel.
+In the closed state, the pore is stopped up preventing the further flow of ion.
+However, the inactivation gate has been reset and restored.
+So, when the channel for sodium is back to it's closed state, we are now outside
+of the absolute refractory period. It's possible for this channel to open up
+again. That is, it's possible for this channel
+to reenter a cycle that will allow for channel opening and the influx of sodium.
+So, the absolute refractory period of the action potential is defined in terms of
+the molecular structure of the ion channel itself.
+When these channels are inactive they are incapable of passing current.
+That inactivation is only relieved with by polarization.
+So this inactivated state is when we have our absolute refractory period.
+Okay? Alright, well the relative refractory
+period, that is a time following sufficient hyperpolarization to reset
+that sodium inactivation gate. but it's a time when these potassium
+channels may remain open, and we may still be in the under shoot of the action
+potentials so it will require stronger stimulus to activate that sodium channel
+sufficiently to induce that positive feedback circuit that leads to this
+explosive, regenerative rising phase of the action potential.
+Okay, now, let's move on from this functional consideration of how sodium
+and potassium channels work relative to their voltage and time dependencies to
+consider the actual molecules themselves. Well, these ion channels are very
+complex. But they do have some features in common,
+and I want to emphasize their common features, and just highlight some of the
+differences. So let's begin by thinking about the
+sodium channel. Well, the sodium channel that we've been
+talking about is really a complicated, integral membrane protein that contains
+multiple motifs, in which there are helical segments of the protein that are
+passing through the membrane. So, we can recognize 4 motifs, with each
+motif being comprised of 6 transmembrane segments.
+and these, motifs, fold together in a three-dimensional shape within the
+membrane. Constituting the voltage gated ion
+channel that selectively permeable for sodium.
+Now as this protein establishes its tertiary shape in the membrane it's
+configured in such a way to establish a pore for the passage of sodium ions, and
+the electrical... And physical structure of that, ion
+channel pore account for its selectivity for sodium.
+I'll also highlight these yellow transmembrane segments that we see in
+each of these motifs. And these contain positively charged
+amino acid residues that account for the voltage sensitivity of this protein.
+Now there are also additional components to this channel.
+There's something called a beta subunit that aggregates with the the main
+integral membrane protein that, that forms this channel.
+So this is the sodium channel. We think there are probably at least ten
+sodium channel genes that express the proteins that are essential for building
+these channels. But those genes can have multiple reading
+frames. And the product of that gene can be
+modified in various ways. So there may be different capacities to
+modify this basic structure in interesting ways that will have an impact
+on its function. And in some cases there may be genetic
+mutations of these genes that will impair the function of these channels.
+And that's a fascinating story that you could read more about in a box that's
+found in chapter four. Okay, so that's a brief look at the
+sodium channel. We actually know more currently about the
+molecular structure of potassium channels.
+One, perhaps surprising fact is that there are a large number of genes that
+encode potassium channels and potassium channels can have multiple different
+forms that have different physiological properties owing to their distinct
+molecular structure. The ion channels that are constituted
+from these gene products. Typically represent the aggregate of
+multiple subunits that is not just one integral membrane protein but more
+commonly four integral membrane proteins that come together and constitute the,
+voltage gated potassium channel or potassium channel that's gated by some
+other mechanism. there's a large family of these channel
+genes and a large number variations on an ion channel that allows the passage of
+potassium. So far we've been talking about the kind
+of voltage dependent ion channel that's represented over here on the left hand
+side of this illustration. this is a channel that is gated by a
+change in voltage. So it, like the sodium channel, has a
+voltage sensor, we'll talk more about that in just a moment.
+But there are other kinds of ion channels that are sensitive to other factors, such
+as Calcium within the cell. And that is attributable to a cytoplasmic
+portion of this integral membrane protein that can interact with Calcium.
+And there's a large variety of other potassium channels that we won't, mention
+at this point. But together, they contribute to the
+exquisite regulation of excitability. And the nature of electrical signals that
+neurons can generate. Now let's back away just a little bit
+from the more detailed look at the molecular structure of the voltage gated
+ion channel. And consider again form a more functional
+perspective how these various components aggregate together to form a functional
+ion channel. So this is a, model now of a voltage
+gated potassium channel so we imagine that.
+These four subunits come together to constitute a channel.
+And there's something that we'll call a pore loop that forms from the aggregate of
+these four subunits. And these pore loops together establish
+the ionic selectivity and the size selectivity for the passage of potassium
+ions. Now we've already talked some about the
+voltage sensor that's part of each subunit, and that voltage sensor is
+illustrated by these wings out to the side of these subunits that carry
+positive recharged amino acid residues. So in the hyperpolarized state when the
+inside of the cell is made more negative, these positive charges in these wing-like
+structures are drawn inward toward that negativity.
+The conformational change that happens as the subunits pivot allows for a closure
+of the pore loop regions, and potassium ions are not able to pass outward through
+this channel with Hyperpolarization. Now imagine what will happen if we
+depolarize the cell, that is we make the inside of the cell positive.
+Perhaps by the opening of a voltage gated sodium channel.
+Now these wings that bear these positive charges are pushed away by electrostatic
+forces. That pivots the sub units in a way that
+now opens up a pore in the center of this channel and potassium ions are then able
+to aggregate and pass out of this pore region.
+So the function of these ion channels is a reflection of their structure.
+And the voltage dependency, and even the time dependency has to do with the
+structure of these voltage sensors. And perhaps the density of charge
+residues that might contribute to the, to the kinetics of channel opening.
+Now, as I mentioned, one of the consequences of the genetic encoding from
+these ion channels is that mutations can occur that have consequences for
+neurological function and in some cases human health.
+And you can read more about that topic, if you're interested, in box D in chapter
+four of our textbook. So what we've been talking about so far
+are the molecular structures that constitute ion channels, and this is a
+way of discharging those gradients that are essential for generating electrical
+signals. Now let's turn to the molecular
+mechanisms that are responsible for establishing those gradients in the first
+place. I mentioned when we first introduced this
+topic, that those gradients are established by ion pumps, and ion
+transporters. And here, we see a variety of pumps and
+transporters. Probably the most important that I should
+emphasize is right over here on the left hand side of figure 4.9.
+It's the Sodium-Potassium ATPase. This is, arguably, the most important
+molecule in the nervous system. It seems a little ridiculous to even make
+such a claim, but if it were possible to identify one molecule of supreme
+importance, this would be it. The Sodium-Potassium ATPase.
+It consumes a significant portion of all the energy that is burnt up in the
+function of the nervous system. And it's one of the principal reasons why
+the brain requires such a constant, and highly regulated flow of blood to deliver
+oxygen and glucose the principle substrate for oxidated metabolism in
+brain tissue. There are other pumps besides the sodium
+potassium ATPase as we see here. There are pumps for calcium, there are
+iron exchangers that move sodium and calcium and protons.
+There are co-transporters that can take advantage of a concentration gradient for
+one ion to transport another. And we don't need to get into all of this
+complexity at the present time. Rather, what I want to do is consider in
+a little bit more detail, the function of our principle path to Sodium-Potassium
+ATPase. Now the story of how this function works
+is the result of lot of empirical research that had been done in various
+ways, one can imagine based on our prior consideration of the action potential.
+That one can study this pump by removing other sodium or potassium from the
+solution and asking how these manipulations might affect pump activity.
+one might also gain some insight by depriving that pump of its supply of
+energy to find out what's happening. So these kinds of experiments were done
+and what's shown here in figure 4.10 is an experiment where a tagged sodium
+molecule was allowed to flux across the plasma membrane due to the activity of
+this pump. So sodium was loaded up within a cell and
+the efflux of sodium, which represents the activity of the pump, is measured
+over time. So, as this experiment unfolds, there is
+some discharge of sodium ions that can be measured experimentally.
+And if one removes potassium from the medium outside of the cell, now there's a
+sudden drop in the activity that's being indicated by the efflux of sodium.
+So this suggests that there must be some kind of codependency between the influx
+of potassium ions into the cell and the efflux of sodium.
+Well when potassium is restored and the fluids around the cell, now the rate of
+discharge of sodium is restored. But now a key experiment, is imposed upon
+this model system. the energy that's required to drive this
+activity is depleted by adding a compound which blocks the synthesis of adenosine
+triphosphate, which is the main energy currency for active cells.
+And as this metabolic poison, if you will, is introduced there is a
+precipitous decline in the efflux of sodium ions providing strong evidence for
+the energy requirement of this transport. When ATP is restored then there is a,
+somewhat rapid rise again of the efflux of sodium back towards the rate at which
+this experiment was run. So taking these two phases of the
+experiment together we know that there's some kind of codependency between the
+Influx of potassium and the efflux of sodium.
+And we also know that this process is energy dependent.
+So these kinds of experiments have lead to the following model.
+there is some kind of integral membrane protein that constitutes a pump for
+sodium and potassium. And this integral membrane protein has
+enzymatic activity that can cleave ATP. And consume energy in the form of
+breaking that high-energy phosphate bond. So, we have good reason to believe that
+there is a configuration of this protein that allows for the binding of sodium
+ions to the exposed cytoplasmic domain within the central region of this
+integral membrane protein. And there seems to be a particular
+stoichiometry. To the transport of sodium and potassium.
+We think they're likely three binding sites for sodium ions that are available
+in this configuration. And then with the consumption of energy,
+in the form of cleaving this high energy phosphate bond from ATP.
+There's a conformational change such that this protein appears to flip within the
+membrane. We don't know exactly how this happens,
+but it seems to change conformation, allowing these three sodium ions now to
+be discharged on the extra-cellular face of the membrane.
+And at the same time, this conformational change has exposed, now, binding sites
+for potassium ions. Now, with the binding of these potassium
+ions, the unorganic phosphate is lost. And a conformational change occurs.
+And we are restored to the starting configuration of this protein.
+And this allows for these potassium ions now to be discharged and enter the
+extracellular space. So now this protein is ready to return to
+its starting position in this schema where sodium ions can aggregate.
+So with the consumption of a high energy phosphate bond, there is a cycle of this
+pump that transports three sodium ions from inside the cell to outside the cell
+while at the same time allowing for two potassium ions to travel from outside of
+the cell to the interior. So as this pump churns and burns energy,
+we establish a concentration gradient, with higher sodium ions outside of the
+cell compared to inside. And higher potassium concentrations
+inside the cell compared to outside. All of this requires energy.
+Now, notice the stoichiometry. There's more positive charge leaving the
+cell than entering the cell with each turn of the cycle.
+From this point of view, we say that this pump activity is electrogenic, that is it
+has the potential to generate a small current.
+That current typically is negligible unless we're talking about a very small
+compartment, where the concentrations of ions might actually change during the
+course of a high frequency burst of action potentials.
+Such compartments exist in the smallest of our axons that we find in peripheral
+nerves. So, in such situations, as ionic
+concentrations might be altered by a burst of action potential activity, pump
+activity will increase, more positive charge will leave the cell as a result of
+the pump, and the inside of the cell will hyperpolarize.
+So that would be the impact of this electrogenic nature of pump activity.
+Again, it's typically negligible, except for the very smallest of axons, or the
+very tightest of compartments where pump activity can have an impact on the
+resting membrane potential. Well, we can summarize and have an
+opportunity to review these mechanisms of pump activity by viewing an animation
+from chapter four. You can follow this animation by
+navigating to the website that supports our textbook or by clicking on the
+hyperlink that you have available to you at the bottom of your tutorial notes.
+Well, I hope this has been helpful. Our next tutorial will focus on the means
+by which electrical signals can propagate along an axon.
+And we will return to some of these concepts related to the structure of ion
+channels and pumps when we consider synaptic neuro transmission, in forth
+coming tutorials.

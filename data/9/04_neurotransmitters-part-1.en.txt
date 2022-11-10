@@ -1,0 +1,184 @@
+Welcome back to my home.
+I'm out in my yard on a, kind of a muggy gray day.
+it's been raining so the air feels a little bit like it might start raining on
+me at any moment now. So, we'll see what happens, but let's
+keep going. So we're here today to talk about
+neurotransmitters. So this true facts are second core
+concept in the field of neuroscience again continuing on in our thinking about
+the important means by which neurons communicate using electrical and chemical
+signals. So now we're going to focus on what
+exactly those chemical signals are. So our learning objectives today are that
+I want you to be able to name the major small molecule neurotransmitters and
+neuropeptides in the central nervous system.
+And briefly state the functions of each and I want you to think with me about the
+factors that determine the effect of neurotransmitters on postsynaptic
+neurons. Alright, well let's begin by reviewing
+what we talked about last time. About the organization of chemical
+synaptic transmission, and this slide gives you again, an overview of the
+processes that are involved in chemical synaptic transmission, beginning with the
+steady state, where we find in the presynaptic terminal a variety of
+organelles, and of course our presynaptic vesicles that are loaded up with
+neurotransmitter ready to go. And what happens then with the arrival of
+an action potential is a wave of depolarization spreads along the
+preterminal membrane which eventually reaches voltage gated calcium channels.
+And those channels open calcium rushes in, which is the key triggering event.
+Which leads to the fusion of the presynaptic terminal membrane and the
+membrane of the synaptic vesicle. So that happens as the snare complex
+which is present out here. Twists and tugs and pulls those membranes
+together once calcium associates with synaptotagmin.
+And as those membranes begin to fuse they form what we call a fusion pore and that
+allows for neurotransmitters then to diffuse out of the synaptic.
+Vesicle into the synaptic left, and from there the neural transmitters can
+associate with receptors for those neural transmitters in the postsynaptic side of
+the synapse. And as receptors and transmitters
+interact typically ion channels open and close.
+that could lead to the generation of wave depolarizaion in that postsynaptic
+process. And maybe even with enough summation of
+inputs that are doing the same thing at the same time, there could be an action
+potential generated in that postsynaptic cell.
+Meanwhile, the membrane of the vesicle is recycled back for further activity.
+And this involves the coating of the vesicle membrane with a protein called
+clathrin and the association of clathrin with other molecules that facilitate the
+pinching off of that vesicle membrane and then it's trafficking back into the pool
+of vesicles that are ready to be filled again with their neurotransmitter and
+reenter this vesicle cycle. Okay, well let's let that suffice as a
+brief review of chemical synaptic transmission.
+Again I would refer you to the animation associated with the textbook animation
+5.2 on chemical synaptic transmission. Which will review all of these processes
+in a nice, short succinct presentation. Alright, well what were here to talk
+about today is neurotransmitters and neurotransmitters come in two broad kinds
+of categories based on their structure and these two categories of
+neurotransmitters interact with different kinds of receptors.
+So we have two broad classes of neurotransmitters based on the size of
+the molecules. One category we call, small molecule
+neurotransmitters for obvious reasons, and then to contrast those small molecule
+transmitters we have neurotransmitters that are actually small peptides.
+And so these peptides of course are comprised of amino acids that are
+covalently bound to one another and sometimes these peptides can be quite
+sizable. So small molecule transmitters and
+peptide transmitters. So these two classes of transmitter bind
+to two classes of receptor. One class of receptor we call ionotropic
+receptors, these are receptors where the receptor site is actually a part of an
+ion channel. And that ion channel can open or close
+when the transmitter binds to the receptor.
+So these ion channels are called ligand-gated ion channels, with the
+ligand being the neurotransmitter. The other type of receptor that we'll
+consider today are called metabotropic receptors and these receptors activate
+second messenger system. So there are metabolic steps involved and
+mediating the effect of the neurotransmitter once it binds to it's
+receptor. Now, our small molecule neurotransmitters
+can actually interact with both of these classes of receptors.
+Both the ionotropic receptors and the metabotropic receptors.
+So right away I want to emphasize to you that if we want to understand the
+activity of a neurotransmitter, we need to know something about the receptors
+that it interacts with. And the activities of neurotransmitters,
+even though the very same cells can be remarkably diverse depending upon what
+kinds of receptors were expressed on that neuron.
+Our peptide neurotransmitters, as far as we know, as far as I know, only interact
+with metabotropic receptors. So as we'll come to see these
+metabotropic receptors mediate a slower and potentially longer lasting effects in
+post synaptic neurons. So, we associate our small molecule
+transmitters primarily, with quick actions and our peptide transmitters
+generally speaking with more long lasting and slowly evolving actions.
+Okay, well let's begin with survey of some important small molecule
+transmitters. Now, for those of your following along in
+the reading the reading here in chapter 6 goes into more depth than what we'll
+cover. so I want you to focus on the level of
+knowledge that I've given you in the tutorial notes and the level of my
+discussion with you all today. So, let's begin by thinking about these
+small-molecule transmitters and get a broad functional sense of what these
+molecules are. So, many of them are amino acids some of
+the amino acid transmitters that are important in brain and spinal cord
+function are shown here. They include amino acids such as
+glutamate potentially aspartate. certainly gamma-aminobutyric acid, or
+GABA for short, and glycine. So these molecules mediate rapid synaptic
+effects when they interact with their ionotropic receptors.
+As I mentioned, they may also interact with metabotropic receptors.
+So, the small molecule transmitters can also have longer lasting effects, when
+those particular kinds of receptors are bound.
+Now, here we're illustrating some of the important small molecule transmitters
+that you'll want to know about. And perhaps the most important of them
+all is glutamate. So glutamate is typically considered the
+major excitatory neurotransmitter in the central nervous system and as you see
+here it is an amino acid. So short carbon skeleton with the amino
+group attached to the side, opposite the carboxyl group.
+So glutamate is involved in various aspects of cellular metabolism but it
+also is concentrated in synaptic vesicles at the terminals of neurons that use
+glutamate as a neurotransmitter. Now, this is such an important molecule
+that we've prepared some animations that talk about the processing of this.
+molecule as a neurotransmitter, so I would encourage you to pause just a
+minute and view animation 6.2 on the website that supports our textbook.
+You can navigate there yourself or click on the hyperlink in your tutorial
+handout. Well next lets consider acetylcholine.
+So we are deviating just a little bit from the flow of the handout but that's
+okay. Acetylcholine is another small molecule
+transmitter, its not an amino acid but it is a small molecule.
+And acetylcholine has very important activity both within the central nervous
+system and outside of the central nervous system.
+Outside of the CNS, it's the major excitatory neurotransmitter of our
+somatic motor neurons. So, this is the neurotransmitter that's
+released on muscle fiber leading to the contraction of muscles.
+It's also a major excitatory neurotransmitter in autonomic ganglia and
+it's also the neurotransmitter of many post ganglionic parasympathetic fibers.
+Within the brain itself, it seems to have an important modulatory role that may be
+important in various cognitive functions such as attention.
+Just as an example of how one such small molecule neurotransmitter might be
+processed, let's take a closer look at a cholinergic synapse, and so we have this
+illustrated here in figure 6.2. And so, within the presynaptic
+compartment, we've got the metabolic machinery that's necessary for producing
+acetylcholine. In this case, acetylcholine is
+synthesized by an enzyme called choline acetyltransferase from acetyl-CoA, one of
+the products of oxidative metabolism and choline, a dietary compound that's
+important for various aspects of nutrition and brain health.
+Well, acetylcholine is synthesized in the presynaptic terminal packaged into
+synaptic vesicles, and then released in a calcium dependent fashion.
+When acetylcholine is in the synaptic cleft it can interact with post synaptic
+receptors which can be either of the ionotropic or metabotropic variety.
+And once acetylcholine has been released into the synaptic cleft, it can be
+degraded by an enzyme called acetylcholinesterase.
+And when that happens, the choline portion of the molecule is taken back up
+in to the presynaptic terminal and recycled.
+To learn more about the function of a typical cholinergic synapse and how all
+this works, you might want to view animation 6.1 on our website.
+Now, before moving on to the biogenic amines, let me just back up a moment and
+talk about the other important amino acid neurotransmitters that we skipped over,
+namely the two at the bottom here, GABA and glycine.
+So GABA is short for gama-aminobutyric acid and it's a metabolite of glutamate
+so glutamate is in the bio synthetic pathway for GABA.
+Glycine is a different amino acid. Now, both of these amino acids typically
+have inhibitory activity in the mature nervous system.
+We'll come back and say quite a bit more about GABA as we go.
+But for now, let me just highlight that GABA is the single most important
+transmitter in the brain that mediates synaptic inhibition.
+Glycine is a very important neurotransmitter.
+Especially, in the spinal cord where it likewise mediates synaptic inhibition.
+Glycine also plays an important role at synapses that release glutamate, where
+glycine serves as a cotransmitter whose binding is important for the activity of
+one type of receptor for glutamate. Okay, so now we're ready to move on to
+another class of small molecule neurotransmitter.
+These are the biogenic amines and these include molecules such as dopamine,
+norepinephrine, epinephrine seratonin, otherwise known as indoleamine and
+histamine, based on yet a different carbon ring structure.
+So these are all amine molecules that are linked to some kind of a ring type of
+structure and they all have biological activity in the nervous system that tends
+to modulate the activity of neurocircuits.
+So unlike molecules like Glutamate and GABA, that mediate rapid synaptic
+effects. That appear to convey information, as
+information flows in neural circuits. The biogenic amines, rather, modulate the
+way those circuits function. And we'll talk more about them, when we
+see them in context, in structures such as the basal ganglia of the forebrain.
+but it's worth emphasizing here that these substances are very important in
+motivation and rewards systems, such as the compound dopamine.
+Dopamine's also critical for modulating movement in circuits such as the basal
+ganglia. And it's involved in activation of
+circuits in the prefrontal cortex. This is very important and helping to
+mediate various aspects of cognition. Likewise norepinephrine is also very
+important in cognitive functioning. It seems to be a part of what it means to
+pay attention is to have a heightened release of norepinephrine, along with
+other molecules such as acetylcholine. Another important small molecule
+transmitter among the biogenic means is serotonin.
+And together with dopamine, seratonin and dopamine together seem to account for
+many of the diagnostic categories that we encounter in psychiatry and the human
+behavioral sciences. In fact most of the drugs that are
+prescribed to treat psychiatric illness act on modulating the activities of
+dopamine and serotonin synapses in the brain.

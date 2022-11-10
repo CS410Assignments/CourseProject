@@ -1,0 +1,178 @@
+.
+Well, we're getting ready to enter a phase of medical neuroscience where we're going
+to be talking about the senses of sight, sound, and smell.
+And there's no experience that brings all that together than sitting around a camp
+fire, holding a brain. So, I look forward to these next few
+sessions with you and if you have an opportunity to be near a campfire over
+these next couple of days to weeks you might want to have the experience I'm
+having right now where the sense of heat and warmth and the sound of the crackle
+and the dance of the flame and the smell of the burning wood all brings to mind
+these incredible feelings of, of warmth and relaxation and comfort.
+Quite an amazing bit of neuroscience behind all of that.
+So, I look forward to exploring some of these topics with you and see you next
+time around the campfire. Welcome again to my home.
+It's a beautiful day here in Central North Carolina.
+And I'm pleased to begin a series of sessions with you talking to you about the
+visual system. And our focus today is on the eye.
+What I have to share with you today pertains to several of our core concepts
+in the field of neuroscience. We again are confronted with the
+complexity of the brain as the body's most complex organ.
+And, we again are going to be looking at the structure and function of circuitry
+that's largely determined by our genes. And these circuits will be foundational
+for the operations of the visual system in the human brain.
+And I can hardly think of any topics in the whole domain of sensory neuroscience
+that has fascinated more human beings over the course of our history than the sense
+of vision. And so I think when we come to this topic,
+we certainly are in a position to appreciate how a brain itself gives us
+this amazing capacity to wonder how vision works.
+Our learning objectives today begin with the factors in the mechanisms that account
+for focusing an image on the retina. So, I want you to be able to describe
+them. I want you to be able to identify the five
+basic neuronal types that are found in the retina and I want you to be able to state
+the roles of each in neural processing. I want you to be able to talk about
+sensory transduction in the visual system. So, I want you to be able to characterize
+the molecular processes that underlie what we call phototransduction.
+And lastly, I want you to be able to discuss the responses of retinal ganglion
+cells to the onset and the offset of light and the relevance of these receptive
+fields for the detection of light and shadow.
+Well, let's begin by looking at the anatomy of the eye.
+Well, I would just direct yo ur attention to some basic anatomy here.
+So the, the eye is comprised of several layers and two chambers and some
+structures that are important for forming the sharply focused image on the back of
+the retina that are found within the eye itself.
+So in the anterior side of the eye, we have the cornea.
+The cornea is a structure that is responsible for actually most of the
+refraction of light that happens as light passes into the eye.
+So, roughly 80% of the refractive power of the eye comes from the cornea, the
+remaining 20% comes as light passes through these middle structures near the
+interior third of the eye including An optical lens.
+And this lens can change shape through a process that we call accommodation.
+We'll say more about that in just a moment.
+Well, the space defined by this anterior portion of the eye is called the anterior
+chamber. And this anterior chamber is filled with a
+fluid called aqueous humor. That aqueous humor is produced by some
+cells that sit right about in this region here and that fluid then leaves what we
+call this posterior chamber between this ciliary muscle and the lens itself.
+And that fluid then fills up this anterior chamber and it helps to support the
+curvature of the cornea. Now, that fluid is typically drained by a
+trabecular network found in this lateral margin of this anterior chamber.
+Now, should there be a problem with the absorption of this fluid from the anterior
+chamber, then that can build up pressure within the eye.
+And that pressure has a way of damaging the peripheral parts of the retina.
+And there's consequence in that eye one might tend to lose peripheral vision.
+Well, let me try to illustrate the consequences of this if I may, using a
+photo from my photo album. This was a memorable trip my family took
+many years ago. We're in one of the most beautiful sights
+in all of North America. This is Lake Louise in Alberta, Canada.
+And if a person viewing my family in this scene had glaucoma sadly they would not be
+able to truly appreciate the full majesty of this scene because their visual field
+might very well be reduced to just the center of their gaze.
+Well, let's now turn our attention to the process of, of focusing the image on the
+back of the retina. And this is a process that we call
+accommodation. So, accommodation requires the active
+adjustment of the shape of the lens that sits in the anterior portion of the eye.
+So here what we see is an illustration of the lens in one of two conditions.
+In the unaccommodated vision the lens is relatively flat.
+So, this would be appropriate for far vision.
+And then over to the right, in the accommodated configuration, notice how the
+lens is considerably fatter and more round.
+So, this will increase the refractive index of the lens, and this would be
+appropriate for near vision. Well, how does this work?
+Well, this is where the active elements of this ciliary body come into play.
+There is a muscle, the ciliary muscle, that surrounds the lens.
+And this muscle is attached to the lens through a series of fibrils called zonule
+fibers. And the way this muscle works and the way
+it interacts with the lens is, is really quite ingenious.
+As this muscle contracts, it makes the aperture smaller that surrounds this lens.
+And as this muscle contracts, then the tension on these zonule fibers can relax
+and consequently active contraction of the ciliary muscle leads to a rounding up of
+the lens and an increase in its refractive power.
+When that muscle relaxes, then it returns to a wider aperture that causes tension on
+the Zonule fibers. And as a result of that tension, then this
+lens ins pulled more towards a flattened configuration.
+So, one other bio mechanical element here that makes all this work, is the lens
+itself. So, the lens will tend to ball up into a
+rounder configuration if it were to be cut free of the zonule fiber.
+So, the elasticity of the lens itself is what gives it the capacity to achieve this
+more rounded configuration, which is appropriate for near vision.
+Now, adjustments to the shape of the lens are not the whole story when it comes to
+accommodation. There is also adjustments to the pupil
+itself. So, the pupil is basically the space
+created by the iris. So here you notice the, the iris.
+Is a muscular structure that creates the space in the middle.
+And that is the dark spot that you see when you look deeply into the eyes of
+another person. Well, of course what we're looking at is
+darkness in the interior of the back of the eye.
+The iris performs this very important function of minimizing optical aberration.
+Now, the iris also serves to achieve that optimal balance between the amount of
+light that's necessary to activate the neural elements in the back of the eye,
+called the retina, and over activating them all or bleaching them.
+So, we have an exquisite mechanism that allows inputs from the retina to drive
+circuitry in the brain stem to constrict that muscle and make moment to moment
+adjustments in the diameter of the pupil. This is called the pupillary light reflex.
+And we'll spend a bit of time talking about that circuitry in a different
+tutorial. Well, I think we're ready now to consider
+those neural elements at the back of the eye and we will spend much of the rest of
+the tutorial talking about those elements. What I'm referring to, of course, is the
+retina. Now, I want to make an important
+embryological point, as we begin to consider the retina and that is that the
+retina is really considered to be truly part of the brain.
+And the reason is that the retina is diencephalic, which is to say the retina
+is derived from the developing forebrain, specifically the diencephalon.
+So, as the diencephalon begins to differentiate at the posterior part of the
+prosencephalon, something called the optic vesicle forms.
+And this is an outward pouch that we see from the lateral margins of the
+diencephalon. And this pouch grows out to meet other
+tissues that together form the eye. The retina and an important layer of
+tissue just behind it, called the pigmented epithelium, are derived from
+this diencephalic tissue. So one might wonder why then do we call
+the optic nerve the optic nerve, if it's really an extension of the brain?
+Well, I think that's a legitimate question.
+But the important point I want you to take away here is that the retina provides us
+with a unique opportunity to look into the eye of a patient and actually see tissue
+derived from the brain. And that gives us an opportunity to
+examine that tissue as well as the vascular supply to it and perhaps gain
+some insight as to the status of what's going on deeper in the cranium.
+All right. Well, let's look now at the retina itself.
+And as I mentioned, there are two kinds of tissues here that are derived from this
+optic cup that constitute the retina. Right at the back of the eye is a tissue
+called the pigmented epithelium. This is a very dark tissue because of the
+presence of a pigment. And I'll talk more about that particular
+layer of cells in just a moment. The rest of this is what we call the
+neural retina and it's comprised of five basic types of cells.
+And I want you to notice something about the organization of those cells relative
+to the eye itself. So, the back of the eye is out here
+somewhere. Okay?
+So, the pigmented epithelium is against the inner surface of the sclera, which is
+what we call the white part of the eyeball that we see from the outside.
+And in order for light to activate the cells that do the job of
+phototransduction, it has to pass through this entire neural retina because the
+phototransduction process is out here, right up against the pigmented epithelium.
+So, this is where phototransduction happens.
+And that may see, seem somewhat surprising that light would have to pass through this
+tissue before striking the photo pigments that transduced that energy and generate
+an electrical signal. But we think this is the way it is for a
+very important reason and it has to do with the relationship between these
+photoreceptors and this pigmented epithelium.
+So, if we look more closely at that relationship, what we discover is that the
+outer tips of our photoreceptors make intimate contact with this pigmented
+epithelium. And that's critical for the function of
+the pigmented epithelium in the whole process of keeping these photoreceptors
+competent to transduce photon energy into neural signals.
+The pigmented epithelium is involved in recycling the discs of membrane that
+contain the photopigments. And we know that from experiments that
+allow us to trace the movement of discs from a more proximal position to a more
+distal position. And what we find is, that eventually, the
+discs are completely engulfed by this pigmented epithelium.
+And that's important in recycling the photopigment that's otherwise bleached by
+the interaction with photons. So, this raises a rather serious problem
+that can happen with trauma. And that is what can happen when the
+photoreceptors are detached from this pigmented epithelium.
+So, this can happen with a sharp blow to the head.
+It's a particular problem and people who are in sports that are subject to a blow
+to the head and it's certainly something that can happen with a motor vehicle
+accident or some other trauma to the head. So, retinal detachment prevents this
+intimate relationship between pigmented epithelium and photo receptor.
+And as a result, the photoreceptor no longer has a chance to renew the
+photopigment and recycle its disk membrane.
+So now, lets consider the rest of the cells that comprise the neural retina.

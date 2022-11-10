@@ -1,0 +1,82 @@
+[MUSIC] Welcome to Cyber Security for Everyone. I'm dr Charles Harry. We've been talking about the various
+effects that threat actors can have on their target. And in this video,
+I want to talk about Second Order Effects. Second order effects, if you recall
+is one of three major categories of effects that we've been talking about. Primary effects are the impacts
+on specific IT systems. Secondary effects are the impacts
+of the organizational processes and their capability. But second order effects
+are the impacts broadly on society. And so each category of effect
+can be measured differently. So when we talk about
+second order effects, what we're really talking about
+are the indirect impacts on society. And so a cyber event can create
+significant indirect impacts on that targeted organization, causing severe
+disruption to keep product or service. You can imagine something like a tire
+producer and the inability to produce tires leads to a cascading effect on
+auto manufacturers around the country. The loss of that organization's
+output can broadly cascade through the supply chain and through entire
+critical infrastructure sectors, or even lead to physical destruction. Examples of this might include
+electrical transmission, nuclear power plants, sport facilities,
+even pipeline operators. So Second Order Effects have
+Indirect Impacts on Society. They can broadly impact society
+in a number of different ways. They could be physical in nature where
+the effect of that particular cyber event impacts directly the physical environment. So an example might be the sluice
+gates of a damn, opening up and create flooding down string where
+a nuclear power plant that is compromising its containment system breached, leading
+to the release of nuclear material. But they can also be macroeconomic in
+nature, where the impact to a particular targeted organization leads to
+a disruption in the broader economy. So you can think of transportation
+networks like airports being taken down, that create a larger
+disruption to the sector. Large manufacturers whose own
+disruption could lead to very, very significant disruptions
+in the supply chain. And finally, there could be impacts to
+the informational or perception of people. So kind of this informational
+effect where the effect is actually measured in the belief
+system of people in that society. So voters, for instance, changing
+their perceptions about a particular candidate because data that had been
+compromised from a database in a cyber event now changes people's perceptions
+about the viability of that candidate. So, a good example of what I mean
+by second order effects might be the Ukraine Power Event. Back in December 2015, threat, actors had compromised part of the
+electrical grid in the western Ukraine. A multi month campaign by threat
+actors led to a compromise about the business network and
+what we call the production network, the production network where all this
+technical systems that managed and maintained the flow of electricity
+in that part of the Ukraine. Over 30 substations were
+taken offline with about 230,000 people left without power for
+1 to 6 hours. So the effects of that particular
+cyber event were primary, secondary and second order. The primary effects were the specific
+devices that were left inoperable. And the IT manager is the one that's going
+to be primarily concerned about that issue, but
+there are also secondary effects. The ability to distribute power is
+compromised, leading to revenue losses and so enterprise leadership is going
+to be concerned about that. The second order effects however,
+the 230,000 people left without power. Public officials are now concerned because
+there's a broader impact on society. So remember, hacking generates
+initial primary effects but can lead to additional consequences. So a threat actor engages in the hacking
+process conducts actions on target. But those actions are cyber event and those cyber events can have
+multiple consequences. There is a primary effect that are either
+disruptive or exploited in nature. Those lead to secondary effects,
+which can have impacts on revenue, remediation or even reputation. And if it's large enough, there might even be second order effects
+that can impact the physical environment, the macro economy or
+even the informational environment. So different attacks, different
+effects Defacement of the website where the primary effects
+are primarily felt over, let's say the course of 30 minutes may
+not lead to a lot of secondary impacts. Maybe there's some customers who are a
+little concerned about the safety of their information. There's not really any discernible second
+order effects or impacts on society. But if you compare that to let's say, a ransomware attack on an assembly line
+where the primary effects are such, that devices are actually down first,
+let's say 72 hours. And secondary effects lead to large
+scale disruption in all manufacturing, leading to large revenue losses. Enlarge reputational impacts reflected
+in the share price plummets. But there are also now second order
+effects where the supply chain itself is impacted. So different attacks can
+have different impacts. Some are primary, some are secondary,
+some are even second order. So the question becomes, is a cyber event
+a private problem or a public concern. And this is how a lot of policymakers
+really struggle with cybersecurity and specifically cybersecurity incidents. How did they determine when to respond and
+when not to respond? So what are some of the take aways? Well, cyber attacks generate effects
+on society that stem from failures in the organization itself. Second order effects can generate
+impacts that are physical in nature, macroeconomic or information. Understanding how different cyber
+events can lead to a range of primary, secondary and second order
+effects allows us to determine if a cyber event is a private problem or
+a public concern. I hope you've learned a lot about
+how cyber events generate different effects and how that starts
+to play in public officials, understanding whether this is
+a private problem or a public concern. I hope to see you next time.

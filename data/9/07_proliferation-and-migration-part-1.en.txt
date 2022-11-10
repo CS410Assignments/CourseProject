@@ -1,0 +1,197 @@
+Well, just to look at the big picture now
+of inductive signalling, and this is a slide from the book that gives you way
+more detail than I care for you to know in this course, but it does represent a
+paradigm that I want you to appreciate. And that paradigm is what we might call a
+transcriptional code. Which reflects the coordinated expression
+of inductive signals that are coordinated both in location, but also in
+developmental time. And this interaction of inductive
+signalling is what gives rise to regional identity within the developing nervous
+system. It helps to differentiate one location in
+the brain stem or spinal cord from another.
+It also establishes the dorsal ventral access of the developing neural tube,
+which is critical for the development of sensory neurons.
+As well as columns of cells that give rise to our motor output from the brain
+stem and the spinal cord. So, these inductive signals really
+provide for the establishment of the identity of distinct populations of
+neurons that are necessary for the expression of mature function in the
+human brain and spinal cord. Now, a similar transcriptional code is
+responsible for the formation of regions that go on to form our forebrain, our
+telencephalon and our .diencephalon. We know quite a bit less about how this
+works in the forebrain than in the hindbrain and the spinal cord, but we're
+beginning to understand some of the inductive signals that are responsible
+for forming the cerebral cortex, the basal ganglia, other deep forebrain
+structures, as well as the derivatives of the diencephalon, including the optic cup
+and the otic placode, which goes on to form the structures that are necessary
+for vestibular function and then, auditory function.
+Well, once regional identity has been established along the length of the
+developing neural tube, the next major challenge is proliferation.
+Making the cells that are necessary to properly populate the grey matter
+structures of the developing brain and spinal cord.
+And proliferation is just mind-boggling in the developing nervous system.
+We know that in the adult brain there are about 100 billion neurons and if that
+number doesn't stagger the mind, consider that there are at least that many, and
+probably several fold greater than that number, glial cells in the human central
+nervous system. So just an incredible number of cells are
+present in the brain and the spinal cord. And in order to produce so many cells,
+the rate of proliferation is just staggering.
+During the peak of the production of cells in the developing nervous system,
+scientists have estimated that perhaps as many as 250,000 cells are produced every
+minute in the developing embryo. Another amazing aspect of the
+proliferation of brain cells, in early development, is that the production of
+neurons is restricted in time to a very narrow period.
+Nearly all the neurons that we have in our central nervous system right now were
+born in the second trimester of pregnancy.
+Now there are some brain structures, like the cerebellum, that has just the
+enormous number of cells, and I'm referring to the granule cell population
+of the cerebellum. And it takes a considerable longer period
+of time to populate this cerebellum, so at least a year, perhaps as long as two
+years, but with the exception of the cerebellum, virtually all of the cells
+that we have in our brain and spinal cord were born in that second trimester of
+pregnancy. Now some of you may know that there is
+adult neurogenesis, that is, even right now there are new neurons being born,
+but, as we'll come to in a few tutorials, the genesis of those new neurons is
+restricted to the hippocampus, at least in our brain and it is perhaps very
+important that this phenomenon occurs, it may contribute to learning and memory and
+other aspects of maintaining our mental and physical health, but it is a
+restricted population of cells that grow into that one region of the brain.
+And, as far as we know now, the impact of the stem cells that may reside in the
+human brain, seems to be limited. Both in terms of, normal physiological
+function and the response of the brain to injury.
+So, I think there are fairly profound implications for this restriction of
+neurogenesis in the formation of the nervous system.
+The neurons that we have right now, are the ones that were born in that second
+trimester of pregnancy. So I would encourage you to think about
+that. And wonder, well, what are the
+implications for learning and memory? What are the implications for
+rehabilitation following injury, if that's, if that's the case.
+Maybe that's something that we can kick over to the discussion board.
+And, see if that might inspire some interesting dialogue.
+Well, let's talk a little bit about how this proliferation of brain cells occurs,
+and then we can go on to talk about how brain cells are differentiated into
+neuronal or glial fates. Brain cells, like most other cells in the
+body, go through the usual stages of growth.
+And the synthesis of new DNA, setting the stage for the division of the cell into
+daughter cells, and that division occurs via a process that we call mitosis.
+I certainly am assuming that you are broadly familiar with cell division from
+your prior studies of cell and molecular biology so I won't go into the details of
+how mitosis occurs. Rather I'd like to talk about how mitosis
+happens in the walls of the neural tube that allows for the production of the
+cells that come to populate specific gray matter structures that we recognize in
+the human brain such as the cerebral cortex or the basal ganglia.
+Well, proliferation occurs among a population of precursor cells in the
+walls of the neural tube. These precursor cells have a recognizable
+cell body containing the nucleus, and all the other organelles that are common to
+the cells of our body. And that cell body, then, grows a process
+that makes contact with the inner and the outer surface of this wall of the
+developing neural tube. The outer surface will, will become the
+piall surface surface of the brain, and the inner surface is, of course, the
+inner surface of the neural tube, that goes on to differentiate into the
+ependymal lining of the ventricles in the human brain.
+Now, along this path between the pial surface and the ventricle surface this
+cell body becomes multal. That is, it migrates in the up and down
+directions, towards the pia, and then back towards the lumen of the ventricle.
+So, as this cell body begins to translocate up towards the pial surface,
+the cell now enters the synthesis stage, where DNA is being replicated.
+And then, as DNA is replicated, the cell body then migrates back down towards the
+luminal surface of this developing neural tube as the cell gets ready for division.
+And it's near the ventricular surface then of this neural tube that mitosis
+occurs. And mitosis can happen in a symmetrical
+way. It can produce two precursor cells that
+can go through this, this dance of migrating to the pial surface and back to
+the luminal surface again, and undergo subsequent cycles of mitosis producing
+more daughter cells, or there can be what's called asymmetrical division.
+An asymmetrical division produces two different kinds of cells.
+One cell remains a progenitor cell, which can go on to subsequent stages of
+mitosis. Although it's mitotic potential now is
+somewhat limited. The other daughter cell becomes what we
+call a neuroblast and this is now a post-mitotic cell that can go on to
+differentiate into neurons or glial cells.
+Now once this neuroblast has been produced through this process of
+asymmetrical mitosis, for many of these cells, they migrate away from the
+ventricular region of the wall of the neural tube to a more peripheral
+destination. And that migration is important for
+forming a structure like the cerebral cortex.
+So now we're looking a little bit further along in development.
+And now the wall of the neural tube is beginning to become a bit more complex.
+And if we look at this wall of neural tube in some detail, we can recognize the
+ventricular zone, where mitosis is happening, but increasingly, we begin to
+develop a separation between the pial surface and the luminal surface and the
+wall of the neural tube. And we begin to populate a structure that
+now acquires the properties of gray matter.
+And this structure, we call the cortical plate.
+The cortical plate is the first formation of the cerebral cortex.
+So, the challenge here is to get these neuroblasts that are formed here in the
+ventricular surface up to the cortical plate.
+And this requires a process of migration. So, the cells must become motile, and
+they must find their way to this outward cortical plate.
+And the way this happens is these neuroblasts will migrate along a radial
+fiber that is formed by a presumptive glial cell, we call this the radial glial
+cell. So these are essentially precursor cells
+now that continue to maintain their contact between the pial surface and the
+luminal surface of the developing neural tube and this long extended process
+becomes a pathway for the migration of the neuroblast.
+So, over here to the right, we have a dipiction of one of these neuroblast
+migrating along this radial glial fiber and these cells will translocate, they
+will shimmy along this fiber on their way towards the cortical plate.
+So there are a variety of factors that guide this migration.
+And, along the way, these neuroblasts begin to further differentiate and
+acquire a specific identity that will allow them to be differentiated into a
+neuron or a glia or a particular sub type of one of those broad categories of brain
+cells. So, as these neuroblasts migrate from the
+ventricular zone up to the cortical plate, they do so in a particular
+pattern. the cortex is essentially built in an
+inside out fashion and here are some data from what's called birth dating studies
+that have been done to track the final mitosis of a precursor cell and its
+ultimate position within the developing cortical plate.
+Well, there's a technical means by which this can be done.
+It's described in a box in chapter 22, if you're interested in how this happens.
+But essentially, what we can do is, we can label precursor cells at a particular
+point in development, and simply ask what has become of the post mitotic
+neuroblasts that were derived from that population of precursor cells that were
+marked at a particular time of development.
+And what this approach has taught us is that the cortex does indeed develop in an
+inside out fashion. The cells that are born in, let's say,
+the late first trimester of pregnancy come to populate the inner and the outer
+margins of the cortical plate. And thereafter, as we progress through
+the second trimester of pregnancy, the cells that are born early in that second
+trimester come to reside in the lower portion of the cortical plate, in the
+region that ultimately differentiates into cortical layer six, the inner layer
+of the cortex that sits just on top of the white matter.
+And as neurogenesis progresses through that second trimester of pregnancy,
+extending at least in some cortical regions into the third trimester, we see
+this progressive population of the cortical plate from the inner layers to
+the outer layers such that the last cells to take up their residence in the
+developing cortical plate are those that reside in what would become cortical
+layers two and three. So these neurons that come to reside in
+the outer part of the cortex have to migrate through these cells that have
+already established residence in the deeper layers of the cortex.
+And as these cells migrate through these deeper layers of the cortex, there is yet
+additional opportunity for inductive signalling to influence the fate of these
+later born and more superficial residing cells in the developing cortex.
+So this is the pattern by which a cortex is constructed.
+An inside out pattern involving the precise regulation of neurogenesis and
+the migration of neuroblast. So, obviously there's a lot of
+specification that's going on here. Cells are born at a particular time.
+They are provided the signals that are essential for migration and for getting
+off that radial glial fiber at the appropriate location such that the cortex
+is progressively built out in this inside out pattern.
+Now unfortunately, we know that some of the signals that are responsible are
+subject to genetic mutation. Perhaps they can be influenced by
+environmental toxins or dietary factors. And there are some known phenotypes where
+this inside-out pattern is destructive. In fact, the process of neuronal
+migration and the proper establishment of this inside-out pattern seems to be
+essential for establishing the identity of the cells that take up residence in
+these various layers of the cortex. And their location, as you may recall,
+has much to do with determining the connections of the neurons that are
+ending up in one cortical layer or another.
+So if this process of migration and patterning of the cortex is disrupted,
+it's very likely that also the connections of those cells will likewise
+be disrupted. And we now know that there are a number
+of congenital malformations of the cerebral cortex that reflect errors in
+the migration of these neuroblasts. We think that perhaps even subtle errors
+in the migration of these neurons might be responsible for some forms of mental
+retardation and learning disability. Although there's much more work that
+needs to be done to truly understand what's going on at the level, at the
+level of cortical development that can be related to the broad spectrum of learning
+disabilities that we confront in society. We'll say more about that topic as the
+story of cortical maturation continues in subsequent tutorials.

@@ -1,0 +1,125 @@
+So, there are several subdivisions to the
+superior olivary complex, and I'd like to talk about two of them.
+Beginning first with a division that we call the medial superior olive.
+In the lower left of this slide, I have a bit of a photomicrograph that shows you
+what this medial superior olive actually looks like.
+this is from a primate brain stem. And this nucleus takes the shape of a
+spherical ball and the outline of the ball is roughly about there.
+And the reason why I'm showing you the nissl stain is because there's a very
+unusual distribution of cell bodies withing this spherical shape.
+The cell bodies are all found right along the equator of this ball and those cell
+bodies are all lined up in a very characteristics array.
+Such that they can extend their dendrites, in opposite directions, away
+from that equator. Well this is the arrangement that is
+shown schematically, in the figure from our textbook, that we have in front of us
+here. And what we see is that along this
+equator, there is a systematic distribution of inter oral latency
+differences from one end of the medial superior olive to the other.
+So, here's how this works. In the medial superior olive, neurons
+become precisely tuned to the timing difference between the encoding of sound
+in one ear, and the other ear on the other side of the head, obviously.
+Now, here in this figure, we see a schematic representation of this array of
+cells that we find here across the equator of the medial superior olivary
+nucleus. And I want you to notice that, that each
+neuron here in this medial superior olive receives two sources of input.
+One source of input is the cochlear nucleus coming from one side, and the
+other source of input is the complimentary cochlear nucleus on the
+other side of the brain stem. And in order for any one of these cells
+to fire an action potential, there must be the coincident arrival of the
+electrical signal, causing the release of neurotransmitter from both of these
+pathways onto the neuron. So when that happens, then the neuron can
+fire and transmitted signal to its targets.
+Well, let's take this neuron e for example in this illustration.
+In order for neuron e then to fire, there must be the simultaneous arrival of input
+from the left ear and the right ear. Well, because of the difference in the
+path length, from the cochlear nucleus on the left side of the brain stem, to
+neuron e, compared to the path length from the cochlear nucleus from the right
+side of the brain stem to Neuron e. The only way that inputs can arrive
+simultaneously would be if the sound source is shifted over here to the left
+somewhere. So, if that sound source is here on the
+left hand side, then the activation of the left cochlea is going to occur
+before. The activation of the right cochlea
+because of the temporal lag in the conduction of that sound wave from the
+left side of the head to the right side of the head.
+So even though the path from the left cochlear nucleus to neuron e is longer,
+with sound present on the left hand side of the midline, the signal is going to
+get started in advance on the left side compared to the right side.
+And with the sound source shifted to the left, neuron e is much more likely, then
+to receive coincident input from both sides of the brain stem.
+The same basic scenario would apply to each of these neurons that they're in a
+slightly different position along the equator of these nucleus.
+Finally, on the opposite side of the nucleus, we will find a cell that has
+exactly the opposite arrangement from what discussed for neuron e.
+It has a long path length from the right side, a short path length from the left
+side. So coincident activation of these inputs
+to neuron a would require a localization of sound over here to the right.
+So the path length is short to the right ear, long to the left ear allowing for
+the longer path length here to be started in advance of the shorter path lengths.
+Well this is really a beautiful system. it requires the precise development of
+connections that are specifically tuned for delays, between the arrival of sound
+energy on the two sides of the head. And, I wish we had time to talk in more
+in detail, about exactly how this system develops, and how it's tuned up to the
+environment. but that's a wonderful story that
+pertains to development and developmental plasticity.
+Which I would invite any of you interested to look up that literature and
+discover more about that for yourself. So this is the story of the medial
+superior olive. It encodes the localization of sound in
+space based on inter oral timing differences.
+Well, there's another division of the media superior olive that I'd like to
+tell you about. It's the lateral superior olive.
+And it encodes information about the location of the sound source based on
+inter oral intensity differences. Okay?
+So the medial superior olive bases its signals on inter oral timing differences.
+The lateral superior olive on inter oral intensity differences.
+Well here, in this part of the superior olive, the circuitry is just a little
+more complex. There is a second nucleus involved.
+so here is the lateral superior olive, and the secondary nucleus is a source of
+inhibitory input to the lateral superior olive.
+It's called medial nucleus of the trapezoid body.
+So here's how this circuit works. Input derives from the cochlea nucleus on
+one side of the brain stem, send projections on up to this superior olive.
+So they input the code directly to the lateral superior olive causing an
+exitation of that cell. But there's also collaterals that project
+across the midline to this medial nucleus at the trapezoid body.
+Neurons in the medial nucleus of the trapezoid body grow short connections
+then to the lateral superior olive. And function to inhibit that nucleus,
+when activated from the opposite side of the brain stem.
+So, you can imagine what would happen, if there were sound source localized over
+here. Just to one side, let's say this is the
+left side of the brain stem here. So this left lateral superior olive would
+be excited and fire at an increased rate, whereas the right lateral superior olive
+will be inhibited. And that's exactly what is plotted over
+here to the right hand side of the figure.
+We're looking at the output of the lateral superior olive or just the firing
+rate of neurons in this structure relative to the location of the sound
+source. Now, if the sound source is well to the
+left side of the head for example, we would expect the intensity of that sound
+to be much greater in the left ear compared to the right because of what's
+called an acoustic shadow that's cast by the head.
+Basically, the energy will be absorbed on the left-hand side of the head, more so
+than would be transmitted to the right side.
+Consequently, with a left sided sound source we would expect there to be very
+strong activity in the left lateral superior olivary nucleus.
+But also strong inhibition In the right superior olivary nucleus.
+So while activity is quite high with that left sided sound source in the left LSO,
+we would expect activity to be just about shut down in the right lateral superior
+olive, again because of this inhibitory connection.
+The the medial nucleus of the trapezoid body.
+Now, if we look on the opposite side of the head with a sound source localized to
+the right, we would expect there to be strong activity in the right lateral
+superior olive. But inhibition of the left lateral
+superior olive. So this difference between the activity
+of the two sides of the superior olivary complex is one means for encoding the
+location of sound and space. Based on this intensity differences that
+arises because of the acoustic shadow cast by the head.
+Now with the sound source directly in front of the listener that sound source
+would have equal intensity in the two ears.
+So, consequently the activation of this inhibitory circuit would essentially null
+out the difference in activity levels across the two sides of the lateral
+superior olive. Well the upshot of all of this is that
+the superior olivary complex of the inferior pons provides a dual means for
+encoding the localization of sound and space.
+The medial superior olive encodes the localization of sounds in space based on
+inter-aural timing differences, whereas the lateral superior olive and codes the
+location of a sound source based on intensity differences between the two
+sides of the head.

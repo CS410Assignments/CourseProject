@@ -1,0 +1,99 @@
+Hello, and welcome back to Introductions
+to Genetics and Evolution. Now what we've been trying to
+do in the last couple of videos is quantify when we're looking
+at variation in some traits, such as human height, how much of
+the variation you see is genetic, and how much of the variation
+you see is environmental. Now, in the previous video we estimated
+heritability, or that fraction of the overall phenotypic variation
+that is genetic using an F2 cross. Here's the formula by the way for
+heritability. Again, that fraction of the overall
+phenotypic variation is genetic. We estimate using an F2 cross. And we start off with tall parents, that
+are genetically identical to each other, so the genetic variance
+here is equal to 0. We cross into short parents, they're all
+genetically identical to each other. So within this box, Janet grants a zero. We got intermediates,
+the offspring here from them. The genetic variation
+in these is also zero, they may be heterozygous for a lot of low
+sine, but they're all heterozygous for the same low sine exactly the same way. Okay, so this is the F1s. From these, we got the F2s, from the F2s, we see quite a bit more spread than
+we saw in the F1s or in the parents. The reason we see more spread
+is because we've added this. Instead of Vp just being Ve,
+Vp here is Ve plus Vg, we've added genetic variance here. From this, by comparing, assuming
+that this Ve is the same as this Ve, comparing the two Vg's we can get
+an estimate of heritability, as you saw. This is not very useful in the context of
+something like, for example, human height. Because we don't have a bunch of people
+who are all genetically identical, they are tall. And we can cross to a bunch of people
+that are all genetically identical, they were short, and
+look at the offspring and their grandkids, and
+obviously it's not feasible. Instead, another way to estimate
+heritability is to use what we refer to as parent offspring correlation. If we assume that all
+variation is genetic, and let's assume there's no
+dominance in this case, then any individual should have exact
+average phenotype of the two parents. So, here's a picture of me. Here's a picture of my wife. If you put us together
+into some online form, it predicted this is what
+our kid should look like. This is some sort of intermediate
+between me and my wife. In contrast,
+my actual son looks like this. There's a picture of him. Close to, but not exactly
+identical to this exact average. Now oh yeah,
+he's not usually quite that tan but he was out, out in the sun
+a little bit much that summer. Now if we look at lots of individuals,
+we can assess how well the average of the parents' traits
+predicts the average of the offsprings. And then we can use that. We can look at the strength of
+the correlation or in this case, the slope of the line to
+estimate heritability. So let's imagine a hypothetical thing. Let's take an average
+height of two parents, and let's say the average height
+of two parents was 6 foot 0. So let's take another
+average height of parents and say their average height was 5 foot 0. If the kids on average have exactly
+the same height as the parents the average of the kids matches
+the average of the parents. That slope is one; therefore
+the heritability is one. That is a strong genetic component. In contrast let's imagine that
+you see something looking. Be more like this. So you do, you look at
+the correlation between these two, between the height of the parents and
+the height of the kids, and you see that in general, there's no
+particular prediction whatsoever. The slope of this line is zero,
+therefore there is no prediction, from the average of the parents,
+to the average height of the kids. This would suggest there's no genetic. We can use this to assess heritability. So I have here four figures. In Figure A, this is a case where
+heritability would be approximately zero. Where you have short versus
+tall average for the parents, short versus tall average for
+the offspring. You can see the slope
+there is basically zero. These you see some relationship. This would be about a case
+with heritability is about .5. See here you have a very
+strong relationship. There the heritability is
+very very close to one. In this case the height of parents,
+the average of the two parents, very well predicts the average
+height of the offspring. And here's some real data over here. This is looking at students and
+their parents. This is from
+the Evolutionary Analysis textbook. You see the midparent height is very
+close to the mid offspring height. The slope there is 0.84, suggesting a very stong genetic
+component to human height in this case. Now that's interesting, but
+I have to remind you why this matters. Again, there is medical relevance to this. Let's say your parents get gall stones. Is it worth it for you to alter your diet? Right?
+Or is this predominantly genetic? Do you as a doctor want to tell somebody,
+no, give up eating meat completely? When in fact giving up eating meat may
+have no effect whatsoever on their likelihood of having some sort of disease. No, you need to be able to identify
+something as having a strong genetic component versus a very
+weak genetic component and more of an environmental effect, so
+you can practice medicine properly. Similarly, let's say you want to
+breed a friendlier guinea pig. How much will selective breeding matter? Or, is friendliness just how
+much you handle the guinea pig, something along those lines. Unfortunately, things aren't always
+as straightforward as I said. Now everything we've been talking about,
+ignores the fact that parents and offspring may share some environmental
+factors, as well as genetic factors. There's probably a correlation
+in food availability and other characteristics between parents and
+offspring. And what this does is this biases
+upward the estimate of heritability. We are assuming anything that's shared in
+this way is from genetics but, in fact, there may be some environmental
+affect that's shared, especially in this sort of parent
+offspring correlation that I talked about. There are other assumptions as well. First that we're assume the environment
+is constant, such as for example that F1, F2 cross we looked at. We assumed that Ve was exactly
+the same in the F1 as in the F2. But in fact the environment
+is probably not constant. Estimates of heritability
+may also be very different if you go to different places
+because Ve may be very different. This is also true at different time. And finally, the amount of genetic
+variation is also not constant in different families or populations. So let's say for example you study in Australia
+the heritability of human height. That result may not apply if you
+went to India, if you went to Japan, things like that, because the amount
+of genetic variation is going to be different, the amount of environmental
+variation may also be different. But, despite all this, it's not
+perfect but it's a starting point. And it's still useful under
+particular circumstances. So next class,
+we'll actually go into another means for estimating heritability and that is what's
+referred to as the breeder's equation. We'll also talk a fair bit
+about population growth, that will be a little bit of a side. Thank you and I hope you enjoyed this.

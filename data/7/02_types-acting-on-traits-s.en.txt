@@ -1,0 +1,148 @@
+Hello.
+Welcome back to Introduction to Genetics and Evolution. In the previous video, we looked at
+the types of selection that can operate on a single locus or
+single gene in the genome. In that case, we looked at the effects
+of dominance in particular on directional selection. We talked about other forms of
+single locus selection such as heterozygote advantage
+which is over dominance. Under dominance or
+heterozygote disadvantage and negative frequency dependent selection. Now, if you go back, Darwin of course
+didn't know anything about genetics. He, instead, thought of natural selection
+in the context of variation and traits. Now that's what a lot of breeders do when
+they're applying artificial selection to say there dogs or cattle or corn or
+whatever they may be using. Now, natural selection can be studied in
+the context of quantitative traits or in the context of single loci. Now, when we talked about it in
+the context of heritability previously, we were thinking of it in terms
+of these quantitative traits. And you don't necessarily need
+to know the underlying genes to infer what kind of selection is operating. So let's talk about the types of selection
+that can be inferred when you're looking at phenotypes and changes in phenotypes
+over time or changes in traits over time. This is a picture from the Freeman and
+Herron book and this depicts three kinds of selection
+that I'll introduce to you. Directional selection is a little
+bit different than the previous directional selection we talked about when
+we're looking at a single gene thing. It's very unfortunate they
+happen to have the same name. But in this case,
+we're looking at selection which favors one extreme of the distribution
+over the other. So we have here in the top picture, the
+number of individuals before selection, so it's particular distribution. We have in the second graph
+the probability of surviving, so in this case the ones that have the higher
+trait values have a higher probability of surviving than the lower ones. And then, in the bottom part, we see the number of individuals having
+these different traits after selection. In this case,
+we see sort of a change in the mean. The mean here started just below seven,
+here it's just above seven, supposed to be directional selection. I'll introduce each of these in
+more detail in just a moment. We have one called stabilizing selection, where individuals with
+the intermediate value are favored. And we have disruptive selection, individuals with the extreme
+values are favored. Let's go over these in terms. This first example is directional
+selection or applying this in the context of phenotypes, we're not looking at
+the single gene version of it, and I apologize again they tend to have
+the same name, it's very confusing. But again with this, individuals at one
+end of the distribution are favored. So if we imagine
+the x-axis here is height, say that's the trait value on there. Then, with this particular thing then,
+the probability of surviving is higher for those that are taller, whereas it's
+very low for those that are short. So what this will do is it'll change
+the mean of the population over time. The assumption here is that
+there's some heritability, that there's some heritable
+component to height and therefore selection can
+induce this sort of a change. In this case, what you see is, you see
+the shift over from a mean of just below seven, to a mean of just about
+seven in this fictional example. Well, let me show you a real example. This shows change over time in
+pink salmon weight in Canada. So this is from two different places where
+pink salmon were caught several times. We see here that the average weight
+in 1951, 1952 was a little bit over four pounds, and we see over time,
+smaller and smaller salmon are caught. Same thing with Upper Johnston Strait
+over time, smaller and smaller salmon are caught. This has been shown in pictures as well. Here's an excerpt from a magazine. This is showing collections from the same
+place in over three time periods. Here is the 1950s. Look at the size of those fish. They are a mammoth. In the 1980s, they are pretty good. In 2007, they are fairly small. What happened? Well, when people go fishing, they go out
+there, they catch the biggest fish and those are the ones they take home and eat. Smaller fish are less likely to be caught
+or may be more likely to be thrown back. So over time, there has been this
+selection for favoring smaller fish or for smaller fish. That is directional selection
+acting on the phenotype of size, in this case in pounds. Let's look at an example of
+another kind of selection. This is an example of
+stabilizing selection. This is a case where individuals in the
+middle of the distribution are favored, so they have the highest fitness. Whereas individuals near the ends have
+a lower probability of surviving. In this particular case,
+there's no change in the mean, but you actually end up losing
+some of the extreme. Well there's a classic
+story that goes with this. In the late 1800s, a fellow named
+Bumpus lived up in New England, and he was interested in the sparrows
+that were found there. A big ice storm hit New England,
+lots and lots of birds died. He went out there and
+brought back a lot of birds that were sitting out there in the snow not doing so
+well. And what he found looking at these
+house spurs, he brought in 136, 64 of them died and 72 survived. What he found is that
+the mean of the survivors and the mean of the dead was about the same. They were about 26 grams, in size. In contrast, if you look at the extreme,
+all the ones that were more than 28 grams and all the ones
+that were less than 23 grams died. There were some that died that
+were intermediate there, but all the ones with extreme values died, so
+they had a lower probability of survival. Whereas the ones with intermediate traits,
+they were more likely to survive. Well there's a definite example
+of stabilizing selection that operates in humans. Can you think of what that would be? Something where the intermediate
+values are favored. And that answer is, human birth weight. And again, we tend to think of
+very small babies that are two or three pounds, their probability
+of survival is not very high. If you have an eight pound baby,
+a nine pound baby, they have a pretty good
+probability of surviving. When you get up to the 12,
+13 pound babies, again it goes back down. A lot of them do survive,
+especially with medical intervention, but the probabilities tend to go down, especially if you have less
+medical intervention there. Again, individuals in the middle of
+distribution are favored by natural selection. So this would be a case
+of stabilizing selection. I should emphasize, stabilizing selection
+is not the same as over dominance. Over dominance is something that happens
+when you're looking at a single gene. This is looking at
+a pattern in phenotypes. It's a common error,
+I just wanna make sure to emphasize that. Last but not least, disruptive selection. This is basically the exact
+opposite of stabilizing selection. The individuals at the two ends of
+the distribution tend to be favored. Again in this case,
+you have no change in the mean, even though you're losing those
+individuals that may have the mean values, but you have an increase in those
+with the extremes, both high and low, and you have a loss of
+the intermediate phenotypes. So you have basically a greater variance,
+over time. There are examples of this, this is the
+one that was published around 1992 or so. This is looking at beak
+size in African finch. And what people found is that when
+you're looking at the females, they tend to specialize on
+two sedge species, seeds. And those with particular bills,
+this set can specialize one type, this set can specialize on another type,
+but the intermediate ones actually are not
+as good at either type of seed. So the intermediate ones here where
+ones near the mean are not as good, they have lower fit. It is better to have one of
+the more extremes in this case. So, those are again, the three types of selection that you
+can infer from looking at phenotypes. Directional, where you have
+a change in the mean and one end is favored,
+could be the other way, too. Stabilizing selection, where the ones near
+the mean are favored, you lose variance. You lose those extremes. Or disruptive selection, where
+the intermediate ones are unfavored and you have an increase in variance,
+an increase in those extremes. Before we leave selection behind for
+this particular lecture, I'd like to close with
+a few final thoughts. Is selection good or bad for population? We tend to conceive of selection
+as being something bad, to imagine the sort of struggle. And some genotypes not being able to pass
+themselves on, some individuals being left out of the population whatever species it
+is, we're looking at animals or plants. In fact, that's a very bias view. Natural selection is preferentially
+reducing or eliminating the bad genotypes. When I say bad genotypes, it's those
+ones that are not as well-suited to passing along, or producing offspring. So either they have
+a deficit in survival or they have a deficit in production
+relative to other genotypes. As such, because we're getting rid
+of these so-called bad genotypes, the average fitness of all the remaining
+individuals in the population after selection actually goes up. That, if you look at the people who are
+still there after selection has operated, on average they tend to be more fit. Now the reason for this is that
+the bad alleles have been removed. And this is especially true when you're
+looking at simple directional selection. And ultimately,
+this will lead to a long-term improvement of the population's ability to survive and
+reproduce. Now, in this regard, directional selection
+is improving the average population fitness and the speed with which it does. It has been described by Ronald Fisher
+who's depicted here on the slide. And what's referred to is Fisher's
+fundamental theorem of natural selection. This is elaborated very
+nicely in his 1930 book. But he identified that the rate of
+increase in fitness in directional selection is equal to
+the genetic variance in fitness. And we could think of this as similar to
+the variability aspects we talked about earlier, right? Selection acts on that aspect of
+the trait that has a genetic basis, right, that VG is what responds to
+selection out of the overall VP. So in terms of overall fitness,
+we see the same sort of concept applying. The rate of increasing fitness is equal
+to the genetic variance in fitness. So there's a lot of variance in fitness. Then you'll see large step changes in
+the overall average population fitness. In contrast, if most individuals
+have fairly similar fitness, you won't get that much of an increase
+in overall population fitness. So I just wanted to present that to you
+as a couple of closing thoughts cuz these are some neat ideas that have
+been around for quite some time. And I hope you've enjoyed these
+lectures on natural selection. In subsequent videos, we'll look at
+another very important evolutionary force, one that's far more random. We'll be looking at genetic drift,
+so stay tuned. Thank you.

@@ -1,0 +1,165 @@
+So what we know are that humans are
+sensitive to an enormous range of odorants.
+And odorants come in all kinds of molecular shapes and sizes.
+And these shapes and sizes interact with a large number of olfactory receptors.
+In fact the genes that encode olfactory receptors, are the among largest gene
+families that we know about. Within vertebrate and even invertebrate
+systems. So, there is tremendous conservation of
+these genes, but also tremendous diversity.
+In our case, we've got probably about 1200 olfactory receptor genes most of
+them are pseudo genes, that is, they don't express a competent protein, that
+functions as an olfactory receptor. The actual number of true genes, for
+olfactory receptors in us, is about 400 or so.
+Which is maybe about a 3rd the number that might be present in a typical
+canine. And perhaps this has a great deal to do
+with the relative sensitivity of olfactory discrimination and detection in
+canines versus humans. So humans can be sensitive to odorants
+down to a concentration range of nanomolar.
+So that's, really a remarkable amount of sensitivity, even though we don't
+typically think as humans as being the champions in the animal kingdom, in
+olfactory sense. yet, we're definitely holding our own.
+Relative to our mammalian kindred. And it's really fascinating to consider
+how these odorants interact with these receptors.
+So there can be very small and subtle changes in the molecular structure of an
+odorant that can give rise to very different percepts.
+So we want to understand some of the logic as to how that happens.
+For example, the d isoform of the odorant carvone for many of us smells like rye.
+Whereas the l isoform of carvone smells like spearmint.
+Very different perceptual qualities with a subtle rotation.
+Of a carbon bond in this molecule. another interesting aspect of olfaction
+is that the quality of the odor is sometimes modulated by the concentration
+of the odorant. So for example, low concentrations of the
+odorant indole smells like flowers, a floral bouquet.
+Whereas high concentrations of the very same odorant molecule can smell quite
+putrid. what we might think of as exactly the
+opposite end of this perceptual spectrum. And lastly I, I would make the point that
+most natural odors, they're really not a single odorant but they're quite complex.
+Much in the way we talked about human speech being spectrally complex, being
+composed of many fundamental frequencies. In an analogous way, most odorants are,
+are quite complex. There are many different odorant
+molecules that are present within that odor, and these molecules will interact
+with odorant receptors in various ways. And it's, to those interactions that I'd
+like to turn our attention now, using the slide that's before you.
+So what we have is an example of a combinatorial code.
+That relates odorants to olfactory receptors.
+And this code is based on the molecular shape of the odorant.
+Now, this figure provided by my colleague here at Duke, Hiro Matsunami, illustrates
+for us the relationship between molecular shape.
+And odorant receptor. For example, this odorant here at the
+top, it has sort of a triangular shape on the left hand side of this molecule, and
+a rectangular shape to the right. Well the rectangular part would appear to
+fit nicely into a receptor that has rectangular shaped receptor motif.
+Whereas the triangular piece would appear to fit quite nicely into a molecule that
+is configured in a way to interact with this triangular shape.
+Well, of course the molecules themselves aren't really rectangles or, or
+triangles, but rather there is a molecular shape that is interacting with
+a particular receptive motif that's present in the receptor protein itself.
+And the point here is that the same odorant molecule can interact with more
+than one receptor depending upon the geometrical configuration of odorant
+molecule. The receptor.
+In the case of this first odorant that is illustrated in this schematic here, we
+see that this one odorant can interact with at least two different olfactory
+receptors. For example, we see the complex shape of
+the odorant to the bottom has molecular form and structure to it that allows it
+to interact with three different odorant receptors.
+So, what we mean by combinatorial code, is a code based on the number and, as it
+turns out, the location, of odor receptors that interact with the same
+odorant molecule. So in this scheme, the first odorant
+would be indicated by the activation of these two odorant receptors.
+Here in the two left hand columns, whereas the odorant to the bottom would
+be indicated by activation of the three odorant receptors that are off to the
+right. Now this combinatorial code that we find
+in the relationship of odorants to olfactory receptors.
+Is converted into a spatial code that allows for the receptor neurons that
+express a given olfactory receptor allele to grow their axons and converge on the
+same pair of glomeruli in the olfactory bulb.
+So, let me explain this anatomy. And how this remarkable degree of
+convergence works. So, here's an illustration that shows us
+our olfactory epithelium, and we see a population of olfactory receptor neurons
+that grow their axons through the cribriform plate, and they reach the
+olfactory bulb. What we find in the olfactory bulb is a
+really particular compartment that is rich with receptors and synaptic
+connections between our sensory axons from our olfactory receptor neurons, and
+a variety of postsynaptic targets, including the principal neuron of the
+olfactory bulb called the mitral cell. So here we see a mitral cell that grows a
+dendrite into a spherical structure that we call the glomerulus.
+And it's within that glomerulus that the mitral cell receives synaptic input from
+an afferent axon. While there are a variety of other cell
+types that are present in the olfactory bulb, namely a small inter neuron called
+the periglomerulus neuron, there is also a small inter neuron called the granule
+cell. both of these neurons seem to mediate
+inhibitory interactions within and among glomeruli.
+There is also a cell called the tufted cell that contributes post synaptic
+targets for the afferent input that's arriving in the olfactory bulb.
+So, these spherical structures called glomeruli, are the first site of synaptic
+connection between the olfactory epithelium and the brain.
+Here's the challenge in setting up this circuitry between the olfactory
+epithelium, and the, olfactory bulb. Each glomerulus receives input from about
+25,000 olfactory receptor neurons. But what's absolutely astounding about
+this convergence of information into a single glomerulus is that nearly all the
+olfactory receptor neurons. That provide input to that same
+glomerulus, will express the very same, alelle, for a particular olfactory
+receptor. That is, all of these 25,000 neurons, are
+expressing a receptor that will interact with the same set of odorants.
+This allows for convergence, of both anatomy, and function.
+Into each and every glomerulus that we find in the olfactory bulb.
+If we look across the entire olfactory epithelium, that's present on both sides
+of the midline, what we find is that, all of the olfactory receptor neurons, that
+express the same olfactory receptor, grow their axons and converge onto two
+bilaterally symmetrical glomeruli in the two olfactory bulbs.
+So this is an example of really a, a remarkable achievement in path finding,
+whereby axons from a broad epithelial surface, will grow and target, and
+ultimately establish sona, synaptic connectivity with a very limited spatial
+target. In this case, a spatial target of
+probably less than 100 microns or so, of typical dimension.
+That would be about the diameter of a typical olfactory glomerulus.
+Now, as I mention there are other cells that contribute to the circuitry of the
+glomerulus. I won't really say anything more about
+that except to suggest that the granule cells are a particularly interesting
+population of neurons. They seem to set up inhibitory networks
+across the olfactory bulb. They appear to have a role to play in.
+Synaptic plasticity that occurs within circuits of the olfactory bulb, and for
+many mammals, although it's not so clear that it happens in humans, the granule
+cell population is one set of neurons that is repopulated in life.
+That is, there is a set of stem cells, that produce new neurons that migrate
+along what's called the rostral migratory stream to enter the olfactory bulb, and
+contribute new neurons to the granule cell layer of the olfactory bulb.
+Again we're not so sure whether that really exists in our brains, as well as
+many mammals. But it is curious that of all the
+populations of neurons in the brain to be supplied throughout adult life, it's the
+granule cell population of the olfactory bulb in many mammals that, benefits from
+this neurogenesis that occurs even into adult life.
+We'll say more about development when we come to unit five, but just hang onto
+that thought now. That the olfactory bulb is a recipient of
+the production of new neurons in many mammals.
+One last thing about the olfactory bulb, before we move on to talk about the
+olfactory cortex in the brain, is that the olfactory bulb seems to solve some of
+the challenge of having complex odors that contain many different odorants.
+if we go back for just a moment to the previous slide, where we saw something
+about the logic of the relationship between odorants to receptors, and we
+discuss this notion of a combinatorial code.
+I think its perhaps apparent to you that the same complex odor might activate
+quite a large number of olfactory receptor neurons that express, each their
+own allele. but the protein that's produced by that
+allele, the olfactory receptor, potentially can interact with more than
+one odor molecule. And so as a result of this system of
+combinatorial coding in the olfactory epithelium and the convergence of the
+sensory neurons to individual glomeruli in the bulb, you might imagine that a
+complex odor ought to give rise to the activation of, of tens perhaps even
+hundreds of glomeruli. In the olfactory bulb, but that often
+does not seem to be the case. It seems to be that a much more sparse
+coding mechanism exists in the olfactory bulb for complex odors.
+Which is to say that there seem to be certain glomeruli that might dominate the
+representation of a complex odor. Not all glomeruli that may be receiving
+afferent information may be equally activated.
+And perhaps this is where these additional neurons come into play.
+With lateral inhibitory networks. much remains to be discovered about how
+representation in the bulb was actually achieved.
+But I do think it's notable that there is a sparse coding of complex odors in the
+activation of only a limited subset of glomeruli.
+And now the next challenge is to understand how does that information get
+transferred back into the rest of the ventromedial fore brain.
+And then how is that information coded and processed and then ultimately how do
+these olfactory signals impact behavior. So let's turn now from the bulb.
+We'll travel down the lateral factory tract and consider some of the central
+processing mechanisms that we find in the olfactory cortex.

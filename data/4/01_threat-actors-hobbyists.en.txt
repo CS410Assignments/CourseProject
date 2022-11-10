@@ -1,0 +1,118 @@
+Hi. Welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. In our last episode we
+talked about threat actors. Just to review, threat actors
+exploit vulnerabilities and those threat actors
+act either alone or as part of a collective or
+broader organization. They leverage their skill and resources to achieve a
+specific end effect. Finally, they're motivated
+by different things. Not all threat
+actors are the same. In this episode, I
+want to talk about the first one of those
+groups, hobbyists. Let's talk about the first one of these groups, hobbyists. Who are they? They tend
+to be low-skilled. If you're acting alone and
+you don't have a lot of financial resources and/or
+a lot of formal training, you're not going to have
+the top flight skills necessary to pull off the most complicated
+cyber operation. They tend to be
+lightly resourced. Especially if you think of the typical example
+that's given by a hacker, may be a brilliant person living in their
+parents basement, they live in their
+parents basement. They probably don't
+have a lot of money. They don't have a lot of money, they may not be able to
+acquire the software or the hardware for them
+to reverse engineer and to pull off some of the more complicated
+cyber operations. They tend to use
+off the shelf tools that have usually been
+developed by other individuals. They're likely to engage
+in some activities that demonstrate some capability
+to increase their reputation. We oftentimes call these
+folks script kiddies. Let's talk a little bit
+about their motives. Fundamentally, hobbyists
+are curious about how technology works and where
+the vulnerabilities lie. These are individuals
+who act alone, but they oftentimes cross the line and they violate
+confidentiality or the integrity of
+datasets or they could potentially impact the access to a device or service itself. Fundamentally,
+hobbyists are curious about how technology
+works and oftentimes, they'll exploit a particular
+system or service to demonstrate their capability and to improve their reputation. But these activities can be illegal and it's important
+to remember that. Just because you're curious, doesn't mean that you should
+be doing that activity. You can easily cross the line. Let's talk a little bit about the tools that
+hobbyists may use. In penetration testing in
+cybersecurity industry, there's a particular build
+of Linux called Kali. In Kali, there are a variety
+of different utilities and other tools that are helpful in doing things like
+reconnaissance. Now, we'll talk more about reconnaissance in
+another episode. But the ability to
+actually search your target and
+identify a variety of pieces of information that
+help you identify where the weaknesses are, is
+fundamentally important. Hobbyists are able to leverage utilities that
+have been built by other people to conduct this
+type of reconnaissance. There are tools
+for exploitation, the ability to identify
+the vulnerability, and to throw a particular
+piece of code at it in order for you to exploit
+that vulnerability. All of these things are
+found in Kali Linux. There are tools for
+delivery that once I've identified what that particular
+exploit code should be, the ability for
+me to throw it at a particular target is
+a means of delivery. Now, again, we'll talk
+more about reconnaissance, exploitation and delivery
+in future episodes. In this particular
+Kali Linux build, you can see a variety of
+open source free tools that hobbyists can
+leverage in order to take advantage of weakly
+defended systems. What kind of attacks do we actually see coming
+from hobbyists? We always see a range of different low-level
+type attacks. These include things like
+defacing of a website, which is just simply
+graffiti on the website. The ability to execute a
+denial of service attack. The ability to throw
+enough packets at a particular target so that
+it is unable to respond. You're denying service of that particular
+application server. A SQL injection attack
+where you're just modifying the URL and tricking the database
+behind that website to reveal more information
+than intended. It could involve
+guessing passwords, doing what we call
+brute force attacks. Finally, even "Google hacking". If you know how to use the lexicon and
+Google, good enough, you may be able to identify information that was not
+intended to be made public. That can be really
+quite useful when you want to access a
+particular system. One good example of
+a hobbyist attack comes from Budapest
+in Hungary in 2017. In 2017, the Budapest
+Transport Authority had launched a new
+online ticketing system. There were many,
+many security flaws, including an admin
+account password that was set up as "adminadmin". An 18-year-old hobbyists was able to manipulate
+the website very, very easily to purchase a
+$36 ticket for 20 cents. Now, that particular hobbyists was motivated by curiosity, identified a particular
+vulnerability and then notified the
+appropriate authorities. The problem was, he crossed the line and he was
+arrested and prosecuted. Even though this
+particular hobbyists, this particular threat actor, really did not have
+malicious intent, really thought that
+they were doing the right thing by publicly
+exposing a vulnerability, they did cross the line, and so therefore they were
+arrested and prosecuted. Hobbyists really are
+opportunistic targeters. They look for where
+vulnerabilities might lie. They do broad-based
+scanning of the Internet, they identify where a
+particular vulnerability might lie and then
+they execute on it. They're opportunistic. In fact, if we take a look at data just over a
+couple of years. In this particular case, we're looking at a dataset
+from 2014-2018, the vast, vast majority of the
+attacks that we see being conducted by hobbyists are
+against professional services. These include things like
+Dennis office or accountants. They tend to be weakly defended networks and so hobbyist take advantage of those
+weakly defended networks to execute some effect. What are some of the
+takeaways from this module? First of all, hobbyists
+tend to be low skilled, and lightly resource
+threat actors. They are motivated primarily by curiosity and by a desire
+to build a reputation. They tend to leverage
+established tools and tactics. These threat actors are not building their own
+custom software, they're not reverse engineering the really complicated systems, they're taking advantage of
+what is already been done. In our next episode, we'll talk about criminal actors and the threat they represent. I hope to see you next time.

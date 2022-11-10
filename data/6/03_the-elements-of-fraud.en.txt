@@ -1,0 +1,131 @@
+[Music] A person under pressure will do
+things that he or she might not do under normal circumstances. If a person is threatened with
+losing his home or his family, he may turn to fraud as a
+means to relieve that financial pressure. Often these individuals have
+been with the organization for many years and occupy
+positions of extreme trust. These individuals can be
+called accidental fraudsters. They are seemingly law abiding,
+honest people, but when faced with extreme financial
+pressure, they turn to fraud. This segment will begin by
+defining some of the basic elements of fraud. We will also discuss the cost
+of fraud and the importance of understanding how it occurs. We will examine some of the
+leading theories on why people commit fraud and how that
+information can be used to help us prevent it. Thank you for joining us. In general terms, fraud is an
+intentional deception, whether by omission or commission,
+because of the victim to suffer economic loss and the
+perpetrator to realize a gain. Under common law, fraud includes
+four essential elements, A material false statement Knowledge that the statement
+was false when it was spoken Reliance on the false
+statement by the victim Damages resulting from the
+victim's reliance on the false statement. In the broadest sense, fraud
+can encompass any fraud for gain that uses deception as
+its principle technique. This deception is implemented
+through fraud schemes, specific methodologies used to commit
+and conceal the fraudulent act. The legal definition of fraud is
+the same, whether the incidence is criminal or civil. The difference is that criminal
+cases must meet a higher burden of proof. For example, an employee steals
+$100,000 from his employer by setting up a phony company and
+submitting false invoices for services that are not performed. That conduct is criminal because
+he's stealing funds through deception, but the company has
+also been injured the employee's actions and can sue in civil
+court to get its money back. One of the largest causes
+of fraud involves asset misappropriations. Asset misappropriation is
+simply the theft or misuse of an organization's assets. Common examples include skimming
+revenues, stealing inventory, obtaining fraudulent
+payments, and payroll fraud. Corruption entails the wrongful
+or unlawful misuse of influence in a business transaction to
+procure a personal benefit contrary to an individual's duty
+to their employer or the rights of another. Common examples include
+accepting kickbacks, demanding extortion or engaging in
+conflicts of interest. Financial statement fraud
+involves the intentional misrepresentation of financial
+or nonfinancial information to mislead others who are
+relying on it to make economic decisions. Common examples include
+overstating revenues, or understating
+liabilities or expenses. A common thread in all of these
+types of fraud are that they can occur in any organization
+regardless of what industry they are in. But there are a number of
+other schemes that are industry specific. For example, financial
+institutions suffer from schemes involving mortgage loans and
+new accounts just to name a few. Healthcare insurers see numerous
+schemes related to false billing and misrepresentations
+of diagnoses. The securities industry is
+subject to Ponzi schemes, insider trading, and
+misrepresentations by brokers. Therefore, each industry is
+subject to its own particular forms of fraud. Unfortunately, there is no area
+of any organization or any type of commerce where there is
+not the potential for fraud. Dr. Richard Riley, PhD: So far,
+we have developed the definition of fraud and we have examine
+the major categories of fraud. One of the questions asked
+is how does fraud examination differ from auditing? Aren't they the same? What about the term
+"forensic accounting?" How is it different from
+auditing and fraud examination? This circle presents a Venn
+diagram developed by the NIJ's task force to develop a model
+curriculum for FAFI education. As noted in the circle, auditing
+is a term many are familiar with. Auditing includes steps to
+plan the audit, conduct risk assessment, identify and test
+internal controls for both design and implementation and
+then develop the necessary audit evidence and finally report
+on the findings of the audit. In some audits, the auditor may
+discover symptoms suggestive of fraud. In those circumstances, the
+audit intersects with fraud examination using the techniques
+developed to define the who, what, when, where, and how
+the fraud took place, but also notice that fraud examination
+includes prevention and deterrence efforts as well as
+detection and investigation. Finally, fraud investigation
+also includes remediation, which is cleaning up the mess. Remediation can include
+addressing internal controls issues, helping the victim
+to file insurance claims when appropriate and even
+testifying in court. Testifying in court - that's
+where fraud investigation intersects with
+forensic accounting. The term "forensic" generally
+suggests that the issue will end up being resolved in court. Thus, forensic chemistry, for
+example, is an issue related to chemistry where the chemist will
+be testifying to evidence in a court of law. Forensic accounting, then,
+implies that we have an accounting issue where
+accounting provides evidence that may shed light
+on a legal matter. So, in short, forensic
+accounting is the intersection between accounting and the law. As you can see, some fraud
+examination efforts might end up in court, but others, like
+prevention and deterrence will not. Further, now that you understand
+the differences, it also becomes easier to see those differences
+as well as how these three terms overlap. According to the ACFE, average
+losses from fraud total about 5% of gross domestic
+produce or GDP. When that 5% is applied to
+actual economic production, total losses from fraud may
+be as high as 3.5 trillion worldwide. In the United States alone,
+losses may total a trillion dollars. Now this number is currently the
+best available estimate and most likely includes all losses from
+stealing paper clips and copy paper from the office to the
+most expensive frauds, financial statement fraud, which in the
+case of Enron, cost in the neighborhood of 60 billion
+of market capitalization. What is more disturbing, at
+least to me, is the frequency of large dollar fraud to
+a single organization. According to the ACFE data, 21%
+of the cases include in the most recent report, cost the victims
+more than one million dollars. In 32% of the cases, the
+losses were at least $400,000. Those dollar figures are large
+enough to wipe out a small business. The information brings out
+a very important point. Don't let your organization
+become a victim because it could be a fatal event. Small businesses, and
+particularly small charities and not for profits, in many cases
+cannot afford to become victims of fraud. The financial losses to
+organizations do not begin to reflect the entire cost. The day after Enron filed for
+bankruptcy, 5000 employees were fired, and many more of the 21
+thousand employees were expected to lose their jobs as the
+bankruptcy process continued. Enron employees lost two
+billion, averaging 95 thousand per person in their
+pension plans. Many persons losing their
+entire life savings. The highly publicized Bernard
+Madoff scam cost investors 17.3 billion. According to the COSO analysis
+of public companies, of the 347 publicly traded companies that
+were victimized by financial statement fraudsters, 28% of
+the firms filed for bankruptcy within two years and 47% were
+delisted from a national stock exchange. Employees lost their jobs. Communities lost tax collections
+and stockholders lost their investment savings. Madoff's scheme literally wiped
+out his clients' life savings Some of Madoff's victims, who
+may have planned a productive, fun filled retirement, may end
+up working til the day they take
+167
+00:09:13,834
+their final breath.

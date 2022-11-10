@@ -1,0 +1,133 @@
+Well this inside out patterning, of
+neurons, that come to populate the cortical plate, is largely a story of
+the, genesis of our pyramidal cells. That is, the principle projection neuron
+of the cerebral cortex that produces glutamate, and uses that as an excitatory
+neurotransmitter in the brain. Well we know that the cortex also has
+inhibitory inter neurons. And for many years, we just assumed that
+the inhibitory neurons of the cerebral cortex follow the same kind of inside-out
+patterning being derived from neuroblasts that migrate from the ventricular side up
+to the developing cortical plate. Well, I think it was a big surprise to
+many of us when it was discovered that that's actually not the case.
+That most of the inhibitory inter neurons that come to reside in the cerebral
+cortex are actually derived from a developmental region that's deep in the
+base of the fore brain. we call this region the ganglionic
+eminence, and it differentiates into a lateral and a medial division.
+And it's from these ganglionic eminences that inhibitory neurons are born and
+differentiate. And as they differentiate, they migrate.
+Not just in the radial dimension but also in the tangential dimension.
+So it's from the ganglionic eminences that our inhibitory inter neurons are
+derived. And come to populate the cerebral cortex
+through this process of tangential migration.
+There are other examples of tangential migration in the nervous system that
+effect other kinds of cells. you can read more about that in the
+textbook if, if you'd like. but for this particular point I would, I
+just want you to appreciate the fact that our parabotal cells are derived from the
+ventricular zone. And migrate in a radial dimension to
+reach the cortical plate, while our inhibitory neurons are derived from these
+ganglionic eminences deep in the fore brain.
+And they migrate in some cases quite a long distance in the tangential direction
+to reach their ultimate destination in the cerebral cortex.
+And the implication would be that, there must be signals that guide their
+migration that inform those neuroblasts about what their ultimate destination
+must be. Well the ganglionic eminences also gives
+rise to the basal fore brain structures including the basal ganglia and some
+cells that are part of the amygdala formation.
+So, in addition to these inhibitory neurons, this part of the developing
+procencephalon gives rise to those telencephalic structures that we consider
+the deep gray matter of the fore brain. So, we've talked, now about the
+proliferation of cells that gives rise to the neuroblast and how they migrate.
+And come to populate specific grey matter structures like the cortical plate and
+the basal ganglia. So an important question that I hope
+you've thought about at this point in the tutorial is, how is it that these
+precursor cells that are post-mitotic. And migrating to a particular location,
+come to differentiate into the diverse forms that we recognize among our neurons
+and our glial cells that we discover in the adult brain.
+Well there are basically two broad kinds of, of mechanisms that explain
+differentiation of these precursor cells into their, their final fate.
+One mechanism is local cell-to-cell interactions that are mediated via
+surface receptors, and this is where inductive signalling comes in.
+The interactions of one cell with those that are nearby are very important in
+influencing the fate of that cell as differentiation progresses.
+So we, we can think of these local interactions as a neighborhood effect.
+That the neighborhood of the cell will influence the ultimate fate as inductive
+signaling takes place and begins to specify the final destiny of an
+individual precursor cell. So, the second major factor that can
+shape the ultimate destiny of a neuroblast is cell lineage.
+that is, what is the transcriptional history of the cell, and what was the
+parent cell that gave rise to that particular progeny.
+So together these cell to cell interactions, mediated via surface
+receptors and inductive signals, together with transcriptional history influence
+the ultimate destiny of a given neuroblast.
+And its final location, its final form, and ultimately its functional position
+within the networks of the developing brain.
+Well, there's one final factor that I want to speak about that is very
+important in brain development, and perhaps it's a surprising factor.
+That, you might not have necessarily thought was important in brain
+development. And that factor is the death of brain
+cells. This is a process that we call apoptosis.
+And this refers to programmed cell death. Indeed, proliferation of neuroblasts
+produces in many regions of the brain roughly twice as many brain cells that
+ultimately survive. And it's through a process of programmed
+cell death that we achieve the final compliment of cells in the brain that we
+then carry into post-natal life and have with us through the remaining years of
+our life. So Impatosis becomes an important
+mechanism for establishing the appropriate complement of cells in the
+different gray matter structures in the human central nervous system.
+Well, this process of cell death reflects the expression of what some have called
+suicide genes. These are genes whose products induce the
+dissolution of cellular constituents that ultimately lead to the death of the cell.
+I'm not a particular fan of this Darwinian perspective of brain
+development. I think it's not so clear in what sense
+our cells that die less fit. Than those that don't express this
+programmed cell-death pattern. Rather, I think it's more likely that
+there are particular factors that are acquired that support the survival of
+neurons. And a failure to acquire those factors
+may lead to the induction of the suicide genes.
+So, the cell itself may not be less fit in any particular way.
+It just may not be privileged in a means of acquiring a particular trophic factor
+that's necessary for survival. We'll say more about tropic factors in a
+later tutorial. but for now I just wanted to impress upon
+you the importance of cell death. so this implies that there might actually
+be some optimal size to the human brain with some particular compliment of brain
+cells. Well, by optimum, I mean that one can
+have a pathologically small brain, but perhaps one can also have a
+pathologically large brain. Where there are too many neurons,
+insufficient program cell death. we think that's likely.
+but the range in the middle is actually quite, quite enormous, when we consider
+the variation in brain size among human individuals.
+And even within particular regions of the brain.
+There can be as much as a two fold difference.
+And the size of particular cortical areas, such as the motor cortex or the
+visual cortex or the pre-frontal cortex, these are regions where this question has
+been studied. Presumably this variation in size
+reflects variation in either the proliferation of brain cells or the
+program cell death of those cells in early brain development.
+What we still don't know is what is the functional consequence of this variation
+in brain size. I've thrown this out to you, as bigger
+better, I think that in terms of overall brain size we certainly don't have any
+principled way to answer that question affirmatively.
+there is good reason to argue that perhaps better is better when it comes to
+human brain size. That is better might reflect more
+efficient function, not necessarily more processing units.
+So, some of this variation in size undoubtedly reflects a differential
+complement of brain cells that have come to populate specific regions of the
+cerebral cortex. And it may be that on a local level, that
+the size of the circuit, the complement of brain cells that contribute to a given
+neural circuit might be important for functional capacity.
+This remains an open question. And one that's subject to, to much
+ongoing research and, considerable debate I'm sure.
+Well what Iv'e tried to convey in this tutorial is a bit of the story as to how
+do brain cells get to their final destination in the developing central
+nervous system. And how do they differentiate into their
+final fate, be they a, a sensory neuron, a motor neuron, a glial cell.
+A neuron in the upper layers of cortex that are computing new properties as
+incoming information from the thalamus is relayed up to those upper cortical
+layers. Or perhaps they're lower cortical neurons
+that send axons back down to sub cortical structures like the thalamus, the basal
+ganglia, even the spinal cord in the case of the motor cortex.
+Well, the next phase of the story of brain development is indeed the formation
+of neural circuits. So I want to speak to you next about the
+outgrowth of neuritic processes that form dendrites and axons and ultimately the
+synaptic connections among neurons. So, the story continues, and I'll see you
+next time, as we talk about the construction of circuits in the central
+nervous system.

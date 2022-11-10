@@ -1,0 +1,233 @@
+Welcome back to this tutorial on the
+Modulation of Movement by the Basal Ganglia.
+And now we turn to part three, which is about normal and abnormal modulation of
+movement by the basal ganglia. So my learning objectives for you are
+first, that I want you to explain. The hypokinetic movement disorders in
+terms of the function of basal ganglia circuitry.
+And I want you to consider the hyperkinetic movement disorders in terms
+of the function of the same circuitry. So to set the stage for this discussion
+of abnormal function, let's first recap what we've understood about normal basal
+ganglia function. So, the neurons of the striatum they
+begin to fire just before and during the onset of movement.
+So this suggests that the role of the basal ganglia- Is the initiation and the
+suppression of movement. But the basal ganglia are much less
+critical during the ongoing expressions of a motor program.
+As we'll see in a future session, that's the function of the cerebellum.
+And what I want you to understand that it's the balance in the activity between
+the direct and the indirect pathways. That mediates the initiation and the
+suppression of movement. By analogy, we can think about this as a
+kind of center-surround antagonism, not for receptive field structure, but
+relative to what we can possibly do with our motor system.
+Let me illustrate what I mean with a highly conceptual figure.
+Let's imagine that we intend to make a voluntary movement.
+So this is where we want to be. We want to activate a specific motor
+program, that's appropriate for the movement goal at hand.
+Well, in order to do that what must happen is we need to release the
+activity, of the motor thalamus, which can drive the output of the cortical
+spinal neurons in the motor cortex. Release of the motor thalamus, means that
+we need to have a way of shutting down the inhibition Of the internal segment of
+the globus pallidus, and that's where this direct pathway comes in.
+So the direct pathway via the caudate and the putamen, sends inhibitory signals
+into the internal segment of the globus pallidus, which then removes the
+inhibition. Consequently, the motor thalamus is
+released and fires action potentials that then trigger the output of the motor
+cortex. So this is what happens with respect to
+the motor programs that we actually intend to activate.
+Well what I want you to appreciate is that There is a, a large surround of
+possible movements that could interfere or antagonize the desired motor program.
+So, while we have a specific program in mind to activate.
+Bait. We also want to enforce the suppression
+of all other possible motor programs that pertain to the same musculoskeletal
+units. And this is where this concept of
+surround inhibition I think might be useful.
+So we can think of this surrounding repertoire of movement that we want to
+suppress. As being under the influence of the
+indirect pathway. And that surround comes in play
+schematically by this[UNKNOWN] . So we imagine that there is a kind of
+movement surround being represented in the thalamus that we want to suppress.
+With this activation of the indirect pathway.
+So, if anything, to facilitate the specific expression of movement, we want
+to make sure that nonsynergistic movements or antagonistic movements.
+Are held in check. So, the activity in the indirect pathway
+then, serves to reinforce this inhibition of this surround of potential movement.
+And that's where the subthalamic nucleus comes in.
+So, when we activate the indirect pathway, we are driving the subthalamic
+nucleus to increase the inhibitory output of this internal segment of the globus
+pallidus. So this center surround model I think is,
+is a useful way of considering, how is it that we can execute a very particular
+movement Like a visually guided reach. So as I'm expressing this, sort of,
+reaching and pinching motion, I'm supressing all other kinds of activities
+that potentilaly could be done with the same muscular skeletal units, and so the
+focused activation of a very particular motor program Requires a shift in balance
+in favor of the direct pathway for this particular motion, and the suppression of
+all the other unwanted movement programs that potentially could interfere with the
+goal of the behavior. Now, I want to apply some of these
+concepts to some of the disorders of movement that you'll see clinically.
+And as I've suggested in our opening, there's really a continuum of movement
+disorders. On one end of the continuum we have
+disorders that produce too little movement, and on the other end of the
+continuum are disorders that allow too much movement.
+So I want to begin first on the hypokinetic side of that continuum.
+And used a rather familiar example unfortunately.
+And that's Parkinson disease or Parkinsonism which refers more to the
+symptoms associated with idiopathic Parkinson disease.
+So those symptoms involve a reduction in movement.
+Or perhaps, even a cessation of movement. We call this akinesia or bradykinesia.
+It involves a highly rigid posture, that rigidity is not exactly the same thing as
+the spasticity that's seen with damage to upper motor neurons.
+Rather, it reflects a suppression of movement.
+That is reinforced by the over activation of the indirect pathway.
+Somewhat paradoxically, there is a resting tremor that's seen in Parkinson's
+Disease, particularly in the hands. Sometimes this is called a pill rolling
+tremor, as if The hands of the patient are trying to roll a pill in the
+fingertips. But sometimes, the tremor can be a little
+bit more approximate. And can be expressed at rest.
+So it seems somewhat paradoxical that we might have a slowness of movement or an
+absence of movement together with a positive sign like a tremor.
+But it reflects the activity that is disordered in different parts of the
+basal ganglia. Well, the bradykinesia doesn't only
+affect the appendicular movements that we do with our limbs.
+But it also affects our facial expressions.
+So, people who are afflicted with Parkinson's disease.
+They tend to have a reduction in facial expressions.
+So with the problems attending bradykinesia it's not surprising that
+there would be disorders of gait. And there's a very characteristic gait
+pattern that's seen in people with parkinsonism.
+It is a shuffling of the feet with very small steps.
+And very little elevation of the foot above the walking surface.
+So, one of the characteristic signs of Parkinsonism is difficulty initiating and
+terminating movements. So it's very, very difficult to get a
+motor program started and then once that program is started It's difficult to
+terminate it precisely. So we can think of this as a real
+challenge in shifting from one mode of program to another.
+From go to stop and to go again. Eventually there are changes that afflict
+not just the motor system But other parts of the brain as well, so quite
+tragically, advanced Parkinson's disease often leads to the development of
+cognitive decline and dementia. Now in idiopathic Parkinson's disease, we
+typically see these symptoms setting on after the fifth decade of life.
+So, the underlying neuropathology that makes it appropriate to consider this
+disorder here, in this discussion of the basal ganglia, is that in Parkinson's
+Disease, there is a loss of these dopamine neurons that are so important
+for regulating the balance between direct and indirect pathways.
+So in order for a patient to present clinically they need to lose some 75- 80%
+of the dopamenurgic neurons. So sot here is a bit of redundancy built
+into this dopamenurgic system thankfully but nevertheless with loss of these
+dopamine neurons beyond that critical threshold one can see the development of
+the signs and symptoms that I just described for you.
+So, let's look at the circuitry of the basal ganglia and consider the
+consiquences of losing this input from the Substantia nigra pars compacta.
+What we would find is the inability to facilitate the activity of the direct
+pathway. And then inability to supress the
+activity of the indirect pathway. These two factors synergize in a rather
+unforturnate way that results in an increase in the tonic output Of
+inhibition from the internal segment of the global pallidus to the motor
+thalamus. So, the problem in Parkinsonism is
+bradykinesia. A slowness of movement, an absence of
+movement. That's because the motor thalamus is
+tonically suppressed, and it's very difficult to overcome that suppression.
+As a consequence, there is decreased excitation of the motor cortex.
+And tremendous difficulty initiating movement.
+So now, let's back up into the basal ganglia, and see why that would be.
+So if there's too much tonic inhibition. That suggests that the activity in the
+eternal segment of the globus pallidus is, is too high.
+And, again, the reason why it's too high is that we have a severe reduction in our
+ability to inhibit the inhibition. So we have a failure of disinhibition.
+matters are made worse by the absence of dopamine on our d2 receptors.
+Which means that we cannot suppress the activity of this indirect pathway.
+So we have a lot of inhibition coming out of the indirect pathway which will shut
+down the external segment of the globus pallidus and that means that it's likely
+that we will have disinhibition. Of the subthalamic nucleus.
+So the subthalamic nucleus is the main culprit here because it's driving the
+increased tonic outflow from the internal segment of the globus pallidus.
+Well, really the principal culprit is the loss of these dopaminergic neurons.
+But we can see the importance now of the subthalamic nucleus in modulating the
+output of the basal ganglia, because if we cannot reduce the tone of the
+subthalamic nucleus we will see a marked elevation in the inhibitory output of the
+internal segment onto the thalamus. The end result of all of this is
+bradykinesia. Perhaps even akinesia.
+Well thankfully collaborations between basic scientists be they neuroscientists
+or biomedical engineers and the clinical communities have led to the development
+of new interventions. One that I would invite you to read more
+about is deep brain stimulation. Now, the idea with deep brain stimulation
+is to stimulate strategic locations in the circuitry of the brain that will
+produce a desired clinical outcome. Now, one might imagine that stimulation
+means an increase in excitatory activity. For the neurons at the tip of the
+electrode, but that isn't necessarily the case.
+What we see with deep brain stimulation is a change in the firing patterns of
+circuits. So in this illustration we see patterns
+of activity recorded in the basal ganglia prior to turning on the deep brain
+stimulator. During stimulation, there is obviously an
+increase in activity, but really fundamentally a change in the pattern.
+And this change in the pattern of activity in the circuitry of the basal
+ganglia seems to be what allows for the normalization of motor function.
+So, there's a lot of[INAUDIBLE] . There's a lot of ongoing study of deep
+brain stimulation, really trying to understand what we're doing, are we
+driving expiatory output, are we inhibitory input, are we just adding
+noise to the system, or are we depolarizing the tissue at the tips of
+the microelectrods to the point where the insodium channels are inactive and the
+signaling is lost. Well, I think we're probably doing all of
+the above. And the point is that it need not matter.
+that we target one particular type of physiological effect.
+What really matters for the patient is whether there's freedom of movement.
+And the goal of deep brain stimulation. Is to normalize patterns of activity in
+the basal ganglia to facilitate the expression of movement.
+And, thankfully many people around the world have been helped with this
+technology and I want to encourage you, if you have access to YouTube or other
+social media outlets. to go and look at some of the stories of
+these people who have volunteered their stories and videos of their lives to
+share with the world. And many of them are just really
+wonderful personal stories of triumph. Unfortunatly, this approach doesn't work
+for eveyone. And so we need to be cautious.
+We need to recognize that this is an invasive prodcedure.
+it has risks involved. And not everyone can be helped.
+So, as sort of my colleagues in neurology here at Duke like to say, that deep brain
+simulation is not going to cure Parkinsonism.
+But what it will do is it will increase your level of function if you are
+afflicted with the disease, and together with pharmacelogical approaches,
+behavioral approaches, excercise deep brain stimulation might actually be an
+important adjunct to a more multidisiplinary approach to
+intervention. Now, let's travel down the continuum and
+consider the role of the basal ganglia in creating hyperkinetic movement disorders.
+And the disorder that I'd like to use to illustrate this end of the continuum is
+Huntington disease. So, Huntington disease is characterized
+by involuntary movements of the body, often involving the limbs and because the
+flailing movements of the limbs resembles a dance-like posture or dance-like
+movements, this is called. A chorea, which is a, a Greek word that
+means dance. So involuntary, choreic movements are
+characteristic of Huntington's disease. Along with the disease that tends to set
+in in the fourth and fifth decades of life is a severe dementia that can
+develop. And this dementia obviously can be quite
+tragic and together with the unwanted movement that's being expressed can lead
+to a great suffering on the part of the individual inflicted with the disorder as
+well as that persons loved ones as a system of of support.
+As I mentioned, the disorder tends to first manifest itself by the fourth or
+fifth decade of life. And unfortunately, most patients succumb
+to this disorder within about 10 to 15 years of the first appearance of symptom.
+Now, the pathology associated with Huntington disease.
+actually is now traced back to a genetic origin.
+Huntington disease reflects an autosomal dominant mutation that results in the
+production of a gene product from a gene called Huntington.
+And this product contains a repeating sequence of CAG nucleotides.
+So most of us have a string of repeats maybe around 20 or so repeats of this CAG
+motif in our Huntington gene, but if the number of repeats exceeds about 30, 35,
+40, then the likelihood of developing Huntington disease increases
+dramatically. Now, we don't quite understand yet, the
+link between this increase in these repeated motifs in the gene, and the
+product of the gene and how that relates to the pathology in the brain.
+But what we do know is that with Huntington disease, there is widespread
+neuronal degeneration, and among the first.
+Structures to experience digeneration are the medium spiny neurons of the striatum
+that express D2 dopamine receptors and that would be the neurons that give rise
+to the indirect pathway to the basil ganglia.
+So the consequence of Huntington disease Is a loss of this indirect pathway from
+the striatum to the pallidum. So this means that we lose the ability to
+suppress movement in the following way. With the loss of this inhibitory
+projection now there's way too much activity coming out of the external
+segment of the globus pallidus. That is going to lead to a dramatic
+reduction in the amount of inhibition that is being Expressed by the internal
+segment of the globus pallidus in the motor thalamus.
+With insufficient inhibition of the motor thalamus.
+Now we have increased excitation of this connection from the motor thalamus to the
+motor cortex. And that's where the unwanted movements
+are coming from. From the insufficient suppression of the
+motor thalamus.

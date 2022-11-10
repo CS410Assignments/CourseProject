@@ -1,0 +1,82 @@
+Hi, welcome back. This is cybersecurity for everyone and I'm
+Dr. Charles Harry. Our last video we talked
+about the threat landscape, and today I want to talk about the challenge for
+policymakers in this space. The problem with the threat landscape,as we
+discussed last time, is that in addition
+to trying to resolve some of the specific technical vulnerabilities
+in the Internet. We have to deal with the hackers, their process, techniques, affects, as well as the
+complexity of the attack surface. The fundamental problem for the policymaker is that
+we first of all have a wide range of targets that are available for the
+hackers to go after. There's some
+fundamental questions that the policymakers
+need to ask themselves, things like should the
+government provide greater regulatory oversight on specific industry sectors? Does the entertainment
+sector bear more regulatory oversight
+versus the electrical grid? Well, people are probably say no with that particular issue, but we have to ask
+ourselves this question for every sector we want to discuss. But in addition to targets, there are range of actors. We have hobbyists, we have
+what are called hacktivist, people that are hacking for some social or political
+agenda as well as a variety of nation-states and criminal
+syndicates that are potentially going after
+a variety of targets. We need to figure
+out what types of penalty should we enact for a variety of
+different actors. Should we enact
+different penalties for each one of these actors? Is there an international
+standard that is required to attributing an
+attack to a specific country? If so, is that become a de factor red-line
+for when one country decides that they're able to respond in kind to
+another country? These are good questions
+that policymakers have to ask themselves and
+then need to be addressed. But in addition to the actors, there's a range of
+attack vectors. There's lots of different ways that I as a hacker
+can come after you. I can utilize yes
+phishing attacks, but there are a range
+of other techniques that one might be able to use. So understanding how
+the various networks can be attacked is important. For a government, I
+need to ask myself, what are the types of technical vulnerabilities
+that I want to make sure that the majority of
+particular industries in my economy need to be aware of? Should I make them aware of it? If I have an intelligence
+apparatus who works for me, and they discover a
+new vulnerability in a particular critical
+infrastructure system. Should they be forced to actually disclose that
+particular vulnerability? Or do I want to keep it for myself to use to
+gather information? These are fundamental questions
+that have to be asked. There's a diverse set
+of attack surfaces. Remember, what we're
+fundamentally talking about here is a confluence
+between technical, human, and organizational
+systems together, and where they meet the
+so-called seams between these three different domains are potential areas which
+hackers can exploit. We also have to deal with a diverse set of attack surfaces. Because remember
+what we're talking about is the confluence between human organizational and
+human systems together, and in some cases the
+government may want to require certain companies to
+have a greater level of insight into let's say
+who their vendors are. If we're talking about
+an electrical provider, we may want them to have a better sense of
+understanding who's providing their hardware and software into those
+critical systems. Governments need to figure out what the right level
+of interaction is for a variety of different operators in
+specific industries. Because what might be
+permissible and maybe even warranted or wanted in let's
+say an electrical provider, may not be the same case for someone in the retail sector. So we need to think more broadly about what is the role of
+government in this space. Then finally, we need to
+think about complex effects. We need to understand
+that the effects that hackers can have in one part of your network might
+cascade to other parts of your network or to other
+organizations entirely. How do we manage that? How do we manage the impacts on one particular
+organization cascading through the rest of
+an industrial sector? If I take down part of a port facility in a particular location
+in the United States, that will have
+logistics effects to other organizations that leverage that port facility to ship
+their goods and services. I need to understand
+that. How do I model it? How do I manage that complexity? The threat landscape
+challenge for the government and
+for policymakers but also frankly for
+organizational leaders of all [inaudible] , require us to understand
+that the range of actors, the range of targets,
+vectors of attack, the attack surfaces and complex
+effects coming together, and there are a range of
+questions we need to address. Now that we've talked about the fundamental challenge
+of the threat landscape, let's explore some examples. In our next video,
+we'll take a look at four specific examples
+that have occurred, and we'll talk about some of the nuances. See you next time.

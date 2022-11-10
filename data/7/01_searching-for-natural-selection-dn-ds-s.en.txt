@@ -1,0 +1,187 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. In the previous video, we talked
+about trying to identify differences between species, focusing on humans and
+chimps in particular, that may have spread by
+the action of natural selection, and contrasting those with ones
+that may have spread by drift. There are several challenges
+associated with this. The way we address these challenges is by
+contrasting non synonymous changes and synonymous changes. So this is looking specifically
+at protein coating genes. So non synonymous differences are the
+ones, they are nucleotide differences, that will change the amino acid
+that goes into the final protein. So these non synonymous differences may
+be positively selected, they may be advantageous or good and therefore they
+spread quickly within one of the species. They may be negatively selected or
+under purifying selection. That means that they
+are basically like bad mutations. So they arise, then they stick around for
+a little bit, but largely selection's
+trying to eliminate them. Or they may be neutral, they may arise,
+they may change the protein, but not particularly change
+anything about fitness. In that case they bebop
+around within the population. In contrast, synonymous changes do
+not affect the final amino acid. So those are considered to be largely,
+though not completely, neutral. So what we do when we're trying to
+infer the action of natural selection is to try to scale the number
+of non synonymous changes, which is sort of that experimental group,
+with the number of synonymous changes. These are the ones that are thought
+to accumulate neutrally. So again, we can use them to scale for possible mutation rate
+differences at different genes. So we're looking for the ratio of non synonymous to
+synonymous differences to estimate this. Specifically in this case we'll focus on
+the measure referred to as dN over dS. Now these are not just number of
+non synonymous differences, but dN is is the number of non synonymous
+changes per non synonymous site, okay? dS is number of synonymous
+changes per synonymous site. You may remember I mentioned
+that the second position of every codon is always non synonymous. So there's no opportunity for
+any change there to be synonymous. So we have to use this kind of extra
+scaling even within our measures of what's happening in terms non synonymous and
+what's happening in terms of synonymous. Well, let's try this out. So what we have here are two DNA
+sequences, each with four codons, okay. So let's say this top one is human,
+just as an example, the bottom was chimp. So these are the sequences. These are the DNA sequences or RNA. These are the resulting amino
+acids that would come from them. So we see there is an amino acid
+difference here in that last one and it's probably resulting from
+this necleotide difference. These two other variable sites are not
+actually changing the amino acids, cuz we see that this one's ACT,
+this one's ACG, they both have. So, what we're gonna do is,
+we're gonna walk from site by site, so we have 12 different
+nucleotide sites here. We want to do two things. We want to classify each site as being
+something that could potentially cause a non synonymous difference or could
+potentially cause a synonymous difference. We are gonna walk through site by site,
+we're going to tally it up. We want to see how many potential
+synonymous differences we could have, how many potential non
+synonymous differences we have. And then we'll contrast that with the
+number of actual synonymous differences and non synonymous differences. So let's start walking through. So looking at ACT versus ACG, what would
+happen in terms of this first site here? What would happen if we were. Let's start with this sequence. Let's say that we started with ACT,
+here it is in our codon table. If we change that first base to anything
+else, and it became CCT, TCT, or GCT, what would happen? Well, if we did any of those things,
+it would actually change the amino acid. TCT is a serine. CCT is a proline. GCT is alanine. So we classify this first site
+as a non synonymous site, okay? Because any change from A gives
+a different amino acid. This is a clear non synonymous site. So I mentioned before, all second
+positions are non synonymous sites. Any second position change
+will change the amino acid, so this is definitely a non synonymous site. And the third position in this
+case is a synonymous site, because any change here, if it's T,
+G, it doesn't matter what it is. If you're starting with AC, any change
+there will not affect the amino acid. So that is a clear synonymous site. So what we do is we tally up for this entire sequence how many potential
+synonymous changes were there, how many potential non
+synonymous changes were there. And what we see is the total number
+of synonymous sites is four, it's just the total of these numbers. The total number of non
+synonymous sites is eight. Now you maybe wondering, what about bases where some changes affect
+amino acids and some changes don't? So one example would be like this one TTT,
+if you start with a TTT, which is phenylalanine, you can change from TTT
+to TTC, that's still a phenylalanine, but if you change that third nucleotide
+to a G or an A, it becomes a leucine. So that's a little bit trickier how you
+deal with those, but it's not so bad. Essentially, what you do is
+you're starting with TTG, your third position has a one third
+probability of being synonymous, a two thirds probability of
+changing to a non synonymous. So what you do is you add both of
+those totals into those amounts, so in the synonymous column,
+where I had the zeros and then the one, you just put a third. In the non synonymous column write one,
+one, zero, you just make that one a two thirds, okay? So it's fairly straight forward. I'm not gonna give you problems like
+that here in this online course, but I just wanted you to know what
+would happen in that case. So again, we have this four synonymous
+sites, eight non synonymous sites. When we look at the changes
+we actually have, we actually have two synonymous changes. This is one synonymous change,
+this is the other, and we have one non synonymous change,
+which is that one right there. And we're not necessarily
+showing a direction, we're not saying it changed from C to T. It may have changed from T to C. We don't actually know, but
+we're just calling these differences. Now, what we wanna do
+is we want dN over dS. dN is non synonymous changes
+over non synonymous sites. dS is synonymous changes
+over synonymous sites. So let's put those together. dN is non synonymous changes,
+which is one, over non synonymous sites which is eight. So one eighth, or .125. dS is two out of four. Synonymous changes over synonymous sites,
+or point five. So dN, dS would just be this
+number divided by that number, which would be, in this case, 0.25. This is a fairly typical dN,
+dS value that you might find. Now, you might wonder,
+what does this mean? So, what is any dN dS value mean? Well, this is estimating how much non
+neutral or non synonymous evolution has happened relative to neutral or
+synonymous evolution. Well, if a gene is
+evolving truly neutrally, if it really just didn't matter what
+differences you saw, if anything was equally okay in terms of fitness, we
+expect a dN, dS value close to one, right? And that's not at all what we saw, but
+we expect dN dS value close to one. So this is saying there's no
+selection on non synonymous changes. There's no bad, there's no good, but basically they're just
+like the neutral ones. In that case you would actually have more
+non synonymous changes than synonymous changes, but since you have more non
+synonymous sites, it factors that out. So, this will be what's happening
+in terms of neutrality. Another possibility is that
+you have dN dS well below one. That means that changes
+have been constrained. This is very typical. In this case, most non synonymous changes
+that arise have been selected against. We mentioned before with that flu virus
+example that this is pretty difficult. You can also have dN dS greater than one,
+this is less common but quite interesting. What happens in this case is
+you're having very rapid changes that basically within a single gene you're
+having multiple non synonymous changes favored by the action
+of natural selection. That's really cool when you see that, and that is very strongly indicative of
+strong recurrent positive selection. So let me show you a plot. Here's dN dS values between humans and
+chimps. So the average dN dS
+across the genome is 0.23. So, there you go,
+that 0.25 we saw is fairly typical. There are 585 genes out of 13,000 that
+were tested that have a dN dS value greater than one, so these are the ones
+undergoing recurrent positive selection. So that's very exciting. These are often genes involved with in
+resistance to parasites, or fertilization. These are ones you would expect to
+undergo rapid recurrent evolution. And this figure just shows you
+a sliding gene window, and you see these little peaks here, for
+example, the epidermal differentiation complex seems to be associated
+with a very high ENDS value. Let me give you one to try yourselves
+here, in an in video quiz, so try this, this is the ASPM gene which
+affects brain size in humans. I have here a set of sequences,
+I want you to go through and calculate what the DNDS value would be. Okay, well let's check this out and
+see what you guys got. So what we want here is we wanna look at
+non synonymous sites, synonymous sites, so let's do the sites. And then we'll look at the actual changes. Now the changes, I'll go ahead and
+just highlight those so you can see them. These are the bases that
+are actually different in each case. I think that's it. Okay, so I want you to look
+at non synonymous sites. What I did, just to make it simple,
+these are all sort of typical codons where the first and
+second position are non synonymous. The third position is synonymous, okay? So this will be one one zero, zero
+zero one, one one zero, zero zero one, one one zero, zero zero one,
+one one zero, zero zero one. So these are all typical ones,
+you can look up the actual codons there. GTA, if you change it to GTC, or GTG, or
+anything like that, it's all the same. If you change the middle one it's always
+non synonymous, and these first ones, the ones I picked are ones that,
+if you change that first base, it would actually change the amino acid. So, these are the sites. And when we look at the actual changes. Well actually, let's total these up
+first in terms of non synonymous sites, there's one, two, three, four,
+five, six, seven, eight, nine, ten. For synonymous, there's one,
+two, three, four, five. So we have five synonymous sites,
+ten non synonymous sites. When we look at changes, we have two. This one, and this one,
+that are non synonymous, And synonymous we have one, okay? So our dN over dS, so dN will be equal to non synonymous
+changes over non synonymous sites. So that would be two over ten,
+is equal to 0.2. Our dS is equal to one over five,
+which is equal to 0.2. So dN over dS is very easy
+to calculate in this case, it would be point two divided
+by point two, or it will be one. So what does that tell you? And this comes back to the question,
+what a dN dS value really means? The real dN dS for
+ASPM is really point nine, so that one was not actually too far off. So is it likely this gene is
+actually evolving neutrally? This gene that affects brain size
+in humans, is it very likely that any amino acid change to this gene
+has no fitness effect whatsoever. You can change it in any way shape or
+form? No.
+It's really very unlikely these amino acid changes, any amino acid change
+there really don't matter. What's probably happening instead is we're
+having a combination of both constraint and rapid evolution within the same gene. That there are some nucleotide changes
+there that are being rapidly selected out, but there are some that actually
+beneficial and they are going through. When you have both of those together
+you're dN dS value is taking this kind of average across the whole gene. So when you have constraint and rapid evolution together,
+it's kind of hard to tell what's going on. And this muddies how you can do a single
+generalization about a gene as a whole. And some people will actually
+break up the gene and look at sections of it independently, but this comes back to this broader question
+of what these dN dS values mean. And essentially,
+if you have a dN dS value of one, it doesn't mean the gene is
+actually evolving mutually. It means you can not reject neutrality. And in fact, realistically, it's unlikely
+that almost any protein coding gene would really be evolving
+totally neutrally. It's very improbable, it could happen,
+but it's very improbable. So if you have dN dS less than one you may
+still have some adaptive changes in there, but you have, importantly,
+lots of constraint. Most changes that come up there are bad,
+and they're taken out. Most dN dS as changes are disfavored. Similarly, if you have
+dN dS greater than one, then you definitely have
+selection driving rapid change. You probably have some constraint as well. Probably not any possible change is good,
+but probably a subset of them are bad, but you have nonetheless had
+multiple amino acid changes favored. So what's happening here is you're
+basically looking at an average of an evolutionary process when you're
+looking at the single dN dS value. So you can tell that there's been a lot of
+constraint or a lot of rapid evolution, or you just can't tell. That's really what it comes down to. Well, this is not entirely
+satisfying as you can tell. We basically need another test, because
+dN dS can end up being a little too conservative, especially
+if you're looking for those adaptive amino acid changes,
+that high dN dS value. You'll have way too many false negatives. So in the next video,
+we'll look at a test that is a little bit better at catching these
+kinds of adaptive amino acid changes. It's referred to as
+the McDonald Craigman test. Hope you'll join us, thank you.

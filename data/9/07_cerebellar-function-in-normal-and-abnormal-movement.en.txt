@@ -1,0 +1,181 @@
+Welcome back to part three of this
+tutorial on the cerebellum. I'd like to say a little bit more about
+the functions of the cerebellum and then talk to you some about disfunctions of
+cerebellar circuits. So my learning objectives are that you
+would discuss the means by which circuitry in the cerebellum aids to
+increase the success of volitional motor performance.
+And I want you to be able to describe the clinical signs and symptoms associated
+with cerebellar damage. Well, let me first summarize both the
+anatomy and also now the function of these cerebellar circuits.
+And I'll reinforce for you our functional division of the cerebellum into a medial
+spinal cerebellum, a lateral cerebrocerebellum, and an inferior lobe
+that we call the vestibulocerebellum. So beginning with the largest of these
+divisions, the cerebrocerebellum. The cerebrocerebellum includes much of
+the hemispheres of the cerebellar cortex that we can appreciate when we see the
+cerebellum in the human brain. And these hemispheres send connections
+into the dentate nucleus down, in the deep white matter of the cerebellum.
+The dentate nucleus sends its output through that superior cerebellar
+peduncle, up to the circuitry of the motor thalamus that engages our premotor
+and motor cortex. And we think that this part of the
+cerebellum is especially concerned with coordinating, organizing, perhaps even
+planning the skilled execution of behavior that we do with our hands and
+our feet. So, the connections suggest that this may
+be the case because the output of the dentate neucleus is largely engaging
+circuits that will impact the functions of the premotor cortex.
+The spinal cerebellum sends its inputs down to the more medial parts of the deep
+cerebellar nuclei engaging the interposed and the fastigial nuclei.
+The interposed nuclei are growing connections that impact the motor
+thalamus and can in turn directly affect the output of the motor cortex.
+but the interposed nuclei together with the fastigial nuclei are also growing
+axons into the brain stem reticular formation.
+So we think that together these inputs are governing the execution of behavior
+more so than the planning for the skilled performance of what we do with the distal
+extremities. So it's a fine distinction there, perhaps
+one not worth making. But at least, anatomically speaking, we
+associate the spinal cerebellum more with the control of, let's say, the more
+proximal parts of our limbs, together with our postural muscles, and our
+muscles that we use for locomotion. Whereas the cerebral cerebellum, we
+associate with the activities that are guided by the premotor cortex, that are
+especially involved with the skilled behaviors that we do with our hands and
+our feet. And that leaves us with the
+vestibulocerebellum. That flocullar nodular lobe that is
+directly connected with the vestibular nuclear complex of the brainstem.
+This nuclear complex, as you know, is mainly concerned with the feedback
+adjustment of posture given signals that are associated with the accelerations of
+the head. And these adjustments typically help to
+stabalize our posture against some unanticipated disturbance.
+So this has been a summary of the anatomy that gives you a sense of what aspects of
+motor control the cerebellum might have an influence over.
+let me give you a little more of a sense of exactly what that nature of that
+influence might be. So, when you think about the function of
+the cerebellum, I want you to think of coordination.
+The coordination of sequenced movement, or multi-jointed movement, when it comes
+to our extremities. When it comes to those domains of
+planning, perhaps even those domains of reasoning and problem solving, we can
+think of the influence of the cerebellum as helping to coordinate the sequences of
+events. That are necessary for planning an act or
+for solving a problem and the key operative word is coordination.
+So the cerebellum as it coordinates these activies it can help to improve the
+stabilbity of our actions as well as their fluidity.
+the cerebellum has a role to play in dampening down the oscillations that
+might have as flexor and extensor muscles are coordinated by lower motor circuits.
+As the cerebellum is serving to correct errors in motor performance, it can also
+play a role in improving motor performance over time through the accrual
+of experience. And in this way, the cerebellum can
+assist motor circuitry in motor learning. Because after all, correcting errors is
+exactly what is necessary for motor learning to occur.
+The cerebellum may not necessarily be a sight where skill is stored.
+But it seems to be a necessary circuit that is engaged in the process of
+improving performance and thereby acquiring the skill in the first place.
+One of the most amazing facts of cerebellar base plasticity that I've
+learned about is how specific that plasticity can be.
+we can do a pretty simple demonstration and, in fact, I, I hope to show you this
+demonstration. to make available for you a video
+recording of, one of my experiments in action that involves plasticity.
+And how our visual world is mapped onto our, map of motor output or motor
+intention. And this would involve the task of
+throwing a ball at a target. And what we can demonstrate is that, the
+plasticity that takes place. The learning that takes place under
+experimental conditions can be specific for not only the motor structure that is
+being used, the arm of the thrower but also the program itself, that is the way
+that arm is used. So we can show plasticity of, let's say,
+an overhand throw, but not an underhand throw.
+Same muscles, same joints, roughly the same kind of sequence.
+But the details of how that multi jointed movement is sequenced to perform an
+overhand versus an underhand throw differ.
+And it seems to be at that level of the organization of the motor program for
+movement, that the motor learning takes place, or the adaptation occurs.
+So, a remarkable degree of specificity and, what the cerebellum is actually
+operating upon to change. Now it's quite interesting to think that
+maybe something similar is happening in the domain of cognition.
+We know that the dentate nucleus sends connections not just to the motor
+thalamus, but also to more medial parts of the thalamus that send connections to
+the prefrontal cortex. This suggests that perhaps the
+coordination, that is the agility that the cerebellum provides for movement of
+body might also apply to movement of mind.
+And one interesting clinical observation has been that patients with cerebellar
+injuries often fail in problem solving when it requires a sequential procedure.
+Perhaps you've seen some simple board games or peg games that require
+implementation of a strategy that involves moving in one step, followed by
+another, followed by another and another. Well, people with cerebellar injuries
+while they are able to execute the motor steps that will be required of the game.
+What they seem to lack is the capacity to sequence through what one step will lead
+to, and the scenario that the next step will provide.
+So it's a matter of sequence and coordination of our problem solving
+faculty that seems to be impaired in patients with legions in certain parts of
+the lateral hemispheres of the cerebellum.
+So, I say that just to emphasize that the cerebellum coordinates movements of the
+body. And it also seems to assist in
+coordinating movements of the mind. So it should not be surprising that
+clinical populations with cerebella injuries may have deficits in the
+cognitive domain as they may in the domain of motor control.
+So, what are those deficits? Well, if the cerebellum is principally
+concerned with governing the ipsilateral side fo the body, then we would expect
+deficits to be observed in movements of the ipsilateral side of the body.
+So the important principle for you to appreciate here, is that the clinical
+signs of cerebellar lesions are always ipsilateral to that lesion.
+Now, this stands in contrast to what you have learned about damage to upper motor
+neurons. Where the clinical signs and symptoms are
+going to be contra lateral to the location of the injury.
+As I've been saying the cerebellum represents the ipsilateral side of the
+body. And perhaps this reflects the fact that
+the spinocerebellar pathways are set up to provide ipsilaterial input.
+Now, when it comes to Cerebellar dysfunction.
+we would expect there to be an incoordination of movement.
+We call this ataxia. An ataxia can be further characterized by
+the clinicians. I won't get into that now but just know
+that may be coming. If you are getting deeper into the
+neurological sciences. but there are other aspects of, this
+picture that I do want to talk about. One of them is intentional tremor, so
+patients who have damage to the cerebellum they tend to have tremulous
+movement when they are intending to move. Such as, if they were to reach out to
+grab an object, there is a tremulous movement that reflects an unsteadiness or
+an incoordination across those joints. There may be an instability of the limb
+as it approaches a target, it may undershoot the target or it may overshoot
+that target if one were to reach out to grasp something.
+So, there is a dysmetria which refers to a, a lack of gauging, the distance that
+is required to accurately execute a motor skill.
+There may be an impairment of alternating movements that is sometimes tested in the
+clinic. one should be able to alternately, rotate
+around the wrist at a fairly rapid rate. And if there is either a breakdown in
+rhythm or a reduction in speed, then perhaps that suggests that there may be a
+problem in the governance of that motion via the cerebellum.
+And then finally, there can be a decomposition of movement.
+Rather than a smooth coordination across multiple joints, and let's say a visually
+guided reach, there may be a breaking down of that motion into component parts.
+So there can be a decomposition of that smooth coordination, or that smooth
+sequencing of action across these joints. I'd like to leave you with a short clip
+that we recorded in the lab when we encountered a brain that seemed to show
+evidence of degeneration of the anterior part of the vermis.
+That is fairly characteristic in individuals that have abused alcohol for
+many years in their life. So, one of the most common cerebellar
+dysfunctions you may see if you're heading into the healthcare world is
+alcoholic cerebellar atrophy. And this can result in an impairment of
+the functions that are performed by the medial parts of the cerebellum involving
+the vermis in the cortex that's lateral to the vermis.
+This seems to be the region of the cerebellum that degenerates with chronic
+alcohol abuse, for reasons that are not entirely understood.
+But when one thinks of this part of the cerebellum, I hope you should now
+recognize this as the spinal cerebellum. Which is that portion of the cerebellum
+that is going to be especially concerned with the proximal limb muscles that are
+important for walking, for posture. And this is likely what explains the
+staggering gait that is characteristic of individuals that are chronic abusers of
+alcohol. They may be staggering not because
+they're inebriated, but because they've suffered this kind of medial impair,
+medial damage to their cerebellar hemispheres as you are about to see.
+Now I want to show you the cerebellum from what is likely a normal brain in
+order to compare with this specimen that we have in front of us.
+So, here we have a cerebellum from an individual who died without neurological
+complication. And I want you to notice how tight and
+full are these tiny little branches or folia that form the cortex of the
+cerebellum. In contrast, this other brain has an
+unusual amount of space between the folia of the cerebellum.
+These spaces are indicative of one particular pathology that seems to result
+in the atrophy of this interior and medial part of the cerebellum and that
+condition is chronic alcohol abuse. So, although I do not know these
+individuals from whom these brains were obtained nor do I know their medical
+history. The appearance of the cerebellum in this
+specimen is highly indicative of chronic alcoholism compared to what we see in a
+healthy looking cerebellum. And this alcohol abuse that I suspect
+might have afflicted this particular brain, is likely to have impaired the
+coordination of gait and other aspects of locomotion in this individual in life.

@@ -1,0 +1,188 @@
+Okay.
+Now, I think we're ready to consider in more formal, even mathematical terms, how
+can we predict the equilibrium potential if we know a permeate ion and its
+concentration gradient? Well, the good news is that this has been
+worked out. And there's a formulation that explains
+the relationship called the Nernst Equation.
+Now, I don't want you to have to be, be burdened with the physical chemistry of
+all this. I would rather have you get an intuitive
+feel for what this equation could do because I think it's a powerful equation
+in Neurophysiology. And we will refer to it from time to time
+as medical neuroscience progresses, and even when we discuss clinical
+implications of this phenomenon. So, the Nernst Equation allows us to
+predict an equilibrium potential for any permeate ion.
+And, we will indicate that potential with this shorthand called E sub x.
+x being any permeate ion. Now, in the more formal version of this
+Nernst Equation includes a number of factors.
+It includes the gas constant. a measurement of absolute temperature in
+degrees Kelvin. knowledge of the valence of the permeate
+ion, that is the electrical charge on that ion.
+a factor reflecting Faraday's constant, which is the amount of electrical charge
+in a mole of univalent ion that might permeate a membrane.
+And, of course, we need to know the concentration gradient of the permeate
+ion which is a function of the concentration of ion x outside of the
+cell, and a concentration of ion x inside of the cell.
+Now, as I said, I don't intend to burden you with all this formality.
+Rather, what I want to be able to do for you is to give you an intuitive feel for
+how this Nernst Equation can be a powerful tool in understanding electrical
+signaling in neurons. Now, thankfully, our Nernst Equation can
+reduce down in fairly simple terms if we make a few assumptions.
+One assumption that we like to make has to do with the temperature in which we're
+recording. And we can either change body temperature
+or room temperature, depending if we're thinking about neurons in our own head.
+Or perhaps, in an experiment preparation, we might have on a laboratory counter
+top. we can also make some assumptions that
+reflect the impact of the fairly constant, for example the gas constant.
+Basically, parameters to define the world in which we operate.
+Well, if we were to do all that, we can express the Nernst Equation in fairly
+simple terms. We can say that the equilibrium potential
+for any given ion is equal to the number 58 divided by the balance term of that
+ion times the log, base 10 of the concentration gradient.
+That is the concentration of the ion outside of the cell divided by the
+concentraion of the ion inside of the cell.
+So, this is the form of the Nernst Equation that I do want you to know, and
+it's provided for you in your tutorial notes, your handout for this session.
+And as I've been suggesting, what I really think is important is that you
+gain an intuitive feel for what this means.
+So, for example, just looking at this formulation.
+This means that the equilibrium potential for an ion is going to be proportional to
+the concentration gradient, and that proportionality is going to be influenced
+by the valence of the permeon ion. Now, let's start in a very simple
+situation. Imagine, we're dealing with an ion-like
+potassium. So the valence term is actually 1.
+So now we can just imagine that the equilibrium potential for Potassium is
+going to be 58 times the log base 10, the concentration gradient.
+And to keep the math simple, for every 10 fold change in concentration gradient, we
+can expect a equilibrium potential of 58 millivolts.
+With the sign of that potential, having to do with whether the concentration
+gradient favors the inside or the outside of the cell.
+Now, I'd like to pause for just a moment and give you some study questions to
+consider. These study questions are printed for you
+at the bottom of your tutorial, so you can look there.
+And I want to encourage you to respond to the questions online now, as you work
+through this tutorial. Okay, while working through those
+problems hopefully gives you some feel for what would be the impact of a change
+in the concentration gradient of a permeate ion on the membrane potential of
+a neuron. Now, as you have surmised I'm sure we've
+been dealing with a fairly simple situation where we've had a membrane that
+allows for the passage of just one ion. And, we've only really considered one
+kind of permeate ion. And, of course, the solutions that are
+found around neurons and within the cytoplasm of neurons has multiple ions
+and membranes on real neurons. potentially can allow fr the permeation
+of a large number of different ions. So, it's useful to have some formulation
+that allows us to understand the equilibrium potential at any given moment
+in time. If we know something about what ions can
+permeate the neuronal membrane, and then something about their concentration
+gradients. Well, there's one more equation to
+introduce to you that allows us to do just that.
+This is to predict the equilibrium potential when multiple ions may permeate
+the neuronal plasma membrane. This equation is called the Goldman
+Equation. And the Goldman Equation really is an
+expansion of the Nernst Equation that considers the situation when there are
+multiple permeate ions. So, what we have in the Goldman Equations
+are terms that allow us to count for the permeability of ions, that's what these p
+terms are, and we have concentration gradients.
+With outside over in for Potassium, for Sodium, and then inside over out for
+Chloride. Now, you may be wondering why is the
+ratio of chloride inside to out reversed, compared to what we see here for
+Potassium and Sodium. So, in order to keep the math as simple
+as possible, we simply flip the sine of the ratio for Chloride, knowing that
+Chloride is an ion with a valence of minus 1.
+Whereas Potassium and Sodium are monovalent cations with a valence of
+positive 1. So, to keep the math simple, to keep the
+logarithmic functions aligned, we simply flip the ratio for Chloride ions with
+inside over outside. Okay.
+Well, with that said, we can use the Goldman Equation to predict at any moment
+in time what is the membrane potential of a neuron that might vary in it's
+permeability for any one of these three ions.
+And, of course, this equation can be expanded to account for as many permeate
+ions as we like. Now, let's consider the same kind of
+model system. But now, let's make it just a little bit
+more realistic by adding to the solutions on either side of the permeate membrane
+Sodium Chloride. So, what we have now in our model system
+is, on the inside, or the left-hand side, we have hop Potassium Chloride, low
+Sodium Chloride. And then on the outside of this membrane,
+we have a reverse. We have low Potassium Chloride, and high
+Sodium Chloride. And again, to simplify the mathematics,
+if we want to go there, we're going to stipulate that the concentration
+gradients are tenfold from one side to the other for each ion.
+Now, let's consider what we have in the resting state of a neuron.
+In the resting state, the permeability of the membrane for Potassium is very
+slight. There's a little bit of movement of
+Potassium from one side of the cell to the other, specifically from the inside
+to the outside. but not much just enough to allow us to
+establish a resting membrane potential. So essentially, the permeability of the
+membrane at rest for Potassium is so much larger than the permeability for Sodium
+that we can completely ignore that contribution.
+And what we find is that the resting membrane potential is very close to the
+nearest equilibrium potential for Potassium.
+Not quite, because real membranes are a bit more complicated.
+But in principle, the resting membrane is explained by first approximation to the
+Nernst prediction for a membrane that's permeable for Potassium.
+Now, imagine there's some mechanisms in the neuronal membrane that can flip these
+permeabilities. Such that the permeability to Sodium is
+so much greater than the permeability to Potassium, that essentially this
+situation dominates. Where now Sodium is so much greater than
+Potassium, Sodium's the only permeate ion we need to be concerned with.
+Well, when we do that, we would find that the membrane potential approaches the
+most equilibrium potential for Sodium. And likewise, if we were to flip once
+again those permeabilities, what we would find is that the membrane potential would
+fall back down towards its starting point, its resting membrane potential.
+Well, these considerations built upon your study with the Nernst Equation gives
+us an intuitive feel for what's going on with an action potential.
+The action potential is this explosive electrical event that happens within a
+neuron, where the membrane potential depolarizes.
+In fact, it even overshoots zero such that the inside of the cell becomes very
+transiently even more positive than the outside.
+And just as quickly as that depolarization occurs, the action
+potential seems to fall back down towards rest.
+Although, it actually undershoots the resting membrane potential.
+That is, the inside of the cell becomes even more negative than it typically is
+at rest, but just by a little bit. And then, it decays back to where we
+started. These considerations of permeability
+changes for permeate ions. Sodium and Potassium provide us with a
+framework for understanding the ionic basis of the action potential, and that's
+where we're going to go in our next tutorial.
+But before we get there, let's just return to the Goldman Equation and
+emphasize some of these considerations. Now, at the resting state, the Goldman
+Requate, Equation essentially reduces to the Nernst Equation for potassium.
+That is, the permeability for Potassium is so much greater than the permeability
+for these other factors, that they basically disappear.
+And what we have then resembles the Nernst equilibrium potential for
+Potassium. And predictably, the membrane potential
+then approaches that theoretical limit predicted by the Nernst Equation for
+Potassium. At the peak of the action potential, the
+Goldman Equation essentially reduces to the Nernst Equation for Sodium.
+That is to say, now, the permeability for Sodium is so much greater than the
+permeability for Potassium that the Potassium term essentially disappears.
+Now, we've not talked much about Chloride.
+And that's because for all practical purposes in this consideration, the
+permeability for Chloride is very close to zero.
+And what permeability there is Chloride will simply follow the movement to these
+positively charged ions. So we can, essentially, take Chloride out
+of the consideration. So again, at the peak of the action
+potential, the Goldman Equation reduces to the Nernst equilibrium potential for
+Sodium, such that the membrane potential approaches this theoretical limit.
+So, as we've worked with the Goldman Equation just a bit I hope that you've
+been able to develop a bit of an intuitive feel for how changes in
+membrane permeability can change membrane potential.
+Now, what we haven't talked about at all yet at is, how do those changes in
+membrane permeability come about? Well, perhaps, the surprising answer is
+that changes in membrane permeability are themselves influenced by the change in
+membrane potential. This is the ionic basis for the action
+potential. Which we'll have more to speak about in
+the next couple of tutorials. For now, I think I can summarize the main
+message that I've tried to convey to you in the following statement.
+That voltage-sensitive changes in Sodium and Potassium permeability are necessary
+and sufficient for the production of action potentials.
+Now, before we talk in more detail in forthcoming tutorials about the ionic
+bases of the action potential, I think it will be well worth your time to consider
+more deeply the nature of Electrochemical Equilibrium.
+This concept will come up in several more sessions as we continue to talk about the
+basis of neural signalling and the properties of ion channels.
+So, I would encourage you to view one last animation, also available at the
+website that supports our textbook. It is Animation 2.2, which is all about
+understanding Electrochemical Equilibrium.
+You can find a link for that at the end of our handout for this tutorial.
+So next time, we'll think more together about the ionic basis of the action
+potential.

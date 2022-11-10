@@ -1,0 +1,155 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In previous videos, we've talked about deviations from
+the Hardy-Weinberg equilibrium. The most recent videos,
+we talked about natural selection. This is very predictable changes in
+response to differences in drift. Now one of the assumptions of
+Hardy-Weinberg that I mentioned before is an infinite or
+near infinite population size. Obviously, there are no species out
+there that have an infinite number of individuals. As a result,
+there will be some sampling error or, as this is referred to here,
+genetic drift. In this video, we'll talk about the effects of sampling
+error over a single generation. Now, contrasting natural
+selection with genetic drift, natural selection's highly predictable. We have a subset of genotypes that have
+higher fitness than other genotypes. This higher fitness is associated
+with having more offspring, and as a result,
+these genotypes become over-represented. If you know the fitnesses associated
+with the different genotypes, then the changes in allele frequency associated with natural selection
+are very highly predictable. But not all evolutionary
+change is predictable. As I mentioned, species typically
+have finite numbers of individuals. As a result of that random chance matters. Let me start with an analogy. Let's look at a bag of marbles. Let's imagine that you have brown marbles
+and blue marbles only in this bag. And exactly half the marbles
+in the bag are brown. Exactly half the marbles
+in the bag are blue. What's going to happen is we're
+going to start a new bag of marbles. In order to start this new bag of marbles, we have exactly four
+marbles from the old bag. We just reach in and
+randomly pick out four. How many of each color would you get? Well, you could get four blue. You could get four brown. You could get two blue and two brown. Now, probabilistically, there's only about a 5% chance that you'd
+get all four marbles the same color. You'd either get four blue marbles or
+four brown marbles, not very likely. So you're going to have a mix of
+colors in the new bag that you start. So this is associated with having
+four marbles starting the new bag. Now what if you started
+the bag with even fewer? What if we started with
+exactly two marbles? Well, how many of each color would we get? Well, there's three possibilities. Two blue, two brown, or
+one blue, and one brown. And in fact, in this case, there's about a 50% chance that the two
+marbles we'd get would be the same color. We'd either get two blue marbles or
+two brown marbles. Well, this illustrates
+the point of sampling error. This prior example, when you picked
+four marbles, it's likely you'd get roughly the same proportions as you
+had in the previous bag, right? So this would be the right proportions
+that mimics the previous generation. If you pick two, you're very unlikely to
+get even roughly the right proportions. So by picking more, you tend to get a more representative
+sample of the original pool. This is the principle
+that we see in general, if you want to understand if people
+in a particular supermarket are tall. You don't just look for one person,
+but you look for a lot of people, so you get a representative sample. Well, the same principal
+applies in nature. Again populations are not infinite,
+and frequently small samples are not perfectly representative, and these are
+the ones that form the next generation. Because they're not perfectly
+representative of the previous generation the allele and genotype frequencies
+change between these generations. Now this effect can compound more and
+more over time. We'll talk about the compounding
+effect over many generations later. But let's focus instead on what's
+happening in one generation. So, it's random indirection
+over one generation, whether you're going to increase in
+frequency, or decrease the frequency. So assuming that there is more than
+one allele, so assuming you have at least two alleles, any allele is
+about equally likely to increase or decrease in frequency after one generation
+of sampling error or genetic drift. So for example, if the allele frequency
+of big A, assuming there's two alleles, big A and little a. If the allele frequency of big A is 0.6,
+you're about equally likely to have a frequency above 0.6 or
+below 0.6 in the next generation. However, it's very unlikely you're
+going to have exactly 0.6 again, because there is a decent chance you're
+going to have some non-representation. Even if you have a very large sample, it might end up being 0.603 or
+something like that. So allele frequencies tend to drift
+due to this sampling error, and this is where the term
+genetic drift came from. I'm going to show you what would
+happen in the context of this. Imagine tossing a coin ten times this
+is similar to having P equals 0.5. You may get five heads from these tosses. Right? So that would be exactly what's expected
+in the sense of the average, right? Since you're equally likely
+to get heads or tails. Now getting more than five heads or getting fewer than five
+heads is equally likely. This shows you the distribution
+that you expect the probabilities. I'm probably getting exactly five
+heads is actually less than a quarter. Your probability of having ten heads is
+extremely low, probability of having zero heads is extremely low, but you're about
+equally likely to have slightly more or slightly less than five heads
+when you toss the coin. Okay, in fact, actually the probability
+of getting ten heads is about one in a thousand, so
+very unlikely unless it's a weighted coin. Well, the same concept
+applies to populations. So if the original population has
+allele frequency of big A 0.6, we see below what happened in
+one generation of genetic drift. The probability of having
+it greater than 0.6 versus less than 0.6 is about the same. And this is the case if you
+have 10 diploid offspring. Okay, now let's see what
+happens as we look at this over multiple generations briefly, but
+just looking at the individual steps. So this magnitude change compounds as
+it relates to the population size. Now, regular changes are going to occur
+if the population size is smaller. You'll have greater individual deviations
+in allele frequency per generation as the population is smaller. So let's look at three
+different population sizes. Let's look at population size 400. You're starting in this case, this is
+looking at generations on the x-axis and allele frequency on the y-axis. You're starting at 0.5. And what's happened here
+is we're starting one, two, three, four, five, six, seven,
+about eight different populations at 0.5. And this shows random changes
+over all eight population. After about a hundred
+generations we see there's a few that are kind of close to 0.5. Some of them are higher,
+and some of them are lower. So we have this genetic drift
+that's compounded over time. This shows this little green figure
+shows the approximate average size of a change in one generation
+in each population. Notice what happens if we reduce this. Instead of 400, what if we looked
+at a population of size 40? What we see in this case, much bigger
+changes, we have several alleles that have gone all the way to 100% or
+0% in some of these populations, and some are still segregating, but again,
+you're equally likely to go up or down on an individual generation, and the
+individual step size now is much bigger. You get bigger random changes in allele
+frequency with smaller population sizes. All right? Let's do the same thing. This was with population size of 40. Let's look at it in the extreme
+with population size four. Wow, all variation is lost. We'll come back to this,
+actually, very shortly. But you see that the individual
+step sizes here is very large. Again, in each of these case,
+these are eight different simulations, each with population size four and
+starting the allele frequency at 0.5. So with those examples in mind,
+can we solve, mathematically, how big the individual steps are that result
+from genetic drift in a single generation. On average, the answer is yes. So we can use the variance. Now recall we used the variance
+before when we were studying heritability
+a couple of lectures back. We look at the variance in
+allele frequency due to one generation of genetic drift. So looking at how much
+of a spread is there. The answer to that is pq divided by 2N. Where p and q are the two allele
+frequencies and N is the population size. We use 2N because we tend to
+work with diploid organisms. Now, how do we use this to
+actually look at average changes? Well, we can look at
+the standard deviation. The standard deviation of
+this would be an estimate of the average allele frequency
+change in one generation. In fact, mathematically, it would
+actually be a slight overestimate, but it still gives us an idea for
+illustration purposes. So, how do we get the standard
+deviation from the variance? Well, the standard deviation is always
+the square root of the variance. So we have this formula here for the variance, we take the square root of
+that, as illustrated here, and that gives us the average of the frequency change
+from one generation of genetic drift. So let's apply this to examples
+that I just showed you, the figures from a couple of slides back. When we had a population size of four, we had starting allele
+frequencies of 0.5 and 0.5. The average change based on this
+formula should be about 0.18. What these means by the average change is
+that if you start with an allele frequency of 0.5, it's likely that you
+will go up to about 0.68 or likely that you might go down to 0.32. That's sort of an average change. The change could be more than that you
+could go to 0.70, you could go to 0.62, so maybe is larger, maybe smaller
+of a change, it also could be up or it could be down. We don't know the direction of
+genetic drift from one generation. This gives you an idea of
+the average step size, 'kay? Now notice, for this one is 0.18. If a population size is 40, the average
+changes is quite a bit smaller, as we witnessed. In this case, the average change should be only
+an allele frequency change of about 0.06. If the population size is 400, the average change in one generation
+of genetic drift is 0.02. Now, you notice with those very small
+ones, like the population size of 400, that's why in the example when we're
+looking at a population size of 400, no allele was ever lost or fixed. We always still had
+variation in the population. Because individual steps are very small,
+and even over a hundred generations, we still
+retained variation in that population. In contrast, when we looked at the very
+small population, population size of four. We lost all variation very quickly, because the step sizes are very big,
+there's very likely to get to 100% or 0%. Okay, so what does it take home
+messages from this lecture as a whole? So the take home messages from this video,
+drift is strongest in small populations, drift is neither predictable in direction,
+nor exactly replicable in
+degree in one generation. That you saw with all those different
+populations even when we started it over and did it again, they didn't
+all follow the exact same track. They all have the same on average
+change allele frequency but some went up, some went down,
+some had a little bit more than average, some had a little bit less
+than average at times. It's not exactly replicable in degree, and
+it's not predictable in one generation. Very important to end on there. And finally, drift can change big
+changes in allele frequency over time. We'll pick up on this in the next video. Thank you.

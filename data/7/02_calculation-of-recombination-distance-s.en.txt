@@ -1,0 +1,190 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In the previous video, we talked
+about the principle of crossing over. What we'll do in this video is leverage
+that principle to see how we can calculate recombination distances between genes. And later you'll see how we'll
+actually use that to construct a map of the genome or
+a map of multiple genes at once. Let's first recap some of the points
+from the last video just to remind you. Again we can use the linkage to
+develop a map of chromosomes. This is our ultimate goal. And importantly, as we've said before, chromosomes are typically linear,
+neighboring gene variants tend to remain associated even
+when you have crossing over. So if you have two genes that are very
+close together, you'll tend to inherit alleles of those genes together,
+whereas genes that are further apart, you may be more lucky to get
+recombinant forms from them. If they are very close together,
+you typically only get the parental types. If they're further apart, you may
+get some parental, some recombinant. So what you tend to see from this is
+the full range of possible associations. You may have no recombination or no
+crossing over, particularly in this case, between two genes. This would mean they're very,
+very close together, there's nothing breaking them apart. Or you could have no association. Basically 50% recombination, this is what you see when things are very
+far apart on single chromosome or you tend to have them on different
+chromosomes one of those two things. At that point,
+they are independent of each other, if you get 50% recombinants,
+and 50% parental. Now, let's start looking
+at how we identify what's going on along these chromosomes. So I was depicting these chromosomes
+before, and referring to points A, B, and C along them, but how do we know what variance is at A, what
+variance is at B,or what variance is at C? Well, the answer is we
+use genetic markers. The genetic markers are basically
+reference points in the genome that have two alleles or more. They have two forms or more. Now you don't necessarily
+know where this is. Now, this sounds a little bit funny, cuz you can actually generate a map
+without knowing where at all you are. You can think of it in
+the context of saying, you know where something is
+relative to something else. But you may not know
+exactly where that is. So for example,
+I could tell you there are three genes. ADH, ACT and ALDH, and you can say that I know that ALDH
+is in the middle of the other two, but you don't know what
+chromosome any of them are on. That's okay, that's the start of
+how you put together a genetic map. Now, genetic markers can be molecular. Right, being molecular, meaning do you assay them using some
+sort of molecular biology technique? Such as, for example, doing PCR,
+where the preliminary's chain reaction and assaying it on a gel. This depicts right here, the bottom
+left picture, different alleles. So this could be a big A,
+big A individual. So, that's two copies of the big A allele. This is a little a, little a individual. That's two copies of little a. And here is your heterozygote,
+has one of each. All right, so this is a very assay there. In this particular case what's happening
+is they run differently on the gel. The smaller fragments migrate
+faster than the larger fragments. And there's a difference in size
+where the little A has this extra set of bases in it that
+is not present in the big A. And that makes the little
+A run slower down the gel and they tend to be higher up. That's just one example. Don't worry about the details of this. But this just shows you what we mean,
+or how people assay a genetic marker. Now genetic markers can be molecular but
+they don't have to be. They can also be phenotypic. They can also affect
+the appearance of an organism. So we talked already about these cases
+of having red versus white eyes, these Drosophila mutations. Now you can say for example this
+red-eyed individual may be AA or Aa, cuz we know that
+the red-eyed one is dominant. This white-eyed female may be aa. Now there's obviously some
+underlying nucleotide difference, some underlying DNA sequence difference
+at an eye color gene, that's making it so the aa individuals have white eyes. But we can nonetheless use
+these as a genetic marker. And, in fact, this is something that
+was used extensively over the course of the last century, and
+still at some level today is used for making genetic maps,
+these sorts of phenotypes. This is also how we map
+genetic diseases and we'll come back to that a little later on. Now what we do is we use either
+control crosses or pedigrees. They're basically the same thing. Controlled cross being is when
+you take a red eyed fly and mate to the white eye fly. While pedigree is you're looking at
+things that have already happened and just inferring what's going on,
+so you can say that we know your great grandfather had brown eyes, but we
+know your great grandmother had blue eyes. And look at what's happened. We infer the genotypes to make a map. All right,
+we infer the genotypes to make a map. So let's use the case of what's
+referred to as a test cross. So what we wanna do is we wanna
+identify parentals and recumbent. So we'll start with something which is
+homozygous, which has only one type, AABB crossed to aabb. So let's say the red is the female and
+the blue is the male. We make this offspring. So this is a heterozygote, AaBb. You know this is the phase and you know
+that you've got the top one there from one, and the bottom one there from dad. What we do,
+is we cross this to the homozygote again. So we cross it to a aabb. Now if A and B genes are totally linked, What fractions should we get from all
+these different things down here, if there's no crossing over between A and
+B, what should we see? Look at that for just a second. If there's no crossing over between a and
+b we will only get the parental types. So in this case the parental
+types will be AB, this set, and ab which would be this set. And then this individual always gives ab. These would not be found at all. If they were totally linked,
+you wouldn't get any of those. Okay, now let's do a different test. Let's say instead,
+let's say they are completely unlinked. Let's say they were even
+on different chromosomes. What would happen then? So on different chromosomes
+you get all four types, and if fact you would get one
+quarter of each of these. So, these are the parentals. These are the recombinants. Half of the overall offspring
+would be recombinants. These are your recombinants then. Now, the question that I want you to think
+about is, what happens if, you know, somewhere between these two extremes,
+not the totally linked, not the totally unlinked,
+like might be on different chromosomes. What would happen if they're sort of
+linked, like they're near each other but not right on top of each other. What would end up happening
+in that situation is you get mostly these but you get some of these. Basically, this would be, this would
+be more than 50% but less than 100% and this would be something less than 50%,
+but more than zero percent. What this recombination fraction tells you
+is how far apart the A and B genes are. The further they are apart, the more the
+percent recombination will approach 50%. The closer they are together, the more the percent recombination
+will approach zero percent. So, let's look at this using
+this particular fly cross. Now, here what we'll be doing is we'll
+be crossing flies that are mutant for one gene to flies that are mutant for
+another gene. So let's start with
+these ones on the left. These ones have cinnabar,
+or bright red eyes. So this is different from
+the standard fly eyes, which are more of a sort of a dull red. Let's say were crossing males, put your
+boy symbol, to females that are vestigial. Vestigial has these sort of shriveled
+up wings rather than the normal full length beautiful
+Drosophila wings we see. Now these boys here have normal wings. So we can say that they are cinnabar, so
+they have the cn, but they are vg plus. Because they have the normal copy not
+the mutant copy of this particular gene. In contrast, these vestigial
+winged females we can say there, cn plus because they have
+normal dull red eyes. They don't have the mutant
+bright red eyes. So we're crossing (cn)vg+ males
+to cn+(vg) females, okay? So these ones here are mutant for
+cinnabar. You're are mutant for
+the thing that doesn't have the plus. Sp we're crossing these mutant
+red-eyed males to these mutant squished up wing females. Okay, now we cross these and the offspring
+all have normal eyes and normal wings. So what can we infer from this? Well we can actually infer quite a bit. First is the cinnabar form. The bright red eye form. Is that mutation dominant or recessive? Well in this case we know the mutation
+has to be recessive right? Because we crossed a fly that was
+cinnabar to a fly with normal eyes. And in the end the flies
+all had normal eyes. So normal must be dominant or
+cinnabar must be recessive. Similarly, vestigial
+must also be recessive. Cuz again, we crossed a vestigial
+winged fly to a normal winged fly and the offspring all had normal wings. So, normal wings is dominant,
+or vestigial form is recessive. So, what would be
+the genotype of this fly? Remember we said that this one
+over here was starting off with (cn)vg+ This one was cn+(vg). Well the genotype for this fly when we're
+looking at basically the combination of alleles it has would be
+something like this. Where it has the cn vg+
+from one parent and it has the cn+ vg from the other parent. This is the combination. And we're going to assume that these
+are actually on the same chromosome which actually they are on the same chromosome. But let's just assume
+that we're guessing that. And let's say we cross F1 females. So these are what's referred
+to as the F1 females. These offspring up here. I say we cross them to males that have the
+cinnabar mutation and a vestigial wings. Well what will the genotype be for
+this males? If they have both mutations
+with this recessive, what would the,
+what would the genotype for them be? Well, since the males were exhibiting
+both mutations, the male is necessarily homozyous or cn and vg, because it has
+cinnabar eyes and vestigial wings. So we're looking at, these are the males
+that we're gonna cross them to. These are the F1 females right here. What were be the parental and
+the recombinant offspring? What would they look like? Well, let's think about this. This is always giving the mutant form,
+right? So the dad's always giving mutant form. So, basically, from dad you're always
+getting cn vg, no matter what. You're always getting that combination. Doesn't matter if there's
+a recombination or not. Which there isn't any recombination
+in Drosophila males, but let's just leave that alone. If you're getting parental
+gametes from the female. What would you get? You would get either cn vg+, or you would get cn+ vg. So what would these flies look like? Well these top set of flies here
+would have vestigial wings, so they would look like this parent. This bottom set of flies
+would have cinnabar eyes. They look like this parent. But that would be it. You would not have any
+normal looking flies, and you would not have any flies
+that look like their dad. That they're mutant at both. Recombinant offspring would
+get something like this. They get the cn and vg from mom. Which they also,get a cn vg from dad,
+meaning they'd be mutant at both genes, or they would get cn+ or vg+ from mom,
+meaning they would look totally normal. They would not have any mutant forms. So let's look at these,
+here are all four possibilities. These top two, these top two depict what would happen in the context
+of just getting parental types. The bottom two depict
+the recombinant forms. So what if there was total linkage? What if, you know,
+the cn vg's were right next to each other? What if there's total linkage? What would you get? There's still linkage,
+you'd only get these two forms, right? If cn and vg were completely unlinked, you would get half of these forms,
+and half these forms. So maybe a quarter of
+each of the lines there. But what if they are linked but
+not totally so? That's when you get mostly these and
+a little bit of these, okay? Now, again, it's this fraction recombinant
+that reflects the distance between genes. That, if genes are very close together,
+then the fraction recombinant will be low. If the genes are very far apart,
+the fraction recombinant will be high. Now Thomas Hunt Morgan who I mentioned,
+this Drosophila geneticists, he suggested this percent
+recombinant can be called map units. And often now under Drosophila they
+are referred to as centimorgans in honor of him. So again this recombination fraction
+ranges from 0% to 50% recombinant. And this is often just referred
+to as 0 to 50 centimorgans. This gives you an idea of
+the distance between genes, and this was known like a hundred years
+before we had the first genome sequence. Not quite, but close to it. And, you know, at this point we had
+a way of putting together a map and saying, this gene is close to this gene,
+this other gene is really far away. And the genes in this case were things
+like Drosophila mutations, like the cinnabar gene, the vestigial gene, the
+white eye color gene, things like that. In humans, just for the reference, 1.3% recombination is on
+average about a million bases. That's not exactly the case, but that gives you sort of a ball
+park that you can work with. And this is used to determine
+the linear order of genes, and we'll come back to how
+that's done in the next video. But let's put in some numbers here. Let's say that you were counting flies. So this top fly here has normal eyes but
+vestigial wings. Next one has cinnabar eyes but
+normal wings. The next one is normal at both,
+and bottom one is mutant at both. Now, this case they all have
+that mutant copy from their dad, this is that test cross,
+so they're all over cn vg. Cuz, they are diploid,
+they do have two copies of everything but when I drew it on here it was just to
+depict the phenotype or how they look. Let's say you got these numbers. What does this tell you? Well these are all the parental types,
+right? These are the ones that match. Basically they got this
+gamete from their mom or they got this gamete from their mom. So these are parentals. These lower ones here are recombinant, because they have to get either
+this form or that form from mom. So these are the recombinants. These are the parentals. Okay? Now what fraction overall
+here are recombinant? Well, the total here,
+the total number of flies here, is 200. The total number recombinant here is 20. So, the recombination fraction is 10%. 10% recombination,
+between these two things. So this gives you some idea
+the distance between these two. Now, in the next video we'll show how
+you leverage this to generate a map, and particularly using three or
+more genes, identifying the linear
+order of these genes. In the meantime look online for some
+sample problems you can try on your own. Thank you.

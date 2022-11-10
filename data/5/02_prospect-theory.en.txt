@@ -1,0 +1,186 @@
+So, let me start with
+a more modern behavioral economic and talk about prospect theory. So, the term prospect theory was coined
+by psychologists Daniel Kahneman and Amos Tversky in an economic journal,
+Econometrica, 1979. A very important paper and, in fact,
+at least as of some years ago, the most cited paper ever
+published in Econometrica, which is the top journal for
+economic mathematical economists. What they are criticizing is
+the core theory of economics, and they're replacing it with
+a constructive alternative. The core theory being
+expected utility theory. So, the economic profession tends to used the idea that
+everyone has a utility function, which depends on the things that they
+consume and it represents their happiness. You've heard of indifference curves, those
+are contours of the utility function. And that people in a world with
+no uncertainty will choose how much to buy at the market prices
+to maximize their utility function. And then if there's uncertainty, then people use the probabilities
+of possible events to calculate the expected utility and
+the maximized expected utility. Kahneman and Tversky changed two
+things in expected utility theory. One, they replaced the utility function
+with what they called a value function. And two,
+they replaced the probabilities with subjective probabilities
+determined by a weighting function in terms of
+the actual probabilities. So, let me talk about
+these two elements here. The first thing is the value function, that's a plot from their 1979 paper of
+what the value function might look like. This is based on their experiments,
+but this is just a hand drawn story. Now, the utility function,
+if you think of from elementary economics, the utility function exhibits
+diminishing marginal utility everywhere. And it's concaved down,
+right, so the upper-right segment of their curve looks
+like a utility function. You see it's concaved down and
+it's growing. The axes, okay, the horizontal axis is
+the amount of money gained or lost. And the vertical axis
+is their counterpart, their replacement for utility,
+which they call value. But if you look at it,
+there's a funny kink here, at the origin, and then they have it concave upward,
+not downward for losses. The other thing is, or that I should
+emphasize, the utility function is not usually put at, in this term,
+between gains and losses in economic. Your utility is determined by how
+much you have, and it doesn't apply, it doesn't make a distinction,
+it doesn't focus on what you have now. What they're talking about here is how you
+react to an opportunity on any given day. And what they said is that on any given
+day, you form a reference point for today, and
+that's this reference point, okay? And the utility depends on,
+relative to your reference point, what your gains and losses might be. There's a kink at the reference point,
+okay, which means that, There's something special going on. But this reference point
+is kind of arbitrary, it's just where you see yourself today. So, that is, now,
+I'm not going to get into details of this, but this is the idea which they proposed, instead of utility,
+based on experimental evidence. So let me talk about evidence,
+quickly through this, the kink, the first thing is that
+the origin moves through time, you're not consistent through time. If I get more money, then I move my
+reference point up to more money for the next choice that I make. And if I have less money, I move it back. That doesn't happen with utility. What they're saying is
+that it's subjective, I'm thinking always
+relative to where I am now. So, for example,
+there's a kink in the slope. You see the slope is high here, and then it becomes low at a point,
+which is today's reference point. And so what it means is that people, one implication of this is
+people will not take small bets. So, I'll give you an example,
+the famous example occurred at lunch at MIT
+about a half century ago. And Professor Paul Samuelson,
+who's a famous professor, was seated with E Cary Brown,
+another professor, not so famous. And Samuelson said,
+on the spur of the moment at lunch, hey, let's try a little gamble here. Let's flip a coin, and
+if it come up heads, I will pay you $200, but if it comes up tails, you pay me $100. So he proposed, you see that he's
+being very generous here because he's giving the other
+guy $200 as against 100. What's the expected value of that bet? Well, it's 0.5, assuming it's a fair coin
+with a probability of coming up heads, 0.5 times 200 minus 0.5 times 100,
+so that's $50. So, Samuelson thought he would immediately
+take it, but E Cary Brown said, no, I don't, what are you talking about,
+[LAUGH] I don't want to do that. And he didn't want to do it,
+and Samuelson said, are you sure, I mean,
+I gave you a positive expected value bet. It's only a couple hundred dollars, right? Well, that sounded like a lot, but
+back then it was worth more than it is now [LAUGH] sounded like a lot of money,
+but he just didn't want to do it. So, Samuelson then said to E Cary Brown,
+okay, how about doing it 100 times? Well, I'll do this, and this is
+hypothetical, I'm not really offering this, but if I offered to do it 100
+times in a row would you do it? And then E Cary Brown said, Gee,
+I mean, by the law of large numbers, [LAUGH] I'm going to make something
+like $5,000 practically for sure. So, E Cary Brown said,
+okay, I would do that. So then Samuelson went back to his office,
+and wrote out a mathematical proof
+that E Cary Brown is irrational because if you would take 100 of them,
+you should take one of them, right? But E Cary Brown was just behaving
+the way this value function. The kink at the value function means the
+gains look so much smaller than the loss. So, psychologically, so I don't want that,
+but if it's 100 of them, then it's just moving him up here for
+sure, so, of course, he'll do it. But see there's a fundamental human error
+here, that we focus on little things and we panic at little bets. You should be doing,
+I don't know if you're ready for it. If I actually offer it,
+I should have asked for a show of hands, if I offered you a coin
+toss like that, you'd take it, right? I assume, at least if you learn anything
+from this course about rationality, you should do it. Any time you get a bet like,
+it's a small bet, you should, with a positive expected value,
+expected utility theory says you take it because there's not much concavity
+to the utility function, but people don't. The other thing is that this
+thing curves up for losses, and what that refers to is a,
+There's risk preference for losses. People, it's a little bit hard to explain,
+but the key idea is that people are willing to
+take big risks to escape loses. So, for example, someone at a gambling
+casino, who's lost a lot of money and now is in the reign of losses,
+starts to think, maybe, of taking a really big bet that might have
+the possibility of bringing them away so they could close the day
+up instead of down. So that people have a tendency
+to take risks in the domain of losses to try to get them back,
+so that's the value function. The other thing is the weighting function. Now, on this axis we have
+the stated probability, now, probabilities range from zero to one, and so that's the actual
+probability of an event. But on this axis we have the decision
+weight, which is a transformed, psychologically transformed probability. And you can see that they curve,
+this is the 45 degree line, if people were completely rational, they would use the actual
+probabilities in their calculations. But they do not actually
+behave completely like that, they tend to transform their
+weighting function, so it looks like a curve with
+a slope less than one. Also, it doesn't show, for
+very low probabilities and very high probabilities, the line stops. You notice that it doesn't tell you or, by some versions, it drops to the zero or
+it jumps up to one. So, what they are referring to, let's talk about the fact that
+it doesn't go to zero or one. What it means is for very low
+probabilities you have a tendency to not appreciate them and, actually,
+often, to drop them to zero. I'm not going to think about that. If it's a probability of 10% of happening,
+you might worry about it, but if it's 1%, I'm going to round
+that to 0 and not worry about it. Similarly, on the upper end, if something has a very high probability,
+people don't accept that hype, they don't take that probability into
+account, and they round it to one. So, I'll give you an example of
+the application of the weighting function. And that is, it used to be that
+when you board an airplane they had vending machines that offered you
+insurance against dying on this flight. It's one flight, and they would charge
+you like $1 for an insurance policy. And they would put the machine right
+there where you're boarding the airplane. A lot of people would buy this because
+they're boarding an airplane and they just get a little
+scared about this flight. Well, actually, the probability of this
+flight crashing, what is it, one flight? It's 1 in 10 million, right,
+so that $1 insurance should give you a coverage of $10 million,
+but it [LAUGH] doesn't. It gives you something
+very remote from that, and people still buy it, why do they buy it? It's because they're nervous. You hear about all these plane crashes,
+you think this could be my last day on earth, I feel like I want to
+have done something. But, in fact, you see,
+the probability is exaggerated. So, most people didn't buy it, so
+those are the people who were down here, they rounded it to zero. But some people are right there, [LAUGH] there's a little bit
+of fluidity in this theory. And you either exaggerate it or
+you ignore it, and so there's a whole business exploiting
+people who exaggerate it. Also, the curve has a slope less than one,
+and you could caricature this by
+saying there's three possible weighting values, zero, a half, or one. And so, emotionally, I can't process these numbers, that would
+be the case if this curve were actually flat through a half, but
+it's not absolutely flat. But it is true that,
+in this realm, people don't, they don't take full account of the
+differences in probabilities of events. They tend to blur them a little bit,
+so that's prospect theory. People are overly focused on little
+losses, little gains and losses. I can get you worrying about a $2,
+plus or minus, $2 loss, I can get you overly concerned by that. You should not worry about plus or minus $2, that's nothing, but
+people do worry about it. You should be worrying
+about the big things, and that's one mistake that Kahneman and
+Tversky put in their prospect theory. Another thing is that people will
+often try to gamble out of losses. If you went to the casino and
+you lost money, you think, maybe I should gamble some more,
+maybe I can get back to where I was. That only makes things worse, but that's what people do,
+that's also part of prospect theory. So what I think prospect theory
+is is a experimentally based set of knowledge about
+mistakes that people make. And I think it's good to learn
+about prospect theory to help yourself from making those mistakes. >> So, it sounds like there's a large
+intersection between social psychology and finance, and
+that we've been talking about it in class. And this is more abstract, but,
+in terms of the chick and the egg, what do think comes first? Do you think that people have biases which
+are then reflected onto the market and make changes? Or do you think that the market
+is currently structured in a way that confuses the average investor? >> Well, you said which comes first. I know, chronologically,
+there were two important revolutions in finance over the last half century or
+so. First was the efficient markets
+mathematical finance revolution. The second one was,
+that started in the 50s, 1950s maybe, it's hard to define exactly when
+it started, but let's say the 50s. And then there was the behavioral finance
+revolution which brought psychology in. So, I think these two revolutions are kind
+of incompatible views of the world. But they both offer insights,
+they're both exciting. And so which one comes first,
+[LAUGH] I don't know. I think that it's just a matter of models
+that you have in any science are models that abstract from certain details and
+offer you insights into what is happening. But then if you are an engineer
+trying to design, I'm thinking of physics and engineering, an engineer has to have a different
+way of thinking than a physicist does. He has to say, I want to know all
+the frictions, all the problems. What if someone tries to use my device in
+freezing weather [LAUGH] will it still work, it's still things like that. So, financial engineering
+is an important field these days,
+not using that term disparagingly. Sometimes people use the word
+financial engineering to describe manipulative practices. I don't mean it that way,
+I mean in terms of innovation. Financial engineering
+takes a somewhat different personality than financial theory. Financial theorists like to develop
+beautiful models, but a financial engineer wants a beautiful device that works in
+various conditions with real people. And so that requires,
+I think like engineers will tell you, you can't rely on any one physical model. You have to realize that
+the world is complicated and funny things happened to machines and
+they jammed up, or something goes wrong. Same with financial machines.

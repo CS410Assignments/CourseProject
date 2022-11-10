@@ -1,0 +1,46 @@
+I was doing the introduction for the John Bates Clark Medal at
+the American Economic Association. And I was telling our own members at
+the AEA what did John Bates Clark do that is most distinctive. In 1895,
+he wrote a journal article defining what he called the real interest rate. What it is, is the interest
+rate corrected for inflation. Now, I did a search to see if anyone
+knew of real interest rates before 1895. And I got hits in 1894 and
+1893, but nothing before that. So I think it was John Bates Clark
+who invented the idea. It's just amazing to me that people
+didn't understand forward rates, they didn't understand real rates. To me they seem like
+such natural concepts. So the nominal interest rate, what we've been talking about now,
+is quoted in currency. Dollars, Pounds, Renminbi, whatever. But it's not corrected for inflation, and as you know when you have inflation,
+the value of the currency declines. The real rate is quoted in
+terms of the market basket that underlies the price index,
+consumer price index. So just in simple terms,
+if you are investing money at 3% for next year and the inflation rate,
+consumer price index, is going up at 3% what is your real rate? How much are you making in real terms? Well, it's kind of obvious,
+it's zero, right? If I have $3 more on my $100 investment,
+but everything that I want to buy has gone up
+by 3% then I have the same buying power. So I didn't get anything. So the simple way of describing it is
+usually the real rate, this is simplified, the real rate equals the nominal
+rate minus the rate of inflation. But actually the formula
+is more like this. One plus the nominal rate, or money rate, equals one plus the real rate,
+times one plus the rate of inflation. This is an approximation. If you multiply this through, you'll see
+that it's missing the cross-product term, the product of R money times I. Which is close to zero. Another really important invention in
+history is the invention of index bonds, which are bonds that pay coupons
+defined in real terms and a principle, or one or
+the other in real terms. In 1780, I'm attributing
+this idea to Paul Revere but I don't know it probably wasn't his idea. But he engraved the bonds,
+the first issue of index bonds. I bought one under
+Will Goetzmann's influence. I discovered,
+I could buy one of these bonds. It'll only cost me $1,000,
+and I have it up and it's framed in my office if you
+want to come back and see it. Engraved by Paul Revere,
+that's pretty neat. But what's even neater about it,
+was it was a clever idea. Let's issue bonds whose coupons
+are just tied to the inflation rate, so that you know in real
+terms what you're getting. The US Treasury did not follow
+up on Massachusetts until 1997. So that's 217 year lag between the first issue of indexed bonds in
+the United States, and the second. Well, there might have been some minor
+issues somewhere in between, but basically that's what happened. So they were called TIPS, they still are,
+Treasury Inflation Protection Securities. They were issued in 1997. By 2006,
+they were 7% of the national debt. I should update this. They went up more by 2010 or so. I think they're down now. But, they're still big. In the UK they call them
+index-linked guilds. They're bigger in the UK, by 2006 they
+were 25% of the UK National debt. And France and
+other countries have been issuing them. They're still a little controversial,
+but they make great sense to me.

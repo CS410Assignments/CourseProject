@@ -1,0 +1,144 @@
+Hello. And welcome back to Introduction
+to Genetics and Evolution. Now, in the past,
+we've talked about Recombination. We've talked about,
+the Process of Recombination. Primarily, in the Context of
+Transmission Genetics and Genetic Mapping. Now, the question I
+wanted to ask you today, is what are the Evolutionary Advantages
+of Sex and Recombination? Those two things
+are intrinsically tied together. Basically, why do we see so
+much Recombination within a species? Well, I have a cute subtitle for
+today's lecture. That is,still more reasons
+that Recombination rocks! Now, Sex and Recombination
+are intrinsically tied together. So let's first explore, Sexual
+Reproduction versus Asexual Reproduction. Now, there are several Forms
+of Asexual Reproduction, some of which you may have heard of. Asexual Reproduction can
+be through Binary Fission. Where you have basically,
+a single cell that splits into two cells, that are essentially complete
+organisms in and of themselves. You can have budding as depicted
+here on this slide with the hydra. You can see the little baby
+hydras coming off the mom hydra. We obviously, don't do that. My arm can't grow off
+into a kid who grows up. You can have Parthenogenesis, which is offspring that come
+out from unfertilized eggs. That's actually observed
+in various insect species. All of these processes produce exact
+genetic replicas of the parents. Basically, they produce clone. Sexual Reproduction, in contrast, involves the union of genetic material
+from a mom and a dad, or two parents. It doesn't have to be a mom and a dad. And they're put together. And then ultimately, before that new
+organism passes on its offspring, its genetic material can
+be shuffled in its gamete. Now, what process shuffles this
+genetic material in the gametes? It's our favorite process, Recombination. You may not know this, but there are
+several benefits to asexual reproduction. First, with asexual reproduction,
+every individual can make babies directly. In contrast with sexual reproduction as
+we humans do, you actually need to find, if you are a male, you need to find
+a female in order to produce offspring. With asexual reproduction,
+anybody can just bud off a baby. [LAUGH] So
+this is potentially a good thing. Similarly, with asexual reproduction,
+you don't need to go out and find mates. So this is something that sometimes
+involves a lot of energy. You have to sometimes have these
+characteristics that may actually be maladaptive, in general, but
+are good for attracting mates. So this is actually a big
+advantage to asexual reproduction. In contrast, sexual reproduction requires, that you actually go and
+woo your potential mate. The problem with asexual reproduction,
+offspring get all your genes. In contrast with sexual reproduction,
+offspring get half your genes. So, it seems like overall, there is a lot
+of benefits to asexual reproduction. You can pass on more of your genes. You don't need the intermediary. You don't need to go hunting and
+wooing mates. Nonetheless, we find that sexual
+reproduction is very, very common. It is particularly true in the animal,
+plant, and fungal kingdoms. We tend to see for many of the species,
+they only have sexual reproduction. And those few that do have asexual
+reproduction, it's often not complete. That basically, they'll go through a few
+generations of asexual reproduction. And then, they'll have a sexual phase. So we see all these benefits of
+asexuality, on the one hand. But on the other hand,
+sexual reproduction is very, very common. Why is this? Well, the benefits come from
+our friend recombination. So, I'm going to give you
+two major reasons but there's actually a slew of reasons that
+contribute to why sexual reproduction and recombination are beneficial. The first one we'll talk about is,
+that recombination makes combinations of alleles across two or
+more loci that may be advantageous. So imagine that, for example,
+to have maximal fitness, you need to be, you need to have
+the big A allele at one of your loci. And you'd have a big B
+allele at another loci. How do you put these things together? Recombination facilitates that and
+I'll show you that in just a second. But this is especially important
+when you have epistasis or interactions between loci that
+favor particular combinations. So let's use an example,
+let's imagine just as I was saying before, that you have a starting population
+where everybody is aabbb. Your optimal genotype has a A & B, but
+mutations from a to A are very rare. And mutations from b to B are very rare. So you have this population, are mostly
+little a, little a, little b, little b. And every now and
+then a mutation crops up. Well there's a big A, well that's good,
+but it's still not the optimal. Well there's a big B, that's good,
+but it's still not the optimal. There's a big B.
+There's a big A. If you only have asexual reproduction,
+this big A and this big B will never come together. Even if they have kids together, well obviously, they're not having kids
+together, if it's asexual reproduction. But if in some way, they interacted, you would not put this
+big A with this big B into one individual. So the question is, how could you put
+this genotype, big A, little a, big B, little b together? If you have the only asexual reproduction. You basically have to wait for
+that mutation to arise. So here this individual has a big A,
+you have to wait for a big B mutation to come up in either this individual or
+one of it's offspring in the future. And this individual here,
+you'd have to wait for a big A to rise either in this
+individual or in one of it's offspring. You'd have to wait for mutations. With outright combination, you need to wait a very long time
+to get the optimal genotype. In contrast, if you have recombination,
+you can accelerate adaptation. That basically,
+this individual could have a baby. This individual and some of the offspring
+would have that optimal genotype. Recombination can make advantageous
+mutations, get together much more rapidly. This allows for more efficient adaptation,
+second reason is related. Recombination basically helps
+you get rid of bad mutations. And in this regard,
+it helps you create or restore. And you'll see what I mean in just
+a second, mutation-free offspring. So let me illustrate this. Let's imagine a case of several
+independent lineages that are asexual. So here are your four lineages here. The first individual,
+second, third, and fourth. This right here on the far right,
+is depicting the number of detrimental mutations that we have
+per individual in that generation. In this case,
+nobody has any bad mutations. Everybody's got a 0, and
+the range that we see here is a 0. So, let's wait 10 generations. Oop!
+Another mutation arrives here. This individual is a little less
+fit than the rest of these. Well, guess what? Every offspring that comes from this
+individual is gonna have that same bad mutation. There's no way to get rid of it. There's no way for
+him to eliminate that, so all his offspring are doomed
+to carry this bad mutation. These ones are still all okay. But what's gonna happen after more time? Well, we'll have more mutations
+arising here, here, here, here. Eventually as you see,
+there's a range of 0-1 bad mutations, 0-1, a couple more have 1,
+a couple more have 1. Down here, the range is one to two. We actually have no individuals left in
+the population after a very long period of time, that are lacking bad mutations. Everybody has bad mutations. So in this regard, the population,
+as a whole, is getting more sickly. And in fact, the population gets worse,
+or sicker, and worse every single generations. A few generations later,
+you might see this distribution of number of bad mutations, again,
+nobody has zero bad mutations. The previous example you saw, it was
+just one to two but maybe after a while, it's a hump around three. Very few individuals have one, more have
+three, more than four bad mutations. You wait a little bit longer,
+you lose the zero and one. And now, everybody has two or
+more bad mutations. Essentially, again,
+the population gets worse and worse because individuals tend
+to accumulate these mutations. And they have no way to shed them. Right, there's no way to get this
+good version of this gene and this good version of that gene. And put them together. This process is called Muller's ratchet. If any of you are familiar with a ratchet, it's something that actually will
+only turn things in one direction. In this case, the analogy here,
+is that the population is getting worse. You turn it one direction. There's no way to move the,
+let me move the socket the other way. Now, if you had a recombination. You actually can get some offspring
+that don't have bad mutations. So here are two individuals that
+are both curing two bad mutations. This one has, in this case, the red is indicated a bad
+mutation rather than a good one. So this one has bad allele at A,
+bad allele at B. This one has bad allele at C,
+a bad allele at D. Well, we cross them together. Some individuals, some of the off spring
+from this will actually, will be worse. They'll have four bad mutations. Those will be very bad. Some will be comparable. This one has two bad mutations, but it has a different combination of bad
+mutations than either of the parents. But some will be better. This is the critical element. You can actually recreate
+the zero-mutation class. You can recreate some individuals
+that have no bad mutations. This one will reproduce more,
+this will reproduce some and this will probably be
+the most poor reproduction. So eventually, this is the type that
+will spread within the population. So overall, I'd have to say that recombination is
+good despite the many costs of sex. Because recombination can produce these
+advantageous combinations of alleles as I showed you. And in that regard,
+it can accelerate adaptation. Recombination also allows
+the population to get rid off, or unload itself, from these bad mutations. Essentially, it stops the ratchet. Now this will especially be true, if
+you're living in a variable environment. If you're in a very constant environment, then maybe not having
+a recombination isn't so bad. But if you're in a variable environment, you're essentially hedging your bets
+by producing more buried offspring. So this is one of the many ways that
+recombination is really good for our species. And this is why, we tend to think
+that recombination is very, very common when we work across species,
+particularly animals, plants, and fungi. And now, what does recombination do,
+in terms of, molecular evolution? Now, we've shown that it
+can combine good mutations. We've shown that it can
+get rid of bad mutations. But how does it affect neutral sequence. Sequences that really don't matter. How much does it affect? How much variation there is
+present in nucleotide sequence? This variation that has no
+particular effect out of it. But we'll come back to that,
+the next set of videos. Thank you.

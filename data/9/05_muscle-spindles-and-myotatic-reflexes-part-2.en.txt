@@ -1,0 +1,138 @@
+So so far, we've been talking about the
+operation of the stretch reflex under pretty much one set of circumstances.
+But there may be a variety of circumstances that would demand a change
+in the sensitivity of these receptors. So, it makes sense that there ought to be
+some way to change the sensitivity of these receptors even during an active
+movement. And this is where the input from the
+gamma motor neuron to the contractile elements of the intrafusal muscle fibers
+comes in. So, let's consider how this works.
+First of all, what do I mean by gain? What I mean by gain is simply this.
+Gain is the amount of extrafusal muscle contraction that can be elicited by a
+given stretch or a given load that's applied to that muscle.
+So, it's basically an assessment of the output of the motor unit relative to the
+input in the form of a sensory signal that is monitoring the length of the
+muscle. So, if gain is low, then one can imagine
+that a moderate stretch will induce only rather a modest output from the central
+nervous system leading to only a small increase in resistance given a particular
+low that's just been applied. If gain is high, then you can imagine
+that the very same sensory stimulus will now illicit a much greater number of
+action potentials in the motor output to the muscle that was stretched, and a much
+larger increase in resistance given the very same sensory stimulus.
+So, gain is a way of either dialing up or dialing down the volume, if you will, of
+this stretch reflex circuitry. So, how is gain adjusted?
+Gain is adjusted by the output of our gamma motor neurons to the contractile
+elements of our intrafusal muscle fibers. So, one way that we can think of how this
+works is that activating our gamma motor neurons resets the sensitivity of the
+muscle spindle, and this would be especially important if the muscle is
+actively contracting. Meaning, that the muscle spindle is
+getting shorter. Well, if it gets shorter, then it loses
+its sensitivity to monitor the change in muscle length.
+So, let's look at this figure and see how this might actually work.
+Now, for the purposes of this schematic we're taking the intrafusal muscle fibers
+out of the muscle. of course, they're actually embedded
+within the muscle but for this demonstration let's just simplify by
+removing these intrafusal muscle fibers. And what we can see is now, is that if we
+have a microelectrode that can stimulte the extrafusal muscle fibers, then this
+muscle can contract against some load. And if we do nothing to the muscle
+spindle, what we would see is that during the active contraction, the muscle
+spindle would grow silent. And that's because there is shortening of
+the muscle. And as the muscle shortens, then this
+intrafusal muscle fiber becomes somewhat lax.
+And that reduces the stretch that would be applied and reduces the sensory
+outflow from that group IA or group II afferent that happens to be supplying
+that muscle spindle. Now, let's imagine that we repeat this
+experiment, only now, while we stimulate the alpha motor neuron, we also stimulate
+the gamma motor neuron. So, here's the stimulation of the alpha
+motor neuron and concurrent stimulation of the gamma.
+So, notice what's happening here. As this muscle is contracting and getting
+shorter, the activity recorded from this spindle afferent is filled in.
+And so, this muscle spindle can remain sensitive to the dynamic aspects of
+length change, even while that overall muscle length is getting shorter.
+Now, these adjustments of gain, they can happen in lots of different contexts.
+In fact, they're probably happening all the time and this can be highly adaptive
+because we move in a variety of situations with a variety of goals in
+mind. So, the adjustments of gain are very much
+context-dependent. So, the gamma motor neuron activity can
+be adjusted relatively independently from the excitability of the alpha motor
+neurons. And this can largely be accomplished by
+descending inputs that are coming down mainly from the brainstem.
+We'll talk more about that in a subsequent tutorial.
+But note that the gamma motor neurons are key to adjusting the sensitivity of the
+muscle spindle. And that adjustment of sensitivity is
+itself something that can be governed from above.
+And you might imagine that this could be very important as we engage, for example,
+in sport, or perhaps, as we're engaged in circumstances that require some sense of
+fight or flight. We can imagine that an increase in muscle
+spindle sensitivity is very good for generating explosive kinds of motor
+activities. So, for example, imagine being a sprinter
+on the blocks, ready to go when the starter pistol ignites.
+So, we are ready, we're set. Well we imagine that the gain of our
+muscle spindle system is probably increased during those moments of getting
+ready and set. Because what, what we want to be able to
+do is to monitor a change in muscle length that might happen during this
+explosive outburst of motor activity that a sprinter would engage in as they exit
+the block at the sound of the starter's pistol.
+Well, that's just one example of how descending inputs can modulate the gain
+of gamma motor neurons. These adjustments very well may rely on
+descending inputs from the brainstem from parts of what we call the reticular
+formation of the brainstem that generate and then release in the spinal cord
+biogenic amine neurotransmitters. So, these are transmitters that we
+consider to be neuromodulators, because they have the effect of either increasing
+or decreasing the excitability of their post synaptic targets.
+This is exactly what we might need if we're going to adjust the excitability of
+our gamma motor neurons, depending upon context.
+There is even evidence that suggest that the presynaptic terminals of our group 1A
+afferents themselves are subject to synaptic inhibition.
+And this would be a means of cutting off the incoming sensory signal independently
+of whatever adjustment of gain we might employ at the level of the gamma motor
+neuron. So, either by adjusting the sensitivity
+of the spindle or perhaps interrupting the incoming sensory signals derived from
+that spindle, we can make the overall sensitivity of this muscle spindle system
+and its impact on the extrafusal muscle fiber, something that can be exquisitely
+controlled. I think the power of gain control can be
+easily demonstrated. if any of you are athletes or you
+participate in stretching activities either before or after some sport or some
+kind of activity involving exercise you may be wondering, well, how is it that we
+can voluntary stretch? I mean, maybe some of you do yoga or
+something like that. the fact that you can voluntarily stretch
+a muscle implies that there must be some kind of way of adjusting the gain of
+those muscle spindles because obviously you actually want to lengthen those
+muscles. You don't want that spindle to contract
+against your voluntary desire to lengthen that muscle.
+So, that implies that their must be some descending control that will adjust
+either the gain of the muscle spindle via changing the excitability of the gamma
+motor neuron and/or interrupting the incoming afferent signal that's arriving
+via that group IA or group II afferent in the spinal cord.
+all of these considerations that we've been talking about so far pertaining to
+the muscle spindle are really critical for maintaining muscle tone.
+So, muscle tone is simply the resting level of tension in the skeletal muscle.
+And this tension depends upon the firing rate of the alpha motor neurons that
+supply the extrafusal fibers of that muscle.
+The activity of those alpha motor neurons is what's regulated by the sensory
+feedback that's coming from the muscle spindle.
+And as we've already discussed, the gamma motor neuron then will be really critical
+for adjusting the sensitivity of that muscle spindle.
+And therefore, the sensory signal that is then impacting the output of the alpha
+motor neurons and therefore the tone of the muscle.
+You can imagine that if there is damage to the alpha motor neuron itself or the
+axons in the ventral root of the spinal nerve, there should be a catastrophic
+collapse of muscle tone. Because those muscle fibers not longer
+are receiving their electrical signal from the central nervous system to
+maintain their resting level of tension. One might also imagine that there would
+be a catastrophic loss of muscle tone if there should be a disruption of the
+incoming sensory signals via the dorsal root.
+and that incoming sensory information is essential for maintaining the output of
+those alpha motor neurons. So, damage either to the ventral horn,
+the dorsal horn, the ventral root, or the dorsal root, or perhaps the spinal nerve
+itself all could produce a catastrophic loss of muscle tone.
+We call this hypotonia or sometimes, sometimes, we call the muscle itself
+Flaccid to refer to this catastrophic loss of muscle tone.
+Now we'll see in a future tutorial that if there is damage, not to this reflex
+circuitry of the spinal cord but to the inputs that are arriving from higher
+levels such as the brainstem or the motor cortex, one can eventually see exactly
+the opposite response, a increase in muscle tone.
+It's as if the gain of these segmental reflexes is turned up by a loss of
+descending inputs. And this difference between saying loss
+of muscle tone or an increase of muscle tone will be absolutely critical for your
+assessment of the localization of injury based on an examination of skeletal
+muscle and the status of our segmental stretch reflexes.

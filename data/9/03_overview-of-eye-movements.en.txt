@@ -1,0 +1,119 @@
+Okay, so now that you know something
+about the extraocular muscles and the innervation patterns, we're ready to talk
+about eye movements. And as I mentioned, there are five basic
+types of eye movements. And I'd like to just very briefly mention
+them and then we'll consider each one in turn.
+Okay, so broadly speaking, we make eye movements when the two eyes go in the
+same direction. These are called conjugate eye movements,
+and there are four kinds of conjugate eye movements.
+There are saccades, which are these very quick, ballistic movements of our eyes.
+again if I give you the challenge of finding a clock in your environment and
+making an eye movement towards that clock, that's a saccade.
+Its a very quick, ballistic kind of eye movement.
+There are smooth pursuit eye movements. And these kinds of eye movements are what
+we might, undergo if we wanted to, follow the flight of a bird, for example, across
+the sky. It's slow, and it's typically guided by a
+visual target. There is another category of eye
+movements that we call optokinetic eye movements.
+And these eye movements, sometimes involve a combination of smooth pursuit
+and saccadic eye movements. they're visually guided.
+And what they do is they are a response to large-scale movements in our visual
+environment. There are some other very subtle kinds of
+optokinetic eye movements, that don't necessarily combine smooth pursuit and
+saccade. But what they all have in common is the
+visual stimulus being large-scale visual movement.
+The fourth type of conjugate eye movements, we've already discussed in
+some detail. These would be the vestibulo-ocular
+movements. And these are the kinds of eye movements
+that are necessary to look straight ahead at you while I shake my head back and
+forth. Okay, we won't talk too much about
+vestibulo-ocular movements today, since we've already had a discussion about
+that, but I want you to know where to go back to learn more about vestibulo-ocular
+movements. Okay, so these are the four congugate eye
+movements. There's also a category of eye movements
+where the two eyes don't actually go together.
+These are called disconjugate eye movements because the eyes move in
+opposite directions. And this is the kind of vergence eye
+movement that's necessary to focus on a distant object and then to a near object.
+So, for example, I might ask you to hold your finger out in front of you and focus
+on that finger tip, and then focus at a distant sight, more or less in the same
+sight line but off at a distance. And then jump your fixation back and
+forth. Well, I doubt you can see what my eyes
+are doing, but I know what they are doing as I go to focus on a distance target.
+The eyes rotate outward, and when I go to focus on the near target, my fingertip,
+my eyes rotate inward. So, the eyes are moving in different
+directions. In order to go from outward to inward,
+the left globe needs to rotate in the adduction direction, towards the midline,
+which would be a rotation to the right. The right eye has to also move in the
+adduction direction, but for that eye it's a movement to the left.
+So the two eyes are actually rotating in different directions, but to serve a
+common functional goal. Okay, in this case, changing the line of
+fixation from a distant target to a near target.
+Okay, now let's talk about each of these five types of eye movements in turn.
+And then we'll spend just a little bit of time on the circuitry that's important
+for a couple of these eye movements. We'll begin with saccades.
+So, a saccade is a quick, ballistic eye movement that allows us to change
+fixation from one target to another. And in the graph here, we see an
+illustration of a couple of key points regarding saccadic eye movements.
+So imagine a visual target comes on in this position right here.
+And what we noticed is that, it takes a bit of time for us to generate the
+saccade. Typically about 200 milliseconds is
+necessary between the onset of the target and the onset of the eye movement that
+allows us to fixate that target. So, the eye movement itself is a rather
+sudden sharp movement where we change fixation from one position to another,
+and this allows us to acquire this target.
+And this 200 millisecond delay turns out to be rather important, because let's say
+in the middle of this 200 millisecond period of time, some other target came on
+that we might choose to look at. what would happen is that we couldn't
+generate a new saccade until the completion of the previous saccade.
+So there would be another 200 millisecond delay before the acquisition of the next
+saccade target. So there seems to be a very quick an
+explosive execution of this type of eye movement that allows us to go from one
+fixation point to the next. And this is what we do all the time.
+When we're looking around at a visual scene what we do is that, we move our
+eyes from one location to the next. I would encourage you to jump on Youtube
+or some other video source, And just explore, what people have posted who
+study eye movements. And there's all kinds of examples that I
+could direct you to, where people have now begun to track eye movements.
+And, it's, it's quite remarkable what people look at and how, often one
+actually makes a change in fixation. For most of us, when we're just casually
+walking down the street or observing a sporting event, whatever we may be doing,
+we are changing our fixation about two to three times a second, which is really
+pretty remarkable. and what's equally remarkable is the idea
+that somehow, while we're moving our eyes all around these visual scenes at such a
+quick rate, our brains are generating this constant, stable, visual
+construction of what this scene actually is that we're inspecting.
+We may be tracking motion within that scene, but there's a stable scene,
+despite the ongoing saccadic movements our our eyes.
+Now one feature of saccadic eye movements that I really do want you to demonstrate
+for yourself, is that during this period of time when our eyes are actually
+moving. Maybe about 150 milliseconds of motion
+here in this particular example, and that's pretty typical for how long we're
+moving our eyes during a typical change in fixation.
+we are functionally blind during that time, at least with respect to our
+conscious visual perception. So during this interval of time we don't
+actually process the motion that is otherwise streaming into our subcortical
+visual pathways. Now, at some level, we think that
+information is present in the cerebral cortex, but it's not integrated within
+our conscious perception of the visual scene.
+So here's how you can can convince yourself of that.
+I want you to go to a place where there's a mirror in front of you, and just pick
+out some imaginary spots on that mirror. Not too far away from one another.
+Let's say within oh, maybe about 20 centimeters or so of one another, and
+just, just make fixations to one spot and then the other.
+You'll have to imagine those spots, or maybe you can actually put a little mark
+on the mirror, so that you have a visual target to saccade toward and look at.
+And what I want you to try to do, is to see if you can watch your own eyes move
+in that mirror. Well, if you're like me, if you're like
+most people, the best you'll do is just catch a fleeting glimpse of your own eyes
+move. And this is demonstration of the fact
+that, all this visual blur that we might anticipate during the motion of our eyes,
+is actually suppressed from visual consciousnesses.
+And for this reason it's, it's really quite difficult to see your own eyes
+move. Now, if you happen to be with someone,
+and that person's watching your eyes move, there'll be no doubt in your
+observer friend's mind that your eyes are actually darting about from one target to
+the next. and yet when you try to appreciate that
+yourself, it's really quite a challenge. So why don't you go ahead and pause this
+tutorial, and go find a mirror and try that for yourself.
+And when you come back, we'll move on and talk about the next kind of eye movement.

@@ -1,0 +1,130 @@
+Okay, well, now let's turn our attention
+to the parasympathetic division of the visceral motor system.
+And we see that illustrated here, on the left-hand side of figure 20.1.
+So the parasympathetic division, likewise, is a two neuron connection,
+between the central nervous system and the viscera.
+However, the first neuron tends to project a much longer distance than did
+the first neuron or the preganglionic neuron on the sympathetic side.
+And the second importance difference about our preganglionic neurons is that
+in the parasympathetic division those preganglionic neurons are found in a
+different location. They're not found in the thoracic cord.
+They're found in the brain stem, and then, in the inferior end of the spinal
+cord, in the sacral segments of the spinal cord.
+So the preganglionics are found in different locations in the sympathetic
+and parasympathetic side. And their axons tend to go quite a
+different length with the parasympathetic preganglionic axons being distributed
+typically to the end organ itself. Where the ganglia that receive the
+synaptic connections are embedded in the end organ itself.
+Consequently, the ganglionic neuron in this system extends only a short distance
+to reach the effector tissue itself. So this illustration is not quite
+anatomically accurate in that respect. These ganglia are often embedded in the
+tissue itself. so the locations here are meant to be
+more illustrative of this relationship between pre and postganglionic neurons,
+rather than describing their actual anatomical location of the ganglia that
+serve the viscera. Okay, well, with that said, let me just
+comment about the neurotransmitters, since we're here on this slide.
+And then we'll move on and see in more detail the locations of these
+preganglionic neurons. So, the neurotransmitter of the
+preganglionic neuron, like the sympathetic division is acetylcholine.
+So, these preganglionic, parasympathetic axons that supply these targets emanating
+from the brain stem and from the sacral spinal cord, are going to release
+acetylcholine in their ganglia. Well, the post ganglionic
+neurotransmitter of the parasympathetic division is also acetylcholine.
+So, acetylcholine is a prominent neurotransmitter on both sides of this
+system. Now, I should mention on the sympathetic
+side, there is one place where we know that acetylcholine is the ganglionic
+neurotransmitter. And that's right here in our sweat
+glands. So the sympathetic division is what
+activates our sweat glands, and it does so via the mechanisms of action of the
+neurotransmitter acetylcholine. But otherwise, we associate acetylcholine
+with the parasympathetic ganglionic neurons.
+And we associate norepinephrine [NOISE] with the ganglionic neurons on the
+sympathetic side. Okay.
+Well, let's now have a look at the anatomy of these preganglionic neurons of
+the parasympathetic division of the visceral motor system, looking first at
+the brain stem. So, these neurons are found in four pairs
+of nuclei of the brain stem. And, beginning in the midbrain, we have
+the Edinger-Westphal nucleus. Now, I hope you'll, you will recall that
+this is the small parasympathetic nucleus that's associated with the third cranial
+nerve. This Edinger-Westphal nucleus is found
+just dorsal and a little bit lateral to the somatic motor neurons of the ocular
+motor complex. So, we can find that in Sylvius and I'd
+like to point that out in just a moment. But for now, just know that the
+Edinger-Westphal nucleus is a parasympathetic nucleus of the midbrain.
+The remaining parasympathetic nuclei of the brain stem are found in the caudal
+pons and in the medulla. So in the caudal pons, we have a set of
+nuclei that we call the salivatory nuclei.
+So these nuclei, provide for parasympathetic outflow to our tear
+glands and our saliva glands. Now, just at the junction of the caudal
+pons and then down into the upper part of the medulla, we have our dorsal motor
+nucleus of vagus and the nucleus ambiguus.
+Now the dorsal motor nucleus of vagus is a primary source of axons that supply
+visceral targets via the vagus nerve. one additional, contribution to that
+vagus nerve, that is very important in governing the activity of the heart,
+comes from a set of cells that are anatomically associated with the nucleus
+ambiguus. So, the nucleus ambiguous really has at
+least two distinct populations of neurons.
+There are the brachial motor neurons, that supply the muscles of the larynx and
+the pharynx. And then there are these parasympathetic
+preganglionic neurons that are involved in slowing the heart.
+Okay? So these are the four major sources of,
+parasympathetic preganglionic neurons in the brain stem.
+And here they are in cross-sections. So here's our Edinger-Westphal nucleus,
+up in the midbrain. Somewhere in this location, we don't need
+to attempt to find it precisely, are the salivatory nuclei.
+My, my colleague, Mel Cant, who helped me write these tutorial notes for you, often
+notes that, there are very few people in the world who know where to find the
+salivatory nuclei in the, caudal pons in the upper medulla.
+Well, a little bit more prominently and a little bit easier to find is the dorsal
+motor nucleus of vagus and the nucleus ambiguus which are found in the upper
+part of the medulla. So here we are in Sylvius and let's just
+find the structures. So, if we, look at the midbrain section,
+what you'll see if we follow back the nerve roots of the ocular motor nerve is
+our ocular motor nucleus. So this is the source of the somatic
+motor, outflow that governs those, strided muscles that we have in the
+orbit. And, a levator muscle that opens our
+eyelids. But just on the dorsal aspect of this
+oculomotor complex is where we find our Edinger-Westphal nucleus.
+So again, this nucleus gives rise to parasympathetic preganglionic axons that
+have their cell bodies here. And then they grow their axon out through
+the third nerve to constrict the iris in the eye.
+Alright, so, next let's jump into the caudal part of the pons.
+And somewhere in this tegmentum, in the, core of the brain stem, is where we would
+find our salivatory nuclei. So we don't identify them in Sylvius.
+I don't happen to be among the small number of people in the world that know
+precisely where to look for these neurons.
+I suspect I could find them if we were looking at a Nissl stain.
+But, in a Myelin stain, there just aren't enough cells to produce a distinct
+cluster of, of, gray matter that we could recognize in a Myelin stain here.
+So I won't attempt to point out where those salivatory nuclei are.
+However, if we go into the upper part of the medulla, maybe just go down one more
+section. I certainly can highlight the location of
+the dorsal motor nucleus of vagus. So this is a major parasympathetic
+preganglionic outflow that supplies for much of the innervation of the vagus
+nerve throughout the viscera of the thorax and the abdomen.
+Now, in a more anterior position in the tegmentum, we find the location of the
+nucleus ambiguus. And so with respect to visceral motor
+control, this is where we find our cardio-inhibitory parasympathetic
+preganglionic neurons. Well, that's it for the parasympathetic
+preganglionics of the brain stem. to find the rest, we need to move into
+the sacral segments of the spinal cord. So, let's do so.
+And, find our way down to the, most inferior section in our brain stem spinal
+cord atlas. And, here we are in the sacral level of
+the spinal cord. I know that because there's a very large
+ventral horn, and not much white matter associated with the spinal cord.
+And if we look into the dorsal column region, we find that there is only one
+division of the dorsal column, a gracile tract, no cuneate tract.
+So, hopefully those cues are now beginning to register with you, as you
+look at cross-sections at different levels of the spinal cord.
+Okay, so we're looking for our preganglionic parasympathetic neurons.
+And we find them in a location that's somewhat similar to where we found a
+lateral horn of the thoracic cord. But in the sacral cord, we really don't
+have a distinct lateral horn. Rather, we just have fairly, a smooth
+outline of the dorsal horn and the intermediate gray between the dorsal and
+the ventral horn. Then, of course, a very large bulging
+out, ventral horn. So, we don't have a lateral horn, but we
+do have a column of cells that we can recognize as our sacral autonomic nuclei
+or our preganglionic parasympathetic nuclei.
+So this is where they're found. Okay?
+So, let's return to our slides and consider this arrangement in a more,
+illustrative configuration.

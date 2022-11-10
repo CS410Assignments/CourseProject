@@ -1,0 +1,168 @@
+Well welcome back, I think we're ready to
+continue to discuss the organization of upper motor neurons and focus on the
+premotor cortex. So my learning objective for you, is that
+I want you to be able to discuss the organization of the premotor cortex, and
+its contributions to the control of volitional movement.
+So, I'll remind you again that the premotor cortex is a region of the
+posterior frontal lobe, that sits just in front of the pre-central gyrus.
+it might include a bit of the anterior bank of the pre-central gyrus but it
+extends into the posterior part of the superior, middle and inferior frontal
+gyri. And it also extends onto the midline of
+the hemisphere. here for example is our paracentral
+lobule, so this is where we would find our primary motor cortex and then just
+anterior to it. In the medial bank of the superior
+frontal sulcus, and then in the banks of the cingulate sulcus, including the
+cingulate gyrus itself we find a medial extension of that pre-motor cortex.
+Illustrated here in this slide is the distribution of the premotor cortex.
+And a rhesus macaque brain, where the details of organization are much more
+clear. At least at this stage in our
+understanding. So where we find this more orangish
+color, that's our premotor cortex. Now there has been a fairly radical
+change in our thinking about the premotor cortex in recent years.
+some time ago we imagined some kind of hierarchical organization where the
+premotor cortex was primarily involved in planning movement.
+But the actual execution of the movement required signals that were derived from
+the primary motor cortex. So it was thought that the premotor
+cortex at a higher plane in some kind of hierarchy for motor control.
+Well, those concepts are, are beginning to unravel as we have the greater
+appreciation for what's actually encoded in the motor cortex.
+But we also, understand much better now that the premotor cortex itself, gives
+rise to descending projections to lower motor neurons.
+So the argument for premotor cortex, being conceptualized as a higher plane
+for motor control seems to be losing some of its attraction.
+I think the concept that is becoming much more viable, and frankly much more
+interesting and, and productive for understanding upper motor systems.
+Is the notion that this premotor cortex actually comprises of a mosaic of
+areas. That have some kind of modular
+organization, reflecting the encoding of ethologically important motor behaviors.
+Now it is helpful to find some way to simplify our understanding of this
+mosaic. And I would suggest a means to simplify
+would be to recognize a medial part of our premotor cortical mosaic in the
+lateral part. Where exactly one would make that
+division is not so clear. But perhaps one would, would roughly
+subdivide this premotor cortex at about the location of the superior frontal
+sulcus. So, our medial division of the premotor
+cortex, corresponds to what in the older literature was, described as a
+supplementary motor area. So for those of you that are looking at
+other resources its support of your learning, you, you may run into that
+phrase supplementary motor cortex. It's certainly is still used in both
+clinical and scientific discussion. But for our purposes, we'll simply
+consider that supplementary motor cortex or SMA for short, a division that is
+localized here to the medial part of the premotor cortex.
+Now included in that medial part of the premotor cortex, is a very interesting
+set of regions, here in the banks of the cingulate sulcus that will spend just
+little bit of time talking about. They seem to be involved in the
+expression of emotional behavior. Out on the dorsal lateral convexity of
+the hemisphere, we see other regions of this regional medial premotor cortex that
+are concerned with organizing bi-manual activities.
+And this implies that they have a rich set of colossal activities, as they do so
+bimanual coordination seems to be a function of this premotor cortex.
+There is also a division of this medial premotor cortex, that is especially
+concerned with governing voluntary saccadic eye movements, we call this
+region the frontal eye field. And this is a part of the premotor cortex
+that helps to orient our attention, and therefore what we're looking across the
+midline to some location in the contralateral visual hemifield.
+Now generally speaking, these medial parts of the premotor cortex seem to be
+especially involved with organizing movements that are self-initiated.
+Movements that are not necessarily triggered or directed by sensory cues.
+One example of what I mean by this, in the frontal eye field, would be turning
+our gaze to some object in the contralateral part of the visual field
+that we intend to look at. Perhaps there is a clock, over to your
+right and you want to look towards your right, to see what time it is.
+so, there wasn't necessarily an emerging stimulus that just grabbed our attention,
+rather there was an intentionality, about the shift of gaze and that intentionality
+was self initiated. Now contrast that if you will recall to
+the role of the superior colliculus in organizing eye movements.
+If you're outside and a bolt of lightning happened to strike somewhere off in the
+distance to one side. You may very well make a reflex movement
+of eyes and head posture in order to see that bolt of lightning while it persists.
+Well, that is a reflex of saccade that's coordinated at the subcortical level,
+through circuitry that involves the retina sending signals to the superior
+colliculus. And then the colliculus sending output
+that governs the movements of the eyes and the muscles that orient our head and
+our neck. We call that a reflex saccade.
+that wasn't self initiated in the same sense, as the desire to see what time it
+is. So now lets turn our attention to the
+lateral parts of the premotor cortex. Here what we find is a mosaic [UNKNOWN]
+that are involved in organizing movements, that are often guided by
+sensory information. Or at least with the interactions that we
+might have with the world around us, and that would include social interactions as
+well. For example, we find areas that exist
+here in the inferior part of this pre-motor cortex, that are especially
+concerned with social communication. Now for us and the human brain we can
+recognize one region that is of great interest, and it's found in the posterior
+part of the inferior frontal gyrus. And this is a region that goes by the
+name Broca's area. So, Broca's area is part of this premotor
+cortex, that organizes the vocal motor apparatus for the production of speech.
+They are very likely nearby regions also part of this premotor mosaic, that is
+involved in the production of language in written form.
+Either through the act of writing with a writing implement, or, of course now, we
+can touch on keyboards and touchscreens. And that is a motor act, that is involved
+in communicating thought. And semantic content through symbolic
+representation, and that seems to be one function of these more lateral and
+inferior divisions of this premotor mosaic.
+Also in this same region of the pre-motor cortex, we have some really fascinating
+neurons that have captured world wide attention in recent years.
+These are neurons that are concerned not just with the expression of movement,
+that we make with our own body, but also encoding the intentions of movements that
+we see other individuals perform. And because of this mirror like capacity
+of encoding our own movements, and observe movements, such neurons with this
+behavior are called mirror motor neurons. Mirror motor neurons were discovered
+quite accidentally, when recordings were being made in this lateral premotor
+cortex, while monkeys were engaged in visually guided reaching behaviors to
+pick up a small object. And what was observed, is that when the
+monkey simply sat passively while the experimenters reloaded the apparatus by
+executing a very similar type of hand movement.
+The neurons in the premotor cortex in the monkey's brain, responded at the sight of
+the human hand performing the very similar act that the monkey himself was
+about to execute. This is illustrated here, in this figure
+from our textbook. what we find is a recording from one such
+neuron in the lateral part of the premotor cortex.
+And we're looking at raster plots, such as what we saw previously, so each row is
+an individual trial. And each little tick mark represents an
+action potential. What was really surprising at the time
+was that the very same neuron, was seen to increase its firing rate when a very
+similar act was observed in a different agent.
+In this case the hand of the experimenter.
+Well as you might imagine this was a really shocking discovery that neurons in
+the motor cortex might represent movement observed in another person.
+So, quite a lot of work has gone on in the last two decades or so to really
+explore, the encoding of movement and tension, that is observed here in this
+lateral premotor cortex. what is discovered is that these neurons
+seem to care about the agent itself. if a tool is used for example, to preform
+a particular movement goal, then this neuron might not be concerned with that
+particular behavior. In this example, if a food pellet is
+retrieved with a pair of pliers this neuron doesn't seem to fire.
+whereas the natural movement that the monkey makes, or is observed by a human
+hand will elicit a robust set of discharges in this premotor neuron.
+very interestingly, if the monkey is prevented from actually observing the
+contact of the hand with the food pellet, that is the consummation of the motor act.
+by occluding that view with some kind of a screen, we still see activation of this
+so-called mirror motor neuron in the lateral premotor cortex.
+It's as if what this neuron is encoding, is the goal of the behavior, or the
+intention of the behavior, which in this case, is executing your precision grip to
+retrieve a pellet. Even when that act is not observed,
+there's still activity in this premotor neuron.
+So the discovery of these mirror motor neurons has really led to, I think, a
+really remarkable hypothesis. And that is that, the lateral part of the
+premotor cortex is involved in encoding the intention of movement.
+And that movement intention might provide a foundation for social cognition,
+because these neurons are concerned not just with my intentions, but also with
+your intentions. When we observe the activities of others
+we might actually represent that behavior within our motor system.
+And that might give us a sort of knowledge or understanding of the
+intention of that motor act. And this is a very active and frankly
+quite controversial domain of cognitive neuroscience at the moment, so we don't
+quite know how this is going to all play out.
+But, I do suspect that this is an important discovery, that is going to
+inform our understanding of social cognition.
+Perhaps even the basis for disorders that lead to impairments in social cognition
+such as some developmental disorders that result in the autism spectrum of
+disorders. This also provides some intriguing
+possibilities for intervention. If, in such neurodevelopmental disorders
+of cognition, there may be an underlying problem with the motor system.
+Then perhaps there is a movement-based intervention, that might help to
+restructure connections in this part of the brain that could produce some
+functional benefit to the patient. Well, that's total speculation on my part
+at this point. But I think it's an interesting idea
+that's worthy of some study.

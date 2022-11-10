@@ -1,0 +1,117 @@
+Hello welcome back to Introduction
+to Genetics and Evolution. In this short video I'd
+like to actually talk about measuring effects of gene flow and
+how we basically model effects of gene flow among populations whether
+they be human or otherwise. As I mentioned in the very last video,
+gene flow is why we don't see bigger differences or
+bigger FST values among human populations. And in fact, gene flow is referred to as
+the great homogenizing force in evolution. Some people call it the great
+retarding force in evolution. Now, what is gene flow? Gene flow is basically just movement
+among populations where you go there and you reproduce. It's different from dispersal in that
+you actually go to a different place and you reproduce there. Such that it's not like you disperse, you
+go some place and you come right back and you keep breeding in the same place. But you actually have to be
+going to the other place and actually breeding over there. Leaving your offspring over there
+relative to say where you were born. Now, gene flow makes populations'
+allele frequencies converge. Basically, it makes divergence either get
+either stop happening or even undoing it. So if you imagine this population here
+where in the left side we have all these little black alleles, on the right side we
+have all these white alleles, over time, if you have a couple of black ones,
+some of the white ones go there. And there it's just random
+who's being selected here and taken over there,
+randomly some are selected from there and coming back, overtime you'd have
+this fairly intermingled population. And the differences that you
+saw in the beginning are gone. You could think of it almost like taking
+a little bit of paint from two buckets. Maybe you have red paint bucket and
+a blue paint bucket. And you use a syringe,
+you pull some up here and put it in there, use a syringe from there and
+pull some up and put it back, okay? Now, how does gene flow happen? Well again, organisms or
+gametes move to a new location and they reproduce there,
+as you see with some of these examples. Nice thing is the dandelion. I always like to think of that, because
+we see these just blowing around in different places and that more
+dandelions cropping up in other areas. Now, the math assumes that it's
+random with respect to genotype. Right?
+We're not assuming that particular genotypes are more likely to migrate or
+less likely to migrate. Now, let me introduce a couple
+of general models for gene flow. So here are some models of gene flow. The first one I shall introduce to you is
+referred to as the continent-island model. So imagine we have a very large continent
+which has a huge population size that we can approximate as almost infinite. We have a very small recipient
+population that actually's receiving some migrants from the continent. We're assuming in this case that the
+effect of the continent on the island is huge, but the effect of the island
+back on the continent is so negligible we don't even have
+to consider it mathematically. So that's referred to as
+the continent-island model. Another general category of
+models are island models, and you can see this depicted here, where there's a lot of different islands
+exchanging migrants with each other. You may have them like this, where
+they're all exchanging with each other or you may have something more like
+this a stepping stone model where they don't all exchange with each other
+but they do by way of other islands. We're not really going to talk
+about the stepping stone model, I just wanted to show
+you what it looked like. We'll introduce just a general
+continent-island model and a general atom model. The outcomes of these are just
+slightly different from each another. In terms of the Continent-island model,
+let's say for example, the red in this graph so the x axis here is generation,
+the y axis is allele frequencies. The red here is depicting the allele
+frequency in the continent which we'll say is 0.5. The blue is depicting the allele
+frequency on the island, which we'll say is 0.9 for big a. What we see happening, and this is with
+a very low migration rate, this just means that 1% of the individuals on the island
+are recent arrivals from the continent. Then we see this decay of allele
+frequency down to the continental value. Okay.
+We're assuming in this case again, there's an effect of
+the continent on the island. But we're assuming the island's
+effect on the continent is so negligible we don't even have
+to consider it mathematically. But in this case I've just
+modeled 500 generations. And we see that by the end basically, the island looks just like the continent
+in terms of allele frequencies. This probably happens quite a bit. Let me show you a slight different ones,
+a totally different example. Here's the island model. Let's imagine we have four islands
+exchanging genes with each other, same sort of figures. This is going 500 generations
+on the x axis and the y axis indicates allele frequencies. Now, let's say the island has four
+different allele frequencies, 0.9, 0.65, 0.35, and 0.1. So then you can imagine maybe these are
+some of the Galapagos Islands exchanging alleles with each other. And again, with even still a fairly low
+migration rate we see they all converge on the same allele frequency. Importantly, the allele
+frequency they converge on, assuming that this is symmetric
+migration everybody's receiving and sending out the same
+proportion of migrants. The equilibrium allele frequency or the
+allele frequency on which they converge upon is the mean of all those islands. So if you take the mean of all
+these numbers, that would be 0.5. And you see by 500 generations,
+they're all pretty much at 0.5. And what are the relevant variables? Essentially what exactly affects
+how fast we see this convergence? In the continent-island model, the island
+arriving at the continental value or in the island model of all of them
+coming to the same allele frequencies. How fast do the become similar? Well there's two parameters. First one is migration rate,
+how many migrants move? So in the previous examples
+I showed you is about 1%. If you have more migrants
+they converge even faster if you have fewer migrants it
+would converge even slower. Of course, more migration leads to
+bigger changes in allele frequency. The other thing is how different
+the allele frequencies are? That if you have allele frequencies
+that are very different, you see bigger changes per generation. Because again you're converging on the
+mean, so if you're starting further up, you'll take bigger steps in because
+you're having migrants that are even less representative of what was
+already there in your population. Obviously, another parameter is gonna
+be the number of generations, but my question in this issue was what
+affects the speed of convergence? But the number of generations
+is obviously important, too. That is you have even low levels of
+migration for a very long period of time, you can erase all the divergence. Now, importantly there
+are some assumptions here. The assumptions include that
+migration rates are symmetric. They're independent of genotype and we're
+assuming there's no difference in fitness. We're assuming that the migrants are not
+somehow less fit or something like that, especially with regard to their
+genotypes that are arriving. Let me show you a couple of applications. Now, Glass and Li,
+in a classic study back in the 1950s, measured European gene flow
+into African-Americans. And what they did is they got these
+PTC allele frequencies from Europeans, West Africans, and
+African Americans and from that, they did some very simple math which
+we won't go over in this case. And we were able to estimate from this, a per generation
+contribution of about 3.58%. Some of you may not be familiar with PTC,
+but PTC is something that particular individuals can taste very strongly
+while other individuals cannot. It seems to have a very
+simple genetic basis. And you use these sort of test papers
+like this handsome individual's using. Uses test papers, see if you can taste it. So it's a very easy thing
+to test out there, but from this they're able to look at the
+little frequencies in this populations and estimate the per generation migration
+rate, which is pretty cool. Given the number of generations since
+they've estimated this is over about ten generations. Given this number of generations
+they estimate about 31% of the African American genetic makeup comes ultimately from European ancestors
+which is potentially somewhat surprising. In the next video, I'm gonna go over
+a very different deviation from Hardy Wynberg, but it relates back to what
+we talked about previously in terms of genetic differentiation and
+random meeting as in FST. Thank you.

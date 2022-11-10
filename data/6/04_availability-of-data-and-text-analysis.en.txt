@@ -1,0 +1,53 @@
+So far, we've been focusing on the analysis
+of numerical data to detect fraud. But textual data can also be used to find fraud. Organizational frauds, as imagine, typically
+aren’t perpetrated by one person. Bribes to foreign officials, conspiracies to falsely
+inflate financial statements you might, or price fixing don’t occur in isolation. Many
+people can be involved, and typically those people communicate by email. An analysis of
+email communications within an organization could lead to discovery of these frauds. But textual analytics can be used to review
+all types of documents, not just email. For example, consider Management Discussion and
+Analysis in a set of financial statements. Frequent use of words such as “adjustment,”
+“anomaly,” “irregularity,” “inconsistency” might be a red flag to conduct further inquiries. Often, fraud examiners can look for certain
+“key words” that are associated with certain types of fraud schemes. For example, groups
+of emails containing terms such as “override,” “write off,” “adjust,” “just once”
+“won’t get caught” could be indicative of a financial statement fraud scheme as well
+as many other types of schemes. Machine assisted review of emails containing
+words potentially indicative of fraud can help identify schemes before they occur.
+But while automated review can assist in reviewing large amounts of documentation, careful human
+analysis is just as important. Careful analysis of management statements and other official company communications can reveal areas where the company may be avoiding discussing sensitive
+issues or using vague terms or words to hide the truth. Data exists in many forms and in many locations. Obviously, as we mentioned, the fraud examiner
+will want to work with the IT department to review the accounting and enterprise information
+systems data collected by the organization. But there are other sources as well. Public
+records can be a great source of information about individuals and businesses. For example,
+a criminal conviction search can identify previous instances of misconduct or financial
+misdeeds by people or companies. Social media and the web can lead to valuable
+information about individuals or businesses who may be subjects of your investigation.
+People will often post things to social media sites that may be of interest to a fraud examiner.
+For instance, let’s say you suspect a particular employee of engaging in a kickback scheme.
+Recent posts by that employee showing expensive purchases or vacations might be evidence of
+unexplained wealth. Also be aware that company policies often
+allow for search of personal electronic devices such as smart phones and tablets. Such searches
+should only be conducted when necessary, and of course, counsel should be consulted beforehand,
+but they can provide valuable information in some circumstances such as a data security
+breach. Digital data has a greater life cycle than
+most people realize. Just because a subject deletes data from a hard drive, mobile device,
+or peripheral device such as a USB drive, that does not mean that it is unrecoverable.
+With the right software tools, digital forensic experts can often recover data even if the
+user attempted to delete it. It is important to remember not to destroy
+or change data inadvertently, however. For example, if a device is off, you should never
+turn it on. Doing so changes important time and date information on the system. Likewise,
+shutting a system down using normal procedures will also change important information.
+The best practice is to leave everything as is and ask a digital forensic professional
+to assist you. He or she will use approved hardware and software systems to make an image
+of the hard drive. This can be done without harming or altering the original drive. That
+way any evidence found on the drive will be preserved for use in judicial proceedings.
+This week covered a variety of topics, mostly in the digital space, including big data and
+technology-based tools and techniques. We started with a need to identify the correct
+type and amount of data. From a practical perspective, no case is investigated with
+an “open checkbook.” The fraud examiner and forensic accountant needs to develop evidence
+to support their opinions and ensure that no disconfirming evidence exists.
+Our next topic looked at the some of the tools and techniques used to analyze data and showed
+how some of the tools and techniques were used to perpetrate and conceal the WorldCom
+fraud as well as those used to detect it. We wrapped with a discussion of data mining
+including the electronic evaluation of text evidence.
+As with all of our material, you can learn more by visiting the West Virginia University
+and Association of Certified Fraud Examiner websites. Thank you for your participation. We look forward to working with you in the next section.

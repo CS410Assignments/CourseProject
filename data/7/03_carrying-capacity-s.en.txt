@@ -1,0 +1,152 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous video, we talked
+extensively about population growth rate. I identified for you the intrinsic
+rate of population increase. That is the birth rate
+minus the death rate. For most species, the birth rate tends
+to be much higher than the death rate, meaning the capacity for
+growing is very high. In this video I'd like to introduce to
+you the concept of carrying capacity. That is the maximum number of
+individuals that could be supported in an environment the way it is. Now I showed you this slide previously. This is looking at human population growth
+over the last several thousand years, and projecting into the future. And you can see human
+population growth is very high. Our birth rate greatly exceeds
+our death rate, presently. And you can see this by this increase
+in number of individuals over time. Now, our growth rate has slowed
+since 1960s, 1970s so, meaning that the difference between the birth
+rate and the death rate has gone down. But it's still positive. There still are more people
+born than are dying. Now, intrinsically this is not a problem, but what if there are not enough
+resources to sustain everyone? Well, this again ties into that
+concept of carrying capacity, which is often abbreviated as K. Now this is the total number
+of individuals that can be supported within a population. Well, what determines
+this carrying capacity? What determines how many people
+can be supported in a population? Well the answer is,
+it's determined by the environment. Now, the question is, what happens when
+you exceed this carrying capacity? What happens when you go too high? Well, there's two things that can happen. The number of individuals that
+are present cannot be supported. So either you have to have a very
+sudden decrease in birth rate, that everybody holds back reproduction. That typically doesn't
+happen in most species. Or you can have, unfortunately,
+an increase in the death rate. So let's think about the impact
+of human population growth. Now, our world population already
+exceeds 7 billion people. Now, most of this growth, as I mentioned
+has come about and is sustainable so far because of increases in hygiene,
+in medicine, etc. So, and also, additionally to that, we
+are much better at producing food and etc. And technology has compensated. It's prevented these mass famines. There are still some famines in
+some parts of the world, but technology has definitely helped. The question is how long will this last? For many years people have
+talked about a population bomb, that at some point in time
+we're going to hit the wall. Now again,
+technology has staved this off for part of the world but
+not all of the world. What's going to happen next? Well let me ask a different
+question first. Why haven't we all starved yet? Why is it that we are able to get
+all the way above seven billion? Well again, so far food production, and
+this is averaging across the whole world, again some parts of
+the world don't have this. Food production has increased
+faster than population increased. The food production has actually increased
+three fold while population has only increased two fold in
+the span of this figure here. Now, that can only work to a certain
+degree because the food that we use, it can only be produced so fast, and we're continuing to reproduce
+at very high levels. So, let me give you a problem to try. Let's use the formula that
+I gave you before, N sub t, which is the population size at time t,
+is equal to N sub 0 e to the r t. Now let's say the current
+world population is 7 billion. Let's pretend, I just made this number up,
+the carrying capacity of the Earth is 20 billion, and let's say that's
+a future carrying capacity. And let's say that r is 0.012. That's the difference between
+the birth rate and the death rate. How many years until we
+have massive deaths? Well I think that was a pretty
+straightforward problem. Again, we have the formula. N sub t = N sub 0 e to the rt. Now what we're looking for
+is getting to this carrying capacity. And we'll say that's
+the time we're looking for. So N sub t then would be 20 billion. That's the carrying capacity we identify. N sub zero is 7 billion, approximate for
+the current population so that's not exact anymore but
+it's close and R is is equal to 0.012. When we put in all the numbers
+just as we had before, 20 billion equals 7
+billion e to the 0.012t. So let's solve this out then. We divide 20 billion by 7 billion, and we get from that 2.85 equal to e to the 0.012t. And so all I do is divided
+20 billion by 7 billion. That's how I got this. So I take the natural log of both sides. Natural log of 2.85 is
+just a little bit over 1. So that would be 1.05 is equal to 0.012t. Now I divide both sides by 0.012. And what I get is t is equal to about 87,
+so 87 years. Now I assume the world can
+hold 20 billion people. That may or may not be true. That may be a high estimate. Maybe that's more that can actually
+be supported on the Earth. Could be a low estimate. But 87 years until we start
+seeing massive death. Well is it gonna be massive deaths? Well what happens when we
+hit carrying capacity? Well, one possibility is
+we may see a sudden crash. So this is a typical graph you'd see,
+where you see the carrying capacity and then boom the population goes down. And it goes down dramatically. So what caused this would
+be a lot of people dying. This has been observed in some cases. This shows, as it depicts over here,
+the populations of the St. Matthews Island reindeer herd. They saw this dramatic
+increase in numbers, and then a very sudden loss of resources,
+and boom, crashed down. That was very unfortunate. You may also see a leveling off. You may see it goes up, then it comes
+down a little bit, and it oscillates, stays around the carrying capacity. This was observed in some classic
+studies using paramecium, where here's P cardatum or P aurelia. It would increase to a level and
+then level off. Now, leveling off sounds good,
+leveling off at a carrying capacity but you have to think of what
+does this actually mean. When you level off you're either
+having a decrease in birth rate. I'm not sure if you're
+actually gonna have that. The alternative is you're having
+an increase in death rate. That is obviously less positive. You may see different
+outcomes in different places. Maybe in some parts of the world you would
+actually have a decrease in birth rate enough to level it off. Other parts you may see
+an increase in death rate. But this leveling off or what's often
+referred to as the logistic model of population growth is not necessarily
+a very good thing to happen. I mean, it's good in the sense that
+it stops population growth but it's bad in that it often means we
+are having in increase in our death rate. So if things are remaining unchanged,
+at some point in time, human population growth will exceed
+our ability to support that growth. So what do we do about this or
+what do we do next? Well, there have been some
+proposals of what to do and I mentioned the one child policy which was
+an attempt to decrease the birth rate. There have been more
+disturbing ones though too. So Ronald Fisher, who is the person who actually invented
+the analysis of variance test. Ronald Fisher suggested in his 1930 book,
+and this is a very disturbing proposal. The most obvious requirement from society
+capable of making evolutionary progress, in accordance with its current needs, is
+that reproduction should be somewhat more active among its more successful,
+than among its less successful members. It's a direct quote from his book. So basically,
+he was advocating as he put it himself, a moderate superiority of
+upper class fertility. That basically we should let people in the
+upper class reproduce more than people in the lower classes. That is a very disturbing proposal,
+one with which I don't agree at all. We'll come back to this thing, though, later in a later lecture that's referred
+to as Evolutionary Applications and Misapplications, with
+emphasis on that later point. Now you may be wondering,
+how accurate is this math? I mean I just gave you a bunch of numbers
+there and it looks a little scary but is this actually meaningful? Well, there are some assumptions. One of the assumptions
+is assuming constancy. It's assuming that the intrinsic
+rate of increase doesn't change. And we know that's not always true. And we know that again that the rate of
+increase is not the same in all different populations. We look at the developing world,
+for example, the rate of increase is much faster
+than in the developed countries. Now what this is showing
+you is an age pyramid. On the left side of each line here is
+the number of males, on the right side is the number of females, and
+this is the population in millions. And the y-axis here is age. So, in this case, there's a lot of very
+young individuals, not so many old. In developed countries we tend to
+see fairly even distribution of age. There's about as many 60 to 64 year
+olds as there are 20 to 24 year olds. And you can see this by the numbers too. In sub-Saharan Africa 43% of
+the population is under age 15. In contrast, in Europe, only 16%
+of the population is under age 15. Same sort of difference when
+you're looking at the older ones. In Europe,
+16% of the population is age 65 or older. In sub-Saharan Africa,
+it's only 3% of the population. So this is going to effect the rate
+at which populations are increasing. And the numbers I give you are assuming
+this constant age structure, which you won't necessarily see. You'll often see this difference
+between rapid and slow growth. The other thing is that
+carrying capacity can change. So you can have innovations in farming. That would be a positive change,
+where maybe those innovations will allow more food to be produced than
+was able to be produced before. That might raise the carrying capacity and
+stave off the problem. In contrast, you could have depletion of
+non-renewable or less-renewable resources. That would be very negative. That's probably what happened in the
+context of those island reindeer that you saw before. That there was some resource
+that they were consuming and once it was consumed it was gone. And it was gone not such that it could
+just come back the next year, but it was gone for quite some time. That could dramatically reduce
+the carrying capacity and it could cause it to start at one place, and then
+in future generations be much, much lower. So you'd have a much more severe
+crash than you would otherwise. You could also have other changes in
+the environment that again make it so you could not support as many individuals. Some species I mentioned
+exhibit these booms and busts, while others have more
+of a cyclical process. So again this is the St Matthew's Island
+reindeer herd, went up very high and then crashed very, very hard. In contrast, this is a case of
+the lynx and hare in Canada. We see these population cycles
+that rabbits become very abundant, lynxes eat them,
+lynxes become very abundant. But after lynxes become very abundant,
+the rabbits are mostly gone, lynxes crash. The rabbits then grow after lynxes crash. So you have this booms and
+busts over and over again. Honestly, we don't know
+what's going to happen. And, you know, these are all just
+possibilities that we're looking at. The important thing here is we can
+mathematically show that this is something to be aware of and concerned about. Ultimately, the math isn't perfect, but it's a starting point, just as I said
+before in the context of variability. This is informative for
+a particular circumstances or for. Thank you for your time,
+hope this was interesting.

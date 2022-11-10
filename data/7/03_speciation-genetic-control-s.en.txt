@@ -1,0 +1,180 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. We've been talking about the process
+of species formation, or speciation. This again is what leads to the
+biodiversity that we have on the planet. So far, we've talked about the formation
+of different clusters, basically what is it that makes one species genetically
+distinct from the others. Fundamental thesis,
+they do not exchange genes, or at least they do at a very,
+very low level. The things that prevent gene
+exchange are these barrier traits. We then talked about the geography
+of species formation. We talked about how some species
+are formed in geographic isolation or by allopatric speciation, and
+others seem to just split off. Now this would be sympatric speciation. Now we also talked about
+direct selection for species formation in
+the context of reinforcement. What we'll do now is build
+on all these to look at the genetic changes needed
+to make a new species. What is the genetic basis of speciation? Well, as I mentioned earlier, genetics of species formation is the same
+as the genetics of these barrier traits. Why is it that species one has
+a preference for this particular sound or species two has a preference for
+a different courtship sound? Well, it's because there's
+an underlying genetic basis. And by knowing the genetic differences
+between species that are causing these barrier traits, like this difference
+in courtship song that you heard. We can see the genetics
+of species formation. The problem we have though is
+there's an intrinsic contradiction that we can't do genetics
+between species easily because, by definition,
+we can't get crosses to work. So, how do we do this? Well, we get around this problem by
+using incompletely separated species. Now, importantly,
+barriers are not always perfect, right? That we can actually have a little bit of
+gene exchange between things we consider to be good species. And sometimes these barrier traits
+are actually weaker in the lab than they are out in the wild or
+in nature. The other thing is that when we look
+at hybrids, in specific whether hybrids are sterile, we sometimes see
+that one hybrid sex is sterile or dead. And thus we can study the genetic basis of
+crosses between those two parental species by using crosses to the other hybrid sex. Now, we'll focus on hybrid
+sterility in this particular video. Now obviously, we can study the genetic
+basis of any of these barrier traits and those are fundamentally important
+to studying speciation. But why is it that hybrids are sterile? Well, again, hybrids only have
+the alleles of their parental species. So a mule only has one chromosomal
+complement from horse and one chromosomal complement from donkey. Given that was fine in horse and
+given that was fine in donkey, why is it when put together,
+they don't work? Well, this is the question. No gene functions to cause sterility. There is no sterility gene in that
+the normal function of this gene is to cause sterility. Obviously if the gene's function
+was to cause sterility, then the species wouldn't exist. But it's more likely what's happening is
+we are having disruptions of the normal function, specifically in hybrids, and
+that's why we see hybrid sterility. It's thought that the interactions that
+are causing hybrid sterility are from alleles from one species with
+alleles from the other because otherwise you would see sterility
+within species as well. So what we can do is we can try to map
+hybrid sterility within the genome through QTL mapping,
+just like we discussed it before. It's a little bit of a tricky trait,
+because it's something that you should only find with this interaction between
+some genetic material from species one and some genetic material from species two,
+okay? So it's a little bit funny in that regard. Now one important thing to
+consider here is that single gene speciation is probably not the answer,
+at least not very common. Now imagine a situation where
+the heterozygotes are sterile. So let's start up an ancestry
+population where everybody's AA. And let's say that Aa is sterile. Well we have the first mutation to a
+occurs, so here's an individual who's Aa. Well, what's gonna happen? Well we said this individual's sterile so,
+[SOUND] gone. [LAUGH] So, you can see there's
+a problem with single gene speciation. If you just have a single mutation
+that leads to this other form, and since it will always arise in a hybrid, you can't have two simultaneous
+mutations to a that come together. You can't actually get this. This is the problem referred
+to as underdominance. We saw this before, right, that selection will always
+favor the loss of the rare allele. We talked about this in the context of
+natural selection earlier when we looked at different forms of natural selection. So, the workaround is to look at epistasis
+or interactions between two or more loci. So let's imagine that
+the A allele interacts with the B allele to cause hybrid sterility
+when the ancestry have neither. You have aa bb. Everybody's happy. Now let's say in one species you evolve,
+you have a change to A. This is still okay because again, A only
+interacts with B to cause sterility. So this species is fine. And this other species, you have
+a mutation to B that then spreads. So again, everybody here is aa BB,
+again, everybody's fine. What happens in the hybrid? Well, in the hybrid,
+you bring together the A with the B, and therefore you have hybrid sterility. Now, you might think,
+well, why does this happen? Well, you can think of it as two
+components of a sperm tail that just don't fit together, just as an example. So this model for
+hybrid sterility has been referred to as the Dobzhansky-Muller model because
+it was introduced by the two of them. So this is the workaround against
+this underdominance problem, and it's thought that this is the kind of
+interaction that may be associated with a lot of hybrid sterility
+that we see out there. This is the kind of junction we expect. Now, one big observation that has come in
+looking at species hybrids in general and looking at whether or
+not the hybrids are sterile or not is that when one hybrid sex. If just one of the two
+hybrid sexes is sterile or inviable, it tends to be the XY sex. Notice I say the XY sex. So in mammals, that would be the males. Fruit flies, that would also be the males. In birds and butterflies, XY,
+or there they call them ZW, the heterogametic sex is
+actually the females. And there you tend to see that the females
+are the ones that are sterile if one hybrid sex is. This is referred to as Haldane's rule, because it was identified
+first by JBS Haldane, and in fact it is one of the most
+consistent rules in evolutionary biology. That very, very often, and
+only with few exceptions, if one hybrid sex is sterile or
+unviable, it's almost always the XY sex. Now, although this pattern
+has been known for nearly 100 years, the explanation was
+only deciphered within the past 20 years. And there's two parts to it. First, as you would imagine of course,
+sex-chromosomes must play a role in this because there has to be something
+associated with the XY part. But the other aspect is combining it with
+the Dobzhansky-Muller model that we saw. There is 2-locus epistasis
+involving at least one gene on the X-chromosome and
+one gene on an autosome. I'm sorry, the X-chromosomal
+one is often recessive as well. That this interaction seems to be what's
+associated with hybrid sterility. And when you put it together, that fully explains why the XY
+sex would tend to be sterile. So I'm not going to go
+into that in detail but I just wanted to introduce that to you. Now where this has been identified is
+through the workhorses of genetics. These are Drosophila fruit flies. There are tons and
+tons of species out there, including many recently diverged species. We have genome sequences for them. They're very easy to rear and cross. And as a result of that,
+there have been extensive, extensive studies of the genetic basis of
+hybrid sterility among Drosophila species. Such as between Drosophila simulans and
+sechellia, between Drosophila pseudoobscura and persimilis,
+between a lot of these Drosophilas. It's because they're so easy to work with. Now in doing this, one of the conclusions
+is that there is extensive evidence for natural selection involved in
+the genes that are associated with hybrid male sterility in Drosophila. And when we look at the underlying genes
+that are causing hybrid sterility or hybrid inviability, and
+we apply tests of selection. As you've seen in the McDonald-Kreitman
+test that we discussed earlier, we see a strong signature of
+directional or positive selection. So when we look at again at this
+ratio of nonsynonymous to synonymous within versus between species, we see the ratio is much higher between
+species than it is within species. And that's indicative of this
+directional positive selection. In this case it's highly
+statistically significant. So this is the example from Nup96 which
+causes hybrid inviability in crosses between Drosophila melanogaster and
+Drosophila simulans. Now you may be wondering,
+why is it you have this natural selection? Why did natural selection cause these
+genes to change in a way such as to make the hybrid sterile? Well we already talked about how you can't
+have selection directly favoring hybrid sterility cuz it's too late. You've already made the hybrid. So this can't be reinforcing selection. This is not going to be
+a direct effective selection. But it should be something incidental. So what is it selection
+was actually favoring? Well one possibility is fertilization. So you've had very strong selection for
+fertilization competitiveness. Remember when we talked about the DNDS
+test and the McDonald-Kreitman test? One of the categories of genes that
+evolved the fastest under the strongest positive selection are those
+involved in fertilization. Now, because part of this is that females
+from many species will mate multiple times, you have this sperm
+competition going on. And you want your sperm to be the best
+at fertilizing even in a competitive scenario. This will potentially cause rapid
+evolutionary change and very, very strong selection. And a potential outcome of this
+are that some of these changes incidentally cause sterility in hybrids. There's no cost to this because
+the sterility is in hybrids. It's not within species. Selection's only focused on what's going
+on within species so this is thought to be one of the potential forces driving
+this rapid evolutionary change. Overall we'll have to say
+that Darwin was right. So here's a couple quotes
+from his famous book. Hybrid sterility is not
+a specially endowed quality but is incidental on other
+acquired differences. That seems right. And is caused by a hybrid's organization
+having been disturbed by two organizations having been compounded into one. Again, natural selection appears
+to be a major contributor, so he's good, he's right. This is true for hybrid sterility,
+this is also true for a lot of other barrier traits out there. So, let me recap very quickly. Sterility is often a result from
+an interaction between genes on the X and genes on the autosomes. So autosomes are the other chromosomes
+besides the X and Y chromosome. Recessitivity of genes on the Xs is
+what creates this Haldane's rule. I didn't go into that in detail, but
+I just mentioned that to you in passing. And importantly, natural selection seems to be
+involved in driving these gene forms. So overall we've talked about
+speciation in a lot of ways. We've talked about why these clusters
+didn't fuse because of these barrier traits and why we don't see intermediates. We talked about the importance of
+geography and how we can use geography for interpreting the processes
+driving species. And we talked very briefly about
+the genetic basis of species formation. Now, there are several
+implications to all this. Now, as you all know there's been a lot
+of human-induced habitat destruction out there. And as a result, direct result of that, the number of species worldwide
+has gone down dramatically. We've seen more extensive loss of species
+just recently than people have seen in many of those huge calamities
+that have happened on the earth. This is bad for humans, too. And we may like to think, whatever the,
+we don't need those species. But it's bad for humans too because it's increasing our
+vulnerability to flood and drought. It's increasing crop failure. It's increasing the spread of disease,
+we have more water contamination. Now, importantly, about this sort of research we're looking at
+the other end of the process. So extinction is the end here of what
+humans are creating extensively, but understanding how species form
+lets us have some idea of the input to this process. Unfortunately, not only are we
+losing existing species, but we're actually losing species
+that are just beginning to form. So if you look out here in Lake Victoria
+there's been a lot of eutrophication, basically a lot of nutrients dumped into
+the water as a result of human activities. This makes the water a lot more cloudy,
+or turbid. Now there are these fish there,
+these Lake Victoria cichlids. They choose their mates
+based on coloration. Since it's so cloudy now they actually are
+not as good at choosing their own type. That they actually are breeding closer
+to random because they just can't tell anymore. So what's happening is we're starting
+to see a lot more hybridization between species. These are things that were starting
+to form into new species, and now they're sort of
+collapsing back together. So there are some species that potentially
+would have formed that now won't. So not only are we killing
+off a lot of species, but we're turning down the faucet on
+the formation of some new species as well. Food for thought. I hope you all enjoyed this
+set of videos on speciation. Thank you for your time.

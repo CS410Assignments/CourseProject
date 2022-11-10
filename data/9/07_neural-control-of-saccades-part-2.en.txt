@@ -1,0 +1,144 @@
+Okay, well let's talk now about the
+frontal eye fields. So the frontal eye fields are a region
+here in the anterior part of the pre-motor cortex in the posterior part of
+the superior frontal and middle frontal gyri.
+So they're probably just outside of the pre-central gyrus.
+And a region that we called Brodmann's area 8.
+Now there is some concern to whether the frontal eye fields that have been
+described in non human primates are exactly in a location that we would
+predict in the human brain based on these non human primate studies.
+but I think this is a somewhat controversial question.
+Don't be surprised if some might say that the frontal eye fields are actually
+Brodmann area 6. Which is what we usually associate with
+the premotor cortex but the non hearing primary literature would put a bit more
+interior. And will be called Brodmann's area 8
+which is localized right about here in the anterior part of the pre-motor
+cortex. So the frontal eye fields are important
+in directing our gaze towards a visual target that we actually choose to look
+at. So, we make a decision, we generate a
+motion plan, which is common to what is going on in the primary motor cortex and
+then we, we execute that plan. And the execution of the plan involves
+descending projections from the frontal eye fields to the ipsilateral superior
+colliculus. And to the contralateral gaze centers of
+the reticular formation. The paramedian pontine reticular
+formation in the pons for horizontal movement and a vertical gaze center in
+the midbrain. Or the mesencephalon for making vertical
+eye movements. Now the fact that the frontal eye fields
+projects to both the superior colliculus and the gaze centers in the brain stem
+suggests that there may be some redundancy.
+To the means by which circuits of upper motor neurons control eye movements.
+And the fact that may be the case. what we know from studying animal models,
+and even from studying clinical patients is that image to either the superior
+colliculus or the frontal eye fields can result in a deficit in saccadic eye
+movements. But over some period of time typically a
+couple of months that deficit seems to go away.
+And saccadic eye movements are now relatively normal.
+And so, it appears as though this redundancy allows the function of one
+structure to be compensated for by the increased capacity of the other to direct
+the positions of our eyes in the orbit. But nevertheless, there is an important
+distinction that I want to make between the operation of the fu-, of the frontal
+eye field and the superior colliculi. Concerning the frontal eye field, I want
+you to think of the intentional saccade that is, you actually intend to make a
+movement. I might ask you to look and see what time
+it is, and so you need to decide. Okay, where's my nearest clock and where
+do I need to look in order to see what time it is.
+So, you generate a shift of your gaze towards that new visual target, so that's
+a saccade that you tend to make. So that's a frontal eye field function,
+and the frontal eye in one hemisphere is going to drive your gaze to the opposite
+side. So that's important to keep in mind if
+you're in a clinical setting, and you're taking care of a patient that perhaps has
+had a stroke. In this anterior part of the premotor
+cortex. you may notice that this patient doesn't
+generate a lot of voluntary eye movements across the mid-line to the sine opposite
+the stroke. And that knowledge should inform you
+about how you approach that patient. Or it may help guide your interactions
+with perhaps friends and family that may be visiting that patient in the hospital,
+or wherever the care setting happens to be.
+So just be aware that the frontal eye field is directing voluntary shifts of
+attention across the mid-line to the opposite side of the visual field.
+Now the superior colliculi, on the other hand, they generate what we sometimes
+call express saccades. So these are saccades that are stimulated
+by some kind of sensory stimulus that we don't expect.
+We're not necessarily planning to make that movement.
+For example, imagine that you're outside as I am and it's spring time, and one
+common phenomenon that we have in Central North Carolina in the spring are
+thunderstorms. I, I don't think we're in for a
+thunderstorm today. But perhaps there might be, and it may be
+that the first sign of a thunderstorm that I would appreciate is a bolt of
+lightning, that might catch my attention off to one side.
+So I'm not expecting that. It just happens and my eye movement
+system just might be quick enough to make a saccadic eye movement in the direction
+of that lightning strike. To be able to catch just a glimpse of
+that striking visual, visual object. Well, that's an example of an expressed
+saccade. I didn't intend to make it, but the
+sensory stimulus gabbed by attention and induced a reflexive shift of my gaze in
+the direction of that stimulus. Well the same may be true if the first
+sensation concerning the impending thunderstorm, was not the sight of a
+lightning bolt, but the sound of thunder. If there should be a thunderclap off in
+the distance, I may find myself turning eyes and head and neck in the direction
+of that auditory stimulus. So that would be an example of the
+auditory pathway, providing input to the superior colliculus and generating the
+appropriate shift of eyes, head, neck. Well, let me conclude by simply stating
+that like all upper motor neuron systems, the frontal eye fields of the superior
+colliculus are subject to modulation. The circuity that runs through the basal
+ganglia. And even through the cerebellum in the
+basal ganglia, there are circuits that constitute their own functional stream
+that run through the caudate nucleus. And for the palatal portion of this
+circuit, the substantia nigra pars reticulata.
+And this circuit is important for modulating the expression of saccades.
+In order to make a saccade, we need to disinhibit the superior colliculus.
+We'll disinhibit the thalamic connection to the frontal eye field.
+In the same way that we talked about the role of the basal ganglia in
+disinhibiting other aspects of movement. Well, you can imagine that if you've got
+a problem, where there's insufficient inhibition coming out of the substantia
+nigra pars reticulata. We may be making eye movements all over
+the place because we can't control them. We can't suppress the unwanted movement.
+That very well may be the case, should there a problem in the circuitry of the
+substantia nigra pars reticulata. One might also have a Parkinsonian
+condition relative to the ability to generate spontaneous saccades and
+unfortunately that can be the case if there is insufficient.
+[INAUDIBLE] in operating in the circuity of the head of the circuit of the head of
+the cadillac nucleus. The cerebellum plays a role in modulating
+the output of these upper motor circuits. And sometimes those of that have a
+prescription for glasses or contact lens we have to make a change.
+And that change in prescription strength may mandate some kind of adjustment in
+the gain of our sensory mediated eye movement reflexes, like our vesicular
+oracular reflex. perhaps you've gotten a new pair of
+glasses and your optometrist or opthamologist had said, now be carful
+going down stairs. For, for a day or so until get used to
+it. Well, what that practitioner is really
+saying is give your cerebellar circuitry time to implement a, an adjustment.
+That will allow the gain the vestibulo ocular reflex to now be properly matched
+to. The magnification of the sensory world is
+passing through your lenses. Well it's a lot easier just to say, be
+careful on those stairs. But really, what's going on here is that
+the cerebellum is adjusting the gain of the vestibulo-ocular reflex.
+In order to make the appropriate amount of eye movement that's necessary to
+maintain fixation. And in the case of getting a new pair of
+glasses, the degree of magnification of that world may have been changed.
+Well, the basic point here is that the upper motor neurons that control eye
+movements in the frontal eye fields and the superior colliculus.
+Our subject to modulation by circuits of the basal ganglia in the cerebellum.
+Just like all the other upper motor neurons.
+And in fact, I think we've learned more about how all this works for the study of
+eye movements than we have for just about any other type of movement.
+Which again demonstrates the value of knowing something about the eye movement
+system, whether you're a neuroscientist or a clinician.
+eye movements are very important in helping us to diagnose neurological
+problems. And they're very instructive for
+understanding how sensory signals are turned into motor commands.
+Well, that's it for now, and if you're keeping pace in the order at which these
+videos are being presented to you, you'll notice that we're almost done with unit
+four. And what comes next in our final
+installment in our consideration of motor control is a session on the visceral
+motor system, otherwise known as the autonomic nervous system.
+So I'll look forward to talking to you then.
+And otherwise I hope you enjoy your studies thank you for your consistent
+efforts to date. I know it's been a long haul already, but
+we're almost done with unit four. We're almost done with our consideration
+of sensory motor function. And that will give us a little breathing
+room as the course concludes, thinking about.
+The changing brain across the lifespan, and finally, the basis of higher brain
+function and cognition. Okay?
+So, continue to, to work hard and study well, and I look forward to interacting
+with you in the discussion forum.

@@ -1,0 +1,192 @@
+Now, let's consider a couple of
+properties of Long-Term Potentiation that help us to understand some of the
+principles at play here. Once principal is called Specificity, and
+the other is Associativity. Well, the principle of Specificity, means
+that in order for a pathway to be potentiated, it must be active.
+So, imagine again the scenario where we have two pathways.
+One pathway is active and it's stimulated, and that synaptic connection
+Is going to be strengthened with the application of that high-frequency burst
+in activity. Meanwhile, another pathway, pathway two,
+that was not active at the time that pathway one was active, its synapse is
+not going to be strengthened. So, in order for there to be potentiation
+of a pathway there must be activity. Activity at that synapse between the pre
+and the post synaptic partner. Meanwhile, other parallel pathways that
+are not active will not be strengthened. Okay, now we have the principle of a
+specificity, and this is extremely important.
+Now, image we've got two pathways converging upon the same postsynaptic
+neuron. One pathway is already a strong pathway.
+That pathway may then be stimulated and it can strengthen even more.
+Now, the second pathway is weak, that is, it has only a very modest effect on the
+postsynaptic neuron compared to the first pathway.
+But if the second pathway, the weak one, is activated concurrently with a strong
+pathway Then the weak pathway can be strengthened.
+And this is the principle of associativity.
+One reason why we think this is so exciting is that this principle of
+long-term potentiation potentially provides a paradigm for understanding
+associative learning. Where some reinforcing event, if paired
+with an event of a neutral nature, can now acquire the significance of the
+reinforcer. And when we think in those terms, we
+recognize the basic paradigm of this experiment.
+The pairing of a strong pathway with a weak pathway can lead to the potentiation
+of both. Now, unfortunately, I need to digress for
+just a moment. And clear up an unfortunate error in this
+figure. this figure unfortunately has duplicated
+the text from these two blocks. That should not have been in the right
+hand side of this figure, this word not should be scratched off.
+So, I'm going to do that digitally by just flying in a little patch.
+So now we don't see that word not anymore.
+So, in associativity, the pathways that has weak, but concurrent activity can be
+strengthened along with the already strong pathway that we stimulated.
+So, to summarize these principles; specificity means that only active
+synapses are strengthened. And associativity means that co-active
+synapses may be strengthened. Now, what I've been telling you about
+long-term potentiation so far has been well studied in the hippocampus, and it's
+also been well studied now in many different regions of the cerebral cortex
+and even in subcortical structures. Well, the details may differ somewhat
+from one type of gray matter to another. the basic principals of long term
+potentiation seem to be well established and seem to be present in recognizable
+forms and all kinds of different parts of the central nervous system when they were
+discovered. Now many of these mechanisms of long-term
+potentiation are dependent upon two important different types of glutamate
+receptors. And so now let's turn our attention to
+the mechanisms that support this long term potentiation.
+and to do so let's focus on these tow particular glutamate receptors.
+One called the AMPA receptor, or AMPA, and the other, then NMDA receptor.
+These two different kinds of receptors, they're both ionotropic receptors for
+glutamate, which means that The site for binding Glutamate is part of an ion
+channel. And both of these ionotropic receptors
+therefore can mediate rapid conductances in that postsynaptic cell.
+Well let's look at how they both contribute to the induction and the
+maintenance of long term potentiation. Now, let's consider first a synapse that
+has not been stimulated with that high frequency train.
+So, it's synapse is relatively weak, and it's impact on the postsynaptic cell is
+fairly modest. So, if this synapse is firing at a fairly
+low rate. We would expect the postsynaptic cell to
+remain near it's resting membrane potential.
+There maybe a small small depolarization that maybe recorded but we wouldn't
+expect very much at all with low frequency stimulation.
+So what's happening there is that the action potential and the presynaptic
+neuron Would be sufficient to induce the release of Glutamate from the synaptic
+vesicles that are present there. The Glutamate would bind to it's
+receptors on the AMPA and NMDA receptor channels.
+The binding of Glutamate to AMPA would open up the pore allowing sodium ions to
+come in. But again with, low levels of activity we
+wouldn't expect a whole lot of decolorization to happen at this
+particular synaptic junction. Well, that would be a bit of problem for
+our MDA receptors for as you will recall in the poor for the MDA receptor channel
+there's a binding site for magnesium. Ions and that magnesium is going to
+blocked the conductance of that channel. Even though glutamates bound and the poor
+is in it's open configuration, the presence of magnesium is going to block
+the influx of ions. Well that's what happens when the
+postsynaptic cell. Is near resting membrane potentials.
+However, should there be a strong depolarization of that postsynaptic cell,
+which would be expected if there would be a high frequency train of activity at
+this synapse, then what we would find is a flood of postsynaptic glutamate.
+Out of that presynaptic terminal, and perhaps out of surrounding synapses from
+the same input, that might reach this postsynaptic dendrite.
+And that might lead to much more significant depolarization in this
+postsynaptic site. Well, as that happens sodium is coming
+into the AMPA receptors perhaps a wave of depolarization is passively propagating
+along the dendrite impacting the spine. There may be sufficient depolarization to
+expel magnesium from the pore of the NMDA receptor channel.
+Now, as you know magnesium is a divalent cation, so if the inside of the cell
+becomes positive, then, then magnesium is going to be repelled out of that channel
+pore. That will allow that channel now to be
+available for The influx of sodium ions and calcium ions.
+As well as the efflux of potassium ions. If you remember what we learned, a few
+tutorials ago about the NMDA receptor channel.
+You'll know that it's cation selective. But not particularly selective for with
+cations that flow. So all three of those cat irons are going
+to be involved the one that I would highlight however is calcium.
+So, calcium, very important molecule for reasons that will be clear in just a
+moment enters through the MDA receptor channel.
+And with a significant depolarization then we would expect there to be a rapid
+elevation of postsynaptic calcium levels to a significant degree in this
+stimulated synaptic junction. That's important, because the rapid
+elevation of postsynaptic calcium leads to the induction of long term
+potentiation. Well, let's look at what we know about
+how that might occur. So, again we're looking at a synapse that
+has been subject to a strong depolarization perhaps via that
+high-frequency stimulation that may have been applied in an experiment, or some
+other means of depolarizing this postsynaptic spine.
+And under those conditions, what we'll see is a rise in intracellular calcium.
+And that rise will be sudden, it will be significant, and that intracellular
+calcium then becomes the key trigger Of second messenger systems that result in
+the induction and the maintenance of long-term potentiation.
+So intracellular calcium can interact with second messenger systems such as the
+protein kinase C system or the calcium calmodulin kinase II system.
+Both of which will phosphorylate target proteins and among the targets are the
+mechanism that are involved with the trafficking of AMPA receptors from pools
+that are associated with vesicles within the postsynaptic spine to the terminal
+membrane. So as a consequence of this rapid
+increase in postsynaptic calcium, now AMPA receptors can be inserted in the
+postsynaptic membrane. And the more AMPA receptors we have in
+the postsynaptic membrane, the stronger is the response of that postsynaptic
+neuron to synaptic glutamate. This is a molecular picture of what
+long-term potentiation actually means at a postsynaptic spine.
+Well, one consequence of long-term potentiation, especially in the
+developing brain, is the awakening of silent synapses.
+Well, what is a silent synapse? A silent synapse is a synapse that is
+morphologically present and it might be capable of function except that it would
+lack AMPA recepters. And so here's evidence for one such
+silent synapse. Imagine stimulating an input to.
+A postsynaptic cell, while that cell is near its resting membrane potential.
+And there may not be any measurable post-synaptic potential recorded.
+So one might imagine that, well, maybe the site of stimulation doesn't connect
+to that cell. However, if the cell is depolarized with
+a voltage clamp, one might then record a significant excitatory postsynaptic
+current. And that is evidence that indeed there is
+a synaptic connection there. The required depolarization of that
+postsynaptic neuron implicates a synapse that is populated by MDA receptors and no
+AMPA receptors. So, what we might find and indeed
+frequently we do find, especially in the developing brain, are the silent synapses
+where we have NMDA receptors present only with insufficient numbers of AMPA
+receptors to make this functional. with low frequency stimulation.
+However, with the presence of stimuli that can induce long term pretentiation,
+and these kinds of stimulation events can accrue during the course of development.
+We see the insertion of AMPA receptors to accompany the NMDA receptors.
+And so now, a silent synapse has been awakened into a functional synapse, which
+involves both the presence of NMDA receptors, and now a compliment of AMPA
+receptors sufficient to mediate the effect of synaptic glutamate.
+even without significant depolarization of the postsynaptic process.
+Here's another picture of what this might look like.
+Before long term potentiation, stimulation of an import might lead to
+very little postsynaptic current. But after long-term potentiation, the
+same stimulus might lead to a significant inward current recorded at that synaptic
+junction. And this suggests that there has been the
+insertion of new AMPA receptors, possibly even the generation of a new synaptic
+connection between the presynaptic and postsynaptic dendrite.
+One can record from circuits in which there's a significant increase in the
+response of the postsynaptic neuron to glutamate, again indicative of
+plasticity. Either the awakening of silent synapses,
+or in some cases the construction of new dendritic spines in response the growth
+of new synaptic connections. Well, for that to happen, there needs to
+be a mechanism by which synaptic plasticity over the short run, can
+influence long-term change, and that requires not just the activation of
+second-messenger systems that are already present within the postsynaptic spine,
+but the activation of systems that can trigger a change in gene expression, and
+that's possible following long-term potentiation.
+So in the early phase of long-term potentiation, we may see a
+calcium-dependent increase in the number of AMPA receptors that are inserted, as
+we've been discussing. But one might also see the growth of new
+synaptic spines, new synaptic connections.
+Between presynaptic elements and postsynaptic dendrites.
+And this requires the activation of transcriptional regulators.
+And in this cartoon, we see evidence of a protein kinase pathway activating cyclic
+AMP and protein kinase A and biding to CREB.
+Which then can regulate the expression of genes that encode for the proteins that
+are necessary to build new postsynaptic spines to established new synaptic
+connections. In this way synapses can be added
+following a stimulus that is sufficient to induce long term potentiation.
+Now, I would, encourage you to review the roles of ampere receptors and glutamate
+receptors, and long term potentiation by viewing animation 8.2, you can click on
+the hyperlink in your. Digital copy of the tutorial notes, or
+you can browse for yourself to the website that supports the textbook that
+we have been referring to. And I think you'll enjoy the short
+animation that will help tie together many of these concepts for you.
+I would also encourage you to consider the study questions.
+Which is available at the end of your tutorial, and it's shown here.
+What I want you to do is I want you to think about why MDA receptors are so
+important for synaptic plasticity. And I'll give you a couple of
+possibilities to think about. So, go ahead and answer this question,
+and register your response accordingly.

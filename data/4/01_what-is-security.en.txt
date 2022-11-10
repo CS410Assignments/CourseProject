@@ -1,0 +1,85 @@
+[MUSIC] Hi, welcome back. This is dr Charles harry. And this is cyber security for everyone. In our last video we talked
+about what we meant by cyber. And in this video we want to talk
+about what we mean by security. And together, cybersecurity helps
+define what we want to speak about for the rest of this particular course. So what is security? Security, if we take a look
+at a textbook definition, freedom from danger or
+freedom from fear or anxiety? So we're talking about is how can
+we make ourselves more secure or more free from fear? So what do we mean by achieving security? Well, security actually comes from in
+a variety of different perspectives. You can achieve security at
+a variety of different levels, whether it's for an individual or for
+a corporation or even for a nation state. And so these range of what we call
+actors leverage a variety of tools. Some of them might be technical, some of them might be processed
+based to secure themselves. To make them more free from danger or
+threat. If you're an individual, you might use
+something like technology, an anti virus. Many of you are quite familiar with this
+type of technology where you're constantly looking for the latest threats. That might actually,
+if I enter onto your device. You might use an architecture change
+things like changing up how your network is actually structured and
+built in order to better protect yourself. And you do that at an individual level at
+your home network, you could be, if you're a corporation focus on an additional
+type of tools to secure yourself. Yes, you might use technology
+includes anti virus, but it might also include what we would
+call an intrusion detection system. A piece of software or an application
+that's running that tells you if someone is actually penetrated your network. You might make changes to
+your own architecture. You might create multiple networks
+that are what we call air gap that are physically
+separated from one another. You might leverage risk management
+techniques to decide that some parts of your network matter more than others. And therefore that's where you should
+spend your money to defend yourself. You might actually incorporate insurance
+as a way to protect yourself in the case of a large scale intrusion. These are all various examples of tools
+that corporations might actually use and they are distinct from what
+individuals might use. Finally, if you're a nation state,
+if you're a country, the United States of America yes,
+you might leverage technology. Yes, you might use risk
+management programs, but you're also going to bring
+other special assets to play. Things like your intelligence services,
+the Central Intelligence Agency, the National Security Agency and others. FBI to determine what threats
+you should respond to. Or you have potentially to incorporate
+information about vulnerabilities in networks and how you might
+actually be able to plug those up. You might use what we call hard power,
+the ability to use your military to respond to certain threats
+to make yourself feel more secure. So security comes in
+a variety of flavors and it comes in a range of different actors. So security can be obtained for
+individuals. Security can be obtained for
+corporations and organizations, but it can also be obtained for
+countries Red Large. So a working definition of
+cyber security together this notion of complexity along with
+the range of various actors and the tools that they can bring
+to bear to secure themselves. Might, includes something like or
+might be akin to something like cybersecurity is the organization and
+collection of resources. Processes and structures used to protect
+cyberspace in cyberspace enabled system. So what we're talking about here is
+in order to achieve security in cyber is that it's not simply about technology. Technology is foundational,
+no doubt about it, but includes resources,
+processes and structures. Which include governance at a national
+level as well as individual implementation of that latest pat for
+that specific application. And so
+hopefully what you're starting to see here is that when we talk about
+something as basic as a definition. Is that it can really be quite informative
+about the range of considerations we need to have in order for
+us to be more secure in cyberspace. So in this course we're going to be
+discussing a variety of different topics to include the evolution and
+development of the internet. The global telecommunications environment, how information actually moved from
+one point of the earth to the next. How is the internet actually govern? Who makes the rules,
+is it a single government? Are they individuals, is a pure anarchy. We'll discuss that. Who are the hackers? And why are they motivated
+to do what they do? Why do we have this problem? Are all hackers doing this type
+of activity for the same purpose? Where do they have different motives? We're going to actually talk about,
+what do we mean by hacking? This is one of those terms that
+people very casually throw out, but it's actually a process. Are hackers really simply just,
+spending in 30 seconds and immediately get access to the electrical
+grid for the country and take it down? Or is it a much more methodical process
+that's actually much more difficult to pull off than what
+Hollywood would tell you? What are the effects
+that they can achieve? Are all hacks focused on the same angle,
+are they only about stealing information? Or can some hacks result in
+a largely disruptive attacks that we need to account for? What I hope that you've taken away from
+the first couple of videos of this course, is that cyber is much more than
+simply about the technology. It's much more than just the ones and zeros that we oftentimes hear about in
+popular media, it's about complexity. It's about bringing people,
+technology organizations together. And it's about trying to secure at
+a variety of different levels from you and your home network. To corporations and critical
+infrastructure providers to nation states who are seeking to protect
+their most valuable secrets. In our next video, we'll talk about
+the broad threat landscape and what are the various
+topics we need to address. if we're going to get better at
+understanding the problem of cybersecurity? Thanks and see you next time.

@@ -1,0 +1,134 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. We talked in some of the previous
+videos about mutations and about some of the complications beyond
+standard simple single gene inherit. What I'd like to do now is come
+back to mutations just briefly. Talk about mutation rates or
+essentially how often do mutations happen. I mentioned briefly previously
+that they happen a lot, but let's actually put
+some numbers on this. Well again, let me re-emphasize, all genetic variations
+started as new mutations. Now, there are two questions
+people often what to know. There is actually a 3rd one that we won't
+talk about how often good mutations arise, but people often want to know, how do
+often any sort of new mutations arise. How often is there any sort of
+alteration to a genetic code? Like, do you for example have any
+mutations relative to your parents? Or do your kids have
+mutations relative to you? And then related to that how
+often do bad new mutations arise? Do you have any bad mutations
+relative to your parents? Or will your kids have some
+bad mutations relative to you? Theoretically we could do the same thing
+we good new mutations but they are so infrequent and hard to measure we probably
+can't do that very easily in this context. Now how do you measure a mutation rate so
+how do you measure a rate of new mutation. Well mutation rate is typically measured
+as per generation and often per base. But, again, measuring this you have to
+define your parameters very clearly. You have to standardize by unit of time,
+which is typically the per generation, and you have to identify what
+kinds of mutations count. Like, are you identifying
+the mutation rate from one specific base to
+another specific base? Like the mutation rate of a particular
+site from A to G in particular. Or do you mean just from that base to any
+different base, from A to anything but A, so this would include a mutation to G,
+a mutation to T, a mutation to C. The other thing, too, we often talked
+about this in the context of DNA sequence, there are other kinds of
+genetic mutations too. There are things like inversions, this is
+when you have a stretch on the chromosome flip literally,
+like completely reverse it's order. So all the same nucleotide sequences
+there but the order of it has changed. Or translocation, something where a piece
+goes from one chromosome to another. Or deletions, just a segment of
+DNA that just gets erased out and then the two ends get stuck together. Do you count those, or
+do you not count them? And what people traditionally did,
+if you go further back in time, is people would measure mutation rates in
+the context of anything in a gene that yields a phenotype. Now this of course ignores a lot of
+neutral changes and things like that. So you have to define what
+you're talking about. Typically speaking, people tend to focus on this when
+they're looking at a mutation rate. A specific base to any different base. So let's say for example that you know at
+one particular site you started with an A, then it changes to something but that. So we'll use that for
+the rest of this lecture. So how do you get this
+mutation rate per generation? Well, again as I said, we'll use this
+base to any other base definition. And what people often do is they'll get
+a sequence of either a whole genome after a known number of generations or
+a big stretch of DNA. So lets imagine that this
+is a ten base genome. This is obviously ridiculously small. A-C-A-G-G-C-A-T-T-T Ok? And after one generation when you look at
+the offspring and its A-C-A-G-G-C-A-T-C-T. So what do we have here? We have one mutation. How many bases did we look at? We looked at ten bases. How many generations
+was it one generation. So in this case the mutation
+rate would be 0.1 mutations per base pair per generation. So that's the kind of thing you can do. This is something that's commonly
+done in model organisms such as for example C elegans. This is a classic worm example. Now another thing people do to compare
+sequences from existing species and estimate the number of generations. So for example,
+if you could get a guesstimate of how many generations there are that
+distinguish humans from chimps. And you counted all the base
+differences between humans and chimps, you could get a mutation
+rate from that as well. So let me give you
+a couple of real numbers. This is an estimate of mutation rate
+from worms, the C elegans model systems. So it's 2.1 x 10 to the -8. This sounds very small but,
+trust me, it's bigger than it seems. 10 to the -8 mutations
+per base per generation. Now, what would this actually mean if
+you apply this mutation rate to humans? Well, the human genome size
+is 3.1 x 10 to the 9 bases. So how many mutations, if you just extrapolate directly from
+this mutation rate, to this genome size. How many mutations on
+average would you expect individuals to get in one generation
+relative to their parents? The answer from this is 65. [LAUGH]
+So that is not a small
+number of new mutations. As I said,
+mutations are happening all the time. And amazingly this finding
+is absolutely confirmed. That you see 2012 study from
+various Icelandic families found, on average, 63 new mutations. This shows the value of extrapolating
+from model system studies. That estimate of 65 came ultimately
+from these studies of C elegans worms. And from that I just did some math to
+calculate what we would expect to see in humans and in fact we see a very, very, very close number to what I predicted
+from the C elegans studies in human. Now, interestingly, I didn't mention this before, there's
+a very strong effect of father's age. Now, most new mutations that humans get tend to be from their fathers
+rather than from their mothers. The reason for that is because in
+the production of sperm you have many more cell divisions than you do
+in the production of eggs. So there's many more opportunities for
+an error to come, or for a mutation to come in. And in fact, what you see looking at this, there's
+a very strong age effect of the father. So here on the x-axis, is the age of the father at
+the time of conceiving the child. On the y-axis is the number of new
+mutations found in that child. And we see is that there's a very dramatic
+increase as the father goes from 20, 25, 30, 35, 40 you see way way more and
+new mutations in the kids. In fact for every year of the fathers age you see on
+average about two more new mutations. And this holds up with disease studies,
+that people see higher incidence of diseases like autism and other things
+like that in kids from older fathers. So this is something to consider and it has definitely societal
+implications as well. So, coming back to what I said before,
+your brother is a mutant. But sadly, so are you. So you can call him mutant, but
+he can call you one as well. But very importantly, these mutations,
+these new mutations arise and they introduce a lot of variation
+into natural populations. This ties back in with the previous
+video I just emphasized. Now again, what happens when
+these new mutations come up? It's a new mutation, it's not been found
+before, and you have the birth of a SNP, you have this new sort
+of variation out there. Now these new mutations may spread,
+they may be found in other individuals, they may be lost, they may be lost by
+natural selection because it's bad if it causes instant death,
+obviously it will be lost very quickly. And maybe you lost from other forces. Maybe you lost just from a random event. There again, the usual single
+mutation gets hit by a truck when they're still young. Now, while they're present,
+these new mutations, these new variations will have
+a frequency in the population. This is something that will be very
+important when we get into population genetics, that alleles are present
+at a frequency within populations. You can see this as an example, here allele frequencies of blood types in
+the United States just as an illustration. About 24% of the alleles out there are A, 10% are B, 66% are O. Okay so if you took just whats going on,
+they took just everybody's chromosome and just lined them up you'd count on average
+this numbers in the United States. Now these are the allele frequencies but there's also an underlying
+genotype frequency, right. That a subset of these individuals
+have to be AA well its obviously A. AA versus AO a subset of
+AB a subset of OO etc. So you can put all these things together,
+these genotypes. The fraction of individuals that
+have a particular genotype have some sort of frequency in the population. That is what is studied in
+the field of population. We'll come back to that far more
+extensively in later videos. But again all genetic variations
+started as new mutations. Now, the tougher question is how
+often do bad new mutations arise? Well there have been
+estimates of this as well. The deleterious mutation rate is,
+again, fairly high. If you look at chromosomal anomalies, things like just severe chromosomal
+disruptions, these happen quite a bit. They probably have a very immediate effect
+on offspring and result in miscarriage. So as many of you know, on the order of about half of
+pregnancies are spontaneously aborted. It's estimated that maybe around half of
+the ones that were spontaneously aborted had some sort of genetic reason for it. They had some sort of chromosomal anomaly. They got too many copies of one, or
+things stuck together that weren't supposed to stick together,
+things like that. These are ones that you can't actually
+measure because it happens so frequently there's no way to tell. But a lot of other bad
+mutations are far more subtle, they don't have such severe effects
+that they just make an embryo die or they're masked because they're recessive. Well, current estimates suggests that
+on average, and this is true for humans as well, there are one to two
+bad new mutations per generation, per individual, right? So I'm sorry, but
+you're probably a bad mutant too. But I hope you'll come back nonetheless,
+and watch the next video. Thank you very much.

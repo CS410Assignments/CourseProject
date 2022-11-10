@@ -1,0 +1,124 @@
+Hi. Welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. In our last episode, we talked about
+criminal organizations. In this episode,
+I want to switch our conversation to
+a different type of threat actor, the hacktivists. As a reminder, cybersecurity concerns around a variety
+different threat actors. Threat actors leverage
+vulnerabilities and they're exploited by those hackers either
+acting alone or as part of a broader
+collective organization. They absolute leverage their skill and resources to achieve a specific end effect and they're motivated
+by different things. Who are the hacktivists? You might be curious about
+the term hacktivists. Well, they're really
+hacktivists who use hacking to achieve a
+particular set of objectives. There are often focused
+on a set of political, economic, or even
+social concerns. Their skill level
+really does vary. For the most part
+hacktivists tend to use low-level capabilities like website defacement and
+denial-of-service attacks. They tend to act either independently or as part
+of a broader collective. They use an awful lot of off-the-shelf
+capability and then targets may include
+not just governments, but also corporations and
+even specific individuals. This is really important. They're not aligned with anyone's specific ideology
+or even government. We see hacktivists that
+are hacking on behalf of a specific government acting in more of a
+nationalist's point of view, as well as hacktivists
+that are more focused on a specific idea, concepts of ecological
+conservation, for instance, would
+be one example. Let's talk specifically
+about their motives. In some cases,
+hacktivists will engage in hacking activity out of
+social justice concerns. Maybe there's a particular
+issue that's affecting a particular community
+and they're upset by it. They'll engage in hacking
+activity, defacements, denial-of-service attacks, to emphasize their displeasure
+at that particular issue. They may also take
+action concerning political actions taken
+by specific governments, ones that are specifically counter to the
+hacktivist agenda. One example might be
+something along the lines of governments who are engaging
+in free trade agreements. There might be a hacktivist organization who
+thinks that that's a terrible idea as it leads
+to exploitation of labor. Therefore, they engage in a hacking campaign to
+voice their displeasure. But it could also include things like
+environmental concerns. If there are concerns that specific corporations
+are not taking the issue of climate change seriously and are concerned about
+their carbon footprint. You might actually see hacktivists engaging
+in hacking activity. This is a different set of
+motives than what we've seen with criminal
+actors and hobbyists. Let's talk a little
+bit about their tools. Just like with hobbyists, hacktivists tend to use a lot of the standard tool set that we find in the
+Kali Linux built. They use a lot of
+standard tools for reconnaissance as well as for exploitation
+of those devices. Even further, basic tactics
+and tools for delivery. They're using standard
+capabilities. That's an important
+differentiator from criminal organizations
+or even nation-states. What attacks do we normally
+see with hacktivists? Well, we oftentimes see
+available information disclosed and oftentimes
+that information is actually publicly available. They'll do research,
+for instance, on particular individuals and publish things like
+their address, or their phone number, or maybe pictures that are found on their
+social media account. Nothing that's really
+terribly sophisticated. Sometimes they will
+gain access to specific accounts and also publish information that
+is not publicly available. We oftentimes see hacktivists
+engaged in defacements, graffiti on a website and we also see
+denial-of-service attacks. These three broad level of effects are typically what we see with
+hacktivists' campaigns, exposure of information,
+defacement of websites, and
+denial-of-service attacks. Let's take one example of a hacktivist
+collective, Anonymous. Anonymous is a
+hacktivist collective, basically comprising
+of individual hackers that are loosely aligned
+around a particular worldview. Remember, these are not
+individuals that work for a government or a
+criminal organization. They are individuals who believe very strongly in a
+particular set of issues, it could be a social
+justice issue, it could be economic issue
+or environmental issue. They focused their
+hacking activity by loosely surrounding it around
+something like a campaign. They focus on a particular issue like countering the
+terrorist narrative. They organize their
+activity around campaigns. An example might be a hacktivist organization that wants to counter a
+terrorist narrative. They would organize
+themselves and their activities around
+countering that narrative. They primarily focus on things
+like identity exposure, website defacements, and
+denial-of-service attacks. If anonymous, for instance, had concerns around, let's say, a terrorist
+organization like ISIS, they may focus on
+trying to identify ISIS members and publicizing
+their identities. That would be an example of an effect that
+anonymous would have. It is so very
+specific examples of these campaigns would be
+things like operation KKK, which was focused around exposing members of
+the Ku Klux Klan. They also focus their aims in some occasions against
+specific governments. In this particular case, OP Saudi was a set of operations
+specifically targeting the Saudi government
+and engaged in website defacements and in
+denial-of-service attacks. Some examples of infamous
+hacktivist groups would include, of
+course, Anonymous, Chaos Computer Club,
+Legion of Doom, Masters of Deception,
+and Lizard Squad. They really liked these names
+and hacking organizations, tend to like their
+creative names. When we take a look at the broad set of facts that
+hacktivists are having. They're primarily looking
+to make a statement. We see attacks going against primarily things like government websites
+and organizations, but it also includes professional and
+scientific organizations and even the finance and
+insurance community. Hacktivists are primarily
+interested in a broad set of social issues that include
+things like social justice, but also include issues like the environment or economics. It's difficult to
+group all hacktivists into the same set
+of individuals. What are the takeaways? Hacktivists have a
+range of skills, but they primarily focus on
+these low-level capabilities; website defacements,
+denial-of-service attacks, and exposure of identities. They are motivated by political, social, and
+environmental issues. They tend to focus on relatively
+easy things to execute. They primarily focus on
+exposing information, defacing websites, and a
+denial-of-service attack. They're really not bound
+by any single ideology. In our next episode, we're going to talk about advanced persistent threats
+and the real challenge that they present to broader society. I hope to see you next time.
