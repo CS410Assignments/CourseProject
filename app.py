@@ -1,5 +1,4 @@
-# import spacy
-import spacy_streamlit
+import spacy
 import gensim
 import gensim.corpora as corpora
 from gensim import models
