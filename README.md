@@ -1,3 +1,3 @@
-# CourseProject
+# InvestBuddy CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+This is the README for InvestBuddy, a CS 410 project for UIUC. The goal of the project is to create a chatbot that can accurately answer user questions and link them to relevant financial articles.
