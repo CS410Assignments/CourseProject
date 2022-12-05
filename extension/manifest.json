@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "410 Project",
+    "version": "0.1.0",
+    "description": "410 Project",
+    "permissions": ["storage", "tabs","activeTab", "scripting"],
+    "host_permissions": ["http://django-env.eba-c9dmngec.us-west-2.elasticbeanstalk.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://twitter.com/*"],
+        "js": ["contentScript.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "/images/tree16.png",
+        "32": "/images/tree32.png",
+        "48": "/images/tree48.png",
+        "128": "/images/tree128.png"
+      }
+    },
+    "icons": {
+      "16": "/images/tree16.png",
+      "32": "/images/tree32.png",
+      "48": "/images/tree48.png",
+      "128": "/images/tree128.png"
+    }
+}
