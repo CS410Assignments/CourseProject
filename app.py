@@ -1,9 +1,9 @@
-import spacy
+# import spacy
 import gensim
 import gensim.corpora as corpora
 from gensim import models
 import streamlit as st
-from spacy.lang.en import English
+# from spacy.lang.en import English
 import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -14,7 +14,7 @@ import pyLDAvis.gensim_models as gensimvis
 from streamlit import components
 
 # Load "en_core_web_sm"
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 parser = English()
 
 # Functions
