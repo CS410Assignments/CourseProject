@@ -18,6 +18,7 @@ nlp = spacy.load("en_core_web_sm")
 parser = English()
 
 # Functions
+#Text Cleaning
 def tokenize(text):
     lda_tokens = []
     tokens = parser(text)
@@ -56,9 +57,10 @@ en_stop = set(nltk.corpus.stopwords.words('english'))
 
 # HTML Start here
 # HTML = """<div style="overflow-x: auto; padding: 1rem">{}</div>"""
-HTML = """<div style="overflow-wrap: break-word; padding: 1rem">{}</div>"""
+# HTML = """<div style="overflow-wrap: break-word; padding: 1rem">{}</div>"""
 
 st.header('Topic Modeling for Course Transcripts', )
+st.subheader(" - By Free Topics Team")
 course_name = st.text_input('Input your course number here and press enter (from 1 to 11):')
 BASE = 'data/'
 
@@ -77,6 +79,7 @@ for filename in glob.glob(os.path.join(path, '*.txt')):
 dictionary = corpora.Dictionary(text_data)
 corpus = [dictionary.doc2bow(text) for text in text_data]
 
+# LDA with Gensim
 pickle.dump(corpus, open('corpus.pkl', 'wb'))
 dictionary.save('dictionary.gensim')
 
@@ -88,6 +91,7 @@ topics = ldamodel.print_topics(num_words=4)
 for topic in topics:
     st.write(topic)
 
+# pyLDAvis
 vis = gensimvis.prepare(ldamodel, corpus, dictionary)
 html_string = pyLDAvis.prepared_data_to_html(vis)
 components.v1.html(html_string, width=1300, height=800)
