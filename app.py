@@ -94,4 +94,4 @@ for topic in topics:
 # pyLDAvis
 vis = gensimvis.prepare(ldamodel, corpus, dictionary)
 html_string = pyLDAvis.prepared_data_to_html(vis)
-components.v1.html(html_string, width=1300, height=800)
+st.components.v1.html(html_string, width=1300, height=800)
