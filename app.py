@@ -56,9 +56,6 @@ nltk.download('stopwords')
 en_stop = set(nltk.corpus.stopwords.words('english'))
 
 # HTML Start here
-# HTML = """<div style="overflow-x: auto; padding: 1rem">{}</div>"""
-# HTML = """<div style="overflow-wrap: break-word; padding: 1rem">{}</div>"""
-
 st.header('Topic Modeling for Course Transcripts', )
 st.subheader(" - By Free Topics Team")
 course_name = st.text_input('Input your course number here and press enter (from 1 to 11):')
