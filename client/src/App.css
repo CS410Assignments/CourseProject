@@ -49,3 +49,11 @@
 .button:hover {
   background-color: #5CBF60; 
 }
+
+.buddy-response {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.0rem;
+  padding-top: 24px;
+}
