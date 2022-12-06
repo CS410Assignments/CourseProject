@@ -9,8 +9,43 @@
 
 .home, .reports, .products{
   display: flex;
-  height: 90vh;
+  padding-top: 10vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 3.0rem;
+}
+
+.home-secondary {
+  display: flex;
+  height: 20vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  font-size: 2.5rem;
+}
+
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+.button:hover {
+  background-color: #5CBF60; 
 }
