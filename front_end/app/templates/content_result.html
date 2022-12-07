@@ -1,0 +1,9 @@
+{% extends 'layout.html'%}
+{% block content %}
+
+{% for item in targetItem %}
+        <div class="shadow p-3 mb-5 bg-body rounded">
+            <p><span class="fst-italic">Movie Name: </span>{{ item.movie_name }}</p>
+        </div>
+    {% endfor %}
+{% endblock content %}
