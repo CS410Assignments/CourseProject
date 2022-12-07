@@ -24,8 +24,14 @@ submitForm.addEventListener('submit', (event) => {
             let aUrl = URL + currentUser + "/"
             // console.log(aUrl)
             client.get(aUrl, data, function (response) {
+                //backend return value parsed_response.get("isTroll");
                 var parsed_response = JSON.parse(response.responseText);
                 console.log(parsed_response)
+                chrome.tabs.sendMessage(tabs[0].id, { isTroll: parsed_response.get("isTroll")}, function (data) {
+                    console.log("📌: bj.js  send");
+                    console.log("📌: bj.js  sendBack", data);
+                    console.log('.....................');
+                });
             })
         } else {
             alert("Please Use in Twitter")

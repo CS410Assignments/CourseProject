@@ -1,3 +1,20 @@
+chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+    // code...
+    console.log('Get messgae', request)
+    const color = request.isTroll ? 'red' : 'green'
+    const doc = document.querySelector('.css-1dbjc4n.r-6gpygo.r-14gqq1x');
+    doc.style.position = "realtive";
+    var div = document.createElement('div');
+    div.style.position = "absolute";
+    div.style.right = "20px";
+    div.style.height = "20px";
+    div.style.width = "20px";
+    div.style.background = color;
+    div.style.borderRadius = "50%"
+    doc.appendChild(div)
+
+    // sendResponse('I've receieve the msg：' + JSON.stringify(request));//make response
+});
 // let currentUser;
 // var HttpClient = function() {
 //     this.get = function(aUrl, data, aCallback) {
