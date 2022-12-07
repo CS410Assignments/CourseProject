@@ -31,8 +31,7 @@ function About() {
       <div className="container">
         <h2>Jade Xu</h2>
         <p className="title">Software Engineer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p> User experience improvent. Be responsible to record tutorial video and solve all problems that may occur when downloading.</p>
         <p><button className="button">Contact</button></p>
       </div>
     </div>
