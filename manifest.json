@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Hungry Panda",
+  "version": "0.0.1",
+
+  "action": {
+    "default_icon": {
+      "16": "extension/public/icon16.png",
+      "24": "extension/public/icon24.png",
+      "32": "extension/public/icon32.png"
+    },
+    "default_popup": "extension/popup.html",
+    "default_title": "Hungry Panda"
+  },
+  "description": "CS410 final project: a sentiment analysis browser extension for restaurant reviews",
+  "icons": {
+    "16": "extension/public/icon16.png",
+    "48": "extension/public/icon48.png",
+    "128": "extension/public/icon128.png"
+  },
+
+  "background": {
+    "service_worker": "extension/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.yelp.com/*"],
+      "js": ["extension/content.js"]
+    }
+  ],
+  "permissions": ["tabs", "activeTab", "background", "storage"],
+  "short_name": "HP",
+  "version_name": "appetizer"
+}

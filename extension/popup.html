@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="popup.css" />
+    <script src="bootstrap.bundle.min.js"></script>
+  </head>
+  <body>
+    <div class="container hungry-panda mx-2 my-4">
+      <h2 class="text-center d-flex flex-column align-items-center">
+        <span class="h6 fw-light d-flex align-items-center gap-1"
+          >Our score for this shop
+          <span
+            class="badge rounded-pill text-bg-info"
+            data-bs-container="body"
+            data-bs-toggle="popover"
+            data-bs-placement="bottom"
+            data-bs-content="The average score based on sentimental analysis of available reviews."
+          >
+            ?
+          </span></span
+        >
+        <span id="final-score" class="display-4">...</span>
+      </h2>
+
+      <div class="accordion" id="accordionHungryPanda">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseOne"
+              aria-expanded="true"
+              aria-controls="collapseOne"
+            >
+              Most frequently mentioned dishes
+            </button>
+          </h2>
+          <div
+            id="collapseOne"
+            class="accordion-collapse collapse"
+            aria-labelledby="headingOne"
+            data-bs-parent="#accordionHungryPanda"
+          >
+            <div class="accordion-body">
+              <ul id="dish-frequency" class="list-group list-group-flush"></ul>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button
+              class="accordion-button collapsed"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo"
+              aria-expanded="false"
+              aria-controls="collapseTwo"
+            >
+              Sentimental scores for each review
+            </button>
+          </h2>
+          <div
+            id="collapseTwo"
+            class="accordion-collapse collapse"
+            aria-labelledby="headingTwo"
+            data-bs-parent="#accordionHungryPanda"
+          >
+            <div class="accordion-body">
+              <div
+                id="carouselReviewsControls"
+                class="carousel carousel-dark slide"
+                data-bs-ride="carousel"
+              >
+                <div class="carousel-inner" id="sentiment-scores"></div>
+                <button
+                  class="carousel-control-prev"
+                  type="button"
+                  data-bs-target="#carouselReviewsControls"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    class="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                  class="carousel-control-next"
+                  type="button"
+                  data-bs-target="#carouselReviewsControls"
+                  data-bs-slide="next"
+                >
+                  <span
+                    class="carousel-control-next-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+
+              <!-- <ul id="sentiment-scores" class="list-group"></ul> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

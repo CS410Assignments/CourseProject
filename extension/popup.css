@@ -1,0 +1,8 @@
+.hungry-panda {
+  width: 420px;
+}
+
+.review-card {
+  height: 120px;
+  overflow-y: scroll;
+}
