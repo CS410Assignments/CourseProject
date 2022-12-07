@@ -51,7 +51,7 @@ function Home() {
 
       <div className='searchbar'>
       <input className="search" type="text" placeholder='Search here...' onChange={handleChange} value={message}></input>
-      <button className='button' onClick={() => userRequestSearch(message)}>Search</button>
+      <button className='button-search' onClick={() => userRequestSearch(message)}>Search</button>
       </div>
 
       {searchClicked ? 
