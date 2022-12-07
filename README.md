@@ -14,7 +14,7 @@ and download "node-v16.18.1-x64.msi" (this file can help you set up everything)
 2. clone the file to local
 run the following command
 ```
-git clone https://github.com/ajhuerta/CourseProject/edit/main/README.md
+git clone https://github.com/ajhuerta/CourseProject
 ```
 
 3. run the program
