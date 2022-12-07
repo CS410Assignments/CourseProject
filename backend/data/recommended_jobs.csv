@@ -1,0 +1,283 @@
+link,location,title,company,salary,desc,keywords,similarity_cosine
+https://www.indeed.ca/rc/clk?jk=bc21127b5efb61d9&fccid=cdd0a46c7b16957c&vjs=3,"Toronto,ON",Data Engineer,Symbility Intersect,,"We want to be Where Business Meets the Future..
+INTERSECT delivers mobile and IoT product strategy, design thinking, and engineering excellence for businesses that want to get ahead.
+Our Toronto-based team works with global clients helping them deliver beautiful, usable, and
+innovative products to their customers, employees, and partners.
+As our Data Engineer you will work towards defining and establishing a new client offering with a focus on building and executing on Data, Machine Learning, and Artificial Intelligence (AI) solutions. Passion, enthusiasm, obsession with details and the ability to work (and play) in a team are all musts.
+As Data Engineer, you will be responsible for the following:
+Build, improve, and optimize Data processes and tools
+Derive Data insights and convert them into real solutions to help our clients
+Understand and keep up-to-date with emerging technologies, trends, and innovative solutions being implemented across the industry
+Presenting and justifying strategic thinking to internal stakeholders and external clients
+Implementing technical solutions using Data Science, Machine Learning, and AI techniques
+Processing, cleansing, and verifying the integrity of data used for analysis
+Requirements
+Entrepreneurial mindset and collaborative approach
+Experience building Data products that have solved internal business problems
+Data Science or Machine Learning background
+Academic background in the fields of math, economics, computer science, or statistics.
+5+ years of practical experience in challenging and fast-paced environments.
+Knowledge of Data Science tools and their application.
+You believe that horses are beautiful and majestic animals.
+Proven business and strategic acumen
+Proficiency with Python
+Knowledge of statistical techniques, machine learning algorithms, and data science problem framing
+Understanding of the relational database model and knowledge of SQL
+Experience in visualizing and manipulating big datasets
+Familiarity with the command line
+Good scripting and programming skills
+Nice to have:
+You are excited about the prospect of working with technologies such as TensorFlow, Keras, scikit-learn, pandas, PyTorch - and so are we.
+Hadoop, Hive, distributed computing frameworks
+Experience with NoSQL databases, such as MongoDB, etc
+Good applied statistics skills, such as distributions, statistical testing, regression, etc
+Understanding of modeling structured and unstructured data
+“We want to see examples of interesting Data products/projects that you’ve built!”
+If you won the lottery tomorrow you would still apply for this job.
+Benefits
+FLEXIBLE HOURS AND UNLIMITED VACATION POLICY
+Need a break? No problem. Employees can take time off in the way that works best for them and their teams. Work remotely when you need to.
+HEALTH AND WELLNESS
+Comprehensive extended health care coverage, energy pod, and standing desks. Take care of yourself.
+FUN
+Off-site adventures, ping-pong, unique traditions, monthly birthday celebrations, Fancy Fridays, Lunch and Learns.
+OFFICE MEALS
+Catered lunches, healthy snacks, freshly-ground coffee, and Beer O’clock
+TOWN HALL
+To stay connected we have weekly town halls to celebrate milestones, share updates, welcome new hires, present apps of the week, and crown the QA Star of the Week.
+WORKATION
+We like to work hard and play hard, and as such we offer yearly Workations for employees to unwind and spend non-work time with coworkers.
+Want to learn more?
+Our Culture: https://www.symbilitysolutions.com/symbility-intersect/careers/
+Check out our 3D office tour: https://www.symbilitysolutions.com/symbility-intersect/360-office-tour/
+Symbility Intersect is a Toronto based strategic innovation company that works with forward-thinking global brands and disruptive entrepreneurs. Our team focuses on strategy, design, and development of mobile, web and data products. Our approach solves tough problems, overcomes complicated challenges and creates opportunities through innovation. Our deliverables are products and thinking that creates long-term value for our clients, not campaigns that disappear as quickly as their impact.
+Symbility Intersect welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+If you’re interested in being on the bleeding edge of technology, tackling exciting problems from different industries, and constantly being pushed to learn - apply below!","['mongodb', 'sql', 'pandas', 'pytorch', 'keras', 'scikit', 'python', 'tensorflow', 'hive', 'hadoop', 'nosql']",0.5017452060042544
+https://www.indeed.ca/pagead/clk?mo=r&ad=-6NYlbfkN0DfaJzxeKsHg3yNa09Lu8cQQduvjegwzxl5yjE4sdO8aCQ7r433WSCgz7HcYFllrICUutaiYZ3SywZPE6JNXcysT7G1p3sESm5Ew2MJJ_yjBhQH-5XCgk4BN-i8NEEjgeaCDFlZ8KG_bAhiFfLCFCTDWTXhkrZezmMhEvrd50Rhpmn7pz2PcghQvYKfU3dMXlTcCU4rxSDJVQSNAAFdO2_zQvff-AcUFYP_h09qdqWtaG5r4cvsOc01tCCCrcVvB9a72zD35rM0fO_Z9cLBy8MUum2M5a82-a9SXgEX5emhgykfnl86HAS7OLtrjXet_HsMecEdnzJZOErhxgr8JmmeU0tEJjcOXvew_JXgPWy0YDn8OduP7ynMdoz2TYrk6M9FsW-fO7QT584zLQO8Ox3atLKVI-4mdEN9ETpExWA3sWAY0V0mD2UH-dkW9PL19njggo3HUxskJrNVkf6k5YC18TMHQcLSCIM1u2ogHhM4sfWUx8yQ7GnoxfI7joW0zx4PNjPH61s77bOeT_LLPjV-uTmvxFFVcmTZke8_TAiRc7kqWB-8i-skK7wS3gMvA05Se4Von8MjV-84_W_i4khJhGCveLjgIDgdMgB676yeJw==&vjs=3&p=3&sk=&fvj=0,"Montréal,QC",Data Engineer,Sun Life Financial,,"At Sun Life, we work together, share common values and encourage growth and achievement. We offer many career paths that attract a wide variety of talent and skills. Follow a path that lets your talents shine.
+
+
+
+Job Description:
+
+We are currently looking for a Data Engineer with a passion for turning disparate streams of data into organized and actionable analytics services and insights. As a Data Engineer on the Data Engineering and Operations team, you will be joining a group of hardworking and savvy innovators who has made it their mission to find new ways to glean value out of rapidly increasing volumes of operational data in Canadian Operations.
+
+Role Summary:
+
+Working within a diverse and motivated team of analytics professionals, the Data Engineer will lead the development of efficient data capture and transformation processes and complex data models that form the core of a new generation of analytics services and self-serve solutions for our customers in Canadian Operations.
+
+Main Responsibilities:
+Lead development of new batch/low-latency analytical solutions that leverages both traditional and emerging technologies
+Design, develop and implement highly scalable data capture and transformation processes
+Create effective ETLs/ELTs to move large volumes of data from various operational systems to dimensional data models for analytics consumption
+Act as principal designer and reviewer for new data models, make data architectural decision, and provide coaching on data modeling and process design
+Expand and grow data existing platform capabilities to solve new data problems and challenges
+Ensure all automated processes preserve data integrity by managing the alignment of data availability and integration processes
+Support quantitative analysts and data scientists with data discovery and rapid assembly of large data sets from disparate sources
+Identify opportunities for new data acquisition and new uses for existing data resources
+Research and make recommendations for new data management technologies and software engineering practices. Collaborate on decisions around the use of new tools and practices
+Perform quality assurance and testing according to risk assessment guidelines to minimize operational, reputation, and legal risk
+Define data retention policy, establish data governance best practice, and create automated anomaly detection services
+Document and update business continuity and disaster recovery procedures
+Engage in ongoing collaboration with data architects, modellers and other members to achieve common goals
+Provide guidance to development teams regarding best practices and design patterns for analytics solutions. Coach and provide guidance to junior team members
+Produce and maintain support documentation for ongoing operations
+Act as Tier-2/3 support to troubleshoot and resolve technical issues with production data models and services
+
+Preferred skills:
+University degree in Computer Science, Software Engineering, or equivalent
+Experience with hybrid data environments that leverage both distributed and relational database technologies to support analytics services
+Solid understanding of data warehousing principles, architecture and its implementation in complex environments
+Hands-on experience with development of ELT/ETL processes in traditional and distributed environments
+Experience as designer of complex Dimensional data models for analytics services
+Experience with development for Microsoft SQL Server Analysis Services or equivalent technologies
+Experience with various testing methodologies and user acceptance testing
+Solid skills in SQL, Python, C++, Java and other languages used in data manipulation
+Experience with Hadoop and Big Data technology
+Experience with processing large datasets from multiple sources
+Ability to operate effectively and independently in a dynamic, fluid environment
+Strong verbal and written communications skills with experience in relating complex concepts to non-technical users
+Demonstrated ability to exchange ideas and convey complex information clearly and concisely
+Proven ability to lead and drive projects and assignments to completion
+
+Assets:
+Experience with optimization and tuning of large data extracts for Tableau
+Familiarity with Agile development practices
+Understanding of ITIL processes Incident/Change/Release management methodologies
+Knowledge of Insurance or Financial Services industry
+
+Diversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide perspectives and creative ideas benefits our clients, the communities where we operate and all of us as colleagues. We welcome applications from qualified individuals from all backgrounds.
+
+Persons with disabilities who need accommodation in the application process, or those needing job postings in an alternative format, may e-mail a request to thebrightside@sunlife.com
+
+We thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.
+
+
+
+Job Category:
+Advanced Analytics
+
+
+Posting End Date:
+25/10/2018","['etl', 'sql', 'tableau', 'java', 'c++', 'python', 'hadoop', 'agile']",0.4902903378454601
+https://www.indeed.ca/rc/clk?jk=d495a7e3b7c8531d&fccid=4271edc9c2f82254&vjs=3,"Montréal,QC",Data Engineer,Sun Life Financial,,"At Sun Life, we work together, share common values and encourage growth and achievement. We offer many career paths that attract a wide variety of talent and skills. Follow a path that lets your talents shine.
+
+
+
+Job Description:
+
+We are currently looking for a Data Engineer with a passion for turning disparate streams of data into organized and actionable analytics services and insights. As a Data Engineer on the Data Engineering and Operations team, you will be joining a group of hardworking and savvy innovators who has made it their mission to find new ways to glean value out of rapidly increasing volumes of operational data in Canadian Operations.
+
+Role Summary:
+
+Working within a diverse and motivated team of analytics professionals, the Data Engineer will lead the development of efficient data capture and transformation processes and complex data models that form the core of a new generation of analytics services and self-serve solutions for our customers in Canadian Operations.
+
+Main Responsibilities:
+Lead development of new batch/low-latency analytical solutions that leverages both traditional and emerging technologies
+Design, develop and implement highly scalable data capture and transformation processes
+Create effective ETLs/ELTs to move large volumes of data from various operational systems to dimensional data models for analytics consumption
+Act as principal designer and reviewer for new data models, make data architectural decision, and provide coaching on data modeling and process design
+Expand and grow data existing platform capabilities to solve new data problems and challenges
+Ensure all automated processes preserve data integrity by managing the alignment of data availability and integration processes
+Support quantitative analysts and data scientists with data discovery and rapid assembly of large data sets from disparate sources
+Identify opportunities for new data acquisition and new uses for existing data resources
+Research and make recommendations for new data management technologies and software engineering practices. Collaborate on decisions around the use of new tools and practices
+Perform quality assurance and testing according to risk assessment guidelines to minimize operational, reputation, and legal risk
+Define data retention policy, establish data governance best practice, and create automated anomaly detection services
+Document and update business continuity and disaster recovery procedures
+Engage in ongoing collaboration with data architects, modellers and other members to achieve common goals
+Provide guidance to development teams regarding best practices and design patterns for analytics solutions. Coach and provide guidance to junior team members
+Produce and maintain support documentation for ongoing operations
+Act as Tier-2/3 support to troubleshoot and resolve technical issues with production data models and services
+
+Preferred skills:
+University degree in Computer Science, Software Engineering, or equivalent
+Experience with hybrid data environments that leverage both distributed and relational database technologies to support analytics services
+Solid understanding of data warehousing principles, architecture and its implementation in complex environments
+Hands-on experience with development of ELT/ETL processes in traditional and distributed environments
+Experience as designer of complex Dimensional data models for analytics services
+Experience with development for Microsoft SQL Server Analysis Services or equivalent technologies
+Experience with various testing methodologies and user acceptance testing
+Solid skills in SQL, Python, C++, Java and other languages used in data manipulation
+Experience with Hadoop and Big Data technology
+Experience with processing large datasets from multiple sources
+Ability to operate effectively and independently in a dynamic, fluid environment
+Strong verbal and written communications skills with experience in relating complex concepts to non-technical users
+Demonstrated ability to exchange ideas and convey complex information clearly and concisely
+Proven ability to lead and drive projects and assignments to completion
+
+Assets:
+Experience with optimization and tuning of large data extracts for Tableau
+Familiarity with Agile development practices
+Understanding of ITIL processes Incident/Change/Release management methodologies
+Knowledge of Insurance or Financial Services industry
+
+Diversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide perspectives and creative ideas benefits our clients, the communities where we operate and all of us as colleagues. We welcome applications from qualified individuals from all backgrounds.
+
+Persons with disabilities who need accommodation in the application process, or those needing job postings in an alternative format, may e-mail a request to thebrightside@sunlife.com
+
+We thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.
+
+
+
+Job Category:
+Advanced Analytics
+
+
+Posting End Date:
+25/10/2018","['etl', 'sql', 'tableau', 'java', 'c++', 'python', 'hadoop', 'agile']",0.4902903378454601
+https://www.indeed.ca/pagead/clk?mo=r&ad=-6NYlbfkN0DfaJzxeKsHg3yNa09Lu8cQQduvjegwzxl5yjE4sdO8aCQ7r433WSCgz7HcYFllrICUutaiYZ3SywZPE6JNXcysT7G1p3sESm5Ew2MJJ_yjBhQH-5XCgk4BN-i8NEEjgeaCDFlZ8KG_bDlKLDPngTr06lU2YfRyF8Zx_JQNYV-F50oihPReKCVJmsJTqZlF_ktUoZ-HFD4-GZ1Siqq4H-HTy5rdZE6_k0C6fHhFtfn09mCL_1F3nwh--NKU2LKo0l7IJefV0q1fIPF1cA6QldA_-oWRn31ij-Lj3ulDPwrbIeelz38Lr8r8xGCJs-K9qBi9tKs_ayb78YmNrdMDK8FWVGAZsgw3ntEUgILSgMJ9k5QKEcNLRYZA_oIjQdXw2D1jIdZxM65ShWi3KMnFMsgJm-XOPlfRbXOWV4smO302WQWrk2jr7EV_nZXY82n7CHCVuDmxem5uMpYnSLMVfmFArK47iZfuPsWMWpHPux3199l2GtCSwBeHZGI_PyQPRXZd-udMfu9YUdAM_Khq7_OWATW9HcwCDMYRn1T1Q8_2jfwbith7dbB58F1Rcp5MMLG7XbnL2r9GCPWEVFJKQ6n1PkHE3cmrY0McgN2OZpGCxQ==&vjs=3&p=2&sk=&fvj=0,"Montréal,QC",Data Engineer,Sun Life Financial,,"At Sun Life, we work together, share common values and encourage growth and achievement. We offer many career paths that attract a wide variety of talent and skills. Follow a path that lets your talents shine.
+
+
+
+Job Description:
+
+We are currently looking for a Data Engineer with a passion for turning disparate streams of data into organized and actionable analytics services and insights. As a Data Engineer on the Data Engineering and Operations team, you will be joining a group of hardworking and savvy innovators who has made it their mission to find new ways to glean value out of rapidly increasing volumes of operational data in Canadian Operations.
+
+Role Summary:
+
+Working within a diverse and motivated team of analytics professionals, the Data Engineer will lead the development of efficient data capture and transformation processes and complex data models that form the core of a new generation of analytics services and self-serve solutions for our customers in Canadian Operations.
+
+Main Responsibilities:
+Lead development of new batch/low-latency analytical solutions that leverages both traditional and emerging technologies
+Design, develop and implement highly scalable data capture and transformation processes
+Create effective ETLs/ELTs to move large volumes of data from various operational systems to dimensional data models for analytics consumption
+Act as principal designer and reviewer for new data models, make data architectural decision, and provide coaching on data modeling and process design
+Expand and grow data existing platform capabilities to solve new data problems and challenges
+Ensure all automated processes preserve data integrity by managing the alignment of data availability and integration processes
+Support quantitative analysts and data scientists with data discovery and rapid assembly of large data sets from disparate sources
+Identify opportunities for new data acquisition and new uses for existing data resources
+Research and make recommendations for new data management technologies and software engineering practices. Collaborate on decisions around the use of new tools and practices
+Perform quality assurance and testing according to risk assessment guidelines to minimize operational, reputation, and legal risk
+Define data retention policy, establish data governance best practice, and create automated anomaly detection services
+Document and update business continuity and disaster recovery procedures
+Engage in ongoing collaboration with data architects, modellers and other members to achieve common goals
+Provide guidance to development teams regarding best practices and design patterns for analytics solutions. Coach and provide guidance to junior team members
+Produce and maintain support documentation for ongoing operations
+Act as Tier-2/3 support to troubleshoot and resolve technical issues with production data models and services
+
+Preferred skills:
+University degree in Computer Science, Software Engineering, or equivalent
+Experience with hybrid data environments that leverage both distributed and relational database technologies to support analytics services
+Solid understanding of data warehousing principles, architecture and its implementation in complex environments
+Hands-on experience with development of ELT/ETL processes in traditional and distributed environments
+Experience as designer of complex Dimensional data models for analytics services
+Experience with development for Microsoft SQL Server Analysis Services or equivalent technologies
+Experience with various testing methodologies and user acceptance testing
+Solid skills in SQL, Python, C++, Java and other languages used in data manipulation
+Experience with Hadoop and Big Data technology
+Experience with processing large datasets from multiple sources
+Ability to operate effectively and independently in a dynamic, fluid environment
+Strong verbal and written communications skills with experience in relating complex concepts to non-technical users
+Demonstrated ability to exchange ideas and convey complex information clearly and concisely
+Proven ability to lead and drive projects and assignments to completion
+
+Assets:
+Experience with optimization and tuning of large data extracts for Tableau
+Familiarity with Agile development practices
+Understanding of ITIL processes Incident/Change/Release management methodologies
+Knowledge of Insurance or Financial Services industry
+
+Diversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide perspectives and creative ideas benefits our clients, the communities where we operate and all of us as colleagues. We welcome applications from qualified individuals from all backgrounds.
+
+Persons with disabilities who need accommodation in the application process, or those needing job postings in an alternative format, may e-mail a request to thebrightside@sunlife.com
+
+We thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.
+
+
+
+Job Category:
+Advanced Analytics
+
+
+Posting End Date:
+25/10/2018","['etl', 'sql', 'tableau', 'java', 'c++', 'python', 'hadoop', 'agile']",0.4902903378454601
+https://www.indeed.ca/pagead/clk?mo=r&ad=-6NYlbfkN0AhhmRm1Z03fWHv4fse08urdMhAe3TjCZBuLWsWWxM-074zFNNrBepKYoyUHMIzKR3TZs8s_K_8c3BAkEYAHQBDEdCv28K2qWT4XD65DctvKIQ5xBFEiN6Q2BwfTEBLhvzI2M_5JhJZtskjMze0_imkiXMarqa8juRKXTsb1n84hUEuyEvbkxr2XJBaPqqY278NNRSjXBtSY9n73xRIlOUYO0DK4PDA1S35OmOnFXlDpdSUv0lWwW19z7nfX2Yb-o7WB_pjxxcWG8zU0j1nFxW9zlaODo6nstBJdXd8Ttj1-0ytxMsuef6d99AnTr6tkVJIC3XXAq4Sv8JdAd8TWXBs8ubGf7hk0qt3vdf_mCEuI_fT4pG85XtEoDyhWcYrAm_9baTKWj3_ZsXw4lrdVsKA1v84PATKQEP8FKzqY4vs_uhBQsvoZ79dZ6p1caeKsnGZrXZ5bdEyM1nkUbqG7i0MfXQIxzCxghkLniL2LscssQ8T4Optvm8pDQ_3vs24TWZicpZUk8Y6ozAG-0e8Rd3s85YF8eO-pOJYNhXRvc6ECg7w65aKgRXlNoSPzWMkVYnMKTZllQheQB64YPQD8QbTBuloxtfoKZFua4krGa-nplk4AEXthVNTxby7ACIT7UCTEeM3AcfLwApv-vtiz-MYMxPRdtFEBkBP4xt7u7MrFaw-VQO77_LFND6T6IwEpCmAblEt_NZL00BD8K56ahcuxt7a3Fp6usxk9gPF-Dz8DjOrV2j28d-HYhT_gPbNzQXzP8upEm8jTLeCsrf0juF1gRi7X_TsUSRPOmWJXsIQm8NetwtrCO_wMySZDlnwHrur6xI3YXZiyrXCGXd_Fj5PHuot19llZ2Ki_9yJLcESxw==&vjs=3&p=4&sk=&fvj=0,"Toronto,ON",Data Scientist,Logojoy,,"Logojoy is looking for a machine learning focussed Data Scientist to join our AI lab. We have an exciting long term project here that will require a dedicated individual to look at our existing research, data and algorithms and come up with a solution for a new intelligence system we’re creating.
+The role:
+Collaborate with engineering and product development teams.
+Build generative models and machine-learning algorithms.
+Keep current with the state of the art in machine learning research.
+Analyze large amounts of information to discover trends and patterns.
+Propose solutions and strategies to business challenges.
+Undertake preprocessing of structured and unstructured data.
+Propose creative solutions to hard machine learning problems.
+Collaborate with designers and developers to expand Logojoy’s product offerings.
+Generate original design elements using deep learning and data science.
+
+Requirements
+Your background:
+A solid knowledge of Python and ideally an understanding of Javascript.
+Hands on experience working on machine learning or a relevant degree (ie. Machine learning/AI, physics, software engineering, math, computer science.)
+A strong understanding of ML concepts, theories and algorithms.
+Experience preparing large datasets.
+Professional experience with Tensorflow or Torch.
+Must have database experience.
+
+Benefits
+We offer a whole range of benefits to make life just that little bit easier, some of our benefits below:
+Stock Options.
+A guaranteed end of year bonus.
+Unlimited vacation.
+A personal learning and development budget.
+Health and dental care.
+Money every month towards a fitness activity of your choice.
+Flexible working.","['python', 'tensorflow', 'javascript']",0.48038446141526137

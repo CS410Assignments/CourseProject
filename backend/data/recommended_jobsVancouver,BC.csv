@@ -1,0 +1,169 @@
+link,location,title,company,salary,desc,keywords,similarity_cosine
+https://www.indeed.ca/rc/clk?jk=2b943a97c4257feb&fccid=10b5c722d846df43&vjs=3,"Vancouver,BC",Data Scientist - NuData Security,MasterCard,,"Mastercard's Enterprise Security Solutions organization develops and delivers world-class security products and services for customers across the globe. NuData Security predicts fraudulent transactions by identifying good users from bad, based on their online behavior. By analyzing over 38 billion behaviors annually, NuData harnesses the power of behavioral and biometric analysis to empower its clients to predict fraud and verify the user behind the device. This allows clients to predict fraud before a critical decision, reduce customer insult, and investigate bad actors efficiently.
+
+Role
+We are looking for a Data Scientist to join our team in our Vancouver office. This is a key role within the team responsible for researching and developing NuData’s security solutions and you’ll have exciting responsibilities, including:
+
+Designing, building and deploying machine learning models in collaboration with an agile, high-functioning Data Science team.
+Identifying new opportunities in data collection, feature creation, feature selection, model tuning and evaluation workflow, then taking those ideas from first concepts to live product integrations.
+Implementing effective monitoring and benchmarking for models and targeting improvements via thorough analysis of massively parallel model deployments.
+Partner with NuData’s Data Science and Data Engineering teams to identify and drive opportunities, pioneering the algorithms and systems that power our commercial products.
+
+
+
+
+All About You
+Ideally, you’re:
+Experienced in deploying machine learning models to solve real problems and generate competitive edge. You understand good deployment practices and have experience with processes like containerization. Ideally you have successfully developed, deployed, monitored and improved on production models in business contexts.
+A capable coder, able to write well-abstracted, reusable, resilient code in Python, Java or Scala. You’re experienced with web services (e.g. EC2, EMR, ECR, Lambda, Sagemaker, Glue, Kinesis, Redshift), and machine learning tools (e.g. Tensorflow, Keras, MXNet, Gluon).
+Experienced working with cloud environments. You understand the benefits of cloud infrastructure and know how to design an effective machine learning pipeline in AWS or Google Cloud to automate and scale out machine learning workflows. You have the vision to see what the next generation ML infrastructure looks like.
+Familiar with statistical and machine learning concepts. You’re able to inform design discussions and support your teammates via collaborative design, review and recommendations.
+A capable communicator in visual and verbal channels, able to explain decisions or concepts to colleagues and provide clear, actionable recommendations.
+
+It also helps if you are:
+Collaborative. We do our best work as a team, which means sharing, being open to support and giving constructive input.
+Evidence-based. We work to eliminate assumptions and test our hypotheses, and we value rigor.
+Responsible. We offer the opportunity to drive major projects that protect consumers every day, internationally. We are looking for colleagues who care about that.
+Motivated. We’re a team of data scientists with personal and collaborative side projects, and we’re looking for someone who shares our enthusiasm.
+
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.","['java', 'power', 'scala', 'tensorflow', 'python', 'mxnet', 'keras', 'aws', 'google', 'agile']",0.5590169943749475
+https://www.indeed.ca/rc/clk?jk=0bf5a67d2d677439&fccid=c6d2a28efe7e3280&vjs=3,"Vancouver,BC","Senior/Intermediate Big Data Developer, IoT Cloud",Samsung Vancouver R&D Lab,,"Position Summary
+
+Samsung's IoT team in Vancouver has taken a leadership role in our vision of connected intelligence. We are creating the next generation of IoT solutions, developing cloud software to activate and manage data from a wide range of connected IoT devices, from sensors to TVs to kitchen appliances to cars. As IoT evolves for new industries, we are also creating end-to-end vertical services, most recently in the energy space.
+
+The IoT Data Platform team in Vancouver handles massive amounts of data generates by Samsung's SmartThings Cloud. The team is responsible for turning this data into information that allows our stakeholders to make data-driven decisions, as well as collaborating with other ML and AI teams across Samsung to help them get the data they need from the IoT Cloud.
+
+Why We Want You
+The IoT Data Platform Team in Vancouver is looking for a highly motivated and experienced Big Data Engineer with passion for big data, streaming, real-time analytics, and who participate in the full cycle from requirements and architecture, to deploying and owning the production system.
+
+You will join and collaborate with a talented team of the best and brightest IoT Engineers, Big Data Developers, DevOps, Data Scientists and Performance Engineers who work on leading edge technologies and projects that touch millions of people.
+First and foremost, you are a team player and know how to work well with others. You have a strong analytical mind and you like to see the whole picture. You have passion for solving complex problems and have a high degree of aptitude when it comes to learning new technologies. You love data and numbers and understand how important your role is in helping with business decisions.
+Role and Responsibilities
+Be constantly challenged to learn and grow with new technologies and complex problems
+Have shared ownership of the cloud-based products and services you build
+Implement highly scalable big data systems in a cloud environment
+Work in a multi-disciplinary scrum team
+Collaborate with other groups across the organization and other projects
+Skills and Qualifications
+Attitude to work with others and an aptitude to learn quickly
+BS or MS in Computer Science or equivalent experience
+Minimum 7 years of relevant work experience
+Hands-on understanding of scalability and high availability systems
+Proficient in Java and/or Scala programming language
+Experience with various Big Data technologies (Hadoop, Spark, Kafka, Flink, etc)
+Experience with various AWS services (EC2, S3, Lambda, Kinesis, EMR, Redshift etc)
+Proficient in scripting languages like bash, Python, etc
+Strong knowledge of SQL and NoSQL databases (HBase, Cassandra, etc)
+Bonus Skills
+DevOps skills: create build & install scripts, create/manage dockers, UNIX-based systems management, release management, production monitoring, security assessments, etc
+Knowledge of machine learning and deep learning
+Experience with Git and Jenkins
+Agile/Scrum software development methodologies
+Samsung is an equal employment opportunity employer.
+
+Samsung has an accommodation process in place and provides accommodations for job applicants with disabilities as appropriate. Assessment and selection materials and procedures can be made available in accessible formats and methods as appropriate. If you require a specific accommodation because of disability or medical need, please let us know when selected to take part in our recruitment process so that reasonable arrangements can be made for the appropriate accommodations to be in place as you move through our process.
+
+We thank you for your interest in working for Samsung. Only candidates selected for an interview will be contacted.","['scrum', 'java', 'cassandra', 'scala', 'python', 'spark', 'sql', 'hadoop', 'nosql', 'hbase', 'bash', 'aws', 'agile', 'devops']",0.472455591261534
+https://www.indeed.ca/rc/clk?jk=ee3f564164d2074c&fccid=e671f6b2e57dc9e3&vjs=3,"Vancouver,BC",Lead Data Engineer,Ignite Technical Resources,,"Permanent
+Lead Data Engineer - Permanent Position in Downtown Vancouver:
+On behalf of our local, Downtown Vancouver client, Ignite Technical Resources is seeking a Lead Developer for their Data Analytics Team to join on a Permanent basis.
+In this role, you will be managing a Data Analytics team of up to 3 Developers and will have accountability for architecture and system design.
+Heavy work/life balance (5 weeks of vacation to start*), shortened workweeks in the summer (paid), a fantastic team, fully stocked kitchen, and a health benefits package is among the perks.
+You will have the opportunity to learn cutting edge technologies and will be exposed to strong Agile/Scrum teams alike within the company. Entirely based on AWS, their customers are worldwide enterprises where you'll be a big part in shaping their system and building their team.
+Responsibilities:
+This role is very hands on and will be focused on system architecture, software design, research, testing and development (80% hands on, 20% leadership)
+Plan, design and coordinate the development of new software components for their data aggregation and storage systems
+Mentor, train, and on-board new hires and participate in code reviews and other technical discussions
+Work together with the team to manage the operations of data processing and storage systems to ensure efficiency whilst upgrading and developing maintenance procedures as needed
+Draft technical documentation of software, development environments, production environments, as well as procedures
+Lead team meetings and discussions for estimation, software design, software development, and code reviews
+Skills and Abilities:
+Experience leading teams on projects with data pipelines in a large-scale production environment (MapReduce, Streaming, Batching or similar frameworks)
+Will have experience and be comfortable in managing teams, leading, conducting code reviews, training, etc.
+Will have experience with system architecture, software design, research, testing, and development
+Building data pipelines (AWS EMR, AWS Data Pipeline, ECS, SQS or similar technologies)
+Data pipeline language experience
+Knowledge of ETL based frameworks
+Experience with Scripting Languages
+SQL databases experience
+BDD or TDD development in an Agile-like process
+Post-secondary diploma or equivalent degree in computer science, engineering, or a related discipline
+Perks:
+5 weeks of vacation to start*
+Shortened Summer hours: Every Friday is only a 6-hour workday!
+Amazing benefits program including a health and wellness spending account of $2400 in addition/on top of the benefits coverage that is already provided
+Fully stocked kitchen (breakfast, snacks, etc.)
+Positive, collaborative, and fun team environment with a culture that accepts all individuals
+Ability to learn and be exposed to cutting edge technologies
+Plenty of opportunities for further education and career growth
+Terms:
+This is a full-time permanent role based in Downtown, Vancouver. Work environment is casual and comfortable.
+Due to the volume of resumes, only those candidates being considered will be contacted.
+Ignite Technical Resources is a Vancouver-based Information Technology resourcing firm built around three principles: speed, efficiency and quality. We provide highly trained and qualified technical consultants to your organization as a flexible work force option.
+Ignite. Wired for people.
+Follow Ignite on Twitter @ignitetechnical and become a fan on Facebook for up-to-date information about our company including job postings!","['scrum', 'mapreduce', 'sql', 'aws', 'agile', 'etl']",0.43301270189221935
+https://www.indeed.ca/company/REBCA/jobs/Senior-Data-Engineer-3c8bffbec9bfede9?fccid=f5906d665e18e186&vjs=3,"Vancouver,BC",Senior Data Engineer,REBCA,"$100,000 - $130,000 a year","$100,000 - $130,000 a year
+We are looking for senior data engineer to join our talented and amazing team in Vancouver.
+REBCA is an innovative startup in the real estate industry that is determined to introduce exciting and groundbreaking changes to the industry. Our vision is to bring forth unprecedented levels of responsiveness, efficiency, convenience, and transparency in different aspects of the real estate services.
+If you are an ambitious individual interested in joining a team to help shape the future of the real estate industry, we encourage you to apply!
+Responsibilities:
+Develop, maintain and refine advanced models to provide valuable insights for strategic decision making
+Identify opportunities where data solutions can be developed to add value across the organization.
+Use statistical and machine learning techniques to provide insight on all aspects of REBCA's business and identify opportunities for enhancement.
+Work with department teams on a range of business problems, identifying and supporting the implementation of solutions to drive improved business results through a combination of advanced analytics, process engineering and usage of new data discovery tools.
+Suggest and evaluate potential solutions derived from the output of predictive models, turning them into tangible cost benefits for the given business area.
+Collaborate with key business stakeholders and executive team to enhance and/or develop new products, services and experiences.
+Research and develop new ways to apply and analyze experiments to benefit the organization.
+Perform database monitoring, maintenance, reorganizations, resource management, schema management, and capacity planning and performance tuning for the company's databases.
+Qualifications:
+3+ years experience of implementing and/or maintaining a data processing pipeline and its underlying infrastructure
+4+ years working experience and education in Big Data platforms
+Proficiency in object-oriented/object function scripting languages: Python, Scala, Java
+Knowledge of data modeling and understanding of different data structures and their benefits and limitations under particular use cases
+Knowledge of GCP technologies such as Big Query ML, Cloud Machine Learning Engine, Dialogflow...etc is a plus
+Perks:
+Stock Options
+Health & Dental Benefits
+Growth Opportunities
+Social Events
+Collaborative Team Environment
+Flexible Hours
+Convenient Vancouver Office location and easily accessible by transit
+Additional Info about this Position:
+REBCA is a new startup company with plans for rapid growth. We fully encourage and support our staff to grow and specialize in areas they are passionate in.
+Job Type: Full-time
+Salary: $100,000.00 to $130,000.00 /year","['java', 'scala', 'python']",0.4082482904638631
+https://www.indeed.ca/rc/clk?jk=236221bbffe731c5&fccid=89ea848be3fa4cf9&vjs=3,"Vancouver,BC",Data Engineer,BuildDirect,,"What You'll Do
+Create and maintain optimal data pipeline architecture.
+Identify, design, and implement internal process improvements: re-designing infrastructure for greater scalability, automating manual processes, optimizing data delivery, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS big data technologies.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+What You’ll Need
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Bachelor or Master degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+Experience with data pipeline and workflow management tools: Airflow, Luigi, Amazon Data Pipeline and etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift, Lambda.
+Experience with stream-processing systems: Kinesis, Storm, Spark-Streaming, etc.
+Experience with one of the object-oriented/scripting languages: Python, Scala, Java, etc.
+Excellent team player who lends support and guidance and shares concern, problems and opportunities.
+Bonus Experience with big data tools: Hadoop, Spark, Kafka, etc.
+What You Must Have
+Self-directed and comfortable supporting the data needs of multiple teams, systems and products in a fast-paced and dynamic environment.
+Excited by the prospect of optimizing or re-designing our company’s data architecture to support our next generation products and data initiatives.
+An audacious spirit that embraces uncertainty and challenges with enthusiasm
+High levels of integrity and a commitment to do what you say you are going to do
+Strong entrepreneurial spirit that has grit, determination and challenges the status quo
+High degree of empathy and the ability to see other’s perspective
+Strong sense of curiosity and the desire to learn and get better everyday
+A little more about us…
+
+BuildDirect is reinventing the home improvement industry with the first artificial intelligence (AI)-driven technology platform for heavyweight products. The BuildDirect platform includes two core business units:
+BuildDirect Marketplace: An online marketplace that offers Homeowners and Pro Buyers the ability to purchase heavyweight home improvement products direct from Sellers and receive efficient direct-to-home (or jobsite) shipping of those products.
+Gateway Supply Chain: The first anywhere-to-the-home supply chain for heavy and bulky goods that equips manufacturers, distributors and retailers with efficient and cost-effective shipping solutions to move their products from anywhere in the world, to locations across North America.
+The platform is powered by proprietary AI, machine learning, and predictive analytics that drives robust efficiencies for the innovation of heavyweight product services, distribution, and sales across buyers, sellers, shippers, and everyone in between.
+
+BuildDirect is headquartered in Vancouver, British Columbia with warehouse locations across North America.","['java', 'bachelor', 'scala', 'python', 'master', 'spark', 'sql', 'hadoop', 'aws']",0.3535533905932738

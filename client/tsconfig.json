@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/create-react-app/tsconfig.json",
+  "compilerOptions": {
+    "target": "es6",
+    "baseUrl": "src",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "incremental": true
+  }
+}
