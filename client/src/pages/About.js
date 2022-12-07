@@ -5,6 +5,7 @@ function About() {
   return (
     <div>
         <h1 className='about'>Learn more about the purpose of InvestBuddy...</h1>
+        
         <div className="row">
   <div className="column">
     <div className="card">

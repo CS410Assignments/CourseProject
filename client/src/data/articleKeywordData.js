@@ -1,4 +1,4 @@
-[
+const data = [
     {
       "article_url": "https://www.investopedia.com/ask/answers/108.asp#:~:text=To%20buy%20stocks%2C%20you'll,the%20trade%20should%20be%20handled.",
       "keywords": ["stocks", "stockbroker", "exchange", "nasdaq", "online"]
@@ -299,4 +299,6 @@
       "article_url": "https://www.investopedia.com/terms/i/investmentbank.asp",
       "keywords": ["investment bank", "IPO", "JPMorgan", "intermediary", "transaction"]
     }
-  ]
+]
+
+export default data;
