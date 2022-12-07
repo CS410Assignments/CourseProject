@@ -11,20 +11,20 @@ function Home() {
   const [articleURL, setArticleURL] = useState('');
 
   // From 3 - 1
-  const rangeResponseOne = "Love the enthusiasm! Hope this article helps you on your investment journey :) {}";
+  const rangeResponseOne = "Love the enthusiasm! Hope this article helps you on your investment journey :) ";
 
   // From 1 - (-1)
-  const rangeResponseTwo = "I see you're very curious! Here's an article to help you on your knowledge search! {}";
+  const rangeResponseTwo = "I see you're very curious! Here's an article to help you on your knowledge search! ";
 
   // From (-1) - (-3)
-  const rangeResponseThree = "I see you're having a rough day, Hope this article helps you on your journey! {}";
+  const rangeResponseThree = "I see you're having a rough day, Hope this article helps you on your journey! ";
 
   const userRequestSearch = (sentence) => {
     var sentimentObj = new Sentiment();
     var sentimentDoc = sentimentObj.analyze(sentence);
     setSentimentScore(sentimentDoc['comparative']);
-    console.log(sentimentScore);
     setSearchClicked(true);
+    findURLMatch(message)
   }
 
   const handleChange = event => {
@@ -33,41 +33,45 @@ function Home() {
 
   const sentimentPrompt = (score) => {
     if (score <= 3 && score > 1){
-      return <p className='buddy-response'>{rangeResponseOne}</p>
+      return <div><p className='buddy-response'>{rangeResponseOne}</p> <a href={articleURL}>Click here</a> </div>
     }
     else if (score <= 1 && score > -1){
-      return <p className='buddy-response'>{rangeResponseTwo}</p>
+      return <div><p className='buddy-response'>{rangeResponseTwo}</p> <a href={articleURL}>Click here</a> </div>
     }
     else if (score <= -1 && score > -3){
-      return <p className='buddy-response'>{rangeResponseThree}</p>
+      return <div><p className='buddy-response'>{rangeResponseThree}</p> <a href={articleURL}>Click here</a> </div>
     }
-    findURLMatch(message)
+
+  }
+
+  function getIntersection(setA, setB) {
+    const intersection = new Set(
+      [...setA].filter(element => setB.has(element))
+    );
+  
+    return intersection;
   }
 
   const findURLMatch = (message) => {
-    var cur_url_match = "";
     var cur_url_keyword_matches = 0;
-    var message_arr = message.split(" ");
-    console.log("hello")
+    var message_arr = String(message).split(" ");
+
+    // Iterate through all entries
     for (var i = 0; i < data.length; i++) {
-      console.log("in for loop")
-      for (var j = 0; j < data[i]['keywords'].length; j++){
-        var matches_found = 0;
-        for (var k = 0; k < message_arr.length; k++){
-          if (message_arr[k] == data[i]['keywords'][j]){
-            matches_found += 1;
-          }
-        }
-        if (matches_found > cur_url_keyword_matches){
-          cur_url_keyword_matches = matches_found;
-          cur_url_match = data[i]['article_url']
-        }
+      var keywordSet = new Set(data[i]["keywords"]);
+      var messageTokenSet = new Set(message_arr);
+      var intersectionSet = getIntersection(keywordSet, messageTokenSet);
+
+      if (intersectionSet.size > cur_url_keyword_matches){
+        cur_url_keyword_matches = intersectionSet.length
+        console.log(data[i]["article_url"])
+        setArticleURL(data[i]["article_url"])
       }
     }
-    setArticleURL(cur_url_match);
-    console.log(articleURL)
-    
+    console.log(articleURL);
+    sentimentPrompt(sentimentScore);
   }
+
   return (
     
     <div>
@@ -80,8 +84,7 @@ function Home() {
       <button className='button-search' onClick={() => userRequestSearch(message)}>Search</button>
       </div>
 
-      {searchClicked ? 
-      sentimentPrompt(sentimentScore): null}
+      {searchClicked ? sentimentPrompt(sentimentScore): null}
       
     </div>
   )
