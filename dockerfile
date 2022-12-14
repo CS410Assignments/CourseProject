@@ -16,12 +16,12 @@ COPY . .
 
 
 #to COPY the remote file at working directory in container
-COPY sarcasm_analysis.py ./
+COPY sarcasm_final.py ./
 # Now the structure looks like this '/usr/app/src/test.py'
 
 
 #CMD instruction should be used to run the software
 #contained by your image, along with any arguments.
 
-CMD [ "python", "./sarcasm_analysis.py"]
+CMD [ "python", "./sarcasm_final.py"]
 
