@@ -24,7 +24,7 @@ Arxiv preprint 2022
 All codes and files are provided in the "/Demo" folder of this repo:  
 
 ### Codes
-A Colab notebook "test.ipynb" is provided for demo. Please sequentially run the code cells in this notebook.
+A Colab notebook "test.ipynb" is used for demo. Please sequentially run the code cells in this notebook.
 
 ### Files
 - Trained RNN model: current_model.h5
