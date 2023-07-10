@@ -1,0 +1,289 @@
+Hi, everyone.
+Welcome again to my home. It's a nice cool evening.
+And really a lovely day here in Durham, North Carolina today.
+Maybe you can tell since my last tutorial, I had a hair cut, so I'm especially
+feeling the nice, cool weather this evening.
+And I'm happy to spend a little bit of time with you, talking to you about
+synaptic integration. So we continue to talk about our important
+core concept in the field of neuroscience that pertains to the communication that
+happens among neurons and between neurons and peripheral structures via the
+generation of chemical and electrical signals.
+Specifically, our learning objective today is to discuss the concepts of excitatory
+postsynaptic potentials and inhibitory postsynaptic potentials.
+And, but what I want you to be able to do, do is to be able to define these terms in
+terms of the reversal potential. For the postsynaptic current and the
+threshold for generating an action potential.
+Now, I trust all of that will be clear as we go through the tutorial together.
+And secondly, my objective is for you to be able to describe how postsynaptic
+potentials. Can summate within a neuron both in space
+and in time. Alright well in order to address this
+shorter tutorial on this subject tonight I want us to start by reviewing the
+mechanisms of chemical synaptic transmission.
+Now, you've had a few tutorials so I think things ought to be fairly clear so I'll go
+rather quickly through this. As you will recall, an action potential
+will invade the end of an axon where we find our presynaptic terminal and a wave
+of depolarization then conveys positive charge along the length of this
+presynaptic terminal. And once that positivity reaches our
+voltage gated calcium channels they will open and calcium can rush into that
+presynaptic terminal The calcium in that presynaptic terminal.
+Is the key trigger that leads to the fusion of docked vesicles, allowing their
+neurotransmitter to then passively diffuse out into the synaptic cleft.
+And I'll just remind you that this happens when calcium interacts with synaptotagmin
+and that leads to a twisted and pulling together of that snare complex that
+results in the fusion of that vesicle. With the presynaptic terminal membrane,
+and that fusion of that creates a pore so that the transmitter can diffuse out.
+And then once we have a transmitter in the synaptic cleft, then that transmitter can
+interact with receptors, in this illustration we have ionotropic receptors.
+And that's really going to be our consideration this evening.
+You will recall from past tutorials that there are also metabotropic receptors for
+transmitters that mediate longer lasting effects.
+And, and surely that's part of what we have in mind when we talk about the
+integration of postsynaptic signals. But for this tutorial, I want to focus on
+the integration of currents that are mediated via the activities of ligand
+gated ion channels. And I want us to think about those
+currents that are more likely to lead to the generation of an action potential in
+this postsynaptic neuron as this wave of depolarization.
+Reaches that postsynaptic terminal, or I want us to think about those conductance
+that might actually make it less likely for that post-synaptic action potential to
+be generated. Okay, so on the one hand, we're going to
+talk about action Of neurotransmitters that elicits what we call an excitatory
+post-synaptic potential, and on the other, we're going to talk about activities of
+neurotransmitters that give rise to what we call an inhibitory post-synaptic
+potential. So forgive me if I use that jargon quite a
+bit today EPSP and IPSP. This is jargon that we will find
+throughout the literature in the world of neuroscience especially as it pertains to
+neurophysiology. So, when you hear that EPSP, IPSP think of
+excitatory postsynpatic potentials and inhibitory postsynaptic potentials.
+So I want us to spend just a little bit of time with what I consider to be a very
+important figure from the textbook that we've been reading along with this course
+so far. It's figure 5.21, and it pertains to these
+concepts of excitatory post-synaptic Potential, inhibitory post-synaptic
+potential, and how we can understand and even define those terms relative to the
+reversal potential. Remember, that conept that comes way back
+when we first introduced the Nernst equation and talked about the equilibrium
+potential for permeant ion. Well, we're going to bring back that
+concept and now apply it to the conductance that passes through a
+ligand-gated ion channel. So what we have illustrated in part A of
+this figure is an excitatory post synaptic potential.
+So we might think of this as a post synaptic potential that is secondary to
+the release of let's say, glutamate from a synapse or maybe a collection of synapses
+that are converging upon the same dendrite of a post synaptic neuron.
+Well, as glutamate binds to its ionotropic receptors, for example AMPA receptors,
+those receptors open and sodium rushes into the cell.
+And as a consequence, what we see is a depolarizing event.
+We call that depolarizing event an excitatory postsynaptic potential.
+So why do we call it that? Well, here's the definition.
+The reason why we call it an excitatory postsynaptic potential is that the
+reversal potential of the active conductance is well above the threshold
+for firing an action potential. Now couple of tutorials ago we looked
+closely at the conductance that passed through the nicotinic acid choline
+receptor and because both sodium and potassium can pass through that receptor,
+the reversal potential. For the net current flow, that is the net
+conductance was around zero millivolts. And that's very much the same situation
+that we have here for this conductance that is gated by glutamate.
+So the reversal potential is about zero millivolts and that's because sodium is
+entering the cell through the ampa, ionotropic receptor, and potassium is
+leaving the cell. So the voltage that is the membrane
+potential at which there's no net current flow, is zero millivolts.
+Okay, so what does that mean for this particular synapse that has this effect on
+this neuron? Well, what this means is that if this
+synapse, if this input to this cell in question, from which we are recording, if
+this synapse could have its way with that neuron and pardon me for that language,
+but I think it helps. If that synapse can have its way with that
+post-synaptic neuron, that post-synaptic neuron will be depolarized to the reversal
+potential of that active conductance Now, this synapse doesn't have its way, because
+it's like most synapses in the brain, a weak synapse.
+Maybe there's not a lot of glutamate that's being released.
+Maybe there aren't a lot of AMPA receptors to receive that glutamate.
+However, the reversal potential for the AMPA mediated conductance is near zero
+millivolts. So that means that if this particular
+synapse could completely capture that post synaptic neuron.
+It would depolarize it to the reversal potential.
+Well, as I just mentioned most synapses are not that powerful.
+They're actually, actually rather weak. And they typically only allow for a post
+synaptic membrane to depolarize by a few millivolts.
+And that's the story that we have here. If there is a single active glutamate
+synapse even a very strong and powerful glutamate synapse, we may only see an
+excitatory postsynaptic potential of some modest value.
+But if we imagine the concurrent stimulation of a number of inputs we might
+very well Have a depolarization that hits that threshold for firing an action
+potential. So, do you remember what threshold is?
+Threshold is when more Sodium ions are rushing into the cell than potassium ions
+are leaving the cell. When we reach that threshold, then an
+action potential can fire. Okay, so let's put this together now.
+So, we activate a glutamatorgic synapse or perhaps, a collection of glutamatorgic
+synapses on this cell. The cell begins to depolarize because
+sodium is rushing in to the cell through the AMPA receptor channel.
+And its reversal potential is around zero millivolts.
+So, we've got a large conductance, because the channel is open, and we've got a large
+driving force, right, because we're pretty far away from that reversal of potential
+when we start at rest. Well, as this cell begins to depolarize,
+now we start opening up our voltage gated sodium channel.
+And that's what leads to triggering this action potential that we record here,
+okay? So the binding of glutamate to the AMPA
+receptor is what gets us started and then the action potential is generated through
+the usual means, through voltage gated sodium channels.
+Accounting for the sharp rising phase and then sodium channel inactivation begins
+the falling phase. That gets reinforced with the opening, the
+slower opening of the voltage gated potassium channels.
+Alright, that is a typical glutamate synapse within the brain.
+Now, let's consider a different neurotransmitter, the neurotransmitter
+GABA, gamma amino butyric acid. Now, if you remember, GABA binds to a
+receptor that's part of an ionotropic receptor and that receptor's permeable to
+chloride ions. And in most mature brain cells there's
+more chloride outside then inside so that means when the chloride channel is open.
+Chloride ions are going to want to enter the cell, okay?
+And if we are making the inside of the cell more negative because of the influx
+of chloride ions, we might expect some hyperpolarization.
+And that's exactly what we see here. If we activate a GABA synapse, there may
+be a small hyperpolarization. And the reason is that we are trying to
+drive that post synaptic membrane to the reversal potential of the active
+conductants. Same principle that we talked about for
+the glutamatergic synapse only now we're applying it to the situation of a GABA
+synapse. So notice where the reversal potential is
+for this particular neuron in question. It's actually hyperpolarized relative to
+rest. So, when the conductance opens, the
+concentration gradient is such that it will.
+Hyperpolarized by a few millivolts this membrane potential.
+That's what we call an inhibitory postsynaptic potential, not because it's
+hyperpolarizing but because the reversal potential is below threshold.
+All right, just to reinforce that point, let's look at the third example.
+This also is a GABA synapse. Only because of the concentration
+gradients inside and outside this particular cell.
+The reversal potential for the active conductance is actually in the
+depolarizing direction. But get this.
+It's still. An inhibitory post synaptic potential.
+Why? Because the reversal potential of the
+active conductance is below threshold. Okay?
+I hope you're catching onto this. So, again, let me use that, somewhat loose
+language of saying. If that synapse with that particular
+conductance could have its way with the post synaptic neuron.
+It would clamp. The membrane potential of the postsynaptic
+neuron at the reversal potential, okay? No more, no less, at the reversal
+potential. So, in theory, the most depolarized this
+neuron, shown in panel C, could ever possibly get with this active conductance
+is the reversal potential Which is below threshold.
+So what we see, in fact, is when we activate that synapse a depolarizing post
+synaptic potential, but it's still an inhibitory post synaptic potential.
+So please don't make the association of depolarization with excitatory post
+synaptic potential because you'll be missing the concept entirely.
+I want you to associate the idea that the reversal potential of the active
+conductance is what defines a postsynaptic response as being an EPSP or an IPSP.
+So, if the reversal potential of the active conductance is above threshold,
+then that is excitatory postsynaptic potential.
+If the reversal potential of the active conductance is.
+Low threshold and that is a inhibitory post-synaptic potential.
+Now if you're following along with the tutorial handout that I've given you I'm
+asking you a question at this point. I'm asking you can the same
+neuro-transmitter. Give rise to excitatory postsynaptic
+potentials and inhibitory postsynaptic potentials.
+Well, the answer is yes and the reason has to do with the definitions that I've just
+given you. Which are illustrated over here in panel
+D. So, if the difference between an EPSP and
+an IPSP is the reversal potential, then you should now have some intuition that
+tells you that the reversal potential is really a function.
+Of the concentration gradient of the permeate ion.
+So suppose that concentration gradient were reversed.
+Well we may take a reversal potential that is above threshold and now place it below
+threshold. Or vice versa.
+Well this is the case for GABA. Gaba is usually described as the Principal
+inhibitory neurotransmitter in the brain. But, about 10 or 15 years ago we realized
+that this might not be the case in the developing brain, and here's why.
+When we look at the pumps for establishing chloride gradients in the developing
+brain, we realize that there is actually a difference.
+There's a bit of a switch that takes place.
+During brain development at least for most neurons in the model species for which
+this has been studied so far. What we find is a particular type of
+chloride transfer that is expressed in immature neurons and then as these neurons
+grow up a bit, a different Transporter is expressed, and that transporter reverses
+the chloride gradient. So in an immature neuron, we typically
+have high chloride concentrations in the cytoplasm and low chloride concentrations
+In the extra cellular spaces. But once this gene switch is turned on a
+different type of transporter is now inserted into the membrane as the neurons
+develop in post natal life Now, we have low chloride concentrations within the
+cytoplasm. And much higher chloride concentrations
+outside of the cell. And this has a very predictable impact on
+the reversal potential of the GABA a channel conductor dense.
+The reversal potential in the immature neuron is above firing threshold for most
+neurons, whereas, following the reversal of that gradient as neu-, neurons get
+older and more mature, we find that the reversal potential for This concentration
+gradient of chloride now falls below threshold.
+So in the immature neuron, GABA is an excitatory neurotransmitter, mediating
+excitatory postsynaptic potentials. But in the mature neuron, GABA typically
+Is going to mediate inhibitory post synaptic potentials, okay?
+And again, the key difference is the expression of different transporters that
+can change the gradient for the permeate ion.
+Here's some electrophysiological data that makes this point.
+In the left part of panel, C is a recording from a 6 day old neuron in a
+mouse. And what we find is that with application
+of GABA. There is a series of action potentials
+that rise upon this envelope of depolarization.
+This is an EPSP leading to the generation of action potentials.
+Now, if we were to wait a few days later As these neurons mature and apply GABA,
+now we see that there is a hyper polarization of the membrane.
+And the difference is a pump that reverses the gradient from high intracellular
+chloride levels to low intracellular chloride levels across the first few weeks
+of postnatal life, at least in the mouse model.
+We have every reason to believe that the same biology is happening in the human
+brain during development. We just don't yet know exactly when that
+shift in expression of chloride transporters takes place.
+Alright, now I'd like to switch gears just a little bit now, and talk about the
+integration of excitatory postsynaptic potentials and inhibitory post-synaptic
+potentials, and in figure 5.22, we see a very simplified representation of what we
+find in the brain. We have a postsynaptic neuron that's
+receiving, a number of inputs, we're illustrating three of them here.
+So, we have an excitatory input that we're, we call E1, another excitatory
+input that we call E2 and then, and inhibitory Input.
+Now of course if we're talking about a typical brain cell, there would be
+thousands of these inputs, some of which would be excitatory, some of which would
+be inhibitory. But we're going to keep things real simple
+and only talk about three. So, let's consider what would happen if
+either that first or the second excitatory input alone were to fire an actual
+potential. Most likely what we would see is a
+subthreshold depolarization. So that's what we have here if the
+activate either of these two inputs. We have small depolarization of a few
+millivolts and this really is more typical of what we see in the brain.
+No one synpase is that strong. So in order to achieve firing threshold
+for the generation of inaction potential, we need to have multiple excitatory inputs
+summate their post-synaptic potentials in the same region of the dendrite at the
+same time. This is what we call summation.
+So, look at what happens if we activate excitatory input 1 and 2 concurrently.
+Now we can generate a post-synaptic potential that sums up, and the sum of
+these two potentials is sufficient to achieve action potential generation
+threshold, and as a result we have this nice action potential that fires, okay.
+Well, let's now think about our inhibitory input that we have on this neuron.
+So, let's imagine this is an input releasing GABA and let's imagine it's a
+mature neuron. So, when the GABA A receptor channel
+opens, chloride is going to rush into the cell and that very well could cause a
+hyperpolarization of that neuron and in fact that's exactly what we see here.
+When we activate input I, the inhibiory input, we see a small inhibitory post
+synaptic potential and again, it didn't matter if it was hyperpolarizing or
+de-polarizing as long as the reversal potential.
+The active conductance was below threshold, it could be here, or it could
+have here, but as long as it's below the threshold, then it will be an inhibitory
+postsynapitc potential. Okay, well now let's get a bit more
+realistic, let's have both aciditory and inhibitory inputs firing more ore less at
+the same time. And what we see is that these imputs will
+sum algebraically. So if we add one excitatory, one
+inhibitory input together then the result is going to be the summation of the two.
+And in this example anyway, we will see at best a subthreshold depolarization.
+That might still be the case if we were to add the two excitatory together with an,
+an inhibitor. So I think you get the idea here, that is
+that no one synapse is typically strong enough to result in the generation of an
+action potential in the post synaptic neuron.
+But we need to have many synapses. Perhaps even tens or hundreds or, or
+thousands of excitatory inputs converging on the same neuron at the same time in
+order to depolarize that membrane sufficiently to reach threshold.
+Because we can be sure that there's probably some inhibitory activity that's
+converging at the same time as well. So we have to overcome the impact of that
+inhibitory input even while we summate our excitatory inputs to achieve threshold.
+I am distracted to my left just for a moment, it sounds like a deer has just
+walked by, it's dark enough so that I can't see him.
+Could be an opossum, but it sounds like a deer.
+Actually I think it is an opossum. Well, this brings us to the end of this
+shorter tutorial and I hope it helps you put these concepts of excitation and
+inhibition in context. And I hope it allows you to better
+understand the neurophysiology of real neurons in the brain.
+Okay, so when we talk next time, we will be exploring together the fascinating
+phenomenon of synaptic plasticity. I can't wait to have that conversation
+with you all.

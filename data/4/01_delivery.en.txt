@@ -1,0 +1,58 @@
+Hi, welcome back to cybersecurity for
+everyone. I'm Dr.Charles Harry. In this episode, we're going to talk about the next
+phase of the hacking process delivery. So remember hacking is a process, there are several different steps we have
+to undertake in order to conduct hacking. And in this episode we're
+going to talk about delivery. So what is Delivery? Well, at this point of
+the hacking process, the Threat Actors has finished
+weaponizing an exploit to take advantage of the specific
+vulnerability in the system. They can use any number of
+techniques to deliver an exploit. Delivery can include a couple
+of different examples. These include, E-mail or Social Media, even a Thumb Drive or
+even access to a particular website so that when you visit that website
+it throws the exploit at you. The goal is to get the exploit
+that you've created to the target of interest that is
+fundamentally what delivery is. So what are some of these
+Delivery Techniques? Well, first of all, there are Multiple
+Techniques, a lot of different ways. I could potentially
+compromise your network. So one example of a really common
+technique is something called Spear Phishing. A Spear Phishing is really just about
+sending a direct message to your target. And that can include things like
+an attachment, like a word document or a pdf or even an Excel file with
+the hope that you double click and open that particular document. Or it could just be a link. That you click on. It can also include access through
+what we call the Supply Chain. So organizations may partner with other
+firms to allow it to conduct business. So for instance,
+if I'm a firm that manufactures tires, I probably have a lot of
+different vendors that I use. If those vendors have potential
+access to my network, I can maybe compromise one of the vendors. Swim through their network
+to get access to yours. It might include Removable Media,
+USB Thumb Drive or removable drive. Might be a way in which if I've
+compromised that particular device, I can use that to help compromise
+your system and deliver my exploits. I might even just be able to
+take advantage of weaknesses in the public facing applications
+that you're running. For instance, if you have a web server
+that is running that is just not patched. For all the known vulnerabilities
+that is associated with it. I might just be able to brute force
+my way directly into your network. So what are some of the Goals
+of the Delivery Phase? Well, it's really focused on
+getting that exploit to the target. And depending on the technique that
+is used to exploit that target, human interaction might
+actually be required. I might need that human to double
+click on the particular file or to click on the link. So while yes, the exploit focuses
+on vulnerabilities of the technical system in the delivery process. I'm also leveraging weaknesses
+in the human system. Can I convince you that this particular
+E-mail attachment is something of interest to you. If I send you an E-mail on a random topic,
+that makes no sense to you in the way that it's worded, are you likely to
+open up that particular attachment? Or if I send you an E-mail on its subject
+that's related to a hobby that you enjoy, maybe you're more likely to open it. So understanding your target and
+understanding the human dimension is fundamentally important
+in the hacking process. The focus here is an enabling or
+executing the exploit. And when we talk in the next
+section about execution, we will pick up on this particular threat. So what are some of the takeaways? Well again, hacking is a process and Delivery is the third
+phase in that process. Delivery techniques are all about getting
+that exploit to the target itself. Once at the target we want
+that exploit to be executed. And in our next section we'll talk
+more thoroughly about this process. There are several techniques that we can
+use to deliver our particular exploit. And they include things like E-mails or
+direct messaging through social media, USB thumb drives, even supply chains. In our next episode,
+we're going to talk about exploitation and installation as the next two
+phases in the hacking process. Hope to see you next time.

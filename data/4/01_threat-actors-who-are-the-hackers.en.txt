@@ -1,0 +1,134 @@
+Hi. Welcome back to cyber
+security for everyone. I'm Dr. Charles Harry. In the last several episodes, we've talked a lot about how
+the Internet actually works. In this episode, I want to change the subject a little bit and talk a little bit about
+who the hackers actually are, and specifically the threats
+they potentially represent. Let's talk a little
+bit more about those cyber security threats. Our society is
+increasingly reliant on information technology for all sorts of
+everyday activities. These include things like banking and our retail services, but also includes things
+like transportation, as well as healthcare
+systems and many others. The important thing to
+remember is that each one of these sectors have
+several vulnerabilities in the various
+systems they rely on. Those vulnerabilities can
+be exploited by hackers. Let's first, instead of
+using the word hacker, let's use a much
+more formal term. I'm going to use the
+term threat actor. The reason we want to talk
+about a threat actor is that a cyber attack is orchestrated by a person
+or an organization. That person or organization
+is motivated by a purpose. It's really important for
+us to understand that not all threat actors are
+focused on the same things. Some are motivated
+by financial gain, others maybe by national
+security interests. We need to understand the differences between
+those various threat actors. They execute those operations, utilizing available resources
+and they leverage tactics, tools, and processes that vary. This is an important
+distinction because not all threat actors have
+the same level of capability. We need to understand that, if we're to get to the bottom of the real cyber security
+challenges that we face. Let's talk a little bit
+more about the people and the organizations
+behind this hacking. As we discussed,
+cyber attacks are executed by specific people who act either
+independently or as part of a broader
+collective or group. There are lone actors that may train and execute
+attacks based on their own internal
+motivations or as part in an effort to gain
+additional reputation. However, groups of actors
+operating as an organization might execute attacks
+for financial, political, or even
+nationalist purposes. We need to understand the
+differences that each one of these threat
+actors represent. Let's talk a little bit
+more about motivation. Threat actors are motivated to conduct cyber attack for a
+variety of different purposes. They include things
+like curiosity, even reputation, there
+are financial incentives, in some cases,
+political activism, terrorist activity and finally, even national security
+considerations. It's important to understand
+these motivations influence different groups to conduct certain types of attacks
+against certain organizations. If we want to understand
+the broad set of threats facing things like
+critical infrastructure, we need to understand
+who the threat actors are and what they're
+motivated to achieve. Let's talk a little bit
+more about resources. Not all threat actors
+have the same level of resources that
+they need in order to execute a specific
+type of cyber attack. The ability of threat
+actors to execute effects is constrained
+by certain things. First, they're constrained
+by their own skill level. Are these threat actors? Have they been
+practicing for years? Have they been trained by
+a government organization, or are they learning their
+skills simply on YouTube? It matters. Second, the tools
+that they're using matter. Are these tools that have been developed by others
+that people are commonly using
+around the world and therefore they're
+known by defenders, that might limit
+their effectiveness, or are the tools custom made? Are they leveraging
+capabilities and techniques that no one
+has ever seen before? The processes and techniques that threat actors use
+are really important. Are they well known by
+defenders or are they novel? Then finally, the
+financial resources that they can bring to bear matter. If you're a threat
+actor and you're interested in attacking a piece of critical
+infrastructure, let's call it a
+natural gas pipeline, there are very specific
+technologies that are leveraged in those
+types of systems. If you're a threat actor and you want to attack those systems, you're likely having to go out and purchase those systems, gain access to those systems, and then they're not
+necessarily cheap, they may run several
+hundred thousand dollars. If you're living in
+your parents' basement, chances are you're
+not going to have a couple hundred
+thousand dollars lying around in order for you to actually mess
+around and identify the exploitation potential
+in that particular system. Here's an example in the banking sector or
+a handful of examples. First, there were
+Iranian attacks against 46 major financial
+institutions in 2011. We've also seen attacks by a North Korean hacking
+group that led to the compromise of
+a $100 million out of Bangladeshi Central
+Bank accounts in 2015. But it's not simply about attacks against the
+financial sector. We also see attacks
+in the energy sector. Examples might include power
+disruptions in the Ukraine, denial of service
+attacks against customer service phone
+lines in Detroit, Michigan, and even compromise of data residing on electric
+utility computers in Vermont. We also see several attacks coming against the
+retail sector. Examples include access to specific point of sale systems. These are the systems in which
+you take your credit card and you hand it to the cashier
+and they swipe it for you. Attacks against those
+particular components happen with a
+regular occurrence. These include compromise of credit card numbers
+at Home Depot, Target, Eddie Bauer,
+and several more. Finally, denial of
+service attacks against retail websites are
+actually quite common. Even the transportation sector has seen a whole host
+of cyber attacks. These include things
+like destruction of the cargo management
+system at Maersk Lines, the largest container ship
+company in the world. We've seen attacks against ticketing kiosk for the
+San Francisco Muni system, and even rail systems itself
+compromised in the Ukraine. Finally, even
+government is affected. Examples of cyber attacks
+include things like billing and record
+management systems disrupted in Baltimore. We've seen court docket systems completely disrupted in
+the city of Atlanta. Even US government
+employee records compromised at the Office
+of Personnel Management. Well, the United States suspects hackers in China
+are responsible for a government data breach that impacted about four
+million people's records. It's described as one of the largest thefts of
+government data ever seen. The FBI first detected a breach in April at the Office
+of Personnel Management, which functions as the federal government's human
+resource department, managing background checks, pension payments,
+and job training. China denies being responsible. What are some of the takeaways? Well, cyber attacks
+are conducted by individuals either acting alone or as part of a larger group. But it's specifically to achieve a goal and that's a really
+important point to understand. They leverage tools, techniques, and processes to achieve
+those end goals. Finally, they're constrained. They're constrained
+by the lack of resources, tools, and skill. Now, all of this together
+is fundamentally important because some threat actors
+are more capable than others. As we go through the
+next few episodes, we'll talk a lot about
+the different types of threat actors and the
+constraints that they face. I hope to see you next time

@@ -1,0 +1,209 @@
+If you're following along with the table
+that I gave you in the tutorial notes for this session you'll notice at the bottom
+of the table, there is discussion of a visceral pain pathway that may come as a
+bit of a surprise. So, I want to conclude this brief session
+talking about visceral pain. Well, visceral pain Is derived from A
+delta and C fibers that are innervating the viscera and such fibers exist
+throughout all of the body's viscera. And, the central processes of these axons
+for the postcranial body for example, enter the spinal cord, synapse in the
+dorsal horn, and give rise then to signals that arise in the anterolateral pathway.
+Well that's been what had been understood for many, many years about visceral pain.
+But more recently some very careful neuroanatomical studies in animal models.
+And more recently, some physiological studies in animal models and even some
+studies done in people have shown that there's an additional pathway that runs,
+not in the anterolateral system, but in the dorsal columns.
+So this is I know a bit of a problem for those of us who like to think that the
+dorsal columns are all about mechanosensation.
+And the anterolateral system is where we find pain fibers.
+Now, we have to admit that there is a small visceral pain component that runs in
+the dorsal columns. I say small, because quantitatively, it is
+a small contribution to the dorsal columns.
+But it might not be small in terms of how clinicians might take this knowledge, and
+then, develop novel intervention to treat people that are dealing with rather
+intractable pain coming from their viscera.
+Well, here's what the pathway seems to look like as best we can understand it.
+The first order axons, dorsal root ganglion cells will send an axon in
+through the dorsal root entry zone. But they seem to make a synapse with
+second order neurons that reside right around the central canal region.
+This intermediate grey area of the spinal cord between the dorsal and the ventral
+horns these second order neurons then give rise to an axons that enters the dorsal
+column and ascend to the dorsal column nuclei.
+And at that level, there is a synaptic connection with dorsal column nuclei cells
+that then give rise to projections that seem to run along the path of the medial
+lemniscus. And they terminate in a part of the
+ventral posterior complex of the thalamus that sends input into the insular cortex.
+And as we'll see in a later session, the insular cortex serves as a bit of a
+somatic sensory cortex for the viscera. Well, this pathway, as I mentioned, has
+already had some clinical impact. There are patients that have intractable
+pain due to abdominal and pelvic floor cancers.
+And some of these patients have been treated effectively by making a very small
+neurosurgical lesion in the dorsal column area with the goal of cutting through the
+second order nociceptive fibers while preserving as much of the mechanosensory
+afference as possible. At least one such patient that has been
+well-publicized now receives remarkable relief from his medically intractable
+cancer pain. And well, his life was not extended by
+this procedure, the quality of his life was greatly improved.
+Well we've yet to understand the full significance of this dorsal column
+visceral pain pathway, but it does raise some interesting questions.
+One phenomenon that ought to be mentioned at this juncture, is the phenomenon of
+referred pain. And this is the idea that maybe there's
+some crosstalk somewhere in the pain system between the signals arising from
+the viscera, and those that are arising from more peripheral structures in the
+body where all of the skin surfaces. Well, that site of crosstalk has
+traditionally been assumed to be the dorsal horn of the spinal cord, and
+indeed, we believe that, that is the case. But, recognition of a visceral pain
+pathway, such as what I just described suggest that there may be other sites for
+crosstalk as well. Such as the dorsal column nuclei or
+perhaps even the ventral posterior complex of the thalamus itself.
+Well, should that be the case, then perhaps visceral pain patterns reflects
+the integration of visceral and somatic sensory nociceptive systems throughout the
+entire distribution of gray matter that receives this input in parallel.
+Well further studies necessary to totally sort all that out.
+But it is worth just considering how pain is processed in parallel.
+And when there might be opportunities for those parallel pathways to exchange
+information. And while visceral pain patterns are not
+really something that we attempt to treat, they're tremendously useful by allowing
+clinicians to have some insight into what might be the true source of pain.
+Obviously, if you have a patient that is complaining of left-sided arm and shoulder
+pain. One might consider the possibility that
+there may be a cardiac origin to that pain.
+And likewise pain along the midline of the chest region associated with the sternum
+or potentially encroaching upon the left side of the flank might be related to some
+kind of acidic burning of the esophagus. So, referred pain can be very useful from
+a clinical standpoint. And I hope this tutorial on the anatomy of
+the pain pathways is giving you just a little more insight as to why these
+patterns might emerge. Well, thanks for your attention.
+And as I mentioned at the onset, there is much more that we could study with regard
+to the pain pathways. We haven't attempted to look in detail at
+the second pain pathways. But I do want us to now to transition to
+Sylvius. And give you a chance to recognize what
+those first pain pathways actually look like as we see them in the spinal cord and
+the brainstem. So, let's transition to Sylvius now go
+ahead and open up your version of Sylvius if you have it or feel free to follow
+along with me. Welcome back and we're in Sylvius now, so
+I'm going to open the Brainstem Cross Sectional Atlas by clicking onto All
+structures. And let's go ahead and have a look at the
+spinal cord first, and we'll consider the distribution of anterolateral system
+fibers for the postcranial body. So here, we're looking at a cross section
+through the lumbar spinal cord. Our dorsal roots are entering in the upper
+part of this image, which is dorsal or posterior.
+So here's our dorsal root entry zone, and we see this really bright region here in
+the dorsal horn, that's a substantia gelatinosa.
+So, out here in the marginal zone and in the substantia gelatinosa that's where our
+C fibers are going to terminate. Whereas more in these deeper parts of the
+dorsal horn, that's where the A delta fibers will terminate.
+Well, from these parts of the gray matter arise the axons of the projection neurons
+that grow the anterolateral system fibers. So, a neuron here at the base of the
+dorsal horn, let's say this is the left side of the spinal cord, will grow an axon
+that will cross in this region of the white matter.
+This is what we call the anterior or the ventral white commissure of the spinal
+cord. The axons grow across the midline and then
+enter the anterior and lateral part of the white matter here, just to the lateral
+margin of the ventral horn of the spinal cord.
+So this is now what we call the anterolateral system.
+So the axons in the anterolateral system over here on the right side of the image,
+those axons were grown by neurons that sit on the opposite side of the dorsal horn.
+And vice versa for these axons here. Now, while I have this anterolateral
+system selected in Sylvia, so I'm simply going to, now, section up through the
+spinal cord. And you'll see that, as we collect up more
+and more axons, this pathway grows in size.
+Now, we're in the cervical cord and we can see it occupies quite a bit of the white
+matter in this anterior and lateral region.
+As we enter the brainstem you'll now be comfortable with the idea that additional
+structures are found that are not present in the spinal cord.
+Some of them occupy the ventral part of the brainstem, including structures like
+the inferior olivary nuclei out here. So our anterolateral fibers end up in a
+more of an intermediate position, but they're still far lateral.
+So, we are now in the caudal medulla, as we ascend through the medulla.
+These axons sit more or less between the trigeminal region and the inferior olive.
+And eventually other components that occupy the basal or anterior region of the
+brainstem. So here is our spinal trigeminal system.
+We'll get back to that in just a moment. Here again is our inferior olivary
+nucleus, and right between the two, is our anterolateral system.
+So let's continue to track the progression of these axons in the lateral part of the
+tegmentum. Now, the structures are just to the
+posterior side of all of these pontine nuclei and pontocerebellar fibers.
+And finally, as we get into the midbrain you'll see that these axons are getting
+into a more posterior position. They're still pretty far out lateral,
+still in the tegmentum. And where they end up is in a position to
+supply the ventral posterior complex of the thalamus, which is right about there.
+So there is our ventral posterior lateral nucleus of the thalamus receiving input
+from these ascending axons from contralateral dorsal horn neurons.
+Alright, let's reset. And consider the organization of the
+trigeminal counterpart of this anterolateral pathway.
+So, this begins at the level of the trigeminal nerve root.
+So here is the trigeminal nerve entering the [unknown] part in the mid pons.
+You'll remember that the mechanosensory function of this nerve terminates right
+here in the chief sensory or the principle nucleus of the trigeminal complex.
+But the pain and temperature fibers, they make a sharp downward bend at this level.
+And so, what we find is the development of a compact tract of white matter that is in
+the lateral part of the tagmentum of the brainstem.
+This is a tract made by the central processes of our nociceptive afferent, so
+they're present in the trigeminal nerve. So we have a tract just on the lateral
+edge of the nucleus and that nucleus is the spinal trigeminal nucleus with the
+spinal nucleus of trigeminal complex. So let's follow this tract on down through
+the caudal part of the pons and now into the medulla.
+And as we progress into the medulla, we continue to find this well-defined tract,
+and then, a nucleus that sits just medial to that tract.
+Along the way, the axons in the tract are diving out and terminating neurons that
+comprise this long column that we call the spinal trigeminal nucleus.
+Now, one interesting feature of this nucleus, is that the closer we get to the
+junction of the medulla and the spinal cord, the more this nucleus begins to
+resemble the dorsal horn. So in fact, we get to the caudal medulla
+and now we see a component of this spinal trigeminal nucleus that looks like the
+substantia gelatinosa, in fact, we call this the gelatinosa part of the spinal
+trigeminal nucleus. And then, the more medial part of this
+nucleus begins to look like the base of the dorsal horn.
+So, sometimes, we like to say that the spinal trigeminal nucleus is really an
+extension of the dorsal horn of the spinal cord.
+So maybe that's some help to you conceptually to recognize that the
+organization of the second order projection from the dorsal horn to the
+thalamus really is quite similar To the projection from the spinal trigeminal
+nucleus to it's destination in the thalamus.
+So now, we see the dorsal horn again, the substantia gelatinosa, the base of the
+dorsal horn. Okay, well let's now ascend and watch what
+happens to this trigeminal system. So, here is our spinal trigeminal nucleus
+and we have different divisions of it which are labeled differently is obvious.
+But now, we've got the most rostral part of this nucleus in view here and we are
+about to again enter the level where the trigeminal nerve hits.
+So now, we don't have the first order afferents above this level, because those
+pain and temperature afferents are descending.
+Rather, what we have in the tegmentum is the second order axons.
+Now, I haven't indicated the precise location of this so-called
+trigeminothalamic tract, sometimes, it's called the ventral trigeminothalamic
+tract. But it's essentially very near the
+location of the anterolateral system axons, probably just near the medial edge
+of these anterolateral system axons right around there.
+We know it's going to be in a position to eventually enter the posterior part of the
+thalamus and provide input to the ventral posterior medial nucleus, which is what we
+see here. Okay one final point to mention before we
+conclude this tutorial on the anatomy of the pain pathways.
+I want you to recognize the spatial separation within the nervous system
+between the pathways for mechanosensation and the pathways for pain and temperature.
+We talked about dissociated sensory loss with spinal cord injury which is [unknown]
+in part upon the spatial segregation of those pathways with an ipsilateral pathway
+in the spinal cord for mechanisensation and a contralaterally derived pathway for
+pain and temperature. In the brainstem, we have a different kind
+of spatial separation. We have pain and temperature systems out
+here in the lateral tegmentum of the spinal cord.
+I'm sorry, of the medulla. But, near the midline of the medulla, we
+have a mechanosensory pathway, the medial lemniscus.
+We don't yet have the facial component, because we're in the medulla, below the
+level of the trigeminal nerve. I say all of this to make the following
+point. We will see patterns of strokes in
+patients that afflict just the medial part of the medulla, sparing the lateral part,
+or vice versa. We may see strobe patterns that affect the
+lateral part of the tegmentum, sparing the medial part.
+And you could imagine what kind of dissociations you might see in those
+patient. One might imagine encountering a patient
+lets say this is a left side of the medulla.
+Where one might find loss of pain and temperature sensation on the right side of
+the post-cranial body, but the left side of the face with no damage at all to our
+mechanosensory systems. On the other hand, one might imagine a
+patient that has damage through the mechanosensory pathway for the postcranial
+body, and, no injury to pain and temperature sensibilities anywhere.
+Well, these kinds of stroke patterns make great sense if you understand the
+distribution of pathways for the various modalities of somatic sensation.
+So I hope that gives you some additional motivation to take on this challenge and
+make. Clear and make visible your understanding
+of this complex clinical neuroanatomy.

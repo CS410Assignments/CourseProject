@@ -1,0 +1,114 @@
+Hi, I'm Dr. Charles Harry and this is cybersecurity
+for everyone. In this video, I want to talk
+about how we move away from a small government-sponsored
+program into something that's
+more widely accepted. By the late 1960s, ARPANET demonstrated that a distributed and digitized
+network was feasible. Remember, ARPANET
+was this ability to move packetized data for one part of the
+Earth to the next. That had been developed as a general idea in the early part of the 1960s and late1950s. This academic vision was being supported by government
+sponsorship, by DARPA, to prove out that there
+was in fact a way to enable this radical new
+way of communicating. The original vision by
+the late 1960s was that only 256 addresses would be
+needed on this internetwork. Because remember, at this time, computers were the size
+of an entire room. People had a really, really hard time envisioning that all of us one
+day would have access to computing power that could fit in the
+palm of our hand. How did that change? Well, how did this concept of internetworking
+become more popular? That's the story that I
+want to explore today. The story of the late 1960s
+through the 1970s is about the expanding popularity of networks and new developments
+in computing technology. With the success of ARPANET
+and the progression of all these new protocols and instructions
+and applications, there are new networks
+that are being developed, but they tend to be ad hoc, meaning that they're built
+with their own set of instructions and their own set of technologies in some cases. By the early 1970s though, a new standardized method for networking has
+been invented. This approach called ethernet had been developed at
+the Xerox Corporation. Ethernet is one of these foundational technologies
+that we still use today. But as standardized way of networking allows a whole
+range of incentives by private sector corporations
+to develop new technologies and to adopt those technologies as they become
+cheaper to implement. By the 1970s, the story becomes one where we're
+combining new technologies. We have a new standardized
+way of networking. We have the ability to move more computer terminals to be used by private corporations. More companies in
+the Fortune 500 are using computer terminals
+to do their business. They're moving away purely
+from pen and paper. By the latter part of the
+1970s into the early 1980s, the development of new
+standard personal computers. Things like the Apple 1 and
+the Apple 2 are developed and new corporations
+like Apple computing and Microsoft are
+built on this idea, this new vision, that computing technology will
+actually come to the masses. The explosion of networks and
+computers create the need for new technologies and new instructions to be
+conceived and developed. One good example, there are hundreds that I could cite but I just want to talk about a few. One good example is the ability to have these addresses,
+these computer addresses. We talked about
+Internet protocol before and we'll
+talk about it in more depth in another video. But the idea that we have these very, very
+arcane addresses, things like 8.8.8.8, and being able to convert that into
+something that's more human friendly like Google. We need a set of
+instructions that allow us to do this translation. So we developed
+something called the Domain Name System or DNS, which is just simply a set of instructions that say, "Hey, this computer friendly term, 8.8.8.8 is really just Google" Which is a
+human-friendly term, this ability to translate. We also needed to
+invent ways to route all this packetized
+data between networks. Because as we increase the
+number of nodes in ARPANET, the different organizations that are connected to one another, we need to have more
+efficient ways in which we route that data. We come up with
+the term routers. You remember in an
+earlier video we talked about this
+need for a black box. Well, that's what the routers
+end up been created for. To serve as this black
+box to route information. In the 1970s up and
+through the early 1980s, key technologies and
+instructions are written. Scaling the technology enables communities of
+interest to develop. As more and more people find the beneficial uses of this internetworking technology
+and computer technology, new communities
+of interest form. But they are built around
+very specific purposes. For example, at the Department
+of Energy and in NASA, they created their
+own networks to facilitate research and
+collaboration around very, very specific topics,
+whether it was space exploration or the
+use of nuclear technology. By the early 1980s, even the military is utilizing this
+technology more wildly. As these new communities
+of interest develop, ownership of this inner networking
+technology begins to emerge. One of the key decisions made early on was that
+there needed to be public availability of all the documents specifying
+these instructions. Because if this is
+to grow organically, if we are to see this technology
+more widely accepted, then people need to understand what the instructions
+are so they can build their applications
+and their tools to conform with those
+standard instructions. This leads to an
+acceleration of growth in the adoption of
+new technologies. New companies are
+formed built around developing technology that implement those
+common instructions. But those instructions are developed within a
+public community. Remember, the Internet
+or internetworking is not owned by a single
+organization or government. It is owned by all of
+us, the entire planet. It creates this feedback loop of leading to additional
+growth and adoption. Because it's open source, it allows people in
+a very public way to create the best
+possible instructions in a way that's very
+open and collaborative. Today, there are dozens, well over 75 working
+groups that are working on instructions for the next
+generation of technologies, things like autonomous cars, things like smart devices. Those instructions about how those technologies
+are developed are being actively debated in
+these global communities. In the 1970s through the 1980s, we move from an ARPANET
+that consists of just a handful of nodes
+in the West Coast of the United States to by
+1981 in this graphic, you can see that it now
+spans or we have nodes that span across the
+entire United States. What did we take
+away from today? The private sector helped
+drive the growth of the Internet through the development of
+scaling technologies, things like ethernet at
+the Xerox Corporation. But we also see
+during this time, community development
+that allows us to accelerate standard adoption. By the early 1980s, multiple purpose-driven networks are now connected together. This is really the foundation of what we know now
+as the Internet. In our next video, we're going to talk about how this foundation of
+the Internet goes from being something
+that's sponsored by DARPA into something
+that is privatized, that has transitioned
+to be wholly owned by the private sector. I
+hope to see you next time.

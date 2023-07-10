@@ -1,0 +1,227 @@
+Okay, welcome back to this tutorial on the
+cranial nerve nuclei. If you have Sylvius 4 software, go ahead
+and open it and follow along with me. If you don't, that's fine, just enjoy the
+tour. Maybe if you have Sylvius, you may just
+want to watch the remaining segment of this tutorial, and then, go back and
+repeat what I do and do it on your own time in your own way.
+So, however you like let's begin by getting into Sylvius 4.
+And I'm going to open up the Brainstem Cross Sectional Atlas and I'll just click
+on All structures. So this opens up the Atlas within Sylvius
+4 that's devoted to the brainstem and the spinal cord.
+And the default here is to show us the, the very top section, which as the
+navigator tool indicates is taken from the upper part of the brainstem.
+So, this is really the junctional region between the thalamus in the brainstem.
+We recognize the brainstem by these prominent cerebral peduncles that are
+taking shape, but we know we're still in the caudal part of the diencephalon
+because we have the mammillary bodies present along the ventral midline.
+So let's just get down one section below and now this is looking more like the
+midbrain, because we see these massive cerebral peduncles on the ventral lateral
+surface. We see a small cerebral aqueduct that tell
+us that we're cutting through the region of the brain called the midbrain.
+Now, what's attached to the midbrain? Well, the oculomotor nerve.
+So here's the oculomotor nerve and we can follow its roots back towards a semantic
+motor nucleus along the dorsal midline and a visceral motor nucleus that we should
+expect to find setting very near it. And indeed, if we follow these axons back,
+we have the oculomotor nuclei which are the somatic motor nucleus of the third
+nerve. And then, just superior to the oculomotor
+nucleus is our Edinger-Westphal nucleus, the source of the parasympathetic outflow
+through the third cranial nerve. Okay, going just a little more inferior
+now. We are rear, near a region where the
+midbrain is beginning to join the pons. So we still see some cerebral peduncle,
+but now we're looking at some nuclei and some fibers that are associated with the
+pons. So we know we're right near that
+junctional region. That's very near the region where the
+trochlear nerve inner, emerges from the posterior part of the brainstem.
+And indeed here is our trochlear motor nucleus.
+Again, what we expect to find? We would expect to find a somatic motor
+nucleus near the dorsal midline of the tegmentum of the brainstem.
+So there is our trochlear motor nucleus, very small nucleus.
+And the trochlear nerve is a very small nerve, so that's nerve IV.
+Nerve V is near the center of the pons, so we need to section into the pons a little
+bit. So we need to section through the pons
+just a little bit in order to get to the trigeminal nerve.
+And at this level, we see there, broad, massive nerve roots of the trigeminal
+nerve on either side. And if we follow these nerve roots back,
+they connect to a set of nuclei. So, more lateral is where we find our
+chief sensory nucleus of the trigeminal complex, also called the principal sensory
+nucleus. And just to the medial side of that
+nucleus we would find the branchial motor nucleus, the trigeminal motor nucleus.
+Now, the mesencephalic nucleus actually begins at about this level, it's found
+right about in this region. Very small nucleus, but if I select it we
+can recognize this nucleus as it runs in the superior direction, just along the
+lateral aspect of the gray matter that is just on a lateral margin of the fourth
+ventricle as it begins to close off into the cerebral peduncle.
+So this nucleus really just trails off as a thin collection of cells.
+That's it. Just medial to the tract of this nucleus,
+which are the axons feeding this nucleus. So right in this position is where we find
+the cells that give rise to the mesencephalic division of the trigeminal.
+Okay, well, let's get back to the trigeminal nerve.
+So here again is the trigeminal nerve. The chief sensory or the principal nucleus
+of the trigeminal complex and the trigeminal motor nucleus.
+Now, at this level, we are getting very close to those cranial nerves that we
+would find along the border between the pons and the medulla.
+We're not quite there yet, but we're getting close to it.
+So if we go down one section, now, we're beginning to see some of those nerves and
+nuclei. So what are those nerves again?
+It's nerves VI, VII, and VIII, the abducens, the facial, and the
+vestibulocochlear. So the abducens nerve is connected to the
+abducens nucleus, the somatic motor nucleus here along the dorsal midline of
+the tegmentum of the pons. And we can actually see some of the axons
+of the abducens nucleus that are growing out in the ventral direction to exit right
+about here at the junction of the pons and the medulla, pretty close to the midline.
+Now, also, in this level of the pons, we have our facial motor nucleus, and this is
+another branchial motor nuclues. So it's not going to be along the dorsal
+margin of the tegmentum. But set back in the intermediate and
+lateral region of the tegmentum due the embryological migration of these brancho
+meric motor neurons. So here's our facial motor nucleus and the
+facial motor nucleus gives rise to axons that do something very strange.
+They actually sweep across the top of the abducens nucleus, so there is our nerve
+root of the facial nerve and the facial motor nucleus itself.
+So, the axons didn't exactly grow up and around, actually, the neurons themselves
+migrated in the anterior lateral position and they simply elongated the axon as they
+migrated down. So these cells used to up here somewhere,
+but ended up migrating down. And with it, drew, they drew out their
+axons. So the seventh nerve ends up exiting the
+brainstem in this lateral position out here, and just to the lateral side of the
+facial nerve, we expect to find the vestibulocochlear nerve, which is right in
+this domain here. So the vestibulocochlear nerve is related
+to a set of nuclei called vestibular nuclei.
+We see several of them here in this cluster, near lateral aspect of the
+tegmentum of the pons. We don't yet have the cochlear nucleus,
+that's found in slightly more inferior position in the upper part of the medulla.
+So we'll get to that in just a moment. Now also in the lateral aspect of this
+tegmentum, we would expect the sensory nucleui associated with the trigeminal
+complex. And now that we're below the trigeminal
+nerve, we're going to be below that chief sensory nucleus.
+What we find is our spinal nucleus of the trigeminal complex.
+And just to the lateral side of that nucleus are the axons from the trigeminal
+nerve that supply the nucleus. We call this the spinal trigeminal tract.
+And then just to the medial side of the tract is the spinal trigeminal nucleus.
+Okay, now, let's go down one section, and now, we're in the upper part of the
+medulla. The section looks a lot bigger, but
+really, it's a magnification of the section for clarity purposes not to scale.
+So, the brainstem is actually getting a bit smaller now that we go from pons to
+medulla but our magnification is actually increased.
+Now, unfortunately, we didn't have an optimal section to put into Sylvius to
+demonstrate the cochlear nuclei, so they're, they're not labeled.
+But they're present here nevertheless. So notice that there is this big dark
+bundle of white matter here called the inferior cerebellar peduncle.
+And I say dark, because this is an image of sections through the brainstem where
+the white matter is made to look dark and the gray matter is made to look light.
+I should have said that right from the start.
+I'm sorry about that. But just to clarify, the white matter is
+dark, the gray matter is light. So, this is a big bundle of white matter
+in the dorsolateral aspect of the medulla that we'll talk about in a later session.
+This provides signals from the spinal cord to reach the cerebellum.
+Just to the lateral margin of that bundle here in the upper medulla, we see some
+gray matter which is unstained in this view of the brain.
+And so, this gray matter, that's part of the cochlear nuclei complex.
+In fact, this little tag of tissue here, that's a bit of the eight nerve.
+So the cochlear nuclei are in the lateral margin just outside that inferior
+cerebellar peduncle, the vestibular division is just on the medial edge of
+this inferior cerebellar peduncle. So here, we have a couple of divisions of
+the vestibular nuclear complex. They would connect up with axons that are
+coming right here from this vestibular cochlear nerve.
+Now, we are also beginning to encounter the rostral part of this very interesting
+visceral sensory nucleus, called the nucleus of the solitary tract.
+So here is the nucleus. There is something called the solitary
+tract. It's actually the axons from nerves VII,
+IX, and X that supply signals into this nucleus.
+So there is the nucleus, and if we go down one section, we see this a bit more
+distinctively. There's something like a bullseye shape
+where the nucleus is surrounding the tract.
+Kind of an unusual configuration if you can compare that to the situation we have
+with the trigeminal system. In the trigeminal system, we have the
+tract that sits out here lateral to the nucleus, but in the solitary system, the
+tract is right in the middle of the nucleus, so the gray matter actually
+surrounds the nucleus with respect to the solitary tract.
+So, it's an interesting shape. It's a visual distinctive as we look into
+a section through the upper part of the medulla that is stained to, to resemble a
+myelin stain where white matter is dark and gray matter is light.
+Okay. So, also here, in the upper medulla, you
+should be thinking about a somatic motor nucleus, the hypoglossal nucleus.
+We would expect to find it along the dorsal margin of the tegmentum and there
+is our hypoglossal nucleus. Now, if you'll remember where the
+hypoglossal nerve roots exit the brainstem, they do so right along this
+cleft between the medullary pyramid and the olive.
+So, we can imagine if we took a section through here, what would we see?
+We might expect to see fibers emerging between the pyramid and the olive and
+that's exactly what we see here in this section.
+So there's the hypoglossal nerve and we can follow its trajectory, right between
+the medullary pyramid, which now we see in cross section, a dense bundle of white
+matter and the olive. And the olive is made from this
+fantastically looking gray matter nucleus, called the inferior olivary nucleus, and
+some white matter that's on the outside of that nucleus.
+So we'll talk about the inferior olivary nucleus when we talk about cerebellar
+function. Really, a fascinating story about how this
+inferior olivary nucleus induces plasticity in the cerebellum.
+But for now, we'll just use it as a visible landmark that allows us to know
+where to expect to find the emergence of the twelfth cranial nerve between the
+olive and the pyramid. Alright.
+Let's get back up to the dorsal tegmentum. We talked about the somatic motor nucleus
+on the midline. We talked about the visceral sensory
+nucleus that is a bit more lateral. And our special sensory nuclei, the
+vestibular nuclei. And then, our general sensory nucleu in
+the far lateral region. But between the motor and the sensory, we
+might expect to find some visceral motor. And indeed, we have a major visceral motor
+structure here, called the dorsal motor nucleus of the vagus nerve.
+So this is where many of our parasympathetic visceral motor cells
+reside that grow out axons through the vagus nerve.
+Also contributing to that vagus nerve are parasympathetic neurons that are involved
+with inhibiting the rate of contraction of the heart and the contractility of the
+ventricle. Those parasympathetic visceral motor
+neurons come from this obscure, hard to see, ambiguus nucleus in the medulla
+called the nucleus ambiguus. Sometimes it's nice when the names tell us
+something about what we expect to see and this is one such case.
+So here is the nucleus ambiguus. As I mentioned, it sort of has two parts
+to it, there is the cardioinhibitory parasympathetic outflow.
+But then there's also the branchial motor outflow, which goes to the muscles of the
+pharynx and the larynx, also via cranial nerves IX and X.
+Okay. Well let's just follow down a few more
+sections and we'll get below the level of the hypoglossal nucleus and nerve here.
+What we will encounter, however, is the spinal trigeminal nucleus.
+And we'll see that we still have a tract to the lateral side of the nucleus.
+And as we go through the brainstem, at least in Sylvius, we use anatomical
+convention to recognize different subdivisions of this spinal trigeminal
+nucleus. There are really multiple subdivisions
+that have different functions and the sensations of pain and temperature derived
+from the face and the oral cavity. We won't get into all of that now, but
+I'll just point out to you that that's why we see these various divisions in Sylvius
+here. Now, these divisions eventually seem to
+run right into the dorsal horn of the spinal cord.
+So there's this bright, compact part called the substantia gelatinosa and I
+want you to notice as we get into the brainstem, there is also a bright compact
+part of the spinal trigeminal nucleus that we call the gelatinosa part.
+So again, very much parallel, organizational system to what we see in
+the dorsal horn of the spinal cord, which as we'll come to see in a forthcoming
+tutorial, also is concerned with pain and temperature sensation from the body.
+Well, I hope you enjoyed that brief tour of the brainstem, and just a little bit
+about the spinal cord, we'll have more about the spinal chord in the later
+session. I would encourage you to go through the
+tutorial notes, find those cranial nerve nuclei that are highlighted in Bold font,
+and then, get into Sylvius and find them here.
+And if you have any trouble, I'll just remind you that we have a glossary feature
+built into Sylvius, which will give you a chance to look up a term that might be of
+interest to you. So for example, let's just type in
+trigeminal. See what happens, we find a number of
+targets come up. If we want to see the trigeminal nerve, we
+have an opportunity to view it in different views, including the view of our
+brainstem model here. If we want to find a particular nucleus,
+such as the spinal trigeminal nucleus, again, we have different views, some of
+which are included in the tutorial, others are unique to Sylvius.
+This one in particular you might enjoy. This is an animation that illustrates for
+you how pain and temperature signals get from the trigeminal nerve into the
+brainstem. And the sounds that you heard are an
+indication of the synaptic junctions between one axon, and the next neuron in
+the pathway. I bet you didn't know synapses made sound.
+Of course, I'm joking. Synapses don't make sound.
+But we put them in this animation just to highlight the fact that there is a
+junction from one neuron to the next neuron. And it will be important for you
+to be able to speak about the pathways with the precision of language that
+conveys your understanding of the locations of cell bodies, of axons, and
+synaptic connections within the pathways. So we'll be getting to that in the next
+few tutorials, which will turn our attention from the gray matter structures
+to the pathways that allow these gray matter structures to be interconnected
+into a sensory system. So I look forward to talking to you now in
+more depth about our sensory systems beginning with our capacity for
+mechanosensation. So I'll see you next time.

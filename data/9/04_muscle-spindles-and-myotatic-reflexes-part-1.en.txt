@@ -1,0 +1,205 @@
+Welcome back to this tutorial on lower
+motor neuronal control of movement. In this part, I'd like to talk about
+segmental reflexes of the spinal cord. So, the learning objectives that pertain
+to this part of our tutorial are several. I want you to be able to discuss the
+critical components of the myotatic reflex and how they interact to monitor
+and adjust muscle length. I want you to be able to characterize the
+role of gamma motor neurons in the adjustment of the gain of our muscle
+spindle system. I want you to be able to discuss the
+factors that account for muscle tone. I want you to be able to discuss the
+critical components of the Golgi tendon reflex and how they interact to monitor
+and adjust the force of muscle contraction.
+We'll spend a bit of time talking about the difference between the contributions
+of the muscle spindle. And the Golgi tendon organs to the
+control of muscle activity, so that will be a, a key point of differentiating
+learning objective number two from learning objective number four.
+And then finally I want you to be able to discuss the critical components of
+another type of reflex called the flexion or the crossed-extension reflex, and how
+these components interact to withdraw a limb from a harmful stimulus.
+Okay, so let's begin by talking about a reflex, the simplest of all reflexes that
+we have through the circuits of our central nervous system.
+It's called the myotatic reflex, perhaps you better know this as the stretch
+reflex. The stretch reflex or the myotatic reflex
+is a system that monitors and maintains the length of a muscle.
+And the way this system works is through a beautiful organ that we find within our
+muscles of our muscular skeletal system. And this structure is called the muscle
+spindle. So, the muscle spindle is a collection of
+muscle fibers that are found within a capsule.
+And so, the boundary of these specialized muscle fibers by this capsule allows the
+anatomists to call these intrafusal muscle fibers.
+this idea of a fusi, fusiform shape describes the shape of this muscle
+spindle or rather the capsule that surrounds these muscle fibers.
+So, there are indeed muscle fibers within the capsule but these are very
+specialized muscle fibers that are innervated by sensory axons.
+So, here to the right on the slide, we see our muscle spindle, which is this
+structure bounded by the capsule and within that muscle spindle, we see some
+number of specialized muscle fibers. And those would be our intrafusal muscle
+fibers. And notice that there are a number of
+axons that are associated with this muscle spindle.
+There are two types of sensory axons, there's the group 1A, afferent axon and
+the group two afferent axon. The group 1A tends to supply the central
+portion of these intrafusal muscle fibers, which is where the nuclei of
+these muscle fibers tend to aggregate. The group two afferent axon supplies the
+contractile portions of these intrafusal muscle fibers, which is found away from
+that more bulbous shaped central region. And rather than wrapping around these
+muscle fibers in a spiral type shape, which is what happens in group one axons,
+the group two axons, they make a more limited type of ending that we call the
+flower spray ending. And the flower spray ending is intended
+to imply to the microanatomists that the terminals look like petals of a flower
+that are blossoming on the contractile elements of these intrafusal muscle
+fibers. There's also a motor supply to the
+contractile portion of the intrafusal muscle fibers.
+And this is from a small motor neuron that we find in the ventral horn of the
+spinal cord, this is called a gamma motor neuron.
+And we'll come back and talk about the critical role of the gamma motor neurons,
+in adjusting the sensitivity of this muscle spindle to changes in the length
+of the muscle. Let me back up just a moment, and say a
+little bit more about these intrafusal muscle fibers.
+They basically come in two varieties, so there are a group of morphologically
+defined muscle fibers within this spindle that we call nuclear bag fibers.
+And these fibers tend to have a more bulbous collection of nuclei in their
+central reach within that intrafusal muscle fiber.
+A muscle spindle might have a handful of these nuclear bag fibers and there may be
+equal number or more typically a smaller number of nuclear chain fibers.
+And these are a different type of intrafusal muscle fiber with respect to
+their morphology, but also their physiology.
+The morphological difference is that the nuclear chain fibers has their nuclei
+arranged typically in a single row along the central portion of that muscle fiber.
+So, rather there be than, so rather than there being more of a bulbous region that
+collects as a bag would a collection of nuclei.
+Rather, there's a chain a single row of nuclei that give this type of intrafusal
+fiber it's name. So, in addition to being morphologically
+distinct, there are differences between our nuclear bag fibers and our nuclear
+chain fibers with respect to their sensitivity to stretch.
+And how they contribute to our overall capacity of this spindle to monitor the
+length of the muscle. Imagine, for example, that we're applying
+a stretch to this muscle. So we're going from let's say length one
+to length two, and we do so over a relatively short period of time.
+Well, if we were to look at the nuclear bag fibers, what we would find is that
+the axons that supply those intrafusal muscle fibers will fire a bunch of action
+potentials especially during the change in length.
+And they won't be quite so modulated as we maintain a more stretched length.
+In contrast, the nuclear chain fibers, and more particularly, the group two
+axons that supply them they would be more concerned with the maintenance of the
+steady state that's then achieved, once that muscle is stretched to length number
+two. So, again, the nuclear bag fibers they're
+concerned with the dynamic aspects of movement.
+And the nuclear chain fibers are more concerned with reporting the steady state
+level that's achieved at the conclusion of the stretch.
+Now, as you've already seen, these muscle spindles are very important in giving
+rise to signals that we talk about in terms of proprioception.
+That is building up of an awareness of the movements of the body.
+And this awareness reaches consciousness via collaterals that enter the dorsal
+column medial lemniscal system, but there is also an important signal derived from
+these muscle spindles that supply to the cerebellum.
+So, recall that the cerebellum receives input via a spinal cerebellar pathway
+about the movements that the body is actually making.
+Well, this is one important source of information that is supplied to the
+cerebellum. Well, let's consider then how information
+derived from these group 1A and group 2A afferents is actually handled in the
+spinal cord. Well, the most common example that I
+trust you all have experienced at one time in your lives or another, is
+something called the myotactic reflex, or the stretch reflex.
+And one common way that this is elicited clinically is with the reflex hammer.
+So, what we see here is our typical knee-jerk reflex, where a force is
+applied to the patella tendon. And what's actually being done here with
+a tap of the tendon is a stretch is being applied to this quadricep muscle as that
+stretch is applied. It activates our group 1A axons that
+supplies the nuclear bag fibers in the muscle spindle.
+So, I say group 1A, because it's a very quick dynamic sort of stretch its
+supplied. And that's exactly the kind of stretch
+that the nuclear bag fiber in the group 1A afferent is going to signal.
+So, this sensory information runs back into the spinal cord?
+yes there are collaterals that enter the dorsal column region that allow us to
+make use of this information in central processing in higher levels above the
+spinal cord. But, for now, I want to focus in on what
+is going on in the spinal cord itself, that explains the knee-jerk reflex.
+Well, the output that produces the jerk involves a contraction of this quadricep
+muscle, right? So, in order to have contraction of this
+extensors of the leg we have to have a motor output from the relevant motor unit
+that supplies the very muscle that was stretched.
+And this happens because the afferent fiber makes a monosynaptic excitatory
+connection on this alpha motor unit. And so, let's just break down those
+terms. Monosynaptic means one synaptic
+connection, and it's excitatory. When the action potential arrives at that
+presynaptic terminal, there's the release of an excitatory neurotransmitter,
+probably glutamate or something like that, and a very strong synaptic
+connection exists here. Such that the activation of this sensory
+axon is very likely to lead to a super threshold depolarization of that motor
+unit and the firing of an action potential that leads then to the
+reflexive contraction of the muscle and the jerk of the leg.
+Well, in order to facilitate this behavior, things need to be just a bit
+more complicated. Now, there's also a flexor muscle, there
+in the hamstring region and in order to move this limb,
+ideally one would want to diminish the muscle tone that would be present in that
+hamstring muscle, such that the quadricep can actually extend the leg.
+Here's where an additional neuron is interposed between the sensory element
+and the relevant rotor element. And that additional neuron is an
+inhibitory interneuron. So this in inhibitory interneuron
+receives the excitatory input from this one a a afferent.
+And has the physiological action of inhibiting the motor output to the flexor
+muscle. So, this neuron right here then becomes
+diminished in its output to that flexor muscle.
+So, by decreasing the numbers of action potentials that is supplying that flexor
+muscle, the muscle tone of that flexor is now going to relax.
+And this removes the antagonism about this extensor movement of the leg.
+So, even one of our very most simple reflexes that we see in our central
+nervous system involves the coordination of excitation and inhibition to achieve
+functional synergy with the activation of one set of muscles, and the suppression
+of an antagonistic set. The result of this coordination is the
+smooth expression of movement. So, let's look at this from a more
+physiological perspective with micro electrode recordings.
+What we see is that, when there is a tap of the hammer on the patella tendon, we
+see in our sensory neuron an elicitation of a barrage of action potentials.
+So, that set of action potentials that leads to the activation of our motor
+neuron that is innervating our sensory muscles.
+So, this is monosynaptic exaltation of that motor unit.
+Now, there is also mono-synaptic exaltation of this Inhibitory
+interneuron. So, with the activation of that
+interneuron, then we see evidence of the suppression of the output to the
+antagonistic muscle, the flexor muscle. Notice, the suppression of activity that
+we see during the time that that sensory input is sending its signals into the
+circuitry of the spinal cord. So, we call this disynaptic inhibition of
+the motor neuron that supplies the flexor muscle.
+Sometimes, we call this pattern reciprocal inhibition because there is
+monosynaptic excitation to the synergist and disynaptic inhibition to the
+antagonist. So, we've been talking about the stretch
+reflex as we've commonly experienced it ourselves in a clinical examination with
+a hammer tap to the patella tendon, but I just want to make the point that this
+reflex is operating all the time. consider the challenge of holding steady
+a receptacle for some liquid that's being poured into it.
+So, what's going to happen now is as we want to maintain a steady angle here
+across our elbow joint we are going to be adding a load to the distal part of this
+biomechanical unit. So, that increase in load is going to
+stretch out this biceps muscle, and that stretch is going to be sensed by our 1a
+and group 2 afferents and its going to activate the very same kind of circuits
+that we just described in detail for the knee-jerk reflex.
+Only now, these circuits are in the cervical level of the spinal cord and
+they will provide output to the biceps muscle, which will cause a commensurate
+contraction across that elbow joint which will allow us to maintain this angle at a
+steady state position, even while the load is changing.
+And all of this is going to require the activation of synergistic muscles, and
+it's going to require the disynaptic inhibition of output to our antagonistic
+muscles, in this case our triceps. So let's see how this works.
+So, now we are adding a passive stretch which is due to the increased load that's
+being placed here on the distal part of the extremity.
+That's going to provide for a stretch signal in the muscle spindle and the
+communication back to this circuitry via the one a and group two a ferrets.
+And that leads to monosynaptic exotation, of the motor output to the synergistic
+muscles. And it's going to lead to disynaptic
+inhibition of the motor outflow, to the antagonistic muscles, and this allows for
+the increase in resistance. And the restoration of the joint angle
+that keeps us from spilling our our beverage.
+So this is an example in everyday life of how this circuitry works.
+So, in a more schematic form, we have some kind of goal that is set by our
+motor cortex. And that goal is communicated down
+through circuits that we'll described over the next several tutorials, and so
+this allows the output from the alpha motor neuron to scale the muscle to help
+achieve the goal of studying this receptacle against the changing load.
+So, as some disturbances now added, in the form of liquid coming into this
+receptacle, there is change in muscle length which is sensed by our muscle
+spindles and now afferent activity is fed back to the relevant alpha motor neurons,
+that then increase resistance against this changing load.
+Now, not depicted in this schematic is the disynaptic inhibition that allows for
+relaxation of the antagonistic muscles. But that two is part of the distribution
+of this incoming sensory information to the spinal cord circuitry.

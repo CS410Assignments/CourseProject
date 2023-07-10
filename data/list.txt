@@ -1,0 +1,11 @@
+1 animal-welfare
+2 careerdevelopment
+3 content-marketing
+4 cybersecurity-for-everyone
+5 financial-markets-global
+6 forensic-accounting
+7 genetics-evolution
+8 mafash
+9 medical-neuroscience
+10 sciwrite
+11 the-science-of-well-being

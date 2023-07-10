@@ -1,0 +1,131 @@
+Let's turn now from the post-cranial body
+to the face, the anterior two-thirds or so of the head, and ask, what's the pathway that serves mechano-sensation
+for the face? Well, that pathway is called the trigeminal lemniscus pathway, or sometimes
+we call it the pathway of the chief or principle
+nucleus of the trigeminal complex. And I'll explain why we call it the trigeminal
+lemniscus in just a moment. So again, it's a three neuron pathway. From skin to cortex. Okay. Note, that conservation, of the basic
+organization of the pathway. So the first order neuron, is a ganglion
+cell, only now it's in the ganglion of the
+trigeminal nerve. It enters the brain stem through the
+trigeminal nerve, which as you should recall, plunges right through the
+transverse fibers on the ventrolateral surface of the pons. At that level, we find our second order
+neuron, which resides in a nucleus of the trigeminal complex called
+the principle nucleus, or the chief sensory
+nucleus. The second order neuron grows an axon, that crosses the mid line, and ascends the
+remaining divisions of the brain stem, the upper pons and the mid brain, and enters the ventral posterior complex of
+the thalamus. This pathway we call the trigeminal
+lemniscus. And it essentially forms near the medial
+edge of the medial lemniscus. And I'll show you that in just a little
+bit. Okay, so the third order neuron then, is in a division
+of the somatic sensory thalamus that we call the ventral
+posterior medial nucleus, or VPM. So VPL was for the medial lemniscus. The VPM is the target of the trigeminal
+lemniscus. You should know where these neurons in the
+ventral posterior medial nucleus project. They project to the postcentral gyrus, but they project to the inferior one-third
+of that postcentral gyrus. And as they do, they provide a beautiful
+somatotopic map of the face across this inferior segment
+of the postcentral gyrus. So, the somatotopy that we see at the
+level of the cortex really reflects the way the VPL and the VPM map
+into that cortical to main. Okay, well let's turn our attention now
+from our system that makes us aware of our light touch sensations and our vibration
+sensations and our position sensations, to the kind of
+sensory feedback. Derived from the movements of our
+musculoskeletal units that serve to coordinate the ongoing
+control of movement. And what I'm referring to now is the role of this important part
+of the brain that we'll talk about in a couple of
+weeks, the cerebellum. The cerebellum, I like to think of as an
+organ of agility. It helps to facilitate agile movements of
+body and agile movements of thought. With respect to the body, the cerebellum
+gets inputs from the cortex about what we are
+trying to do. And the cerebellum gets feedback from our sensory systems about what we are actually
+doing. And if there's a problem, as there quite
+often is, then the cerebellum will generate an error signal that is sent back
+into our motor system for an adjustment so that some
+correction can be made as we, as we execute a voluntary movement. So, we think of this as real time, ongoing
+coordination of voluntary movement. Now, what I want to address is the means
+by which this cerebellum gets information
+about how we are actually moving. One important source will be our
+mechano-sensory systems. That supply the spinal cord. So there is a pathway that runs up the
+spinal cord connecting to the brain stem via one of the three peduncles, one of the
+three stalks of white matter attachment. And what I'm referring to specifically is
+the inferior cerebellar peduncle. So, let's look at this pathway. We consider this pathway part of our
+spinal cerebellar systems. So, these are spinal cerebellar pathways.
+So, the receptor here is going to be a
+proprioceptor. So its a muscle spindle afferent, a Golgi
+tendon organ, a joint receptor. One of those receptors that's stimulated
+when we move our musculo-skeletal units. The first order neuron is a dorsal root
+ganglion cell and its central axon enters the spinal cord and, as we'll see
+in a few weeks, gives rise to some local
+collaterals in the ventral horn. That are important for things like the
+myotactic reflex or the knee jerk reflex. But, what I want to focus on here is the
+central projection. So, if we're talking about an afferent
+from the lower body. Then the first order axon enters the
+dorsal column and ascends to the thoracic spinal
+cord. There, there is a synaptic connection on a
+nucleus of the intermediate gray matter of the thoracic
+spinal cord called Clarke's nucleus. It's also called the dorsal nucleus of
+Clarke, so either term is fine, Clarke's nucleus,
+dorsal nucleus of Clarke. Okay, I think I want to make an
+interjection here, and it's based on an experience with the first one
+we had through medial neuroscience, where some students
+were concerned about my declaration that the dorsal-nucleus Clarke
+is a nucleus of the thoracic spinal cord. And, yet we're looking at a slide that
+shows a cross section through the lumbar spinal
+cord with Clarke's nucleus. Now, I know that is a small point, but
+perhaps it's worth clarifying.
+Clarke's nucleus extends throughout the thoracic spinal cord, and then to the
+upper lumbar levels of the spinal cord. So, this figure actually is perhaps not
+ideal, but it's also not misleading. There is a caudal extension of Clarke's
+nucleus in the lumbar cord, so it's perfectly fine that we use the
+lumbar cord for illustration. But I do want you to associate Clarke's nucleus primarily with the
+thoracic cord. And let's just not be concerned with the
+inferior limit, whether it's L2, L3, or somewhere
+in that region. I'd be more pleased that you look for
+Clarke's nucleus in the thoracic cord and let's just leave
+it at that. And otherwise.
+Let's continue with this tutorial. From there, Clarke's nucleus gives rise to
+a second order projection that runs in the dorsal lateral
+white matter of the spinal cord. This is called the dorsal spinocerebellar
+tract. And this pathway runs right on into the cerebellum via the inferior cerebellar
+peduncle. So this is a pathway that serves the lower extremity. Now you may be wondering about the upper
+extremity. Well, the upper extremity is served by a
+pathway that runs in parallel. So again, first order neurons, or dorsal
+root ganglion cells, and the axons enter
+through the dorsal root entry zone, but rather than
+reaching Clarke's nucleus in the thoracic cord,
+these axons ascend in the dorsal column.
+And from there, they interact with a nucleus, that is external to the dorsal
+column nuclei we've already discussed. It's called the external cuneate nucleus,
+external cuneate nucleus. Not shown here in this illustration, but
+it's shown in the next illustration. And the external cuneate nucleus then is the second order neuron that
+projects to the cerebellum information about the
+upper extremity. Okay, so Clarke's nucleus is concerned
+with the lower extremity, external cuneate nucleus is
+concerned with the upper extremity. Now, here's an illustration from my friend
+and colleague here at Duke Doctor Nell Kent,
+where she has tried to put this pathway, this
+Spinocerebellar pathway, together with the dorsal column
+medial lemniscal system. And what we see, is that propioceptive
+information derived from things like muscle spindles,
+golgi tendon organs, enters the spinal cord via projections that run through the
+dorsal nucleus of Clarke. Through the lower extremity or the external cuneate nucleus for the upper
+extremity. And, then from there, the pathways enter the cerebellum via the inferior cerebellar
+peduncle. ICP for short. Now, as we move our bodies in space, we do have some concious awareness of
+those movements. In fact, the movements of our body in
+space are part of what consitutes our body schema or
+body image. So that implies that there must be a way for this information to also enter
+conscious experience. And there's some concern as to exactly how
+this happens in the human nervous system, so we don't have a
+definitive picture of this quite yet, but I think a provisional answer can
+be that it's these pathways, the dorsal spinocerebellar pathway and the pathway
+from the external cuneate nucleous. As they arise to enter the cerebellum,
+they give off collaterals and those collaterals seem to
+synapse upon neurons, that are either in our dorsal column nuclei, or
+very near them. And from there, the neurons around the
+region of the dorsal column nuclei grow axons that contribute
+to the medial lemniscal pathway. And this allows these proprioceptive
+signals derive from these final cerebellar relays to also enter our
+pathway for conscience awareness. Okay, well, we will say much more about
+this final cerebellar pathways when we talk about the cerebellum
+in a few weeks. Now what I'd like to do is transition to sylvius and show you what these pathways
+actually look like. As we ascend from the spinal cord all the
+way up through the brain stem.

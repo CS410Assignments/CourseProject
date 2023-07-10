@@ -1,0 +1,199 @@
+This is Cybersecurity
+for Everyone. I'm Dr. Charles Harry. We've been talking about hacking effects or
+the impacts that threat actors have on variety of networks
+in specific devices. We talked last time about how those effects can
+be thought of or framed. In this particular module, I want to talk about
+primary effects. If you recall last time, we talked about a variety
+of different effects; primary, secondary,
+and 2nd-order effects. Primary effects are the impacts
+on specific IT systems. It's important to remember that when we think
+about effects, each category can be
+measured differently. Primary effects, again, are the direct impacts
+on targeted devices. A cyber event is the result
+of a series of actions that a threat actor will take to directly affect
+targeted devices. Remember, they're going
+through that hacking process, and at the end of it, they
+want to do something. That something could be
+something as simple as compromising data or what we
+call the confidentiality. Examples of this might be spear phishing or SQL injection
+attacks on databases. It could be that data
+is being manipulated, or going after the integrity of those devices in that data, doing things like recording changes to records
+in a database, or modifying code in a
+specific application. It could also be that
+those devices are made inoperable or
+less effective, what we also call accessibility. Examples of that might be ransomware attacks
+or data wipers. It's important to think of primary effects in
+a broader category, and what we use is the
+term called taxonomy. Taxonomy of end effect is really about how to think
+about and break up and categorize all the
+different possible end effects that can be achieved
+from a cyber event. In our case, we may want to think about disruptive events. These are cyber events
+that actually make inoperable or make less
+effective specific devices. We may also want to think
+of exploitive events, where data is actually stolen from a variety
+of different devices. Let's first talk about
+disruptive events. What is a disruptive event? Well, disruptive events are the effects that
+disruptive attacks have, are all about making devices or the applications less effective, or frankly not work at all. There really are five broad categories we can think about. One category we might call
+message manipulation, and this would be as
+cyber event that really interferes with a
+victim's ability to accurately present
+or communicate it's message to its
+user or customer base. Examples of this might include the hijacking of
+social media accounts, Facebook or Instagram, or
+defacing a company website. We see examples of
+this all the time, where hackers gain access to, let's say, a celebrity's
+Instagram page and they start making
+really bad comments on it. That would be an example of a message manipulation attack. External denial-of-service
+is also a disruptive event, and that's really where a
+threat actor is executing a cyber attack from devices outside the target
+organizations network. An example of this would
+be what's called the distributed denial-of-service
+attack or DDOs attack. Again, this is a very
+common attack that we see, and the goal of the
+particular threat actor is to make inoperable or to slow down some of the devices that are connected on
+the Internet to, in a sense, either extort
+money or sometimes it's just really as a broad set
+of interests that they have. There's also what we would call an internal
+denial-of-service attack, where threat actors are operating
+now inside the network, and they're degrading or denying access to other
+internal systems. If I have access to
+a router and I now reset that router to factory settings and
+it no longer works, then all those packets
+that are traversing that network going
+back and forth no longer can get to
+their destination, and therefore, there's
+a denial of service, but it's happening
+inside the network. That is what makes it
+different than a DDoS attack, where threat actors control infrastructure outside your
+network and are trying to overwhelm or flood your external Internet
+connected device. We can also think of some
+category called data attack, where this is a cyber
+event that manipulates, destroys or encrypts data
+in a victim's network. A good example of this would be ransomware or data
+wiper attacks, where threat actors have gained access to a specific
+system and now delete the contents of a
+hard drive entirely or they encrypt it so that you can't
+gain access to that data. Finally, there are what we
+would call physical attack. These are cyber events
+that manipulate, degrade, or destroy
+physical systems. The idea is that an
+attack something on like a supervisory control
+in data acquisition system, or what we call a skater system, that actually interfaces with
+physical devices, sensors, valves, these types of things, what we often call
+operational technology. If a cyber event
+manipulates, degrades, or destroys the actual
+physical system because they turn
+the valve the wrong way and suddenly a lot of steam pressure builds up
+and blow something up, that's what we would
+call a physical attack. We've seen examples
+of this type of disruptive cyber event
+occur throughout the world. We've seen instances in
+the case of Ukraine, where power attacks were conducted against
+the electrical grid. We've also seen the same attack occur in other
+places of the world. Primary effects, they have these direct impacts
+on targeted devices. We've just talked about
+disruptive attacks, but attacks can also be
+exploitive in nature. What is an exploitive
+end effect? Well, there are five categories
+of exploitive effect, and exploitation is all about taking advantage of
+the data on those systems. We're not talking about
+disrupting the operations of the particular computer
+device or network, what we're talking
+about is stealing data. You can steal data in a
+couple of different areas. The first is exploitation
+of sensor information. These are cyber events that result in the loss of data from a peripheral device like a credit card reader or in even an automobile
+or smart light bulb. An example of this might
+be the compromise of credit card data from what's called a
+point-of-sale system. These are those card readers, when you go in to buy a cup
+of coffee or buy a shirt, you usually swipe your
+card into a machine. Threat actors can gain access to those machines and steal
+that credit card data. We will classify that as an exploitation of
+sensor end effect. Now, there's also what we would call exploitation end host. These are cyber events
+that steal data stored on a user's
+desktop computer, laptops, or even mobile device. There are very
+common examples of these types of attack include things called spear phishing, where you get that email from the Nigerian prince
+or from whoever, where they want you
+to click on a link. When when you click
+on that link, it runs the exploit code
+and it goes through that first set of processes, which is part of the delivery
+process, exploitation, everything that we talked
+about in the hacking process. Eventually leads to the
+exploitation of that end host. The goal is to steal data
+stored on that user's desktop, computer laptop,
+or mobile device. There's exploitation of
+network infrastructure. In this case, the cyber event
+is really attempting to compromise data
+through direct access to the network and equipment. These include things like routers and switches and modems. The idea is that if I gain
+access to that infrastructure, then I can steal data
+and understand more broadly how your
+network is configured. We see different
+types of attacks, including the ability to
+brute force their way into a particular piece
+of network equipment by doing what's called
+cracking of a password. I'm able to, let's say, take an encrypted version
+of that password, break it, figure it out and interpret
+what the plain text says and actually log in
+to that network device. Exploitive events or
+exploitive effects can also include things like exploitation of an
+application server. This is where a cyber event basically exploits the
+misconfiguration or vulnerability of a particular server-side
+operation system or an application
+itself like a database. An example of this would
+be a SQL injection attack, where a user is
+taking advantage of a poorly configured
+application, and they're, in essence, tricking
+the database and the application to
+spit out its contents. We see examples of
+SQL injection attacks occur almost every day. Exploitation of data in
+transit is our final category. These are cyber
+events where data is compromised while in transit. If you're able to
+get in the middle of the movement of packets from that point of sale
+system, that card reader, and the database
+where they're stored and you're able to read
+them while they're moving, that's an exploitation
+of data in transit. Hopefully what you
+start to see here is there's lots of
+different ways I can either acquire information from your network or there are
+ways that I can disrupt you. Hacking generates these
+initial primary effects, which can lead to
+additional consequences. A threat actor who has their
+own motivations is basically engaging in the hacking process against one or many
+machines in your network. When they finally get to
+the place they want to be, they take action on target. They're actually
+doing something. When they do that, they
+generate a cyber event. That cyber event can be
+both disruptive in nature. It can fall into any one
+of these five categories, or it can be
+exploitive in nature, where they're actually
+stealing data. Those primary events are all generated by this motivation
+that the threat actors have. However, those actions
+can also generate secondary impacts on the
+human processes they support. So not all cyber
+events are the same. Let me give you two different
+examples of what I mean. The first is a defacement
+of a company website. The second is ransomware on the assembly line in
+that same organization. In the first example where
+they defaced a website, there's some content
+that's modified, files are quickly restored, like it takes about 30 minutes for them to come back online. There's no impact to the
+manufacturing capability. The cyber attack is really focused primarily on
+that one web server. There really is no significant financial loss for the company because they haven't stopped the ability to make
+their product. In the second example where
+ransomware is deployed on the actual assembly line on the devices that control
+that assembly line, the devices that are
+managing that assembly line are made completely
+inoperable for 72 hours. Right there you see
+a big difference. In the first event, we only had a
+30-minute disruption, now we're talking
+about 72 hours. But there's no
+manufacturing that's able to take place in
+this second example. There's significant operational
+disruption which leads to large-scale financial
+losses while the systems are restored. Customer concerns also start to emerge because of
+these supply chains. What are some of the takeaways? Cyber attacks can
+generate primary effects. Primary effects are
+broadly defined to be disruptive or
+exploitive in nature. Categorizing those
+primary end effects and understanding
+that there can be additional secondary
+impacts is useful in assessing the overall severity of one cyber event from another. Next time, we'll talk
+about secondary effects. I hope to see you next time.

@@ -1,0 +1,79 @@
+Hi, I'm Dr. Charles Harry and welcome
+back to cyber security for everyone. In our last episode we talked about the
+application layer as part of this process of encapsulation. And in this episode, I want to talk
+a little bit more about how information actually routes on the internet and so therefore we're going to talk about
+something called the network layer. We're now talking about the portion of the
+stack that deals with routing information between independent networks. So how does data route
+across the internet? And so
+the fundamental problem here is that I want to move my data from my location
+to somewhere around the world. The problem is that there are a lot of
+independent networks that are changing constantly. So how do I know where and how to get
+my information across the planet? That's the question. So there are a couple of different
+things that we need to address. First. Where am I going? We talk about something called an IP
+address or an internet protocol address. Second thing I may want to know
+is what local road should I take? I talked about something
+called autonomous systems. And third,
+how do I know what roads connect to where? So we're going to talk about something
+called a pureeing relationship. Answering these basic questions gives us
+a little bit more insight on how data routes from one point of
+the earth to another. So where am I going,
+to answer that question or try to address that problem first. So we're dealing with something
+that we call the Internet protocol. And it really acts as an address on the
+internet, similar to your home address. The internet protocol assembles
+data from all the layers above it into what we call a packet
+with an address header. So kind of like an envelope with
+the address on the outside. And they basically says something like
+please deliver this information to something like 8.8.8.8 which is
+an Internet Protocol address. So what road should I take? We want to talk about something
+called an autonomous system. Autonomous system is basically
+a group of IP addresses that are managed by an organization and it makes routing information between
+these independent networks easier. It might include large networks like AT&T,
+Sprint or Verizon. Could also include other
+large organizations like IBM. The goal is to have these independent
+organizations that manage thousands of internet protocol addresses
+communicate with one another. So what does that actually look like? Well in this diagram we have a very
+simple model with a variety of different independent networks broken up by
+their AS number A 1, 2, 3, 4, 5. And you'll notice that they are color
+coded and the color represents the different organizations that manage
+those devices and the internet protocols that are associated with each of those
+particular devices, those IP addresses. So the autonomous systems
+can connect to one another. But the question is, which autonomous
+systems connect with one another and which ones don't they connect with? Because you can imagine
+there are tens of thousands of autonomous systems
+all around the world. Not all of them are going to be
+directly connected to one another. So how do we know which ones
+are connected to other AS structures? So how do I know where the roads connect? We'll talk about peering relationships. So autonomous systems, these group of independent organizations
+that manage these thousands of internet protocol addresses have to have some way
+in which they relate to one another. We call that a peering relationship. So an AS provider will broadcast
+a list of other independent networks it has a connection with. It uses something called
+the border Gateway Protocol. We're not really going to talk
+about that in this episode, but there's another set of instructions
+in which it uses to do exactly that. So even if your AS,
+your autonomous system that you're a part of Does not know where 8.8.8.8 is, perhaps one of its neighbors does. That information, your information
+is forwarded to a neighbor of that AS structure that knows
+where to send that information. So this is just a quick example of
+a peering relationship of one AS. And what you'll see in this is that
+there are a variety of different AS numbers that this particular autonomous
+system has a relationship with. And the goal is is that as I'm
+requesting information from websites all around the world, some of those AS
+structures that I have a relationship are going to know where to
+route my information to. That's the advantage of
+having peering relationships. So when I take a look at the large
+interconnections on the internet, the value of having autonomous systems and peering relationships is it gives
+you a sense of where to route data. So why does this matter? Well, vulnerabilities, just like when
+we talked about the application layer, vulnerabilities exist in
+several of these protocols. Hackers can use those vulnerabilities
+to gain access or to achieve an effect. Software developers who are not careful
+in the design of their software might introduce new vectors of attack and
+network engineers who don't configure their networks appropriately
+might introduce other attack vectors. So, again, complexity of human and technical systems is at
+the heart of cybersecurity. Understanding each layer in the stack
+is fundamentally important if you want to protect yourself. So what can we take
+away from this episode? Well, first that information that deals
+with routing is done at the network layer. Locations on the internet or IP addresses
+are established by the Internet Protocol. Autonomous Systems are organizations that
+manage large amounts of IP addresses and they relate to one another
+using peering relationships. In our next episode, we're going to
+talk about the physical layer, how energy actually moves from one
+point of the earth to the next and how all this information that's
+been encapsulated is transmitted. I hope to see you next time.

@@ -1,0 +1,231 @@
+Welcome to this tutorial about the
+non-neuronal cells of the central nervous system.
+We have three learning objectives today. We want to again simply describe the basic
+classes of cells found in the central nervous system.
+And now, in this tutorial, we want to focus specifically on the glial cells.
+So I want you to be able to describe the basic functions of the three types of
+glial cells found in the central nervous system.
+One of those types of cells has an important role to plain in a particular
+kind of physiological barrier called the blood-brain barrier.
+So we'll spend a little bit of time thinking together about that, and I want
+you to be able to discuss it or characterize it with a friend or a study
+partner. So let's begin by again, looking deeply
+into the brain, as we did in our first tutorial.
+Here again, is a view of the motor cortex, as seen in the histological slide.
+That reminds us that, again, the cortex is a very complicated place.
+There's lots of different kinds of cells that are found here.
+And specifically, what we find here are neurons, which was the subject of our
+first tutorial. Neuroglial cells, and that's what we're
+going to focus on today, or sometimes we'll just call them glia for short.
+So we'll talk in more detail in just a few minutes about all of their various
+functions. And I would just remind you again that
+there are also vascular endothelial cells found in this tissue as well.
+Given the fact that the brain requires such a steady and, abundant supply of the
+cardiac output in order to maintain the functions of the brain.
+Okay so let's think now about the neuroglial cells.
+And the neuroglial cells provide a variety of functions for brain tissue.
+Perhaps the broadest summary statement that captures a variety of their functions
+would be to simply state that they support the metabolic and the signaling functions
+of neurons. Which often involves both electrical and
+chemical signals. Neuroglia participate in the forming of
+neural circuits and in a variety of forms of synaptic plasticity.
+This is a very exciting, new aspect of glial cell biology that's just now
+beginning to open up. And we're coming to see glial cells as
+really being active participants in the process of making new synaptic connections
+in the brain. Certain types of glia, they make myelin,
+which is a form of insulation around axons that aids significantly in the propagation
+of electrical signals along this component of the neuron.
+Glia contribute to the formation of the blood-brain barrier, we'll have more to
+say about that in the end of the tutorial. Glia participate in the inflammatory
+response in injured neural tissue, and that includes phagocytosis of cellular
+debris. Other types of glial cells contribute to
+the formation of scar tissue in damaged brain and spinal cord, and so this is part
+of the way that the brain responds to injury.
+Alright, now let's consider different types of glial cells.
+Beginning with what is, in some respects, the most complex of the three major types
+of glial cells, the astrocyte. So here is an illustration of an astrocyte
+from your textbook. And astrocytes are primarily found in gray
+matter. And the reason is, is that they're closely
+associated with the cell bodies, the dendrytes and the synaptic connections of
+neurons, and as you'll recall from our first tutorial, these are all, cellular
+components that are found in gray matter. Glial cells help to maintain the ionic
+balance of the extracellular fluids that surround neurons and that's very important
+for maintaining the capacity of those neurons to generate and maintain
+electrical signaling. One additional role of astrocytes is to
+take up and process neurotransmitters. Those are the special chemical molecules
+that are released by presynaptic terminals and the process of intercellular
+communication from one neuron to the next. So Astrocytes have a role to play in
+processing neurotransmitters. As I mentioned, astrocytes are the glial
+element that assists in the formation of new synapses and new circuits within gray
+matter. This is a, again a newly discovered
+property of astocytes and it's one that is opening up new for research as well as
+potentially new therapies for intervention for individuals who've had damage to their
+brain or spinal cord. Atrocytes are that category of glial cell
+that contributes to the formation of the blood-brain barrier.
+As well as the barrier between the brain and the ventricular system within the
+brain called the brain ependymal barrier. And astrocytes are that type of glia that
+can differentiate into a type of cell that can form fibrillary scar tissue.
+With in injured brain and so this is important if there has been injury and
+that injury is evolves in time to form let's say a small cavity as cellular
+debris is removed, then that cavity can be filled up by astrocytes that will grow in
+and form a kind of scar tissue to occupy that space in damaged brain.
+Okay, the next type of glial cell to consider is the oligodendrocyte, and the
+oligodendrocyte is more of a specialist. Its functions seem to be much more limited
+than that of the astrocyte. Specifically, the oligodendrocyte is found
+in white matter because this is the cell that forms the insulation around axons in
+the central nervous system. And that insulation is called myelin.
+Now if we were talking about a peripheral nerve in the peripheral nervous system,
+we'd be talking about a different type of myelin forming cell called a Schwann cell.
+So, I just wanted to make that distinction between the oligodendrocyte and the
+Schwann cell. They both make myelin, they both insulate
+axons, but the oligodendrocyte is the one found in the brain and the spinal cord.
+Whereas the Schwann cells found in the nerves of our body.
+So what good is myelin? Well myelin aids in the propogation of
+neural signals along myelinated axions and we'll say more about that in just a
+moment. But before we do, I'll also mention that
+the oligodendrocytes add antigens that influence the growth of axions both in the
+developing brain and in the recovering brain that's undergoing a process by which
+it will try to re-generate connections that have been lost due to injury.
+Now, unfortunately the oligodendrocyte also presents antigens that are subject to
+immunological attack in certain diseases of the central nervous system.
+A preeminent example of which would be multiple sclerosis in which
+oligodendrocytes are the subject of the immunological attack, and myelin can break
+down, and with the breakdown of myelin, is a loss in the efficiency of the conduction
+of neural signals along axons, and that can lead to neurological dysfunction.
+Okay. Let's come back to this point about
+oligodendrocytes making myelin and what that does for, the efficiency of
+information transfer along the length of an axon.
+So here's an illustration from your book showing you two portions of an
+oligodendrocyte that are coming together forming myelin.
+Myelin would be this wrapping of membrane that surrounds this axion here so these
+mini-concentric rings of membrane, that's what we call myelin wraps or myelin
+sheaths. And so, here is the cell body of one
+oligodendrocyte, there'll be the cell body of another somewhere off screen here with
+it's nucleus. So, these two oligodendrocytes are coming
+together and there's a small gap between them called the node of Ranvier.
+Okay, so what these oligodencrocytes are doing is that they're insulating axons by
+generating layers of membrane that wrap around those axon segments.
+And this has the important function of decreasing the leakiness of the membrane
+of that axle. And so this allows the passive flow of
+current along the length of the axon to be much more efficient.
+Now, as I mentioned, there are gaps between these myelin segments contributed
+by different oligodendrocyte, and those gaps are called nodes of Ranvier.
+And these nodes are, are quite important, because they provide a place Whereby ion
+channels and ion pumps can be concentrated.
+And so the benefit here is really twofold, the electrical signal is regenerated.
+Here in this node of Ranvier and the signal can be regenerated across these
+segments of myelin that are contributed by different oligodendrocytes and the signal
+can essentially jump from one node to the next.
+We call that saltatory conduction, more on that in a later tutorial.
+But there's another advantage of having nodes of Ranvier, and that is that one can
+populate these nodes with the proteins in the membranes.
+Here, of the axon with great efficiency. So, you end up having to, create and
+populate fewer ion channels and pumps in a smaller region of axonal membrane than you
+would otherwise if there were no myelin. One would have to have channels and pumps
+along the entire length of that axonal membrane in order to keep that electrical
+signal propagating, but with nodes of Ranvier and myelin segments between the
+nodes we can be much more efficient. Both in the electrical properties of the
+conducting tissue but also in the bio-synthetic, requirements to create that
+machinery that's necessary to generate those signals.
+So, these are all great advantages of having myelin, insulating axons.
+Okay, and our third type of glial cell that we'll talk about in this tutorial is
+called the microglial cell. Now, this is a really fascinating cell.
+It's actually a cell that is a special type of mononuclear phagocyte that resides
+in the central nervous system. Although it's actually derived from
+hematopoietic precursor cells that migrate into the brain.
+During early embryonic development. So these cells enter the brain and they
+take up residence in one of two forms. In the dormant state, this microglial cell
+Is called a ramified cell and that's what's illustrated over here to the left.
+So this is a ramified microglia cell. It has lots filamentus processes that
+extend away from the cell body and here below we have a photomicrograph that shows
+a population of ramified microglia. Well, these ramified cells are dormant,
+they are lying in wait, and in the event of injury or inflammation, then these
+cells will retract their processes and convert to what's called an amoeboid
+state. Which is what we see over here in the
+right-hand figure. So these are all activited microglial
+cells that are now on the move. So the amoeboid form is the activated,
+mobile state when microglial cells are mobilized and engaged in phagocytic
+activity. And this is one principle function of
+microglias, that they phagocytize cellular debris that is found at the site of injury
+in the nervous system. But they also sigal, signaling molecules
+numerous kinds of cytokines, for example, that can modulate local inflammatory
+responses. Now, one further type of glial cell that
+is worthy of some mention, is actually not a mature cell at all.
+It's a stem cell. So, within the central nervous system, we
+now know that there are stem cells that have the capacity to multiply and to
+differentiate, and these stem cells resemble glial cells of the astrocyte and
+lygagindrocite forms. So, here's an illustration of glial stem
+cells. And these seem to be a subset of immature
+astrocytes that are located near the ventricles, often adjacent to blood
+vessels, as we see here in this illustration.
+And these glial stem cells can give rise to more stem cells or they can mature into
+astrocytes, oligodendrocytes, and even neurons.
+So these cells exhibit the key properties of somatic stem cells.
+They can proliferate, they can renew their populations.
+That is, they can form other stem cells. And they have the potential, the potency
+to make all the cells of a given tissue. In this case, of course, we're thinking
+about the central nervous system. Now there's also a glial stem cell that
+more resembles the oligodendrocyte and this oligodendrocyte precursor is found
+scattered throughout the white matter of the central nervous system.
+And when this cell differentiates, it mainly gives rise to mature
+oligodendrocytes. Although under certain conditions it might
+give rise to astrocytes, and perhaps even neurons.
+Okay, now let's return to this concept of the blood-brain barrier as we conclude
+today's tutorial. The blood-brain barrier is a specialized
+permeability barrier between the capillary endothelium and the extra cellular space
+within neural tissue. And it's formed by tight junctions between
+capillary endothelial cells. So, for example, here is the, nucleus of a
+capillary endothelial cell, which is otherwise wrapping around, forming a
+capillary wall. And where the processes of this cell
+overlap, we find the histological feature know as tight junction.
+So, tight junctions seal up the spaces, between These overlapping regions of this
+endothelial cell as it forms the capillary.
+Surrounding this endothelial cell are the foot processes, or the end feet of
+astrocytes. That completely envelop this capillary
+endothelial cell. So together the endothelial with its tight
+junctions and the astrocytic foot processes form a limiting barrier around
+the vascular compartment. So, this has some very important
+consequences. This barrier excludes large water soluable
+molecules from freely diffusing into the central nervous system.
+As well as certain pathological microbes and certain toxic compounds that might
+otherwise enter the brain. So, a very important protective function
+formed by this limiting barrier. Of course, there are some molecules that
+must enter the brain, such as glucose and a variety of amino acids.
+Such molecules typically are transported across this barrier by both active And
+passive means. Now unfortunately, this barrier also
+provides a limitation for certain pharmaceutical agents that we might want
+to provide patients in the health care setting.
+So certain drugs, for example might be engineered in a way to circumvent this
+barrier because otherwise passage of such compounds would not be facilitated by the
+presence of this blood brain barrier. Now across the lifespan, this blood and
+brain barrier is present in most places throughout the central nervous system with
+a few important exceptions. Essentially, wherever there are special
+populations of neurons that are secreting proteins that need to enter the blood in
+order to have a hormone affect throughout the body.
+Then this blood brain barrier tends to be porous; that is to say the tight junctions
+are not present. And there are openings that allow
+substances to diffuse across this junction between brain and blood stream.
+And so, that's important, for example, at the base of the fore brain, where we find
+the hypothalamus. Where there are neurons that are secreting
+peptides into the blood that will affect the anterior pituitary.
+There are other places in the brain, such as in the pineal gland, where hormones
+such as melatonin are secreted and enter the blood stream.
+So wherever there is a hormone secretory function, there is going to be some
+loosening of this blood-brain barrier. But with those exceptions, this barrier is
+present at birth and it's maintained throughout the lifespan in normal, healthy
+brain. There are some diseases and some
+conditions that can infect the integrity of this barrier and when that integrity is
+challenged, then the brain is more susceptible to the entrance of molecules
+that might alter its physiology and decrease its function.
+Well, let's conclude this tutorial with a study question.
+I want you to think about a patient that is had a stroke.
+And that stroke causes some small region of the brain to be damaged.
+I want you to think about the glial cells that are present in the brain, around that
+region of damaged brain and think about which activity of glial cells do you think
+happens first. Well, think about these activities and the
+sequence in which they might unfold and go ahead and record your response.
+. Well, thanks for your attention.
+I hope you enjoyed this tutorial on the non-neuronal cells of the central nervous
+system. For our next tutorial, we'll get back to
+talking about neurons and focusing on the means by which they generate electrical
+signals. I'll see you then.

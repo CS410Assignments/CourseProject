@@ -1,0 +1,214 @@
+.
+Hello everyone. Welcome again to my home.
+And today, I'd like to talk to you about the function of the cranial nerves.
+This topic relates to one of our core concepts in the field of neuroscience.
+It's core concept number 1, that the brain is the body's most complex organ.
+And the complexity we're going to explore today concerns the functions of the twelve
+cranial nerves. My learning objectives for you today are
+first, that you would discuss functions of the cranial nerves in terms of the sensory
+and motor signals that are conveyed by each nerve.
+Some of them will convey only sensory signals, some just motor signals, and
+others both. I also want you to be able to discuss the
+relationship between the cranial nerves and the corresponding nuclei within the
+brain stem. That either receive signals from those
+cranial nerves, or give rise to axons that grow out and form those nerves.
+Well in a previous tutorial you've had the chance to look at the cranial nerves on
+the actual human brain stem as well as to study them.
+I trust in this illustration from our textbook that we've been reading along the
+way. This is from the Appendix figure, A7.
+And this figure lays out for you the cranial nerves that attach to the brain
+stem. There's no olfactory nerve here, because
+the olfactory nerve does not attach to the brain stem.
+But we do have our optic nerve, which attaches actually to the forebrain, to the
+diencephalon, not to the brain stem, but it's included.
+In this illustration because of it's proximity to the brain stem, and then the
+rest of these nerves 3 through 12 do indeed attach to the brain stem.
+They are the Oculomotor nerve, number 3. Trochlear nerve, number 4.
+The Trigeminal nerve number 5. The Abducens nerve, number 6.
+The Facial nerve, the Vestibulocohlear nerve, nerves number 7 and 8.
+The glossopharyngeal nerve. The vagus nerve.
+The spinal accessory nerve. And finally, the hypoglossal nerve.
+So, if you need a visual reminder, I would point you back to the tutorial that was
+presented in Week 1. That refers you to the anatomy of the
+brain stem as viewed in an actual human specimen.
+And there, you can find a couple of different tutorials that identify these
+cranial nerves as they attach to the brain stem.
+Part of our challenge that we're building towards with this tutorial is to try to
+get to the point where we're able to relate those nerves to the set of grey
+matter structures within the brain stem. That either receive the incoming sensory
+signals or give rise to outgoing motor signals.
+Now, I know this figure must look like a, a monster to you.
+And in, in, indeed it's rather onerous. But it's an attempt to represent for you
+the 16 or 18, depending upon how you want to count them up.
+Nuclei within the brain stem that are related to these cranial nerves.
+So we're not going to take this challenge on full bore right now.
+We'll do that progressively over a few tutorials.
+Rather, what I want to, to be able to do for you, is give you a way to understand
+the function of the nerves. So that, we can then get into the brain
+stem and recognize how the gray matter nuclei help to explain the functional
+differentiation of the various components of each nerve.
+So, here's how I'd like to do that. I'd like to build for you out this table
+and in this table I've organized the content.
+That is the function of the cranial nerves into motor components, and sensory
+components. Now, notice that I'm focusing on just
+nerves 3 through 12. So what I'm leaving off here are nerves
+one and two. Those are the two nerves that don't attach
+to the brain stem. Just for completeness, let me tell you
+what they are now and then we won't return to them.
+Nerve one is the olfactory nerve. These are the axons that grow from our
+olfactory sensory cells in the nasal epithelium through the cribriform plate at
+the anterior floor of the cranium. And makes synaptic connections into the
+olfactory bulb. That's nerve one.
+Nerve two is the optic nerve. The optic nerve grows out from retinal
+ganglion cells. These are the neurons in the inner layer
+of the retina, that extend their axons back to the diencephalon and to the very
+upper part of the mid brain. We'll get back and talk more about that
+later. Okay so, nerves 3 thru 12.
+These are the ones that fully attach to the brain stem.
+And notice how they've been further differentiated.
+On the motor side, we've recognized three divisions of motor outflow.
+Which is a reflection of the embryology of the developing, nervous system in relation
+to the developing targets of these motor accents.
+We can recognize somatic motor nuclei. So these are nuclei that contain the motor
+neurons, that inervate the muscles that are derived from embryological somites.
+We have branchial motor nuclei. These are nuclei that contain motor
+neurons that grow out and innervate the muscles derived from the pharyngeal arches
+in the developing embryos. These are called branchial motors and from
+these branchial motors develop a set of structures in the cranial region and in
+the neck. Some of them are muscle And some of thsoe
+muscles are innervated by nuclei that come to occupy a distinct position in the brain
+stem. So these we call our branchial motor
+nuclei. And then lastly, on the motor side, we
+have visceral motor nuclei in the brain stem.
+And so these are the preganglionic, parasympathetic neurons.
+That provide outflow from the central nervous system to ganglia associated with
+in visceral organs. And then from there there's a ganglionic
+neuron that actually intervates the end target.
+Be it smooth muscle or cardiac muscle. Well that's on the motor side.
+On the sensory side, we have subdivisions that will also help us to organize our
+understanding of these nerves and their functions, and eventually how that relates
+back to the brain stem. There is a special visceral sensory
+function associated with some of the cranial nerves, and that function is
+taste, or a little bit more technically, gustation.
+So we want to recognize which nerves convey our sense of taste to the brain.
+There's a more general visceral sensation that comes from some cells that are
+associated with the carotid body as well as the aortic arch.
+And depending upon how we want to think about that, we can also consider the
+mucous lining of the oropharynx is part of this general visceral sensation.
+Okay. We have next somatic sensation.
+Which would include those structures. That are in the peripheral parts of our
+body. Namely our skin surfaces, our muscles, our
+joints, our tendons. So from these somatic structures, are
+derived sensory signals that feed into the brain stem.
+Specifically from the region of the head and the neck.
+And then lastly in the cranial region we have special sensory systems.
+And there are some that attach to the brain stems.
+Specifically first order a pharynx, that are concerned with our sense of hearing
+and our sense of balance. Okay, so this is the embryological
+framework that we're going to apply. What I'd like to do next is just walk
+through nerves Three through twelve and identify which components associate with
+each. So beginning with nerve 3, our oculomotor
+nerve. What we have in the oculomotor nerve is a
+somatic motor function. And a visceral motor funcgtion.
+The somatic motor function of nerve three, the ocular motor nereve.
+Concerns the outflow to the orbital muscles that move the eyes and also to a
+muscle that elevates the eyelid. On the visceral motor side the outflow to
+the third nerve is a parasympathetic ganglionic outflow that's involved in
+constricting the pupil. We'll come back and talk more about that.
+When we consider the pupulary light reflex.
+Okay. Number four is the trochlear nerve it has
+a single component it's a somatic motor outflow.
+The trochlear nerve innervates superior oblique muscle, one of those muscles in
+the orbit. This is a muscle that turns the eye inward
+and downward. Nerve 5 has two components.
+It has a branchial motor component. It supplies motor outflow to the muscles
+of mastication. That is our chewing muscles.
+So these are muscles that are derived from the pharyngeal arches.
+There is also a sensory component in nerve 5.
+This is a general somatic sensory component derived from much of the face
+and our sense of touch, our sense of movement of the face, this is conveyed via
+the trigeminal nerve. In addition to some others.
+But the trigeminal nerve is the most significant of the cranial nerves.
+Providing incoming general somatic sensation.
+Nerve 6, like nerve 4, only provides a single somatic motor output to one muscle
+in the orbit. And nerve 6 is the abducens nerve and the
+muscle it innervates is the lateral rectus, which abducts or abducts the eye
+moving the eye laterally. Now, nerve 7 is one of the more
+complicated nerves that we have. And as you'll see there are numerous
+components to nerve seven. So let's talk about them in turn.
+First, with the brachial motor component. This is perhaps the most memorable.
+So nerve 7's the facial nerve. It is the nerve that supplies the muscles
+of facial expression. So those muscles are derived from the
+pharyngeal arches. And it is brachiomeric.
+There is also a parasympathetic outflow to numerous glands in the cranial region, the
+lachrymal glands as well as the salivary glands except for the parotid which is
+supplied by a different nerve. So that's the parasympathic outflow.
+From the facial nerve. There's a special visceral signal coming
+from the anterior two thirds of the tongue that passes through the facial nerve.
+So this is information about taste or gustation are conveyed via the facial
+nerve. And then there is a general somatic
+sensory component derived from a small patch of skin, in the ear.
+Okay. Nerve 8 is a sensory nerve.
+And I have two circles way off to the right hand column.
+For special sensation for nerve 8, because they're really two components that are
+passed through this nerve. There's a hearing component conveyed from
+the cochlea and a balance or equilibrium component derived from the vistiva
+labyrint. And it's worth putting two check marks,
+separately here in this box for nerve eight because these two divisions of the
+nerve will innervate different sets of nuclei in the brain stem.
+Okay, nerve 9. The glossopharyngeal is one of the most
+complicated nerves that we have. Even 1 more check than what we had for
+nerve 7. So, again, let's walk through the
+glossopharyngeal systematically, beginning with the branchial motor component.
+So as the name applies, There's innervation of muscles around the pharynx,
+out from nerve 9. That gives us the pharyngeal component of
+the glossopharyngeal. There is a parasymathetic outflow in nerve
+9 to the parotid gland. One of our salivary glands.
+There's a special visceral sense that's derived from the, posterior 1/3 or so of
+the tongue. So this is our sense of taste, being
+conveyed from taste buds in that posterior region of the tongue There is a
+interesting, general visceral sensory signal that is conveyed via the
+glossopharyngeal nerve. And this is coming from the carotid
+bodies. Which are chemo-sensory structures
+associated with the bifurcation of the common carotid into its internal and
+external parts. And so this is very important in
+regulating blood pressure. The carotid bodies are important for
+sensing the chemical composition of the blood, which then can feed back into the
+regulation of blood pressure, of cardiac output.
+As well as respiration rate. So these signals feed into the brain stem
+via the glossal ferengial nerve. And this is what we have in mind when we
+talk about our visceral sensory element here.
+Now there's a sematic sensory component as well.
+Also derived from the small spat from the small patch of skin in the external ear.
+And that accounts for these five components of the glossal ferengial.
+Now, the next nerve we have is the vegas nerve.
+Like the glossopharyngeal. It also has five components and beginning
+with the branchial motor component the vagus provides some innervation to muscles
+in the posterior pharynx and the region of the larynx.
+There's a parasympathetic outflow in the vagus nerve of course this is the one that
+you're probably thinking about when you think about the vagus nerve.
+There's outflow to vicera in the thorax and in the upper part of the abdomen and
+much of that outflow is derived from a couple of nuclei in the brain stem.
+There is also a sense of taste that's conveyed via the vagus nerve.
+It's not quite as important as nerve 7 to 9, but it's there.
+It's from some taste buds that are in the posterior part of the oral cavity.
+There is a visceral sensory signal conveyed via the vagus nerve.
+It also has to do with regulating the cardiovascular system.
+And it has to do with, sending signals from the region of the a-, of the aortic
+arch that are sensitive to. To stretch as well as sensitive to the
+chemical composition of the blood in that region.
+And lastly, like nerves 7 and 9, there's some innervation to a patch of skin around
+the external auditory meatus. So, I want you to notice that nerves 7, 9,
+and 10 are all very complicated nerves. They're mixed nerves, they're mixed with
+multiple sub-components for motor control and sensory processing.
+But they are complicated in very similar ways.
+So hopefully that will help you in your undersatnding of these nerves.
+Alright, so the last two are a lot simpler.
+Nerve 11 is the pinal, spinal accessory nerve.
+It also has two check marks because this nerve provides for branchial motor output
+to two different muscles. The upper part of the trapezius muscle,
+and the sternocleidomastoid muscle. These are muscles involved in turning the
+head, and shrugging the shoulders. And then lastly, the hypoglossal, nerve,
+nerve 12, supplies for a somatic motor output.
+To the tongue muscles, and this is the nerve that's involved in sticking your
+tongue out.

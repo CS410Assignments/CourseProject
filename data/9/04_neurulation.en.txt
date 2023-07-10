@@ -1,0 +1,129 @@
+Well the story of the developing nervous
+system really begins with this process that we call gastrulation.
+So gastrulation refers to an invagination of the developing embryo at a stage that
+we call the blastula. And this process of invagination in the
+blastula produces three principle germ layers.
+And those germ layers are the ectoderm, the most outer layer, the mesoderm, or
+the mesoderm, which is the middle layer, and then the endoderm, which is the inner
+of these three layers. This is a fundamental event in the
+developing embryo, and it sets the stage for the formation of the nervous system.
+Now one very important structure that is formed in this stage of development is
+something called the notochord. Now, the notochord is a long, rod-like
+structure that is derived from mesoderm. And, here if we make a cross section
+through this developing embryo, will see the notochord here in this central
+location cutting cross section. So, what's special about the notochord?
+Well, I'll say more about that as we progress and talk about inductive
+signalling. But the notochord is responsible for
+sending out chemical signals that interact with this ectoderm that overlies
+this rod-like structure that runs along the length of the embryo.
+And these chemical signals induce a change and the fate of the ectoderm that
+overlies this notochord. That region of this ectoderm
+differentiates into a colon epithelium that we call a neural plate.
+And this neural plate, or sometimes we call it neuroectoterm will begin the
+process of forming the entire central nervous system.
+So the notochord is responsible for reducing the differentiation from the
+neural plate. I should also mention that the notochord
+helps to establish our primary axis of orientation in the developing embryo.
+The notochord forms in a more dorsal position in the developing embryo.
+Now we'll call it a gastrula. And so the presence of the notochord
+helps us to find what is dorsal versus what is ventral.
+the length of the notochord establishes the anterior to posterior axis of the
+developing embryo. And the fact that it's a mid-line
+structure helps to define the axis from medial out to lateral, obviously, in both
+directions. So, the presence of the notochord helps
+to define the bilateral axis of symmetry in the developing nervous system.
+Well following gastrulation and the development of the notochord and the
+onset of inductive signaling that forms the neural plate, the next major phase of
+embryo genesis is called neurulation. Neurulation is defined by the initial
+formation of the nervous system. And what happens in neurulation is that
+the neural plate begins to rise up in it's lateral margins.
+And begins to close off in a process that will form a tube out of that neural
+plate. So this begins with the formation of a
+groove that runs the anterior to posterior length of the embryo just above
+the notochord. And as the walls of this neural tube
+begin to grow out, they begin to come together along the dorsal midline.
+And we can see that process transpiring over, weeks, three into week four in,
+human embryo genesis. Here we proceed a little bit further, and
+we can see that now the neural tube has actually closed off underneath this over
+lying ectoderm. And there is a progressive closure of
+this neural tube that begins near center of this developing neural tube and then
+extends out into the interior and posterior directions.
+So this process continues and now we're into, well into the fourth week of
+embryonic life. And we have the anterior end and the
+posterior end of this developing neural tube progressively closing.
+The anterior end of this developing neural tube is going to form the brain
+and the rest of its length, all the way down to the posterior tip is going to
+form the spinal cord. Now, I'd like to return to this concept
+of inductive signaling, and say a little bit more about it.
+Because it's at this stage in embryo genesis, neurulation, that the inductive
+signals derived from the notochord are so important.
+For defining many of the important regions of that developing neural tube
+that will set the stage for further differentiation into the brain and to the
+spinal cord. So if we back up just a little bit in
+neurulation, so over here to the left we have the folds of the neural plate
+beginning to come together to form the neural tube.
+And the notochord is giving rise to these chemical signals that are inducing these
+morphogenic events in this overlying neural plate.
+But in addition to simply inducing the folding of that neural, well I should not
+say simply, it's really an amazing feat in development.
+That such a thing would happen, but in addition to inducing the formation of
+this tube, the notochord is also giving rise to signals.
+That are specifying some particular regions and one particular region is that
+portion of the neural plate that directly overlays the notochord.
+This becomes a region that we call the floor plate.
+And this becomes quite important, because it in turn gives rise to inductive
+signals that will influence the surrounding portion of this neural tube.
+Now there's another special region, that responds to inductive signals, and that
+is found on the dorsal side of this developing neural tube.
+We call that the roof plate, and the roof plate will give rise to signals that will
+influence the dorsal aspect of this epithelium that is forming the walls of
+the neural tube. And one additional region I want to
+highlight for you is that in the ridge of this folding neural tube that begins to
+come together, there's a special population of cells here.
+That we call the neural crest. And the neural crest will actually pinch
+off from the margins of this neural plate as the neural tube is forming.
+And the neural crest ends up sitting just along the dorsal and lateral margins of
+the neural tube once that tube has formed.
+Now the neural crest is a source of many different types of cells that are derived
+from it. cells begin to differentiate and they
+begin to migrate away from this region of the neural crest.
+And as they migrate away, they are subject to chemical signals from the
+nearby structures in the mesenchyme and in the mesodermal derivatives, such as
+these somites that we see here, sitting just lateral to the neural tube.
+So, as these cells migrate away from that dorsal lateral neural crest.
+they are exposed to all kinds of signals that generate a rich variety of progeny
+of these neural crests. And these progeny include both neurons as
+well as non-neural structures. so, here's just a, a brief example of
+some of the derivatives of this neural crest.
+So the neural crest pro-generative cell can be influenced by various factors to
+form our sensory nerves that we find in structures like the dorsal root ganglia.
+Other signals can induce formation of the peripheral cells of the visceral motor
+system. And so that would include our ganglionic
+neurons that are are intervening our visceral tissues.
+so, essentially the entire peripheral nervous system, including the enteric
+nervous system, is derived from neural crust.
+And, as I mentioned, also non-neural structures who derive from neural crests,
+such as the chromaffin cells and the melanocytes and others that are not
+depicted here. Now, how is all this accomplished, how is
+this possible? Well, it is possible because of inductive
+signalling. If I can just back up to this slide again
+and just highlight the means by which these signaling interactions occur.
+So, I mentioned the notochord is a very important source of inductive signaling.
+the floorplate and the roofplate become important sources of inductive signaling.
+As do the somites and these mesenchyme cells, through which the neural crest
+derivatives must migrate. So, just to be clear, I've highlighted
+for you in the handout what I mean by inductive signalings, so let me just draw
+your attention to that. So, inductive signalling is the ability
+of a cell or tissue to influence the fate of nearby cells during development by the
+synthesis in secretion of chemical signals.
+Now these chemical signals are either steroid hormones or peptide hormones, so
+they have an impact on the transcription of genes in the cells.
+That they interact with. The precise timing of the expression of
+these inductive signals becomes crucial for the proper formation of the develping
+brain. So what we will see is that in order to
+form the nervous system correctly. These inductive signals need to be turned
+on and turned off in a very precise pattern in both space within the embryo.
+But also in terms of developmental time. And all of this is regulated in complex
+way that we're just now beginning to understand.
+And again, it's subject to probation that can produce various forms of defects in
+the developing brain, as inductive signals might be either blocked.

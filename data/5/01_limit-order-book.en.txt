@@ -1,0 +1,43 @@
+This is an old screenshot from
+an electronic communications network called Island that shows a bid and
+ask for not just dealers, but for
+everyone who trades on the exchange. The Securities and Exchange Commission
+wanted to encourage innovation, and so this is from 20 years ago. And they wanted to see electronic trading,
+so they allowed ECNs to be kept
+as a separate category. So this is one example, it was exciting
+because you can get on to buy and sell stocks. And you can actually see the book. Now here you don't have to be a dealer. You can place a bid that I'd like to buy
+so many shares at such and such a price. Or you could put in there and
+say bid is what I want to buy, ask is what I want to sell. You can see the number of
+shares is small in each case. These are ordinary investors,
+there might be some professional dealers trading in it, but
+mostly it was kind of an amateur market. So you could buy a 100 shares at $35, I can't quite read that,
+at 6250 per share and then someone else is offering,
+does that say 2 shares? The biggest one on here is 500 shares,
+so these are not big time trades. So what happens if you
+wanted to get on to Island, you would open up an account and
+then you could place a bid and ask. You could do it on your own. But you have to fill
+in one of these banks. So you would get on the computer and
+you'd see this thing. And then you'd type,
+I want to buy 20 shares at, but now I gotta beat these pther prices. You notice that they're
+decreasing as you go down. The computer has
+automatically sorted them. So if I want immediate execution,
+I'd better put something., I'll say $35.63, so
+I type that in, it goes on. And then, for a split second,
+you'll see, hey, there's my buy order. And then bang, it's gone. It lasted only one second, because there was somebody else
+with his finger on the sell order. He hit, I'll take it. If you put your order right here
+at the top, here's sell shares, if you want to sell,
+you see that the price goes up. So if you stay near the top you'll
+probably get executed immediately. So then it becomes a fun game to play. Then you think, well,
+that went awfully fast. Maybe I should put it down here somewhere. Then I won't get executed until someone
+wants to make a big trade, say, wants to buy 1,000 shares. And if you watch this thing on the screen,
+it would be constantly disappearing and appearing, the buys and sells. But the same thing you saw on Island is
+the same thing that you see on NASDAQ. NASDAQ now offers different levels,
+but this is a screen shot from what dealers see, it's the same
+game they're playing on NASDAQ. The only problem is that
+NASDAQ makes it expensive for you to subscribe to their service. because they want it to be for
+professional dealers, but it's the same, do you see what this is? These are the bids and
+these are the asks and It would be the same thing, but you notice
+that the number of shares is larger. And this is the name of the dealer
+company that's offering like arcx. This is the game that dealers play. So inside spread is the spread
+between the bid and the ask. This is slated to disappear
+in a millionth of a second.

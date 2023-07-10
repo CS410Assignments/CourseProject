@@ -1,0 +1,97 @@
+Now, after the financial crisis,
+the people were really angry that the mortgage, the CMO and CDO people had repackaged mortgages and
+sold them to the general public. And that the banks who sold
+the mortgages didn't really care whether they were good or not. Because they weren't going to own them. If you're in the mortgage
+origination business, you're a banker that makes mortgage loans,
+and you know you're going to resell it to some ignorant investor,
+then you say, what's the point? I'll approve everybody,
+I'll make maximum amount of money. So this was the period when, among other
+things, the liar's loan occurred up here. That's a nickname,
+that's not what it was officially called. But a liar's loan was a mortgage
+issued to a person who did not show evidence of having a job or
+having a good record. They just took the guy on faith. Maybe they faked it and
+said that they did have evidence. This is a crime to do that, right? To take out a mortgage that you
+think is highly likely to default to get a credit rating which
+is not careful at all. And to sell the securitized
+mortgage to ignorant people all over the world thinking that they're
+investing in a sound enterprise. So in Europe, the European Parliament
+passed a rule that a mortgage originator must hold 5% of the mortgages
+that it initiates. So if you're a bank and you issue
+mortgages, you can't sell the last 5%. That gives you an incentive
+to stay above level and not to give liar's loans, for example. Here's an example of
+the US copy in Europe. In 2010, the Dodd-Frank Act copied
+this idea, but it said that we won't require that if the mortgages
+are qualified residential mortgages. So the term qualified residential
+mortgage was defined by the Dodd-Frank, actually, it didn't fully define it. The Dodd-Frank act said our regulate,
+the appropriate regulators will have to come up with the definition
+of a qualified residential mortgage, which is a mortgage that is where
+all the right things have been done by the originator, the lender,
+to assure that it won't default. This is funny, the Dodd-Frank Act
+is very difficult to read. I have to admit, I havent read all of it,
+but it's almost 1,000 pages long. It's not written to be readable. Have you ever tried to read legislation? They'll say some things like, in
+the something act, the Credit Act of 1940 something, lying such and such is hereby
+stricken and the words are replaced with. So in order to read this stupid thing,
+you've got to go back and forth between all the other legislation
+to figure out what the other one said, so it's complicated and
+it leaves all these open ends. So the Dodd-Frank Act said that you,
+as a mortgage originator, have to hold 5% of the mortgages
+you issue, or more, unless it's a qualified residential
+mortgage as will be defined in due course. So they left it to the regulators
+to say you have to define what is a qualified residential mortgage. And that means a mortgage that
+has been done properly, so that we can be reasonably assured
+that the homeowner won't default. So they brought this up to the,
+right now, it turns out there's multiple regulators of mortgages, and
+they couldn't get their act together. They started issuing proposed rules,
+that's what they do. Before issuing a definition of
+qualified residential mortgage, they put up on their website,
+we're thinking of this definition. So what do you think happens? Every banker in the country gets on to
+it and writes a complaining letter. So it's such a mess,
+you can get on to their website and see. I think that for the QRM definition,
+they got over 10,000 comments. They called them comments,
+often angry complaints. You can't do this. I can't stay in business if
+you put that definition on. So, it took them four years to
+come up with the definition. Originally they had a 20%
+down-payment requirement. They've dropped it. So, I tried to read the rule,
+I tried to read it. I discovered it was taking me a long time,
+so I went to the end and it had 689 pages to define a qualified residential
+mortgage, that's a lot of pages. Well you get lawyers,
+and get them going and you get all these bankers arguing
+about it and all their lawyers. It gets very complicated but
+at least they did it. And so here,
+this is not reading the 689 pages. This is a summary from a mortgage website. Now incidentally,
+you don't have to adhere to these rules. But you can't sell all of
+the mortgages if you don't. And so bankers pretty much are all
+going to follow these rules because they don't want to be stuck with
+something that can't be sold. Bankers have to sell the mortgages
+to get money to make new mortgages, they're in the mortgage
+origination business. And mortgages are inherently not held by
+banks, somewhat by banks, but often not. So they just generally want to qualify. So that means that you have to have
+equal payments, or substantially. You can't have no payments at
+the beginning, and then payments later, because that would be attracting borrowers
+who don't have the money, right? It'll be confusing borrowers, they might
+think that the loan payment is forever. No negative amortization. That means,
+remember we talked about amortization, and that price level adjusted mortgages
+that were tried in the 80s had negative amortization at first,
+in nominal terms. Because the interest rate was so
+high, that nobody could pay that. In a high inflation environment, you have
+a fixed nominal payment for 30 years, but inflation is going up at 10% a year,
+prices are going up at 10% a year. That means the real payment is going down. So the real payment is
+declining through time, but the nominal payment has
+to be constant now. So you can't have negative
+amortization and qualify anymore. And a balloon feature. A balloon payment is a payment at the end. They can't have a payment at the end,
+it's gotta be an annuity. You can't go over 30 years. You can't have points,
+which are fees of a sort, that exceeds 3% of the total loan amount. Also, interest rate is
+sometimes adjustable. You have to use the maximum interest rate, that may apply during the first five
+years, to define debt to income ratio. You have to verify
+the consumer's income and assets, and current debt obligations and ask whether the borrower has alimony or
+child support payments to make. And finally, they did not put
+a loan devalue ratio test. In other countries they'll say you can't
+loan more than 90% of the value of the house. QRM rules don't have that. Instead they have a debt to income ratio. So that is, you cannot have a debt which
+is more than 43% of the borrowers income. So that's QRM. And I'll end with that. These rules are kind of obscure. And I went over them though,
+because you're going to be buying a house. And how many years before
+you start buying houses? Won't be long. And you want to know these things. This is what you're going to get. You're going to get a no negative
+amortization, 30 year mortgage. With a debt to income
+ratio of less than 43%. And you know what questions
+they're going to ask. So this shows how
+regulated our economy is. It's a nice tie in to our
+next lecture on regulation.

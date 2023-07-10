@@ -1,0 +1,157 @@
+So now we're ready to talk about the
+circuitry in the brain stem that mediates the vestibulo-ocular reflex.
+Now, before we get into the details here, I want you to understand the purpose and
+importance of this reflex. Imagine that you need to fixate on some
+near object, and I would encourage you to do so.
+I'm going to fixate on the tip of this pen.
+And now turn your head from side to side while you fixate on that pen.
+So hopefully, you can see what's happening in my own orbits as i turn my
+head from side to side. When I move my head to the right, my eyes
+shift towards the left. When I move my head to the left my eyes
+shift towards the right. It's, it's truly one of the remarkable
+sensory motor reflexes we have in our bodies.
+The movements of our eyes are exactly matched to the movements of our heads.
+Both in amplitude and in velocity. If that were not so, we would not be able
+to maintain fixation during the movements of our head.
+So how is this possible? Well, this figure 14.10 illustrates the
+circuitry that makes this possible. If we were to turn our head, let's say,
+towards the left. We would need to turn our eyes back
+towards the right. So if I, to rotate my head to the left.
+Hopefully you can see that my eyes are turning to the right.
+So turning my head to the left. Would be consistent with activating my
+left semi circular canal. And so what we would want to see happen
+is a turning of the eyes towards the right.
+So what is it going to take to turn my eyes to the right?
+It's going to require the activation of my right lateral rectus.
+And my left meteor rectos. These muscles will contract and will tug
+my eyes over to the right. Well in order to allow my eyes to
+smoothly rotate to the right it would be very helpful if we reduced the muscle
+tone in the antagonistic muscles. So that means as I'm contracting my
+right. Lateral rectus.
+It makes sense to reduce the tone of the right medial rectus.
+So the eye can smoothly shift to the right.
+Likewise, for my left eye, while my right medial rectus is contracting, it makes
+great sense to want to relax the left lateral rectus muscle.
+And this will allow the globe to smoothly turn towards the right.
+So this should give you some sense of how this happens.
+If the signal is leftward turning, activating my left semi-circular canals,
+that's the input signal. The output is turning my eyes to the
+right. I'm going to need to have some signal.
+That crosses the midline and activates my right abducens nerve.
+I need a signal that will activate my left ocular motor nerve.
+And then, I need to have some kind of signal that will suppress the
+antagonistic muscle. So, let's see how this works.
+Again with activation of, let's say, ganglion neurons on the left side that
+enervate the horizontal canal there. We would engage a series of neurons that
+sit in this vestibular neuclear complex. One of these neurons is going to an
+excitatory neuclear transmitter in the obdeusance nucleus.
+Of the opposite side of the brain stem. That obdeusance nucleus then, is going to
+inervate the lateral rectus muscle. And cause it to contract, tugging that
+opposite eye, in this case, the right eye towards the lateral side of the visual
+field. Okay?
+So this is going to achieve that rightward eye movement.
+Now what about what's going on with the left eye?
+Well we need to activate the medial rectos muscle of the left eye.
+And in order to do that, we need to have a second kind of neuron that grows from
+the abducense nucleus. To the ocular motor nucleus.
+This is called an internuclear interneuron, or internuclear neuron.
+So it's going to release an excitatory transmitter and drive the activation of
+the ocular motor, alpha motor neuron, that will cause contraction of this
+medial rectus muscle. And the turning of the left eye towards
+the right. Okay, now, now what is it going to take
+to relax the antagonistic muscles. The way that this happens is via an
+inhibitory interneuron. And that inhibitory neuron grows out of
+the vestibular nuclear complex and suppresses the firing of the alpha motor
+neuron of the abducens nucleus on the same side of the brain stem.
+And it suppresses that internuclear neuron that connects the abducens nucleus
+with the occulomotor nucleus. So, essentially we activate one pair of
+cells and. Deactivate the corresponding pair on the
+other side of the brain stem, through synaptic inhibition.
+And this allows us to achieve the functional goal of turning our eyes
+directly opposite the rotation of the head.
+Now, there's a phenomenon that you need to know about.
+it can be, An important clinical sign.
+And it's called the vestibular nystagmus. Now, the nystagmus is one of those
+interesting words that,. it's worth knowing its meaning.
+It means a nodding of the head. So nystagmus is something that we see in
+the eyes. But the action is very much like.
+Nodding of the head as if you're falling asleep.
+So what do we tend to do sometimes when we're listening to a boring[UNKNOWN]
+lecture, is that we might doze off. Our head goes through a slow phase and
+then we might snap back up. [SOUND] As we sort of wake ourselves up
+by the action of nodding our head forward.
+So the idea that there's a slow phase, and then there's a rapid phase, slow
+phase and then a rapid phase. That's nystagmus.
+So it's a rhythmical form of reflexive eye movement.
+That includes this slow component in one direction, that is interrupted by a very
+fast saccad-like component in the opposite direction.
+So if my hands represent movements of the eyes, you can imagine the eyes moving
+slowly to one side, and then quickly snapping back, and moving slowly and
+snapping back. Now, vestibular nystagmus is normally
+driven by persistent head rotation, so if you were to spin someone around in a
+chair, you might want to try this with a willing volunteer, and then suddenly stop
+that person, what you might see is that their eyes are going to be in nystagmus.
+That's because for a few seconds now, the endolymph is going to be deflecting the
+cupulas of the horizontal canals. And you should see a very predictable
+type of nystagmus, with the eyes going in the direction opposite the movement of
+the head. And then they'll snap back.
+And continue to move opposite the direction of rotation.
+Until that endolength stabilizes relative to the fix structures of the horizontal
+canal. Now it's important to recognize that it's
+the slow component of nystagmus. That's driven by the vestibular ocular
+reflex. The fast saccadic component, that reset,
+that is a different kind of reflex that repositions the eyes in the orbits.
+That's not a function of the VOR, the vestibular ocular reflex, that has to do
+with more of a sensory motor integration reflecting proprioceptors from eye
+muscles driving a quick reflexive reset of eye position in the orbit.
+So what's important is to realize that the vestibular nuclear complex drives the
+slow component of vestibular nystagmus. Now, we can learn a lot from watching the
+movements of the eyes. Especially if the nystagmus is present.
+the type of nystagmus we see that is the direction of the slow component of the
+eye movement. Is an indication of the balance of
+activity that we find. Arriving from the two eighth cranial
+nerves. And that balance is critical because if
+the balance is off set, either because we are actually rotating our head, or
+because there's hypofunction on one side of the vestibular system than there will
+be a drive of the eyes consistent with the vestibular occular reflex.
+Okay, so if we turn our head to the right, they're elevating activity in the
+right side. Decreasing it on the left.
+That's going to drive our eyes to the opposite side.
+But also if we were to have hypo-function on the left such that there is now an
+imbalance. The eyes would be driven in the slow
+phase of nystagmus towards the left, as if we were actually turning our head to
+the right, but we're not. So if this were the situation with
+hypofunction on the left side we would expect the slow phase of nystagmus to go
+to the opposite side of the head, away from the elevated side so to the left.
+Towards the side of the hypofunction and then the quick phase would reset.
+So hypofunction to the left means that the slow phase is towards the left.
+And then the quick flick back to the right. [SOUND]. So when you're evaluating clinical
+patients for the presence of nystagmus, it's important to keep in mind.
+That you're looking for evidence of this pathological alteration.
+And the balance of activity between the two signs of the vestibular nuclear
+complex. And this is what gives rise to the
+expression of nystagmus under conditions that wouldn't normally induce this kind
+of ocular motor behavior so obviously. You want to have your patient's head
+stable and in neutral position while you're examining this patient and the
+possibility of nystagmus. Now, you may induce certain head
+movements as a variable, which will test the operation of the vestibular system,
+but I'll leave that discussion for the clinicians that may be teaching you about
+how to do a thorough vestibular examination.
+Here, in medical neuroscience, what's critical is that you appreciate the
+effect of an imbalance of activity on the two sides of the vestibular system and
+what that would do for the induction of nystagmus in the movements of the eyes.
+Now we've been emphasizing movements around the z axis that would be
+consistent with shaking the head to the left or to the right.
+And that obviously is focusing on the activities of the horizontal
+connects,[COUGH]. But one can have nystagmus really in any
+direction. One can have a rotation of the eyes that
+would be consistent with stabilizing gaze against.
+Movements of the head in the nodding direction, okay?
+So that would imply that if there were dysfunction associated with a superior
+canal or an inferior canal, there may be nystagmus where the eyes would perhaps
+drift up and flick down, or maybe drift down and flick up, or there may be some
+rotational component. To the nystagmus, that would reflect the
+integrated activity of some combination of canals on one side of the head versus
+the other. But the key principle is that the
+imbalance in the signals arriving from the two vestibular nerves are what will
+drive the vestibulo ocular reflex.

@@ -1,0 +1,215 @@
+Well one of the real puzzles about the
+physiology of the olfactory system is what happens to this combinatorial code.
+That's established in the olfactory epithelium as odorans interact with their
+receptors. Well, we've already discussed the
+principle of the convergence of the axons of olfactory sensory neurons.
+That express the very same allele for an olfactory receptor onto the very same
+glomeruli in the olfactory bulb. Really, a remarkable degree of
+convergence and path finding that allows these 25,000.
+Or so olfactory receptor neurons to send inputs to the very same pair of olfactory
+glomeruli. Well, what about the next layer of
+processing that we see in the olfactory pathway beyond the olfactory bulb?
+Well I'll just remind you of what we talked about near the beginning of this
+session. That the olfactory bulb sends projections
+via it's mitro cells into a set of targets.
+That we call the olfactory cortex, distributed along the ventral and medial
+aspects of the forebrain. So here again, is our olfactory cortex,
+from the posterior part of the inferior frontal lobe, down into the ventral and
+medial aspects of the temporal lobe. So that's where we find these structures
+that appear from cortex, the olfactory tubercle, the amygdala.
+And the entorhinal cortex, part of the parahippocampal gyrus.
+Well, what we find is in the organization of the projections from the bulb to the
+olfactory cortex, is a broad distribution of afferent terminals to the cortex.
+From any one location in the olfactory bulb.
+So, as a consequence of this, when we present a single odorant to an animal
+where this can be studied at the cellular level.
+What we find is the activation of individual neurons across a wide extent
+of the olfactory cortex. As if the precise mapping of olfactory
+receptor neuron to glomerulus in the olfactory bulb.
+Somehow has been lost in this widespread distribution of afferents from bulb to
+cortex. So what we find is that the mitral cells.
+That receive the same input at the same glomerulus will make synaptic connections
+over a broad extent of the olfactory cortex.
+Now with that said, it seems as best we can ascertain that there really is no
+kind of a space map in the olfactory cortex.
+There's not a map of the olfactory environment that can be easily discerned,
+nor is there any kind of point to point topographic.
+Mapping of the olfactory bulb into the olfactory cortex.
+So, in the absence of an obvious spatial representation in the olfactory cortex,
+one wonders what is the nature of the olfactory code.
+When it comes to cortical processing. And the nature of that code is suggested
+by the fact that as an animal sniffs. And as odorants begin to activate
+olfactory receptor neurons, what we find is a wide spread synchronicity of
+activity in the olfactory cortex. In this broad extent of ventromedial
+cortical structures. This suggests that the nature of the
+olfactory code might actually be temporal, rather than spacial.
+Which is to say that the timing of activity across this network may be a
+means for encoding information. That can then be used to make
+discriminations and appropriate responses to the detection of odorants in the
+environment. So let's talk now some about the
+physiological impact of olfactory processing.
+Well, we've learned quite a bit from studying the anatomy of the olfactory
+pathways in the brain. And the distribution of olfactory
+information to and through the olfactory cortex.
+one important point that we've ascertained from a study of this anatomy
+is that this olfactory cortex. And in particular pyriform cortex
+maintains heavy connections with the orbito and medial part of the prefrontal
+cortex. As I mentioned earlier this quite
+significant for understanding feeding behavior.
+Because it's within this orbital and medial part of the prefrontal cortex that
+the hedonic value of food is represented. in other words, the pleasure and the
+desirability of consuming food is stamped with a value.
+In the networks of the posterior orbital cortex.
+It's in this part of the brain where information about smell, taste and
+texture, perhaps that slight spicy irritation that some of us enjoy in our
+foods. Comes together to produce a pleasurable
+sensation with the consumption of those foods.
+So this hedonic value of food is for sure a complex cognitive construct.
+But it's one that depends upon the confluence of these sensory signals in
+the posterior part of the orbital cortex. So this is a very important site of
+integration of olfactory information at a higher level of brain processing.
+Now there are also connections from this olfactory cortex, to a division of the
+thalamus, called the medial dorsal nucleus of the thalamus.
+This is a thalamic nucleus that has connections with not only the orbital
+medial part of the prefrontal cortex, but really the entire prefrontal cortex.
+So, by this means olfactory signals can engage a broader network that is used for
+executive functioning and decision making.
+Imagine, for example, the behaviors that may be engaged at the detection of a
+particular odorant. Perhaps let's say smell of freshly baked
+pastry or pie that causes you to wander throughout the home or throughout the
+neighborhood to that cafe. that happens to be the source of that
+aroma. So there are behavioral choices, and
+there are actions that are being planned and executed based on the aquisition of
+signals from our olfactory epithelium. Well, that's a, obviously a very complex
+example but it's one that undoubtedly requires this sort of bidirectional
+engagement of thalamocortical networks. Perhaps you've also had the common
+experience of a smell evoking a memory. And so it's again perhaps not surprising
+that our olfactory cortex, specifically the entorhinal cortical division.
+is a preeminent source of inputs into the medial temporal lobe's memory network.
+And that is found in the hippocampal formation.
+Which is that medial terminus of cortex that folds in upon itself along the
+medial edge of the temporal lobe. Well, we'll say much more about memory in
+a later session when we come to unit six near the conclusion of this course.
+But, for now I'll simply make the point that olfactory signals can be important
+triggers for the recall of memory. And perhaps this rather immediate access
+to our memory circuits via this posterior part of the olfactory cortex is one
+example. Or at least one means, by which olfactory
+signals can engage our memory circuits. And lastly, I'll mention that this
+olfactory cortex, of course, has projections into the hypothalamus, where
+odorants can engage our visceral motor systems.
+the output of our autonomic nervous system that can adjust our physiological
+responses. And the whole host of behaviors that are
+mediated by circuits in the hypothalamus. Now in this course, our focus is on human
+neuroscience. however, if we were taking a more
+comparative approach, we certainly would spend more time talking about pheromones.
+When it comes to olfaction and the chemical senses.
+Pheromones are signals that are detected by specializations of the sensory
+epithelium and the posterior part of the olfactory bulb.
+Where there are transduction mechanisms and processing circuits that are
+specially tuned to these signals. That can have a profound effect on
+motivated behavior. An these behaviors, often are expressed
+in the context to social communication. Now there's a specialized organ, that
+receives pheromone signals, in many mammals.
+It's called the vomeronasal organ, and it connects to a special, region of the
+posterior olfactory bulb called the accessory olfactory bulb.
+In species such as rodents and carnivores, these systems are well
+developed. And these systems are used to allow
+chemical messengers to mediate complex social behaviors.
+So these structures are absent in humans, we, we don't have a vomeronasal organ,
+neither do we have much of any accessory olfactory bulb.
+So, if humans actually respond to pheromone like signals they must be doing
+so through the rest of the olfactory epithelium.
+In what we call the main olfactory bulb, or for us just our olfactory bulb.
+This remains a controversial topic. we don't exactly know the nature of these
+signals that may or may not influence human behavior.
+But we do have some intriguing examples that perhaps you know about.
+Such as women synchronizing their menstrual cycles when they are housed in
+dormitory environments. There have been several studies of this
+phenomenon over the years, as you can imagine.
+They provide some rather compelling suggestion that perhaps there are indeed
+something like a pheromone. That can modulate in this case,
+synchronize, reproductive functions in a cohort of people.
+That are housed in a particularly closed socially socially confining quarters.
+Well that's just one example. There may be others, and there's great
+interest. On the part of commercial enterprises, as
+you might imagine. Consider the perfume business, for
+example, wanting to modify behavior, based on olfactory cues.
+As well as other kinds of industries that may want to capture the potential to
+modify human behavior based on chemical signals.
+Well, much needs to be done to establish the existence of pheromones in humans.
+So stay tuned, perhaps we'll have an answer to this conundrum as research
+continues to advance over the next decade or so.
+I'd like to make just a few more points before we leave olfaction and turn to
+gestation. One of them has to do with the natural
+decline and olfaction that occurs with age and here are some data that are
+replotted for us from our text book. That show really a, a rather striking and
+consistent age related decline and olfactory discrimination ability.
+Now this probably a, a complex phenomena that relates both to changes in the
+olfactory sensory epithelium, as well as to central structures in the brain.
+I think it, makes some sense that the olfactory epithelium is particularly
+vulnerable to infection. To injury, to a variety of, of sources of
+trauma and disease. One might imagine the accrual of insult,
+over our decades, that would produce a net loss of function as we age.
+Well, there also might be central mechanisms that are responsible for this,
+that are poorly understood. But it's very real phenomenon.
+And it's one that can have a profound impact on let's say one's nutritional
+status. Especially in our later years, when food
+might lose its appeal, and our dietary interests may change as a result of this
+decline in olfaction. So this can be actually quite a serious
+health related matter. And it's one that, every health
+professional should, should understand, especially those that are caring for
+older adults. Another concern, related to olfactory
+function across our lives is traumatic head injury.
+Now, I'll remind you that cranial nerve one, are the axons from the sensory
+neurons that pass through the cribriform plate.
+And the ethmoid bone to make synaptic connection within the olfactory bulb.
+Well, unfortunately when our head is impacted in a traumatic head injury of
+some sort, there can be a shearing force. That might cause the brain to move
+against the fixed skull. And if there should be some kind of a
+shearing action, of olfactory bulb against the cribriform plate.
+You can imagine that these very fine axons are at some risk of being severed.
+indeed this is one relatively common consequence of a traumatic head injury,
+is a loss of olfaction. Now, thankfully the olfactory sensory
+neurons are among the very few neurons that we know about that will regenerate
+throughout life. We think it takes about two months or so
+for a stem cell to differentiate into olfactory sensory neuron and then for
+that neuron. To regrow its axon into the olfactory
+bulb. So, there is some recovery of function
+typically following a traumatic head injury when this type of severance of the
+first cranial nerve is incurred by a subject.
+However, often the sense of olfaction, the sense of, of flavor with a
+consumption of foods is, is never quite the same and I think you can appreciate
+that. If the job of these axons is indeed to
+find their way back to the glomerulus. That is appropriate given the olfactory
+receptors that any given sensory neuron expresses.
+One imagines that there are guidance errors, and some inappropriate
+connections that might break down somewhat.
+The coding mechanisms that allow the sensory surface to be mapped into the
+olfactory bulb. Well, the upshot of all of this is that
+the first cranial nerve is vulnerable to trauma, and the regeneration of those
+olfactory sensory neurons. And their central axon, while of great
+benefit in mediating functional recovery, is typically not 100%.
+efficient in finding the exact same synaptic targets that the prior neuron
+wants established. Hence the nature of olfactory processing
+is often different. Sufficiently different for human subjects
+to report there being some ongoing variance in their olfactory and flavor
+perceptions. And just to give you one more look at
+that olfactory epithelium. I'll again highlight these basal cells
+which give rise to a population of precursor cells that can divide and
+differentiate into olfactory receptor neurons.
+So, here is an indication of a developing olfactory receptor neuron.
+Its dendrite has quite reached the mucosal surface yet of the olfactory
+epithelium. but over time given a few months of
+development, this olfactory sensory neuron will mature and extend its cilia
+now. From its terminal dendritic bulb out into
+that epithelium and now function as a fully mature olfactory receptor neuron.
+Meanwhile, the central process, this developing neuron will make its way back
+through the cribriform plate. And these axons then will make their way
+to the olfactory bulb and hopefully with at least some measure of efficiency
+contact the appropriate glomerulus. That will allow any given newly born
+olfactory sensory neuron to be matched up with the other sensory neurons that
+express the same olfactory receptor gene allele.
+Well, I think we're ready to move on from our consideration of olfaction.
+Now to talk about the sense of taste, the sense of gustation.
+So I'll see you soon as we pick up the story of the chemical senses with the
+story of gustation.

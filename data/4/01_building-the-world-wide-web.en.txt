@@ -1,0 +1,72 @@
+[MUSIC] Hi, welcome back to cybersecurity for
+everyone. I'm Dr. Charles Harry. In our last episode, we talked
+about how to scale the internet and how the government tried to use incentive
+structures to get the private sector more involved in building out the technology. In this episode, I want to talk about the next internet
+based boom building the World Wide Web, and this is often times the way that
+most of us interact with the Internet. So by the late 1980s, the internet really had
+become standardized. We had standardized the specific set
+of instructions that were required for internetworking. Right? This concept that was initially pioneered
+in the late fifties and sixties, and this is a reflection of
+the collective work between academia, the government, and the private sector. And so by 1992,
+the Internet really is a global standard linking millions of
+devices around the world. But it's not quite the way that
+we think of the internet today. It was a set of networks connected, but
+the way in which individuals leverage those networks was really quite
+different than what we find today. So the question is how do
+ordinary people use the internet? It's one thing if you're a researcher and
+you want to share information with a colleague on the other side of the
+country or on the other side of the world, you can use a particular
+protocol to transfer a file. And that's helpful. It's useful. But that's really not quite the same way
+that we think about the internet today. We're not sharing cat videos. We're not booking hotel reservations,
+right? That's not what we're talking about
+by the end of 19 in the 1980s. And so the internet, you can think of it
+as a closed system of private networks. And there are some firms that exist
+that try to develop some sort of user interface a way for
+people to actually leverage this utility. And so a gentleman by the name of
+Tm Berners-Lee who is working out at CERN in Switzerland comes up with this concept
+of the World Wide Web In the late 1980s. And really it's a sense of web pages
+of content that are linked together and the ability for
+people to modify that content, which is at the heart of this idea. So Berners-Lee Outed CERN
+develops the World Wide Web and it quickly becomes adopted by
+early users because of the ease in which they can develop content and
+link it together. So on top of all these networks that
+are interconnected, you now have a set of instructions that allow users
+to develop their own content and to create linkages with other
+content on other networks. So there's an information layer that's
+put on top of all these network devices. And so one of the very first popular
+applications that's developed to navigate the World Wide Web
+is something called mosaic. And it becomes quickly the most
+popular web browser very early on. And by 1993, the World Wide Web becomes
+the dominant way to utilize the Internet. Tim Berners-Lee helps develop and
+further move this particular set of technology forward by helping to form
+the worldwide consortium in 1994, which is basically a way for
+them to manage content. We'll talk more about governance of
+the World Wide Web in another episode. And at this particular point in time,
+Silicon Valley Investment really starts driving additional web
+technology development. And so what we start to see is that
+there's a move from most of this work being developed in the western Europe and
+in the east coast of the United States, and it starts to get moved
+over to the West Coast. So in the early 1990s, Mosaic is
+the early leader in browser technology. And starting in 1993 1994, the core
+development team of Mosaic picks up and goes out and
+forms its own corporation called Netscape. Some of you may have heard this
+company does not exist anymore. At the same time,
+the Microsoft corporation comes up with a competitor browser platform
+called Internet Explorer. Many of you have probably have
+heard of this particular browser. And so what you see in the 1990s is
+intense competition between Netscape and Microsoft, and they quickly dominate
+the entire market of rather for browser technology. So the World Wide Web continues
+to develop throughout the 1990s, and which started off in essence
+in a laboratory environment in 1990, out at CERN,
+by the end of the decade, has over 350 million people
+utilizing the World Wide Web. Imagine that m,
+something that is just dreamed up in 1990, 10 years later starts
+to dominate globally. It's the user-friendly ability of
+the World Wide Web to develop content and to link it together. That makes it the first killer app. So the takeaways from this
+particular episode are first and foremost, the standardization,
+privatization and scaling in the internet that we saw and
+we talked about in the prior episode, really sets us up for a new set of
+technologies, the World Wide Web. It sparks a new round of competition
+between a couple of corporations specifically Netscape and Microsoft. And by the end of the decade, we now see
+the World Wide Web as the dominant way in which users leverage the internet. In our next episode, we're going to talk about how
+the World Wide Web is continue to develop. See you next time.

@@ -1,0 +1,99 @@
+There have been in history many banking
+crisis where banks are subjected to a run. Depositors lose faith in the bank,
+and the bank runs out of money. During a bank run,
+everybody goes to the bank and demands their money at the same time. And banks can't handle this. So government regulators long ago
+impose in the United States and in other countries reserve requirements
+that banks have to keep a certain amount of cash on reserve to meet any sudden
+increase in demand from their depositors. And so the government then put
+a requirement that was binding, banks would hold some reserves anyway
+because they recognize the risk. But the government in the United States
+put reserve requirements high enough that banks were forced to
+hold more than they wanted. Excess reserves are the reserves
+that banks hold beyond what they're required
+to hold by regulation. And it's an interesting chart. They never did hold any excess,
+well actually you can't see it. >> Right, there's a small blip. >> There's a little blip, yeah. But basically when you make a regulation,
+it's either binding or it's not. If it's binding, that means they
+don't want to hold that much. Why don't they want to
+hold excess reserves? Well because they didn't pay any interest. And so banks like to lend out the money so
+they didn't want to. But then, suddenly,
+they started holding excess reserves. And why is that? Very simple explanation. You see this gray shaded area,
+that represents the recession. In fact, this is the Great Recession. These are relatively minor recessions. This is the big one. And it was so bad that in many
+countries all over the world, Central Banks cut interest
+rates as far as they could, and that was zero in order to
+stimulate the economy. So the problem is, now, banks don't care. They can only invest at zero. >> It's like putting it
+under your mattress. >> Yeah, the banks have no
+place to go with this money. So they think,
+why we won't just leave it in reserves?. We don't care, so we're holding much more
+reserve than the Central Bank requires. And you can really see it. They were holding,
+this is in the millions of dollars. So this is a huge, [LAUGH] a huge
+amount of money held in reserved. And it has just kept going up. It's really remarkable that there's so much cash just lying around now and
+not being lent out. And interest rates are, well,
+they've come up a little bit. This chart ends but they're so
+close to zero anyway that banks don't see lending
+opportunities that appeal to them. Also, regulation has made it harder for
+them to make risky loans. So, this is the source of our concerns
+about what's called secular stagnation. That there's something different about
+now, compared to any other time, going back decades, what's different is,
+there's just no place to invest. You wouldn't leave money lying around,
+earning zero interest. These are professional
+finance people running banks. They're letting it just lie there,
+earning nothing. So it's a sign of some kind of fundamental
+weakness in the world economy, that came on with the financial crisis. Moral hazard and
+adverse selection are fundamental issues. Let's put it the context of
+fire insurance, all right. If you open up a company that insures home
+against burning down, you run two risks. One of them is moral hazard. That's the risk that one of your,
+you sold the policy to someone who owns a house to insure
+that house against fire. Then, the person deliberately burns
+the house down in order to collect. That's a real problem, although you might
+be able to prove that it was arson but maybe not. Maybe the guy can make it look real,
+normal. So the protection against
+that kind of moral hazard is, don't insure the full value of the house. Make it always in the interest
+of the home buyer to sell the house rather
+than burn it down. The other thing is adverse selection. If you're doing fire insurance,
+even if people are moral and ethical, and they won't play tricks on you,
+it could be that people might know that their house is not fire proof, that
+their house is in danger of burning down. So all the people will flock to you who have homes that are in
+danger of burning down. And so, you will get a selected part
+of the potential insurance market. It's always the worst for you,
+so what do you do about that? You have to carefully examine
+the kinds of property and you'll get a fire expert to look and see whether
+this house is different from others. And you have to then maybe add a little
+bit more to the premium than you would normally charge because you're
+worried about adverse selection. Now how can I relate it to this? >> [LAUGH]
+>> Now some people will say when I look at this, that all this money is sitting in the bank's reserves not
+earning any interest. But then I say, I look around, I can see
+interest rates that are higher than that. That are higher than zero,
+well above zero. Like for example, so called junk bonds. They might pay an interest of 10%,
+even now. So what's going on here? Well, this could be
+considered adverse selection. If you go up to the, at this time in history when
+interest rates are practically zero. And you go out and say, no, I'm going to
+invest in high interest rate loans. You might be suffering
+an adverse selection problem. You might be suffering the problem that
+some of these borrowers are going to burn their house down or they're very
+subject to fires or disasters. And so you will always see what
+look like investment opportunities, but for professional bankers,
+they're not opportunities. You can as a bank, you can advertise, we're making loans at
+a good interest rate. Who's going to come to you? If business is bad, it's going to
+be these, I hate to say it, losers. [LAUGH] People who are not good prospects. So the banks then, because of fear of
+adverse selection having gotten worse, when nobody else is lending, you think, am I going to be the guy who
+goes out there and makes these loans? Not now, I'm going to wait too. >> And so in both of these
+cases there's kind of either an asymmetry of information or
+the inability to monitor. Let's say the homeowner
+when you're insuring them. So in the same lecture you'd also
+mentioned a very key point that the institution of banking is, in some
+ways, helps to mitigate these frictions. So I was wondering if you could
+kind of talk about that a little? >> Any business in insurance or
+banking or finance more generally, has to worry about adverse selection,
+moral hazard, and they have to worry about their
+being manipulated or deceived. So what you need is a business
+that invest in information. And invest in trusting relationships, so a well-run bank will have
+local offices in every city. The local banker then gets
+involved with people in that city. He or she plays golf with them,
+hears the gossip, gets to know important people
+in that regional economy. And then when someone comes for a loan
+you can call up your friend and say, what do you think of this guy? And then you develop a relationship
+with the borrower as well. You have coffee with him, you say
+hi when you meet him on the street. >> Right. >> And
+you can judge the expression on his face. [LAUGH] Whether he's doing well or not. And bankers then use
+their gut intuition and their information to decide whether to
+make loans, or whether to take risks. >> Okay.

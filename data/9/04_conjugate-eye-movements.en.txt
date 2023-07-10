@@ -1,0 +1,115 @@
+Okay, well, how did that go?
+did you see your eyes move? were you surprised at how little,
+perhaps, you saw? sounds like a great topic to kick to the
+discussion forum, so why don't we do that and see if we can generate some good
+discussion around what you observe during saccadic eye movements.
+Well let's move on then and talk about smooth pursuit eye movements.
+Now, smooth pursuit eye movements typically require a visual target.
+It's really difficult to generate this without a visual target, you might want
+to try that in the presence of a friend who can actually watch your eyes move and
+And perhaps give you some confirmations to absolutely what you're doing.
+But try to just sweep your point of fixation across the sky as if you're
+watching a bird that doesn't actually exist, it's really difficult.
+What you'll probably do is make a series of short little saccadic eye movements,
+rather than sweeping your eyes as if you're tracking an actual object.
+Well, I was recently taking a holiday with my family and we happened to be
+seaside and surrounded by a variety of seagulls and I couldn't help but to think
+about Smooth pursuit eye movements on that occasion.
+While I tried to track the movement of these birds through crisp early spring
+air and just reminded me that in order to make smooth pursuit eye movements one
+really does have to acquire a visual target.
+So this is typically how this goes. some visual target is moving across the
+visual scene at some particular velocity as indicated by these red lines here.
+with different velocities as indicated by the slopes of the line.
+And if we were to decide to have a look at one of these Objects that's moving.
+what would happen is that we would make a saccade to that target.
+Very quick movement in about 200 milliseconds or less.
+And then once we acquire the target, then we can track very nicely the movements of
+that target, without that kind of jerkiness that I tried to demonstrate
+with my finger just a moment ago. So, this is what's called smooth pursuit
+and because a visual target is necessary the circuitry is going to be actually
+quite complex. It's going to involve processing in the
+visual parts of the cortex back in the occipital lobe but it will also require
+activation of circuitry in the parietal lobe and in the frontal lobe, that's
+involved in integrating the location of that visual target as it moves through
+space, and generating the appropriate motor response.
+So, we'll have a little bit more about That at the very end.
+But for now I just want you to appreciate the complexity of the smooth pursuit eye
+movement. It's actually much more complicated than
+it may at first appear. Okay, so let's move on, then, and talk
+about the next type of eye movement, the optokinetic movements.
+Now, optokinetic movements come in different forms and different varieties.
+And here's one example of an optokinetic movement.
+Imagine that you're standing at a rare road crossing as I often do and a train
+goes by. And that train generates a very distinct
+pattern of linear motion from one side to the next.
+And so there are various elements of that train vertical features, for example,
+that are passing in one direction or the other through your visual field.
+It's really difficult not to be grabbed by that visual stimulus.
+And what happens? Well, what happens is that.
+We tend to make a saccadic eye movement to some feautre on that train.
+Maybe it's a window in a coach car, or maybe a door on a box car and then as
+that object passes in front of us, we essentially make a smooth pursuit eye
+movement. But very quickly our eyes reach the limit
+of excursion in the orbit. And it causes us to make a quick saccade
+like movement where we reset and acquire the next object that allows us to track
+using our smooth pursuit system. Well again our eyes reach the limit Of
+their movement in the orbit. And we made another saccadic eye movement
+back. So this sort of saw tooth pattern is very
+characteristic of optokinetic nystagmus. you remember this word nystagmus.
+We talked about it when we considered the vestibular system.
+It has to do with a nodding. That's what this word means, a nodding,
+as if we're falling asleep. So there's a slow movement, and there's a
+quick, reflexive movement in the opposite direction.
+Well, just as we had a vestibular nystagmus, that could be an indication of
+the fact that we may have been recently spinning.
+Or, there may actually be dysfunction in the vestibular system.
+So, we can have nystagmus without movement of our head being driven
+entirely by the movements of the visual scene.
+So this is why this is called optokinetic nystagmus.
+To be distinguished from vestibular nystagmus.
+So the stimulus here Is visual. it's the larg scale movement of a visual
+seem. Now, not all optokinetic movements are
+nystagmat. That is they don't always involve this
+slow and then rapid fast restting. Sometimes optokinetic Kinetic movements
+can simply help to stabalize our vision when there is extremely slow drift in the
+visual scene. Well, in fact, we'll get to vestibular
+occular motions in just a moment. The optokinetic system works in a very
+complimentary way to the vestibulo-ocular system in order to stabilize our
+fixation. So this graph here simply shows us the
+gain of the optokinetic system and the vestibular ocular system across most
+frequencies, and what we find is that for the optokinetic system the gain is quite
+high when the motion is quite slow. So this is a very slow movement.
+And the optokinetic system helps to stabilize our gaze when there's very slow
+drift in the visual field. Maybe that drift is because our eyes are
+moving ever so slightly. or it's because the visual world is
+moving every so slightly. Well, as the rate of movement begins to
+increase, then our optokinetic system can no longer keep pace and that's okay
+because our vestibular ocular system now kicks in.
+So once we are approaching movements at still a fairly moderate pace, you know,
+nothing, nothing terribly quick about them, then our vestibulooccular reflex
+can maintain fixation control while there is motion, in this case of the head.
+So these two systems work in a complementary fashion at very low rates
+of change our optokinetic system maintains fixation.
+At high rates of change as our head is moving, than our vestibular ocular reflex
+would help maintain our fixation through conjugate eye movement.
+Well, that does bring us to a brief mention again of the vestibulo-ocular
+reflex. I'll just again point you back to our
+tutorial on the vestibular system, if you want to know more.
+or refresh yourself about the vestibulo-ocular reflex.
+It's detailed here in this figure, from chapter 14.
+I'll just remind you that the whole purpose here is to maintain fixation as
+we move our head, and so I'm trying to Maintain fixation.
+Now at the camera while my head goes back and forth, and as I move my head to the
+left my eyes rotate to the right. And the reason why is that as I turn my
+head to the left I'm activating. The horizontal canal on the left side of
+my head. That's driving excitatory signals that
+are going to cross the midline. That's going to activate the motorneurons
+on the medusa's nucleus, which will innervate the lacteral rectus and pull
+that eye towards the left. Meanwhile there are inter-nuclear neurons
+that will project from one of the dusons nucleus to the contra lateral ocular
+motor nucleus and then that drive the contraction of the medial rectus muscle
+and the other eye to produce the synergistic rotation.
+Of both eyes in a conjugate fashion, exactly opposite to the motion of the
+head. So the head goes to the left, the eyes go
+to the right.

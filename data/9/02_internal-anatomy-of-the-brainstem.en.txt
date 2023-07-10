@@ -1,0 +1,289 @@
+Welcome to this tutorial on the internal
+anatomy of the brainstem. We indeed turn again to one of the most
+complicated parts of the nervous system, which brings to mind our first core
+concept in the field of neuroscience and that is the brain is the body's most
+complex organ. I have one learning objective for you
+today and that's to be able to identify the major subdivisions of the brainstem,
+as seen in representative transverse cross-sections.
+So in order to achieve this objective you're going to have to be familiar with
+what we discover when we look inside the brainstem in each of the three major
+divisions, the midbrain, the pons and the medulla.
+So here's the key in achieving this objective.
+I want you to mobilize your mental image of the external features of the brain
+stem, as we begin to look at our transverse cross-sections.
+And if you can do so You'll know what to expect to find in each of the
+subdivisions, so when we think about the external features, think about the form of
+each division of the brain stem. Think about the bulges, the furrows, the
+grooves, the columns that we might see from the outside and think about the
+cranial nerves and how they attach. That will be key in order to interpret
+what we see on the inside. It all begins with our mental image, so
+that's what we're working towards and in order to get there, I like for us to have
+a tour of the brain stem using Sylvius Four software.
+So, if you'd like, go ahead and open your version of Sylvius Four, if you have it,
+if you don't that's fine, you can follow along with me.
+Okay, I've just opened up Sylvius Four and I'm going to now click on.
+The brain stem cross sectional atlas. All structures.
+And this will open up now, our brain stem atlas.
+And this is an atlas of transverse sections through the brain stem.
+Where the sections are prepared in order to resemble a standard histological mylon
+stain. Which means white matter structures will
+appear dark, as if they've been stained with silver salts.
+And gray matter structures will be relatively unstained, so they will be
+light. So the convention is essentially opposite
+what the terms usually convey. So white matter is dark and gray matter is
+light. And in Sylvias, we have a window to the
+left that shows us our navigational views of the content including a list of
+thumbnails some slider tools that will help us navigate along and we can select
+and image to enlarge and as we mouse over features within the image we notice that a
+label appears and if we were to click on that structure.
+It becomes highlighted in the thumbnails as we can see over to the left, and a
+statement of structure or function appears in the text box to the right.
+So that's just a little bit about navigating in Sylvius.
+So let's go ahead and begin. We began at the top of this atlas or the
+most supeior section. Which is very near the junction of the
+thalamus and the midbrain. We recognizde elements of the thalamus
+here, all this gray matter alnog the dorsal and medial aspect.
+Just to the lateral wall of the third ventricle.
+Down below we have the mammillary bodies, which is part of the hypothalamus.
+So we are definitely in a portion of the posterior diencephalon, but we are also
+starting to get into the mid-brain. And we know that, because of these massive
+bundles of white matter that are beginning to take shape in the ventral lateral
+surface of the brain. That's where we expect to find the
+Cerebral peduncles. In fact, what we have here is the
+confluence of the internal capsule into the Cerebral peduncles.
+So, if I select the Cerebral peduncles, and then just go down one section We are
+clearly in the mid brain, and the cerebral peduncles are one of those key features
+that will allow you to be able to recognize this part of the brain.
+Another feature would be what's going on with the ventricular system, so we just
+saw the third ventricle opening up. In the region of the diencephalon.
+N the mid-brain we don't expect to see the third ventricle.
+Rather, we expect to see the narrow cerebral aqueduct, and indeed that's what
+we see here. So he presence of the peduncles, the
+presence of the cerebral aqueduct is confirmation that we are looking at the
+mid-brain. Well, let's think about again that outside
+to inside perspective. What else do we see from the outside when
+we think about the mid brain? Well, you should be thinking about a
+cranial nerve. Cranial nerve three, and indeed we have
+cranial nerve three here at the Oculomotor nerve.
+And so again another characteristic feature of the mid-brain, cranial nerve
+three is derived from a sematic motor nucleus, so long the dorsal midline of the
+take momentum of the brain stem. This is the Oculumotor nucleus, it also
+has a pair of sympathetic motor component from the Edinger Westphal nucleus.
+So those are the cranial nerve nuclei associated with this level of the mid
+brain. But there's lots of other features here
+that's worth noting in the mid brain. There's a very large spherical nucleus in
+the mid brain that looks a little bit orange-ish.
+In a fresh specimen of the human brain that has been sectioned open.
+This is called the red nucleus, very prominent nucleus of the tegmentum in the
+mid-brain. Between the red nucleus and the cerebral
+peduncle is the substantia nigra, which is really two nuclei in one.
+There is a compact layer of cells on the dorsal margin of the nigra.
+And these are the famous dopamine neurons of the mid brain that project broadly to
+the fore brain including the basal ganglia, parts of the prefrontal cortex of
+the frontal lobe as well as the amygdala in the hippocampus Then there is a
+inferior part to the substantianagra, which is very much like the globas
+palettus in the basal ganglia. We'll say much more about all of this when
+we talk about the basal ganglia, but for now I would highlight that the
+substantiangra is found in the mid-brain. Okay, let's look at the dorsal part of the
+mid-brain, and again if we think about what we see from the outside when we look
+at the mid-brain you may recall that there are these four bumps that we see from the
+outside. They're called little hills, or colliculi,
+which means little hill. There are a pair of superior colliculi and
+a pair of inferior colliculi. We are at the level of the superior
+colliculus. The superior, of these little hills.
+One on either side of the mid-line. And just below the superior colliculi,
+around the cerebral aquaduct is a bit of gray matter, that we call the
+periaqueductal gray. All right, well, let's go down a section
+to a lower level of the mid-brain. And at this level, we are below the
+superior colliculus, and we are at the level where we Are beginning to develop
+the inferior colliculus. We're actually a little bit below that
+little hill, strategically, Because we want to see the nucleus of the trochlear
+nerve, which is found here along the dorsal midline of the tegumentum.
+Right in line, but inferior to where we saw the ocular motor nuclei.
+We still have a small cerebral aqueduct surrounded by a large periaqueductal gray,
+nucleus so that is consistent with what we saw in a more superior level.
+But now you'll note that the inferior part of the section looks quite a bit
+different. We still see something that resembles the
+cerebral penuncle, but now we're beginning to see some[UNKNOWN] of these axons in the
+ventral part. Of this section.
+In fact, what we're getting into is a set of nuclei that is defining the features of
+the pons. So this is very near the juction of the
+pons and the midbrain. We have nuclei in the base of the pons
+calls the pontine nuclei that give rise to axons to called the pontocerebellar fibers
+because they're going from the pons to the cerebellum.
+Well let's go ahead and section down into the pons.
+We'll actually skip this section. And go to the widest part of the pons,
+where the ponce is sending axons out into the cerebellum.
+And then we'll work our way, back up to those sections we just passed by.
+Well, we're in the pons. How do we know that?
+Well, because we see, these pontene nuclei defining much of this basal or ventral
+aspect of the pons giving rise to these, to this white matter, called the ponto
+cerebellal fibers. This accounts for that transverse
+orientation. Of axons we see in the pons that is
+bridging the long axis of the brain stem. "Pons" means bridge.
+And these pontocerebellar fibers give rise to these massive bundles of axons that
+enter the cerebellum, called the middle cerebellar peduncle.
+Now in the region of the tegmentum of the pons, we have some cranial nerve nuclei of
+note. We have the chief sensory nucleus of the
+trigeminal complex. Also called the principle sensory nucleus.
+And the trigeminal motor nucleus. That are connected up with the trigeminal
+nerve roots. Which we see here.
+Now, above the tegmentum of course, that cerebral aqueduct has now opened up into a
+large fourth ventricle. And so, lateral and dorsal to that foruth
+ventricle is the cerebellum. Now, you may be wondering about these dark
+bundles of white matter that we see here. In the lateral aspect, of the ventricles
+here. This is the superior cerebellar peduncle.
+Yet another major bundle of axons associated with the cerebellum.
+So we have the middle peduncle. By far, the largest of the three
+cerebellar peduncles. And the superior cerebellar peduncle.
+I'm going to select this structure. And then retrace our steps, and go up a
+few sections, and see what happens to this peduncle.
+This peduncle Is the means by which the cerebellum sends signals out of the
+cerebellum to reach our motor circuits in the thalamus and so these peduncles are
+leaving the cerebellum and as they do so they work their way into the tegmentum of
+the ponds. Where they cross the mid-line, so we see a
+crossing of this peduncle called a decussation in the upper part of the pons,
+and that's really the primary feature I wanted to highlight in the sections
+between. The level of the trochlear nucleus and the
+trigeminal nerve. So let's go back to the section that we
+were just viewing and highlight a few other features.
+We notice in this basal region. While many of the axons running through
+have defesiculated, we're beginning to see a re-condensation of axons into a tight
+bundle, this will emerge on the other side of the Pons as an important pathway called
+the medulary pyramid, which contains among other axons, the cortical spinal tract.
+So we'll say much about that pathway in this course.
+All right, so let's go down one section, which is the level of the cottle part.
+Of the pons and, I'll deselect the superior peduncle here for a moment, and
+show you some other features that are present in the tegmentum of the pons.
+Again, starting with cranial nerve nuclei. So now we have a different division of our
+trigeminal nuclear complex. This is called the spinal nucleus of the
+trigeminal complex. This is part of the trigeminal nucleus
+that extends from the level of the principle or chief sensory nucleus all the
+way down to the merging of the caudal medulla with the upper cervial spinal
+cord. So there's a nucleus, and then just
+lateral to the nucleus is a tract, called the spinal trigeminal tract.
+We have other important cranial nerve nuclei here.
+We have the facial motor nucleus in the colu pons, which gives rise to axons that
+sweep across The tegmentum, and loop around an important grey matter structure,
+just below the pornter/g here. And these axons then arc back out and exit
+the ventral lateral aspect of the pons. What they loop around is the Abducens
+nucleus. So here's the Abducens nucleus, a somatic
+motor nucleus along the dorsal mid line of the tegmentum, It gives rise to the axons
+of the abducens nerve that exit near the junction of the pons in the medulla.
+We've accounted for the abducens nerve as it exits near the mid line of the pons.
+We've accounted for the facial nerve that exits a bit more laterally.
+The third of these pairs of nerves at this junctional region Is the vestibular
+cochlear nerve. And at this level, we're beginning to get
+into some of the nuclei that are associated with that nerve.
+This is one of the vestibular nuclei that we have in this region of the.
+Pons here is another one. Because there are multiple nuclei here,
+receiving incoming vestibular signals. We call this the vestibular nuclear
+complex. All right.
+Lt's move now out of the pons and into the upper part of the medella.
+Here again we expect to find vestibular nuclei.
+We have yet an additional vestibular nucleus here, part of that nuclear
+complex, but we also have the auditory component of the eighth nerve which becuse
+we didn't achieve an optimal section through it in sylvias we elected not to
+label it. But we see a little bit of it here.
+It's this grey matter that forms this rind around the outside of the dorsal-lateral
+aspect of the medulla. And what it's surrounding is a, is a large
+mass of white matter, that I'll get to in a second.
+So this grey matter that we see out here , this is part of the Cochlear nuclear
+complex. So there are multiple division of this
+complex. We can call them collectively the cochlear
+nuclei. So we've got our vestibular nuclei and
+then our cochlear nuclei associated with the eighth nerve.
+Well this big massive bundle of white matter.
+This is the inferior cerebellar peduncle, one of the three major stalks that
+attaches the cerebellum to the brain stem. This is inferior, and it attaches from
+below, mainly conveying signals from the spinal cord but also signals from an
+important nucleus of the medulla that I'll mention in just a moment.
+Well, we also have elements of the trigeminal system here, here is our spinal
+trigeminal tract and our spinal trigeminal nucleus.
+We'll see this all the way through the medulla.
+Now, in the more ventral apsects of the medulla, those fibers that were
+penetrating through the basal region of the pons and coalescing back into a nice
+compact bundle of white matter, have now formed the medullary pyramids.
+And at this level, these axons are almost entirely the corticospinal tract.
+That is the pathway by which the cortex governs the motor systems of the spinal
+cord. Just above the medullary pyramids is
+really a, quite a lovely nucleus. It's called the inferior olivary nucleus.
+And this is the nucleus that gives rise to a bulge In the ventral lateral aspect of
+the medulla that we call the olive. So you may recall from our surface views
+of the medulla, seeing the columns or the medullary pyramid.
+And just lateral to it is the inferior olive.
+Or the olive for short. That's what we call it from the outside
+when we're looking at a cross section as we are here.
+We recognize this as the inferior olivary nucleus.
+Well, let's move on. Now you may remember between the olive and
+the medulary pyramid exits the axions of the 12th nerve, the hypoglosal nerve.
+We can see the hypoglossal nerve roots here as they pass between the pyramid and
+the olive and their source is the hypoglossal nucleus.
+Another somatic motorn nucleus that we find on the dorsal mid line of the
+tegmentum in the medulla. Now, just lateral to that nucleus we have
+the dorsal motor nucleus of vagus. And right next the that nucleus is a
+sensory nucleus, the nucleus of the solitary tract.
+And that's grey matter that surrounds this solitary compact bundle of white matter.
+Called the solitary tract. The nucleus of the solitary tract is a
+visceral sensory nucleus. The dorsal motor nucleus, a vagus is a
+parasympathetic visceral motor outflow nucleus.
+So, notice again the organization that we have here.
+Somatic. Motor, visceral motor, visceral sensory
+and then we have special sensory and general sensory.
+Our special sensroy at this level are still vestibula nuclei and then our
+general sensory is still the spinal trigeminal nucleus in the spinal
+trigeminal tract. Now, I also should point out one important
+white matter pathway that we'll spend a fair amount of time on when we talk about
+our mechanosensory system. And it is a medial ribbon of white matter,
+that sits right on top of the medullary pyramids, its called the medial lemniscus.
+So I'm going to select the medial lemniscus, so I can show you how this
+structure, this medial ribbon of white matter, runs all the way through the brain
+stem. I haven't highlighted it until this
+section, because we probably see it best in the middle to lower part of the
+medulla. But indeed we can track it all the way up
+from the caudal medulla to the thalamus. And we will do so when we study our
+mechanosensory pathways. For this structure, conveys Our sense of
+touch from the body below the face, from the brain stem to the thalamus.
+Okay. Let's go now to the caudal part of the
+medulla and highlight a few structures of interest.
+Now, what we find is still a spinal trigeminal nucleus in tract.
+But now, in the dorsal part of this section, we've lost the fourth ventricle
+entirely, and what we have are a set of gray matter nuclei that are bounded by
+white matter pathways. And these nuclei are called the dorsal
+column nuclei because they sit right on top of the dorsal columns of white matter
+that rise up from the spinal cord. And there are two of them.
+There's a medial tract called the gracile tract, which ends in a gracile nucleus.
+And then there's a more lateral tract called the cuneate tract that ends in the
+cuneate nucleus. Now, these nuclei, these dorsal column
+nuclei, they grow the axons that form the medial meniscus.
+So they grow axons that sweep around through the tegmentum of the brain stem,
+called the internal arcurate fibers. And they form the medial limniscus.
+The medial limniscus axons derive from the contralateral, or the opposite side dorsal
+column nuclei. So there's a crossing.
+There's a decussation here. There's one other important decussation to
+note. At this level of the medulla.
+And it's a decusation of the medullary pyramids.
+Notice how one pyramid is starting to stream up and over the mid line on top of
+the other pyramid. If we go down one final section, we'll see
+this crossing more obviously. This is where the cortical spinal tract
+crosses the mid-line. Actually as we'll seen in a few weeks
+about 90% to 95% of the axons cross some remain on the same side, but the vast
+majority of them cross and here's where the do so, in the caudal medulla.
+Well, that completes our brief tour of the internal anatomy of the brain stem.
+We'll have the remainder of the course to reinforce this anatomy and come back to
+it. We'll do so when we talk about our long
+pathways. For somatic sensation and motor control.
+And then we'll apply this knowlege to consider the localization of injury in
+clinical cases whrer there has been some focal damage.
+And what will be importatn to emphasize at that point in your learning in the
+regional anatomy. That is, where do various systems come
+together in small places in the nervous system?
+And the brain stem is one such important place, where even very small injuries of
+nerve tissue can give rise to widespread and disparate neurological signs and
+systems. So, I look forward to having that level of
+discussion with you in a few weeks. But for now, take your time.
+And go through the brain stem sections and identify the principal grey matter and
+white matter structures that are highlighted for you in the tutorial notes,
+including those that I've highlighted here in this video.
+And, use this knowledge, we'll apply this, we'll discuss it as we go along.
+So, thanks for your attention, and I'll see you next time.

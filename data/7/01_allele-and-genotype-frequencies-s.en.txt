@@ -1,0 +1,104 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. In this set of videos, we'll be getting
+to the Hardy-Weinberg equilibrium. This is a foundational concept for
+the field of population. Before we go to that, however let's
+talk about allele frequencies and genotype frequencies because
+understanding what those are and how you get them is very important both
+for the Hardy-Weinberg equilibrium and for population genetics more broadly. Let me ask a couple of
+broader questions first. Can we predict genotype frequencies
+if we know allele frequencies? If we know how abundant different
+genotypes, like AA, Aa, aa are in a population,
+can we get from this to allele frequency? And if the answer is sometimes,
+when can we? The other question is
+do genotype frequencies intrinsically change over time,
+or do they remain constant? Let's assume for
+example that A is dominant over a. And we expect over time to get AA's to
+become more common based on dominance. All into these by looking at
+variation one gene at a time. We're not going to be looking at
+interactions among genes here at first. So let's take this hypothetical
+scenario for the A-gene. Let's say this A-gene has two alleles, Aa. Let's say there's three possible
+genotypes from these two alleles. "AA", "Aa" and "aa". Well by definition,
+frequencies have to add up to 100%. If there's two possibilities,
+as with the alleles, if there's a "A" and "a" the total of the fraction of "a"
+plus the fraction of "A" must be 100%. So if we have 78% "A",
+then we necessarily must have 22% "a". Same thing happens with the genotypes. That if 25% of individuals are AA,
+50% are Aa. The only other possibility is aa,
+therefore, that must also be 25%. Making the total 100%. So how do we calculate
+genotype frequencies? Well, we can definitely calculate
+genotype frequencies always, when we have the counts of
+the different genotypes. So let's assume in this case that
+every individual is a diploid there, they have two copies of all their genomes. So we can literally just
+get this by counting. So here's a population,
+and its AA, Aa, aa's. There's ten individuals
+in this population. One, two, three, four, five,
+six, seven, eight, nine, ten. The frequency of AA
+will be it's abundance. Which there's only one right here. So it'd be one out of ten or 0.1. So same as 10%. Frequency of Aa's. There are one, two,
+three, four, five, six. Out of ten. Or 0.6. For aa, it's the ones that are not
+circled, it's three out of ten. So .3. So you add up these three numbers,
+and again, it adds up to 100%. As we expect. What about allele frequencies? Well, there's two ways
+we can actually do this. The most obvious way,
+which is not necessarily the better way, is to literally just count the big A's,
+and the little a's, in this group. So we could look at this and
+see well there's 20 total alleles here. They're attached together as genotypes but
+they are 20 alleles. How many big As are there. One two three four five six seven eight. Eight big A's out of 20. So how many little a's are there. It obviously must be twelve. If 8 out of 20 are 0.4 "A"s
+then 12 out of 20 are 0.6 "a"s. Again, this adds up to 100%. The better way, when working with a large
+number of genotypes, rather than counting than individual alleles like this,
+is to look at the genotype frequencies. We can say that we know that "AA"s
+are completely made up of the "A" allele. So the frequency of big A would
+be the frequency of AA and half the frequency of Aa. So these are the numbers we
+used from the previous slide. Remember that our frequency of AA is 0.1. Our frequency of Aa is 0.6
+from the previous slide. We add up 0.1 plus 1/2 of 0.6,
+which would be 0.3, which comes to 0.4. It's exactly the same
+as what we saw up here. Similarly we can say the frequency
+of aa or 0.3 + 1/2 0.6. So that's 0.3 + 0.3 and that's 0.6. Exactly what we see over here. And again these add up to 100%. This is what we expect. Now you can think of the world
+as basically a pool of gametes. It's not a particularly pleasant thought,
+but you can think of it that way. All individuals of sexual species
+start as two gametes, right? That you at one point in time were two
+different gametes that came together and fused into you. The gametes are 1n. They just have one copy
+of all their genes. And this vision is not as artificial
+as it sounds, if just imagine, as it shows to you in this picture,
+all the gametes floating around, because many marine invertebrate species
+spew their gametes into the water. Those are the ones that ultimately
+come together to make individual. In this picture here,
+about 60% of the gametes are big A, 40% of the gametes are little a. And what we can do to estimate,
+if we assume that these gametes just come together completely randomly, we can
+use a joint probability multiplication, to figure out what the genotype frequencies
+will be in that next generation. The people who are the individuals
+who came together from the gametes. So if 60% of the sperm are big A. 60% of the eggs are big A. So we're just saying
+60% of all the gametes. 40% of the sperm are little A. 40% of the eggs are little a. What would the probability
+of a AA individual be? Well probability of a A A individual
+would be the joint probability that an A sperm comes together with an A egg. Well.
+A sperm is .6 A egg is also .6. So that would be .36 or 36%. We can do this for
+all possible individuals. So here's .6 x .6 .36 for
+aa it's .4 x .4 it shows .16. But there's two different ways you
+can make a heterozygote right? You can have a big A egg,
+and a little a sperm. Or a little a egg, and a big A sperm. So each of those is 0.6 times 0.4. 0.6 times 0.4. Or 0.24 twice. That comes out to 0.48. And again as we expect,
+we can add all these up. Comes out to 1.0, or 100%. So we're assuming here that the gametes
+just come together completely randomly based on their proportions
+in the population. Which is an assumption we'll come back to
+and that's relevant to Hardy Weinberg. Now let me show you just another way of
+visualizing the same thing rather than using this joint probability approach. Let's visualize it
+a little bit differently. We can use a modified Punnett square to
+show the relative amounts of the big and little a gametes. So again this is exactly the same thing. It's 0.6 big A, 0.4 little a, and
+we have here the sperm on this axis and the eggs on this axis. Note the sizes here, the relative sizes, this is doing a 6x6 block
+this is a 4 by 6 block. 4 by 6 block and 4 by 4 block. We can use that then to estimate what
+we'd say in terms of the genotypes. And doing that we see exactly
+the same results that we saw before. That here we have 36% of all these
+blocks or 36/100 blocks are AA. 16% or 16/100 are aa 24 + 24 is 48%,
+they gain a little. Now can we calculate the allele frequencies from
+these genotype frequencies? Well the answer is yes we can always, we can always calculate allele frequencies
+when we have the genotype frequencies. Because again we know
+all the AAs have big A. They are all big A. So .36 percent is that. Aa are half big A. So half of .48 so
+.36 plus half of .48 is .6. So here in the offspring just like
+in the gametes that form them. The frequency of big A is .6 frequency
+of little a has to add up to 100%, so this must be 0.4. Okay? So we see that not only, we have the frequency of
+the alleles being 0.6 and 0.4. The genotypes being 36%, 16%, and 48%. And then in the next generation,
+if they were to spew out their alleles again,
+the allele frequencies are still the same. Since the allele frequencies are still
+the same, this is all a self-perpetuating process that allele frequency was 0.6
+in the gametes, created these genotype frequencies and these genotypes will
+produce 0.6 frequency of the A gamete. So this is a process that is basically
+stable with these assumptions. Now, the pattern that you see does
+have a wide variety of assumption. But the stability is what's referred
+to as the Hardy-Weinberg equilibrium. We'll come back to this
+more in the next video. Thank you.

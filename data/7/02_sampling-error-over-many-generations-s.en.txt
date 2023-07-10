@@ -1,0 +1,188 @@
+Hello and welcome back to Introduction
+to Genetics and Evolution. In a previous video we
+talked about the effects of genetic drift over a single generation. I emphasized the point that in small
+populations genetic drift can have large changes in allele frequency. I also emphasized that in a single
+generation, you cannot predict whether genetic drift is more likely to make
+the allele frequency go up or go down. What we'll do in this video is talk about
+what happens with genetic drift over many generations, and also look at
+the interaction between genetic drift and natural selection just a bit. Now again, in terms of this
+long-term effects of genetic drift, you saw this graph in the last video. We start with a variable
+population as two alleles. The x-axis is generations, so
+this is going out 100 generations. The y-axis is allele frequency. We're starting eight different populations
+with an allele frequency of 0.5. So big A has a frequency of 0.5,
+little a has frequency of 0.5. What you notice is that after many,
+many generations if we extended this out, not 100 generations but thousands of
+generations, the allele frequency of a, A, in each population will either be 0 or 1. And we're not going to
+have any variation left. Basically what's going to happen is
+the whole population will be AA or the whole population will be aa for
+every one of these populations. The reason is that once you get to
+an allele frequency of either 0 or 1, there's no variation. One allele is just gone. If the allele is gone you
+can't drift back down. You need a new mutation to
+come in to reintroduce it. But just working with
+the variation that's present, genetic drift can not
+have any further change. So, the long-term effects of genetic
+drift are to remove variation from the population. Now let me ask you this question. I said in one generation we can not
+predict whether an allele frequency will go up or go down. Well, let's imagine we start
+a variable population. So it has As and as,
+there's two alleles there. Now let's say a starting allele
+frequency of A's 0.6, of a 0.4. What do we expect after
+a very long period of time? If we were to wait thousands of
+generations, do we think the population is more likely to be fixed for A or
+more likely to be fixed for a? Which one would go to 100%? Will everybody be AA or
+will everybody be aa? Well that was a little bit
+of a trick question for you. Now I mentioned that in one
+generation we cannot predict whether you're more likely to go towards more A or
+less A. But what's happening here is we're
+looking at the effects over long times. There's an analogy we can draw to this. Imagine a blindfolded person
+walking aimlessly around. If you start right in the middle, and
+let's say for example this person can only go left or right, and
+you just take randomly steps this way, steps that way, sometimes bigger steps,
+sometimes littler steps. If you start right in the middle you're
+about equally likely to run into this as you are to run into this. Well let's change this a little. Instead of having the person start dead
+center, imagine we start the person over here where they're about three-quarters
+of the way over to one side. Are they more likely to
+eventually run into this, or more likely to
+eventually run into this? Even if they're stepping at random, since
+this is closer they're actually eventually more likely to run into this than they
+are to run all the way out here into that. So just moving around aimlessly. Not convinced? Well how about this one? Let's say we start right there, and they're taking random steps
+in two different directions. Well, they're pretty likely to
+run into this end over here, whereas they're very unlikely to
+run into this end way over there. So this is a funny thing
+about genetic drift. Now the probability of a long-term
+outcome is actually somewhat predictable. So even though in one generation
+there's a roughly equally likely for an allele to go up or down in frequency,
+that the frequency of A may go up, may go down, the long-term loss or fixation
+of allele is actually more predictable. Again, if you start at dead center
+here you're equally likely to hit either of the two ends. Think of that blindfolded person. If the frequency is much less
+than 0.5 then it's likely for the allele to be lost. You're likely to run into that zero end. If it's much greater than 0.5, you're
+more likely for that allele to be fixed. Well there's a very simple relationship
+you might have already anticipated. The probability of eventual fixation. And again, this is over the long-term,
+not one generation. Probability of eventual fixation of allele
+A will equal the allele frequency of A. So if your allele frequency is 0.9, you're probability of
+hitting that 1.0 end is 90%. The probability of hitting the 0.0 end
+is 10% or 1 minus your allele frequency. So let's look at this. Here's four sample runs of that
+program I showed you before AlleleA1. Our starting allele frequency is 0.75. You are towards this end
+of the overall cage. Again, it's be-bopping around there, three
+out of four times it ends up hitting 100%. One out of four times, it actually
+be-bops far enough down that it hits 0%. I actually didn't manipulate the data. I actually just ran this as
+the same four sample runs and this is what actually
+what it came out with. So as you can see, this probability of eventual fixation
+is equal to the allele frequency. Now notice there is still some chance the
+allele will be lost even if it starts out very abundant. And you see that it's
+happened in this case. It started at 75%, it be-bopped around and after a few sudden losses
+it did actually go to zero. So this does happen, but this frequency
+tells you the probability of it. Now let's turn this around a little bit. Let's think of it in the context
+of species versus population. Everything we've looked at so far has
+been thinking of what's happening in one population and focusing just on that. Now what happens if we're looking
+at a whole species that has many isolated populations? Let's imagine we're looking at for
+example, the Galapagos land snail, which is found on various
+of the Galapagos Islands. Here's a thought question for you. If there are four populations
+of Galapagos land snails and each individual population is started
+with an allele frequency of 0.75, what would the allele frequencies be
+in the populations many years later? Well you probably can guess that some are
+going to fix, some are going to be lost. In fact, 75% of them will fix,
+25% will be lost. So is there's four populations we
+expect on average, three to be fixed, one to be lost. The second one is something I want you to
+actually answer here in video question. What would the average allele
+frequency across all populations be many years later? Let's measure the four populations
+had approximately the average size. They eventually do their things,
+some are fixed, some are lost. In the species as a whole,
+averaging what's happened to each of the four isolated populations, there's
+no migration between the populations or from anywhere else, what will
+the average allele frequency of A be? Well I hope that wasn't too difficult. So again, this is the pattern
+that we expect to have happened. Some of these allele frequencies
+will have be-bopped around. So let's say for example,
+here are the four islands. Island 1, island 2, island 3 and island 4. We see in three out of the four islands,
+islands 1, 2, and 4, the allele A is fixed, which means
+everybody on that island is AA. On one island a is fixed, so
+everybody on this island is aa. So these ones are all AA. That one is all aa. What is the allele frequency
+across the species as a whole? Well in this case, and we're saying
+that all of these islands have the same average population size,
+what we have is one island of all AAs, one of all AAs, one of all AAs,
+one with all aas. So even though each individual
+population has no variation, the species as a whole
+still has some variation. Cuz the species has islands that are all
+AA, and some islands that are aa. And in fact, in the species as a whole, the allele frequency is still 0.75. So it actually hasn't changed in
+the species as a whole when you isolate it off these islands. So some points to remember is that drift
+eventually leads to allele fixation or loss in every individual population. Very important facet to it. Now again,
+the starting allele frequency, or p(A), is the long-term probability
+of that allele's fixation. Conversely, one minus that
+should be the long-term probability of that allele's loss. But, if you have a species with
+many isolated populations, even though we're gonna have some
+populations fixed for A, some fixed for a, the overall species still retains
+variation with the same p(A), with that same starting allele frequency. That's a very interesting little facet. Now I wanna go into something
+a little bit related here. What happens when we look at the
+interaction between natural selection and genetic drift? Specifically, can genetic drift
+make alleles that are bad spread or even become fixed? This is the interaction between drift and
+selection. Well, this is going to depend
+on the population size. If the population size is very small,
+which in that case again, when the population size is small,
+those are the times when drift is strong, then genetic drift can sometimes
+counteract weak selection to make bad alleles spread and
+potentially even go to 100%. Now it won't always do this, cuz remember,
+drift is a random force that'll sometimes make alleles go up in frequency,
+sometimes make them go down. And so drift is actually random. It may cause bad alleles to fix, but it may also push in the same
+direction as selection. So imagine selection is this
+constant force pushing down. Let's say it's a bad mutation. Selection is a constant force
+pushing the allele frequency down. Drift, if it's strong, will be a random
+force sometimes pushing it up, sometimes pushing it down. Let's look at what happens when you
+have strong drift and weak selection. My model here are 6
+simulations using alleleA1. What I did is I said that the fitness
+of the AA genotype is 0.98, whereas the fitness of Aa and aa is 1.0. So selection is trying to eliminate the A
+allele, and it's doing so kind of slowly. Population size here is 100, so
+it's not a very big population, it's kind of a small population. This would be a case where
+selection is kind of weak. There's only a 2% reduction in
+fitness to just the homozygote, so it's a recessive detrimental. A 2% reduction fitness
+to just the homozygote, but we have very strong genetic drift,
+so our starting allele frequency is 0.5. What I did is I started
+six populations this way. We see this first one be-bops around, but eventually A is lost as
+you expect from selection. Here it be-bops a lot more,
+but eventually A is lost. Be-bops some, A is lost,
+be-bops some, A is lost. But here's a funny one. One out of six of these actually had a
+be-bop up to the point that everybody's A. So we've actually lost the better allele. a is the better allele. In this case, you fix the AA type. That's kind of funny. And here we've lost A. So this is a case where genetic drift
+actually overpowered selection. In some cases here, this one right here
+probably is a case where genetic drift actually made selection faster. You notice that there's
+a fairly rapid drop. Here genetic drift slowed it down, and here genetic drift actually
+went in opposition. So a drift just kind of comes in and monkeys with what selection's
+trying to do [LAUGH]. Now what would happen, and
+this is the case of fairly strong drift, if the population size wasn't 100,
+but was a 1,000, meaning there's a lot less genetic drift? In this case, we see a fairly consistent
+pattern that pretty consistently the allele frequency of [INAUDIBLE] is
+going down, going down, going down, going down, going down, going down. We're seeing a lot more noise in system
+than if it was from selection alone, but there's a very
+consistent trajectory and we assume if we extrapolate out further
+that all six populations will be lost. This is a case where drift is weak and
+selection is also fairly weak. But the drift is much
+weaker than selection. It's not monkeying what
+selection is trying to do. There are some extreme
+cases of genetic drift. One of example of these is what's
+referred to as Founder effects. This is a strong example of genetic drift
+when a new population is established by a very small number of individuals
+from a larger population. They are often non-representative
+of that original population. You see this often in the case
+of colonizing islands, and this can cause the spread or
+even fixation of detrimental alleles. So imagine you have this population
+here with red squares and blue circles. And if we randomly take five individuals,
+every now and then we'll get an all blue populace or
+an all red population. These are non-representative
+of the original population, whereas this one right here
+is fairly representative. Now this has been observed
+several times in humans. Here are some examples of diseases or
+traits that are common in certain populations
+because of past founder effects. Polydactyl, having that sixth digit,
+is common in the Amish. Tay-Sachs disease is actually
+very common in Ashkenazi Jews. So people like Leonard Bernstein,
+the famous American composer, Albert Einstein and Sigmund Freud
+are some examples of Ashkenazi Jews. Interestingly, the Ashkenazi have
+maternal ancestry that traces back to just four women. So this is for
+about half the Ashkenazi out there. They have their maternal ancestry
+tracing back to just four women. So this is a very strong founder
+effect associated with them. Huntington's disease is interestingly,
+very abundant in Mauritius. It's thought that one of the original
+founders either had the disease or was heterozygous for it. And red hair is supposed to be
+common among the Irish as a result. So just to wrap up,
+some points to remember. In small populations, genetic drift can
+sometimes overpower weak selection. So remember,
+genetic drift is random in direction. So if you have strong drift and weak selection, you can actually spread or
+fix bad alleles because of genetic drift. And founder effects are this interesting
+special case of genetic drift. I hope that was interesting. Thank you for joining us.

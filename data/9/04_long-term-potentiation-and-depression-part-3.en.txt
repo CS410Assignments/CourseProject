@@ -1,0 +1,165 @@
+Okay, well, I think we're now ready to
+move on to consider the opposite form of plasticity that we see in the cerebral
+cortex. Long-Term Depression.
+And this too was first studied in, and its mechanisms well understood within the
+hippocampus of the rodent model system. So, we're going to use the very same
+Schaffer collateral connection from CA3 to CA1 in order to demonstrate Long-Term
+Depression. Only now the critical difference is the
+frequency of stimulation that's applied in order to induce plasticity.
+Whereas, previously, we had a short high frequency burst of action potentials as
+our stimulus. Now, what we have is a more extensive
+period of low frequency stimulation, as our stimulus that induces Long-Term
+Depression. And indeed, what is seen is, when there
+is a period of low frequency stimulation, 1 Hz, as opposed to 100 Hz, or even 500
+Hz. What we find is, a reduction by nearly
+50% and the amplitude of the excitatory post synaptic potential at that CA3 to
+CA1 shave are collateral synapseh So this is in fact Long-Term Depression.
+Like Long-Term Potentiation, Long-Term Depression can be measured for very long
+periods of time. beyond the hour or so that is used here
+in this experiment. So Long-Term Depression can last for
+days, for weeks, for months, as best as we have observed in our animal model
+work. we think like Long-Term Potentiation.
+This is a very important means of modifying synapses across a life span.
+Well, let's consider the molecular mechanisms of how Long-Term Depression is
+induced, and how it's sustained over time.
+Long-Term Depression, like long-term potentiation, require the activity of
+both the presynaptic element and the postsynaptic process.
+So, there is a requirement for activity in order for the synapse to be depressed.
+But what's different is the nature of that activity.
+And I've already suggested what might be different.
+For Long-Term Depression there is low frequency stimulation.
+That stimulation is sufficient to cause the release of glutamate course.
+And glutamate binds to AMPA receptors and NMDA receptors.
+And the amount of depolarization that the low frequency stimulation provides this
+postsynaptic spine is sufficient to expel magnesium from the pore of the NMDA
+receptor channel. However, the amount of depolarization
+that leads to depression is not so great that we have a rapid high level increase
+in post synaptic calcium. Rather the amount of calcium that rises
+within the spine is relatively modest compared to what we saw with the stimulus
+that gives rise to Long-Term Potentiation.
+So what we have is a slower, lower level increase in postsynaptic calcium.
+That is critical, that lower level increase in postsynaptic calcium
+activates not protein kinases now but phosphatases.
+So these protein phosphatases then dephosphorylate target proteins.
+And that seems to have the opposite effect on the proteins that traffic AMPA
+receptors between vesicular pools in the postsynaptic spine and the postsynaptic
+membrane. With the activation of these protein
+phosphatases, what we see is the internalization of AMPA receptors.
+So the removal of AMPA receptors from postsynaptic membrane means that we
+cannot generate as much current density at that postsynaptic membrane when
+Glutamate is Is released, and that, in effect, is the weakening of the
+postsynaptic process. So remember, both long-term potentiation
+and Long-Term Depression require activity.
+They both require activation of AMPA receptors and glutamate receptors.
+The key difference is the level of postsynaptic calcium and the rate of rise
+of postsynaptic calcium. When calcium rushes in to that
+post-synaptic membrane, then one might anticipate the activation of kinases and
+the insertion of new AMPA receptors leading to the potentiation of that
+synapse. But if the rise of calcium is slow into a
+much lesser level. Then we expect the activation of protein
+phosphatases and the internalization of AMPA receptors.
+Thereby depressing the strength of that sypnatic connection.
+Okay we're going to shift gears now and talk about plasticity in a different part
+of the brain rather than the cerebral cortex.
+We're going to think about plasticity of the cerebellar cortex.
+And there the dominant form of plasticity that seems to shape the function of the
+circuitry of the cerebrum is Long-Term Depression.
+And there are some important differences in the details of Long-Term Depression in
+the cerebellar cortex that I want you to know.
+And when we come back and talk about the cerebellum, I think this consideration of
+plasticity in this circuit will make much more sense to you.
+Now, the cerebellum has some of the most beautiful architecture of any set of
+neural connections found anywhere in the brain.
+So, I won't possibly attempt to do it justice or to introduce you to all that
+right now, but rather so that you can understand the basic players, I'll just
+highlight a few of them here. The principle neuron that's found in the
+cortex of the cerebellum, it's not a pyramidal cell but rather its called a
+purkinje cell. So the Purkinje cell is really just an
+amazing cell, it has a huge cell body. It grows a beautiful dendritic arbor that
+has a very interesting geometry and we'll come back and talk about that.
+And the geometry of this dendrite allows it to receive perhaps as many as 100,000
+or more inputs from tiny axons that run through this, this dendrite.
+So these axons are called parallel fibers and as they pass through the dendrites of
+the purkinje cells they make synaptic connections.
+So, the principal synapse in question when we consider Long-Term Depression
+it's the synaptic connection between the Parallel Fiber and the Purkinje cell.
+Now, there's another important connection that I need to tell you about that makes
+plasticity in the cerebellum possible. And it is the connection that comes from
+a nucleus in the brain stem that has a very nice name.
+It's called the inferior olivary nucleus [SOUND].
+And if you've looked at the outside of the medulla, you'd see something that we
+call the olive. And the olive is a bulge in the
+ventral-lateral surface in the medulla caused by the growth and development of
+this nucleus. Well, this nucleus contains cells that
+grow out these very special axons, that enter the cerebellum cortex, and wrap
+around the primary dendrites of these cerebellar Purkinje cells.
+And because of this intimate relationship between these growing axons and Purkinje
+cell dendrites, these axons are called climbing fibers.
+Now these climbing fibers make an incredibly strong synaptic connection
+with the dendrites at the Purkinje neurons.
+Perhaps the strongest synapse that we know about in the brain.
+It's right here in the cerebellum between the climbing fiber and the Purkinje cell.
+So we've got these two synaptic inputs onto the Purkinje cell, that we're going
+to consider. And see how their concurrent activation
+leads to the depression of the connection between the parallel fiber in the
+Purkinje cell. So again we're thinking about the
+cerebellum. Just want to emphasize that point, not
+the cerebral cortex. So let's see what the phenomenon actually
+is. So, the pairing of activity between the
+climbing fiber and the parallel fiber is what causes the depression in the
+strength that the connection between the parallel fiber in the Purkinje cell.
+So what we're going to measure here is the amplitude of the excitatory
+postsynaptic potential that is induced by stimulation of the parallel fiber.
+Now the test phase is the pairing of the activation of the climbing fiber and the
+parallel fiber. And what we see is that after that test
+phase there is a reduction in the amplitude of the excitatory postsynaptic
+potential. So that this is now depressed [SOUND] by
+about 50%, following this pairing of climbing fiber and parallel fiber
+activation. So, this is Long-Term Depression in the
+cerebellar cortex and it's mediated via the internalization of AMPA receptors.
+So the synapse between parallel fiber in the Purkinje cell is a glutamatergic
+synapse. Gluatamate's released, it can interact
+with receptors for glutamate. Only here, notice that we do not have
+NMDA receptors, or at least NMDA receptors are not contributing in an
+important way to this form of cerebellar plasticity.
+Rather, what we have are metabotropic receptors for glutamate.
+So, these metabotropic receptors, as you may recall, are receptors that activate G
+proteins that are associated with their cytoplasmic face and those G proteins
+then can then go on and activate other effector systems within the postsynaptic
+process. In this case those effector systems
+involve Phospholipase C and the IP2 pathways that leads to the generation of
+IP3 or Inositol trisphosphate and DAC glycerol.
+These second messenger systems can cause the release of calcium from richer
+cellular stores. Cell calcium is flooding into this
+postsynaptic spine with the activation of this metabotropic glutamate receptor.
+Meanwhile, calcium is flooding into this post-synaptic spine because the climbing
+fiber has been concurrently activated. And as I mentioned, the climbing fiber
+gives rise to one of the most powerful synaptic connections in all of the brain.
+This synaptic connection induces significant depolarization into this,
+dendritic tree. That depolirization opens up voltage
+aided calcium channels allowing calcium to flood into the cell.
+So calcium coming from outside, as well as calcium coming from the intracellular
+stores, results in a significant and a rapid rise in intracellular calcium in
+the post-synaptic spine of the Purkinje cell.
+This sudden and high-level rise in intracellular calcium interacts with
+calcium-sensitive mechanisms that internalize AMPA receptors.
+So, in this model system, protein kinase C phosphorylates target proteins that
+leads to the internalization of AMPA receptors.
+So AMPA receptors are being drawn from the post-synaptic membrane of these
+spines into the visicular compartments within the post-synaptic process.
+Removal of AMPA receptors is depressing this synaptic connection.
+Now, let's be clear: In the cerebral cortex, high levels of calcium lead to
+potentiation, but in the cerebellar cortex, high levels of calcium leads to
+depression. And the difference has to do with the
+second messenger cascades, and the consequence of activating those cascades.
+In the cerebral cortex, those cascades end up inserting AMPA receptors into the
+post-synaptic membrane. But here in the cerebellum a different
+cascade leads to the internalization of AMPA receptors and the, the depression of
+that synaptic connection. Now we've come to the conclusion of this
+tutorial and we're ready to begin to apply these concepts and think about how
+synaptic plasticity might play out. In the context of ongoing patterns of
+activity in the brain rather than those induced by stimulating with
+microelectrodes in experimental situations.
+And this brings us to a fairly new discovery in our growing understanding of
+the mechanisms of synaptic plasticity. So our next tutorial will be about spike
+timing dependent plasticity. I'll see you then.

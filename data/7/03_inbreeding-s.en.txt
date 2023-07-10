@@ -1,0 +1,175 @@
+Hello.
+Welcome back to Introduction to Genetics and Evolution. In the previous set of videos, we've been talking about
+deviations from Hardy-Weinberg. Particularly, not in the last video but
+the video before it, we looked at the measurement of FST, how you can measure differences between
+populations in the allele frequencies. What we saw, in this case, it that you use the deficiency
+of heterozygotes to quantify a deviation from Hardy-Weinberg to look
+at these differences between populations. These differences between populations,
+as I emphasized both in the last video and the one before it,
+come from nonrandom mating. In this video, I'm gonna talk about
+a different from of nonrandom mating, that of inbreeding, or
+mating preferentially with individuals more closely related to you than
+a random individual in the population. Now, differences in allele frequencies are
+often driven by patterns of gene flow or interbreeding, this is
+differences among populations. This is true when you're
+looking between populations but it doesn't have to be true
+just between populations. In fact, you can see something similar
+with patterns of nonrandom mating within populations, as well. So the related concept of what
+we've talked about is inbreeding. Now this is again, breeding between
+closely related individuals such as siblings, cousins,
+things like that. This often happens because the capacity
+for dispersal is often limited. Individuals can't just jump to some place
+on their side of the population but they breed with individuals that happen
+to be physically approximate to them. To quote a famous song,
+they love the one they're with. Now, this changes the distribution
+of alleles among genotypes. So let's start by looking at
+an extreme form of inbreeding. This extreme form of inbreeding
+is that of self-fertilization, which is found in some plants. They actually literally have their
+pollen is fertilizing their seeds. So let's imagine this population. We'll start at Hardy-Weinberg,
+that you have 25 % AA, 50% Aa, 25% aa. What happens if this particular
+plant self-fertilizes, as you might see in the picture here? Well, the AA individuals will obviously
+produce more AA individuals because that's all they have. It's AA crossed to AA, aa individuals
+will produce more aa individuals but these ones, the heterozygotes,
+will make a spread. They'll make some Aa individuals, they'll
+make some aa ones, and some AA ones. So we take this 50%, as it shows here,
+and a quarter of it goes to AA, a quarter of it goes to aa, and
+half of it stays within there. So if we're to look at the new
+genotype frequencies after one generation of self-fertilization,
+we see it becomes 25% AA, plus one quarter of 50% AA, so
+that comes out to 37.5% AA. Same on this side, this one is 50% Aa,
+times 1.5, so it would be 25% Aa. You can add these up now, it still
+adds up to 100% but what do we see? We see, again, a reduction in heterozygotes
+relative to what we saw previously. Now, we could iterate this over more and
+more generations. Now we have again fewer heterozygotes,
+more of these two homozygotes until, in the very long term, what do you expect? If you just keep self-fertilizing over and
+over again, what do you think will happen? That's right! The answer is you'll have all AAs or
+all aas. They're essentially inbreeding and
+particularly self-fertilization but any form of inbreeding eliminates
+heterozygotes if you do it for a very long period of time,
+there will be no heterozygotes left. So every generation,
+the heterozygote fraction goes down and you essentially create these
+pure breeding lines of AA or aa. Now how do we quantify inbreeding? Again, inbreeding, even if you're not
+looking at selfing, reduces percent heterozygotes relative to Hardy–Weinberg
+or just Mendelian proportions. It feeds alleles into homozygotes,
+and again, this reduction can be used to quantify the extent of inbreeding
+that's happening in the actual population. A measure we can use, and this is
+all gonna look very familiar to you, the measure that we can use is
+Wright's inbreeding coefficient, which is often just abbreviated as F. F ranges from 0 to 1 where 0 is your
+at Hardy-Weinberg expectation for percent of heterozygotes
+within the population. If you're between 0 and 1, you have somewhat fewer heterozygotes
+than predicted and if you have an F of 1, it means you have no heterozygotes
+in the population at all. This sounds very familiar, doesn't it? It's very similar to FST. Again, F is calculated as
+the Hardy-Weinberg predicted 2pq minus the observed heterozygotes over
+the Hardy-Weinberg predicted 2pq. So let's do an example. Here is an example right here. Let's say you're studying a population
+that has this set of genotypes, so again, we use the same procedure
+we always use for calculating if something
+is at Hardy-Weinberg. We get the totals, the genotype
+frequencies, and allele frequencies. The total in this case is 1,000,
+here's your genotype frequencies, here's your allele frequencies 0.7 and
+0.3. From this, we see what the Hardy-Weinberg
+predicted genotype frequency should be. In this case, we have 0.49, 0.42, 0.09. Look at that, we see that things
+are at Hardy-Weinberg or not. Here's the predicted
+percent heterozygotes, here's the observed
+fraction of heterozygotes. Again, we have a deficit of
+the observed relative to the expected. So we just plug these numbers in,
+the expect is 0.42 minus the observed is 0.294, divide by 0.42 and
+our F in this case happens to be 0.3. That's pretty severe inbreeding. Let me give you one to try yourselves. These are genotypes from
+the Croatian Islands. This is actually real data. I skipped the step of
+the genotype counts for you. I'm just going to go ahead and
+start with the genotype frequencies. Go ahead and give that a shot. I hope that wasn't too difficult. Again, I started you off with the genotype
+frequencies, let's go ahead and convert them to allele frequencies. There we go 0.9 and 0.1 and from that
+we calculate the expected heterozygote frequency, so it would be 0.9 times 0.1
+times 2 should be 0.18 as your 2pq, I'll write that in there just so
+you see it, 2pq is equal to 0.18. So this is our predicted,
+this is our observed. So our predicted minus
+observed over predicted. In this case,
+the estimated inbreeding coefficient for these Croatian islands is 0.04. Now you may be wondering, what is the difference between
+this inbreeding F and FST? They're both based on
+fundamentally the same principle. They're seeing fewer heterozygotes
+than the Hardy-Weinberg prediction. They're both indicating
+patterns of nonrandom mating. One is indicating within two different
+populations that are individually Hardy-Weinberg. The other is indicating behavior
+within a population and they're both essentially
+the symptom of the Wahlund effect. Now this is where the difference comes in,
+you apply the inbreeding F when you know you're looking at individuals
+within a single population. As far as you can tell, these individuals could freely interbreed
+with each other but perhaps don't. You apply FSTs when you are quantifying
+a difference between populations. You're looking at individuals from here
+and individuals from way over there, and you're then trying to estimate,
+historically, what has happened. How different are they in allele
+frequencies that you wanna quantify. So how is this calculation used? Particularly, the inbreeding F. I have here just a couple of examples from
+some recent papers that were published. These are just their titles. You can look at the association between
+inbreeding and health or disease. Many of you know that inbreeding is
+also associated with health problems. So there's one here, inbreeding effects
+on fetal growth in Beirut, Lebanon. You can look at patterns of gene flow
+between say social classes to get sort of societal implications of this. So this marriage within social or occupational class boundaries in
+Pakistan and how it affects inbreeding. You can look at other cultural effects and
+patterns of breeding. So here's one from Spain where they're
+looking at socioeconomic, demographic and geographic influences. Patterns of inbreeding around the world
+differ, often associated with cultures. This shows the global distribution of
+marriages between couples that are related as either as second cousins or
+more closely related then second cousins. If you have a second cousin mating,
+then F would be on average 0.0156. Here we see that there are some
+areas where you have a lot of marriages among related individuals,
+so as you see here in Saudi Arabia and Afghanistan, and
+things like that you see a lot. There are some areas where you see very,
+very little of it. For example, in the United States,
+in Australia, in Russia, things like that. Again, inbreeding does happen and
+it varies socially and culturally. Now, some of you may be thinking,
+isn't inbreeding bad? You've heard of all this inbreeding
+depression and things like that. In and of itself, inbreeding only changes the distribution
+of alleles among genotypes. Intrinsically, inbreeding
+doesn't cause a problem. It's only changing how alleles are
+distributed among the various genotypes. It does not make any alleles go away or
+turn bad. However, there is this phenomenon
+of inbreeding depression and what this requires is natural
+selection as well as inbreeding. Now the reason that inbreeding is often
+associated with this sort of depression, is that populations often have many
+individually rare recessive mutations. We talked about this way back with
+our mutation lecture, that again, you have a few new detrimental
+mutations arising each generation. If they're recessive, as they often are, most bad mutations tend to be recessive,
+they don't really have any effect. But what starts happening,
+imagine that the rarer recessive, you're gonna have very
+homozygotes in the population but what starts happening if you
+have related individuals mate? If you have related individuals mate and
+have kids, they're likely to have the same recessive mutation and they're more
+likely to produce homozygous offspring. So this picture on the bottom might
+show you individual genotypes across the population and let's say
+that each of these red mutations is bad. There's a bad D over here, there's a bad A
+over here, there's a bad D way over here, a bad E over here, a bad B there. It's very unlikely, pretty much these
+people could all mate with each other and there's only one combination here among
+all these individuals that would actually produce a problem. If they're all recessive and that
+would be if this individual right here interbred with this
+individual right there. In contrast, if they're breeding, for
+example, they're self fertilizing or breeding with their sisters or
+cousins, then you're much more likely to accidentally run into
+somebody who has that same bad mutation. Therefore to actually have this mutation
+effect show up because your making it homozygous, that's why you
+have inbreeding depression. It's this combination of inbreeding,
+plus rare recessive mutations. We see effects of this often
+associated with dog breeds, and the inbreeding associated with making
+them that we're breeding relatives to make these various dog breeds. We're trying to essentially pick
+the desirable qualities we like, their behavior, the way they look,
+or something like that. In doing that, when we're breeding
+individuals that are related to each other, we end up increasing
+the inbreeding coefficient. In fact, inbreeding coefficient in
+some dogs can be as high as 0.5. That's unusual but
+some of them do go that high. In fact, there's some poodle varieties
+that have an F of 0.7, that is huge. At this point, you're seeing almost no
+heterozygotes retained within there. A UPenn study showed that 75% of puppies
+that have a F greater than 0.67 die within 10 days. So there's a huge detrimental
+effect associated with this. Some of the effects that
+have been documented are, for example, King Charles spaniels. They get this, I don't know how
+you pronounce it, syringomyelia. Essentially, the dog's skull
+is too small for its brain. It causes, as you can imagine,
+all sort of problems. Here are several others. Boxers tend to get high epilepsy. Pugs have breathing problems. Bulldogs can't mate or
+give birth unassisted. Some, not obviously all of them. Mastiffs, Saint Bernards, and Great Danes,
+this is a very common one, hip dysplasia. Hip dysplasia's been studied quite
+a bit in a couple of contexts, such as the Icelandic sheep dogs. Let me show you some data about that. Here is the association of incidence
+of hip dysplasia with inbreeding. So on the Y axis here, we have percent
+of individuals having hip dysplasia. On the X axis, we have inbreeding
+coefficient associated with them. What we see here, is we see a greater and greater incidence of hip dysplasia
+associated with more and more inbreeding. Again, the problem here is you're
+making recessive mutations homozygous. By making them homozygous, you're making their bad effect
+visible in the individual. That's what causes inbreeding depression. That's one of the reasons
+we're interested in it. Thank you so much for your time.

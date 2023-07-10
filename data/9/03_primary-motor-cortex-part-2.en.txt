@@ -1,0 +1,184 @@
+Okay, well now with that bit of an
+overview of the relationship between upper motor neurons and lower motor
+neurons, let's focus in on the motor cortex.
+Again we're going to be considering the posterior part of the frontal lobe which
+will include the precentral gyrus, and then the posterior part of our three long
+parallel gyri that we identified in our laboratory lessons.
+OK, our superior, our middle, and our inferior frontal gyri.
+So, from both an anatomical, and a functional perspective, we can broadly
+conceptualize the motor cortex as being divided into two main regions.
+There's a primary motor cortex, which is found in the anterior bank of the central
+sulcus, including much of the crest of the precentral gyrus.
+and then just in front of that primary motor cortex, we find a premotor cortex.
+And these areas extend into the midline hemispheric surface.
+So we can recognize the primary motor cortex is occupying a large portion of
+that paracentral lobule, if you remember that anatomical term.
+Paracentral lobule refers to this gyral formation that forms the medial or the
+medial terminus of the central sulcus. Just in front of the paracentral lobule
+then is were we find the medial extension of our premotor cortex.
+We will spend just a little bit of time talking about an interesting region right
+about there that's concerned with the expression of emotion in the face.
+Now each of these divisions of the motor cortex, the primary motor cortex and the
+premotor cortex, give rise to these descending projections to lower motor
+neuronal circuits and the spinal cord as well as the brainstem.
+Collectively these divisions of the motor cortex receive input from the thalamus as
+do all regions of the cerebral cortex. We can identify two nuclei at the
+thalamus that are primarily responsible for projections to the motor cortex.
+They are the ventral anterior nucleus and the ventral lateral nucleus.
+Sometimes, we refer to them together as the VA-VL complex of the thalamus.
+In addition to input from the thalamus, these divisions of the motor cortex
+receive important projections from other parts of the cerebral cortex.
+And one important source of projection comes from the somatic sensory cortex,
+which sits just posterior to the central sulcus.
+There are projections from the somatic sensory cortex in to this motor cortex,
+both the primary and the pre-motor areas. In addition, there are projections from
+the more posterior parts of the parietal lobe that are processing information
+about, visual spatial relations recall that where pathway, that, was processed
+and elaborated in the posterior part of parietal lobe.
+This part of the parietal cortex, likewise, sends inputs that are relevant
+to the guidance of movement. So the remainder of this part of the
+tutorial I'd like to focus on the structuring function of the primary motor
+cortex. And this is really a fantastic part of
+the human brain. if we prepare histological slices as, as
+I did some years ago with my colleagues here at Duke.
+we can really, recognize the fantastic appearance of this part of the brain.
+As it's viewed under the microscope with a standard histological stain like
+initial stain. And a few features really stand out.
+one feature, which is highlighted in this slide, is the presence of these very
+large neurons that we find in layer five of the primary motor cortex, which
+corresponds in Brodmann's nomenclature to area four.
+So here in layer five we find these very large neurons called Betz cells.
+In fact, they are the largest neurons in the entire cerebral cortex and they
+contribute to the corticospinal tract. So generally speaking, layer five in the
+motor cortex is what gives rise to projections, to the spinal cord and to
+the brain stem. So we call these connections again, the
+corticospinal and the corticobulbar tracts.
+They come from layer five. Now, just a word about these Betz cells.
+perhaps when they were first described and recognized, it was tempting to think
+that these cells are the sole origin of the corticobulbar and corticalspinal
+pathways. But we know that there just aren't enough
+Betz cells to account for the number of axons we see descending to the brain stem
+in the spinal cord. So, really these Betz cells account for a
+small percentage of the overall projection from cortex down to lower
+motor circuits. however they, they seem to have some
+privileged access to those lower motor neurons.
+I mentioned that most of the connections from cortex to lower motor circuits are
+actually targeting the interneurons, not the alpha motor neurons themselves.
+Well it seems that these betz cells are among those cortical cells that have
+monosynaptic connections to alpha motor neurons.
+So they do seem to be given privileged access to govern the output of our lower
+motor neurons. So you may be wondering, why do we call
+this Brodmann's area four, primary motor cortex?
+Well, it's primary in the following sense.
+When motor cortex was first characterized with micro electrode stimulation, it was
+discovered that as one approaches the posterior frontal lobe with a micro
+electrode and then stimulate at different sites.
+It was possible to elicit various kinds of movement.
+We'll talk more about that in a few minutes.
+And the thresholds for stimulation that produced movement got lower and lower and
+lower as the micro electrode was advanced towards the central sulcus.
+And the cortex in the anterior bank of the central sulcus was found to have the
+lowest threshold for producing a movement when stimulated with an electrical
+current. So this region was defined as being
+primary for that reason. Now, it was, clear from the very earliest
+stages of these kinds of experiments that one could elicit movements for more
+anterior regions. So this posterior frontal lobe was
+considered the location of the motor cortex but there was a clear distinction
+in threshold. and so for that reason this primary motor
+cortex was identified with the precentral gyrus.
+There's another sense in which this Brodmann's area four can be considered to
+be primary cortex, and that is because it's there in the primary motor cortex
+where we seem to be especially concerned with the movements around our personal
+space. For example, bringing the hand to the
+mouth or bringing an object close to the visual mid line, so that we can inspect
+with our special sensory systems what we happen to be holding in our hands.
+This kind of movements seems to be well represented and encoded in the activities
+of neurons in the primary motor cortex. So in this sense, the primary motor
+cortex can be considered primary because it has the lowest threshold for the
+elicitation of movement, and it seems to be concerned with those movements that
+are primarily concerning our bodies and the space immediately in front of our
+bodies. Now, let's talk some about the way the
+body is mapped out in the motor cortex. So, we can recognize a, a kind of body
+mapping, or somatotopy, in the motor cortex.
+And generally speaking, along the length of the central sulcus in the precentral
+gyrus, there is, in fact a kind of somatotopy.
+And this somatotopy bears some resemblance to the body mapping that we
+saw in the post central gyrus, such that here on the paracentral lobule we have
+representation of the lower extremity and as we progress towards that S-shaped band
+near the center of the central sulcus we move up the lower extremity through the
+trunk and, and to the upper extremity. And near the central part of the central
+sulcus where that S-shape bend is found, that's where we see representation of the
+movements that we perform with our arm and our hand.
+And then just lateral and inferior to that region just as with the central
+sulcus tends to straighten out we find representation of the face in the
+inferior one fourth or one third or so of the precentral gyrus.
+So this organization from lower extremity through trunk to upper extremity and then
+to face, is something of a mirror image of what we found in the postcentral
+gyrus. However, there is an important sense in
+which it's not a true mirror reflection of the fine detailed mapping of the body
+that we find in the postcentral gyrus. What we find is a much less precise
+mapping of the body. In fact we call this fractured
+somatotopy. Let me give you some examples of what I
+mean by fractured somatotopy. Here again is this basic layout of the
+somatotopy in the pre-central gyrus from lower extremity, to upper extremity, to
+face. And if we simply focus in, on the region
+of the upper extremity I can illustrate for you why the somatotopic map in the
+pre-central gyrus, is not a mirror reflection in detail of the map that we
+find in the post-central gyrus. So there's a number of senses in which
+this body map is fractured. one sense that we can find, in
+overlapping regions of the pre-central gyrus, representation of extensor
+movement and flexor movement. One might think that these would be very
+different kinds of movements that might have differential columnar representation
+in the motor cortex. well that may not be the case.
+There seems to be an overlap in where we can find sites that when stimulated would
+produce extensor activity or flexor activity.
+Another sense in which this body map is not a mirrored reflection of the, smooth
+and continuous mapping of body part that we find in the post-central gyrus, is
+that we can find multiple representations of the same body region.
+So, for example one could probe an area of the pre-central gyrus and discover
+that there is a, collection of cells that when stimulated move the first digit.
+Well one might find a different location probably not far away but a different
+location nevertheless that likewise would stimulate and produce movement in that
+same body part. So we can have multiple representations
+in addition to overlapping representations of different types of
+movement. And lastly, if we look within this region
+that represents the upper extremity, what we can find is an interdigitation of
+sites that, when activated, can move, for example, the wrist.
+And that might be right next to a site that, when stimulated, can move a digit.
+And, the, those regions might be adjacent to a shoulder,or perhaps elbow flexion or
+extension sites. So, there seems to be no strict, internal
+somatotopy within this general region that represents the arm.
+And it's for these reasons that I elected not to illustrate the somatotopic
+representation of movement in the precentral gyrus with a Homunculus-style
+cartoon, because I think that would be misleading.
+So you might get the impression that there is a detailed somatotopic mapping
+of the body in the precentral gyrus. And that really would, would be
+misleading, I think, because of these various features of motor representation.
+What we find is more a general representation of body region that
+roughly corresponds to the detailed map we find in the post central gyrus.
+but it is fundamentally different and it's internal organization.
+And I think this is quite interesting because, what this arrangement allows for
+is the organization of functional ensembles of neurons for the performance
+of particularly meaningful behavior. the circuitry seems to be dynamic and
+flexible and plastic and that circuitry may provide us with a neural substrate
+for the acquisition, and storage, of motor skill.
+So, if this is the means by the motor cortex is represented, it makes some
+sense that we would see some reflection of this in the connections between motor
+cortex and lower motor neurons. And, in, indeed, we do.
+If one were to trace, for example, the distribution of a single axon in the
+cortical spinal tract, what you might find is that that axon terminates in
+multiple columns of lower motor neurons in the ventral horn.
+That might be consistent with a single location in the motor cortex being
+concerned with multiple kinds of movements.
+Also, if one were to look physiological, one might find that a single action
+potential or a single spike in a cortical spinal axon, might activate, different
+muscles in the forelimb. So these two points sort of go together
+if a single axon can innervate multiple columns of motor neurons, it makes some
+sense then that one would associate the activity of that single axon with
+movement of multiple muscles. So these anatomical features and these
+physiological features at the unitary level I think are a reflection of what we
+find at the levels of maps in the pre central gyrus.
+So if all of this sounds very complex and very confusing I can assure it is and
+we're still trying to understand what is mapped in the primary motor cortex.
+So I hope that's a question that Is raised in your mind in this point in our
+discussions.

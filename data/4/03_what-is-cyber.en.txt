@@ -1,0 +1,113 @@
+Hi, my name's Dr. Charles Harry from the
+University of Maryland, and this is Cyber Security For Everyone, The Fundamentals. Cyber security is one of these topics that a lot
+of people talk about; you hear it on the news, you hear maybe even some of
+your friends talking about it as they read some
+article in the newspaper. The question is, what
+are we talking about? What is cyber security? This question, this fundamental question
+is an area that frankly, many of us are confused about. How can we maybe
+demystify this subject? That's the goal of this course. We will talk about what do
+we mean by cyber security? Maybe the first place
+that we should focus on, is really a definition. What do we mean by
+cyber security? It's usually a good
+place to start. The way I like to think
+about cyber security is to break it down into
+individual words. Let's define those words, and maybe we can
+get a better way to think about this problem before we start our long journey on talking about the threat
+actors that are out there, the Internet, all the various tools and techniques
+that hackers use. Let's start off with the
+very first word, cyber. What do we mean by cyber? If we take a look adjusted, your normal dictionary, something like the
+Webster's Dictionary. We get some definition
+that looks like this, of relating to or involving computers or computer networks. That sounds reasonable. Because when we
+think about cyber, we tend to think of the person in their parents basement with
+the hoodie over their head, working away on their laptop,
+some brilliant hacker. Of course, cyber has to
+be about technology. Is it only about the technology? That's the question. In fact, when you take
+a look at some of the historical representations
+and definitions of cyber, we get a slightly different view. Let's define the term cyber. How is cyber different than other terms that we often hear? Terms like information assurance
+or information security, or even things like cybernetics, or computer security,
+or something is generic as IT security. How is cyber different? If we actually explore this term, if we explore it and take look at some of its
+historical roots, we start to figure out that
+cyber is actually something a little bit broader than
+just the technology. Cyber really evolves
+historically, from this larger field. The larger field was
+often termed way back in the 1940s, cybernetics, which dealt with the field of controlling
+communications theory, whether in machine
+or in the animal. That sounds like a really,
+really strange quote, but what we're talking about here is not just about technology, not just about the machine. We're also talking about
+the animal or the people. This term, starting all
+the way back in 1948, evolves and morphs
+itself over the years. Eventually becomes popularized in a novel Neuromancer then
+maybe some of you have actually read or
+had the opportunity to review in the past. But this ability to blend
+technology with people is what starts to make
+cyber different than IT security or
+computer security. It's broader. It's this
+confluence between technology, human beings, and human organizations that really
+make it different. That's why we talk
+about cyber instead of IT security or computer
+security. It's different. It's about this
+complex system and this interplay
+between technology, people, and organizations. Yes, cyber is about technology. That's something that
+we're going to talk a lot about through this course. We have to talk about things like laptops,
+application servers, databases, smartphones,
+sensors, networks, and even autonomous cars. Something that we're looking forward to over the
+next 10 to 15 years. But cyber is also
+about the humans. It's not simply about technology. It's about the hobbyists, the people who just enjoy
+playing around with technology. It's about the social activists that are out there
+who might want to leverage computers and their
+insight into organizations, how to advance their
+personal agenda and their organization's agenda. It's also about
+criminal syndicates who want to leverage
+technology and their insights about people in their failings in order
+to obtain more money. It's about intelligence
+operatives. People who work on
+behalf of other nations, who are interested
+in understanding a variety of secrets
+about other nations. It's about the technologists, the people who are
+deeply embedded in the technology who want
+to defend networks. It's certainly about
+the policy makers, the people who have
+to make the rules, the people who help
+govern in this space. Certainly it's about corporate executives and
+corporate leadership. They're the ones making
+decisions about where to spend their scarce resources
+to defend networks. Cyber is not simply
+about technology, it's also about the humans, but cyber is also about
+the organizations. Things like corporations and water treatment facilities,
+electric companies, maritime transport companies, rail and certainly
+nuclear power plants, and many, many more. It's not simply about
+the technology, it's not just about the
+computers and the software, that's running on those devices. It's more than just
+the humans that are operating those
+particular machines, but they both come together
+in a broader set of organizations, and that matters. It matters because when we talk about things like
+an attack surface, the broad array of devices and vulnerabilities that hackers
+leverage and exploit. We have to think about
+humans and machines, how they work together to
+produce a product or a service. That helps us understand where our vulnerabilities lie and where the risks are to all
+of society in some cases. Cyber is complex. Yes, it includes technology, it's hardware and software
+running on various devices. But it's also about the
+people, technologists, executives, public officials, and the hackers themselves
+and their motivations. Finally about the organizations, the private and public sector. When does a cyber
+security issue become a public concern and not
+simply a private problem? How do we make that
+determination? These things come
+together and it moves us beyond simply evaluating
+the technology. Cyber is much more
+than the ones and zeros that we often hear
+about in popular media. It's about the confluence between technology, humans,
+and organizations. It is not stand alone. We need to think about
+this holistically. If we wanted to come up with a working definition of cyber, and certainly there are lots of different definitions that exist. One in particular that I'd like is from the Public
+Safety Board of Canada. It really emphasizes
+this interaction between humans and technology. The idea is that there's an electronic world
+that's interconnected, filled with networks of
+information technology. But in addition, it's
+a global commons where people are linked together to exchange ideas, services,
+and friendship. I think at the heart
+of this definition, it highlights what we've
+just been talking about, which is that cyber is
+a issue of complexity between technology,
+individuals, and organizations. In this video, we've talked
+about the term cyber and how cyber is much more than simply about the technology. It's about technology, individuals and organizations
+working together. In our next video, we're going to talk
+about what we mean by security. See you next time.

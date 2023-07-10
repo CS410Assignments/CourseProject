@@ -1,0 +1,181 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In this video,
+we'll be talking about a new process. We'll be looking at sexual selection. We've talked extensively before
+about natural selection. Now, we wanna focus on that
+facet of natural selection devoted to how individuals attract mates. Now we talked briefly before about
+the advantages of sexual reproduction. But we didn't do is we didn't address some
+of the striking outcomes in terms of both behavior and appearance. So let's dive right in. First, what is sexual selection? Well again natural selection and sexual
+selection are intrinsically related. Natural selection again is when you have
+heritable traits that aid the survival or reproduction, and those traits then
+spread in natural populations, okay? Now with sexual selection, we're gonna be looking at just
+a subset of those features. We're gonna be looking at those
+related to the ability to secure and reproduce with mates. Now obviously you need to reproduce
+to pass on your genes, and doing so
+better passes on more of your genes. So there's more copies
+of it in the population. So, if you can have traits that make
+you mate more, that's probably good. So if you have a trait that attractive,
+that's good right? Well, some traits that seem to
+be tied to one sex appear to be maladapted to survival. They appear to be bad for survival. So this creates a bit of a conundrum. How do these maladaptive traits spread? And why do you intend to see these,
+it's not always, but we tend to see these
+exaggerated traits in males. Let's look at a few examples here. So we have over here in the left,
+top block the extinct Irish Elk. This had huge antlers. And they're estimated maybe to
+weigh on the order of 80 pounds or perhaps 35 kilograms. That's huge. Why on Earth was it good to carry
+this heavy thing on your head? Well we have a couple of other things
+that are probably familiar to you like the peacock with its elaborate tail. In this case, it has it down. Here's a rhinoceros beetle,
+look at that big horn that it has there. And, we have here the red-collared
+widow bird that has this very long extended tail. Well, Darwin saw all these things,
+and he figured something must be up. So, what he suggested and
+has since been confirmed many, many times, is that these traits
+are exaggerated through sexual selection. So here's a direct quote from Darwin. The habitual or even occasional
+preference by the female of the more attractive males would almost
+certainly lead to their modification. That because these are attractive, they are enhancing fitness overall and
+they are spreading. Now, what Coyne actually clarifies this
+in his book associated with his class, sexually selected traits will
+evolve if they more than offset the male's diminished survival with
+an increase in his reproduction. So yes, although maybe he's more
+likely to be caught by a predator. Since he mates so much more, it more
+than offsets that survival disadvantage. Well, there's a key for this to work. The key is you have to
+have a lot of mates, okay? So how many mates do most organisms have? Well, when you look across the animal
+kingdom, multiple mates for males or females are quiet common. Then you're maybe familiar with
+this idea of social monogamy. That's when you have the social bond
+of one male and one female at a time. People tend to think of ducks, so
+this is actually a poor example. People tend to think of ducks
+because they see the male duck and the female ducks swimming around together. Now, separate from social monogamy,
+there's also sexual monogamy. That's when partners are sexually
+exclusive with each other. Now with the growth of DNA
+based assays for paternity. What people have found is a lot of
+these species that appear to be socially monogamous,
+are actually not sexually monogamous. In fact,
+extra-pair copulations are quite common. Now the extra-pair copulations are when
+you're essentially breeding with somebody outside of your social pair. This is quite common across
+much of the animal kingdom. And again with more genetic
+data we see this much better. Now if we assume there are multiple mates,
+then the increase in number of matings, or increased number of partners, will often
+increase your potential reproduction. Again, this assumes non-monogamy, right. So this is an important facet, to this. We are assuming non-sexual monogamy. Now what's interesting is
+the difference between sexes in potential reproductive rate,
+is very important. Like basically,
+how many offspring could you have? Well, let's look at the world records for
+humans, though I don't usually like using
+humans for these sorts of examples. The world record that's know for
+a human female is about 69 children. That is obviously huge. Now, what would you think the world
+record for a human male would be? Now, potentially you can think, well,
+how many kids could a male sire over the course of a year versus a female
+sire over the course of a year? The female, you're looking at one to two, maybe a little bit more if they
+have multiple kids at a time. But with males, the potential
+reproductive rate is much higher. And, in fact, the world record for
+a human male is somewhere between 867 and 1,000 [LAUGH] over their lifetime. Again, the potential reproductive rate for males is much higher than the potential
+reproductive rate for females. Now why this difference? Well, part of the reason is probably that
+females often invest more in resources and in care, and that limits their
+reproductive opportunities. All right, so for example,
+the human female. If they're gonna give birth to a child,
+they have this long period of labor through which they cannot
+be reproducing anymore. They are stuck with that period. And then even after that, there is this care post-reproduction
+that also slows them down. Now, an estimate from one study
+suggested that, on average, females devote 100 to 1000 times
+more resources to egg production than males devote to ejaculate production. That's a pretty big difference. Just as one extreme example many
+of you are probably familiar with the bird, the kiwi. Well it's egg is 15%
+of its overall weight. So just that physical investment in
+creating this one offspring is huge. Now a lot of these ideas fall
+from an interesting principle. This is referred to as
+Bateman's principle. So let's look at this first
+in terms of the females, and then in terms of the males. With the females there is typically low
+variation in female mating success. And, by that, I mean that most
+females will tend to mate, and they will tend to produce offspring, okay? Now, interestingly, more matings
+by female does not necessarily lead to more offspring, because again,
+they're sort of capped, that they can copulate multiple times,
+but that's not going to increase the number of times they actually
+produce offspring, for most animals. And they are limited by resources then,
+again there's a high investment for producing these offspring. With males a lot of that isn't true, now there is typically very high
+variation in male mating success. There's some males who will produce many,
+many, many offspring with
+many different females. And there are a lot of males who
+will just produce no offspring. So there's quite a bit of this
+variation in male mating success. I'll show you an example of this
+in just a couple of minutes. Typically with males more matings,
+in this case meaning more matings with different females,
+will typically lead to far more offspring. And finally they are limited
+by access to females. So there's a lot of this competition for
+access to females. Now, what is the relationship between
+mate number and offspring number. Let me show you one example. Here's a difference of outcome
+from having more mates. These are from studies
+of the Rough-skinned newt as you can see over here. Now I'd like you to look at how the x axis
+here we have different numbers of mates. And the y axis here numbers of offspring. The orange dots are for
+females the blue dots are for males. Now you look there at the correlation for
+males, as you have more mates, you typically have a lot more offspring. With females, interestingly,
+as you have more mates, you don't typically have
+a lot more offspring. So how does that work? One question people always ask
+is how is this possible since everybody has a mother and a father? How can you get this difference? Well, let me give you some made-up, but
+representative, data to illustrate. And I'll show you some real
+data in a couple of slides. Here's a likely scenario,
+what you might see within a species, when you look at variation in mating
+success within a mating season. With females,
+the vast majority will mate once. Some may mate zero, some may mate
+a little bit more, but on average, they're just getting mated and that's it. Mostly the reason for this is a lot of
+females, actually once they have mated in different species will not mate
+again with another male for awhile. Okay?
+Now what you'll see here for males, you see this much bigger spread
+that a lot of males have no mates. Some have one, some have two,
+some have three, but you have a couple of the super
+males who have many many offspring. If you look at these two things, they have
+the same average number of mating for males and females because, again, every
+copulation has to involve one of each. But with females,
+most of them succeed once. With males, many, many fail, and
+they're very, and the subset are very, very successful. Now this spread here, leads to very
+intense competition among males. All the males wanna be here
+to the right end of it. They don't want to be at
+the far left end of this. Let me show you some real data
+with elephant seals to illustrate. With elephant seals, and this has been studied quite extensively
+as one of the extremes examples, you have this super variance
+in male mating success. So in one study they showed that 28%
+of males were observed mating at least once in a two year breeding season. So what does that mean? Is that probably about 72%
+were never observed to mate. So a large number of males
+were never successful. Among those that did mate, the average
+number of mates was quite high. They actually mated about
+20 different times. Now the distribution is highly correlated
+with the distribution of paternities. So those that did mate a lot
+did sire a lot of offspring. So this big spread for males. Here's an example from
+one group with 14 males. The 11 bulls sired no pups. Two bulls sired one pup each and
+one bull sired 24 pups. So again,
+there's this intense competition. There's a couple of big winners, and
+there's a lot of loser with males. All right. So again, this is very,
+very strong sexual selection. You don't tend to see this
+sort of spread with females. Because again the potential
+reproductive rate is much lower. Now what is the outcome of this? Well one outcome which is
+quite interesting is that we tend to see male-female dimorphism
+correlating with sexual selection. What do I mean by dimorphism? By dimorphism I mean,
+some difference between males and females. Often in physical size or weight that you know if you are,
+in this case on the right, we have a dimorphic couple where
+the male's huge and the female's little. This case here we have a mono morphic
+couple where they're about the same size. Typically speaking, when you have few males monopolizing
+most of the females, and then you tend to see this big difference
+in size between the males and the females. So in the case of the Southern elephant
+seals I showed you earlier, the males can be as large as 8,000 pounds, whereas
+the females maybe about 2,000 pounds. So big, big difference in size. Now with humans you can see that yes,
+there's an average difference, but we're a lot closer. There's probably not quite
+the same extreme variance in humans as you see in elephant seals. Now, when you have less variation in
+male-mating success, the females and males tend to be more similar in size. So this is a decent indicator. In this pattern, you can't even see it
+when you look across primate species, so even including Chimps, gorillas, etc. Now it's not perfect, but
+at least gives you some idea. So how might we leverage this? How might we leverage association? Well, here's a couple of choices for you. This is a question for you to answer. Could we use this to assess sexual
+selection in extinct species? Could we use this to assess sexual
+selection in newly discovered species? Or could we use it to study which
+characters are influenced by sexual selection? Or maybe all of the above? Think about that. Well I hope that wasn't too difficult. The answer was indeed, all of the above. We can use this to assess sexual selection
+in extinct species using fossils, because if we see this extreme dimorphism,
+and that tends to be associated with extreme variance in mating success,
+so strong sexual selection going on. So that's pretty cool. We can do the same thing with a newly
+discovered species which we haven't had a chance to do extensive tests on. And we can look at the specific characters
+that are likely to be influenced by sexual selection, because those are the ones that are likely
+to show the greatest dimorphism. Okay? So, how is this competition occur? I've just been describing in a context
+of competing for access to mates, but I haven't really gone into
+it any more than that. Well, there's one sex, typically the males, that is subject
+to the strong sexual selection. In this case, there should be competition, there should be competition
+among the males for the females. So it's competitive,
+there might be fighting, there might be something to keep
+other males away from the females. Now, the other sex, typically the females,
+is subject to much weaker sexual selection because they all tend
+to get mated to and produce offspring. That sex, the one which is under weaker sexual
+selection, should tend to be choosy. They can be very picky. They can afford to be picky because
+they know they're going to mate. I'm anthropomorphizing, they don't
+actually think this, but there's a high probability that they will mate, so
+they can afford to be quite picky. Now Darwin recognized these two types of
+sexual selection that broadly referred to as male competition and female choice. And that will be the subject
+of our next video. Thank you, I hope you enjoyed this.

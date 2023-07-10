@@ -1,0 +1,56 @@
+An option is a contract. There's both two sides to any contract,
+there's the buyer of the option and the writer of the option. So there are two kinds of options,
+I've already alluded to that. A call option is a right to buy. A put option is a right to
+sell at your discretion. With a call option,
+you are buying the right to buy something which is specified in the contract
+at a predetermined price. That means you don't
+have to wait to find out what your market price is of that
+item on the day of purchase. It's locked in in advance. But we call it an option because you don't
+have to purchase it, you can wait and see. It's different from a forward contract
+to buy something, because in a forward contract, you are not only having the
+option to buy, you are committed to buy. You signed a contract, a forward contract,
+to buy something in the future. It means, I promise to buy it. Both sides are bound. The buying side of a forward
+contract is bound to buy. The selling side is bound,
+promised, to sell at that price. But options give a choice
+to the buyer of the option. And at the time that the option is bought,
+the buyer of the option compensates the seller, or
+they call it the writer, of the option. Because the writer of the option is now
+subject to the choice in the future of the buyer of the option. And it has to be compensated for
+giving that choice to the other person. So what is the essence of options? Some people think it has
+something to do with free will. That is, that you can do whatever you
+want and maybe you will be happy, happier in the future if you buy it,
+or maybe you won't. You can wait and see. But actually in finance, it doesn't
+have much to do with free will or feelings generally. You will generally buy the option
+if it pays to do that in finance, most people will. So if it's a call option,
+it's an option to buy something. You will buy it on the date
+specified if the price of buying it through
+the option is less than the price of buying it in the open market. Because you will always do that, even if
+you decide you don't want the object, because you can then sell it in
+the open market and make a profit. So options are truncated claims on asset. If it's a call option,
+it means that it's a claim on the price only if it rises above
+the contract option price. So that's the general idea. And so
+let me get a little bit more precise. The contract of the option have these
+terms, an exercise date or a strike date. That's the date when the option expires,
+and you either have to buy if it's a call,
+or sell if it's a put. And if you don't,
+then the option becomes worthless. And forever after it's worthless,
+it's expired. It also specifies as the exercise price or
+a strike price. Which is the price at which you are, in
+a call option case, have the right to buy, and in the put option case,
+where you have the right to sell. The contract also has to
+specify what is the underlying, what is the object that
+has to be bought or sold? And how many of that, if it's shares. Now options are not just for stocks. For example, suppose you are a builder and
+you're building a shopping center. You want to build a shopping
+center in the city, near a city. So you look around and you find, well, there's some farmland
+here that looks well-positioned. Maybe I want to build my shopping
+center on this guy's farm. But he's a farmer, right? He doesn't know you're coming. So you walk over to him and you say,
+I'd like to buy an option on your farm. We haven't really finalized this
+deal to build a shopping center, but maybe we'll change our mind. But we want to know that
+we can get your farm. And the farmer might first say,
+no way, you want my farm? [LAUGH] And then you say,
+look, it's just an option. If it expires unused,
+you just keep the money. So maybe the farmer will do that. And he'll think about it and say, well,
+the guy is offering me money right now, maybe nothing will come of it. So that's an example of an option. And it undoubtedly has a long history. There must have been many times,
+going back to Sumerian times, if you listen to Bill Getzman [LAUGH],
+when people thought of that. I'm thinking of buying something, but I don't know that the seller is willing
+to sell, so you would buy an option.

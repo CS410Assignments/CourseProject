@@ -1,0 +1,95 @@
+[MUSIC] Hi, welcome back to cyber security for everyone. I'm Dr. Charles Harry. In our last episode we
+talked about activists. And in this episode, I want to talk
+about a different type of threat actor. The advanced persistent threat. Now recall that threat
+actors take advantage of specific vulnerability in systems. They leveraged their skill and resources
+to achieve very specific end effects and they are motivated by different things. So who are the advanced
+persistent threats? And specifically we may
+want to ask ourselves, why do we call it an advanced
+persistent threat? On a very high level they are advanced. These are the pros these
+are the big leagues of hacking. They're persistent in the sense that they
+persistently engaged with their targets. They're relentless. If there is an objective to be had,
+they're going to persistently engage against that target and
+of course they remain a threat. These are highly skilled
+hacking organizations. These are not running
+the mill basement hackers. These are folks with deep training and
+resources. They mostly are tied to nation states or
+aligned with their geopolitical goals. So these are folks who are aligned
+with specific governments and who have their training and backing. They leverage highly customized tools,
+tradecraft and infrastructure. So let's talk a little
+bit about their motives. Well, as you might imagine,
+there are a variety. Their first motive maybe espionage. They may want to engage in
+stealing trade secrets or classified information or
+even highly relevant policy information ahead of in the lead up to a very
+large international conference. They may engage in industrial espionage. There might be a real interest in stealing
+very specific corporations, trade secrets. Things like a secret formula for
+producing steel. They may also be interested in
+sabotaging competitors operations. Additionally, they may be a general
+interest in engaging in sabotage. The ability for one country to engage in
+a low intensity conflict against another. All designed to be a set of operations
+to achieve a broader set of national objectives. And finally, there may be general
+support to military operations. So advanced, persistent threats may help
+amplify kinetic military operations. So in addition to flying those bombers and
+dropping munitions, we may also engage in hacking activity to do things
+like take down an electrical grid. We can also see APTs utilizing their
+capabilities to become what we call an asymmetric form of attack
+in a response to a stronger power. And so if one country has
+a more dominant military, another country who may want to respond in
+a kinetic way may not be very successful. However, in cyberspace,
+they may be more effective. So they do what's called
+an asymmetric attack. So let's talk a little more
+about the tools that APTs use. So we see a lot of custom tools. So unlike the hobbyists who
+are primarily using Cali Lennox or even the activists who use
+a lot of Cali Lennox utilities. Custom tools are the name
+of the game here in Apts. Standard and custom tools for
+reconnaissance are used. Standard and
+custom exploitation techniques. This is important. When we see a lot of
+custom techniques used, it's not like APTs have forgotten
+a lot of the standard capabilities and in some cases standard
+capabilities may work just fine. But we also see a lot of
+custom tactics for delivery, to additionally supplement
+standard techniques. So the idea here is that APTs will
+use everything at their disposal. Not simply the standard tools
+that everyone else is using, but they will develop their own and
+they develop their own tradecraft. So what kind of attacks would
+do we expect to see from an APT. Well we see deep penetrations
+into sensitive government and corporate networks and
+even their phone systems. We see large scale disruptive
+campaigns to cripple critical infrastructure to do things
+like take down a power grid. In fact in the case of the Ukraine
+we've seen to power events where an APT Operation took down power
+on two separate occasions. That's a pretty significant end effect. Finally we may see acquired information
+being used as part of a broader disinformation campaign. A lot of the concerns surrounding
+the 2016 election in the United States. Centered around the use of
+information that was acquired from the Democratic National Committee systems. It was seated with information
+that was false and then eventually distributed
+in a disinformation campaign. So who are some of these groups? So Fancy Bear, Energetic Bear,
+Rocket Kitten, Comic Crew, Lazarus Group are all examples
+of APT organizations that are aligned with different nation states. In the case of Fancy and Energetic bear, they tend to be aligned with
+the Russian federation. Rocket kitten is associated
+with the Iranian. Comic Crew is a chinese organization and Lazarus Group is affiliated
+with the north Koreans. So one example, APT 29. Goes by several different Aliases, Cozy Bear, The Duke's Grizzly Steppe and
+several more. The attributed country of
+origin here is Russia. The Russian federation. And it mostly conducts espionage on
+behalf of that Russian federation. The targets mostly include
+Western governments and related NGO organizations,
+non government organizations. And they tend to focus initially
+on kind of a smash and grab, get initial access into the organization
+and still as much information as possible. However, if this, if the organization is
+sensitive enough or important enough, they have the ability to switch over and
+become very stealthy and maintain persistent access in that
+organization for quite some time. So some of the national goals that
+we see APTs achieving are primarily focused around a couple of key industries. Certainly public administration. We see a lot of APTs attacks
+against governments. It makes sense. There's sensitive government information
+that those APT may want to obtain. However, in this case, we also see APTs
+interested in other types of targets. Telecommunications, Utilities are all
+really, really important targets for Apts, especially if they're interested
+in fighting some sort of asymmetric war. So what are some of the take aways? Well, first of all,
+APTs are highly skilled threat actors. These are the pros. These are the best of the best. They are motivated by
+geopolitical concerns. They are tightly aligned with
+nation states and their agendas. They're able to conduct complex
+cyber attacks that can persist for a long period of time. They focus on stealing information from
+governments as well as Corporations. But can also engage in sabotage and
+support to military operations. And we find APT hacking
+groups all over the world. In our next module, we're going to
+explore the process of hacking. We're going to disentangle this term
+that is oftentimes thrown around in popular media. I hope to see you next time.

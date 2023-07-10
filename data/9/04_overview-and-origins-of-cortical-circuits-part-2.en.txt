@@ -1,0 +1,144 @@
+Well, let's talk just a little bit more
+about how information flows through the cortical network.
+So I've already mentioned that our thalamus sends inputs up to layer 4
+providing the main source of drive to this network of cells that populate the
+cerebral cortex. There's also a small input to layer 6.
+but the primary one that seems to have the greatest physiological impact is
+destined for layer 4. Well, from there, cells in layer 4
+interconnect with one another. But they also send major inputs to the
+upper layers of the cerebral cortex, layers 2 and layer 3.
+And once information gets into those upper layers of cortex, it can be broadly
+distributed, so information can go in the horizontal direction from one region of
+layer 3, for example, to a neighboring region of layer 3.
+information can be projected through the corpus callosum to the corresponding
+cortical area in the opposite hemisphere. So there can be long projections that
+come out of theses neurons in layer 3 that enter the white matter, and
+eventually, the corpus callosum. one can also find local connections from
+these cells to nearby neurons within layer 2 and layer 3, as well as
+projections that will drive the activity of neurons down below in what we call our
+infragranular layers, those layers below the granular layer, layer 4, in layers 5
+and 6. Well, those infragranular layers can give
+rise to descending projections. Layer 5 cells can project to a variety of
+structures in more inferior parts of the nervous system including the basal
+ganglia the brainstem, and even the spinal cord for certain regions of the
+cerebral cortex. Cells in layer 6 project back to the
+thalamus, they also provide a return input to layer 4, where this cortical
+circuit got started. Well, what I've been describing for you
+is the flow of information through the cortical microcircuit.
+And we believe that this basic flow of information, this basic circuit structure
+exists across the entire cerebral cortex with some modifications, depending upon
+the different cortical regions in question.
+But this basic flow of information of starting in layer 4, progressing to upper
+cortical layers, then down to lower cortical layers is a common theme of
+cortical processing. Well, the circuitry performs a variety of
+unctions. We're only beginning to scratch the
+surface to truly understand what those functions are, but I want to give you a
+sense of what the function is of this columnar circuit that we find in the
+radial dimension of the cerebral cortex. We call this the canonical microcircuit
+of the cerebral cortex. Well, I'm going to suggest an acronym
+that makes sense in this part of the world, and I hope it might make sense
+wherever you are. Well, if you know anything about Duke
+University, you know that our Athletic Department is pretty important to the
+life of this university. And one sport in particular seems to
+dominate, and that's basketball. Well, for those of you familiar with how
+basketball works in this part of the United States, you're familiar with three
+letters, ACC. But you know that as the name of the
+conference within which our Duke basketball teams compete, that is the
+Atlantic Coast Conference, the ACC. Well, I'm going to suggest that we hijack
+those letters and use it to remember some of the basic functions of this canonical
+microcircuit in the cerebral cortex. I would suggest that the ACC of the
+cortical microcircuit is amplification, computation, and communication.
+Let me tell you what I mean. Let's consider first, amplification.
+So, as I've already described for you, the thalamus provides the principle input
+that modulates activity in cortical networks.
+That activity goes into the middle layers of the cerebral cortex, layer 4, and from
+there, it's amplified. So, one purpose of this network of radial
+connections is to amplify this signal, and once that signal is amplified, then
+new computations are possible. So the networks that we find largely
+emanating out of our upper layers, our supragranular layers can take that
+amplified signal, and now, compute new properties that were not carried with
+that signal as it first entered the cortex.
+We'll see some examples of that when we get into our sensory systems.
+And then, also, from this part of the cortex as well as from deeper layers,
+this information can be communicated broadly.
+And, that communication can happen from one cortical column to the next, from one
+cortical area to another, and even from cortical areas to more distant regions
+that lie below the level of the cerebral cortex.
+So amplification, computation, communication, the ACC of the cortex,
+hopefully, you'll be able to remember that.
+Okay, now I want to finally turn to the question of the organization across the
+extent of the cerebral cortex, and this allows us to return to what we looked at
+earlier, and that is the cellular architecture of the cerebral cortex.
+This is what we refer to as cortical cytoarchitecture, cyto referring,
+referring to cells, and architecture referring to the arrangement of those
+cells. So I would just remind you that neural
+tissue is comprised of a variety of different kinds of cells big cells, small
+cells, from a physiological point of view excitatory neurons, inhibitory neurons,
+those that fire in various kinds of patterns.
+just a tremendously rich diversity of cell types are found in the cerebral
+cortex and these cell types are organized in columns, but those columns have
+different compositions in different parts of the cerebral mantle.
+We see some of them illustrated here in this slide.
+So, for example, if we look in the visual part of the brain, back here in the
+occipital lobe, we see an arrangement of cortex quite similar to what you saw
+earlier in this tutorial. In fact, those histological slides were
+taken from the visual cortex. And, if we moved a little bit more
+anterior into the motor cortex, we'd see something that looks a little bit
+similar, but some things would really stand out.
+One thing that stands out is the presence of these really large cells in layer 5.
+These are called bet cells and they are the largest neurons that we have in the
+cerebral cortex. But there are a little bit more subtle
+differences that you can appreciate once you, have a bit of experience looking at
+the cerebral cortex. You'll notice that while, while the
+granular layer 4 is very prominent in our sensory cortex, it's largely diminished
+in its thickness, as well as the density of cells in our motor cortex.
+That's because the function of the motor cortex is largely to provide output
+rather than to receive input. As we progress towards the more medial
+aspects of the brain and the more ventral part of that cerebral mantle, we
+encounter a region of tissue that is wrapped into the medial edge of the
+temporal lobe. And this tissue is perhaps the most
+simple of all the regions that we find in the cerebral network.
+the anatomists have chosen not to recognize six layers as we do in what we
+call the neocortex or that more phylogenetically modern part of the
+cerebral mantle. And what we find is an older part, a
+paleocortex and even and archicortex. These are terms that we think reflects
+the evolutionary history of the cerebral mantle in the mammalian brain.
+Well, around the turn of the 19th to the 20th century European anatomists began to
+develop a variety of ways of studying the cellular architecture of the cerebral
+cortex. And one individual really stands out
+among many seminal contributors of the time his name was Korbinian Brodmann.
+So Brodmann was a German scientist who studied the cytoarchitecture of the
+cerebral cortex. And he proposed a scheme for recognizing
+divisions of the cerebral cortex that is still with us today and we call these
+Brodmann's areas. That's what's illustrated here in this
+color-coded representation of the cerebral mantle with all of these numbers
+in place. So Brodmann was a fascinating figure and
+it's a really interesting time in the development of modern neuroscience.
+So, if anyone's interested, I would invite them to read a little bit more
+about Brodmann. And for the rest of you you will
+invariably encounter his nomenclature as we talk about different parts of the
+cerebral mantle. So what Brodmann did was he looked under
+the microscope at a Nissl stain and he recognized that different parts of the
+cerebral cortex have a different appearance.
+Very much like what is shown here in this slide that I just showed you.
+And so Brodmann proposed, I think, a rather bold idea and that is, that these
+subtle architectural differences that he recognized in the cerebral cortex had
+functional consequences and his scheme has largely ushered in the modern era of
+neuron science where we come to, recognize that different parts of the
+cerebral mantle are specialized for certain kinds of function.
+Now, we can get a little bit carried away with this conceptualization of the
+cerebral cortex and have an erroneous view that cortical areas function in
+isolation. That would be a mistake because different
+parts of the cortex maintain, very specific interconnections with
+surrounding cortical areas such that the cortex operates as an integrated network.
+But nevertheless, there are networks nested within networks and the
+recognition of Brodmann's areas allows us to talk about those networks in ways that
+allows us to interpret our data. That we're generating with, let's say
+functional magnetic resonance imaging studies as well as the more invasive
+methods that can be done in animal model experiments where were looking at cell to
+cell patterns of, to the function. Well I've hoped you enjoyed this brief
+survey of cortical structure and function.
+We will see application of these principles as we continue to explore our
+sensory and motor systems. And hopefully, this concept of the ACC of
+the cortical microcircuit will be a useful way for you to understand what
+exactly does the cerebral cortex do in neural processing.

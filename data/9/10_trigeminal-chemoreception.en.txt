@@ -1,0 +1,122 @@
+Well welcome to the final component of
+our tutorial on the chemical senses. And in this part, we come to consider the
+trigemnial chemosensory system. So, we continue to explore the complexity
+of the human brain through an analysis of some of the circuitry for sensation
+that's genetically determined. And serves as the foundation for
+sensation, perception, sensorimotor integration.
+And ultimately, the behaviors that are stimulated or motivated by our sensory
+experiences. And we know that the chemical senses can
+be very powerful motivator of behavior. What we come to in this part is a
+consideration of those chemical sensations around the region of the head.
+And inside the head as well, that can give rise to some kind of protective or
+avoidance response. So, my learning objectives for this
+session are that I want you to be able to characterize the the general organization
+of the trigeminal chemosensory system. And secondly, I want you to be able to
+discuss the sensory transduction mechanisms associated with polymodal C
+nociceptive fibers. You'll recall that we talked about these
+kinds of fibers more generally when we considered pain and temperature systems.
+In this brief segment of our tutorial, I want to focus on those polymodal C fibers
+associated with the trigeminal nerve that are intervening sensitive tissues.
+In the head that allow us to respond to the presence of an irritating chemical
+substance in the environment or perhaps one that we ingest.
+So, I'll just remind you of the distribution of the trigeminal nerve.
+These sensory axons associated with the trigeminal nerve, cranial nerve five.
+Have cell bodies in a ganglieon that sits in the base of the skull.
+The sensory axons go out and intervate a variety of fate of a territories a in the
+face and within the head itself. And these branches of the trigenimal are
+basically orgainzed into three principal divisions.
+There is an ophthalmic division, which we sometimes consider to be v1, meaning the
+first superior division of the trigeminal nerve, nerve five.
+There is maxillary division that we sometimes referred to as v2.
+And then finally a mandibular division, that we sometimes refer to as v3.
+So, the distribution of these nerves is a bit beyond the scope of this course.
+So, I won't ask you to know in detail their peripheral structures, but I do
+want you to have a general sense. That there is a distribution of the tri-,
+branches of the trigeminal nerve to these, these different zones of the face.
+So, we can consider the opthalmic region, the maxillary region, and then the
+mandibular region. So the ends of the axons that are a
+concerned for us, are those that give rise to free nerve endings.
+So you'll recall that some subset of these axons are going to terminate as a
+free nerve endings. And at the ends of these axonal branches
+we will find receptors that are part of this transient receptor potentional
+family of receptors. We call these receptors trip channels as
+just a shorthand. So, transient receptor potential channels
+or TRP for short. And they come in a large variety of
+specific molecular species that are tuned for particular types of substances in the
+environment that might activate them. Some are sensitive to heat, to cold, some
+are sensitive to, to acids to protons. Others are sensitive to particular
+chemicals that might be found in the environment or in substances that we come
+in contact with or that we might actually ingest.
+One that's illustrate here is capsaicin. So, capsaicin is the substance that is
+found in many of the hot and spicy foods that many of us actually enjoy consuming.
+While capsaicin can interact with a binding site on the cytoplasmic side of
+some of these trip channels. And can modulate the currents that then
+are gated through these channels. So, when these channels open cations like
+calcium and sodium can enter the terminal end of this free nerve ending leading to
+a depolarization. Perhaps with the influx of calcium, the
+activation of second messenger systems. That can further modify the response of
+this polymodal sea fiber to the presence of these complex stimuli, that might
+include some of these organic compounds in the foods that we eat.
+Or the, environments that we come in contact with.
+So, sensory transduction then is about activation of these trip channels that
+will lead to depolarization of the terminal membrane.
+And the generation of an action potential and potentially more complex responses
+within the cell that are mediated by increased levels of calcium.
+Now, I'll just remind you of the central processing of these trigeminal signals.
+So, we're talking about the no susceptive division of the trigeminal nerve and its
+branches. And these axons, then, are derived from
+ganglion cells that send a central process through the trigeminal nerve.
+Which then descends and forms the spinal trigeminal tract.
+The spinal trigeminal tract then synapses on second order neurons that are
+distributed just on the medial side of the tract called the spinal trigeminal
+nucleus. And these cells grow an axon that crosses
+the midline. And asense, through the tegmentum of the
+brain stem, in a region near by the anterolateral system axons.
+And these second order pain fibers then, terminate in the ventral posterior
+complex of the thalamus and the medial part of that complex or ventral posterior
+medial nucleus. An the third order neuron then is the
+one, that relays, signals, from the thalamus, on up to the appropriate
+location in the cortex. An when we're talking about
+representation of facial structures, an oral structures, we're talking about the
+inferior third of the cortex. And even down into that part of the
+parietal operculum that's buried in the depths of the lateral fissure.
+Now this pathway that I've just illustrated for you, from peripheral
+nerve process to cortex, will allow our interactions with potentially irritating
+substances. Either in our mouth, or perhaps on our
+corneas, or in the mucous membrane within our nasal epithelium.
+these interactions are processed at a conscious level.
+But they are also integrated at a lower level of processing, where appropriate
+motor responses are triggered in a reflexive sort of way.
+So, for example, what happens if one were to sniff ammonia salts?
+Well, a signal would very quickly enter the brain stem.
+Synapse on the appropriate neurons in the spinal tregeminal nucleus.
+And in addition to the axon that projects on up into the thalamus.
+They are very likely going to be local collaterals into networks of neurons that
+we associate with the core of the brain stem, something we call the reticular
+formation. Some of these neurons will very quickly
+integrate an appropriate motor response, such as a cough or a sneeze.
+This is a coordinated visceral and somatic motor response to try to expel
+the irritating chemical. Well, perhaps, the irritating chemical
+encounters the cornea or the conjunctival tissues around the margins of our globe,
+our eye. Well these irritations, will likewise
+into the brainstem, and interact with local circuits, that coordinate an
+appropriate visceral motor response. In the case of corneal irritation that
+response would be the tearing up of the surface of the eye.
+And those tears will be an attempt to dilute, and to wash away the presence of
+this noxious compound, that's interacted with these peripheral surfaces.
+So, my point here is that there is a rich set of local connections.
+That engage brain stem circuits, that can produce the appropriate visceral motor
+and somatic motor response that minimizes the damage.
+That potentially might be done through the transection of one of these
+potentially irritating chemicals. Well, I'll conclude the chemical senses
+at this point and there'll be a study question for you.
+That hopefully will help you integrate some of what you're learning.
+And otherwise, this is a bit of a juncture for us.
+We're concluding our survey of the chemical senses.
+And this will conclude unit three of the course, and we're ready to pivot.
+And take on and understanding of the motor systems.
+That are present within our brain and our spinal cord.
+So, the neurobiological control of movement, and motor control is the topic
+of unit four. So, I look forward to seeing you on the
+other side of the unit three quiz. As we engage together, to explore the
+motor systems of the brain and spinal cord.

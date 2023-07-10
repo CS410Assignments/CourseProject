@@ -1,0 +1,154 @@
+Welcome back to introduction
+to genetics and evolution. In the previous videos we talked about
+the process of recombination and specifically the sub-process
+of crossing over. We talked about using the fraction of recombinant offspring to figure
+out how far apart genes were. In this video we'll talk about how to
+leverage that calculation to generate a map using three or more genes. And basically to figure out the order
+genes are along a chromosome without having to get
+its full DNA sequence. So what if you have three genes? Let's say that you have three genes,
+A, B and C. And let's say you know
+the phase of these genes where all the capitals came from one pair, all
+the lower cases came from another pair. You have the heterozygote, so it's big A
+little a, big B little b, Big C little c. But in this phase as depicted here, and
+you're crossing it to the little a, little b, little c. Just like what we did in
+the previous video as a test cross. Okay, now you know the parental phase
+is ABC, capitals or all lowercase's. But what is the linear order? Now what you don't know is,
+is this the order? Is B between A and C, or is it this
+order where A is between B and C, or is it this order where
+C is between A and B? The real answer is you don't know, so
+this is what we're gonna try to calculate. Let's look at this,
+which of these is parental? Which of the set of possible
+offspring is parental? Now these top two individuals
+are definitely parental, right? Because they have the full combination. Capital A, capital B, capital C and
+lowercase a and lowercase b and lowercase c. These other ones all have some
+sort of recombination event that's happened in there. We don't know the details. Let's put some numbers in
+there to see what happened. Here are some numbers. Maybe you scored either molecular
+markers or phenotypic markers and you get these sorts of numbers here. Now, the top two, the parental types,
+are always gonna be the most abundant. You will nearly always see that. At worst they'll be equal to the others,
+but more typically they will be more abundant if you're looking at
+genes along the same chromosome. We have a bunch of much
+rarer types going down. Now what I'd like to do is I'd
+like to dissect the problem. Rather than trying to look at A, B, and
+C simultaneously, let's just ignore C for a minute and just look at A and B, okay? So just looking at A and B we can
+identify the top two are parental again. They have big A and big B together. Little a and little b together
+which matches the phases found in the original parent. The next two are recombinant. You have big A with a little b. And little a with big B. The next one is actually parental. This is important. The next one is parental-like. They're still big A, big B, and little a,
+little b, even though we know the C is out of phase with the others with
+respect to the parents, but again, we're breaking down
+the problem just to look at A and B. Okay. And the bottom one here as recombinant. Big A, little b, and
+little a and big B are together. So when we add these up,
+what fraction are recombinant. Well, it's 15 plus 13 plus one plus one so
+it adds up to 30. That's a total of 30. The total here is 1,000 if you add
+up all those numbers together. So, our recombination fraction,
+in this case, would be 3%, or 0.03. So that is the recombination
+distance between A and B. Okay?
+So we calculate that, that's between A and B. Three centimorgans apart, or
+.03 recombination fractions. What about between A and
+C, between B and C? Well, we can repeat the same process,
+let's go ahead and do that, between A and
+C which ones are recombinant. This would be recombinant between A and C. This would be recombinant between A and C. This would be recombinant, and
+this would be recombinant between A and C. The bottom one would actually
+be parental for A and C. Because you see the capital A and
+capital C are together. Or lowercase a and
+lowercase c are together. So, between A and C,
+we have 18 and 13 is 31. 31 and 15. It's 46. 46 over 1,000. Okay. What about between B and C? Which ones are recombinant? Which ones are parental? I'll change the color of my diagram here. Between B and C, this would be parental,
+this would be parental. This would be recombinant. This would be recombinant, cuz again
+big B, little c, little b, big C. This would be recombinant,
+this would be recombinant. So in this case we have 20/1000 would
+be recombinant between B and C. So let's put all these numbers together. There we go, so we have between A and
+B we have three centimorgans. A and C we have 4.6 centimorgans. B and C, we have two similar. So, we can, from this, figure out
+the layer or order genes, right? What should happen is the distance from,
+from one at one end to the middle plus from the middle to the other end, should
+be about the same as the total distance. Imagine that you're going from,
+say New York to Florida. So you have three points, New York,
+Washington D.C. and Florida. If you add the distance from
+New York to Washington D.C., and distance from Washington D.C. to Florida, that should be about the same
+as the distance from New York to Florida. So in this case, we can do that. We can say, because of this A and
+C must be on the outside. So you have to have A at one end,
+C at the other end, and therefore necessarily,
+B will be in the middle. So this would be the correct order. Right?
+Because here we have, distance from A to B is about three,
+distance from B to C is about two. The total of the two is close to five,
+it would round up to five. So now you may be wondering
+why don't AB + BC, why don't those two distances
+add up exactly right? Why doesn't it add up exactly to 4.6? Well the reason is something
+you actually noticed when we were calculating these numbers. Is that we have two things that
+we're calling parental, but they're actually recombinant. Here in the bottom two,
+this individual and this individual, we are counting as parental for A and C,
+but in fact they are double crossovers. So not only should they be counted,
+but they should be counted twice, but we didn't do that. So this is why it doesn't
+quite add up exactly. We'll come back to this in just a second,
+but first let me emphasize a different point. When you're trying to figure
+out the linear order of genes there's a few tricks you can use. First, if all the loci
+are linked at some level and I don't mean completely linked, but
+I mean they're on, for example, the same chromosome and
+reasonable close together. The largest two, the combinations
+which are the most abundant. So that's just what we saw
+last time with capital A, capital B, capital C lowercase a,
+lowercase b, lowercase c. Those will always be the original
+non-recombinant parentals. So that will help you determine the phase. The smallest two, basically the numbers
+that are the least frequent, so this is what we saw in the previous
+slide of capital A and little b capital C. Or lowercase a big B little c. Those would be the double crossover. Why is that? Why is the smallest two
+a double crossover? Let me go back just to show you that for
+a second. These down here were
+the double crossover types. I see that they were the least abundant
+among all of the offspring, so why is that the case? Well again, double crossovers, there were
+basically two things happening together. So in this case we have the little a, big
+B, little c as a double crossover gamete. So imagine that you have a 1% chance
+of recombination between A and B and a 1% chance of recombination between B and
+C. Then what would happen is you could
+actually multiply these two probabilities so it'd be a 0.01% chance
+of a double crossover. Essentially, you're
+taking a rare thing and multiplying by the probability of
+another rare thing to get this double crossover class, it'll always be the
+rarest class from any particular cross. And again, you can identify
+which marker's in the middle because it'll be that rarest class. The alleles at two markers will be
+parental relative to each other, while the allele at the third
+will be recombinant. So, we could have immediately looked
+at the previous slide and said oh, I see that little a, big B,
+little c is the least frequent Category, therefore this must be
+the double recombinant. If you notice, the double recombinant, you immediately know that this one
+must be the one that's in the middle. So we can leverage this,
+here's an example. This is not the same as
+the previous example, although this adds up
+to a thousand as well. Look at this quickly, which one would be
+parental, look at the set of numbers. Which two types would be parental? The parental group would be the most
+abundant group, so clearly in this case, the most abundant group is capital A,
+capital B, capital C, and lowercase a, lowercase b, lowercase c. That establishes your phase already, so we
+know that the person who we're measuring recombination, and
+would look something like this. What is the rarest combination,
+what are the rarest two combinations here? In this case, appears to be these two. So what we said is that
+this would necessarily be the double recombinant class. Given that, when we look at it, A and B are in the same phase relative to
+the parents, C is in a different phase. A and B are in the same phase relative to
+the parent, C is in a different phase. So this case we can infer,
+the order is actually A, C, B, and then we can calculate the distance
+between these pairs of genes. So, why don't you go ahead and
+give that a shot. See if you can calculate
+the distance between them, you can look online to see
+if you got the right answer. What would it mean if you
+got map distances like this? Let's say, between A and
+B you got 11% recombination, between B and C you got 49% recombination and
+between A and C you got 50% recombination? What would that mean? Well there's a couple
+of possibilities here. Now it could mean that A and
+B are reasonably close together, and C is really far away on
+the same chromosome, right? Just because you have recombination
+fraction of 50% doesn't necessarily mean they're
+on different chromosomes. Could also mean they are on
+different chromosomes. Right?
+So you could add this or this is on one chromosome,
+this is another chromosome. You can have this, or
+you could even have this other order. Basically, one point I just wanna toss
+out there for you is that above about 40% map distances are very inaccurate and
+maybe basically, 50%. So, I wouldn't ever trust,
+when you're determining an order of genes, any map distance you see
+that's more than 40%. Because, at that point,
+you really just have no information. So if you have something like this, where A and B is 11%, B and C is 49,
+or even 43%, or something like that. A and C is 50%, or even 45%. Basically, you don't know
+how far apart these are. You just know that A and B are linked. So all the information you have in
+this case, is that A and B are nearby, and you have no idea where C is. C could be really far out this way on
+the chromosome, it could be really far out that way on the chromosome, or
+it could be on a different chromosome. I just want to emphasize that because
+some people use these numbers as though they have this absolute precision to them
+but we're actually measuring rare events. So when you get something
+on the order of 49%, or really anything above about 40%,
+don't have too much faith in that number. Okay?
+Well thank you very much for listening, and I hope you found this enjoyable.

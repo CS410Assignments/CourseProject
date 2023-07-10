@@ -1,0 +1,194 @@
+Okay, so, we've been talking about our
+first order neurons and their organization in the periphery and just a little bit
+about their organization as they enter the central nervous system.
+We're going to devote an entire tutorial to following the pathway by which the
+first order neuron eventually communicates with higher structure in the fore-brain.
+So, we won't look at those details now, but I do want to jump to identify what are
+those centers, that are involved in processing mechanism sensation in the
+for-brain and give you just a little bit about the physiology.
+So let's begin with talking about the somatic sensory division of the thalamus.
+So, there's a brief tutorial that talks about the thalamus to get you oriented to
+this part of the forebrain. For now I'll just remind you that the
+thalamus is derived from the diencephalon which is part of the forebrain that the
+prosencephalon and it's the more dorsal posterior part of the diencephalon with a
+hypothalamus being more ventral interior. Well the thalamus as my other tutorial
+goes into it more detailed is divided into a number of nucleoli and those nucleoli
+relate to a particular part of the cerebral cortex.
+So if we were to look at the cerebral cortex we could identify just about any
+region that we may decide to poke at, and ask, what is the thalamic nucleus that
+projects to this region of the cerebral cortex?
+And, and we'll have a different answer for most different sites in the cerebral
+mantle that we might inquire about. Well, if we focus on the postcentral
+gyrus, which is right here that's, as we'll talk about in just a moment, is our
+primary somatic sensory cortex. There's a particular part of the thalamus
+that maintains interconnections with this postcentral gyrus.
+That part is exactly the part of the thalamus that receives the ascending
+information about mechano-sensation. That part is what we might call the
+somatic sensory thalamus. And we have some anatomical names to give
+it. We call it the ventral posterior complex
+of the thalamus. And that ventral posterior complex is
+divided into two main nuclei. There is a division called the ventral
+posterior lateral nucleus, and a division called the ventral posterior medial
+nucleus. And the division there bascially reflects
+the terminations of our, pairs of pathways that are representing the body from the
+posterior part of the head on down. And then a different pathway conveying
+mechanosensation for the face. So for the body below the back of the
+head, we have signals arriving in the ventral posterior lateral nucleus.
+Where our signals concerning mechanosensory activation of facial
+structures arrive in our ventral posterior medial nucleus.
+So now we're ready to consider what happens to the somatic sensory
+information. As the thalamus communicates it up to the
+level of the cerebral cortex, and that gets us into our postcentral gyrus.
+So here, once again, is the postcentral gyrus in my model of the human brain here.
+And this is where we're going to find the region of cortex that we call the primary
+somatic sensory cortex. The reason why it's primary is that it's
+the first part of the cortex to receive input about mechanosensory information.
+And in anatomical terms, it's the part of the cortex that receives input from the
+somatosensory thalamus. That is, the ventral posterior lateral and
+ventral posterior medial nuclei . And as we'll see, the ventral posterior
+lateral nucleus projects from the para-central lobule in the mid line of the
+hemisphere, along this post central gyrus as it extends across the dorsal and
+lateral aspects of the cerebral hemisphere.
+Until we get to about two thirds the distance between the mid line and the
+lateral fissure. When we get to about this region now the
+rest of the postcentral gyrus is receiving input not from the VPL but from the VPM,
+the ventral posterior medial nucleus. This explains why, in the mapping of the
+body that we're, we will see in just a moment, there's a disjunction between the
+representation of the hand and the representation of the face.
+It's basically the boundary between the projection zone from the VPL and the VPM.
+Okay, well let's look at this now in a bit more detail.
+So here we have an illustration from your text which shows us our primary semantic
+sensory cortex which we call s1 for short. So it's found in the post central gyrus.
+And it's comprised of four cytoarchitect tectoniclly distinct regions of the human
+brain that Korbinian Brodmann named over 100 years ago.
+Areas two, one, and areas three and workers after Brodmann subdivided area
+summary into an area 3A in an area 3B. So from posterior to interior, they're
+areas 2, 1, 3b, then 3a right at the depth of the central sulcus.
+So in each of these cortical areas we have a complete representation of the opposite
+side of the body, and that representation Is beautifully mapped out.
+We call this somatotopy which means body mapping.
+And the way the body mapping works is that the distal part of the lower extremity is
+represented in the midline. Right at the medial termination of the
+post-central gyrus in this region that we call the paracentral lobule.
+So this is essentially where we find the representation of the contralateral foot.
+And as we progress over the dorsal rim of the hemisphere And on to the dorsal
+lateral surface of the postcentral gyrus, the body map progresses from the foot up
+the lower extremity, and then into the region of the trunk.
+And then from the region of the trunk, we encounter the shoulder, and then we get
+into the upper extremity. And where the central sulcus has a fairly
+distinctive curve in it, that's the region where we find an expansive representation
+of the contralateral hand. Now, notice we have not yet encountered
+the face. That's because as I just mentioned.
+The face is conveyed by inputs from the ventral posterior medial nucleus of the
+thalamus, which terminates in this inferior segment of the postcentral gyrus.
+So just below this S-shaped bend in the central sulcus we have a junction between.
+The representation of the hand and the representation of the face.
+The illustration that we have in front of us shows us the detail of that body
+mapping and it truly is an exquisite mapping of the body.
+With the progression from lower extremity through the upper extremity.
+And then, a disjunction, where we then have a break.
+And the representation of the face in the inferior third or so of the post central
+gyrus. Now, there's a wonderful story about, a
+famous neurosurgeon at the Montreal Neurological Institute, Wilder Penfield
+and his assistant. And, there's some discussion as to how
+much of this is really true or not. But evidently the assistant is the one who
+suggested to Dr. Pennfield that this distorted
+representation of the human body be represented in a simple cartoon.
+And so that's the cartoon that we see here in panel c.
+This is called the little man, or the homunculus.
+And this is a illustration you've probably seen before.
+It's intended to communicate the idea that, in the post central gyrii, taking
+the two hemispheres together We have a complete representation of the body, but
+that representation is distorted. Those body parts that provide us with the
+greatest spacial acuity and the greatest sensitivity to mechano-sensory stimuli are
+hugely represented in the brain. And they're represented in these
+distinctive features of the postcentral gyrus.
+The hands are represented where the central sulcus has that S shape where the
+two gyri interdigitate against each other. And then the face is represented in that
+inferior segment of the postcentral gyrus. Whereas the remaining parts of the body
+are not nearly as magnified. We call this phenomenon cortical
+magnification, which has to do with how much more does cortical circuitry magnify
+the representation of the body that's otherwise related to the density of
+peripheral receptors, the density of neurons at all the antecedent stations in
+the somatic sensory pathway. Well the up shot here is that the
+homunculus makes very clear that the important somatic sensory surfaces for us
+as humans would be our hands and our face especially the facial structures around
+the mouth and the tips of our fingers. Now before we leave the primary
+somatosensory cortex, I do just want to comment on the functions of these four
+paralell body maps. You, you may find that curious, and
+frankly, a lot of us find it somewhat curious.
+But there do seem to be distinctive receptive field properties that are
+represented In these four different maps of the body.
+One might suggest that area three, being subdivided into three a and three b is
+truly the primary somatic sensory cortex, from a physiological perspective.
+Whereas areas one and two seem to process a more higher.
+Order aspect of somatic sensation. Area 3a is especially concerned with our
+proprioceptors. Those receptors that are found in deeper
+structures, such as our muscle spindles, and our golgi tendon organs and our joint
+receptors. Where as area 3B is more concerned with
+cutaneous receptors. So area 3B is more cutaneous, is going to
+be more concerned with like touch for example the then the movements of our
+muscles and joints. Now once we get into areas wanted to wear
+encountering more complex aspects of somatic sensory processing.
+Area one for example is going to respond to complex stimuli activating multiple
+skin surfaces. For example, over multiple fingertips and
+perhaps responding selectively to a particular pattern of motion.
+Our fingers passing over a counter surface from left to right, for example.
+Area two seems to be concerned more so with the shapes of objects that we
+encounter. So it suggests there is some kind of
+computation of lower level signals into more higher order signals that begin to
+build up a sense of structure. In our somatic sensory interactions with
+the world. Okay, and so finally let's consider what
+happens to this information beyond the primary somatic sensory cortex.
+What we discovered is that the primary somatic sensory cortex being at this level
+here. Has extensive interconnections with other
+parts of the brain. There is something that we recognize as a
+secondary somatic sensory cortex. That is in the inferior and posterior
+aspect of the parietal lobe perhaps also involving the posterior aspect of the
+insula. And this secondary somatosensory cortex
+receives input from our primary areas. And from there, that information is
+further elaborated in a hgher order sort of way, and passed into structures in the
+medial part of the temporal lobe that are going to be important for making memories.
+And for interacting with our emotional networks.
+So, that involves the hippocampus and the amygdala respectively.
+Areas one and two, likewise project into our secondary somatic sensory cortex, but
+area two in particular, the one concerned with more complex geometrical aspects of
+somatic sensation projects into parts of the parietal lobe that sit just posterior
+to it in the superior parietal labial and these parts of the parietal cortex seem to
+be especially concerned with our orientation relative to the environment.
+So there's a, a spatial mapping that's going on here in this part of the brain.
+And that mapping is used to drive our motor system to interact with the world in
+a appropriate way so, for example imagine a visually guided reach that is a means of
+directing or somatic sensory surfaces towards a particular goal.
+Well that's going to be integrated through parietal and frontal networks, most likely
+involving the superior parietal lobule region.
+Okay. Well, this has been a very quick sense of
+cortical processing in the somatic sensory system.
+There are so many big questions that we have yet to address.
+Such as how does perception actually work. How is it that we can have for example the
+inner grated sensation that one might experience when holding a snow ball or an
+ice cube or maybe immersing a finger in a cup of tea.
+Consider those experiences were combing a sensation of shape with structure with a
+sense of texture and a sense of temperature and just maybe a sense of pain
+as well. I've been emphasizing the concept of label
+lines and parallel processing But at some point in our perception we unite these
+labeled lines into a solitary percept. And it's still not clear to
+neuroscientists how that unity of representation occurs.
+There may not be an anatomical explanation for that perceptual sense of unity.
+There may be other physiological means to build up that percept and this is all
+under active investigation. So hopefully this tutorial has given you a
+framework for understanding how mechanicization works and will also help
+you to put the anatomical pieces together when we look in a different tutorial in
+detail at the organization of the somatic sensory pathways.
+So I'll see you then when we consider that interestting anatomy that gets us from
+skin to cortex. Well, finally, before I leave you to this
+tutorial, I want to suggest a, study question that begins to apply this
+knowledge in the clinical domain. I want you to consider what would happen
+If a patient were to suffer a stroke involving the middle cerebral artery.
+And I want you to think about such a stroke occurring in the right hemisphere.
+Okay? Now, I've given you a bunch of options to
+think through, and they all begin with this word, anesthesia.
+And anesthesia implies lack of somatic sensory sensation, particularly in the
+domain of mechano-sensation. So consider these options, and go ahead
+and indicate in one form or another, what you consider to be the best choice among
+this set of options. I'll see you next time.

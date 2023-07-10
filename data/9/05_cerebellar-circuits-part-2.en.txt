@@ -1,0 +1,177 @@
+Okay.
+Now let's have a deeper look into the cortex of the cerebellum.
+And I want to tell you about some of the important neurons that we find there.
+the principal neuron that we find in the cerebellum is a very large neuron called
+the Purkinje cell. And it's really a, one of the most
+beautiful neurons that you'll ever want to see under the microscope.
+Its a very large cell body that gives rise to these incredibly complex
+branching patterns of dendrites and this illustration of course can not do
+justice. To the form and the beauty of the
+Purkinje cell and it's dendritic arbor. Now this Percengi cell is the principle
+integrator of inputs that are coming into the Cerebellar cortex.
+And it's receiving a massive input. From the axons of these really tiny cells
+that account for the majority of the cells that we find in the cerebellum.
+The cells in question here are the granule cells of the cerebellum.
+Very small types of, of neuronal cell bodies that grow an axon out towards the
+outer part of the cortex of the cerebellum.
+And then that axon splits into two parts. And now these two parts can grow for some
+considerable length. In parallel along a folium that forms the
+folding of the cerebellar cortext. So these are called parallel fibers
+because they are growing in parallel. To one another and parallel to the
+organization of the folio of the cerebellum.
+Now it's difficult to appreciate this fact in the illustration but the
+organization of the Purkinje dendrites are orthogonal to the parallel fibers
+that are running through them. In fact, if one were to look at a
+Purkinje cell, one would find a remarkable geometry to its dendrites.
+While most neurons in the brain grow dendrites in all different directions the
+Purkinje cells grow their dendrites. And a very narrow plane.
+Much like the fingers of my hand are extending in a narrow plane.
+Well, I brought a little bit of a visual aid that hopefully will illustrate for
+you what these Purkinje cell dendrites actually look like.
+What I brought to show you is my Purkinje neuron of the sea as I like to think of
+this. Well actually no this is not a Purkinje
+neuron this is a sea fan which is a type of coral that grows in the ocean waters.
+And what's distinctive about this sea fan is that the arborizations of its
+dendritic structure is restricted to a very narrow plane.
+In the same way that the dendrites of the Purkinje cells are constrained in In a
+very narrow plain. Now, what you have to imagine, is this
+single plain is orthogonal to this massive system of parallel fibers.
+In fact, this input a pair of parallel fibers to the purkinje cells provides the
+most extreme form of convergence that we know about nueral circuits.
+Perhaps as many 100,000 or even 200,000 individual parallel fibers will be
+running through this beautifully intricate lattice work of dendrite.
+That is arranged to sample these massive parallel fibers that are running through
+it. Let me tell you just a little bit now
+about the inputs. And then, that will get us into a bit of
+the neurochemistry and the physiology of how this circuitry works.
+Now the Granule cells Are getting input from mossy fibers.
+So here's a mossy fiber that's growing in, and it's making synaptic contact in a
+very particular morphological structure that we call a grammiralus here.
+And there are other inter-neurons involved as well that I won't take the
+time to mention. for now I'll just emphasize that the
+mossy fiber and again that's all the inputs to the cerebellum except for that
+special inferior olivary input. These mossy fibers are synapsing on the
+dendrites to the Granule cells and this is an excitatory synaps, so the mossy
+fiber's exciting the Granule cell. The Granule cell gives rise to these
+massive parallel fibers that make an excitatory synaptic connection onto the
+dendrites of the Purkinje neuron. So the granule cell parallel fibers then
+are exciting the Purkinje cell. Well, the Purkinje cells send their axons
+down through the white matter where they synapse on cells in the deep cerebellar
+nuclei. Now, the synapse between the Purkinje
+cell and the deep cerebellar nucleus is an inhibitory synapse, because the
+Purkinje cells release. GABA, as their neurotransmitter.
+And they interact with receptors that mediate an inhibitory influence of that
+neurotransmitter in the deep cerebellar nucleus neuron.
+So, notice we have two excitatory connections in series, and then an
+inhibitory connection, which can fundamentally alter the way the deep
+cerebellar nucleus integrates It's own input.
+One final special input to highlight here in this illustration, and that would be
+the Climbing fiber. So the Climbing fiber is again derived
+from the inferior olivary nucleus, and now in this figure we get a sense of why
+it's called the Climbing fiber. This axon makes contact with a single
+Purkinje cell, and then wraps its axons around the proximal dendrites of these
+Purkinje neurons with intimate contact. Suggesting a very powerful synaptic
+relationship between this climbing fiber and the Purkinje cell.
+Indeed it is, one of the most powerful synapses that we know in the mammalian
+brain. Okay, let me take you through this
+circuitry again in a somewhat schematic way.
+And try to help you understand the nature of the computations that might be going
+on here. So let's look at the illustration that
+shows us the neurons and the synaptic inputs, and talk once again through the
+connections that link the inputs to the cerebellum to the cortical circuits.
+So the inputs to the cerebellum in the form of the mossy fibers come, and they
+make synaptic connections with the granule cells.
+They also send branches down into the deep cerebellar nuclei, and they release
+excitatory transmitters. Now, the Granule cells give rise to these
+long, bifurcating axons that that form these parallel fibers which then make
+synaptic connections with the Purkinje cells.
+And then the Purkinje neurons, integrate those parallel fiber inputs.
+And then send their axons down, to the deep cerebellar nuclei where they release
+gamma amino butyric acid, GABA, onto the deep cerebellar nucleus neuron.
+Meanwhile, there is a climbing fiber involved.
+So, the Climbing fiber. gives rise to inputs at both the level of
+the deep nuclei. And also, of course, this very special
+intimate relationship between the climbing fiber and the proximal dendrite
+to the Purkinje cell. Where there is this massively strong and
+excitatory connection. So, we'll come back to this when we talk
+about plasticity in just a moment. But, to put all this in action, I would
+suggest that we conceptualize these connections as consisting of a deep or
+main excitatory loop. And a cortical inhibitory loop that runs
+through the Purkinje neuron and back down to the deep cerebellar nucleus.
+So, so here's what I have in mind, there is excitatory input that comes into the
+deep cerebellar nucleus. And meanwhile, there is a transformation
+of that excitatory input into an inhibitory signal, that can then modulate
+the output of that excitatory neuron from the deep cerebellar nucleus.
+And as we'll emphasize, the output from the cerebellum.
+Really comes from this deep nucleus, okay.
+So the Purkinje cell then is in a position to, to chop or to modulate the
+activity of that deep cerebellar nucleus neuron.
+And the way motor learning seems to work. And the way synaptic plasticity in the
+cerebellum seems to work, is to acutally modify the strength of this inhibition
+that is conveyed from the Purkinje cell down into the deep cerebellar nucleus.
+Now, knowing that this is an inhibitory connection.
+If one imagined that motor learning is consistent with a stronger output from
+the cerebellum. One way to provide that stronger output.
+Would be to weaken this input coming down from the Cerebellar cortex.
+So if we were to reduce that synaptic inhibition, we'd have the effect of
+actually strengthening this connection by which the deep cerebellar nuclei
+influence the operation of upper motor neuron circuits.
+Well let's now have a look and see how this actually happens.
+So here is a view of the circuitry again with a bit more realism attached to the
+dendrites and the Purkinje cell. And the relationship for the parallel
+fibers to those dendrites, as well as the climbing fiber.
+Now, imagine it were possible to do the following experiment.
+Where we can record from the dendrites of a Purkinje cell.
+And, measure the post synaptic response. Following activation of parallel fibers
+and climbing fibers. And, if we do an experiment such that we
+combine low frequency stimulation of the climbing fiber at the same time that we
+activate the parallel fibers. What we find is that there is a
+depression, of the strength of the synapse between the parallel fiber and
+the Purkinje cell. That is expressed over the next, 10 to 20
+minutes or so. And can persist for a very long time.
+So the form of synaptic plasticity that we see here in the cerebellar cortex is
+long term depression. And that can be measured here in this
+experimental record, where there's a recording of the excitatory post synaptic
+amplitude at the parallel fiber Purkinje cell synapse.
+And with conjoint stimulation of both climbing fiber and parallel fiber, now we
+see over time a decline to about 50% or so of the amplitude of that excitatory
+post synaptic connection. [SOUND] The means by which this synapse
+weakened should be somewhat familiar to you.
+Although there are a few surprises in the metabolic cascade that leads to
+activation of the synaptic connections and the weakining of the synapse.
+The part that should be familiar to you is the notion that one way to weaken a
+synapse would be to internalize AMPA receptors.
+And indeed this is the molecular mechanism that expresses long term
+depression at this synaptic connection. The trigger then induces this
+internalization it's perhaps a bit unexpected.
+It involves glutamate as have our other mechanisms of synaptic plasticity that we
+discussed. Except the NMDA receptor does not appear
+to be involved in this story. Rather, the receptor that mediates this
+phenomenon is a metapatropic glutemate receptor.
+And glutamate is released at the parallel fiber synapse.
+It interacts with this Metabatropic receptor.
+For glutamate. This engages a cascade of second
+messenger systems that liberate calcium from intracellular stores.
+So, there is a sudden increase in calcium following the activation of these second
+messenger systems. But that release of calcium doesn't seem
+to be sufficient to cause robust internalization of AMPA receptors.
+So we need to get more calcium into this postsynaptic spine rapidly.
+And the way that happens is through activation of our climbing fiber system.
+So, with the activation of the climbing fiber, there will be a massive
+depolarization of this dendrite. again the climbing fiber synapse is one
+of the strongest synapses that we know about within the central nervous system.
+So when the climbing fiber is active there is this profound depolarization
+which will open up voltage gated calcium channels.
+Allowing an extra bolus of calcium to flood into that post-synaptic spine,
+further elevating the levels of calcium that we find.
+And once a sufficient amount of calcium enters that spine, then yet additional
+second messenger systems will be engaged. That lead to the activation of phospho
+kinase C and other substrates of phosphorylation.
+That lead to the internalization of these AMPA receptors and the reduction in
+synaptic strength. Now, please don't be confused about the
+mechanisms of plasticity that we've discussed so far.
+Just recognize that the molecular mechanisms that mediate plasticity in the
+cerebellum are distinct. From those that we talked about in the
+cerebral cortex. In the cerebral cortex, high calcium
+leads to long-term potentiation. But in the cerebellum, high calcium leads
+to long-term depression.

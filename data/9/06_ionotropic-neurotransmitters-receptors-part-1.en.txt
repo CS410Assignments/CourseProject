@@ -1,0 +1,214 @@
+Welcome to this tutorial about
+neurotransmitters. We continue to talk about our core
+concept, about how neurons communicate through both electrical and chemical
+signals, and Last time, we spent our tutorial talking about the nature of the
+chemical signals, the neurotransmitters. Now we're going to talk about the
+receptors that they interact with. So, we have some learning objectives
+today. I want you to be able to discuss the
+means by which ligand-gated ion channels affect the membrane potential of
+postsynaptic. Neurons.
+I want you to be able to compare and contrast the structure and function of
+the ligaand-gated ion channels and metabotropic receptors also known as the
+G-protein coupled receptors. We're going to focus on one very
+particular ligand-gated ion channel that's very important, especially in the
+context of learning about neural plasticity.
+And I want you to discuss the properties of the NMDA receptor for glutamate and
+why it's so important for synaptic plasticity.
+And lastly, I want you to be able to once again recount for the factors that
+determine the effect of a neurotransmitter on a postsynaptic
+neuron. OK.
+Well, let's get started again by reviewing the basic structure and
+functional properties of a chemical synapse and so those are recounted for
+you in figure 5.3, a very important figure from your textbook and what we see
+here is what happens when an action potentional invades the pre-synaptic
+terminal membrane. So there's a wave of depolarization That
+causes voltage gated calcium channels to open, calcium rushes in, to the
+pre-synaptic terminal and interacts with[UNKNOWN] that causes the snare
+complex, to pull together, the membranes of the synaptic vessicle and the
+pre-synaptic terminal, that generates a fusion pore.
+And neurotransmitter then can diffuse out of the synaptic vesicle where it can
+interact with neurotransmitter receptors on the postsynaptic surface.
+That's what we're going to talk about mainly in this tutorial.
+And so what we want to understand then are what are the consequences for
+activation of a receptor for a neurotransmitter on a post-synaptic cell?
+Alright, so that's the challenge for the day.
+And I'll just remind you again that we have two classes of neurotransmitters,
+our small molecule neurotransmitters and then our peptide neurotransmitters.
+And these classes of neurotransmitters interact with two broad classes Of
+receptors. So we will talk in length about each
+class We will begin with talking about our
+ionotropic receptors which are receptors for neurotransmitters that are part of an
+ion channel complex. Hence we call these ligon gated ion
+channels And there are metabotropic receptors, which are receptors for
+neurotransmitters that are not directly part of ion channels.
+But rather these receptors trigger a set of metabolic activities, that then might
+ultimately result in the opening or closing of separate ion channel
+molecules, as well as a variety of other post synaptic activities.
+Our small moleule neurotransmitters typically interact with both ionotropic
+and metabotropic receptors although that may not be universally true of all small
+molecule transmitters. Certainly our major important
+neurotransmitters like glutamate and GABA interact with receptors from both
+categories. Whereas our peptide neurotransmitters.
+Interact with metabotropic receptors. Okay, so let's begin to consider what
+exactly these receptors are and consider their structure and functional
+properties. So let's begin by considering the
+ligand-gated ion channels. So, as I said the essential Relationship
+here to understand is that the actual receptor sites themselves that interact
+with the neuro-transmitters, are part of an ion channel complex.
+Okay? So the receptor is part of the same
+molecular structure that forms the ion channel.
+And because of this, these are the receptor interactions that mediate the
+most rapid effects on postsynaptic currents.
+So as we go, I'll remind you that in order to understand the effect of any
+given neurotransmitter substance, whatever it may be.
+What we really need to know is something about the receptor to which that
+neurotransmitter bites. And we need to know something about what
+other receptors might also be present in the same post synaptic cell in order to
+understand the physiology of that transmitter molecule.
+So we'll see examples of that as we go along here in this tutorial.
+Alright, so let's consider the general molecular structure of ligand-gated ion
+channels, and we'll use the ligand-gated ion channel that we know best as an
+example. That would be the nicitonic acetylcholine
+receptor. So this is the receptor for the
+endogenous neurotransmitter acetylcholine That is also occupied and activated by
+nicotine. So this structure has a characteristic
+set of sub units that come together to comprise this ionotropic receptor.
+Typically there are five sub units that come together to form the functional
+nicotinic acetylcholine receptor. Each sub unit has an N terminus domain to
+it that binds the actual neurotransmitter, acetylcholine.
+So, the N terminus is out here somewhere. In the extracellular space.
+Attached to that end terminus is some number of membranes spanning helical
+regions and then there is some kind of cytoplasmic extension that often is a
+site where the receptor sub units can interact with metabolates and other kinds
+of molecules. Within the cytoplasm of the cell.
+So that's just one sub unit, a functional channel requires the aggregation of
+multiple sub units, typically four or five.
+Here in this example we see five sub units that have aggregated two alpha sub
+units, a beta sub unit, a delta and a gamma sub unit.
+And they all differ slightly in their molecular structures.
+But together they aggregate to form a central pore that contains the filters
+that result in the selectivity of this ion channel.
+Now as a class inotropic receptors are not as selective as our voltage gated ion
+channels are. So as we'll see, multiple ions can pass
+through the pore of this channel. Now what makes this a ligongated ion
+channel is the fact that channel opening is gated by the binding of the
+neurotransmitter to its receptor. So this ion channel is not particularly
+voltage sensitive, it doesn't have a voltage sensor motif among its membrane
+spanning domains, rather the gating mechanism is modified by the interaction
+of the transmitter with the receptor. That induces a conformational change that
+opens The pore of the channel allowing for the passage of ions.
+Now there are a variety of important examples of ionotropic receptors that
+we'll be talking about throughout the course.
+I've just been talking about the nicotinic acetylcholine receptor.
+There's a family of receptors for glutamate that are in the ionotropic
+category. There's a receptor, named AMPA, for the
+pharmacological agent that best activates that receptor.
+Likewise there is a receptor called the NMDA receptor N methyl D aspartate
+receptor, and another one called the Kainate receptor, all named...
+For the exogenous ligands. Of course the endogenous ligand for all
+three is glutemate. There's the receptor for the principal
+inhibitory neural transmitter of the brain, called GABA, gamma aminobutyric
+acid there're actually a variety of GABA receptors.
+here are shown some of the sub-units that come together to form what's called the
+GABA A receptor channel complex and so on.
+Receptors for glycine, for serotonin, and then for the purinergic transmitters such
+as adenosine Now, what you'll notice from this chart here is that there are
+multiple subunits that can come together to form an ion channel and combinations
+of subunits can form channels that have slightly different kinetic properties
+with respect to channel opening and closing.
+or, perhaps different kinds of modulatory sites that are presented to the
+cytoplasmic surface. Or perhaps different affinities for the
+endogenous ligands. So one can have different kinds of
+functional properties result from the aggregation of different kinds of
+subunits, that come together to form The entire receptor channel complex.
+Let's look a bit more closely at one important ionotropic receptor.
+And that is the receptor for the inhibitory neuro-transmitter GABA.
+So, what we're looking here what we're looking at here is The typical GABA A
+receptor channel and it's comprised of five subunits that come together, in this
+case an alpha, two beta subunits, a gamma, perhaps a delta or another alpha
+that have come together here. And like the nicotinic acetylcholine
+receptor these five. Five subunits aggregate to form a pore,
+through which ions may pass. But what I want you to notice here, is
+really the complexity of this ion channel.
+there's a variety of binding sites for other substances that can modulate,
+The efficiency at which these channels open or close.
+for example, there is a site for the binding of steroids.
+For the binding of barbiturate drugs many of our pills that we take at bedtime that
+can modify the way people fall asleep are acting at a site deep within this
+receptor complex here. There are sites on the extra-cellular
+side that likewise can modulate the flux of current through these channels.
+Again drugs that are useful pharmacologically and are important drugs
+in the medical armamentarium and a variety of other binding sites for drugs
+that are not illustrated here, including alcohol.
+Now this particular ionotropic receptor allows for the passage of chloride ions.
+So chloride ions pass through a selectivity filter here which are
+favorable for this monovalent anion to pass down it's concentration gradient as
+illustrated here that concentration gradient is shown inside the cell to
+outside the cell. Which is typical of an immature neuron as
+we'll talk about in a little while. Now, let's talk about the currentst that
+pass through lignad-gated ion channels. And in order ot understand the principles
+involved we need to revisit Ohm's law. So you will recall that we talked about
+Ohm's law. As a being V equals IR and we, we were
+able to rearrange that in terms of current and indicated that current equals
+the inverse of resistance which is the conductance term times V.
+And that V term we could expand In terms of the driving force for a permeant ion
+as a difference between the membrane potential and the reversal potential for
+the permeant ion. So we can apply the very same priniciples
+to the movement of ions through a ligand gated ion channel What's different here,
+is that the channel is gated, not by voltage, but by the binding of a
+neurotransmitter to it's receptor. So when we do that, what we see is that
+the current which, here, is called PSC , for Post Synaptic Current.
+Is equal to the ligand-gated conductance, the g term, times the driving force.
+Now, if the conductance of this channel happens to be greater than zero this is
+what would happen when a neuro-transmitter binds.
+Then we would expect there to be current. Provided that we have driving force, if
+there is no driving force, that is if the membrane potential is precisely the
+reversal potential for the active conductants.
+Then even though we may have a significant value of conductants then
+there will be no post synaptic current, if the driving force term equals zero.
+Okay. Now, I want us to consider how this
+version of Ohm's law applies to understanding the conductance of the
+nicotinic acetylcholine receptor that we have at our end plates on our muscle
+fibers. So let's turn our attention to the
+neuromuscular junction, so this is the place where our alphamotor neurons
+synapse upon our skeletal muscle fiber. As illustrated over to the right.
+And what we see here is an axon that makes contact with a muscle fiber.
+And we can experiment upon this prepration.
+I'd like to take you through some data that are derived from such experiements.
+So notice that we can stimulate the axon with a micro-electrode we can voltage
+clamp the muscle fiber with a voltage clamp amplifier so we could measure the
+membrane potential, we can pass current to establish whatever membrane potential
+is of interest to the experimenter. And so what we're looking at here is a
+recording of end plate currents. So this is a, kind of a post synaptic
+current recorded from a muscle fiber. And notice that the muscle fiber is
+voltage clamped at different levels. from a rather hyperpolarized potential of
+110 millivolts. All the way up through an extreme
+depolarized potential of plus 70 millivolts.
+And when we first look at the extreme hyperpolarization, what we find is that
+there is a significant inward current. So again negative current here by
+convention is an inward current carried by a cation.
+So with 110 millivolts, of hyperpolarization, stimulating this axon
+leads to a strong inward current. If we cut that hyperpolarization in
+roughly half, and now set the membrane potential to minus 60 millivolts We have
+about half as much inward current flowing into that muscle fiber.
+Now notice what happens when we voltage clamp to zero millivolts.
+We see essentially no curret at all in this muscle fiber when we stimulate the
+axon. So, keep that in mind.
+And finally, if we are to depolarize the muscle fiber to plus 70 millivolts and
+then stimulate the axon, what we see is not an inward current at all, but an
+outward current. So this behavior should look somewhat
+familiar to you because we saw similar behavior when we considered the impact of
+membrane potential. On the currents that pass through voltage
+gated ion channels, only here the ion channel's gated not by voltage but by the
+binding of[UNKNOWN] to its receptor. So not for example, that we have inward
+currents at hyper polarized potential, outward currents at depolarized potential
+And no net current at 0 millivolts. So that should, prehaps give you some
+insight, as to what might be the currents that are flowing through this ion
+channel. Now, in order to help you think through
+that, I want you to be able to relate our version of Ohms law, that we're
+revisiting here. In the context of looking at end plate
+currents at the neuromuscular junction, and I want you to think about the
+following set of study questions that you're about to see.
+And they're also prepared for you at the end of the tutorial notes.
+So why don't you take a few minutes now, and pause the recording, and consider the
+following set of study questions.

@@ -1,0 +1,249 @@
+This figure shows us Nissl-stained
+section through the lumbar level of the human spinal cord.
+And if you've not yet taken the time to see my overview of the internal anatomy
+of the spinal cord, this might be a good time to pause and have a look at that
+particular tutorial. I think that will help you out, with some
+aspects of where we're going to go over the next few minutes.
+if you have seen that, great. Let's go ahead and move on.
+So I won't go through the detail of the organization of the gray matter and the
+white matter of the spinal cord. Rather I'll draw your attention to the
+ventral horn, and to a set of columns of neurons that we call laminae seven
+through nine. And that's these columns that contain our
+lower motor neurons, and even at this lower magnification, I think you can see
+that in this region of the ventral horn, we have these large neurons that are
+present. And, of course, I'd like to show you
+those in more detail. And so, just to give you a higher
+magnification view of what they actually look like.
+here we see some lower motor neurons, and they have a very characteristic
+morphology to them. They're, first of all, are very large
+cells. They have, sort of, a multi-polar shape,
+this is a Nissl stain, so we're not seeing all of the dendrites that are
+extending off in various directions. but what we see is a cytoplasm that's
+just full of darkly staining Nissl substance.
+Which is indictive of rough endoplasmic reticulum in the production of proteins.
+We see quite a large nucleus and a very prominent, and single nucleolus near the
+center of that nucleus. So this is the characteristic appearance
+of a typical motor neuron. Here we have another one.
+The plane of focus is just a little bit off the nucleolus but I think you can see
+that, nuclear membrane there and then the nucleolus here in the center.
+Well that's what the motor neurons actually look like.
+how are they distributed in the ventral horn, is the topic that I'd like to spend
+just a few minutes discussing with you next.
+Now you already know that along the long axis of the spinal cord, there are two
+regions in which the diameter of the spinal chord is significantly enlarged.
+There is the cervical enlargement and the lumbosacral enlargement.
+And these enlargements reflect the additional circuitry and the additional
+numbers of neurons, that are in those segments of the spinal chord that serve
+the upper extremities and the lower extremities.
+Well that's what's going on along the length of the spinal cord as we look at
+the gross organization of the structure. If we look at a finer scale, what we see
+are that within the cervical enlargement, or within the lumbosacral enlargement.
+The neurons that supply a given muscle are also extended over some distance
+across multiple segments of the spinal cord.
+And we see in this figure the result of an experiment that demonstrates this
+point. So what was done in this experiment is
+that the gastrocnemius muscle in an animal model was injected with a dye
+substance. That is taken up at the neuromuscular
+junction by the axons of the alpha motor neurons that innervate that muscle.
+And then this dye is transported back to their cell bodies.
+And then the experimenters can look into the spinal chord in histological
+sections, and plot the location of the cells that were labeled by injecting the
+specific muscle. Well, the same kind of experiment was
+also done for the soleus muscle on the opposite side of the body.
+And as a result, what we see, is a column of cells on one side of the spinal cord
+that reflects the distribution of motor neurons that supply the gastrocnemius.
+And on the other side of the spinal cord, are the labeled motor neurons that
+innervate the soleus muscle. And the point here is that for each
+muscle. There is column of cells.
+Perhaps not unlike this writing device that I'm holding.
+That is distributed across multiple segments of the spinal cord.
+And when we look at their positions, we find that they're not overlapping
+necessarily. There may be some order to their
+distribution in the medial to lateral aspect of the ventral horn.
+In fact, this is a very important principle of ventral horn organization
+that I want to stress for you. If we look at the arrangement of these
+columns of motor neurons that innervate specific muscles.
+What we see is a beautiful and, and hopefully memorable, somatopic
+organization. Again, I'll use this word somatotopy that
+we talked about when we considered the somatic sensory system, to refer to the
+mapping of the body. So we see a kind of somatotopy now in the
+organization of our lower motor neurons, in the ventral horn of the spinal chord.
+What we see are neurons that are present in the medial part of the ventral horn,
+are supplying muscles that are found in the more proximal portions of the
+extremities. Or perhaps in the trunk muscles
+themselves, if we're talking about the thoracic spinal cord.
+Whereas as we get to progressively more lateral positions in the vental horn, we
+move from proximal to distal, such that the muscles that govern the movements of
+the distal extremities. Which is where so much of the skill is
+expressed especially via the activities of our arms and hands.
+These motor neurons are found out here in lateral part of the ventral horn.
+So it's very important to recognize this menial to lateral somatotopic
+organization in the ventral horn. Because that will provide an important
+framework for understanding the descending projections from upper motor
+neurons. We'll recognize that the descending
+projections that reside in this ventral, or interior white matter of the spinal
+chord, are mainly supplying the medial aspects of the ventral horn.
+Whereas the major fiber bundle that sits out there in the lateral column of the
+spinal cord is the lateral cortical spinal tract.
+And this system is mainly concerned with supplying the lateral aspects of the
+ventrical horn. So getting back to our general
+orginization framework then, I hope you can recognize that what's going on in
+this ventral and anterior white matter. Is mostly concerned with setting the
+stage for skill behavior in adjusting posture, setting gain, and otherwise
+facilitating what we do with our distal extremities.
+And what's happening out here in the lateral part of the spinal cord is mainly
+an expression of skilled behavior. Now I won't spend much time right now
+reviewing for you again the organiziton of the motor elements of our cranial
+nerve nuclei. Rather, I'll just refer you back to the
+tutorial regarding the internal organization of the brain stem, and the
+organization of the cranial nerves and their nuclei.
+And there, what we talked about was the outflow from somatic motor and branchial
+motor nuclei. That are concerned with moving muscles
+derived from somites or from the pharyngeal arches, respectively.
+And these motor nuclei are found in each of the three major divisions of our brain
+stem. In the mid brain, we have the oculomotor
+nucleus and the trochlear nucleus, And then in the pons we have the abducens
+nucleus. These three semantic motor nuclei govern
+the movements of the eyes in the orbit. And then down in the upper part in the
+medulla, we have the hypoglossal nucleus, that is concerned with the movements of
+the tongue. And with respect to governing those
+muscles derived from the pharyngeal arches in the pons, we have the
+trigeminal motor nucleus that innervates the muscles of chewing.
+We have the facial motor nucleus, that supplies the muscles of the face that are
+involved in facial expressions of emotion.
+And then, further down in the brainstem, in the medulla, and in the upper cervical
+segments of the spinal cord, we find first the nucleus ambiguous, which is
+governing the muscles of the pharynx and the larynx.
+And, in the upper cervical cord, the spinal accessory nucleus, which is
+interveining the pharyngeal arch derived muscles that turn the head and shrug the
+shoulders. Well, I do want to at least show you what
+these motor neurons look like, just to illustrate the point that, in the cranial
+nerve motor nuclei. We have alpha motor neurons, very much
+like the motor neurons, that we find in the ventral horn of the spinal cord.
+This is a detailed look at one of our branchiomeric motor nuclei, the
+trigeminal motor nucleus. And here is roughly the boundaries of
+this nucleus, and so this is where we would find our columns of cells that are
+providing innervation to the muscles of mastication.
+Those muscles that we use when we chew and consume food.
+And what we see are beautiful demonstrations of alpha motor neurons
+that have all the same histological features as what we saw in the ventral
+horn of the spinal cord. And lastly what I'd like to do in this
+tutorial is to talk about the motor unit. And describe for you just some of the
+physiological features of musculo-skeletal behavior, that we
+want to keep in mind as we move into a deeper discussion of how the nervous
+system controls movement. So, the alpha-motor neuron at the spinal
+chord is what we've been talking about and here's an illustration of an
+alpha-motor neuron, sitting in the ventral horn of the spinal chord.
+And, it sends it's axons out through the ventral root into a spinal nerve and then
+as that spinal nerve supplies a muscle, this axon will divide into several
+branches. And these branches will then go on to
+supply innervation to a set of muscle fibers within a muscle.
+And these muscles fibers tend to be broadly distributed within that muscle.
+So the motor unit is defined as the single alpha motor neuron plus the muscle
+fibers that it intervates. That's the motor unit.
+Now a single motor unit can be classified not just atomically, but also
+physiologically. There is coordination between the neuron
+and the muscle fibers for the functions that that motor unit must perform.
+So from a physiological perspective there are biochemical and even neuro
+specializations. That allow these three types of motor
+units to contribute to physiological activities of entire muscles in distinct
+ways. First we have a type of motor unit that
+we classify as being slow. This is a motor unit that doesn't
+generate a whole lot of force, and it does so fairly slowly.
+so what we're looking at is the response to a single action potential, that is
+applied to the axon that innervates a particular type, a particular set of
+muscle fibers. Now if that action potential arrives at a
+different collection of muscle fibers, we might see a more significant amount of
+force generated, and it might happen more quickly.
+this we call the fast fatigue resistant motor unit.
+And then, if we apply that action potential to yet a third motor axon.
+We might find a much larger amount of force generated very rapidly, by the
+contraction of a muscle fiber that happens to be innervated by that axon.
+If, so, that kind of physiological profile, we would know that we're dealing
+with a fast fatigable motor unit. Now, if we applied a series of pulses,
+not just an individual shock but a train of pulses we might find something that
+looks quite similar, except now we would see evidence of sustained response.
+And so with the activation of the slow motor units, notice how each individual
+contraction takes some time. And we build up our steady state level of
+forced production, and can substain that over the duration of the brief train of
+pulses that is applied in this experiment.
+The fast fatigue resistant motor unit does considerably better with force
+production as can be seen, and notice that it takes, much less time to generate
+that force. And I want you to notice what happens
+when we get to our fast fatigable motor unit.
+Of course, this is going to give us the, greatest amount of force generated, with
+activation of the axon that supplies this set of muscle fibers, and the force
+that's generated happens very rapidly. But notice that even over the duration of
+a second or so of stimulation, there is some decrement.
+And the amount of force that can be sustained over time.
+And so, it's for this reason, that we talk about the fatigue profile of these
+motor units. So that of course, can be seen if we
+extend our stimulation, not just over a second or so, but over many minutes.
+And what we find is that our slow motor units, are those that can maintain their
+maximum amount of force production for a very long period of time.
+Not indefinitely of course, but for a long period of time.
+So, again, the amount of force that's generated is small, and the speed at
+which that force is generated at a pulse-by-pulse basis is relatively slow.
+Our fast fatigue resistant motor units do considerably better.
+they do fatigue but there is a healthy amount of sustain to the amount of force
+generated over a long period of time, at least over several minutes.
+Now if we look an hour later, now we see evidence of the fatigue that has set in
+and the ability of these motor units to keep pace with the commands that are
+coming down the axon. Lastly, our fast fatigable motor units
+are those that generate the most force. And they do so very quickly.
+But they're really only good for a few minutes of activity.
+They fatigue quite rapidly. And after just a couple of minutes of
+activity they're just not able typically to sustain the commands that are arriving
+down their axons. Now let's put all this together in terms
+of behavior. these are data from an animal experiment
+looking at the transition from, from standing all the way up through a more
+explosive type of motor activity, jumping.
+And what we see is that, to maintain posture, we rely on our slow motor units,
+so that makes good sense, because speed is not an issue.
+typically the amount of force that's needed to maintain posture is relatively
+low. And we certainly want to activate motor
+units that are resistant to fatigue. And so, as we transition now from
+maintaining a steady posture while standing, to actual locomotion.
+Now we engage next our fast fatigue resistant motor units.
+This will allow us to generate more force, to do so at a moderate pace,
+that's necessary for a transition from standing to walking.
+And even progressing through an increase in pace of locomotion.
+But once we get into a, a full out run, or in this animal model a gallop.
+Then certainly as we approach the most explosive our, of our motor outputs, we
+have to engage our fast fatigueable motor units.
+But we do so only strategically. So this sequential progression from slow
+to fast, fatigue resistant to fast fatigable motor units is called the size
+principle. Because it's the principle through which
+we recruit motor units of different sizes.
+Now a point I probably should have made in the previous slide, one reason why our
+slow motor units generate a small amount of force is that.
+They tend to be the smallest of the motor units, associated with just a few number
+of muscle fibers. Now these muscle fibers do have
+biochemical specializations that also limit the amount of force that each fiber
+can generate. But the size of the motor unit tends to
+be small. Whereas the fast fatigable motor units,
+these are the largest motor units that we have.
+Recall again that when we talk about the size of the motor unit, we're talking
+about number of muscle fibers, that are innervated by a single alpha motor, alpha
+motor neuron. And in the case of our fatigable motor
+units there could be several fold more muscle fibers innervated than what we
+find in a typical slow motor unit. And those muscle fibers that are supplied
+by these fast fatigable motor units, are biochemically specialized to generate a
+maximal amount of force very, very quickly.
+So, this size principle provides an important advantage for coordinating the
+output of our motor units. It allows for a matching, of the
+physiological properties of different types of motor units, with the demands of
+the specific behavioral task. Now, that's not to say that this plan for
+coordinating the outflow from our lower motor neurons to the specific types of
+motor units is not subject to change, it is.
+Even these muscle fiber characteristics that allow a muscle to either resist
+fatigue or to be susceptible fatigue. Even those biochemical properties are
+subject to plasticity, as are the physiological properties of the motor
+neurons that they innervate. Now this is a matter for exercise
+physiology. And we won't go into much depth at all,
+but let me suffice to say that, it is possible to slow the physiological
+properties of our motor unit. This is one of the principal impacts of
+endurance training or aerobic exercise on the physiology of our motor units.
+Well, let me pause there and we'll take a break and, we'll come back with our
+second part. Where we will consider the organization
+of the circuits of the spinal chord, as they express reflux of activity.

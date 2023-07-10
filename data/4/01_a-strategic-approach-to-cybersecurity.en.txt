@@ -1,0 +1,57 @@
+Welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. We have finished talking about the overall effects
+that a threat actor can have on a particular
+target organization that can lead to primary, secondary, and even
+second-order effects. Which leads us to this question of a strategic approach
+to cybersecurity. When does a cyber event become not just a
+private problem, but a public concern? Cybersecurity can be seen
+as a strategic concern. Specifically, the
+National Cyber Strategy authored in 2018 highlights that the administration will develop a comprehensive
+understanding of national risks by identifying national
+critical functions, and will mature
+cybersecurity offerings and engagements to better manage
+those national risks. They're attempting
+to identify what is a strategic problem
+and what is not. National risk is really
+answering a specific question. What cyber events constitute a private problem versus
+a public concern. This course has exposed you to several topics that help
+you answer that question. For example, how did the history of the Internet
+open up security challenges? How does the global
+telecommunications infrastructure work? Who are the threat actors
+and what are their motives? What is hacking? Finally, what are
+the range of effects that those threat
+actors can achieve? If you recall, hacking generates initial primary
+effects which can lead to those additional
+consequences. Threat actors utilize
+the Internet and the global telecommunications
+infrastructure to engage in a series
+of hacking events. Those events lead to
+actions on target. Those actions on target
+generate a cyber event. Cyber events can have
+primary effects, secondary effects, and even
+second-order consequences. That include physical effects, macroeconomic effects,
+and even informational. What national risk we accept is really a
+concern for everyone? Cybersecurity is
+about that interplay between technical
+and human systems. How technology is leveraged
+by organizations or even countries opens up the
+potential for strategic harm. Understanding the
+techniques and effects of threat actors allows us to
+prioritize our defense. Good prioritization is
+the efficient means for addressing this problem. What are some of the
+takeaways that I hope that you've gotten
+out of this course? First, that the evolution
+of the Internet has greatly enhanced our
+dependence on technology. Think about how you use
+technology in your own life, and think about how
+maybe that was the case, or not the case 30 years ago. The global telecommunications
+infrastructure is both complex and vulnerable
+to a range of threats. Threat actors leverage their
+skill and resources to attack organizations through their underlying technical
+and human systems. The process of hacking is a deliberate and
+calculated approach to achieving the
+threat actor's goals. Finally, the range
+of effects that can occur in a cyber event help determine if this is in fact a private problem or
+a public concern. I hope that you've gotten
+a lot out of this course. You really start to think about this complex interplay between human and technical systems. Until next time. This is
+Charles Harry. Goodbye.

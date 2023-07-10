@@ -1,0 +1,163 @@
+So the retina is made up of five basic
+types of cells. We've already talked some about the
+photoreceptors. And they're found in these sublayers of
+the retina from distal to proximal. There's the outer segment which is where
+we find the disks that contain the photo pigment.
+There is a layer called the outer nuclear layer which contains the cell bodies of
+these photo receptors. And then there is a layer of synapses
+called the outer plexiform layer. This is where the synaptic terminals of
+photoreceptors interact with two of the remaining five types of cells that we have
+in the retina. These synaptic terminals of photoreceptors
+release neurotransmitter on the endings of a type of cell called the bipolar cell.
+Here we have an illustration of a bipolar cell.
+Its cell body sits in the inner nuclear layer.
+And it's called bipolar because it extends processes in two directions.
+In the distal direction, it makes contact with the photoreceptor terminal.
+In the proximal direction, it makes contact with two of the remaining cell
+types in the retina. So in addition to the bipolar cell we also
+have in the outer portion of the retina a cell called the horizontal cell.
+And it's called a horizontal cell because it gives rise to processes that extend
+over some distance in the horizontal axis of the retina.
+The horizontal cell both receives input from the photoreceptor but also gives rise
+to input to the photoreceptor terminal. So there's a bidirectional relationship
+from the physiological perspective between the photoreceptor and the horizontal cell.
+Well, let's look in the inner part of the retina and encounter the two remaining
+cells that we find. As I mentioned, the bipolar cell sends
+signals that interact with these two cells.
+And the major cell that we find in the inner part of the retina is called the
+retinal ganglion cell. Now, just a word about this name.
+It may be confusing to you that we use the word ganglion to describe this particular
+cell. We're used to thinking about a ganglion as
+a nice ball of cells that sits outside of the central nervous system.
+Here, rather than having a ball of cells, what we discover is that the ganglion
+cells constitute a layer several cells thick across the inner surface of the
+retina. Well, the ganglion cells receive direct
+input from the bipolar cells, they also receive indirect input.
+From the amacrine cells, and the amacrine cells like the bot, like the horizontal
+cells, gives rise to horizontal connections that extend some distance
+across what's called the inner plexiform layer of the retina.
+So, I wan't you to notice that in the histology of the retina we have this
+alternating nuclear layer, plexiform layer, nuclear layer, plexiform layer.
+And then really another nuclear layer that we call the ganglion cell layer.
+And it's here that we find our five principle cells and their connections.
+Well, I'm not sure how much background noise you're hearing right now.
+I rather quite enjoying the sound of the rustle of the leaves and the birds, and
+the cawing of the, of the crows. But I'm quite irritated at the moment.
+Because it sounds like I hear the canned music of an ice cream truck.
+I don't know if you experience that phenomenon where you are but we seem to
+have a vehicle driving not too far away. Playing music trying to attract people to
+sell ice cream. Well, hopefully that vehicle is on it's
+way, gone and we can return to our discussion of the retina.
+Okay, I need to make a few additional points about these cells in the retina.
+Let me point out how short these distances are in the retina.
+The entire thickness of the human retina is not more than a millimeter or so.
+And, as a result, there really is no need to generate action potentials to get a
+signal from, let's say, the outer nuclear layer to the inner nuclear layer or from
+the inner nuclear layer to the ganglion cell layer.
+However, it's quite a different story when were talking about getting signals from
+the retina back into the brain. So as a result what we've discovered
+electrophysiological is that photoreceptors generate graded potentials.
+Bipolar cells generate graded potentials. But ganglion cells, they generate action
+potentials. And we think this makes good sense because
+the graded potentials are sufficent to span the shorter distance from one cell to
+the next within the retina. But if the ganglion cell has any hope of
+sending an electrical signal on its way to the brain, then action potentials are
+going to be needed. To traverse that distance, with fidelity
+and indeed that's, that's the case. So the ganglion cell is the only neuron in
+the retina that generates an action potential.
+While there is one other cell worth mentioning here, before we move on, and
+that is a special type of glial cell which is not illustrated here.
+But glial cells exist in the retina and this cell is called a muller cell.
+And it functions in a variety of ways to support both the metabolism and the
+signaling activity of the neurons of the retina.
+Well, now I'd like to focus in on the photoreceptors.
+And the phenomenon of phototransduction. As I mentioned when we began to consider
+our sensory systems, the challenge of phototransduction is one that needs to be
+explained and accounted for in each of our sensory systems.
+And for vision, just speaking for myself. I always considered this such a deep
+mystery. I remember as a child just wondering how
+could it possibly be that we can see? How is it that this energy that we now
+understand to, to come in the form of, of particles in, in waves of light.
+How can that energy turn itself into signals in our brains that give rise to
+perceptions? Well this is really a profound question,
+and we don't know the full answer yet. But we've gain considerable insight In the
+last several decades, about how the process of phototransduction works, and it
+works in the photoreceptor. So let's turn our attention to these
+photoreceptors. What we find is that fundamentally we have
+two types of photoreceptors in the retina. There is a type of cell called the rod and
+the ride is so named because of its long cylindrical outer site.
+And there is a cell type called the cone and rather than having a rod shaped outer
+segment it has a sort of conical shaped outer segment.
+Well there are multiple differences that we want to discuss concerning these two
+cells, and we'll get to that shortly. But first I want to focus in on the issue
+of phototransduction, which we know best for the outer segments of the rod.
+And first let's consider what happens in the outer segment of the cell when it's
+kept in the dark. And the surprising feature of this
+photoreceptor in the dark is that it's actually depolarized, at least relative to
+other neurons that we've talked about so far in this course.
+And this depolarization is supported by something that we call the dark current.
+In the plasma membrane of the outer segment of our photoreceptors, we have an
+ion channel that is permeable to calcium and sodium.
+This channel is gated by the second messenger, cyclic GMP.
+So when cyclic GMP is present in abundance, it interacts with the
+cytoplasmic phase of the channel. This allows calcium and sodium to diffuse
+down their concentration gradients and enter that postsynaptic cell.
+Well, this helps to support a depolarized resting membrane in these cells.
+There are other Ion channels in the photo receptor that allow for the eflux of
+potassium. Well, when a cell is in the dark the
+influx of calcium and sodium contributes significantly to the resting membrane
+potentials. So for this type of cell, we have to
+consider these additional ions if we're going to predict the resting membrane
+potential. Unlike our simple neurons and axons that
+we considered earlier in the course where a leak for potassium was sufficient to
+approximate the resting membrane state. Here we have to also consider these
+additional active conductances for calcium and for sodium.
+Now, the process of phototransduction requires the interaction of a photon of
+light with a photo pigment. And the photo pigment is a complex
+molecule which consists of a opsin, which is a large protein structure that
+interacts with a smaller organic molecule called 11-cis retinal.
+Now this opsin, is actually going to be familiar to you, because it is a member of
+this seven trans-membrane protein family that we've encountered previously in this
+course. We've encountered this general structure
+previously, the seven transmembrane structure.
+Is exactly what we saw when we considered metabotropic receptors for
+neurotransmitters on postsynaptic terminals.
+In fact, the opsins are part of that same family of proteins.
+Quite remarkable, don't you think, that a metabotropic structure Is present both in
+postsynaptic membranes within the brain. And as a key component of the photo
+pigment in the eye. Well let me tell you about the role of
+these two components. So the 11-cis retinal is the organic
+molecule that will interact with the photon of light directly.
+The opsin that surrounds that 11-cis retinal, fine tunes the response profile
+of that 11-cis retinal. So we actually have four kinds of pigments
+in our photo receptors. And rods, we have the rod opsin.
+And it has a particular spectral sensitivity which is plotted in this,
+chart of relative spectral absorbance versus wavelength of light by this dashed
+line here. And you can see it is somewhere near the
+middle among our family of opsin proteins. Cones contain one of three different
+opsins and those opsins allow for the fine tuning of the responses of the 11-cis
+retinal to wither shorter wavelengths of light, medium wavelengths of light, or
+longer wavelengths of light and obviously the medium and long Are a much closer in
+their spectral sensitivity than they are to the short.
+So these three different opsin proteins that are found within the cones provide
+the foundation for color vision. We'll say a little bit more about color
+vision as we move on in our studies of vision.
+Well, let's see what happens when light interacts with this photo-pigment.
+Here we have a recording of membrane potential from a photreceptor, and the
+experiment is to provide a very brief flash of light.
+And what we can find is that there is a graded response with the intensity of that
+flash of light. But notice the polarity of the response.
+Again, the resting membrane in the photoreceptor is around minus 40
+millivolts and the response to light striking the outer segment of the
+photoreceptor Is hyperpolarization. And with increasing intensity of light we
+see a deeper htyperpolarization perhaps down to about minus 65 millivolts.
+Okay, well how does this work? Well, when light strikes the outer
+segments of the photo receptor There is a seriers of molecular events that lead to a
+reduction in the concentration of cyclic GMP.
+So when the level of cyclic GMP is reduced, then these channels close.
+And the closure of the cyclic GMP gated channels means that calcium and sodium...
+Can no longer enter this cell and support its depolarized state.
+Rather, the potassium channels remain open, allowing for the efflux of
+potassium, and that brings that membrane down to a more hyperpolarized state.
+And that allows the membrane to hyperpolarize to a predictable
+equilibrium, near about minus 65 millivolts for many photoreceptors.

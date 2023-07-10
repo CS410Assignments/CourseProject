@@ -1,0 +1,100 @@
+[MUSIC]
+Hi, welcome back to cybersecurity for everyone. I'm Dr Charles harry. In this episode, I want to talk about
+the next phase of hacking, command and control. Recall hacking is a process, and
+we want to talk about the command and control as a way to connect
+back to the installed software that the threat actor is put in play. So what is command and control? Well, once the threat actors
+install their software, they have established a connection
+between the malware and other devices under their control,
+that's what command and control is. The goal here is to covertly provide
+instructions to their malware, doesn't do them any good if they get
+caught either by an anti virus program or by a cyber defender. Remaining hidden and obfuscating
+the direct connections back to their infrastructure as of paramount
+importance to the threat actor. So what are some common themes
+with command and control? Well, first,
+they want to protect their communications. The threat actors want to protect
+the communications between themselves and the malware that they've
+installed on their target. And so they're going to use
+things like encryption. They may also use either off
+the shelf techniques, or maybe even custom methods in order to
+also protect their communications. They also want to try to blend
+in into their environment. So remember, the goal here is to covertly
+communicate with the malware on target. So I'm going to try to use
+a lot of common ports, and make my traffic blend in with what looks
+like completely normal network traffic. I might use common ports like Port 80 or
+443, which are affiliated with web traffic. So if I am a system administrator and
+I'm looking at traffic in my network, and I see a lot of Port 80 and 443,
+I may think to myself, well, those are my users just surfing the web. It may not be malicious. I also may want to relay commands
+using perfectly legitimate social media sites, or
+other types of web services. The idea here is that if a system
+administrator is looking at the traffic and the location to where that
+traffic is coming from or going to, and they see a common social
+media site like Instagram, or even Facebook, they may say,
+well that seems fairly legitimate. Some of my users in my network may want to
+go ahead and check their Instagram page or check their Facebook page
+while they're at work. So I'm blending into my environment. Finally, I want to disguise the real
+origin of the communications, right? So I want to not directly connect to my
+malware from my own personal computer, from the threat actor, right? And the reason being is that if
+my malware is discovered, and they trace my connection from my personal
+computer, my hacking computer, all the way back to the targeted machine, then
+law enforcement would probably have a very easy time coming up to my house, knocking
+on my door and putting me in handcuffs. So I want to redirect my
+communications through a third party, oftentimes what we call a proxy. So there's established proxies like the
+onion router or tor, you may have heard of that before, but we can also use
+our own custom configurations, right? Other compromised systems to
+include cloud virtual machines. I could spend those up and
+your most favorite cloud provider, right? So there are ways in which I disguise and redirect traffic to make it
+that much more difficult for people to identify who's
+actually doing the attacking. So let me give you an example,
+if I'm a threat actor, but I might actually set up first or
+a set of proxies. And they could be one, two, three, four,
+you could have hundreds of proxies, it really depends on the threat actor and
+their sophistication and their resources of course. If there are obvious, they may not have
+a lot in the way of financial resources so they may use to establish
+proxies like tor. However, if you're an APT, advanced
+persistent threat, and you have millions of dollars at your disposal, you may
+go out and set up your own proxies. Those proxies in turn can
+communicate with other devices, such as cloud virtual machines,
+that I've stood up and now I can connect my proxies to other
+devices before I actually hit my target. So in this very simple example,
+my traffic that I'm sending back and forth between my malware, is not going
+directly from my personal computer as the attacker, I'm actually going
+through at least two different layers. The idea here is to obfuscate
+where the information, where those packets are going to and from. Make it that much more difficult for
+people to identify me as the attacker. So let me give you an example of
+a creative use of command and control. So in 2017, a security company ESET, investigated a particular advanced
+persistent threat, Turla, okay? Turla had compromised a lot of different
+websites, that when users would go and visit it too early,
+would attempt to download their malware. They would attempt to exploit and
+install their malware onto user devices. The malware when executed and installed
+would try to resolve a particular URL address that contained the overall
+command and control web domain. Now, here's where it gets clever. The attackers had hidden
+the address of the domain in the comments section of
+Britney Spears's Instagram page. Britney Spears, most of you probably
+know is a world famous singer. So imagine that, in one comment section
+of a very specific picture that Britney Spears had posted on her
+Instagram page, there were comments that when you looked at it seemed really
+frankly not to make a lot of sense. But encoded in that particular set of
+comments, were the instructions for this particular piece of malware to communicate
+back to a command and control server. It's pretty clever. So that specific comment
+of that specific photo, was used to point the malware to
+the right command and control server. I think this example highlights a lot
+of the creativity we see that threat actors oftentimes employ to stay hidden,
+and to keep their malware operating as long as possible for
+them to achieve their objectives. So that leads us to this
+concept of attribution. Threat actors will use proxies,
+common communication ports and creative techniques, to manage and
+hide their activities. So those communications remember are often
+encrypted, and there are multiple layers of redirection that are going on
+to hide the location of the threat actor. And so it can be difficult to
+attribute specific tools or techniques to an individual. This is what we call attribution. And you can see with all the complexity
+we're introducing, how hard it might be for threat researchers to actually
+identify who is behind the attack. And we see threat actors using ingenious
+techniques to hide in plain sight. I think this really underscores
+the creativity that we see amongst thread actors. So what are some of the take aways? Well remember, hacking is a process, and the 6th phase is what we call command and
+control. And command and control, really
+are the actions used to communicate, manage and hide a threat actors activity
+and connect them with their malware. We can use custom or
+off the shelf techniques, and attribution can be difficult because
+of the interplay of proxies, encryption and
+even hiding incoming traffic. In our next episode, we're going to talk
+about the threat actors actions on target, as the final phase of the hacking process. I hope to see you next time.

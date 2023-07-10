@@ -1,0 +1,53 @@
+A futures contract is like a forward
+contract except there's an intermediary. The exchange who, you make your
+contract with the intermediary, not with the ultimate counter party,
+and they're standardized. If you drive through the country
+where they grow grains, you will see silos or warehouses here and
+there dotting the landscape. So, grain elevators are important. If you turn on the radio and listen to a local radio station, you
+will hear them quoting a futures market because farmers locally are very
+interested in those futures price. Some of them aren't protecting themselves,
+and so it's really big for them. Now you don't hear spot prices very often. Maybe you can tell me otherwise, but when
+I've been driving through the country I've been listening because spot
+prices don't mean anything. They're just a noise because you
+just never know who traded that. But the situation was the futures
+contracts are the things that the farmers listen to all the time. Now futures contracts
+rely on margin calls. >> When an investor uses margin
+to buy ourselves securities. They are paid for
+using a combination of his or her own funds as well as
+money borrowed from a broker. The investor receives
+a margin call from a broker if the securities in the portfolio
+decrease in value past a certain point. After which the investor must either
+deposit more money into the account, or sell some of the assets. >> So, I mentioned,
+with a forward contract. You're worried that the other
+guy might be a drunk, or might be irresponsible,
+might not plant the crop. Who knows? How do futures contracts deal with that? Well futures contracts, when you sign
+a contract, it's an active living thing. The contract requires you to pay a settlement every day from
+your futures margin account, based on the change in future
+is not going to add on that day. So the worker, have you signed a contract,
+you might not be very reliable person. You might be a person who sometimes goes
+for weeks without answering the phone. All right, they are taking care of that,
+in the contract. The contract says if you don't do
+anything, if we call you up and say your margin account is falling low
+because the future price is moving against you and you don't answer
+the phone we will close you out and your margin account will be,
+maybe, close to zero. We won't let it hit zero. Because they don't trust you,
+because they don't know who you are, they don't care who you are. They only look at the margin account. So you're supposed to
+allow them to deduct. They won't call you every day. If you are buying the futures and the price is going down,
+it is moving against you. You bought the futures because you were
+worried that the price would go up, right? And you want to lock in a price. If a price goes down,
+then it is moving against you, and so they will remove that
+amount from your margin account. You can get out anytime, but
+if you bought futures and price is going down, the reality is,
+you have to get out with the new price. So they've already taken
+the money from you. That was the deal from
+your margin account. And you don't have to answer the phone,
+you're not going to do anything. And it's no crime if your
+margin account is deleted. Of course, you won't be hedge
+it against price risk anymore. But you gotta answer the phone. That's why most people,
+most farmers don't trade in future, it's just too nerve wracking. Margin calls are very unpleasant. The guy tells you, well you put
+$10,000 in your margin account, I'm sorry to say it's down to $1,000. So they have what's called initial margin,
+is what they require you to put up. And they have something called
+a maintenance margin, which is when they make the phone call to you saying
+your account has gone against you. You either put up more margin or we will
+close you out, which means by offsetting. If you bought they would
+sell on your behalf. Then you're out of the market.

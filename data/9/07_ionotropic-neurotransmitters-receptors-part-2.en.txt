@@ -1,0 +1,135 @@
+So how did you do?
+Did that make sense? Did you have to back up, a few minutes in
+the tutorial and look back at the data that we just went through?
+Well, if you did then that's great but if you, found it a bit confusing then hang
+with me now. Let's look at a similar experiment.
+only now taking it to the level of the passage of current through a single ion
+channel. Okay, so let's see what happens when we
+focus again on the nicotinic acetylcholine receptor and the movement
+of ions through that receptor channel. So what we're going to do is to consider
+the flow of current that can be recorded while this membrane is clamped at
+different membrane potentials. So let's being at minus 100 millivolts.
+So what can be recorded is a strong, inward current that results in a
+depolarization of the muscle fiber. So we're still at the end plate so we're
+going to call this an EPP for an end plate potential But it's just the
+membrane potential of the muscle fiber. OK, and it's depolarizing relative to
+rest. So, why is it depolarizing?
+What explains the strong, inward current? Well, sodium ions are going to, pass
+through this ion channel. This channel, because of its molecular
+properties, is permeable to both sodium and potassium, but at minus 100
+millivolts, there's a huge driving force for sodium but almost no driving force at
+all for potassium, because 100 millivolts is very near the Nernst equilibrium
+potential for potassium. So, making the inside of the cell that
+negative is going to draw in the positively charged sodium ions which are
+going to want to flow into the cell anyway because of its concentration
+gradient. So if we have, slightly, less,
+polarization minus 90 millivolts maybe now we are just.
+a little bit less polarized than the neurist equilibrium potential for
+potassium. What we'll find is still strong sodium
+influx, so we still record a net inward current and significant depolarization
+significant end-plate potential. But notice now, that we also might
+observe a small efflux of potassium. Much less than the stronger influx of
+sodium, which is why we're still recording an inward current, but it's not
+quite the same magnitude that we say at minus 100 millivolts.
+So now let's clamp this membrane at 0 millivolts.
+And at 0 millivolts what we observe is no end plate current and with no end plate
+current we have no en plate potential. Now that doesn't mean that there's no
+movement of ions in fact sodium. Is still being driven into the cell.
+we are nowhere near the nearest equillibrium potential for sodium within
+the cell so sodium is still going to be drawn in because of the electrical
+gradient and also because of its concentration gradient.
+In a similar fashion but in the opposite direction potassium is going to flow out
+of the cell. Potassium will be repelled by this
+depolarization of zero millivolts and it's going to flow down its concentration
+gradient. So there are ionic fluxes but the key is
+is that thre is no net ionic flux. So the net current is zero.
+And in essence, at zero millivolts the influx of sodium ions is exactly
+counterbalanced by the eflux of potassium ions.
+That's why, in fact, there is no end plate current recorded.
+Okay, lastly, let's depolarize the cell to plus 70 millivolts.
+So, for muscle fiber, +70 millivolts, is getting very close to the nearest
+equilibria potential for sodium, given the concentration of sodium inside and
+outside of the muscle fiber. So, at +70 millivolts, the driving force
+for sodium Is essentially nil because we are very close to that Nernst equilibrium
+potential even though the conductance of the channel is wide open.
+However, we are far from the Nernst equilibrium potential for potassium.
+So there's a huge driving force for potassium.
+That's going to allow potassium to rush out of the cell It's diffusing down its
+concentration gradient but it's also being repelled by the positivity that we
+have imposed upon the inside of this muscle fiber.
+So, as a consequence, what we can record then is an outward current.
+And that efflux of positive charge leads to a hyperpolarizing end plate potential.
+Now, let's return to the brain. And let's consider, the inotropic
+receptors that are found at glutamatergic synapses.
+Now, as we've already seen, there are at least three types of glutamate receptors.
+we'll focus primarily on two of them. The receptor for AMPA or ampa.
+And the receptor for NMDA. When ampa is placed on a typical neuron
+in the brain, what we see is a very quick current that flows into the cell.
+typically leading to an excitatory postsynaptic potential, so we call this
+an excitatory postsynaptic current. So a very sharp very large inward current
+that happens very rapidly when when AMPAs are apply, applied to a neuron.
+If the compound N-methyl-D-aspartate is applied What we find is also an inward
+current but it's not as large an amplitude and it's a little bit slowly
+developing and it lasts a bit longer than the very fast, short ampicurrent.
+So these different profiles reflect the activation of different types of
+receptors both of which bind the andogynous ligent Glutamate.
+So, let's look in a bit more detail now at the behavior of one very important
+ionotropic receptor for glutamate, and that's the NMDA receptor for glutamate.
+So, here in the upper right, we see an illustration of this receptor.
+It is a receptor that is formed by the aggregation of typically four subunits.
+It has a binding site for glutamate, on some of the subunits, and sites that bind
+other types of molecules. I mentioned that glycine Is a
+co-transporter in the central nervous system.
+There's a binding site on these sub-units for glycine.
+so, in order for the channel pore to open, both glutamate and glycine have to
+interact with their receptors on this channel complex.
+But, there are other binding sites as well.
+In particular, there is a site deep within the pore of this channel where
+magnesium ions can aggregate. And, this is a problem for the
+conductance of the channel, because even if the pore of the channel is opened, by
+the binding of glutamate with the co-agonist glycine, current is not going
+to flow through this channel if magnesium is present.
+Magnesium essentially blocks the flow of current through the channel.
+However it's possible to get rid of that magnesium and the way that happens is by
+depolarising the membrane, so if the inside of the cell becomes, more
+positive. That positivity can expel this magnesium
+ion out from the pore of the channel. When that happens, now the cations that
+can pass freely through the selectivity filter of the channel are free to do so.
+And those include sodium and calcium ions, that can enter the cell, and
+potassium ions that can leave the cell. So this is a ion channel that's permeable
+to cations but not particularly selective for one kind of cation or another.
+And importantly The conductance through this channel is influenced by magnesium
+ions. When magnesium is bound, there's no
+conductance. When magnesium is expelled, then we see
+conductance. This relationship is charted below in the
+graph that relates the excitatory post-synaptic current.
+To the potential of the post synaptic membrane and what we see is that when
+there is the presence of the transmitter glutamate and magnesium ions there is
+little to no excitatory postsynaptic current.
+Record it at hyper-polarizing potentials. But, as the membrane potential begins to
+depolarize, when we get into this range here, now we begin to see some excitatory
+post-synaptic current passes. What happens is, the magnesium block is
+relieved. And positive cations, sodium and calcium,
+can enter the cell. But notice that as we begin to depolarize
+towards zero millivolts the current reverses.
+Now look at the behavior of the excitatory post-synaptic current if we
+remove magnesium from the solutions bathing the cell.
+In that situation, we have a relatively linear relationship between current and
+membrane potential. Which is what, one might expect, if there
+were not this blockade effect, due to the binding of magnesium ions to the inside
+of the pore of the ion channel. Now, before we leave our NMDA receptor
+channels for the present time. I just want to highlight the fact that
+the ion channel allows for the permeation of calcium.
+Now this may not seem very important at this juncture of the course, but it is
+soon to be extremely important. Because, as we'll see in a couple of
+tutorials. Calcium is critical for mediating
+synaptic plasticity and the influx of calcium whether we have a rapid
+significant rise intracellular calcium or perhaps a slower and less significant
+rise in intracellular calcium could make all the difference in the world.
+Between strengthening a synaptic connection and weakening that synaptic
+connection. And as we now understand the NMDA
+receptor channel is a key coincidence detector of post synaptic depolarization
+in pre-synaptic activity, which is critically important for understanding
+how synapses increase or decrease their synaptic strengths.
+So we'll come back to the NMDA receptor. When we talk about synaptic plascisity ,
+we're specifically focusing in on the important role of calcium.

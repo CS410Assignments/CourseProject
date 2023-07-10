@@ -1,0 +1,129 @@
+Hello, again.
+Welcome to this tutorial on the internal anatomy of the spinal cord.
+Once again, we're confronted with the complexity of the nervous system.
+So, our core concept is that the brain is the body's most complex organ.
+And our learning objective for today is that I want you to be able to identify the
+major subdivisions of the spinal cord as seen in representative transverse
+cross-sections. So, this requires enough familiarity to
+the internal anatomy of the spinal cord that we can view in cross-sections so that
+you can understand what level of the spinal cord is in view and what are the
+important gray matter and white matter structures that we can find there.
+Alright. Well, let's begin by looking at a
+histological section of the spinal cord. This happens to be from the lumbar
+enlargement of the human spinal cord. And this is a section that's been stained
+for the presence of Nissl substance. Nissl is a term we use in neurohistology.
+It refers to rough endoplasmic reticulum. So, wherever we have rough ER within a
+cell, which is typically in the cytoplasm, and there's some rough ER within the
+nucleus as well. But mainly in the cytoplasm and perhaps
+into the proximal dendrites, that's where we will find the stains.
+So, this is going to be a stain for cell bodies, and for neurons, for also the
+proximal portions of the dendrites. So what's not stained here are myelinated
+axons. So, this is one way of looking at the
+nervous system that highlights the presence of cell bodies.
+And what we can see in this image is that within this spinal cord, we have gray
+matter that is central to the cord and that gray matter is surrounded by white
+matter. So white matter is found all in these
+peripheral regions on both sides of the spinal cord.
+Okay. Now let me give you some terms that will
+help you as we go and look at the structure within the spinal cord.
+So, the white matter that we find on the dorsal aspect, and this is dorsal, is
+called the dorsal column. The white matter that we find on the
+lateral sides of the cord, is called the lateral column.
+And the white matter that we find in the ventral or the interior parts of the cord,
+is called the ventral column. So, this word, column, appears repeatedly
+in our lexicon that we use to describe white matter in the spinal cord.
+So, when you see the word, column, think white matter.
+Now, occasionally, we apply the word, column, to talk about the organization of
+cell bodies but I'll try to be very clear when that's the case.
+Otherwise, when you see the word column in your readings or in our discussions, think
+about white matter. Okay.
+So now, let's turn our attention to the gray matter of the spinal cord and we can
+recognize basically two broad regions of gray matter in the spinal cord.
+There's something that we call the Dorsal horn, which can be found in this aspect of
+the grey matter of the spinal cord. And then, there is a Ventral horn.
+And the Ventral horn, then, would be pretty much the rest of this, excluding,
+perhaps, what we might consider to be an intermediate zone between the Dorsal horn
+and the Ventral horn. We'll come back and talk about that as we
+get into different levels of the spinal cord.
+Bu the Dorsal horn and the Ventral horn provide us with our basic dichotomy
+between a sensory zone of gray matter, which is what we find in the Dorsal horn,
+and a motor zone, which is what we find in the Ventral horn.
+So, in the Dorsal horn, we have longitudinal layers of cells that are
+organized along the long axis of the spinal cord one layer on top of the other
+almost like a long series of strips of cells.
+And these strips have been recognized by anatomists over the years, and the scheme
+that seems to have, have stuck the best was proposed by an anatomist by the name
+of Rexed. And we call this scheme Rexed's layers or
+Rexed's laminae of the Dorsal horn. So, that's what the roman numerals are
+over here to the left side. So, the Dorsal horn is essentially laminae
+1 through 6. We'll spend some time talking about these
+laminae when we talk about mechanisms of pain and temperature processing,
+especially lamina number 2, also known as the substantia gelatinosa or the
+gelatinous layer of the Dorsal horn. So, we'll come back to that in a later
+session. For now, I just want you to get the idea
+that the Dorsal horn is gray matter that is receiving incoming sensory signals from
+nerves that are running in through the Dorsal roots and synapsing upon cells in
+the Dorsal horn. Now, let's turn our attention to the
+Ventral horn, which is where we find our lower motor neurons, that is, the motor
+neurons that innervate muscle, and the local circuit neurons that coordinate the
+output of those lower motor neurons. And here, we have less of a layered
+organization to these cells, more of a column organization of the cells.
+So, for example, we may find a column of cells that all innervate the same muscle.
+Not necessarily the same muscle fiber but perhaps a distributed set of muscle fibers
+that are within the same anatomical unit that we would recognize as a muscle.
+So, if the Dorsal horn is organized into long strips of cells, then the Ventral
+horn is organized more into columns. And so here in lamina 9, we actually have
+something more like a rod-shape of cells. And there are other more rod-shapes
+collections of cells that we recognize as laminae 7 through 9.
+Now, we still use the term laminae, but as I'm suggesting, the organization in the
+ventral horn is more columnar or rod-shaped, than it is laminar.
+Alright. So there are connections between the
+Dorsal horn and the Ventral horn made by local circuit interneurons, and in one
+special case, there is an incoming sensory axon that synapses directly on alpha motor
+neurons that mediates our very fast myotactic reflexes.
+So, we'll talk about that in a later tutorial.
+For now, I just want you to have an overview of the organization of the gray
+matter in the spinal cord. And since it's gray matter, we expect to
+see cell bodies and that's why I'm showing you this Nissl stain.
+But now, let's turn our attention to the white matter that surrounds that gray
+matter. And for that purpose, I want to show you a
+myelin stain section. So, so this is a typical way that a myelin
+stain section might look at a cross-section through the nervous system.
+One can often see a great detail that is otherwise not made visible in Nissl stain
+if you stain with silver salts or perhaps gold chloride or otherwise make the white
+matter look dark. So, please don't be thrown off by this
+convention. Essentially, wherever we see dark
+staining, we are looking at white matter. So, that means that where we see the
+lighter stain, that is going to be gray matter.
+So, this is essentially the inverse visual appearance of what we just looked at with
+the Nissl stain. Okay, I think that should be clear enough.
+So, what we have here is white matter that surrounds gray matter.
+And we recognize, basically, three zones of white matter around this gray matter.
+On the dorsal side of the spinal cord, or the posterior side, we have the dorsal
+column of white matter. On the lateral side, roughly to about this
+region, we have what we call the lateral column.
+And then, on the ventral or the anterior side, we have white matter that we
+recognize as the ventral or the anterior column of white matter.
+Now, in each region of white matter, we're going to find different kinds of sensory
+or motor pathways. And we'll get into that in quite a bit of
+detail as we progress over the next couple of weeks.
+So, I won't give you all that detail now except to just make a few broad statements
+about how these tracks are organised within this white matter.
+Essentially, the dorsal column is a sensory zone.
+There are sensory axons that are ascending the spinal cord in the dorsal columns.
+In the lateral column, we have a mixture of sensory axons, and one very large and
+very important motor pathway that occupies actually most of this dorsal, excuse me,
+most of this lateral column, and that's the lateral cortical spinal tract.
+We'll spend a fair amount of time on the organization of that one pathway.
+Now, likewise on the ventral or the anterior column, we have a mixture of both
+sensory and motor pathways. And here, with respect to the sensory
+pathway, there is one very important pathway that we'll spend a fair amount of
+time talking about. And that pathway we find roughly in this
+region of the ventral or anterior column. And this is where we find our pain
+pathways that are ascending the spinal cord, conveying sensations about pain and
+temperature to processing stations in the brain stem and in the forebrain.
+Much of the rest of this system is a collection of small descending motor
+pathways that are conveying signals mainly from the brain stem to the ventral horn of
+the spinal cord. Alright.
+So, stay tuned, we'll talk about those sensory and motor pathways in detail as
+needed, as we get into a discussion of sensory motor systems.

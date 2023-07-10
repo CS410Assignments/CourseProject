@@ -1,0 +1,226 @@
+Welcome to this tutorial on the
+Propagation of Action Potentials. This is the final tutorial in a set in
+which we've been considering the ionic basis of the resting membrane potential,
+the action potential. The molecular mechanisms involved in the
+generation of action potentials. And now, we're going to talk about how
+these signals propagate along the length of an axon.
+So welcome to my home. It's a chilly, rainy evening.
+I suspect you can probably hear the rain falling in the background.
+So please don't mind that. It may sound a bit staticky but it's
+really a lovely sound from where I'm sitting.
+And I hope you can enjoy that with me this evening.
+Well, let's begin. Once again, our story today on the
+propagation of the action potential. Pertains to, our second of our eight core
+concepts in the field of neuroscience. That is, that neurons communicate using
+both electrical and chemical signals. Our learning objectives for today are that
+I want you to be able to describe the ionic basis of the action potential.
+In terms of the voltage in time -dependant changes in ionic permeabilities that occur
+across the neuronal plasma membrane. Same learning objective you saw with our
+last tutorial. But now what I want you to do is to apply
+that knowledge to the concept of propegation of action potentials along a
+lenth of axon. And that brings us to our second
+objective, and that is to consider the benefits of adding myelin to an axonal
+sheath. So I want you to be able to characterize
+the advantages of myelin for the conduction of a l-, action potential along
+an axon. Well, in order to set the stage for what I
+want to discuss with you today. I'm going to recommend that you pause for
+just a moment and view animation 2.3 at the website that supports our textbook.
+This animation will account for you again the ionic basis of the action potential.
+You can click on the hyperlink that's part of your tutorial notes.
+Or navigate yourself to the website that supports our text.
+Okay well, I think we're ready to move on. And let's consider for a starters some of
+the properties again of an axon. And some of the limitations that need to
+be overcome as we consider what it takes to propagate an action potential.
+Now, you'll recall a point I made right at the start of the course, and that is that;
+neuronal membranes apparently poor conductors of electricity.
+One reason for that, of course, is that these membranes tend to be somewhat leaky.
+They just don't allow for the conduction of electrical charge very efficiently.
+And this phenomenon is illustrated with. The application of a relatively weak
+electrical signals to a length of an axon. So we might call this a sub-threshold
+stimulus one that is not going to depolarize neuron sufficiently to reach
+threshold for falling an actual potential. So threshold in this particular axons is
+around minus 50 millivolts. And even right near our stimulating
+electrode, we record a depolarization of only about seven or eight millivolts.
+So, not sufficient to bring this neuron from minus 65 to minus 50.
+But that's okay. This experiment illustrates the point that
+all we have to do is travel a relatively short length down this axon.
+Just a few millimeters, and already there's significant decay of the current
+that's been passed at a particular site. So without the presence of myelin, an axon
+by itself is just not going to provide, sufficienct conduction through purely
+passive means. Now, when we talk about the passive flow
+of current along an axon, this is essentially what we're talking about.
+With the sub-threshold depolarization, all we have is passive current flow down this
+axon. And due to the leakiness of the membrane,
+especially in the absence of myelin, there's just not much hope of conducting
+the electrical signal more than a millimeter or so.
+But thankfully, there are indeed active properties that can facilitate the
+propagation of an action potential. So now, let's look at a length of axon
+that is stimulated with a stronger stimulus.
+Such that the local region of the membrane is depolarized sufficiently to achieve
+threshold for firing a action potential. And then let's watch what happens.
+Okay. This is a bit of a busy figure from your
+textbook, figure 3.10. But I think it illustrates quite nicely
+the basic phenomenon that we want to consider.
+Let me just set up this figure for you, just a little bit.
+So we have three moments in time. That are illustrated.
+Time 1, time 2, and time 3. And then we have three locations along the
+axon that are illustrated. Point a, point b, and point c.
+So let's begin at time equals 1 and point a.
+And so this, in fact, will be the site at which we stimulate this axon by injecting
+positive current at this local site. Now, if we inject sufficient current to
+depolarize this membrane beyond threshold. What we will have is an action potential.
+Okay? And that action potential, as you now
+know, involves the voltage dependent opening of sodium and potassium channels.
+First sodium, very quickly, and that allows for sodium to rush in through these
+open sodium channels. And that sodium now triggers the passive
+movement of charge along the length of this axon.
+So that charge is going to go in both directions, away from this side of
+stimulation. Now let's see what's happening as we move
+from point A to point B. Positive charge is flowing as indicated by
+the red shading in the middle of the axon. And as we reach point B, now, if there is
+sufficient depolarization of this membrane, the next batch of sodium
+channels are going to open up, sodiums going to rush in.
+And the wave of depolarization is going to continue in this direction from point A to
+point B, and now from point B to point C. But let's return upstream to point A where
+we initially stimulated to consider what's happening.
+Recall that the opening of potassium channel lags behind the opening of sodium
+channels. So this means that while an action
+potential has been triggered and depolarization has reached point B, at
+point A now. What we have is the opening of potassium
+channels and the efflux of potassium ions. This means that The initial site of
+stimulation is now engaged in the process of repolarization.
+This, in essence, puts a brake on the back propagation of the action potential.
+Allowing the signal to propagate. Primarily in the downstream direction from
+the site of stimulation to outward. Okay.
+So, now let's arrive at point C and as with point B, the depolarization.
+Is sufficient to open enough voltage-gated sodium channels that the inward sodium
+current is greater than any lake of potassium current and any voltage
+dependent efflux of potassium. That means that sodium is going to rush
+in, that positive cycle is going to be regenerated and The action potential will
+continue to propagate. Now, if one is to put a recording
+electrode at each of these points. What we'd see is that, at time 1, at point
+A, we have an action potential. At point B, a little later in time, we
+have an action potential recorded. And further along the axon at point C, and
+a little later in time, we can likewise record another action potential.
+Now while point C is firing its action potential, again the process of
+re-polarization is taking place upstream at point B.
+So potassium ions are leaving. As the potassium channels open more
+slowly, and that again puts a bit of a blockade on the backwards propagation of
+that action potential. So this slower negative feedback loop in
+essence helps to push the action potential Down in a direction that, for most axons,
+would be physiological. Now, let me make a point about
+nomenclature. We talk about the propagation of an action
+potential. Or the conduction of the action potential,
+as if something's actually moving. Well, what's moving as charge within the
+cytoplasm of the axon. But really, what I think you can
+appreciate is that the action potential is being regenerated at each of these points
+A, B, and C. One additional point to make before we
+leave figure 3.10. And that is the importance of passive
+current flow. The passive current flow that I've been
+speaking about refers to this movement of charge down the axis cylinder of the axon.
+And, as you know from your studies of the movement of fluids through tubes from
+physics That the greater resistance. Then, the less flow there's going to be,
+down that cylinder. The same is true for the movement of
+charge. So, small diameter axons impose greater
+resistance to the axial diffusion of ions. Or the axial conduction of charge.
+Larger diameter axons are for less resistance and facilitate the rapid
+conduction of passive current. This is why small diameter axons will have
+a slower propagation rate of action potential conduction.
+Compared to larger diameter axons. So one way to speed up action potential
+propogation is to incrase the diameter of an axon and vice versa.
+Okay, now what about myelin. How does myelin contribute to the
+propogation of action potentials. Well, I would remind you that myelin is
+produced in the central nervous system by oligodendrocytes.
+In peripheral nerves in the body, myelin is made by Schwann cells.
+But we're focused mainly on the central nervous system in this course so I'll use
+as our example for myelin forming cell the oligodendrocyte.
+So, you'll remember that the oligodendrocyte grows out a plasmalemma or
+a layer of membrane, that then wraps around a segment of axon.
+The length of that segment is typically about a millimeter, sometimes, More,
+sometimes less, but typically a millimeter.
+And at the junction of a myelin sheath that's formed by one cell and different
+cell, is a gap. And that gap is known as a Node of
+Ranvier. And at this gap we have a concentration of
+Ion channels. Channels for sodium and channels for
+potassium, allowing for the regeneration of action potentials at the Nodes of
+Ranvier. In between the Nodes of Ranvier, we have a
+tight wrapping of myelin. Which serves to increase the passive
+current flow by making the myelinated segment of axon much less leaky than it
+would be otherwise. So more charge is effectively transferred
+from one node to the next. There's another advantage here to the
+presence of myelin. And that is that this Node of Ranvier
+presents a limited space for the concentration of ion channels.
+Without myelin to ensure effective propagation of axon potentials, one might
+imagine a much larger number of ion channels would need to be inserted into
+the membrane in order to ensure propagation.
+But with myelin, a smaller number of ion channels can be concentrated in, much
+less, surface area along the axonal plasma membrane.
+So this leads to greater efficiencies as well as greater, speed of conduction.
+So let's look at how this works. Consider a similar kind of an experiment.
+Looking at a length of axon at three points in space along the length, but also
+at three moments in time. And consider what happens when a stimulus
+is applied, let's say to point A. So when this happens, as we saw
+previously, voltage-dependent sodium channels open, sodium rushes in.
+And positive charge can now very effectively and very rapidly passively
+diffuse down along the length of myelinated axon.
+Until the next Node of Ranvier is reached. We'll call that point B.
+Here, sodium channels are opened. More sodium can rush in as the action
+potential is regenerated here. The net positive charge, now again,
+effectively, passively Defuses down that axon and reaches our third point, point c,
+again regenerating action potential as sodium ions rush in.
+Meanwhile upstream at each of these sites, there is the delayed opening of potassium
+channels. So, potassium flows out.
+The membrane repolarizes again putting the brakes on the back propagation of that
+action potential. The same would be true, of course, with
+the repolarization of the membrane. At site B.
+As an action potential is generated one nodal length.
+In the downstream direction at point C. So, the advantages of myelin is really
+twofold. One is an increase in the propagation of
+action potentials in terms of both efficiency and in terms of the conduction
+velocity. But also there is an advantage of economy.
+Fewer ion channels need to be produced by the cell body and inserted into a much
+more reduced surface area of axonal plasma membrane.
+Now, let's compare the generation and propagation of action potentials in an
+unmyelinated axon that might be sitting in a spinal nerve right next to a myelinated
+axon. The unmyelinated axon might be a post
+ganglionic axon derived from an autonomic nervous system neuron.
+The myelinated axon could be a sensory or motor fiber present in peripheral nerve.
+And if we stimulate, nearby locations along that nerve.
+We might drive sodium into both of these axons and trigger an action potential at
+the same time in the same place. But because of the presence of myelin, the
+propagation of positive charge is going to be Much more rapid and much more efficient
+in the myelinated axon compared to the unmyelinated axon.
+And so we are able to generate the second action potential efficiently at the next
+node in just a fraction of a second. Meanwhile, in the unmyelinated axon.
+In order for there to be effective conduction of action potentials.
+We need to put very many voltage dependent sodium and potassium channels along the
+length of this membrane, to ensure the regeneration of action potential at each
+adjacent point along its length. Now, as we continue to move down that
+axon, we see that at least in this illustration, we've about doubled the
+relative conduction velocity of the mylenated axon compared to the unmylenated
+axon. Again, with the additional advantage, a
+fewer ion channels are needed, only at the nodes to regenerate the action potential.
+Compared to what must be necessary in this un-myelinated axon where the action
+potential must be regenerated at each adjacent location in the membrane.
+Now there's a term for the type of conduction that we see in the myelinated
+axon. It's called saltatory conduction.
+Which means, to jump. So, the implication is that the action
+potential jumps from one node to the next, along the length of this myelinated axon.
+And it's because the action potential need not be regenerated along each adjacent
+segment of membrane. Because of the efficiency of the passive
+flow of current along the length of the myelenated segment.
+Action potentials only need to be regenerated at each node.
+So there's this jumping of signal from one node to the next to the next to the next
+along a myelinated axon. So, I'd like to leave you with a study
+question that will challenge you to consider how these concepts might play out
+in a clinical condition. That might affect the integrity of myelin
+sheaths around axons. One of the, more common conditions that
+can produce this result is multiple sclerosis.
+So consider the study question that you can find here, as well as at the bottom of
+your tutorial notes, and respond accordingly.
+Lastly, I would encourage you to view animation 3.2.
+You can do that by clicking on the hyperlink in your tutorial notes document
+or follow the your browser's navigator to the website that supports our textbook.
+And view animation 3.2, Impulse Conduction in Axons.
+And hopefully that'll give you yet a different take on this important concept
+of the propagation of electrical signals along the length of an axon.

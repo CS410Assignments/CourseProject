@@ -1,0 +1,149 @@
+So I'd like to now give you a broad
+overview of the function of this part of the inner ear.
+So we have a little region right here that's called the oval window, and this
+Oval window is the site where the Stapes makes contact with the inner ear.
+So you recall that the Stapes is the, most proximal of those 3 inner ears
+ossicles and it functions like a little piston that moves back and forth, back
+and forth, providing pressure on the inner ear at the level of the Oval
+window. And that's the Stapes bulges into that
+Oval window, pressure waves are transduced into the fluids that run in
+the Scala Vestibule and the Scala Tympani.
+And these fluids are then conducted along the entire length of the Cochlea.
+from this site of inward protrusion here in the Oval window.
+And then eventually, that pressure is relaxed with an outward bulge at the
+round window. And along the way, there are vibrations
+that are set up along this Cochlear partition.
+From the base of the Cochlea all the way up through its Apex.
+These waves of pressure that are conducted through the fluids that run
+through the Cochlea, then, will cause a vibration to happen within this Cochlear
+partition. And that vibration then will cause a
+mechanical deflection of those tiny Silia at the tips of the hair cells and this
+will be key for the transduction of this energy in to electrical signals.
+Now what I'd like to do next is to talk about the tuning properties of this
+Basilar membrane. And one convenient way to do it will be
+to uncoil this Cochlea and stretch it out flat and have a look at the properties
+that exist across the length of that Basilar membrane.
+So that's what we've done here. this is a representation of the human
+Cochlea. So here's our Stapes pressing back and
+forth against the Oval window. Here's the round window where that
+pressure is commensurately relieved. And now I think we can better appreciate
+how pressure waves might travel from the Oval window out to the Round window.
+With this point of continuity at the tip of the Cochlea which was, which is called
+the Helicotrema. So on the superior side we have the Scala
+vestibuli, on the inferior side the Scala tympani.
+And what the movement of the Stapes does then is, sets up a traveling wave that
+causes the Basilar membrane to vibrate up and down as these waves are conducted
+throughout the Cochlea. And it's this movement of the Basilar
+membrane, specifically the movement of the Basilar membrane against the
+Tactorial membrane that causes the hair cell Cilia to move one way and then the
+other. Now as we look at this Cochlea unwound we
+need to appreciate some of the bio-mechanical properties of the Basilar
+membrane. Brain that allow for that important
+function to be performed, that is the decomposition of complex sound into
+component frequencies. So near the base of the Cochlea, the
+basilar membrane is considerably thicker. And stiffer, than what we find at the
+apex. At the apex of the Cochlea, the Basilar
+membrane is broader, and it's much thinner.
+Than what we find at the base. And, this gradation we find between the
+base of the Cochlea and the apex allows the Basilar membrane to map out in a
+smooth progression tone. With high frequencies being represented
+near the base of the Cochlea where the Basilar membrane is much stiffer.
+And it will vibrate best at high frequencies, compared to the apex of the
+Cochlea where the Basilar membrane is much more pliable and vibrates best to
+low frequencies. So if we looked at, for example,
+positions one and two here near the base, we find higher frequencies that give rise
+to the greatest amplitude of vibration. Whereas positions six and seven now
+vibrate best, with greatest amplitude with Low frequencies of stimulation.
+Now, in addition to these biomechanical properties that establish this important
+Principle of Tonotopy, or frequency mapping in the Auditory System, there are
+active mechanisms that involve the Outer hair cells that fine-tune.
+The way this coupling works between the Basilar membrane and the Tectorial
+membrane. If we look then at this organ of Corti,
+in the Cochlear partition. what we see is contact between the
+Tectorial membrane and this organ of Corti, this Sensory Epithelium.
+And the contact is in the form of these Sterocilia that grow out of the Apex of
+these hair cells. These Outer hair cells.
+They're innervated. But they're actually innervated by Axons
+that have an efferent signal. So we can think of them as being motoric
+in nature. The motor is actually in the hair cell
+itself. So what these hairs cells do is they can
+contract, and extend and as they do so they change the stiffness of their
+contact with the Tectorial membrane. And this active mechanism then allows for
+the vibrations to be fine tuned by the central nervous system.
+Meanwhile, the Inner hair cell is innervated by Sensory Fibers, that have
+grown out of the Spiral Ganglia. That sits near the axis of rotation of
+this Cochlea. And these sensory endings, then, will
+receive the electrical signals that are generated here in the Inner hair cells.
+So, let's now see how this all works. So, as traveling waves run through the
+Scala vestibuli, around the Helicotrema into the Scala tympani, this Cochlear
+partition begins to vibrate up or down. And because of the pivot points of these
+two Membranes are offset relative to the center of the Cochlea.
+What we find is, a Shearing force develops as this Cochlear partition rises
+upward and then recesses downward. This Shearing force deflects the
+Stereocilia at the tips of these hair cells first in one direction.
+And then in the opposite direction. So with each up and down cycle, there is
+a wagging back and forth of these Stereocilia at the Apex of the hair
+cells. And that movement of the Cilia will open
+and close ion channels that allow ions then to enter the tips of these
+Stereocilia and generate graded potentials in the Inner hair cells.
+So let's now talk about how Sensory transduction actually works at the tips
+of these hair cells. So as I mentioned earlier, there is a
+third channel that sits in this Cochlear partition and it is quite special.
+It has a different kind of media in it compared to what we find in our Scala
+vestibuli and our Scala tympani. In those two larger channels.
+The solution that we have there is called Perilymph and Perilymph is very similar
+to the solution that based most of the cells of our body.
+it has a relatively low concentration of Potassium and as you now know quite well,
+within nerve cells Potassium is concentrated to quite high levels.
+Now, the Scala media is really distinct in this respect.
+It has very high levels Potassium. This Endolymph is enriched in Potassium
+because of the activity of cells in a highly Vascularized Structure that has
+extremely high metabolic activity. It's called the Stria vascularis and this
+is an Epithelium that secretes Potassium and concentrates it within the Scala
+media. Now why is that relevant for Sensory
+transduction? So here is an Inner hair cell, and its
+Stereocilia are protruding off the Apical surface of the organ of Corti, that
+Sensory Epithelium, and at the very tips of these Stereocilia are Potassium
+channels. And the Potassium channels from one
+Stereocilia to the next are connected with a spring-like protein called a tip
+link. And what that protein does is it connects
+a gate that is on the Extracellular side of this Potassium Channel, from one
+Stereocilium to the tip of an adjacent Stereocilium.
+And as a result, as these Stereocilia wave in one direction, the tip links are
+stretched, and that transduction gate is opened.
+And when the gate is opened, then Potassium ions can rush down their
+concentration gradient because remember, Potassium is concentrated to very high
+levels here in the Scala media. So as Potassium enters through these
+Potassium Channels at the tips of the Stereocilium, the hair cell will
+depolarize. And a graded potential is established in
+that hair cell with the influx of Potassium.
+That potential eventually opens up Voltage-gated Calcium Channels That exist
+on the sides of these hair cells. So now, not only does Potassium enter
+through the apical surface of the hair cell, now Calcium rushes in through the
+Basal lateral aspects of the hair cells. And as Calcium enters, then a Calcium
+dependent Exocytosis of Synaptic Vesicles occurs along the Basal region of the hair
+cell. Essentially, Neurotransmission occurs.
+A Neurotransmitter then is secreted from these Vesicles.
+And makes contact with receptors at the peripheral and of the spiral ganglion
+processes. So this afferent nerve here then is
+receiving synaptic connection from this Inner hair cell.
+And with the release of transmitter binding to receptors, ionotropic channels
+open up, and cations rush into that afferent nerve terminal, and an action
+potential is generated that may then propagate into the brain.
+Now, what I've described for you is what happens when the stereocilia are
+deflected In a particular direction towards the longest Stereociliam, that's
+the deflection that puts stress on the tip link.
+Pulling open that transduction gate allowing for Potassium to flood into the
+Stereocilia. Well, I mentioned that these cilia will
+move back and forth with the upward and downward of deflection of the Basilar
+membrane. As these Stereocilia then relax back and
+are bent in the opposite direction, away from the tallest Stereocilium.
+Then the stress on those tip lengths is relaxed and the transduction gate can
+then close over the top of the pore of the channel.
+So, the movement of these Sterocilia allow for the cyclical opening and
+closing of this transduction gate, and one can imagine, then, what would happen
+to the membrane potential. The membrane potential would rise, would
+depolarize as the Stereocilia are deflected towards the largest
+Stereocilium and then the membrane potential would fall or hyperpolarize.
+As those tip links are now relaxed, the gates close and Potassium no longer
+rushes in.

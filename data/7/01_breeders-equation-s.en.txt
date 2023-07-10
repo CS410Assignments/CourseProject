@@ -1,0 +1,131 @@
+Hello and welcome back to Introductions
+to Genetics and Evolution. In the previous videos we've
+been trying to distinguish what fraction of phenotypic variance. How much of the variation you
+see in traits like height, skin color etc.,
+come from genetics versus the environment. In this video I'll introduce you to what's
+refered to as the Breeder's Equation. But first,
+let me recap a couple of points. Now the trait variance that we are
+interested in, so this is any trait that you can be looking at, such as height,
+eye color, or anything that you can quantify in some way, has some genetic
+fraction and some environmental fraction. And we can simpilize this
+with a very simple formula. VP which is the phenotypic
+variance is equal to VG. That's the fraction of the phenotypic
+variance that is genetic, plus VE, which is the fraction of the phenotypic
+variance that comes from the environment. And again, we want to quantify how
+much is genetic versus environmental. The concept I introduced last
+time was that of heritability. That is the proportion of the total
+phenotypic variance, that is genetic. Now this is important, because this
+genetic component is the component that can respond to selection, whether that
+selection is natural or artificial. Now, again, this is a proportion,
+it ranges from 0, meaning that all the variation
+is environmental, to 1 meaning that all the variation
+you see is genetic in origin. Now we talked about means
+of identifying this before. But a new means I want us to start looking
+at here is in response to selection. Now this picture shows several students. The ones in white are girls. The ones in black are boys. The average height in this population,
+as you can see, is about 5 foot 7 inches. Now let's imagine that we take the circled
+individuals here, that guy and that girl, and let's say they had a bunch of kids. What would we expect? How tall would those kids be? Now one possibility is that they would be,
+on average, about 6' 0", just like their parents. That's a possibility. The other possibility is they
+might be 5' 7" on average, just like the overall population. Now, these are two very
+different outcomes. Now, if height was purely
+determined by the environment, then we might expect this latter one. We might expect that
+the offspring would look like the original population because it
+didn't really matter who the parents were. In contrast, if height was purely genetic,
+then we might expect the kids to look just like their parents because they
+inherit the genes from their parents. Well, we can calculate
+heritability by looking at this response to artificial selection. By looking at individuals who are not
+representative of the original population, breeding them and seeing what
+happens in terms of their offspring. So let's use corn,
+one of my favorite examples. Let's say you're looking at corn height. Now let's say corn height
+averages around 5 feet. Okay, so the population you're looking at, that's the average height
+of plants of corn. Let's say you select a group of 7
+foot tall corn and you breed them. Now if the offspring of these 7 foot
+tall plants averaged 7 feet also. So you looked at a lot
+of individual offspring, on average they ended up having
+a distribution look something like this. Then that suggested the variance
+that we see here is purely genetic. The heritability is 1, because you see the offspring inherit the
+traits of their parents completely, okay? In contrast, if the height of the 7 foot
+plants were actually 5 feet instead. So, instead, the offspring would be more
+like this, then that suggests the variance in height is purely environmental or
+a heritability of 0. So this was a heritability of 0. I showed you previously
+the heritability of 1. What would happen if the height of the
+offspring of the 7 foot plants averaged 6? What might you expect heritability to be? Well it's a very simple answer. Well, 5 feet meant it was 0. 7 feet meant it was 1. So, 6 foot would unsurprisingly mean
+the heritability is 0.5, right? Or we can do the same thing and
+divide this up. That again if they averaged 5 feet,
+heritability was 0. If they averaged 6 feet it's 0.5. In between,
+if they're 5.5 feet it would be 0.25. Essentially what we're looking at is, we're looking at the point from
+where we started which was 5 feet. That was the starting population average. We're looking at the average of the
+selected group, which in this case was 7. And we're looking and
+seeing the offspring. How far did they get from
+the starting population average to the selected population average? A fraction of the way they make it is
+the heritability, and that is true. And that is actually how you can estimate the genetic component to
+whatever trait you're looking at. Now let me give you an analogy that might
+make this a little bit easier to see. This is a map of a subsection of
+the state of North Carolina where I live. So I live over here in Durham,
+North Carolina. That's where Duke University is. Now let's say I was
+trying to go from Durham, North Carolina along this interstate. This is I-85 I think, I can't remember. Let's say I was trying to go down
+to Charlotte, North Carolina. Now, if you start in Durham, you're trying to get to Charlotte,
+this is 150 miles away. That is similar to the selected group,
+so the starting thing was here. The place you're trying
+to get was over here, but let's say I only got to the city of
+Greensboro, I only got 50 miles from here. So what fraction of the way did
+I make it to my destination? Well, I was trying to go 150 miles,
+I only made it 50 miles. So, I made it a third of the way there. Well, that's the same concept when
+you look at artificial selection in estimating heritability from it. That, you're starting with
+a population average of 5, you're trying to get to this average,
+cuz this is the selected group. So these are the 7 foot tall corn. So, the distance I was trying
+to go here was from 5 to 7. So, I was trying to go 2. In fact, I only got 1. This is the new population's or
+the next generation's average which is 6. So I started with 5, was trying to get
+to 7, but I only made it as far as 6. So therefore, the heritability
+in this case would be 1 over 2. So 1, which is the response to selection,
+over 2 which is the selected group. So in this sense we can redefine
+heritability from one generation selection experiment, heritability can be
+defined as how far you got, or the response to selection
+after one generation. Relative to how far you
+were trying to get, or basically how intensely
+you were selecting. So heritability can be
+defined as R over S. The reason we can do this, is because
+R is dictated by the genetic variance. Whereas S is a combination of genetic,
+and environmental variance. Because that's what was in
+the original population there, right? Because again, as I mentioned earlier, the response to selection can
+only be through genetic variance. Now again, this measures the fraction of
+phenotypic variation that is genetic, because this is equivalent
+to Vg/(Vg + Ve). Or, as we said before, Vg/Vp. So let me give you
+a sample problem to try. Let's say you're selecting for
+plumper turkeys to have a nice dinner. Let's say you start with a population of
+turkeys, the average weight 25 pounds. And let's say you select turkeys with
+an average weight of 45 pounds from this overall population. Right, so in the population
+let's draw how this might look. Here's the distribution
+of weights of turkey. Here's your 25 pound turkey. There's a subset that are 45 pounds,
+so you select this group. Now let's say the offspring of these
+45 pound turkeys weigh 40 pounds. So the offspring maybe like here. What is the heritability
+of weight in these turkeys? Try this problem. Welcome back, I hope that wasn't
+a very difficult problem. Again we're starting with 25 pound
+turkeys, we're selecting for 45 pound turkeys, and the offspring
+that we got were 40 pound turkeys. So what is first the intensity
+of selection here? Well, we're trying to go from 25 to 45. So in this case S = 20 because that
+is the difference between 45 and 25. The response, in this case we
+started at 25 and we only got to 40. In this case that is 15,
+which comes from 40- 25. So R / S would be equal to 15 / 20. In this case would be 0.75, so the
+heritability in this case is fairly high. That 75% of the variation that
+we see is genetic in origin. Now, I should remind you these
+are not perfect predictions. This is just giving you
+an estimate of heritability. And this comes back to the points that I
+raised at the very end of the last video. The amount of environmental variance
+is not necessarily constant. Some populations may have more or less
+genetic variance than other populations. This is what you saw for
+your turkeys and your farm. In another farm you may
+get a different outcome, and you have to remember
+what you're calculating. You're looking at the fraction of total phenotypic variance in the population
+you're studying that is genetic. So that is the Vg over Vg plus V. But again, this is very important and this
+is something that's not only utilized just in the context of artificial selection,
+but this is important for both artificial and natural selection. With artificial selection,
+and these are very, very similar concepts, the breeder
+is choosing desirable traits and has organisms with the most extreme
+desirable traits breed to do it. So let's say for example you're trying
+to select for friendlier collies. You take your two friendliest collies and
+you breed them. The same sort of thing happens
+with natural selection, that particular traits will facilitate
+survival or reproduction and organisms with the most extreme such
+traits end up having the most offspring. So the same principle applies. And again the response to either kind
+of selection, whether it's natural or artificial is always going to be
+in terms of the genetic variance. Well, thank you very much. I hope that was helpful.

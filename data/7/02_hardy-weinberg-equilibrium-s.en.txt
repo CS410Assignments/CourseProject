@@ -1,0 +1,164 @@
+Hello, and welcome back to
+Introduction to Genetics in Evolution. In the previous video, we talked
+about calculating allele frequencies. We talked about calculating
+genotype frequencies. And the important thing I emphasized
+at the very end of the last video was, with these sorts of assumptions that
+gametes just come together at random based on their proportions,
+we end up with a stable equilibrium. And, in essence, the allele
+frequencies don't change over time. The genotype frequencies
+don't change over time. That is, by definition, an equilibrium. Now, this pattern was first described
+by these three gentlemen here. This is Godfrey Hardy over here. Wilhelm Weinberg over here. So they're the ones who
+typically are named for this, as the Hardy-Weinberg equilibrium. There's also American, William Castle,
+who introduced a similar idea around 1903. But, the important thing was
+the idea of self perpetuation. This is what I showed you in the end of
+the last video that you had an allele, a big A allele frequency
+of 0.6 in gametes. They created the seven genotypes with
+a little allele, 0.36 with big A, big A, 0.48 with big A, little A,
+0.16 with little a, little a. The following generation you would
+again have this .6 frequency of the big A gametes and correspondingly the .4 for
+the little a. Now, up until 1902, several people
+thought that it was possible that the dominate alleles would intrinsically
+increase in the population. They are after all called dominant. And some people also assume that rare
+alleles would just tend to get lost and have this inherent drive towards loss. Now it was in 1908, and
+also probably from the 1903, contribution. Hardy and Weinberg independently showed
+that both these assumptions are not true. That if you can just use this purely
+probabilistic approach, allele and genotype frequency will
+stay completely stable. Now there are assumptions
+underlying this and we're gonna come back to those
+assumptions in just a moment. Before we come back to that, let's change
+this into a more mathematical notation. So let's formalize the math. Now let's say these are typical
+notations people use. Let's say the frequency of
+big A is referred to as p. Also the frequency of little a,
+is referred to as q. Again we're assuming there's only
+two alleles in this population. Because there are only two types,
+p plus q must necessarily equal one. Plus if p is one,
+then q must necessarily be zero. You can't have negative numbers
+because these are frequencies. What would the frequency of big A,
+big A be? Well, it would be the probability of
+a big A encountering another big A. So necessarily,
+it would be p times p or p squared. Right, we can push this in P squared for
+big A big A. Q squared for little a,little a. 2pq for big A, little a. Why is it 2pq? Why isn't it just pq? Doesn't it just mean a big A and
+a little a? Again there are two different
+ways you can have it. You can have a big A, sperm and
+a little a, egg or a little a, sperm and a big A egg so
+there's two different ways you can get it. Again, these genotype frequencies
+must necessarily add up to one. So P squared plus two p q
+plus q squared equals one. You note that this quantity
+squared will come out to that. Right?
+P plus Q squared is 2pq plus q squared. So, it all comes out very elegantly. Let me show you how the frequencies
+would look if you were to plot these things together
+with these assumptions. So what you see in this graph here on
+the X axis, are the frequencies of big A, little a. P being the frequency of big A,
+q being the frequency of little a. And on the Y axis here, you see the
+frequency of the different genotypes that are depicted with the different
+colors here as well. So big A, big A's, our p square is in the
+red, the little a, q squared is in blue. Green is 2pq, okay? And as you can see the abundance
+of the heterozygote peaks out around 50% and
+as you get to the two ends you end up having one of the two
+homozygotes being completely abundant. Obviously at the extreme end here, if there are no big A's then everybody
+in the population must be aa. If there are no little a's, then everybody
+in the population must be big A,big A. Now this allows you to infer
+genotype frequencies from allele frequencies because you can say,
+well I know the allele frequency is .8 for big A and .2 for little a. So you immediately say, oh here's the abundance of big A,big A,
+Big A little a, little a, little a. However some assumptions have to be met
+and we haven't gotten into that yet. Now let me give you three points. The third is going to come
+back to these assumptions. Number one.
+You can always know genotype frequencies from genotype counts. I showed you an illustration of that
+before, but here it is as an example. Here's big A, big A's, big A little a, little a little a, well all you have to
+do to figure out the genotype frequencies from the counts is to add them up to
+find the total and divide by the total. So, let's do that. Add them up,
+there are 200 total individual. Divide each by 200, and
+there are your genotype frequencies. That's all it means, it's just the
+relative abundance of the three genotypes. And again,
+this always has to add up to 100%. And point number two. You can always know allele frequencies
+from genotype frequencies. Let's say for example we have
+these three genotype frequencies. We can use this little
+trick I showed you before. All the homozygote plus half
+of the heterozygote gives you the particular allele frequency. So for example for big A,
+all the homozygotes 0.4. Plus half the heterozygote,
+which is half of 0.32 or 0.16. It comes out to 0.20. All of this one is 0.64 + half of 0.32 or
+0.16 = 0.80. And again they add up to 100%. The third one though,
+the third point is you cannot always know genotype frequencies
+from allele frequencies. That's what it seemed like we could do
+with that figure I showed you earlier, but let me show you why. Let's say, for example, that the frequency of big A's 0.5,
+frequency of little a is 0.5. Simple case, right? Well, you could have 0.25,
+0.5, and 0.25, right? That adds up to 100%. If you do all of these plus half of these,
+that is 0.5. All of these plus half of these,
+that's 0.5. That's actually at
+the Hardy-Weinberg expectation. But you could also have other
+possibilities that don't match the Hardy-Weinberg
+expected abundances. You can have this,
+0.45 plus half of .10 is still 0.5. This .45 plus half of .10 is still point. You can even have this,
+what if you had heterozgotes? Again the little frequencies
+here are 0.5 and 0.5. So, the bottom line is
+you can always calculate allele frequencies from
+genotype frequencies. The reason for this is that alleles
+are the ingredients of the genotypes. But you cannot always calculate genotype
+frequencies from the allele frequencies, because genotypes are specific
+combinations of alleles. Again, just like ingredients. If somebody gave you a pancake, you can
+know it's made from flour and sugar and baking powder, and things like that. In contrast, if somebody gave you
+flour and sugar and baking powder, there's a lot of different
+things you can make with that. Alright many combinations are possible. So coming back to Hardy-Weinberg. Hardy-Weinberg allows predictions
+of genotype frequencies from allele frequencies under
+certain conditions. And this is when that sort of
+simple multiplicative rule applies. Those conditions include random mating. This is where the multiplying
+probabilities rule works very well. We don't assume that big A's are more
+likely to encounter other big A's than little a's relative to
+the proportions in the population. Assumes no selection, migration,
+or mutation at that locus. At terms of selection we're assuming
+that it's not like the big A, big A individuals tend to die more readily
+and therefore they're not constant. Assume an infinite population size and
+this is why statistic, or probabilistically, everything
+works out very nicely. This is referring to the absence
+of what's called genetic drift. We'll come back to this
+at a later lecture. But overall,
+Hardy-Weinberg is predicting a completely boring population that
+probably could never exist. So why bother? Well, the answer is by seeing how populations deviate from Hardy-Weinberg
+expected frequencies, we can infer which specific interesting evolutionary
+processes may be operating. So we'll come back to this actually over
+the course of the next couple of lectures about some specific evolutionary
+processes that could be operating. But let's look a little bit at testing for
+Hardy-Weinberg. So here's an example. So here we have big A ,big
+A is 245 individuals. Big A,little a, is 210 individuals. Little a, little a is 45 individuals. Let's walk through this one to see if
+this population is at Hardy-Weinberg and then I'll have you do one later. So the four steps you want to do is
+figure out the true genotype frequencies, figure out the true allele frequencies, and then figure out the Hardy-Weinberg
+expected genotype frequencies, which may or may not be the same as
+the first one, and then ask yourself, do the true frequencies match the expected
+frequencies, or close enough to them? So let's do this now. Again, from the genotype counts we can
+always get the genotype frequency, you just get the totals 500
+divided by the total and here are the genotype types so
+that's five. These are the true genotype frequencies
+and these true frequencies we can get the true allele frequencies so
+all of these and half of these for big A. All of these plus half of these for
+little a. Very simple 0.7, 0.3. Now the question is, if we put these
+together in the Hardy-Weinberg expected proportions, does it actually
+work out as we expect? Is it p squared for big A,big A, 2pq for
+big A, little a and q squared for little a? The answer is p2, 0.7 squared, 0.49. That matches beautifully. [SOUND] 0.42, 0.42, matches beautifully. 0.09 to 0.09, matches beautifully. So, yes,
+this population is at Hardy-Weinberg. Now, let me ask you to try this next one. See if this one is a Hardy-Weinberg. Try it our yourself using
+the same processes we just did. Well thank you,
+I hope that wasn't too hard. So again what we do is, we do the first
+step is figure out the total. So in this case the total adds up
+to 400 + 200 + 400 that is 1,000, nice easy number there for
+you to start with. So the genotype frequencies, the true
+genotype frequencies in this case, so it would be 400 divided by 1,000 so
+that would be 0.40. 200 divided by 1000. 0.20.
+400 divided by 1000, 0.40. Okay so
+these are our true genotype frequencies. What about our allele frequencies? The allele frequency for big A would
+be all of these plus half of these. So that would be 0.4 plus
+one half of 0.2 equals 0.5. Q sub little a is equal to
+same thing exactly, 0.5. You can check here at this point,
+yes, they still add up to 100%. These still add up to 100%. So, the question is, then, do the Hardy-Weinberg expected
+genotype frequencies match these? Well, Our expectation for big A,
+big A, p squared which would be 0.25. For big A, little a,
+it should be 2 pq is equal to 0.5. Little a, little a would be q squared. Q is 0.5.
+So that would be 0.25 Uh-oh. These don't match up at all. 0.25 is not the same at 0.40. 0.50 is not the same at 0.20. 0.25 is not the same as 0.40. So, people often tend to think
+that this is circular, but as you can see in this case,
+it was not actually circular. We actually are seeing
+a deviation from the idea that these gametes just come
+together at random. Everybody survives it all moves on. So there is a deviation from
+Hardy-Weinberg in this case. Now seeing how natural populations deviate
+from Hardy-Weinberg expected frequencies. We can actually infer what
+evolutionary forces are operating. In that previous slide we saw
+a deficit of heterozygotes. There were fewer heterozygotes than
+we expected from Hardy-Weinberg. What does that mean in particular. Well we'll look at that as one
+possible deviation in the next video. Thank you.

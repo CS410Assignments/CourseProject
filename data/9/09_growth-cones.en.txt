@@ -1,0 +1,143 @@
+Welcome back to this next tutorial in our
+series on the changing brain. Today we're going to talk about the
+construction of neural circuits. And this topic will pertain to three of
+our core concepts in the field of neuroscience.
+Again, we're going to be talking about a different kind of Neuronal communication
+communication that is mediated chemically.
+But in this session, we're going to begin to introduce the concept of building
+synaptic connections. And that will enable both chemical and
+electrical communication to be possible in developing neural circuits.
+So we're going to see the genesis of this very important core concept in the field
+of neuroscience today as we consider the construction of circuitry.
+We're going to talk about circuits that are in large meder, measure genetically
+determined, circuits that provide the foundation for behavior.
+such as the ability to detect potentially painful and damaging stimuli in our skin
+surfaces. And then lastly, we'll set the stage for
+a more rich discussion that I hope to have with you in our next tutorial about
+how life experiences can modify the structure and function of the central
+nervous system. And I'd like to introduce a hypothesis
+really that will allow us to understand how can chemical signals that have the
+ability to change the course of neural development be modulated by activity?
+And this hypothesis will then help us understand how life experience can change
+the structure and function of the brain. Okay, well lets consider the learning
+objectives that I have for you in this tutorial.
+I want you to be able to understand what is a principal organelle that is
+responsible for pathfinding in developing axons.
+As well as the, growth of dendritic arbors.
+And this structure is called a growth cone.
+So I want you to be able to characterize the structure and function of growth
+cones. I want you to be able to discuss the
+major classes of signaling molecules. That guide axonal growth in the
+developing brain. And I want you to be able to have a
+cogent discussion of neural trophins. And I want you to be able to discuss the
+mechanisms of neural trophin signaling. Well hopefully all of these topics will
+make sense to you after spending a little time with me in this tutorial.
+So let's jump right into it. Well, I would remind you of our broad
+framework for understanding the forces that influence the developing brain.
+we talked, quite a bit in our last tutorial about the concept of nature in
+brain development. That is, the lineage-derived signals that
+result from the expression of particular genes.
+And so this influence in brain development can be considered genetic
+specification. Well, today we're going to talk about the
+construction of neural circuits, which begins to engage our two other major sets
+of factors that influence the finally shape and structure and function of
+neural circuits. Well, if indeed there is ever a final
+shape to them. What I have in mind is self-organization.
+Self-organization is mediated via activity based Mechanisms that play out
+as cells acquire the capacity to generate electrical signals.
+And that begins to shape the expression of a varierty of [UNKNOWN] types that
+circuits begin to acquire as they build otu their connections.
+Well as the developing embryo, fetus, and then to post natal life, developing
+infant begns to interact with the environment.
+Then, sensory motor experience becomes an important shaper of circuitry in an
+ongoing phase of circuit construction that continues into post-natal life.
+So, the story of the construction of neural circuits begins in utero.
+It begins at a, relatively, later stage in embryonic development in the third
+trimester. But it will continue, well into post
+natal life. So many of the mechanisms we'll be
+talking about today reflect nature. That is, genetic specification.
+However we will begin to describe some of those factors that play an important role
+in mediating the influence of nurture. And again that's going to be more
+primarily the topic of the next tutorial in this series.
+Okay. Well.
+With that as a broad introduction, let's talk about some of these mechanisms that
+pertain to genetic specification and self-organization in early brain
+development. Mechanisms that will shape the growth and
+the viability of neurons and their connections in the developing central
+nervous system. Well the first set of mechanisms that
+play out establish polarity in the developing neuroblast.
+Now, you'll recall that the neuroblast is derived from epithelium and all
+epithelial cells acquire a polarity, that is there's an epithelium, surface and a
+basal surface to their cells. And, this process plays out in developing
+neuroblasts, although their apical and basal surfaces are increasingly difficult
+to recognize, because increasingly these cells no longer resemble the columnar
+epithelium that first established the neuroectoderm.
+Nevertheless, theer os the establsihment of polarity such that from the apical
+surface, of the developing neuroBlack, an axon will emerge and from a basal
+surface, dendritic branches will begin to grow out.
+Now initially, with the out growth of these processes, we really can't.
+Tell whether they are destined to become axon or dendrite, we simply call them
+neurites. But as development progresses, a single
+axon becomes recognizable and differentiated from the apical aspect of
+the neuroblasts, and that axon begins to acquire a distinctive organelle.
+At the growing tip of that axon. That's a structure that we call the
+growth cone. Let's spend some time together thinking
+about the growth cone, and what makes it such an important structure in the
+finding of axonal pathways in the developing brain.
+Well, if one were to look at the tip of an axon that is emerging let's say from a
+cell body somewhere in this direction. One would find that there is a large,
+flattened structure that begins to develop as that axon begins to
+differentiate from just a neurite that might be extending away from this
+neuroblast. So this structure, is what we call the
+growth cone. And its charecterized by a fairly flat
+laminar type of appearance. We call this a lamella podium or a sheet
+foot, that's one way to understand that term.
+And then from that lamellipodium extend these long finger like processes called
+filopodia. Now what we're seeing in this figure is
+an illustration zooming in just on one portion of the growth cone looking at a
+filopodia. And this allows us to understand just a
+little bit about the dynamics that shape this growth cone as it interacts with the
+environment of the developing embryo. So what we find in this labella podium is
+a rich supply of mitochondria to supply the energy that's necessary for the
+activity of the growth cone. We also find a variety of filaments.
+We find actin filaments that assemble in the philopodium, and this allows that
+philopodium to have a highly dynamic behavior as actin polymers are assembled.
+From the monomeric elements. So, the assembly of those filaments is
+responsible for the protusion of a phyllopodium.
+And then the disassembly of those filaments allows for the retraction of a
+phyllopodium. Meanwhile, microtubules are being
+assembled and disassembled in the lamellipodium.
+So, all of the machinery that's necessary for the construction and deconstruction
+of these filaments, needs to be synthesized and then localized to this
+growth cone. Now, these processes are responding to
+signals in the environment through which this growth cone is exploring.
+And those signals are tranduced via a variety of receptors that are present
+within the leading edge of this growth cone.
+So for example, one can find a variety of channels, including our transcient
+receptor potential channels that can mediate the interaction of this growth
+cone with chemical signals in the environment.
+There are other means by which calcium can enter this lamellipodium.
+And as you know calcium is a very important second messenger system within
+all cells, and in particular within developing neurons.
+So calcium becomes a key mediator of the events that are detected at the plasma
+membrane of the growth cone which then are transduced into changes in the
+structure and growth patterns of this growth cone.
+So, this entire growth cone is a highly modeled structure, so this growth cone
+can explore the environment. Within which this axon might be
+proceeding. It can decide that it needs to change
+directions. Perhaps retract from growth in one
+direction, and begin to extend growth in a different direction, perhaps an
+othoganal direction to the original pattern of growth.
+So there is a tremendous amount of dinamism associated with this growth cone
+as it actively explores the environment responding to chemical signals.
+And sometimes there is an important point of decision, is there not?
+There are what we might call forks in the road.
+For a developing axon that's pioneering a pathway.
+We think of these forks in a, in the road in particular at the midline of the
+developing embryo. Where a variety of exonal projections
+must make a choice. To cross the midline or not to cross the
+midline. Well, I thought this might be a helpful
+point to insert a study question to challenge you to review some of what you
+know about anatomical pathways. mainly those that you learned in unit 3
+of the course. So, let's just pause for a moment here,
+and take on the following study question.

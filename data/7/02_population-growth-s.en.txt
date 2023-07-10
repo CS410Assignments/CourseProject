@@ -1,0 +1,194 @@
+Hello, welcome back to introductions
+to genetics and evolution. In previous videos, we've been looking at
+concepts related to the amount of genetic variation in populations relative to
+the amount of total phenotypic variation. Now as I mentioned before, this genetic
+variation is that subset of variation, which can be used by natural selection. So let's talk about natural selection for
+a minute and apply this to a couple of other areas. And very soon, you'll see we'll be
+transitioning into population genetics. Well, natural selection is
+both noncontroversial and as I mentioned before is
+a mathematical inevitability. It's a mathematical inevitability
+if three simple conditions are met. First, you have the phenotypic variation. We talked about phenotypic variation
+just recently in the context of quantitative genetics. And that would be that Vp is not zero. That basically, everybody doesn't
+look exactly the same in every way. Some of that phenotypic variation you
+see is actually inherited, or genetic. In that regard, we're saying that
+the heritability is not zero. So you see, I'm introducing
+the same terms we did before, but now with some quantitative
+genetics behind it. And last but not least,
+this variation that is inherited, must affect either survival or
+reproduction. Let's walk through this
+very simple cartoon, which illustrates this point nicely. So here we have several peppers that
+vary in their mildness or hotness. There are some that are mild,
+some that are hot. So that there is this variation. This variation is inherited. The mild peppers give birth
+to other mild peppers. The hot ones breed other hot ones. Here's an interesting point I
+haven't emphasized so far, but this is relevant for today's lecture. More individuals are born than
+will survive to reproduce. Our capacity for
+population growth tends to be very high. We'll come back to this in just a minute. And related to this, some variants survive
+or reproduce at higher rates than others. In this case, we can see that the milder
+peppers don't survive as well as the hot peppers because the mild ones get
+eaten up by things like mice or humans who likes the mild peppers. The outcome of this is that
+the population changes over time. That over time as this is
+iterated over and over again, more of the surviving peppers will be hot,
+because you've eliminated them. Not only the mild peppers themselves,
+but even that genetic contribution within
+the population that made the peppers hot. Now if we go back in time, that original
+concept of natural selection was very intrinsically tied to that
+of population growth. And Darwin's ideas were very much
+influenced Malthus, who was an economist. Malthus had pointed out that
+populations are actually kept from growing by limited food and resources, because again, our capacity
+to breed to breed is very, very great. And if you provide more and
+more food to a particular species, you'll tend to see that they will
+reproduce at a higher rate than is needed just to recreate the number
+of individuals present. That basically, the population will grow
+if it is able to grow, almost always. Darwin pointed out that this limitation
+produces struggle, wherein some subset that are better able to survive or
+reproduce will tend to spread. But let's look at this concept
+of population growth and why is it that natural populations grow so
+much? Why do we see this potential for
+great growth? Well the capacity for
+growth is huge in most species out there. And imagine,
+to maintain a constant population assuming the population was sexual, assuming
+you need a pair of organisms to breed, each pair would only need to
+produce two surviving offspring. Now, if conditions are favorable, how many
+offspring can most individuals produce? We'll look at some plants, for example. Let's see that you're looking at seeds or
+pollen. Here's a picture of a tulip stamen and
+all the pollen on it. Look at all those individual
+grains of pollen on there. How many possible offspring
+could that tulip have? Definitely a lot more than two. Think about insect larvae,
+if you let an insect breed, how many offspring can it have? Think about things like cane toad eggs. Cane toads as I mentioned a long time ago
+are an invasive species in Australia and also in Hawaii. And they can have hundreds, thousands of
+offspring just from one breeding pair. And it's even true for humans that if humans were allowed to
+in some way, we could potentially. One couple could produce many, many, many
+kids easily 10, 20 something like that. Now we like to model the rate of increase
+and see how it's actually happening. Well populations can be modeled with what's referred to as
+a stable rate of increase. This is assuming that a steady
+fraction of the population, or the population increases by a steady
+proportion year after year. To model this we need
+a couple of parameters. We need a birth rate which
+can be modeled as for example number of births
+per thousand per year. We need a death rate, the number of
+deaths per thousand individuals per year. And from this we can come up with what's
+referred to as the intrinsic rate of increase of a population. That is very simply the birthrate, so the input minus the death rate which is
+basically the output from the population. So in the United States as an example,
+the birth rate is about 14 per 1000, the death rate is about 6 per 1000. So that makes the intrinsic
+rate of increase about 0.008. In this case,
+this is not considering immigration. This is just looking naturally. What this means is the population
+will grow naturally by 0.8% per year. Now if the birth rate is greater than
+the death rate, then the population grows. Conversely, if the birth rate
+is lower than the death rate, then the population will decline. Now, so let's look at
+the effect on population size. And we'll go through a little bit
+of math here just to work this out. I hope you don't mind. So, let's say that n is the population
+size and t is time in years. Now we can identify a standard rate
+of population growth as dN over dt. Or change in population
+size over change in time. And that would be equal to that rate
+of increase times the population size. Now, if we wanted to get a algebraic
+solution, if we assumed that this was a constant process,
+we can approximate this as N sub t, so population size at time
+t is equal to N sub zero which is that starting population size,
+times e. E is the algebraic number you often see,
+I think it's approximately 2.71. E to the power of rt, r being that
+intrinsic rate of increase and t being time. So time may be measured in years. So, what is the population doubling time? How long does it take for a population to
+double it's number of individuals, right? Obviously, that's going to be related to
+R, it's going to be related to the rate of increase that if R is very large
+the doubling time will be very short. If R is very, very small then
+the doubling time would be very long, but let's put some actual numbers
+on this just so you can see. So this is the formula
+I showed you before. N sub t = N sub 0, e to the rt. And probably for this N sub t,
+is the population size at time t, at the end of the period
+that you're studying. What we want to solve for,
+is we want to solve for the doubling time. The time it takes to go from
+a particular population size, lets call it N sub 0 at the beginning,
+to double that size. So, we're waiting for N sub 0 2N sub 0. So, what we can do, is we can basically solve this formula
+by putting 2N sub 0 here for N sub t. Okay, and that what we're going to
+do is we're going to solve for t. The idea here is to look at basically
+how many generations it takes to go from N number of individuals to
+2N number of individuals. So let's walk through. So we start off, as I said,
+with substituting to this formula for N sub t we put 2N sub 0 and
+we have 2N sub 0 = N sub 0 = e to the rt. Simple algebra,
+we just divide those side by n sub zero so we have two = N to the rt. Now how do we solve for t with this? Because that's ultimately
+what we are going for. What we have to do here is we
+have to use the natural log. Remember, e is approximately
+equal to 2.71, this is a factor that's used quite a bit. You have a button on your calculator
+that probably says E to the X and another that says ln,
+ln is the natural log. So what we do is we take
+the natural log of both sides. Take the natural log of both sides. So we said natural log of 2, is equal
+to the natural log of e to the r t. By the way, if you don't have a calculator
+that does this, you can just go to Google and type in ln space 2, and
+it'll actually solve that for you. So, we take the natural log of 2 and
+that calculates out to 0.693. The natural log of e to
+any power is that power. So in this case the natural
+log e to the rt is rt. So we have now very simply 0.693 = rt. Now again, we're solving for
+t, so what do we do? We divide both sides by r and there we go. The doubling time is now
+t which is 0.693 / r. So, let's put some numbers into this. Well, we have a US population at the time
+this was recorded of about 310 million. I mentioned before that the population
+growth factor was about 0.008. So all we have to do is put in this
+r into the formula right there. So 0.693 divided by 0.008 and
+we have 86.6 years. Think about that, that is just a little
+bit longer than the average life time. A lot of people live that long. And that is how long it would take until
+the population of United States goes 310 million to 620 million people. That is a lot of people and
+that's fairly quick. This is assuming this sort of growth as we
+drew it here, but it's not unrealistic. Now let me get you to try one but I want
+you to notice ahead of time that you don't actually need to know the population
+size to get the doubling time. You basically don't need to
+know this n sub 0 factor. All you need to know is r. Solomon Island, here are some
+numbers I got from Wikipedia. The birth rate on Solomon Island
+is about 35/1000. Death rate's about 5/1000. Population size today is about 500,000,
+but you don't need to know that. How long would it take
+to get to a million? How many years would it
+take to get to a million? Well, I'll let you solve that
+problem here on the question online. Well, I hope that one
+wasn't too challenging. Very, very simple problem. What we want to do is,
+is we want to calculate r. R as I mentioned before for is equal
+to the birth rate minus the death rate. So it would be 35/1000- 5/1000 which is in this case
+would come out to 0.03. So that's your r. So when we want to calculate
+the doubling time, say doubling time in this
+case t would equal to r or 0.693 divided by r, 0.03. So in this case comes out to 23 years. That's really dramatically fast isn't it? That's changing the population on these
+island from 500,000 to a million. So you're doubling
+the population size in 23 years. Well we've seen a lot of population
+growth throughout the world and I'll show some pictures from
+a recent article in science. This first figure shows historic and
+projected future population growth. So you notice our world
+population very slow, and we started seeing here very very recently
+just in the last couple 100 years, this dramatic increase in
+numbers of individuals. So we hit 1 billion in the year 1800,
+we hit 3 billion in 1960, 4 billion in 1974, 5 billion in 1987,
+6 billion in 1999, 7 billion in 2011, and it's projected
+we'll hit 8 billion by 2024. This divides it up by some countries where
+you're looking at some of the developed countries and less developed countries,
+Africa as a continent, China by itself and India by itself. So this is projections up to 2050,
+in this case, for world population growth. Now, interestingly, our rate of
+population growth has actually gone down. Now we are still increasing. R is still positive. The birth rate is still
+exceeding the death rate. But the amount with which it's
+exceeding it has actually gone down over the last couple of years. But it's still positive and that's why we're continuing to
+see this very rapid increase. Now this is something that several
+different countries have attempted to address, one example would be China. China as many of you know back in
+1979 instituted the One-Child policy, this shows you the population
+growth in China over time. And this shows you the age
+distribution as of 2009. And you may be thinking like
+why is this still going right? Because we have the One-Child policy
+instituted around 1979 1980, yet we still see this increase Increase. Interesting if you look at this, the increase is actually closer to
+linear than it is to exponential. Like it's not going up,
+it's not continuing to accelerate, as you would expect. So this probably has actually had some
+effect on slowing population growth, but, again, the birth rate is
+continuing to exceed the death rate. So we're still seeing an increase
+in the population size in China, as in many other places in the world. Well, why is that? Well again,
+we have two causes of population growth. There's high birth rate. And there's low death rate. So we can cut the birth rate,
+but we still see growth. And what that means is
+the death rate is decreasing faster than the birth rate is decreasing. Now that's not intrinsically a bad thing. Obviously, we like
+decreasing our death rate. We don't want to have people
+just die willy nilly of course. But this is a problem in terms of
+how many people are on the planet. Over the course of many countries and
+over the course of a lot of recent time, we've seen this declining mortality or
+declining death rate. And some of it is associated with things
+like introduction of the use of soap. Improved sanitation,
+definitely things like antibiotics and other modern medicine have really
+increase life expectancies. I can show you how much too. This is just showing the difference
+between 1950 and 2010. Now look at this in Latin America and
+the Caribbean. We have an increase in life
+expectancy from 51 years to 73 years. In Africa from 38 to 55, North America 68 to 78 and
+just over the course of the whole world there we can now live expect to live
+20 years longer than we could before. And as a result of this we're seeing this
+just increased life expectancy at birth. And this again,
+divides it up by several countries. Now Again, intrinsically it's not
+a bad thing that populations grow. However, there is some
+maximum number of individuals that can be sustained on the planet. We'll come back to this
+question in the next video. Thank you.

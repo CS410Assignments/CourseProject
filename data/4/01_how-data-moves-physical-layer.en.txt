@@ -1,0 +1,198 @@
+Hi, welcome back to
+Cybersecurity for Everyone. I'm Dr. Charles Harry. In our last episode, we talked about
+the network layer. In this episode, I want
+to talk much more about how data physically
+moves around the Earth. We're going to talk about something called
+the physical layer. Going back to our OSI
+data layer model, we're now at the
+bottom of the stack, at the physical layer. This is where we actually translate the logical
+into the physical. Specifically, how do we move that data across
+physical geography? I want to move my data from my location to somewhere
+else around the world. The problem is, how do I translate all those
+instructions that have been encapsulated at the
+application layer and the network layer into something
+that can actually move? How can I leverage
+the physical world in our understanding of how the physical world actually
+works to move our data? That's what the physical
+layer is trying to do. We want to look at the
+electromagnetic spectrum. Many of us who have taken a high-school physics course
+have seen this chart before. We have different types of
+energy and energy wavelengths. We use some of those portions of the spectrum to communicate. I want to talk about three specific technologies that leverage different
+parts of the spectrum. First we'll talk
+about fiber optics, then we'll talk about
+terrestrial microwave, and finally, we'll talk about
+satellite-based technology. All of these technologies work together to help move
+data around the world. The very first technology
+that I want to talk about leverages
+visible light, this specific part of the
+electromagnetic spectrum. I want to talk about
+the first technology, fiber optics and
+long-haul cables, which leverage visible
+light to help move data. Fiber optic lines are
+bundled together in cables, and they use those cables to cross the Earth in
+multiple locations. Now you might be asking
+yourself, "Well, how does it actually do that?" Well, fiber optics are
+simply long tubes of glass. We're able to use light to
+shine through those tubes of glass in order to transmit
+basically light energy, visible light, from one point
+of the Earth to the next. If you were to cut a piece
+of fiber optic in half and look at it as someone was
+shining light to and from, you would actually see the presence of light or
+the absence of light. If I were to associate the
+presence of light with a one and the absence
+of light as a zero, and I posted it in a very
+specific sequence, 1, 1, 1, 0, 0, 0, I might see light, light, light, no light, no light, no light. If I do that over
+and over and over again, I'm transmitting
+information. The presence of light, the absence of light
+becomes ones and zeros. That's how data moves
+in the physical world, utilizing fiber optic lines. Those cable bundles, so we took all that fiber optic and we bundled them together in cables. We usually will lay them both in the Earth as well
+as along the sea bottom. They usually come ashore at
+what we call landing sites. These cable bundles crisscross the Earth in a variety
+of different locations. We'd leverage those
+cables to move information across very,
+very long distances. The vast majority of international
+communications pass over this type of physical medium. Once on shore,
+these set of cables come together at a variety
+of different points. We'll talk about those in a bit. Here's a picture of
+what fiber optics look like when you cut them in half and you're shining
+light through them. Here's another picture of a cable that's being
+laid into the ocean. In the distance of this photo, you can see a ship. That ship has a
+very large wheel, and as it sails
+across the ocean, it very slowly drops that
+cable along the ocean floor. That's how they lay
+cable across an ocean. In this photo you can see one of the challenges of
+laid undersea cables. In this particular photo, we have a couple
+of US Navy divers who are actually doing
+some maintenance. Because as you would imagine, these cables, if they're sitting at the
+bottom of the ocean, are going to get all sorts of barnacles and other sorts of
+sea creatures that are going to be interested in these
+types of cables to and include sharks who had been
+known to actually bite into these cables
+every so often. Now let's talk about a different technology, specifically
+terrestrial microwave. Terrestrial microwave
+technology uses a different part
+of the spectrum. Specifically, we use a series of what are
+called chained repeaters in order to transmit energy
+that has been encoded with all the instructions that we had received from the
+application and the network layer across
+a piece of territory. The key for terrestrial
+microwave is that it uses what's called
+point-to-point technology, meaning that the beam that is transmitted goes from
+one point in the earth directly to another point
+in the earth and it has to be what we call in
+the line of sight. There's some challenges with
+that because as we know, the earth is round. If those two repeaters are
+not close enough together, then the curvature of the
+earth will cause that beam of energy to shoot out
+into outer space. We need to make sure that
+we are close enough so that the series of repeaters
+can transmit that energy. It is constrained to
+the line of sight. You need several towers grouped together in order to
+move this energy. You may not have recognized
+that you've seen this type of technology on
+almost a daily basis. But the next time that
+you're driving on a road, take a look outside the window, and every so often I guarantee you're
+going to see a tower. On top of that tower,
+they're usually going to have several
+pieces of equipment, one of which looks like a drum. That drum is horizontally
+positioned and it is transmitting
+microwave energy from that particular point
+to another point. In fact, if you were to
+climb up that tower, look in the direction in which that drum is facing
+in the distance, you're going to
+see another tower with a drum that's facing you. That's the point-to-point
+transmission. That is what is going on. You will see these towers
+every so often along the road and that helps move energy from one point in
+the Earth to the next. Remember, as part of that overall stack that
+we've been discussing, encoded in that energy or all the logical
+instructions about how to move that data and what to do with it once it gets
+to its destination. Putting those towers
+together allows you to create a terrestrial
+microwave network and you can communicate and move energy and therefore the encoded
+information in it from one point in
+the Earth to the next. That's how that works. The last technology I want to talk about incorporates radio. Satellite technology. Satellite technology
+incorporates radio waves. Satellites communicate by using those radio waves
+to send signals between antennas on the Earth and the satellites that are
+going around the Earth. Ground stations transmit and
+receive those radio waves. Signals on the
+satellites are then transmitted on what are
+called transponders, which operate on slightly
+different frequencies to different points
+on the earth. There are roughly 1500
+operating satellites going around the
+Earth as we speak. The majority are operated
+by the United States. But the Chinese, the Russians, and other countries
+manage a set of their own satellites and they all fly around the Earth
+in different orbits. What we're talking
+about here is using radio waves to transmit
+from a ground station all the way up to a
+satellite that's going around the Earth in a
+variety of different orbits and then retransmitted down to another ground station so
+you're able to move energy, and therefore all those encoded instructions and the rest
+of the stack across very, very large distances by going up into outer space
+and then back down. That's how that works. How do all these
+technologies intersect? Because we've talked
+about fiber optics, we've talked about
+terrestrial microwave, and we've talked about
+satellite-based technologies. But unless you're planning
+on building one really, really large network that covers everything
+around the world, there's got to be a way
+for these physical mediums to actually connect together. The physical
+infrastructure comes together at very
+specific points. Because remember, the
+Internet is a collection of independent
+in-controlled networks. We call those specific points Internet exchange
+points or IXPs. Large network operators
+come together at those specific Internet
+exchange points that allow the data to
+actually be exchanged. Different physical mediums. Fiber-optic can work with
+microwave technology, which can work with
+satellite-based technology. They come together. This provides the actual physical
+connections and it allows those autonomous systems
+that we talked about in the previous episode to
+provide the logical routing. The physical connections
+at the IXP works with the peering relationships for the autonomous systems. Here's a really,
+really simple diagram. In this diagram, I've got a couple of different networks
+that are working together. We have some
+terrestrial microwave, we have some fiber-optic, and we also have some
+satellite-based technology. You'll notice that
+at different parts in this diagram we have an IXP. A terrestrial network comes together to work with
+a fiber optic network, or that terrestrial
+microwave network might come together and work with a
+satellite transmission. That particular set of energy, then might moved to
+another network. Maybe it's terrestrial
+microwave, maybe it is a
+fiber-optic network, maybe it's something else. We layer on top of that, those autonomous systems and the peering relationships
+between them. From a logical standpoint, we know where we need to go, which road we need to take, but underneath all of it is
+the physical infrastructure. That's how that works.
+Why does this matter? Why do we go through
+this exercise of talking about the different
+layers in the OSI model? Well, just as we found in the app layer and just as we
+found in the network layer, vulnerabilities can exist
+at the physical layer. Hackers can use those
+vulnerabilities to gain access or to
+achieve an effect. Just as we found with the app layer and
+the network layer, this potentially
+offers a new vector of attack for a hacker. We have to understand
+the complexities on the global telecommunication
+system if we want to begin to understand the
+nature of the hacking threat. What can we take away
+from this episode? First of all, the physical
+layer actually moves energy, and in that energy is
+encoded information. It uses different parts of
+the electromagnetic spectrum. Fiber optics are one
+way in which we can help traverse very
+long distances and they tend to carry information underneath
+things like the ocean. Microwave can be used for
+point to point transmission. Finally, satellites can be used to move data
+over radio waves. The Internet exchange points are where it all comes together. When you pair that with autonomous systems and those
+peering relationships, now you're actually
+stitching together all those independent networks that we've been talking about. That's how it works. That's how data moves from one point of the
+Earth to the next. In our next episode, we're going to talk a little
+bit about governance and the human processes that are required in order to
+manage all of this. This is incredibly
+complex and requires a set of rules at all
+the different levels. But those rules are not simply meant to manage
+technical systems. In some cases, rules need
+to be developed in order to manage human systems. I
+hope to see you next time.

@@ -1,0 +1,119 @@
+In our last video, we talked and defined what
+we meant by cybersecurity. In this video, we want to
+demystify the entire landscape. Specifically, we want
+to talk about some of the challenges that
+face individuals, or organizations,
+and policymakers. Many of us are used
+to these types of headlines that we find
+on a regular basis. Things like, 77,000
+cyber attacks or 7 billion records compromised in the first three quarters of 2017. These are all really scary
+headlines for us to realize. We have to sometimes wonder, why do we even get out of bed? Why do we even bother? If things are so bad, and we feel that we're
+about ready to suffer from a cataclysmic fire
+of cyber attacks, why do we even bother? In order to get a handle
+on this situation, we need to demystify
+what we actually mean by a cybersecurity threat and the cybersecurity consequences
+that come with it. What do we actually need
+to be concerned about? This is a fundamental question. Is a fundamental question
+for us as individuals, for corporate executives,
+as well as policymakers. This is one of the central
+questions we want to address in this
+particular course. Well, a lot of it
+really does depend on the position in which you stand. If you're an individual,
+there's series of different questions
+you may want to ask. What local, state, federal law should be written to protect me? How did cyber attacks
+impact my privacy? What type of activity
+does it actually cover? Well, those are fundamentally
+different questions than if you're a corporation
+or an organization. They may ask about, what types of liability do
+they specifically have to protect in the event that your data is compromised
+in their network? Can businesses
+actually hack back? If they're compromised by
+a particular threat actor, by a hacker, are they entitled to actually
+hack back the hacker? That's a good question.
+Should businesses be compelled to turn over source code of
+products that they want to introduce into
+a new foreign market? In some countries
+around the world, if you want to do business, you actually have to turn
+over your source code. Is that something that
+you want to actually do? If you're a nation state, there are all sorts
+of other types of questions you're going
+to have to answer. Is one cyber attack from
+another country against yours and act of war or is
+it a matter of espionage? How you answer that question will affect the
+response you have. There might be other
+questions like, is there a difference in
+the types of attacks? Are some attacks more
+severe than others; are some more exploitive
+versus disruptive? How do you know? How do you categorize?
+How do you measure? These are fundamental questions
+that need to be asked. Should common agreements
+between nations be used to create what we call norms of behavior or normal behavior, and how should you enforce them? How should countries cooperate or not to assist in
+criminal investigations? How do I manage threats to my own critical infrastructure? You'll notice that depending on whether you're talking
+about an individual, or an organization,
+or a nation state, there are different questions. This is fundamental,
+because oftentimes when we talk about cybersecurity
+in the popular culture, we tend to only focus around a handful of
+specific questions. If you don't disentangle
+your position on the issue, you're going to ask
+different questions or you may miss other
+questions entirely. It's important that we start
+to define where we sit. From a policymaker's
+point of view, the goal of the policymaker
+is to take advantage of beneficial aspects of technology while minimizing security risks. What we talk about here, is that a policymaker
+who wants to make sure that they're adopting all the technology and all the
+wonderful benefits that it affords has to make sure that while they adopt that
+particular set of technology, that they're minimizing
+the risks that opposes to broader society. There's a whole set
+of technologies that are being introduced
+in our cities, in our critical infrastructure, things like our power systems, our water systems, surface
+transport systems. The reason we're introducing all that technology is to
+make it more efficient. We all like being able to hail
+a ride from our Uber app. We all like make sure that we understand how much power we're
+using on a regular basis. All of these things
+require technology. But how do policymakers know that if they're putting in that
+particular set of technology, that they're minimizing the
+risks and they're not making things potentially
+worse for themselves. This is a question, and this is a question that
+policymakers need to solve. Some broad areas of
+concern that policymakers may have might be things
+like the confidentiality, or integrity, or accessibility
+of government networks. Making sure that the
+government networks that they use to provide services to the citizens are
+actually not compromised, and that are maintaining the confidentiality,
+integrity, and accessibility. We need to make sure that we understand what the impact is to important civil services
+like power and water systems. We also need to make sure
+that we have a broad set of national and
+international concerns. These are areas that
+policymakers want to focus on when it comes
+to cybersecurity. Some examples of cyber policy. These are just some very
+specific examples to highlight how policymakers are actually trying to
+address some of these broad areas of concern. Might include some examples
+of statutes or laws, would be things like the
+Computer Fraud and Abuse Act or the Federal Information
+Security Management Act or known as FISMA. They also include things like executive orders or
+policy directives. These are things that stem
+from the executive branch. Things like PPD-41 and PBD-21. It's acronyms that are a
+little bit of a mouthful. But help us deal with how the executive branch plans on addressing certain
+cybersecurity concerns. Like, how do we coordinate a national response
+to cyber attack? When should we actually respond to a cyber
+attack as a country? Because if he hit
+Joe's Crab Shack, that's probably a
+little different than hitting an electric
+utility company. There's a differentiation
+that needs to be made. It might also
+include regulations. An example might be the
+National Do Not Call Registry. That's not a law and it's
+not an executive order, but it is an example of policy that might be relevant
+in this case. It might include things
+like voluntary frameworks, the way that we operate in addressing certain best practices to improve cybersecurity. Things like the NIST
+Cybersecurity Standard Framework or the ODNI Cyber
+Threat Framework. Finally, it might be something as simple as a presidential speech. When the president makes
+comments, it is policy. These are examples of cybersecurity policy that are relevant to the broad
+areas of concern. In this video, what we've
+tried to address is trying to disentangle what are the areas of concern for the policymakers, and to identify
+that cybersecurity and your perceptions of cybersecurity are really dictated based on the position
+in which you hold. Are you talking about
+cybersecurity issues from an individual standpoint, a business or
+organizational standpoint, or from a nation state? In our next video, we're going to explore what
+we call the threat landscape. The broadened areas that we need to address if we're going to better understand what we mean by cybersecurity.
+See you next time.

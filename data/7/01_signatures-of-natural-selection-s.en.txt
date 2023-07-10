@@ -1,0 +1,129 @@
+Hello. Welcome back to Introduction
+to Genetics and Evolution. In the previous video, we talked about these principles of
+selective sweeps and hitchhiking. What happens is, if you have a region
+of low recombination in particular, when an advantageous variance
+spreads through the population, it eliminates variation at nearby,
+mutual sites. It reduces pi, which is our
+measure of nucleotide variation. Now what I'd like to do in this video
+is explore how we can see signatures of past natural selection in
+the genome leveraging this. Now again, recombination can help
+us detect natural selection. So we're going to use the principles
+we talked about last video to actually identify areas that seem to have
+experienced natural selection. Now, an important principle which
+I haven't emphasized up until now, is that recombination rates are not
+constant across the genome. There are areas where
+recombination is very common, and we already discussed in this
+context crossover hotspots. But there are often broad regions
+which have many hotspots, and there are broad regions
+that have almost no hotspots. So recombination is especially often
+thought to be low near the centromeres. The centromere is the part
+of the chromosome that holds together the chromatids. Let's imagine that here is a chromosome, that you have your
+centromere here at one end. Let's say we are looking at different
+stretches of a million base pairs. So this first stretch in
+a million base pairs, let's say the recombination
+rate is .1 centimorgan. So that's a very low recombination rate. We go a little bit further out and
+this stretch of a million base pairs. The recombination rate is 3 centimorgans. Go a little bit further out in this
+stretch of a million base pairs, the recombination rate
+is five centimorgans. So an important principle
+I want to stress for this is you can't directly translate
+centimorgans to millions of bases or numbers of bases because there's
+not a one to one transition here. There are areas where very low
+centimorgans are associated with high numbers of bases. There is where a number of centimorgans
+is much higher with the same number of bases, okay. The linear order stays
+the same either way, but the recombination rate may change. And again as I mentioned, the recombination rate is often
+lower near the centromere. And we measure recombination rate
+as centimorgans per megabase. So let me show you an actual picture
+of human recombination rates. This is looking across
+chromosome three of humans. So you see here near the centromere
+recombination rate is low but here on the X-axis is position
+in millions of bases, on the Y-axis is the average
+recombination rate. We see here near the end, recombination
+is pretty high, goes down, up, down, up, down, etcetera, but
+low again near the centromere. So it is very variable. Now, what we can do, is we can focus
+at what's going to happen if you have an adaptive variance in say a region like
+this where recombination rate is very low, versus if you have an adaptive variant in
+a region like this where recombination rate is moderately high. So let's look at that. Again these new adaptive alleles can
+arise by mutation every now and then. And sometimes they arise in a region
+where recombination is low. So again, there's low centimorgans
+per megabase, no hotspots. So in this case, now we have five variable
+sites depicted here on this figure. They're in blue. I apologize if it's a little
+bit hard to see on this slide. But I wanted to show you an actual
+stretch of sequence there. So let's see what happens. Let's put this now in the case
+where there's no recombination. So here's our new adaptive variant. This is this is beneficial G. If there's no recombination
+what's gonna happen? Well at these stars indicate
+the variable sites. So there's one, two, three, four,
+five, different variable sites. Aside from the selected one. So these are ones we
+are assuming that are neutral. That it does not matter for
+fitness if you have a T or a G here or if you have a C or a T there. So as this G spreads you lose variation
+at all other nucleotide sites. So now none of these are variable anymore. That's why I got rid of the stars. So you lost all variation
+across this entire stretch. Pi across this whole sequence now, or across this whole stretch
+is zero in this population. Let's try this again in a region
+where recombination is very common, where you might have high
+centimorgans per megabase. Here's that adaptive variant again. We still have five other variable
+sites with neutral variation. Well as it spreads in this case, you see we've already in this case had
+some recombination out near the ends. As it continues to spread, we've lost
+variation very close to the selected site. Maybe there was no recombination
+between these two. But on average since there's
+a lot of recombination you retained variation out here. He retained it here, here, and here. So again, you maintain a high pi across
+most of this sequence but you lost a tiny bit of pi because sequence is very close
+to the spreading sight lost variation. So we can generate a prediction. Our prediction is if you survey regions
+around the genome then you should be able to find some sort of association
+between recombination rate and pi. So take this quiz question real quick. Do you think this
+relationship will be absent, do you think there's
+really no relationship? Do you think regions of high recombination
+should generally have high pi. This would be a positive association. Or do you expect a negative relationship, the regions of high recombination
+should have low pi. Well, that was an extremely easy one. Again, as I said, if you have high
+recombination you're able to sustain variation, so we do expect this
+to be a positive association. And in fact, that's exactly what you see. So this is looking at data from humans. On the x access here
+is recombination rate. On the y access here is pi. This is from a study by
+Hellman at al Genome Research. And again you see there is a general trend
+that as recombination goes up, pi goes up. Each individual circle here is a stretch
+of sequence in the human genome. So there you go. Well, this is true in humans but
+is it just humans? No. Here it is in Drosophila. This was actually a classic study by
+Begun & Aquadro in 1992 in Nature. This paper at the time of recording
+was already sited well over 550 times. So very popular study. But again you see here on the X axis
+it's coefficient of exchange which is essentially recombination. And on the Y axis here is Pi and
+you see this general positive trend. This, again, potentially suggests
+the spread of adapted variance. We'll come back to this,
+actually, in the next video. Here's the same thing in
+various tomato species. Yet again, you see this higher
+pi region of high recombination. This wasn't as compelling, but
+it was weakly statistically significant, so that's cool. Yeast, in contrast, I don't actually
+show you a picture of it, but it actually doesn't really
+match the expectation. There is no significant positive or
+negative relationship. It could be this case that
+yeast tend to reproduce asexually very often rather than sexually,
+potentially reducing this opportunity. Now let me ask what does this overall
+pattern, not the yeast part, but for humans, tomatoes, drusafulla. What does this mean? Well we see that there's a positive
+association between recombination rate and pi in many, many different species. Now, this relationship, again, is predicted from
+the action of natural selection. And not just any natural selection. But specifically,
+the spread of adaptive variant, right? That we have this adaptive
+variance spreading. And we have a selective sweep associated
+with it, hitchhiking of nearby alleles. What this means, the fact that we see
+this positive association looking across the whole genome, is,
+the selection's impact on genomes is huge. And basically selection is
+happening all the time. We have adapted variance spreading
+within species all the time. And that's creating this overall pattern. Selection is strong, Darwin was right. Well let me ask you, can we leverage this? Well the answer is yes. And we can leverage this
+in an interesting way. Now we expect the regions of low
+recombination to have low variation or low pi. Now what would happen,
+this is actually a fictitious data point. I actually just drew it in here. What would happen if you
+see a very low pi in a very small region of high recombination? What does that actually mean? So let's say you have this region
+with very high recombination but very low nucleotide diversity. What might you expected happened? Well the answer could be,
+now there's a lot of possibilities. The answer could be, it could suggest
+there was a very recent selective sweep. Could suggest that basically
+very recently you had an adaptive variant with
+the last couple of hundred or couple of thousand years spread through
+all the populations of this species. And eliminate variation
+at nearby neutral sites. People do and have been doing and
+are continuing to do is we're using this to actually find genes that have
+experienced recent selection. Looking across the genome at regions
+that we know have high recombination and thus should have high pi,
+high nucleotide diversity. But when we see a small stretch
+of it that has unusually low pi, that could suggest that there has
+been a recent selective sweep and that there might be a very
+interesting gene to study there. Now this overall pattern I've described
+to you in the context of this sort of adaptive variance spreading
+through the population, these frequent sweeps
+through the population. There is an alternative hypothesis. So alternative hypothesis for why pi and recombination rate may be correlated
+is referred to as background selection. We'll come back to background
+selection in the next video.

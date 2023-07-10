@@ -1,0 +1,261 @@
+Hello. And welcome back to Introduction
+to Genetics and Evolution. We're at a transition
+point in the class now. We've already gone over a lot
+of basic transmission genetics. We've talked about things
+like recombination rate. We've talked about genetic mapping,
+things like that. What you'll start to see now,
+over the next couple of videos, is, we'll still be talking about
+topics related to genetics, but we'll gradually be getting
+significantly more evolutionary. And we'll talk about some things
+having to do with evolution, starting with today's talk. Today we'll be looking at
+the different contributions from genetics versus the environment,
+two various traits. Basically, how do we tell if each of
+the two contribute to a particular trait? How do we tell that some trait
+has a genetic contribution versus an environmental one? Well, the media often portrays this
+genetics versus environment, or nature versus nurture, as they like to
+say it, as some sort of raging debate. In fact, I've had people on airplanes ask
+me, where do you stand on this debate? There is no stance. That's just ridiculous. It's nearly always somewhat of both. But we do want to able to actually
+identify that there is a genetic component or an environmental component because
+there are a small number of traits that only have one. Let me start with this example. This is a picture from my backyard. These are some corn plants that I was
+growing right next to our deck there, as you can see. Now what I did here to make it a little
+bit easier to see is I put these white bars, as you can see here, just depicting
+the size of the corn plant next to it. So you see I have some that are about
+this tall, some that are about this tall. And right next to the deck I have
+some significantly shorter one. So why is that? Why do you think that
+there's this difference? It's not just one corn plant, there's a bunch of them that are all about
+the same height, a bunch of them there are all about the same height, a bunch of
+them there are all around the same height. Do you think I split up the seeds and
+put all the tall corn over here, the medium corn over here,
+and the short corn over here? Probably not. Do you think I watered them differently? No, they were all pretty
+much watered the same. Well, if you think about it for
+a second, the answer is kind of obvious. These corn plants out here were
+getting a lot more sunshine, whereas these corn plants
+were getting a lot less. Cuz as you can imagine,
+as the sun was going over, all of them were still getting sun,
+like it's way over here. These ones are still getting sun, but the ones up against the deck
+are not getting any sun. So, there clearly is some sort
+environmental component to this corn but how do we quantify this, and more
+fundamentally, why do people even care? Why do people want to quantify
+whether there's a genetic versus environmental component? Well there's a lot of reasons,
+as you'll see later in the class you'll see that we want to be able to
+predict evolutionary change. Right? And evolutionary change requires that
+there's some sort of genetic component. You can't have natural selection or
+evolution by natural selection, unless there is some hereditary basis
+to the traits that are being selected. Okay? This is often also used in animal and
+crop breeding. So let's say for example you're
+a farmer and you want to breed for a corn that grows tall. Now let's say that there is basically
+no genetic component to it. Do you want to spend a lot of energy
+trying to select when there's in fact going to be no response at all? Well let's say there's no
+environmental component. Do you want to spend a lot more
+resources for excellent fertilizer and things like that when
+it's not going to matter? It's all going to grow to
+the same height anyway. No! Basically, you want to know
+this sort of information so you can spend the least amount of effort
+or energy possible for the best yield. This is true for
+both animal breeding and crop breeding. You want to know if
+the environment matters, and you want to know if it helps to pick
+parents that have particular traits. This is also very important
+in the context of medicine. Let's say for example you're a doctor and
+somebody comes to you and says, my mom and dad had peptic ulcers. Am I likely to get them? Basically is there some sort of genetic
+predisposition to peptic ulcer. You want to be able to have
+an answer to these things and this is where this kind
+of work is very useful. So, let me emphasize again,
+does not appear dichotomy. This is very rarely an either or question,
+but there's usually some of both. However, one may contribute
+way more than the other. So, something like, for
+example, eye color. Yes, there's probably some small
+environmental component to that, but there's a very strong genetic
+component to eye color. That I could lie in the sun
+staring at the sun forever and my eyes would not turn blue. [LAUGH] Something like that. Similarly, HIV status. Yes, there are some
+genotypes that are slightly predisposed to being less likely
+to getting infected with HIV. But there's obviously a huge environmental
+component that your behavior is very likely to affect how
+likely you are to get HIV. So let's dive into this. First, do genetics contribute? The way people usually identify
+some sort of genetic contribution, and I mentioned this in the beginning
+of the genetics section, is there's some sort of
+parent-offspring resemblance. That this could indicate that
+genetics are important because people who are related tend to look
+more similar to each other than to just somebody at random from the population. However, this is not a perfect measure. And part of the reason for that is
+something we'll come back to a little bit later on in this set of videos,
+but not this video in particular. It's that parents and offspring often
+share a part of their environment too. So how do we separate these two things? How do we distinguish? Well I'm gonna show you
+a couple of different means. In the first part here I'll talk
+about resemblance between relatives. And I'll use examples of identical
+versus fraternal twins or monozygotic versus dizygotic
+twins as an example. I'll use that just as an illustration and
+then we'll come to the more meaty parts which is common garden experiments or
+reciprocal transplant experiments. And those use the same principles
+as the sort of twin examples. You'll see this in just a moment. The idea here is that we want to
+separate genetics from environment. We want to keep one side constant and vary
+the other and see if there is an effect. For keeping the environment constant,
+we vary the genetics and we see an effect when there must
+be some genetic contribution. If we keep the genetics constant, we vary
+the environment and we see some sort of effect on the phenotype then there
+must be an environment component. That's the basic principle. So, looking at the two
+types of twins I mentioned, monozygotic which are identical. These are ones that came from a single
+sperm and egg that then separated out and they shared a single placenta. These are genetically exactly the same,
+okay. Dizygotic, or fraternal twins, are actually no different from
+any other brother and sister. They are separate sperm and
+egg fertilized. You can never have identical twins that
+were different sexes because you can't have different sexes that have
+exactly the same genotype. Famous example of some twins
+are the Olsen twins here. They by the way are fraternal rather
+than identical, just so you know. Now we could leverage this difference
+between monozygotic and dizygotic twins. We predict, if there's a genetic
+component to some trait, so let's say you're looking at height. If there's a genetic component to
+the trait the monozygotic twins should be more similar to each other in that trait,
+such as height, than dizygotic twins. On average, if you look across monozygotic
+twins they should be very, very similar. Dizygotic might be a little
+bit more different, because the dizygotic twins don't
+have exactly the same genotype. They have some different genes. Whereas the monozygotic have
+exactly the same genes. And we're assuming these twins are
+basically reared in the same environment, or close enough,
+There is no particular difference. Like if you were having kids, if you
+have monozygotic twins versus dizygotic twins you probably don't
+treat them any differently. You treat them the same
+because they're your kids. The way we measure this,
+the way we measure how similar or different you are is using correlations. So, using correlations and
+traces, we do this. This gives you some measure of how
+well traits match between groups. I know some of you may have had
+a statistics background and some of you may not. So, for those of you who already know some
+statistics, I apologize for this review. Correlations are given a numeric score,
+which is often labeled in r. And that r ranges from
+-1 to 0 to positive 1. And what this does is it indicates
+how closely one predicts the other. So let's say for
+example you have a perfect positive match. That would be an r of 1. So an example of this would be your height
+in centimeters to your height in inches. One perfectly predicts the other. You have this absolutely perfectly
+linear correlation between the two. In contrast, let's look at one
+that's not quite so strong. Here's one. Let's say you compared your
+height to your brother's height. You may see something more
+like an r of 0.7, where on average if you have a tall brother you are
+likely to be tall, on average, if you have a short brother you're likely to be short,
+but it's not this perfect correlation. There's some individuals
+who have a tall brother but are a little bit on the short side,
+and things like that. So it's not perfectly predicted. And again, in this case,
+some of this may be from genetics and some of this may be from
+shared environment. That's why you do see some sort
+of shared association here. Now let's go a little bit further. Let's imagine there's no correlation. You may see this in the context of
+your height to your neighbor's height, your next door neighbor's height. You know it's quite possible that
+you'll have some very short neighbors. You may have some very tall neighbors. But there's no reason to expect
+that their height is any more or less like your height. So this would be a case
+where the correlation is 0. And you may be wondering, well I've
+only done this range from 0 to 1, what about the negative part? Well negative is when you have
+literally a negative prediction such as daily high temperature to morning
+rainfall in the month of April. That you may have a lot of rainfall
+associated with low temperature, but as rainfall goes down your associate you
+get a higher and higher temperature. Okay, so this would be an example
+of a negative correlation or a negative 0.5 in this particular example. So I hope that gives you an illustration
+of what I mean when I say correlations. So let's come back and use this. The prediction, as I've said before, is that if there's a genetic component
+to a trait monozygotic twins should have a stronger correlation in
+that trait than dizygotic twins, right? The monozygotic are the ones
+that are genetically identical. Right?
+And dizygotic ones have some different genes. We're assuming that the environment
+is about the same in both. So what do we see with the data? Well if we look at correlations which
+ones we often see this difference between monozygotic twins and
+dizygotic twins. Here are a couple of examples. One is for IQ, or
+the supposed intelligence coefficient. The monozygotic twins tend to score
+very similarly on these tests. The correlation is 0.85. Whereas dizygotic twins
+have a correlation of 0.42. This suggests there is a genetic
+component to what is measured here as IQ. Same sort of thing for some diseases. When you look at gastroesophageal reflux
+disease monozygotic twins have a 0.29, dizygotic twins have a 0.13. Again we see this higher association
+when they are genetically the same than when they are genetically similar,
+but not identical which means that there
+is some sort of genetic component. There may be an environmental component. I should stress this. None of proved the absence of
+an environmental component. All it shows is the presence
+of a genetic component. I should stress that. Now, since this didn't prove the absence
+of an environmental component, how do we look at that? Well, what we can do there is keep
+the genetic relations constant, but vary the environment. What you do is you look at
+monozygotic twins reared together versus monozygotic twins
+that were reared apart. And your prediction is
+that monozygotic twins reared together should have a higher
+correlation in these traits than monozygotic twins reared apart if
+there's an environmental component. The reason is, those monozygotic twins
+reared together have exactly the same genes and the same environment, or
+very, very, very similar environment. Whereas monozygotic twins reared
+apart have exactly the same genes but somewhat of a different environment. Now this has been done quite a bit,
+especially in the context of psychology, but in other areas as well. So here's some results. Looking at body mass index, or BMI, monozygotic twins reared
+together have a correlation of 0.74. In contrast monozygotic twins reared
+apart have a correlation of 0.70. This suggests there may some
+environmental component, but it is surprisingly very small. Very small, surprisingly small
+environmental component. You make this is unexpected for
+something like body mass index. But in fact, for this particular study,
+that's what they found. In contrast, for verbal ability
+monozygotic twins reared together had a quotient of 0.76, whereas
+monozygotic twins reared apart had 0.51. So this suggests a very strong
+environmental component to verbal ability. Now we can again do the same thing
+with monozygotic versus dizygotic. So looking at this, this showed
+a strong environmental component. This also shows a strong
+genetic component. Because again, the monozygotic
+together versus dizygotic together, together it means
+the environment's the same. Mono versus di is changing the genetics. In this case, we see a pretty
+large genetic component and a moderately large environmentally
+component for the same trait. Again, seeing this difference doesn't
+necessarily mean that there's, it doesn't mean the absence
+of a genetics component, it just means the presence
+of an environmental one. Okay? So again, what we try to do is we try to
+control for environment, vary genetics and see if there's an effect. Or control for genetics and
+vary the environment and see if there's [INAUDIBLE]. Well, the same principles are done when
+you're looking at animals or plants and things like that. And not involving mono and
+dizygotic twins. And, in fact,
+these have been done quite some time. Let me show you some classic work. This is from the 1930s,
+work done by Clausen, Keck, and Hiesey. And here were interested
+in these differences among plant forms identified
+from different elevations. So they got some plant forms, as you
+can see on this elevational gradient, from Timberline, which is very high in the
+Sierra Nevada of California, from Mather, which is moderately high in elevation,
+and from Stanford, which has a very low elevation,
+just above sea level. And what they found is that the plants,
+these are the same species, looked very different in
+these different forms. That at high elevation they tended be kind
+of thin, sparse, not particularly bushy. Here's a color photograph
+of the high elevation form. As you got to lower elevations, you got
+this much bigger, bushier form down there. Is it genetics, or is it environment? Well, they pioneered a set of work
+that was extraordinarily influential. So, one thing they tried were
+these common garden experiments. These had actually been done by
+other researchers in the past. But they applied this to these
+particular plants in California. Essentially what they do for this is they grow plants obtained from
+different places in a single environment. So the idea here is they're trying
+to keep the environment constant. By getting these plants
+from different places, these likely have different genes, right? Because they're coming
+from different places, they likely have
+a different genetic makeup. So if the form difference between,
+say, the high elevation plants and the low elevation plants,
+well it's all environmental, right? If you grow them in the same place,
+they should all look the same. In contrast, if this form
+difference between the tall and short plants was all genetic, then the
+plants should look like quite different. Even if it's partially genetic,
+they should look quite different. This is very similar to the concept of
+mono versus dizygotic twin studies because again, we're using unrelated plants,
+so they have different genes, but looking at them in a constant environment. Well, what did they see? In fact, they found there was a form
+difference apparent even when grown in the same environment. So these are ones from the species
+potentilla gracilis and grown in one spot in Mathers, so this is that
+intermediate immediate elevation spot. They found quite a big difference in form. This suggests this form difference
+does have a genetic component. It does not prove there was
+no environmental component. It only proves there is
+a genetic component. Okay?
+Well how do we do the other half of this? Well, the other thing you can try is
+what's referred to as a reciprocal transplant experiment. In this case, you grow plant forms
+obtained from a single environment. So since they're from the same place we're
+assuming the genetics is fairly constant. And you grow them in several
+different environments. So you are taking all of these
+ones that have the same form and you are growing them in
+different environments. So maybe you take it from Mather and
+grow it in Timberline, in Mather, and in Standford, for example. If some of the form difference
+is environmental then they should in fact look different. In fact,
+if the form difference was truly genetic, then all the plants would still
+look exactly the same, right? Cuz they're all derived from
+that same place, correct? This is the same concept as these
+twins reared together versus apart. That we're using the same
+genetic makeup and we're varying the environment
+in which the plants are grown. And in fact,
+with this they did still see an effect. The form difference for the same type grown in different
+environments was still apparent. This is showing potentilla glandulosa,
+and this is grown at Stanford, Mather, and Timberline. And you know what again? The Timberline ones are quite small. The Stanford ones are much bigger and
+bushier. This is just this form difference
+does have environmental component. Now, everything I've shown you so far is
+how to tell is there a genetic component, yes or no. Is there an environmental component,
+yes or no. And remember, just because we say yes to one does not
+mean you're saying no to the other, because quite often, as you saw with
+these examples, there is some of both. Now what you probably
+want to do is to quantify how much of the variation that you
+see is genetic versus environmental. Well that we'll come to in the next unit.

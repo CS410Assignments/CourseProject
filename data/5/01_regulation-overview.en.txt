@@ -1,0 +1,86 @@
+So today I wanted to talk about crises,
+misbehavior, and regulation, it's a huge topic,
+financial regulation. So I wrote a book with George Akerlof
+called Phishing for Phools. We're using the word phishing more
+generally than its usually mean, to mean manipulation or deception. And we inclined a new word phool. Well actually,
+it's already a Hindi word, and it's used in India in English to mean a
+flower, I guess, or it's somebody's name. But for us, phool with a P-H is
+somebody who doesn't appreciate how much he or she is being manipulated
+[LAUGH], and most people are phools. That we want to open their
+eyes to manipulation. So regulation is substantially aimed
+at dealing with human problems and with manipulation and deception. We just talked about it for example,
+with the mortgage regulation, which is intensive. It has to be detailed because there's so
+much involved. So many people playing games,
+they're not all playing games. One theme of our book here,
+is that it's not that people are bad, it's that people
+are constrained by the market. If everybody else is doing something,
+you have to do it too, or you won't stay in business. If there’s some manipulation that works,
+so for example when you go to the store,
+this is a trivial example. You go to the store and look at prices
+you'll see something priced at $9.99. Now you think, wait a minute why
+don't they just round that to $10? Well you know why they don't,
+there's a psychological tendency to just look at the first digit, or
+to count how many digits in the price. You don't want to add another digit,
+and go from $9 to $10. You're playing a trick,
+it's phishing as we define it. Why do you do this? You do this because everyone else is
+doing it, and in a competitive market with narrow profit margins you can't
+escape it, you've got to do it too. I remember in my own company, Allan Wise
+called me one night, Case Shiller Wise, and he said, what should we price
+our online mortgage service? We had an online,
+I think we were the first, I am sorry, we gave price estimates for
+individual homes. You'd type in your address, and
+then we would give you an estimated value, instantly, based on our models. Zillow later came in and took over that
+business, but we've had it for a while. What should we price it? The question is should we
+price it at $29.99, or $30? And we fell in a quandary,
+because you know that business is better if you lower the price
+a little bit below a pricing point. But we finally decided no
+we don't play that game, we're a firm of integrity and
+we priced it at $30. But you know what we had no competitors,
+there was nobody else on the web at that time, giving you an instant value for
+your house. So it didn't matter,
+we did all right, finally. We sold that company by the way in 2002,
+a long time ago. But I remember the doubts we
+had about playing the game, and some companies stay above it. But you can't do it in
+a tightly competitive market, you can stay above it,
+but you'll be thrown out. You won't make any profits,
+and you'll go out of business. That's what we call
+the Phishing Equilbirum. So you need regulation, and
+our book is a plea for regulation. And when I mentioned that
+the QRM rule was 689 pages long, I'm not saying it was evil or corrupt. I'm saying they're dealing with a very
+complex problem, and a huge industry, with tons of lawyers
+representing their interest. I have to hand it to the people
+in the regulatory agency, it looks like they came up with
+a reasonable set of regulations. Now one thing we have to do is
+distinguish between microprudential and macroprudential regulation. Actually, these words are,
+I haven't looked them up on Engram, but I think the word macroprudential is a
+relatively new word in the last ten years. Most regulation in the past has been
+to protect individuals from abuse. But now after the financial crisis,
+that's called microprudential, because it was looking at one guy or
+one small business. Macroprudential is regulation
+to help prevent big crisis, big events, the macro economy. And it's a revolution in regulation that
+occurred since the financial crisis, that regulators are not just there
+to protect you as a stockholder, or you as a purchaser of a product. It's to protect the whole economy,
+business wants regulation. Well when you bring up
+a specific regulation, there will always be some business
+people who will oppose it. Namely the business people who's
+interests are harmed by the regulation. But on the other hand, business people
+want regulation, because they don't want to live in a system that forces
+them to do corrupt things, or to do things that are obviously
+not in the public interest. They would rather compete in an
+environment that encourages good behavior, otherwise they're forced to having
+the lowest common denominator. It's analogy to sports events and
+you have a referee. Do the players want a referee? Sure they want the referee,
+they want it to be a good game. They don't want rough-housing, they don't
+want someone who's going to kill them during the game, or risk killing them,
+or give them lifetime injuries. They want a regulator, but of course when
+they get regulated, when they referee says you've just committed a foul,
+they object at that point. But players, they have a hate
+relationship with regulators, but they know that they need regulators,
+namely referees. >> With more regulation obviously
+the key is to lower the risk, but do you think by doing that,
+is that hindering the entrepreneur? >> Right. >> And all of these being [INAUDIBLE]? >> Yeah there is a trade off there. I've found in a couple of
+companies in my life, and I am very aware of the lags that
+were imposed on us by regulators. But on the other hand,
+the regulators I met, I thought were impressive people and
+public spirited, that was my impression. So I don't know that they're
+not driving a good balance.

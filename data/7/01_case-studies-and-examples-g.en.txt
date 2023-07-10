@@ -1,0 +1,215 @@
+Hello, and welcome back to Introduction
+to Genetics and Evolution. In the previous videos, we talked about
+the general principles of natural selection as applied to single loci or
+as applied to phenotypes. What I wanted to do in this video
+is to present to you some elegant case studies and
+examples of natural selection. Cases where looking at animals or plants in the field,
+we tend to see these observations that seem to be best explained by
+the action of natural selection. So let's go ahead and get started. I have three general categories of
+things that we'll be talking about. First, we'll look at some
+case studies of mimicry. Mimicry, as you may know
+from the term itself, suggests imitating something
+else in appearance. We'll look at variation in space and
+time within a species or across species, and we'll look at the
+principle of sacrifice for family members. Why does it happen? Evolution by natural selection
+isn't always ruthless [LAUGH], as some may have you think. So, looking at mimicry to start with. Mimicry, again, it just means the organisms
+evolving to resemble one another. Now when can this adaptive? The simplest time this
+would be adaptive is if the model has some sort
+of warning coloration. Basically, if you want to look like
+something that is scary, that makes it so other things are less likely to threaten
+you or to eat you or things like that. So if what's referred to as the model, the
+thing that you're evolving to look like, has a warning coloration and
+is actively avoided, then your appearing like the model species will make it less
+likely that you will be harassed or eaten. I think this is not a particularly
+good example here of a dog trying to look like a skunk, and it's
+clearly not evolutionary, but nonetheless, let's look at some real examples. There's two general types of mimicry. The first one we'll talk about
+is called Batesian mimicry. This is the case where the mimic is not
+dangerous, but the model is dangerous. In this case again, it's useful for
+the mimic to look like the model because others will fear it or
+avoid it for whatever reason. So we have here example of
+the non-venomous kingsnake, which as you see, looks very,
+very similar to the venomous coral snake. We have an example here of a fly
+that looks very much like a wasp. And wasps, of course, can sting you,
+and that's very painful, and therefore they're typically avoided. This fly however has no stinger, but
+it looks so much like a wasp that it tends to be avoided, and
+therefore its fitness is higher. In both of these cases, they are more
+likely to eventually survive and have more offspring because they are less
+likely to be harassed and/or eaten. This is a really elegant picture. This is a caterpillar that, as you see, looks a lot like snake when it
+puts its rear up like that. So this is Batesian mimicry, the case
+where the mimic is not dangerous, but the model is. Let me show you a different one. This is Müllerian mimicry. In this case, this is a lot of dangerous
+species, or multiple dangerous species, evolving to look like one another. In that sense,
+they derive an advantage from each other. So what we have here, these are all, the top row here is all
+from the species Heliconius melpomene. This is a nice tropical butterfly. The lower ones are all Heliconius erato. What you see here is this melpomene
+looks a lot like this erato, this melpomene looks like this erato,
+etc., etc., etc. Now, importantly, why am I showing
+you all these different pictures? In each of these cases, the vertical
+group here are from one local population. So in one particular population,
+melpomene look like this, and the erato look like this. In another population, the melpomene look
+like this, and the erato look like this. It's very dramatic, that within
+each of these local populations, they've evolved to look like each other
+even though they are different from their own species in other populations. And again, in this case they derive
+the advantage from each other. Because imagine if a bird
+eats a Heliconius erato and it has a bad digestive reaction to it. It's less likely to eat any more erato,
+but it's also less likely
+to eat any melpomene. They all derive this mutual advantage. In the case of Batesian mimicry,
+the advantage is only to the mimic. In this case, the advantage is for
+all the models to come together. It's a really elegant case of
+natural selection, don't you think? So moving on. I wanna talk a little bit about
+variation across space and time. Now there are a couple of things that are
+often referred to as ecogeographic rules. So these ecogeographic rules are patterns
+of variation either within a species or across a species group that tend
+to correlate with geography. So for example, having a particular
+trait in cool environments, but not having that trait
+in warm environments. And when you see this pattern over and
+over again, either within species or across species, you know within
+a particular species group, that's indicative that there's
+some reason behind this. That there's some adaptive value to
+having a particular trait in the cold but not in the warm. So one of these is referred
+to as Bergmann's rule. This was named after the German biologist
+Bergmann in the 19th century, who observed that animals in general tend to be bigger
+in cold environments or in high latitudes. Now his classic work on
+this in house sparrows, but it's been seen across and
+within various other species groups too. Now why might this be? Well, again, as you're larger,
+you're increasing your volume quite a bit, but you're not increasing your
+surface area at the same rate. So therefore you should be
+better able to retain heat. Now this is just one possible explanation. We're not positive that this is
+the cause for it, nor are we positive in every individual case that this
+is a result of natural selection. But we see this pattern over and
+over again, and it's suggestive of natural selection,
+and it makes sense. So we'll come back to this sort of
+principle a little bit later on in this class as well. So Bergmann's rule, again, is that animals
+tend to be larger in cold environments or in high latitudes. A similar rule is Allen's rule, is that animals tend to have shorter
+appendages in cold environments. Now why would you do that? Why would you have shorter
+appendages in cold environments? Again, think of it in the context of
+surface area, that if you have long, lanky arms [LAUGH], then you might be
+losing more heat in a cold environment. In contrast, if you have short, little stubby arms, then you're
+not gonna be losing so much heat. So one classic example of this
+that's been cited repeatedly is in the context of the ears of the polar
+bear compared to the ears of other bears. Again, shorter appendages
+in colder environments. Now interestingly,
+we see this with respect to bills or beaks in birds as well. So beaks and bills, as you can imagine,
+do lose some heat, and this is a thermal graph to show you that they actually do
+have heat within them that can be lost. And this graph here on the right shows
+various different species groups. These are the lines in the graphs,
+various different species groups, and in each case you tend to see
+this correlation with latitude, where at higher latitudes,
+the bill size tends to be smaller. At lower latitudes,
+the bill size tends to be larger. Again, consistent with what you
+would expect from evolution by natural selection. The last one that I'll mention here,
+though there are others as well, is referred to as Gloger's rule, that animals tend to be more
+heavily pigmented in high humidity. Now, this is generally or typically
+true near the equator, and this has been observed particularly in various
+bird species such as song sparrows. In those cases, it's possibly
+related to bacterial activity, though again we're not certain. But again, this is another ecogeographic
+rule where we see it over and over again. It's been suggested to be true
+potentially in humans as well, but again, the evidence is not perfect in
+this regard so we don't know. Nonetheless, all these ecogeographic
+rules are cases where it looks like the action of natural selection has been
+present because we see these same patterns over and
+over again with respect to geography. And you wouldn't expect
+this by random chance. Why would it always, or why would it
+typically be that the cold environments have the larger animals, just by chance? We don't think that's true. Now I'm talking about this so
+far with respect to phenotypes, but you see the same thing
+sometimes with respect to alleles, in cases where we can look
+at the alleles directly. Drosophila pseudoobscura has a set of
+alleles on its third chromosome, and in this video, I'll focus on one
+that's referred to as arrowhead, or in this case abbreviated AR. This is a species that I actually
+conduct research on as well, but we'll be talking about the classic
+work by Dobzhansky from the 1930s and 40s all the way through
+his passing in the 1970s. One of the things that Theodosius
+Dobzhansky observed was a correlation with altitude, not latitude this time but
+altitude, how high a population is, and the allele frequencies of arrowhead. So one of the places he studied was
+in California, and he found that at low altitudes, like here in Jacksonville,
+arrowhead tended to be pretty rare. But as you went higher and higher in altitude, you tended to get
+more and more of this arrowhead allele. Interestingly now, he did some laboratory
+experiments where he varied the humidity, and in those cases again, as he
+changed the humidity to match what you would observe in low altitude populations,
+arrowhead became rare. When he changed it to match high altitude
+populations, it became more common. And the same thing also happens
+with respect to latitude. So this is quite striking, where all these different sources of
+evidence are supporting the same idea that there is some selective benefit
+to the arrowhead allele at environments similar to what you would
+see in high altitude or in high latitude. Now, this was true with respect to
+geography, but remember I said before, this was space and time. You see the same thing
+looking over time as well. Remember now, Drosophila species are,
+they breed very quickly. Drosophila pseudoobscura has its
+generation time in the lab of three to four weeks, so you have many
+generations over the course of the year. So there's lots of opportunity for natural selection to change
+the abundance of alleles over seasons. So he collected Drosophila pseudoobscura
+from this place called Mather, CA, just outside of
+Yosemite National Park, in 1946 and 1947. And what he found was early summer,
+he tended to find a lot of arrowhead. As you got later into the summer, as it was warmer,
+you tended to see a decrease in arrowhead. So you see this a little bit in 1946, but
+you see it much more strikingly in 1947, that arrowhead gets less abundant
+as it gets hotter each year. Remember, this is a slightly high altitude
+too, so that's why June is actually still a little bit on the cool side
+in that particular area. So again, the abundance of
+the arrowhead allele decreases from spring to fall each year, and
+then it comes back the following spring. Very dramatic. So this was again a case of
+variation across space and time, consistent with evolution
+by natural selection. The last principle I wanted to briefly
+touch on was this concept of sacrifice for family members, or
+it's often referred to as kin selection. So why does this happen? Why do you sacrifice yourself
+to help your family members, or why do some animals do this? They'll often sacrifice to help
+others if they are relatives. Now Darwin, as with most things,
+had some ideas on this. And he pointed out in his Origin of
+Species book, selection may be applied to the family as well as to the individual,
+and may thus gain the desired end. It's important to remember that you're
+related to your family, so when you help your family, you're actually helping
+the spread of your own alleles too. So let's look at this with respect
+to some pictures and stuff. So let's say this is you, okay? This is you there, and
+let's say that generally speaking, if you just were selfish and
+helped yourself, you would have two kids. And let's say then on average, you pass
+half your information to each daughter, and therefore your alleles live on. Half goes to this daughter,
+half goes to that daughter. On average, you've reproduced yourself. There may be particular alleles that
+were lost, or some that you have that are now in two copies in the population,
+but on average, it's passed on. Passing on nothing is clearly bad, if you were just to sacrifice yourself for
+nothing, clearly that's not advantageous. So,let's look at this third option. Let's say that now you have four sisters. You share half your genetic information
+with each sister, assuming you're diploid, which I assume you all
+are who are watching this. So each of these has already
+half of your genetic material. Now, you didn't make your sisters. They were made by your parents,
+but let's say they're there. Now, let's say each of your sisters
+has the potential to be selfish, and they're going to have two kids each. With each of these nieces, you share one
+quarter of your genetic information. So, this one has one quarter
+of your genetic information, this one has one-quarter of
+your genetic information, etc. So let's assume that your help is critical to the reproduction of your sisters and
+to the survival of your nieces. And you have the choice now where you
+could either help these four sisters produce their kids, or
+you could have your own kids. Which one is actually better for you? Well, counterintuitively,
+if you help four sisters and die in the process, your alleles live on
+twice as well as if you had kids yourself. Cuz in this case,
+you've passed on two halves, 2 x 1/2, so you've passed on a total
+of one copy of you. Here, you've passed on 8 x 1/4, or
+essentially two copies of yourself. Now basically your alleles live on
+better because you helped your sisters than if you were selfish and
+helped yourself. Now there were some assumptions in this,
+but nonetheless we do see this concept that sometimes it will be beneficial for
+you to sacrifice yourself, or for an organism to sacrifice itself,
+to help relatives reproduce. Now again,
+this comes back to Darwin's quote here about selection may be
+applied to the whole family. And the term for
+this is kin selection, and it's the evolutionary strategy that favors
+the reproductive success of an organism's relatives, even when at the cost of
+the organism's own reproduction. There's a famous quote by JBS Haldane,
+an evolutionary biologist. Now he was asked if he would give his life
+to save a drowning brother, and he said, no, but I would save two brothers or
+eight cousins. [LAUGH] Now of course it's a little bit
+silly, but you see where this concept is, that if he saves two brothers and each of
+them has half his genetic information, it's basically the same as saving himself. You may not feel like that
+with respect to your brothers, but that's at least what
+natural selection would favor. Now, there are some possible
+examples of kin selection out there. Now one of them is with respect to
+the Belding's ground squirrel alarm calls. Now these squirrels will, when they see
+a threat, will stand up on a rock or something and make a little chip sound. And it's potentially dangerous to
+themselves that they're doing this, because they're making themselves very
+conspicuous to whatever the predator is or whatever the threat is that's imminent. Now, it's thought that this may have
+evolved and spread to help relatives. And the reason for that is that females
+do alarm calls more frequently when there are relatives around, rather when there
+are no relatives around, and this is for one particular alarm call. So again, this is a possible
+example of kin selection. So again, overall, what I wanted to do in this video is just
+give you some case studies of natural selection in areas where it's been applied
+to some interesting natural observations. First with respect to mimicry, so the
+resemblance of something that is a threat. Looking at variation across space and
+time, where often you see these repeated observations suggestive
+of the action natural selection. And of course sacrifice for
+family members or kin selection. Well, I hope you enjoyed this. Thanks so much.

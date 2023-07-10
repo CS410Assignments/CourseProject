@@ -1,0 +1,94 @@
+Hello, my name is Mohamed Noor, and
+I am a professor at Duke University. I'm very excited to be talking with
+you about genetics and evolution. Here in this first video,
+we'll be looking at what is evolution? And in some of the subsequent videos,
+we'll look at the evidence for evolution and we'll look at responses
+to criticisms of evolutionary theory. So let's dive right in. Evolution in a biological sense
+is simply change through time. And very importantly, that is change
+through time over generations. So for example,
+the human species, hundreds or thousands of years ago was
+much shorter than it is today. Over the course of those generations,
+the human species has grown taller. That change is an evolutionary change. In contrast, I used to be a baby. Now I'm an adult. That change is not an evolutionary change
+because it happened within an individual. That change is development instead. Now one common source of confusion is
+the distinction between evolution and natural selection. Evolution, as I mentioned,
+is simply change through time. Natural selection is one
+driving force of evolution. It can be one reason that
+evolutionary change happens. But importantly, it is not the only
+reason evolutionary change happens. Later in the course, we'll talk about other forces
+that drive evolutionary change. But let's start by looking at one famous
+case of evolution by natural selection. A classic example of evolution by natural
+selection is that of the peppered moth, Biston betularia. I have here a picture of two of these. There's one peppered looking one that's
+mostly white with little black flecks, and one black form over here. It's often referred to as melanic. Which of those is harder
+to see on that tree? Probably for most of you the peppered form
+is a little bit harder to see because it blends in with the color of the tree and the spotting pattern of the lichens
+that are growing on the tree. In contrast,
+this black one is very easy to spot. Not only is it easy to spot for
+you, but it's also easy to spot for hungry birds looking for
+a tasty moth treat. As a result of this, the black forms tended to get eaten
+much more than the white forms, and in 1848 nearly all the moths that
+lived tended to be peppered. Now things changed with
+the Industrial Revolution. The trees were blackened and
+a lot of the lichens died. So instead of having this
+form be the camouflaged form, all of a sudden the black form had
+an advantage on these new black trees. Because of this change, 98% of the surviving moths were now black
+and the peppered forms were largely gone. This was not a change in
+the color of individual moths. What happened is the offspring of the
+black moths were able to survive because they could hide. They were better camouflaged. Meanwhile, the offspring of the peppered
+moths were not so lucky, and they got eaten up by a lot of the birds. So this change from being nearly all
+peppered to nearly all black in this species is referred to as
+industrial melanism, that is, change in the coloration of
+a species to a darker form in response to pollution in
+the environment caused by humans. This happened not just
+in the peppered moth but in a wide array of insects and
+other species. This process continued until about 1952. In 1952 in Great Britain we had what
+was referred to as the Great Smog. The Great Smog brought in a ton of smog,
+as you would guess, that sat over the city of London for
+weeks on end. Tons of people died from this. This was a terrible amount of pollution. This picture is taken in broad daylight. It was incredibly hard to see. Ambulances didn't run. And in fact, it was even seeping
+into homes and performance venues. A lot of theaters closed because
+even inside the theater so much smog had come in,
+you could no longer see the stage. As is typical with a lot of politicians, it took a disaster before
+they could actually act. And what we had in
+Great Britain was the passage of the Clear Air Acts in 1956 and 1968. The passage of these acts cleaned
+up a lot of the environment. What you saw happening then was those
+trees that previously had been blackened were able to get cleaned off and a lot of
+the lichens on them started to grow back. In response to this change
+in the environment, we also had a change
+in the peppered moths. So this was a case of evolution from white
+to black and now from black back to white. This picture shows the change
+in the fraction of moths that were black over time. So starting in 1959, again,
+most of them were black, as we just said. So we go into the 1980s, we see a drop
+in the fraction of these black moths. 1990s, a further drop. And in the 2000s it's actually hard now to
+find a black form of this peppered moth in Great Britain,
+in the United States and Japan. The same process happened
+on multiple continents. So this is a case of evolution
+by natural selection. So one question a lot of
+people have asked me is, isn't evolution by natural
+selection just a theory? Well, I will argue to you that
+evolution by natural selection is a mathematical inevitability. There is no way to avoid having
+evolution by natural selection if some very simple conditions are met. So let's imagine you're working
+with a population of squirrels. I used to live in Louisiana. Every April we'd have a explosion of
+baby squirrels all over the place. There'd be baby squirrels running
+around in the yards, on the sidewalks. And kind of unfortunately for
+some of them, out into the streets, where they'd often get hit by cars. Sometimes by me. This was very unfortunate for
+the squirrels, as you can imagine. Now let's imagine the [INAUDIBLE]
+population of squirrels of two types. Let's say there's a type
+A that runs randomly, is likely to run out into the street,
+or possibly not running into the street. And let's imagine there's also
+a type B that fears asphalt, so they avoid going into the streets. There would be an advantage to the type
+B offspring, because they're much less likely to get hit by a car if they
+don't go out into the street. So let's say that on average the type
+A squirrels have 1 offspring and then they pass away, whereas the type B squirrels have on
+average 2 offspring before they pass away. So we'll start a population
+with half type A, half type B. Now let's see what happens. And we're assuming that type
+A individuals have type A kids, type B individuals have type B kids. After one generation, these type
+A individuals each have 1 offspring, so we have now a new population
+of 100 type A squirrels. The B ones, as I said, are each having 2
+offspring, so these 100 produced 200 kids. So what's happened? Instead of having 50% B, all the sudden
+now we're at 66% B, 200 out of 300. So let's go another generation. Well, these 100 have another 100 for
+babies. These 200 would have how many? They'd have 400 because, again,
+each of those 200 has 2 babies. We're assuming, again,
+the parents pass away. So we've gone from 66% to 80%,
+400 out of the total of 500. Finally, generation 3, 100, and
+over here we have 800 squirrels. So we've gone from 80% now to 89%. That is evolution by natural selection. We see this change over time, over
+generations, very importantly, from 50% type B to 89% type B over the course of
+three generations, three new generations. I hope you enjoy the next video.

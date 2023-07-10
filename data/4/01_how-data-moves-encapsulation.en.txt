@@ -1,0 +1,102 @@
+[MUSIC] Hi, welcome back to cyber security for
+everyone. I'm Dr Charles Harry, in this episode,
+I want to talk a lot about how data actually moves from one point
+of the earth to the next. And it's a process that
+we call encapsulation. So how does data actually move? We know from our prior conversations that,
+the internet allows for a broad set of connections between
+interdependent networks and they communicate with one another. The World Wide Web is
+a set of content that sits on top of those independent networks. But the question is how does data actually
+move from one point of the earth to the next? If I'm in Maryland, and I want to
+communicate with someone who Mumbai, how does that actually happen? How does that data move from one
+point in the earth to the next? And that's what I want to
+talk about more today. So if I'm an individual city and let's say
+paris France and I want to communicate with someone else, let's say in Maryland,
+how does that actually happen? Yes, of course, we want to look at the broad set of
+interconnections between networks. This is just a simple visualization
+of a lot of independent networks on the internet. The question is,
+how does that data actually move? That's the concept of encapsulation
+that I want to talk about a little bit in this episode. So the ability for devices to communicate
+with one another require instructions and we call these instructions protocols. We've talked a little bit about
+some protocols in earlier episodes. Some of these protocols, some of these instructions relate
+to applications that you're using. Still others relate to the routing
+of that information and still others relate to the physical mediums in
+which that information is transmitted. We bundle those instructions
+together using a concept that we call encapsulation. So, if you're using an application,
+whether it's social media or email, or
+even a web processing application, that you're eventually going to send
+in a file transfer to another computer. There are a set of instructions
+that are included along with it, that tell the device and tell the network
+how to interact with that information and where to send it. So depending on the application that I'm
+using, there are set of instructions. Those instructions are then paired
+with other instructions that deal with the routing of that information. And then further those instructions are
+then passed down to the physical medium. How that information is actually
+transmitted over some sort of energy waveform. Now, we're going to talk more about
+specific portions of these instructions in other episodes. But it's enough right now to
+understand that these instructions are included there, they are encapsulated within one another,
+kind of like Russian nesting dolls. The dolls in which, a smaller doll fits
+inside a larger doll which fits inside, yet another larger doll, that's in
+essence what we're talking about. So we use something called the OSI model
+or the Open Systems Interconnection model. And it's a way to think about
+communications functions that are completely independent
+of the technology or the structure underpinning it. And there are multiple what we call
+layers involved in this model and those layers together form
+what we call the stack. So let me show you kind of a visualization
+of what I mean by the Osc model, if I want to send and encapsulate data. So I'm actually using a laptop and
+I'm writing an email and I want to hit send on that email, I need to encapsulate those
+instructions in some sort of structure. And so the OSI model has
+seven different layers and remember those layers formed the stack. So we're going to start up at the very
+top here at the application layer and that information is then packaged and
+encapsulated at different layers. So we have a presentation,
+a session layer, transport, network, data link and physical. Now, for the purposes of our conversation, we're really only going to talk
+about three layers in this model. We're going to talk about the application
+layer, we're going to talk about the network layer and we're going to
+talk about the physical layer and we're going to talk about those
+layers in future episodes. But, it's enough to understand that
+the instructions that you are providing at the application layer is encapsulated
+in all these other layers as well. That information, once it's all packaged
+up, is then sent over a physical medium that could be light, it could
+be radio waves, it could be microwaves. We'll talk more about that
+in a different episode. But that wave form can be transmitted
+from one point of the earth to the next. So if I want to communicate with my
+friend in Mumbai, and I'm in Maryland, all that information, that's incorporating
+in that email is encapsulated. All these various instructions about
+where to route it and how to send it and how to deal with that information,
+is packaged up and sent. My friend once they receive it,
+their computer receives it, now can unpack all of that information,
+the instructions are included. Once that information is received,
+it gets unpacked, so it moves away from just the physical
+medium and gets unpacked. And then the network understands
+what to do with that data. And then later the application
+knows what to do with that data. So that email that I have sent
+my friend is now received, the instructions are unpacked and
+now that email can actually be read, so encapsulation is fundamental. It's a fundamental concept in the global
+telecommunications environment and it includes data from
+the applications that you're using. But it also includes instructions for
+the recipients application, as well as all the infrastructure that
+is required in order to route it. That data, the packets,
+the frames, the bits, all the pieces of information
+that are included, are all sent around the world using this
+globally interconnected set of networks. Laptops, phones, critical infrastructure
+and all the other devices that we know and love, send and
+receive information this way. So, why does this matter for us when
+we want to talk about cyber security? Well, hackers leverage weaknesses
+in those different layers, because remember the layers
+represent a conceptual model. But within each one of those layers
+are protocols, instructions how to deal with that information and
+some of those protocols are pretty old. They're 40 or 50 years old and
+so some of them have weaknesses. And hackers look for
+the weaknesses in those instructions and they use those weaknesses to help them
+steal information or to disrupt services. Understanding how data is packaged,
+routed, transmitted is absolutely fundamental to understanding
+the set of threats that we face. Complexity in the technical systems and
+the human organizations they support is absolutely at
+the heart of cybersecurity. That's why we need to talk
+about encapsulation and the different layers of the OSI model. So what are the takeaways? Information must be transmitted from
+one point of the earth to the next. That's how we communicate, the
+instructions for that data and how it's packaged, routed, transmitted is done
+through a process called encapsulation. The OSI model is a conceptual approach for
+how we understand those layers in the stack and
+the potential weaknesses at each and every one of those layers are at
+the heart of cybersecurity. That's what the hackers are exploiting
+when they want to steal your information or disrupt a critical service. In our next episode, we're going to
+talk about the application layer, I hope to see you next time.

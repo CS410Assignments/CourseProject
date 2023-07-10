@@ -1,0 +1,272 @@
+Welcome to this tutorial on the Neural
+Control of Facial Expressions. I've got two learning objectives for you
+in this tutorial. I want you to be able to discuss the
+control of facial expression by upper motor neurons in the cerebral cortex.
+And then I want you to use that knowledge to predict patterns of facial weakness
+that might follow lesions of the cerebral cortex, the internal capsule or the facial
+nerve itself. So, in order to begin this tutorial, I
+want to introduce a relatively common clinical phenomenon.
+And that is, that a lesion involving the distribution of the middle cerebral
+artery, such as a stroke or hemorrhage, often results in contralateral facial
+weakness. But that weakness is typically limited to
+just the lower part of the face. So the question is why is this weakness
+restricted in this way to just lower part of the facial muscles?
+And in order to explain this phenomenon, we need to learn something about how the
+muscles of facial expression are governed by different neurons in this cerebral
+cortex. So, before we get there, lets just remind
+ourselves that some the more peripheral components of this.
+So let's consider a couple of study questions.
+First of all, what cranial nerve innervates the muscles of facial
+expression? So think for just a moment and record your
+responses. Secondly, where would you find the
+relevant motor nucleus? Now, if you checked your references or
+hopefully you knew from your studies earlier, that the facial motor nucleus is
+both responsible for supplying muscles of facial expression via craneal nerve seven.
+Then you got the answer to the first one. But now, what I want you to reinforce is
+where in the brain would you find that facial motor nucleus?
+Is it in the thalamus, the midbrain, the pons or the medula oblongata?
+Now that we know that the facial motor nucleus is found in the pons, let's
+actually go find it in our Digital Atlas to the brain stem in Sylvius 4.
+So I've just opened our launcher window in Sylvius 4, and, I will select from
+brainstem cross-sectional Atlas all structures and this will open up.
+A collection of sections that are fully segmented and annotated that will allow us
+to find the facial motor nucleus. So, now that you know where to look, it
+shouldn't be too difficult to actually find it.
+So first, let's select a section through the pons and I can do that simply by
+pulling down this slider in our navigational window to the left to about
+the region of the middle of the pons. And so, now, we have a section that is
+present and I'll make it just a little bit larger for us.
+And as we mouse over structures, we see that the structures light up as do labels.
+And I want to draw your attention to this central region of the brainstem.
+This is what we refer to as the tegmentum, it's the part of the brain stem between
+the ventricular system up above, and the specialized white matter and gray matter
+structures that we find down below in various divisions of the brainstem.
+So that tegmentum is the core, that's where we find our cranial nerve nuclei.
+That's the part of the brain stem that's most like the spinal cord, where we have
+nuclei for sensation and for motor control.
+Now, the facial nucleus, it's one of the motor nuclei that innervate muscles that
+have a particular embryological derivation.
+They come from the pharyngeal arches and that's significant, because this tells us
+where to look for the nucleus that grew out the axons that supply those muscles.
+And in this case, we're concerned with the muscles of facial expression, cranial
+nerve VII, the facial nerve, and the facial motor nucleus.
+Now, these neurons in embryological development migrate to a somewhat lateral
+and intermediate position in the tegmentum of the brainstem.
+And for the facial motor nucleus, we find it right here.
+So, now in yellow, we have our facial motor nucleus.
+Now, one might think that these axons would simply take a straight shot out and
+exit the ventrolateral aspect of the junction between the pons and the medulla.
+But in fact, the course of these axons reflects this embryological migration of
+the motor neurons that I just mentioned. So this nucleus migrated from a more
+dorsal position, and as the neurons moved, they elongated their axons.
+So the axons from the facial motor nucleus actually wrap around and form this band of
+nerve root that wraps around the abducens nucleus.
+So, the abducens nucleus makes a bit of a protrusion at the base of the fourth
+ventricle and on top of that nucleus are these axons of the facial nerve that form
+a little bit of a hill on top of that protrusion.
+So, we call this the facial colliculus. If we're looking down at the floor of the
+ventricle, we'd see these two little humps here and that reflects the course of the
+facial nerve. And then from here, the facial nerve
+projects towards this angle here between the pons, the medulla just below, and
+then, the cerebellum out to the lateral aspect.
+So there is the facial motor nucleus. This is the structure that is in question
+in this tutorial. So let's continue on now and talk more
+about the way that upper motor neurons provide input to this structure.
+Okay. Well I'm going to introduce the brain to
+you again using this brain model. And, I want to draw your attention to that
+part of the motor cortex that is involved in governing the facial expression.
+So what we're looking at here is the lateral surface, the right hemisphere of
+course, and all of these red lines are meant to illustrate blood vessels that
+supply this surface of the brain. In fact, these would all be branches of
+the middle cerebral artery. Now, the motor cortex is found in the
+banks of the precentral gyrus, which is located right here.
+Of course, the central sulcus, being this space just posterior to that precentral
+gyrus, which runs all the way from the longitudinal fissure in the dorsal midline
+to the lateral fissure here between the frontal parietal and temporal lobes.
+Now, if you viewed my tutorial where I put my fingers on an actual human brain, you
+get the idea that the central sulcus is found roughly near the middle of the
+hemisphere. And as I'm putting my fingers down over
+the central sulcus, now, my middle finger would be representing the precentral gyrus
+and my index finger representing the postcentral gyrus with the space between
+my fingers representing the central sulcus.
+So that part of the motor cortex that governs our voluntary control of the
+facial muscles is found out here where my fingertip is located in the inferior
+segment of the lateral precentral gyrus. So about the fingertip region of my middle
+finger is where we would find this relative part of the neural cortex.
+So, here we are, the inferior segment of the precentral gyrus.
+This is governing the movements of the contralateral face.
+Now, I need to be more specific than that in order to answer this clinical
+conundrum. What was discovered in recent years, is
+that these upper motor neurons that are otherwise representing the face are
+actually governing the movements of just the lower part of the contralateral face.
+So as, as illustrated in this brain model, this is the region of cortex, that when
+damaged by that middle cerebral artery infarction is responsible for the weakness
+of the contralateral lower face. Now, what about the cortical
+representation of the upper part of the face?
+Well, we used to think that it was represented likewise here in the lateral
+part of the precentral gyrus. We now know from studies done in non-human
+primates, that the control of the upper part of the face seems to be governed by a
+region along the mid-sagittal surface of the brain.
+So as I take this brain model apart, show you the medial face of the right
+hemisphere. I'll draw your attention to a region in
+the banks of the cingulate sulcus that's found right about here just in front of
+our paracentral lobule. So in the banks of this cingulate sulcus
+is a division of the medial premotor cortex, that we call the cingulate motor
+area. And it's this part of the premotor cortex
+that governs the movements of the upper part of the face.
+Now, one explanation to this clinical conundrum is that the upper part of the
+face is spared, simply because, the medial face of the hemisphere is not supplied by
+the middle cerebral artery at all, it's supplied by the anterior cerebral artery.
+But there's another anatomical fact that also works in favor of preservation of the
+upper part of the face and that is that the cingulate motor area found here,
+innervates the facial motor nucleus on both sides of the midline of the pons.
+So there's bilateral innervation from upper motor neurons here down to the
+relevant cranial nerve nuclei, the facial motor nucleus, in this case.
+So let's look at a figure from our text, from the box found in Chapter 17 of
+Neuroscience, Fifth edition box a. So this figure provides in schematic form
+what we've been talking about. So I'll first draw your attention to the
+representation of the face and the, in this case, the right primary motor cortex.
+So, we find upper motor neurons that send their axons to the white matter of the
+hemisphere through the internal capsule between the thalamus and the basal ganglia
+into the brainstem through the cerebral peduncle.
+And into the pons and as these axions enter the pons, they cross the midline and
+synapse preferentially on those lower motor neurons that govern the lower part
+of the face as is illustrated here in this middle picture.
+So, this explains the contralateral bias in the governance of these motor neurons
+that integrate the lower face. Now, I'll draw your attention next to the
+cingulate motor regions, which are found here along the midline of the hemisphere
+in the banks of the cingulate sulcus. These neurons project down to the more
+dorsal columns of motor neurons in the facial motor nucleus that innervate the
+upper part of the face. And the additional anatomical fact is
+depicted here in this figure. And that is, that the facial neurons that
+govern the upper face receivebilateral input from the cingulate motor regions in
+each hemisphere. So, this, together, with the differential
+distribution of these upper motor neurons explains why the upper part of the face is
+spared with the middle cerebral artery infarction.
+In fact, it's quite difficult to have a lesion in the brain that produces motor
+weakness in the upper part of the face, because of this bilateral pattern of
+innervation. So even a unilateral stroke involving the
+interior cerebral artery is likely to have spared motor control for the upper face.
+Now, also shown in this figure, just for completion is what would happen with
+lesions that are deeper and more peripheral than a stroke involving the
+cortex. So notice, for example, the region
+illustrated by this letter B. This would be a stroke involving the white
+matter of the internal capsule and such a stroke would affect the input from the
+precentral gyrus to the contralateral facial motor nucleus replicating the
+impact of the stroke that one would see with a middle cerebral artery infarction
+out here to the cortex. There would be sparing of the upper motor
+neurons because of the bilateral innervation coming from the cingulate
+motor area. If one had a lesion to the facial nerve
+itself or a pathological process, such as what happens in Bell's palsy, one would
+expect a distribution of weakness that would cover both the upper and the lower
+regions of the face. So in a clinical practice during a
+neurological exam, it's always important to test motor function in, individually
+for the lower part of the face and the upper part of the face.
+And this can be done by asking a patient to show their teeth, to check the lower
+muscle tone, and to have them raise their eyebrows often against a little bit of
+manual resistance. So that the clinician can feel and see the
+strength of the muscles that are governing the upper part of the face.
+Now, there's some consequence for this anatomy, with respect to how we understand
+the facial expressions that are so important to us as people.
+We read so much into the human face. We can interpret intention.
+We can appreciate emotion as we observe the movement of the facial muscles.
+And if you're like me things get a little bit strange when you're sitting in front
+of a camera as I am now. Especially, if I'm in a portrait studio
+getting my picture taken by a photographer.
+We're often asked to smile in those circumstances.
+And somehow the smile typically is just not so authentic, is it?
+At least for myself, I have a terrible time in that circumstance trying to
+produce what looks like a compelling smile.
+What ends up is what looks like a fake smile or a contrived smile.
+And that's because that forced smile is really a product of our primary motor
+cortex out here in the precentral gyrus. The precentral gyrus is ultimately the
+motivator of volitional action. So that forced smile, it's really not
+reflecting genuine emotion. Often, it's something that we're trying to
+contrive for the moment. Now, should we express an actual emotion,
+hopefully, it's much more authentic, communicates in a compelling way what's
+really going on in our internal state. That kind of smile is what we really want
+to capture in our photographs. That's the smile that's motivated by the
+cingulate motor area. So if you run across a photograph of a
+individual in a magazine or perhaps in your own photo album.
+You can tell very readily whether the smile is an authentic smile reflecting
+emotion or whether it's what's sometimes called the pyramidal smile which arises
+from force of will from the premotor cortex conveyed on.
+The pathway parallel to the pyramidal fibers ultimately control the movements
+that are expressed via our spinal cord. So, next time you see a persons face,
+think about these differential regions of the lateral precentral gyrus and the more
+immediate cingulate motor area is they govern the integrated expression of
+emotion and other behaviors that we express with our face.
+Now, there are some important consequences for understanding the way these upper
+motor neurons govern the facial motor nucleus.
+There are folks that have strokes involving various pathways in the brain,
+of course, and some of them are known to affect either the voluntary expression of
+movement involving the face or the emotional expression of movement involving
+the face. So, this schematic figure just illustrates
+what we've been talking about. There are parallel pathways coming from
+motor control centers in the brain that converge upon the facial motor nucleus and
+it's neurons that ultimately activate the muscles of facial expression.
+We've described those neurons in the precentral gyrus that are associated with
+voluntary control over the facial motor nucleus.
+And if one should have a stroke involving those upper neurons or the pathway by
+which those neurons innervate the contralateral pons.
+One can have a condition known as voluntary facial paresis in which is there
+is weakness when you ask a patient to execute a voluntary movement involving the
+parietal muscles such as showing their teeth.
+They may only do so on one side of the face, but if you can get that person to
+smile with the authentic smile of emotion, you may find a much more symmetrical
+response. And that's because the neural systems
+associated with this cingulate motor areas and their bilateral projections to the
+pons remain intact. Now, a much more rare condition can be
+found for individuals that have some damage.
+Often requiring some bilateral injury to the cingulate motor area or their pathways
+that connect that part of the brain down to the pons.
+So, damage to those pathways would produce the complementary deficit, something that
+we call emotional facial paresis. These would be an individual that, when
+told an amusing story, might only express emotion on one side of the face.
+However, if you ask those people to raise their eyebrows or show their teeth, they
+might do so symmetrically, because the pyramidal pathways from the lateral
+precentral gyrus are intact. Okay.
+There's one more point to consider before we conclude this tutorial and that has to
+do with other cranial motor nuclei that you may be wondering about.
+So, what are the cranial motor nuclei that have a significant contralateral bias in
+the way upper motor nuerons integrate them.
+And I'll give you a principal that will help you understand this.
+Essentially, whatever we can do with our cranial muscles that, that are lateralized
+that implies a contralateral bias and the way upper motor neurons project to the
+relevant lower motor neurons. So some of us can wink with just one eye
+or not the other, some of you are able raise just one eyebrow, I can't really do
+that really well. I can only control my frontalis muscle,
+evidently through some symmetrical input. But if you could only raise one eyebrow,
+that would suggest that there is a contralateral bias to the innervation of
+those muscles. Okay, so some of you can raise an eyebrow.
+Most of us can wink one eye or the other. We can often chew just on one side of our
+mouths, can we not? Imagine biting down on a hard nut?
+That's a lateralized activity. And finally, we can protrude our tongue
+just to one side of our mouth or the other.
+This is often something that's done in assessing the integrity of upper motor
+neuron pathways to the nucleus that controls the tongue.
+We might ask a patient to stick their tongue into just one cheek, something like
+that. And you can often put your hand on your
+cheek and feel the force of that protrusion.
+So these are all examples of lateralized motor functions that we can do with
+cranial muscles. And the relevant nuclei then, would be the
+trigeminal motor nucleus that allows us to chew just on one side of the mouth, the
+facial motor nucleus, as we've been talking about in this tutorial, and the
+spinal accessory nucleus. Now, this is the nucleus in the upper part
+of the cervical cord that allows us to shrug our shoulders, which we usually do
+symmetrically. But of course, it is possible to
+fractionate that movement just to one side of the midline or the other.
+And then, lastly, the hypoglossal nucleus. Taking them in numerical order, this is
+the cranial nerve, nerve XII, that allows us to protrude our tongue.
+So these four nuclei are the cranial nerve nuclei that likely have a contralateral
+bias in the way upper motor neurons project down to the relevant lower motor
+neurons. The other motor nuclei are organized in a
+much more symmetrical bilateral fashion. For example, we don't cry out of one eye.
+We don't secrete saliva just from one gland by force of will.
+So there is coordination across the mid line, either at the level of the cortex
+and/or at the level of the brain stem itself.
+Well, I hope you've enjoyed this discussion of facial expression.
+We'll have much more to say about facial expressions when we talk about emotions
+later on in the course. But, for now, I hope this has helped you
+understand the way upper motor neurons in the cerebral cortex govern the lower motor
+neurons that are found in the brainstem.

@@ -1,0 +1,173 @@
+Hello, and welcome back to introduction
+to genetics and evolution. In the previous two videos we talked
+about the effects of genetic drift over single generations and
+over multiple generations, just to stress some of the points I raised
+there a single generation of genetic drift is about equally likely to make alleles
+increase as decrease in frequency. Okay? Over multiple generations,
+genetic drift can be somewhat predictable, in that we expect the probability
+of eventual fixation, eventually getting to 100%,
+for any variable allele, is equal to the frequency of
+that allele in the population. What we're gonna do now is look at
+the effects of genetic drift on the rate of neutral molecular evolution. And this is something that's
+fundamentally important. And will tie in with our next set
+of videos on molecular revolution. And again, are long-term effects of
+mutations and genetic drift predictable? We've already talked about
+mutations arising at some rate. That there's some predictable rate
+at which new mutations can occur. Some parts of the genome will get
+mutations that have no effect on fitness. Or some mutations will arise in the part
+of the genome that can have an effect on fitness but the mutation
+itself doesn't effect fitness. In these cases these mutations
+are referred to as neutral. They have no effect on
+fitness after they arise. They can spread by genetic drift, or
+whether it would be lost by genetic drift. Now, the question is can we predict
+the rate at which they both arise and spread to fixation? This is ultimately what will lead to
+differences between species, right? That a new mutation rises,
+it spreads in one lineage, gets to 100%. That makes that lineage different from
+other lineages because it has this unique variant there. Or can we determine this rate
+at which they arise and spread. Well the tricky part is the ancient
+population sizes are unknown. So that makes it seem like this
+would be very challenging. Let's break this up into pieces. So mutations are arising and let's say they arise at a rate
+which we will refer to as mute. Is the Greek letter mu, so this mu can be
+measured, perhaps as mutations per year or mutations per generation. We'll focus primarily on the per
+year side, of this figure. So let's imagine that that mutation
+rate is one times ten to the minus nine, mutations per year per basepair studied. That's not a crazy estimate that's
+about what you'd expect to see. In larger populations,
+you're more likely to get the mutation simply because there's more
+alleles present, right? That every chromosome out there has some
+probability of getting the mutation. The more chromosomes you have, the more
+chance is that the mutation will arise. So the rate of getting a new mutation
+in a population might be two and mu. Al right, so the 2N is the number of
+chromosomes cuz N is the population size. Two because it's diploid. Every individual has two copies of it. And mu is that rate per chromosome. So there's a rate per yer per base per
+study on an individual chromosome. Now, the mutation must
+also fix by genetic drift. It has to go from this rare starting
+frequency all the way up to 100%. So what is the probability of fixation
+of a new mutation in a diploid? We talked about the probability of fixation of alleles by genetic drift,
+right? Well let's put these two pieces together. The probability of a new mutation arising,
+2Nmu. The probability of a new mutation fixing
+will be equal to its starting frequency. The starting frequency of a new
+mutation will always be 1 over 2N. This is very important, 1 over 2N. Because this new mutation has
+arisen in the population, the population is diploid and
+there's only one copy of the new mutation. So it's one mutation in this
+population of two N chromosomes. Right, so this is it's starting
+frequency and as we said before, by genetic drift alone this is
+a probability that it'll eventually fix. Right, the probability of fixation
+is equal to the allele frequency. So what we we're saying is
+the probability of new mutation arising times the probability
+of new mutation fixing. When we put these things together
+we have a mathematical convenience. 2Nmu times 1 over 2N,
+we can cancel these out. Is equal to mu. [LAUGH] So this is really cool
+because large populations have more chance a mutation will arise But
+a smaller chance that it'll fix by genetic drift because the allele
+frequency at the start is so much lower. In contrast, smaller populations have
+a lower chance the mutation will arise but have a higher chance it'll fix because
+that starting allele frequency is high. Because of this amazing cancelling out, the rate of mutual molecular evolution
+does not depend on population size. This was first described by Motoo Kimura,
+his picture is shown here. So how can we use this calculation? Well, here's an application for it. Let's say that we know the mutation
+rate of a particular region. Let's say we know the mutation rate for
+human pseudogenes is roughly one times ten to the minus ninth
+mutations per year per base pair. Okay? So let's say we want to know
+the divergence time between humans and mouse lemurs. There's an interesting picture
+of a mouse lemur over here. So what we do is we sequence
+a a particular pseudo gene. A pseudo gene by the way,
+is a gene that is no longer functional, so it's assumed that mutations that
+arise in it are going to be neutral. They're not going to have
+any affect on fitness. You sequence the pseudogene and
+you fine 150 base differences in 1,000 base pairs between the human and
+mouse lemur, okay? This is not unusual. You expect several DNA sequence
+differences between humans and mouse lemurs. We're not that closely related, but
+we can use this to determine how far back humans and mouse lemurs shared a common
+ancestor and we show you how we do this. So again we have this rate of
+one times ten to the ninth mutations per base person per year. Now in this case we said we're
+looking at a thousand base peers. So our probability of
+getting mutations is higher. It'll be a thousand times more. So we can say one times ten to the minus
+sixth mutations in a thousand base peers. I just multiplied 10 to
+the minus 9th times 1000. So, 1 times 10 to the minus 6
+mutations in 1000 base pairs per year. And what you can do is
+basically just invert this. Okay? So, we should say that for
+every 1 mutation, 1000 base pairs, we can say it's
+been about 10 to the 6th years. I just inverted the numbers up here. So, we saw 150 mutations, so 150 mutations
+times 10 to the 6th years per mutation. So that comes out to 1.5 times 10
+to the 8th years total divergence. This seems like it should
+be the right answer, right? Cuz this is how long this should have
+taken for us to get this 150 mutations. The problem is there's two batches. Here's our common ancestor in
+time which today Here's long ago. So we have this change over time. We have these 150 mutations
+that distinguish us. Now some of these mutations
+are on this lineage. But some of them are also on this lineage. So when we're saying this 1.5
+times 10 to the 8th years, we're actually summing both
+of these things together. So what we need to do is we
+actually need to divide by two. So we take one point five times ten to
+the eighth years divided by two and that becomes seven point five
+times ten to the seventh years. Or the time to the ancestor
+will be 75 million years ago. So as long ago, we can say,
+is roughly 75 million years ago. Okay. Take a second just to look that over then
+I'll give you one to try on your own. So you start with this mutations per
+base pair per year, that was a given. We then looked at how big a sequence
+we're looking at, 1000 base pairs. We flipped this number around, basically
+from 1 times 10 to minus 6 to 10 to the 6th and basically just changed it so
+yours was in the numerator. And one mutation to the denominator,
+that made it ten to the sixth. So for every one mutation,
+I have to wait ten to the sixth years. We have 150 mutations, so we multiply that times 10 to the 6th is
+where we get 1.5 times 10 to the 8th. Okay, divide by two because mutations
+are rising along both lineages. We're not looking at base differences
+between humans and the ancestor, we're looking at base differences
+between humans and mouse lemur, that's why we have to divide by two. And therefore we get 75 million years. Here's one for you to try. Here's the time to. What is the time to ancestor for
+a human to tamarin? Well, let's assume the same
+mutation rate there. Let's say in this case,
+you screen 10,000 base pairs of sequence. Okay.
+Just so you're not using exactly the same numbers. Let's say you try 860 mutations. What would the divergence time be? Well, I hope that wasn't too challenging. Now let me walk you through this one,
+just like we did in the previous one. So this is just filling
+in those same things. So we said that we're
+looking at 10,000 base pairs, that's the same as 10
+to the 4th base pairs. So, 10 to the 4th times 1
+times 10 to the minus 9th, so that would be 1 times 10 to the minus
+5th mutations in 10,000 base pairs. So, all you do is multiply 10
+to the minus 9th by 10,000. Then I invert this whole thing so
+I have years in the numerator and mutations in the denominator, so
+I have to wait 10 to the 5th years for every 1 mutation in
+this 10,000 base pairs. Okay, so this is a longer stretch. That's why we don't have
+to wait as long for it. We have 860 mutations, so
+multiply these two together, and we get 8.6 times 10 to the 7th,
+or 86 million. And, again, this 86 million is reflecting
+what's happened in this branch and what's happened in this branch,
+so we divide by two. So, times our common answer would be
+half that or 4.3 times 10 to the 7th. Or 43 million years ago. 43 million years ago is when we may have
+shared a common ancestor with humans and tamarin. Now, several people have told me they're
+very interested in these divergence time estimates and
+calculating them from molecular data. They're interested in looking up some
+published divergence time estimates. I refer you to this website timetree.org,
+they also have a free iPhone app where you can
+just type in your favorite two species and see what the estimated
+divergence time is between them. So take a look at that
+when you have the chance. And I'd like to do a little segway into
+what's going to be coming up in the next set of videos. Now nucleotide variation exists
+within species and between species. So let's say for
+example your sequence stretched from four individuals of species one,
+four individuals of species two. So it's maybe human and
+tamarin for example. There's some bases, like for example, base
+number one here, where every individual from species one differs from every
+individual from species two, right? All individual Species 1 have C. All individuals from Species 2 have G. So this is some sort of fixed difference. Okay? We may have cases where one species
+is very well and the other is not. That's what we see with both bases two and
+three. In this case, this particular site
+labeled number two is variable in Species 1 where it is
+invariance in Species 2. In this one right here, this one is variable in Species 2,
+but invariable in Species 1. It's variable but
+there's only one rare variant here. At least among these individuals. Now, a big question out there,
+we see this variation within species, we see a variation between species. So between species with these,
+these would be within species. Question is, where does this come from? Some mutations are advantageous and we expect those to spread within species
+and could always spread fairly quickly. Many mutations are bad. And even if they are bad they may
+still be found in the population for a short period of time. We saw a genetic drift in particular can
+allow some bad mutations to stick around for quite awhile. [COUGH] So, the question is, how much of
+the genome actually evolves solely by mutation and genetic drift,
+in its purely neutral fashion? Right.
+How much of this is actually being affected by natural selection? There's two, sort of, schools of thought
+that have been around since 1960s or so. One is the Neutralists school of thought. And that is that most of
+the nucleotide variation that you see present within species,
+tends to be neutral. Most of the variation you see there
+within species tends to be neutral. In contrast, Selectionists suggest that very little
+nucleotide variation is neutral. If you see multiple variance it could
+be something like, for example, over dominance. Or it could be that particular variances
+are selected in this population and other variances selected in that
+population so both types stick around. How much information that's out
+there is actually selected? How much of it is neutral? This is a very big question, and it's not something to which there
+are very clear answers to just yet. We'll come back to this when we
+start looking at patterns of molecular evolution. Hope you'll join us.

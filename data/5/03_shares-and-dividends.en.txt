@@ -1,0 +1,128 @@
+So now I want to make a very basic
+point about corporations and shares. If I give you 1,000 shares
+in a company and you wonder, what does that mean that
+I own 1,000 shares? You have to ask another question which is,
+how many shares at there had standing? So we talked about this before. I'm not up to date on this but it might share of the company is
+equal to the total number of shares I own divided by the total number of
+shares outstanding for the company. So it's my number
+relative to the tutorial. If I own half of the shares outstanding
+then I own half of the company. Companies do things called splits
+where they will break a share in 2, and call one share another 1.5 shares or
+2 shares or whatever. They do that periodically. Why do they do that? It seems that companies think that
+there's an optimal price per share that encourages investors look right,
+feels right. And so they will change the number
+of shares from time to time to try to hit a target for
+the price per share. In the United States, by tradition, the target price per share is
+something like $30 a share. So suppose your company
+has done very well and the price per share which was
+originally $30 is now up to $60. Your board of directors may then, someone might bring it up at the board
+meeting, we should do a two-for-one split to get our share price back
+down to the magic $30 a share. So then you would then send out a letter
+to all of your shareholders and saying, we're doubling
+the number of shares, and by the way this year, you now have
+twice whatever you did before. Well, I put down my slides. This is essentially meaningless. Other doing is changing
+the unit of measurement, it's like going between [FOREIGN] and
+[FOREIGN]. It means nothing. By the way they even do it. Well, why not? One reason they do it is they just
+think if the share price gets too high, you can't buy a fraction of the share. It gets to expensive, and people like to buy in round lots
+because the brokers encourage that. About 100 shares. So if it's $30 a share, you can buy
+an investment round lot for $3,000. But it gets expensive if you don't split. Now one company that doesn't
+split is Berkshire Hathaway. That's Warren Buffet's company. And it's been selling for
+thousands of dollars per share. So you can't even buy a round lot unless
+you a substantially wealthy person. Warren Buffet does that
+out of some principle. He can do it. Or I should say, his board does that. They can do it because
+it's all meaningless. But not totally meaningless just that it
+gets hard device small amount of share. You can buy one share but
+you can't buy a half of share. So now the company is defined
+as I said in basic terms, by a board of directors. The company has a constitution,
+called the Corporate Charter, and the Corporate Charter defines
+how things are done, but the general principle is
+guided by state laws. It's state governments that manage. You have to incorporate in a state, which means you choose a state
+to make your headquarters in. And that state then restricts what you
+can put into the corporate charter. Delaware is the most popular state for
+incorporating, because, well, it's the smallest
+state in the United States and smallest states have an incentive to
+be very generous to corporations, and they will all move to your state and
+you end up making money. Big states wouldn't do that because
+they already have corporations we need to be there. So the corporate law in
+the state defines the rights and responsibilities of shareholders and
+the board of directors. Well, it might say something
+about dividends but it doesn't tell the company
+what to pay out. This is something that's often forgotten. You buy shares in
+a company to get dividends. >> [SOUND] A dividend is a distribution of
+money from the company's earnings to its shareholders. [SOUND]
+>> That's why, in America at least, especially, we're very clear. Why would you buy share in a company? Hey, they pay dividends. It's like interest except its variable. And tends to grow through time. Whereas, debt contracts doesn't grow,
+it's just fixed. So you're doing it for the dividends. Remember we had the return on
+a corporation has two components, the capital gains which is the
+appreciation in the price per share and the dividends. So people tend to talk so
+much about the capital gains. The movement of the market,
+they forget about dividends. Some people don't even know
+there are [LAUGH] dividends. That's actually the whole reason for
+being for the stock market. Ideally anyway,
+you buy shares to get dividends. And, in fact, if you look at history,
+up until recent times, most of the returns you get on
+the stock market are in the dividends. People think, well no,
+isn't it just that the market has soared? Well, historically, over 100 years,
+dividends are more important. The stock market goes up and
+down, creates capital gains and capital losses, but
+dividends are what it's all about. So companies don't have to pay a dividend
+but typically young companies don't. Once they're mature they like
+to start paying dividends and it signals to the world that
+they're really making money. If you're investing a company
+that never pays the dividend, you start to wonder,
+is this real or is this a fraud? I never get a penny from them. So once they're into making money, they think it impresses investors
+to get dividend checks. All right, I remember my own company. We incorporated in Delaware. My first company,
+Case-Shiller Weiss Incorporated. And we didn't have to pay a dividend. I remember we had a board meeting
+where we talked about exactly this. We've never paid a dividend. We gave shares to a lot of
+our employees as incentive. But someone said,
+they don't even believe in it. Nothing has ever happened. So we should pay a dividend. But we didn't. We held on. The employers eventually did
+well when we sold the company. They found out that their shares
+really were worth something. But we should have started paying
+dividends and make it clearer. We didn't. So when a company pays a dividend,
+what happens to the share price? Well, very simple, it drops because
+the company used to have the money and now it doesn't. It paid it out. The share price pretty much has to drop
+and I don't suppose it always does. Because funny things happen but the basic idea is that a share drops
+in value when a dividend is paid. But I have to qualify that. It doesn't drop in value when you get
+the check in the mail for you dividend. That would be variable anyway, right? They don't necessarily pay
+them out in the exact moment. So a company has to define what
+they call an X dividend date. That means, they will pay out
+the dividend, this dividend, typically chorally dividend
+every three months. They'll pay out this dividend to
+shareholders of record on this date. So company values drop routinely
+on the ex dividend date. That doesn't mean bad news
+about the company at all. >> So I had a question about companies and
+different dividend payment systems. So some companies like to boast
+about they always pay dividends. They never miss it. Why would they want to emphasize this? And what would happen if they had
+to cut back on their dividends or they don't miss their
+dividends in a period? >> Well, I think this is an essentially
+behavioral human question. So the reason they don’t want to
+miss a dividend is because they think that will harm
+the investor support. They don’t want to see
+their stock price fall. If the investors lose confidence in
+the company, these tag price can fall and then the management starts to
+worry that that'll be taken over. If the price gets too low, take over, people will think, I'll buy it and
+I will shut it down and they'll sell it of all their assets may
+be you can get, if it gets low enough. So it's a big fear they don't want
+investors to have a bad attitude. So then why would you as an investor
+be disturbed if a company didn't pay a dividend? Well, I think it's a sort of
+fundamental human miss trust. You don't know that these guys are on
+the level, maybe they're crooks or maybe they're not. It's like missing a payment
+on your credit card. You have a credit rating that
+depends on you actually making these monthly payments. And you could take the attitude, well,
+I'll miss it once and I'll pay the fine. What difference does it make? But your credit rating will
+go down if you do that. So most people personally think,
+I'm going to pay every month, this is something I'm really going to do. And they kind of imagine that it's
+like that with dividends with company, if they miss a dividend it means they're
+kind of unreliable, untrustworthy, now they didn't have to think that but that
+apparently is how a lot of people think. So that's why lots of companies don't
+ever want to miss paying a dividend. >> Couldn't missing a dividend also be
+a real indication of financial trouble though and maybe that's why investors-
+>> Right, right. >> Why a red flag is raised? >> Yeah, now the thing is that
+a dividend is not promised. The corporate law says that they can pay a dividend at the discretion of
+the board whether they want to or not. And many companies go years
+without paying dividends, but the public might have some preconceived
+notions and think it’s like my credit card bill and if their not paying,
+there’s something wrong here. Now they could stop paying a dividend for
+perfectly good reasons. Like they want to do something
+with it that's more productive, but the investors might not understand. By the way, I don't mean that firms never
+miss paying a dividend, I'm just saying that some firms pride themselves
+on never having missed a dividend.

@@ -1,0 +1,202 @@
+Welcome back to Medical Neuroscience.
+In this tutorial, I'd like to talk to you about the neuromechanisms for
+mechanosensation. This topic relates to really half of the
+core concepts in the field of neuroscience, which gives you a sense of
+really what the breadth of this topic is and how it might apply.
+So I would suggest that, once again, as we understand how our sensory systems work,
+And certainly mechanosensation is a great example of how our sensory systems work.
+We are again confronted with the complexity of the brain in ways that make
+it really different from studying any other organ within the human body.
+We are going to be learning about circuits in the brain.
+Circuits that connect, different parts of the brain, and many of them are based upon
+the genetic instructions that, are unfolding in the course of early brain
+development. So, there are genetically determined
+circuits that are the foundations for the nervous system.
+And our sensory systems, certainly are an important part of that foundation.
+Now as we'll see in later sessions, that's not to say that they're not subject to use
+dependent plasticity. They certainly are.
+But the foundation of those circuits is largely based on genetic information.
+Well, because of such circuits in the brain our brain provides us with this,
+just fantastic capacity for curiosity. And I hope that we exercise that capacity
+well as we approach our studies of our sensory and motor systems over the next
+several tutorial sessions. And then lastly we'll increasingly apply
+our knowledge of sensory and motor systems to gain some insight into the diseased or
+the damaged nervous system. So I hope you'll see how fundamental
+knowledge, fundamental discovery about the brain can be used to help people who have
+been injured or have suffered affliction in their central nervous system.
+Well, we have several learning objectives today.
+So I want you to be able to identify and to characterize the major sensory endings
+that mediate sensations that are elicited by touch, by vibration, by proprioception,
+these are all elements of mechanosensation.
+And I will introduce the receptors for pain and temperature, although we will
+focus on those in a subsequent tutorial. I want you to be able to understand the
+concept of somatotopy. That is of how the body is mapped in the
+structure of the nervous system and so we'll confront that.
+In the primary somatic sensory cortex in this tutorial.
+And I want you to be able to discuss what happens to mechanosensory information as
+it enters cortical networks. We will spend a fair amount of our
+attention focused on the organization of the post central gyrus, but I want you to
+have a sense of where does that information go from there?
+So that will come up at the end of the tutorial today.
+Okay, well let's get started by considering just some broad organizational
+concepts as they will play out in the mechanosensory systems.
+Beginning with this notion of there being, multiple parallel pathways that mediate
+different aspects of somatic sensation. So we're going to focus today on our
+mechanosensory pathways, and even within our mechanosensory pathways we'll see this
+principle of parallel organization played out.
+We'll leave for another session, as I mentioned just a moment ago.
+Consideration of our pain and temperature systems.
+Okay, well speaking broadly about these two subsystems within our somatic sensory
+nervous system. Let's consider some of their basic
+functions. On the mechanosensory side, one important
+basic function is that the mechanosensory system helps us to identify the shape.
+Of objects that we encounter as well as the texture of surfaces that we might
+experience with our skin. Especially the very sensitive surfaces on
+our hands and in our face so, one very important means we have to explore the
+environment will be with our somatic sensory sensitive surfaces.
+A very important role played by our pain and temperature systems, is that these
+systems help to inform us about potentially threatening circumstances that
+our bodies might encounter in the environment.
+So, well, some of us, might wish that pain would go away at times, pain actually, is
+very adaptive. It informs us about the potential threat
+that might be done to the body. Or the occurrence of injury, and the
+potential for further exacerbation of that injury.
+So, these pain pathways are very important for moderating our behavior with respect
+to the world around us. Another important aspect of
+mechanosensation is that it helps us to monitor the forces that are acting upon
+the body. Some of those are internal, they reflect
+the activities of the body, itself largely, the activities of our
+musculoskeletal system. But we also monitor the forces acting on
+the outside of the body. Especially in certain activity, such as
+sport, where we are encountering physical objects, and it's of course critically
+important for success in those activities that we be able to monitor those
+interactions and respond accordingly. And then lastly I would suggest that all
+of these somatic sensory systems, our mechanosensory systems and even our pain
+and temperature system help to build up in our brain a image of our body, a sense of
+self, a self awareness. We call this proprioception.
+And this is tremendously important and it's something that we often take for
+granted. Somewhere within our brain we have an
+image of our body, and in one hemisphere we have an image of the opposite side of
+the body. And somehow between the two hemispheres,
+we integrate this into a united body schema.
+Well, as you might expect, that body schema is built on a steady stream of
+information flowing through our schematic sensory systems.
+And that stream is then met with information coming from other modalities
+of sensation, such as vision. Audition.
+I would suggest even our chemical senses help to inform us about our body and the
+world around us. So it's the confluence of this information
+integrated at the level of the cerebral cortex with loops through deeper
+structures in the brain that give rise to this integrated sense of self.
+So we will begin a conversation about what that means today when we consider our
+mechanosensory pathways. Now let me just consider a couple of
+points about the basic organization of our, somatic sensory systems, beginning
+with this notion of labeled lines. I've talked about this in a different
+tutorial, so I won't repeat all of what I said there, but let me just remind you
+that the pathways for somatic sensation, as with our other sensory systems, are
+arranged by having a series of parallel channels.
+That reflect specializations that began right at the level of the receptor endings
+of the primary axons out there in the body, wherever they may be.
+In the skin surface, or perhaps in deeper structures such as muscles and joints.
+We call this a labeled line system. Because the channel is labeled with
+respect to the kind of information that it carries.
+And that will label will really begins with the structure and the physiology of
+the receptor that's at the end of the primary axon.
+So, so we'll see that as we go through this.
+So keep that thought in mind. About labeled lines as one organizational
+principle in sensory systems. Another basic feature of the organization
+of the somatic sensory systems is that we have multiple pathways that are spatially
+segregated within the central nervous system.
+So if there are labeled lines, you might wonder, well where are those lines as they
+run through the CNS. And that's the question we're going to
+address as we go through this discussion of our somatic sensory systems, including
+the anatomy of those systems. And what we will discover is that they are
+two pairs of pathways that serve somatic sensation.
+Really they can be further subdivided, but we'll keep it pretty broad and simple and
+say there are two pairs of pathways. There's a pair of pathways for the body,
+including the back of the head and on down below the head, and then there are a pair
+of pathways for the face. As you might imagine, the face is a very
+important part of our body with respect to somatic sensation.
+And for reasons that aren't entirely clear there is a dedication of considerable
+brain space to the processing of signals that arise from the face in a manner
+that's similar. To the dedication of brain space that is
+involved with processing signals that are derived from our hands.
+So we'll provide a partial explanation for why that might be so as we go along today.
+Okay, so we won't go into the detailed anatomy of these pathways in this
+tutorial, we will reserve that to dedicated tutorials that will follow.
+Okay now as we begin to consider the organization of these systems, let's focus
+in on the first order neuron and our attention will be turned primarily to the
+mechanosensory systems but as we'll see, for completeness.
+I also want you to see some of the differences between these labeled lines
+from mechanosensation and for pain and temperature.
+Alright so let's consider the general organization of this first order neuron
+so, the first order neuron in our pathway is for somatic sensation or dorsal root
+ganglion cells and so what's illustrated here.
+Is the connection between the sensory signals that arise in the fingertip and
+the central nervous system. So these dorsal root ganglion cells.
+They have cell bodies that, reside in this dorsal root ganglion.
+So this is a home for cell bodies associated with the dorsal root that
+attaches to the spinal cord. And these cells have a very distinctive
+histological morphology. These cells are pseudomonopolar.
+And that means that there's a cell body. It grows out an axon that then bifurcates
+and grows in two directions. One direction grows out to the body, and
+the other grows out to the spinal cord. So that's what we mean by a
+pseudomonopolar neuron. That's what we find in the dorsal root
+ganglia. So the peripheral process of this cell
+grows out to reach the surface for which it is going to serve.
+And in the case of a mechanosensory fiber which is what's illustrated here in red,
+there may be some kind of specialized receptor ending that we'll see in just a
+moment that will begin to label that line as being a mechanosensory axon.
+Well, we also show a different cell here, one illustrated in blue.
+That is going to be sensitive to pain and temperature signals.
+And we'll talk more about this pathway in a later session.
+What we'll find is that there's a different kind of receptor ending there
+and a different set of proteins expressed on that ending that label that line as
+being sensitive to pain and temperature. Well that's the peripheral process.
+What about the central process? One hint at where we're going to go with
+our studies of the anatomy here is that the central process of these two different
+kinds of dorsal root ganglia do very different things as they enter the dorsal
+root entry zone of the spinal cord. The mechanosensory axon enters that dorsal
+root and notice that it makes a sharp upward bend.
+In truth, there are other branches that do other things but we're going to ignore
+those for the time being. Rather, I want to emphasize to you that
+there is a growth pattern. For the mechanosensory fiber that's really
+distinct this axon enters the dorsal column of the spinal cord the white matter
+that we call the dorsal column. Now we contrast that with the pain and
+temperature fiber, its central process enters the dorsal horn and makes a
+synaptic connection right away. So here we have a synapse with a dorsal
+horn neuron. And that dorsal horn neuron then grows out
+an axon that does something pretty interesting that we'll talk about later.
+Okay, so one clear difference between these two labeled lines is that the
+mechanosensory fiber grows along the course of the spinal cord.
+Whereas the pain and temperature fiber makes a synaptic connection upon entrance
+into the spinal cord at the level of entrance, Okay.
+So, keep that thought in mind and we'll see how that plays when we talk in detail
+about the pathways. Okay, a little bit more about these first
+order neurons. These first order neurons can be organized
+in various ways and this table from our reading from chapter nine gives you
+probably more information then you need to know, but at least it makes clear a few
+basic principles. And that is that there are different.
+Morphological categories of first order axons that relate to their functional
+properties. For example, you'll notice that the
+receptors that are going to be sensitive to the movements of our body, we call
+those proprioceptors. One example would be a muscle spindle.
+These receptors are supplied by really large, well...well myelinated axons.
+There's a name for them, they're called Group 1A, Group 2 axons.
+Now, contrast that to the receptor endings that are going to be sensitive to pain and
+temperature. Those who'd be down here.
+So these have a different morphological ending.
+We'll see that in just a moment. They're called free nerve endings.
+And these free nerve endings are formed at the ends of our smallest axons, our
+smallest sensory axons that we have. In peripheral nerves.
+Some of which are very lightly myelinated, we call those A-delta, and others are
+barely myelinated or completely unmyelinated and those are called class C
+fibers. So group 1, group 2 fibers, these are very
+large fibers. Group C is our smallest and A delta is
+very close to that. There is a group of mechanosensory fibers
+that are sort of in the middle but they're much more like the group 1 fibers.
+These are sensitive to various aspects of mechanosensation in our skin surfaces.
+And we'll talk about these receptors in just a moment.
+These axons are also pretty hefty with lots of myelin around them.
+They're just not the fastest of our axons with respect to conduction velocity that
+we have. So we see how these fall out here on this
+chart.

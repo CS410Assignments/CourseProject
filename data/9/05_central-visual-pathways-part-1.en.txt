@@ -1,0 +1,146 @@
+Hello again, and welcome to this tutorial
+on the Central Visual Pathways. Today, we're going to try to simplify some
+of the complexity of the way that vision is processed in the brain by considering
+an anatomical framework for understanding how signals get from the retina all the
+way up through the visual parts of the cerebral cortex.
+We're going to, again, confront circuits that are genetically instructed.
+However, as we'll see in a later session, these are the very same circuits that have
+become the gold standard for evaluating how circuitry and function can change in
+early life as a result of experience. And as I suggested in a different tutorial
+vision is among the most wondrous of all our senses that has inspired poets and
+philosophers, [unknown]. And, yes, even brain scientists, to wonder
+with their curiosity inflamed about how vision works in the brain.
+So I'd like to share a few insights with you in this series of tutorials, but I
+will readily recognize how much we have yet to understand about how these aspects
+of cognition actually work in the human brain.
+Hopefully, we'll get there sometime in the course of your career, wherever that may
+lead you. Well, we have some learning objectives
+today. I'd like you to be able to describe the
+distribution of axons from retinal ganglion cells to the major processing
+centers in the forebrain, in the brainstem that process vision.
+I want you to be able to really focus in on the central visual pathways in the
+topographic representation of visual space.
+We call this visuotopic. And I want you to be able to characterize
+visuotopic in the primary visual cortex, also known as V1.
+And lastly, I want you to be able to discuss beyond V1 what happens to visual
+signals as they enter what we call extrastriate visual pathways.
+Let's begin by reminding you that the retina is an extension of the brain.
+It's diencephalic. It arises from the lateral aspects of the
+diencephalon in a formation called the optic vesicle.
+This optic vesicle grows out from the diencephalon and it interacts with other
+tissues that form the eye. And this optic cup, this optic vesicle
+goes on to form the posterior layers of the inner surface of the eye including the
+pigmented epithelium and the neural elements of the retina.
+Now, let's turn to consider how the adult retina is attached to the rest of the
+brain via what was once the stalk of this optic vesicle.
+And that stalk is going to contain the axons of retinal ganglion cells that are
+distributed to a variety of targets in the diencephalon and in the midbrain.
+Here in this figure, we have an illustration of the distribution of those
+retinal ganglion cell axons. And we'll consider first their
+distribution to the diencephelon and that will include a major projection to the
+lateral geniculate nucleus. Alright, here it is sitting back in the
+posterior, and lateral, and somewhat ventral part of the, the thalamus.
+This is the principal target of retinal ganglion cells.
+And, this is the part of the thalamus that will relay visual signals to the visual
+cortex. And that cortical recipient zone will be
+called the primary visual cortex. This is the pathway that's responsible for
+most aspects of what we know as vision, but there are other targets as well.
+In the diencephalon, we have an interesting nucleus at the hypothalamus
+that receives direct projections from the retina.
+This nucleus is called the suprachiasmatic nucleus and it's quite an interesting
+brain structure indeed. It has, within its neurons, a molecular
+clock. So this nucleus is the master generator of
+circadian rhythms for the body. And those circadian rhythms are entrained
+to our typical day-night cycle and that happens through visual inputs.
+Now, we might of assumed that these inputs are coming from collaterals of retinal
+ganglion cells that are otherwise projecting into the lateral geniculate
+nucleus. Fairly recently, we discovered that,
+that's not the case. These inputs are actually coming from a
+special set of ganglion cells that have their own opsin protein.
+Meaning that they can transduce photons of light directly even without the outer
+layers of the retina. So this is a projection that is not
+particularly concerned with image formation, rather, it's concerned with the
+ambient light in the environment, telling the difference between daytime and
+nighttime. Well, beyond the diencephalon, there are
+inputs from retinal ganglion cells to the midbrain.
+And this includes two structures, a region known as the pretectum, and then, part of
+the tectum itself, the superior colliculus.
+So the superior colliculus, we'll talk about in a later session, when we talk
+about motor control. But this is involved in orienting the
+movements of the eyes and the head. And so imagine a bolt of lightning strikes
+somewhere off in the distance. We rather reflexively catch that flash of
+light and then turn our eyes and our head to turn and look in that direction.
+Well, that's a visual stimulus that triggered that motor adjustment.
+And that visual stimulus is conveyed to the superior colliculus via this pathway,
+from the retina back to the tectum. Just the anterior to the tectum in a, a
+bit of transitional region between the midbrain and the thalamus is a structure
+called the pretectum. Actually, it's a set of nuclei called the
+pretectal nuclei and these nuclei are involved in accommodation.
+And this involves regulating the constriction of the iris to change the
+diameter of the pupil, as well as governing the activity of the ciliary
+muscles that will either allow the lens to round up if it relieves tension
+[inaudible] fibers. Or, if that muscle's more relaxed, then
+the tension on those fibers pulls the lens into a flatter shape.
+So, so this is a complex of the transition between diencephelon and midbrain that's
+involved in focusing images on the back of the retina.
+We'll have a separate tutorial to talk in more detail about the circuitry of the
+pupillary light reflex since it's such an important component of a physical
+examination. Now, I want us to turn our attention to
+the topic of visuotopy. So, the visual world projects onto the
+retina in the following way. Because the lens is an optical device, the
+image is inverted and left-right reversed. So, as you can see here in this
+illustration, this letter F that we may look at in the environment ends up being
+projected upside down and backwards, simply because of a function of the
+optical properties of the lens. So, let's define some conventions that
+will be helpful in talking about the way visual space is mapped in the brain.
+So, if we look straight ahead, there is some kind of a fixation point that's
+indicated here by this F. And the, vertical line that defines the
+middle of that visual space is called the vertical meridian.
+And we can imagine a horizontal line that cuts right through that fixation point,
+that's called the horizontal meridian. So, the vertical meridian is the one that
+we'll spend most of our time thinking about, because it is establishes the basis
+for understanding, how do the visual fields end up being represented on the
+opposite side of the brain. Now, if we look at what the two eyes see
+the two eyes see a large region of visual space that has considerable overlap
+between what the left and the right eye can each see individually.
+Well, in standard practice, if you are evaluating someone's vision you will ask
+them to cover an eye and evaluate the visual space that's seen by each eye
+individually. And then that space is represented
+separately in the kinds of visual field charts that we see in the middle of this
+figure. So on the left-hand side, this is the left
+monocular visual field or the amount of visual space that the left eye sees.
+And on the right, we can plot out the visual space that the right eye sees.
+Now, notice that there is some kind of a cutout here in the middle, where on the
+inferior part, that visual space there seems to be a, a bit of a piece missing.
+Well, as my drawing might suggest, that's because the nose is blocking the view of
+the opposite lower region of visual space from the eye in question.
+And so now we have more of a complete picture of why we see the space that we
+do. So, if I can clear these drawings for just
+a moment and return your focus to this convention of representing what each eye
+sees separately. Now, notice that what we've done is we've
+taken this space that both eyes see, called the binocular visual field, and
+we've separated it out. Alright?
+So both eyes are capable of seeing roughly this much visual space.
+But there is a region on the temporal or lateral extreme of the view of each eye
+that is monocular. That is it's only seen by one eye.
+And, that makes good sense, because what we're talking about is the far periphery
+of our visual world. And that far periphery is seen by the
+nasal region of the retina. So my right nasal, toward the nose, margin
+of the retina is the only part of my visual sensory apparatus that can see far
+right to my visual field. And likewise, the nasal or the close of
+the nose part of the retina of my left eye is the only part of my visual apparatus
+that conceded the far left. Okay, it's very important to, consider
+what part of space can be seen by the two eyes together or one eye separately.
+Because, that will help you understand where the problem might be along the
+visual pathway in a patient that you suspect of having a visual field deficit.
+Now, on the lower part of this figure, what we have is an illustration of how
+this space projects on into the retina. So I would suggest that the bottom part of
+this figure is perhaps less important. Just recall this optical principle of
+inversion and left-right reversing the image.
+Now, let's try to use some of these conventions and now understand how the
+visual world is projected onto both retinas, and then, how that information
+from the retina is projected back to the brain.
+So as we can see here, the fixation point is seen by the central portion of each
+retina, this is a structure called the fovea.
+So, the fovea sits back along the central part of the retina, which is actually just
+to the nasal side of the optic nerve head.

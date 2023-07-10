@@ -1,0 +1,65 @@
+All right, let's give an example
+of a scatter diagram. And I'm going to pick an example
+that compares the return on the stock market, or the overall
+market of all investable assets, with the return on an individual stock,
+let's say Apple Computer. Which I just picked because it's
+the biggest company in America. So let me just draw on the horizontal axis the Return on the Market. That's everything that
+you could invest in. We'll just imagine all
+stocks put together. And then on this axis we're going
+to put the return of Apple. And each point represents one year. So let's pick a year when the stock
+market went up, let's say, the market went up 10%. And what did Apple do in the same year? Let's say it did 15%. So I make a point here, a point above 10% and at 15% here. In some years the market goes down. Let's not forget that. So here, I'll say there was another
+year when the market did minus 5%. What did Apple do in that year? Well, let's say Apple did minus 10%. So, I get a point down here, you see this? This is -10, and this is -5. So I have a point down here. And than I can fill in many year, and each year is a point, and
+this is a scatter of points. I've got a lot of years showing. And now, when you see this, and
+some of them are negative or close to zero, when you see this
+scatter of points, you can say well I'm starting to see a relationship here that
+there is an upward sloping relation. There's a positive relation
+between Apple and the market. I can draw a line that's a best fitting
+line through the scatter of points, so that it kind of gets as close as
+it can to the scatter of points. That's called a regression line. And the slope of the line
+is called it's beta. If it has a slope of 1 that means the
+stock is reacting 1 for 1 with the market. But in the case of Apple,
+the beta is about 1.5. It's greater than one. The typical stock will just go 1 for
+1 with the market. But this is a high beta stock. So it's reacting more
+strongly to the market. >> I see. So then the 1.5 you can see as if
+the return of the market goes up, the S&P 500 goes up 10%, then you should have 15% for Apple, which
+gives you the beta of 1.5 on average. >> Right, but it won't be exactly. It doesn't fall exactly in line. But they differ from the line, and
+that's called idiosyncratic risk. It's not related to the market,
+it's Apple risk. So the market could do great in one year. And Steve Jobs could
+get sick in that year. It's just something. So Apple didn't do well. That's idiosyncratic. The theory of the capitalized
+pricing model is that investors care more about beta than they
+do about idiosyncratic risk. because all these companies idiosyncratic
+risks will average out and wont matter. What matters is the systematic risk. The risk that correlates with the market. Those things do not average out not matter
+how many stocks you put in your portfolio. >> And so,
+is there any particular reason why some company x would have a high beta versus
+another company having a lower beta? >> Well, I think one reason,
+there may be many reasons, it's not just that this
+theory doesn't tell you why. I'm just adding some thoughts on that. One reason why Apple Computer
+might be a high beta star, is that it invests in
+projects that are iffy, that nobody's done before. And their success depends on
+the state of the economy. So, if they launch a new iPhone
+at a time of a severe recession, they're not going to do well. And the other thing that can make for a high beta stock is that
+the company borrows a lot of money. And then they're playing on the edge,
+because they have to make a lot of money or they'll go bankrupt
+cause they borrowed so much. Apple is not in that category,
+Apple has not borrowed a lot of money. It has, in fact, a lot of savings. That’s something that
+brings its beta down. But Apple is such a lively company, and so connected with what happens
+that their beta is still 1.5. >> I see. And so then a counterexample to this might
+be if there's a very low beta stock, so that would kind of look like either
+a lower slope or even a negative slope. >> Right, right.
+>> Okay. >> So for example, gold might in
+many cases be a negative beta stock. Why is that? Because when the stock market crashes
+people panic and they get upset, and they want to hold something very safe. At least gold it’s always safe
+in one sense, it stays gold. No matter what happens. It’s also something that you can run with. If you think that you're
+going to be a refugee, I want something I can stash in my
+purse and just get out of here. Gold has that aspect. So it's some psychological effect,
+that at least in some time periods, it looks like negative beta asset. And then, that would look like this. You have a a scatter diagram
+that looks like that. It's backwards. And you fit a line and it has a negative
+slope, you're going down rather than up. >> Okay, so that means that when the
+market is doing well, when the economy's doing well, gold might not necessarily
+be a great option in terms of returns. But then when we have a recession, that's
+when you see returns highest for gold. >> Yeah, and
+when constructing a portfolio it matters. Negative beta stocks help
+you in a different way. Maybe their return isn't so
+good on average, but they help offset market shocks. So, you'd like to have other things equal, you'd like to have negative
+beta stocks in your portfolio. As long as their return isn't so bad as
+to offset the advantage of their beta.

@@ -1,0 +1,118 @@
+In general, the tools that a forensic accountant
+or fraud examiner uses are those common to accountants and auditors.
+As noted in my bio, I testify based on cases and evidence that I am asked to examine and
+my most common tool is the spreadsheet. I typically use Excel but you can use any spreadsheet
+package with which you are familiar. Databases and enterprise systems capture extensive
+amounts of information. The beauty of these capture forms is that the data is already
+digital – ready to download. Organizing the downloads can be quick or tedious depending
+on the case. As part of our program at WVU, we have used
+both ACL and IDEA. Both are data-mining software packages that were designed with fraud detection
+and forensic accounting in mind. As an example, both packages easily match employee’s addresses
+to vendor addresses from the accounts payable system to determine if an employee might have
+set up a shell company as a means for carrying out a fraud act.
+Even without specialized packages such as ACL and IDEA, traditional statistics packages
+like SAS, SPSS, Jump to name just a few can be used to analyze large amounts of data. The techniques of analytical review and ratio analysis entail looking at one financial period
+in comparison to another. The period may be a year, quarter, month, a week or even a day
+or hour. For example, let’s compare the costs as a percentage of sales for two periods:
+If last month, you had sales of $1,000 and costs of $750, a cost-to-sales ratio would
+be $750 / $1,000 or 0.75. This means that costs for the period were 75% of sales.
+If the current month Cost of Sales = $900 and Sales = $1,000, the ratio is $900 / $1,000
+or 0.90. An increase from 75% to 90% MAY be a sign of a problem.
+Notice that I said, MAY be a sign, rather than IS a sign. The source of the increase
+may be a valid increase in prices you pay for the items you buy. BUT it may be a symptom
+of a tax fraud, for example. While analytical tools and ratios can provide
+powerful signals or red flags, in and of themselves, they are usually not compelling.
+The process of fraud examination and forensic accounting begins with the anomalies and looks
+at the totality of the evidence before drawing a conclusion.
+Anomalies come in all forms including: Shortages (inventory, accounts receivable,
+or cash). Deviations from specifications, such as a
+managers purchasing inferior product to receive a kick-back from the vendor.
+Excess scrap. Excess voids.
+– I once worked for a retailer where the fraud prevention expert searched for excess
+voids by sales associate to determine who was most likely stealing from the cash register.
+Excess purchases. Non-financial numbers that do not correlate
+with account balances and numbers presented in the financial statements
+In every case I work, I attempt to obtain non-financial numbers – e.g., include dekatherms
+of natural gas produces, ton of coal extracted from the ground, cubic yards of concrete,
+even number of employees, square footage of retail outlets. All of these can be combined
+with financial data to examine the reasonableness of that data. Other anomalies include strange financial relationships: Let's assume revenues are up by 8% While Accounts receivables are up by 30% And Operating Cash flows increasing only slightly at 1%. This example does not make sense – at least on the surface. Normally, one would expect
+accounts receivable to move with sales and cash flows to reflect those sales increases.
+One of the keys to identifying anomalies is having an expectation – meaning estimating
+what you expect to see before you look. This is particularly important because with concealment,
+the fraudster is going to try to make things look “normal.” Without some kind of expectation,
+you may unknowingly go down the path the fraudster wants and miss what they don’t want you
+to see. Adjusting journal entries are an important area of examination. Some of the largest frauds were committed by something called management override or management overriding the normal system of internal controls. A common mean
+by which management override can occur is by concealing the fraudulent act with journal
+entries. The adjustments to the accounting records make the income statement, the balance
+sheet and the cash flows look normal but only because the true financial performance is
+masked by falsified journal entries. During my auditor days with one of the large
+accounting firms, we looked at every journal entry, especially those increasing income.
+Entries increasing Income were a red flag or anomaly that we typically investigated.
+Out of the ordinary items may be recorded manually into the system. Normally unusual
+and one-time manual transactions are another source that deserves scrutiny. One method for recording fraudulent transactions
+is through the use of adjusting journal entries. WorldCom provides us a classic example of
+fraud executed in this manner. According the US Securities and Exchange Commission, one
+part of the WorldCom fraud was using journal to record the capitalization of LINE costs
+expenses. Let’s spend a moment refreshing our memories
+of some key accounting terms. An EXPENSE is a resource used in the current
+accounting year. For example, your utility bills are expenses. You used the utilities
+in the current year, and there is no benefit to future years.
+In contrast, an ASSET, is a resource that lasts beyond the current year. If you purchase
+a desk to use, it will benefit you in future years, so the cost is written off over the
+life of the desk. When you have an item that you buy, if you
+CAPITALIZE it, you are saying it is an asset that will last beyond the current year.
+Back to WorldCom – WorldCom had something called line costs – When the company’s
+customer makes a call that is outside of the company’s network, the company has to pay
+the owner of the other network line, the costs to carry the call. The charges, or LINE COSTS,
+occur each time a call is made. You can see that line costs are tied to specific calls
+– they have NO future benefit to the company that has to pay them!
+WorldCom, through journal entries, chose to capitalize these cost, therefore making them
+appear to be an asset, or resource available in a future period. The impact on the financial
+statements, was less expenses, and what appeared to be outstanding profits - when they were
+actually LOSING money! Additionally, there appeared to be more assets
+for future use than actually existed. The SEC indicates that there were over 9 BILLION
+US dollars in false or unsupported accounting entries. Many of you may know the end of the story, it  ended with WoldComs bankruptcy. This control chart displays the quarterly
+cost of goods sold of WorldCom, as originally reported, compared to the remainder of the
+telecommunications industry. The time covered includes the fraudulent years. For comparability
+purposes, the chart has been scaled to a moving industry average, removing company size differences.
+Using a control chart, such as this one indicates there is a systematic problem if 7 or more
+data points in a row are above or below the average (middle) line. You can see from this
+chart that the costs of WorldCom are below the average for eleven consecutive quarters.
+Using tools and techniques such as control charts helps identify red flags that may ultimately
+point to the existence of fraud. The WorldCom fraud was discovered in the same
+manner of most frauds – through tips. The tips were provided to the company’s internal
+auditors. In the simplest of terms, as part of internal
+auditor Cynthia Cooper’s investigation, she asked for documents to support the adjusting
+entries related to line charge capitalizations. No documentation existed, because the entries didn't actually reflect events. WorldCom continues to be known as a classic
+case of financial statement fraud. Top management, trying to show increasing profits, in a competitive
+and turbulent market, resorted to demanding the manipulation of accounts through a series
+of adjusting journal entries. There were many warning signs of problems, but ultimately, tips, investigated by internal auditors brought the fraud into the open. Today, there are many tools and techniques available to detect fraud.
+One of the benefits of accumulating large amounts of data within an organization’s
+system, is the possibility of MINING the data. DATA MINING involves analyzing large sets
+of data, using sophisticated statistical or visual tools to look for unusual trends or
+data points that are outliers and not consistent with the remainder of the data.
+Data mining works best on detailed data, such as individual sales transactions or payments.
+Data covering several years also gives a perspective over time which is important in most frauds.
+For example, if looking for sales fraud, looking at 10 years of details is more likely to discover a problem than looking at customer total sales for one month. Next, let’s look at some real life examples of data mining to prevent fraud. Credit card companies usually maintain a history of every transaction occurring for each card
+they issue. They are constantly analyzing historical fraud data and looking for fraudulent
+card use in real time, to stop transactions before they occur. If they can prevent a fraudster
+from walking away from a retailer with merchandise charged to YOUR card, the process is successful. Credit card companies and other organizations use a wide range of data mining tools and
+techniques looking for specific fraud patterns. Most of these are not disclosed for one obvious
+reason– fraudsters would simply adjust their frauds to avoid the rules.
+One red flag for credit card purchasing is the combination of using a card at a retailer
+you have not previously purchased from when the purchase is a HIGH RISK and HIGH PRICED
+item. Examples of high risk items would include electronics and other items that are easy
+to sell. If you use a credit card, you may have been
+exposed to the results of data mining performed by your credit card company looking for fraudulent
+transactions. Twice, I have received a call from a credit card company asking about specific
+purchases. In the first instance, I was asked if on the previous day I had attempted to
+use my card at two specific stores. When I replied no, my card was instantly cancelled,
+and a replacement was sent. Ironically, in the past I had made purchases at the two stores,
+but not on the day identified. The sophisticated analysis by the credit card company somehow
+knew something was out of the ordinary for these specific transactions.
+The second call occurred while I was making a second purchase within an hour at a retail
+store. I believe this call was probably due to the “Multiple purchases at the same store
+in a relatively short time” rule. Retail fraud sometimes happens when you forget your
+card, or it duplicated by a clerk. While some think data mining by credit card
+companies is annoying, the end result of the process is lower fraud losses, and lower overall
+costs to the consumer.

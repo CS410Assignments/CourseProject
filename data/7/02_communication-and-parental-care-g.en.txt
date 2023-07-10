@@ -1,0 +1,243 @@
+Hello and welcome back to
+Introduction To Genetics and Evolution. In the previous video, we talked
+about the adaptations program and how people erroneously over interpret
+things to be products natural selection. From that we went into Optimality Theory, which is the assumption that you're
+trying to maximize productivity for the minimal cost and
+we applied that to feeding behavior. What I'd like to look at now
+are two other kinds of behaviors, communication and parental care. Now what is communication? Well, we have an intrinsic idea
+of what communication is, but let's break it up a little bit. Now, communication is ultimately coming
+from a signal sent from one individual to another with the effect of altering
+a recipient's behavior in some way. That's when you know a communication
+has actually happened, that you actually alter
+the recipient's behavior. So an example might be in
+the context of foraging. We mentioned the honey bee dances last. So the bee comes back to the hive,
+he does a little dance and then everybody goes to the place where
+she tells them that there is food. We see this in the context
+of alarm calls that for example, there are these
+ground squirrels that will scream out when a predator is
+approaching allowing others to run away. We definitely see this of course in
+the context of sexual behaviors and you can anticipate what the intended
+outcome of that would be. And of course,
+there are threat displays as this one, where you want to make
+your threat go away. Now, one common example
+that people talk about is that of the stotting behavior
+observed in Thompson's Gazelle. This is a very interesting one,
+because in this case the communication is thought to be interspecific or
+between species. It's almost like a communication from the
+prey to the predator that if the gazelle, as depicted in this one who's jumping
+here in the air, sees a predator, it starts this very high jump. And this stotting behavior is what this
+jumping is called and is thought to be communicating to the predator hey,
+I see you, it's not worth it for you to run after me because I run
+faster already and I see you're there. So, in this sense,
+it's advantageous to both the prey and the predator because what could happen is
+yes the cat could run after the gazelle. But if indeed the gazelle has
+actually seen the cat and if indeed the gazelle does run much
+faster, there's kind of no point to it, they're both just going to waste their
+energy for no particular purpose. So this is a very interesting
+proposed example of this. Now, again there's this whole range
+of possible things, but particularly thinking about something like this
+gazelle stotting, what about deception? What would happen if, for example,
+those gazelles just did that all the time? Wouldn't it ever come out that
+this is just what they do, and they're not actually signaling
+to a predator that they see? Well honest signaling is something
+that is actually selected for and I'll explain why. Now, most signals tend to
+benefit the signaler and in that regard tend to
+benefit the signaler's genes. But the question is do some animals
+signal in a way to manipulate others. Like, for example, could you give a warning call of predators
+so others flee while you get food? There are some birds that
+will actually do this. They'll do an alarm call and then go after prey basically
+making others get out of the way. It's a little bit freaky. Or they'll fool opponents into thinking
+you're actually stronger than you are. So these would be cases
+of dishonest signals. Now, when can this actually happen? Well dishonest signals are actually very
+difficult to maintain because selection will ignore favoring them. Those individuals who ignore
+the signal will have higher fitness than those individuals who respond
+to the signal in the intended way. Let me say that again. Those individuals who ignore
+the signal will have higher fitness than those individuals who respond
+to the signal in the intended way. So in this regard, ignoring will
+spread and eventually the signal elicits no further response at which
+point you no longer have communication. So there are some conditions where
+dishonest signals can persist. Those two conditions are, first the cost
+for not responding is very high, that you have to respond because if you
+mess up the cost is very, very high. And if the dishonest signal is rare
+relative to the honest signal. Let me give you a couple of examples. So here's a case of what we refer to
+as fatal attraction in fireflies. So first we'll introduce
+friendly Photinis. This is just a standard little firefly. The males flash to find females,
+the females flash back and you can anticipate what
+happens after that. Well, there's another species
+that looks kind of similar. We'll call it less-friendly Photuris. It flashes just like Photinis females. Now, since it flashes like
+Photinis females the Photinis males are actually attracted. And what happens to them? Well, unfortunately the Photinis males
+actually get eaten by the Photuris female. So this is a very unfortunate outcome for
+the Photinis males. It's good for the Photuris males. Now, you may wonder, why is it the Photinis males
+don't just ignore the flash? Well if they ignore the flash and the
+flash is identical to their own females, they will never mate. The other thing is that Photuris tends
+to be less common than Photinis. So most of the time, when they
+respond the right thing is happening, just every now and then, they get eaten. This an example where you're
+exploiting a mating signal to feed. Let me show you a case of the opposite. Here's exploiting a feeding
+preference to elicit mating. [LAUGH] So, here is the water
+mite Neumania papillator, I apologize, if I mispronounced that,
+and what it does, is it sits there and eats passing crustaceans. So it sits upright, it senses vibrations
+in the water from passing animals, so it might be a little daphnia or
+something like that, and when it detects the prey,
+it jumps down on it and it eats it. What's interesting that's happened is
+this is a female maybe sitting there. What's happened is the males
+actually vibrate their legs, mimicking the exact
+vibrations the prey do. What happens then is the females
+will orient towards the males and grab at them and when the females do this,
+the males very quickly fertilize the eggs. [LAUGH] So it's a very odd situation
+where the males are exploiting a feeding behavior by the females to
+come in and fertilize her eggs, and get close in that sense. So this sounds pretty cool, but is this a case of the adaptive
+storytelling that we talked about before. Well, if this mating behavior
+evolved in response to a pre-existing feeding behavior,
+there's a prediction we can generate. Do we predict that we should see
+a greater response to males by females that are hungry or
+females that are full. Well the answer's pretty simple. If it's acting in response
+to this feeding preference, we expect hungry females to be more
+likely to mate with males in this way. This is exactly what has been observed. When people have done studies of this,
+they in fact found that hungry females were much more likely to act
+in response to the males, and therefore have their eggs fertilized
+in response to this deceptive signal. Let me show you another deceptive signal,
+not in the context of feeding this time. Here is the European Common Cuckoo. Now, we tend to think of cuckoos as
+the things in these cute clocks, but in fact, they're not very nice birds. These are referred to as brood parasites. What they do is they don't
+actually raise their own young. Instead, the cuckoo mom will
+find a nest of some other species of bird and she will replace
+some of the hosts eggs with her own. So she will roll a couple of
+the hosts eggs out of the nest and down onto the ground,
+put in some of her own eggs. And then what happens, the Cuckoo
+chicks actually hatch earlier and those Cuckoo chicks also often push
+the hosts remaining eggs out of the nest. Then the cuckoo sits there as this
+huge bird, like this guy here, demanding food and
+the host comes in and provides it. So, there is some sort of dishonest
+signal here for parental care. A lot of people look at that bird there
+in the picture, and say how on Earth did that mom think that was one of her
+chicks, or are the hosts just stupid? [LAUGHS] The answer is no. This was studied by this fellow here,
+Neil Davies. So there are two factors that stimulate
+host birds to feed the cuckoo parasite. The first is large size,
+large size stimulates that behavior and these cuckoos are very large in size eyes. They're typically much
+larger than the hosts. The other thing is if we look, the begging call rate matches that
+of the real offspring very well. So these show some sonograms
+of a reed warbler, which might be one of the hosts for
+a cuckoo, and this shows the cuckoo chick. And we see that these sonograms
+match fairly closely. Now, this was actually studied
+using recorded calls and often they actually could not distinguish
+the calls that well of their offspring from the cuckoo offspring. Now, it still seems like the warblers or the hosts should be able
+to figure this out. And maybe they can, but really their
+options are more limited that it may seem. There's a couple of reasons. Well first, some warblers will actually
+try to push the cuckoo eggs out, but will actually push their
+own out at the same time. That's obviously to
+everybody's disadvantage. Sometimes, they'll just abandon the nest
+all together but when they do that, their offspring die too. So that's again at a disadvantage and
+there's an added disadvantage. This is a newer hypothesis and
+that is the Mafia Hypothesis, that the cuckoo mom will attack
+nests of birds that eject her eggs. And again,
+there is some evidence in support of this. The Cuckoo mom is watching,
+off on the side. And if you misbehave, she comes in and
+she lets her offspring have it. So these poor birds [LAUGH]
+they're under a lot of pressure. Now, we've talked about these signals that
+are intended for particular recipients. But sometimes what will happen is
+signals will be intercepted by unintended recipients and then misused. Now, what we see in this case,
+in this particular example here, is there are predators and parasitoids that hone
+in on signals from the prey, okay? So here we have an Ormia parasitoid fly. So this little fly that's sitting here on
+the cricket is an Ormia parasitoid fly. It is tuned into the calling song
+of these male crickets in Hawaii. And what'll happen is they'll hear the
+song, they'll come around to the male and they will force their
+eggs inside the male. So eventually, the male will die as the Ormia larva comes out as you
+can see here in this picture below. Now, there are very precise eardrums
+in these Ormia that allow perfect localization of these male crickets. And they're only observed in
+female Ormia and not male Ormia. So it's very much for the purpose of sticking these
+eggs inside these male crickets. So this is a bad deal for the crickets. Interestingly, in this particular example, the crickets have
+responded evolutionarily. So between 1991 and 2001, there's
+a major drop in the cricket population due to these nasty parasitoid ormia flies. But then this new mutation arose on the X
+chromosome that made mute male crickets, that basically they chirp very quietly. Now, in doing that the Ormia
+can't hone in on them. So what we see now,
+is the cricket population is rebounded but nearly all the males are mute. So we might expect here,
+this shows four possible things, that if the flies are absent then it's
+best to have these noisy normal wings, cuz then you can attract a lot of mates,
+right. So you wanna call as loud as
+you can to call mates in. Flies are present, they're gonna die like this dead cricket
+here, so that would not be good. If you have a mutant mute male, if he's
+competing with noisy ones he doesn't do so well in terms of mating
+if the flies are absent. But if the flies are present, he's gonna get some of the mates
+because nobody's really competing. The ones who sing loudly are all
+killed off by the Ormia, but he can actually get
+a couple of these mates. So there's actually an advantage to being
+mute only in populations where the flies are present, not in populations
+where the flies are absent. So that's a very cool example
+of an evolutionary response to an intercepted signal by a parasitoid. So, last topic I wanted to cover
+with you today is parental care. Again, I'll talk about
+this only very briefly. There are many levels of
+parental care out there. There's the absolutely no parental care,
+that's investment in your offspring and ends with indiscriminate
+release of gametes. This is again what happens with
+a lot marine invertebrates. They just spew out their gametes and
+that's it. They never do anything else for
+their offspring. There's some weak examples
+of parental care, just for example the strategic laying
+of eggs in optimal spots. We see this in fruit flies. And of course, there's true parental care. We have significant investment,
+where you have birds for example, provisioning their young, dogs,
+most humans [LAUGH] things like that. Now, many of you realize, especially
+when we're looking at mammals and birds and things like that, it's females
+that usually do most of the parental care. The question is why? Why is it the female is more
+likely to provide food? Why is it females are more likely to
+be hanging around defending the kids? Well there's several proposed reasons for
+this. First is that paternity certainty is
+often lower than maternity certainty. There's never any doubt who the mom is for the kids because the kids
+come out of the mom. For the dad though,
+there's often this some bit of doubt, that maybe they're spending a lot
+of energy caring for kids that maybe aren't theirs, because there's not
+this direct association with their role. Males can also sneak off very briefly to
+mate a lot in a very short period of time. They could sneak off for one evening and have multiple matings that
+all result in off spring. Don't think of this in the human sense. It's very disturbing if you think
+of this in the human sense. But think of it as like a bird for
+example. So you can sneak off for
+one night and have lots more kids, so for its overall fitness, it could
+go up quite a bit by that sneaking off. And again, females may invest
+more in the eggs themselves. So it might be worth more for
+them to continue to invest and not let that original
+investment just go to pot. Now, there are some exceptions to
+the rule to help us interpret these. These exceptions include things
+like the giant male water bug, one species of which is shown over here. This is an interesting case. What happens with these water bugs is,
+the eggs are put onto the back. And it's absolutely essential for
+the males to take care of these eggs. What they'll do is they'll go up,
+maybe to the surface of the water and get them just a little bit of air
+to absorb a little bit more oxygen. Or they'll do little push ups under water
+to allow the water to flow over them to get them enough oxygen to get into the
+eggs so that the hatchlings will make it. It's very important because if they
+abandon the eggs, the eggs don't make it. If they take care of the eggs,
+most of them do make it. So this is something that's
+absolutely essential to the survival of these offspring. Another one you may have heard
+of are these pipefish, and they're relatives of seahorses. They have pouches where the males will
+again, take care of the young fish. They will go into this pouch and
+they actually have a direct connection. So they're actually receiving nutrients
+directly from dad in this case. So these are dramatic exceptions to these generalizations about females
+doing all the parental care. Now, you may wonder Why there
+are these exceptions to the rules. Well there are a couple hypotheses for
+this. One is that there is actually a lack of
+trade off between mate attraction and parental care. There's some indication that that is true. So for example with the waterbug,
+there's some indication that females are disproportionately attracted to males
+that have these eggs on their back. So there's actually a mating
+advantage to taking care of the kids. So that's definitely a plus. There are other examples too. So the stickleback fish, as shown here,
+will actually build these fancy nests when they take care of offspring, and these
+nests again are attractive to females. So females will come there and
+they can then be mated to by the male. So there's not this tradeoff. It's that oh if the male had gone off
+on his own he's actually have better mating success. In fact the mating success
+may be equivalent or even better associated with
+doing this paternal care. The other possibility is the cost for
+care may be disproportionately great for females. So for example, the female water bugs
+have already invested very heavily in producing all these eggs, which they
+then had to go around carrying them, and shaking them and doing all this stuff. It's possible they just wouldn't make it. It's possible they just wouldn't survive. So in that sense, there had to be
+some sort of division of labor so the species could [LAUGH]
+continue in some level. Again, these exceptions are essentially
+helping reinforce the overall principles. Now, this is obviously a tiny,
+tiny little taste of the interesting kinds of things that can be studied
+in the context of parental care or paternal care even inparticular. But more broadly again, coming back
+to what I said in the last video, the study of animal behavior is really,
+really exciting. It ties into many areas of biology and
+especially evolutionary biology, which is the focus of our class. And we talked in a previous
+video about optimality and being careful, in the context
+of adaptation as thinking, but seeing how you could actual maximize games
+for minimal effort and expenditures. We looked at adaptive
+feeding behavior as examples. We looked at various forms of
+communication and parental care. But again,
+there's a whole spectrum out there. And in fact, even here in Coursera,
+there is another animal behavior class. So if you're interested,
+I would encourage you to go check it out. Thank you, for your time. I hope you enjoyed this.

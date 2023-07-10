@@ -1,0 +1,122 @@
+[Music] John Gill: Is there a profile
+of the common fraudster? Not really, but there are
+common demographics that can be analyzed to give us some
+insight into fraud perpetrators. Every two years, the Association
+of Certified Fraud Examiners conducts a global survey of its
+members about cases they had experienced. By looking at this data, we
+can develop a list of the most common factors. As you can see from the ACFE
+survey, males commuted more frauds than females. The perpetrator is typically
+well educated and a member of management. They are a first time offender
+and occupy trusted positions at work and in the community. An important concept in
+understanding fraud is organizational opportunity. This is the concept that how
+much or how often an individual commits fraud depends on how
+much opportunity he has to do so in the organizational hierarchy. Think of it this way. Who has the better opportunity
+to steal large amounts of money at a bank? The teller or the
+bank president? If you review the typical
+demographic, you see that it is consistent with upper
+management at most companies. However, as the population
+demographics change and organizational demographics
+evolve, it is expected that these characteristics will
+change as well, but it is important to understand that
+fraud happens at all levels and the higher an individual is
+within an organization, the greater the opportunity
+to commit fraud. Although the fraud triangle is
+important in understanding some of the motivations to commit
+fraud, it is not meant to cover every situation. You should also consider some of
+the other motivations that cause people to do dishonest things. It can be summarized in
+the acronym MICE, M-I-C-E. A desire for money is a
+motivating factor for many types of crimes. The individual may have large
+debts or gambling losses or just an overwhelming desire
+for expensive things. Fraud can be seen as a
+convenient way to fund an extravagant lifestyle. For some people, the path to
+fraud may be based on a certain ideology. They may feel that they
+are not treated fairly. For example, an individual may
+resent the CEO who makes tens of millions in bonuses when she
+hasn't had a decent raise in years. She may feel that fraud is a way
+to even the balance of wealth. It is not unusual to be coerced
+into committing a fraud. A supervisor may coerce
+employees into inflating sales or numbers, or paying bribes
+to obtain contracts so that the department will meet its goals. The employee feels threatened or
+pressured to commit wrongdoing or lose his job. And finally, some fraudsters
+have enormous egos. They feel that they are smarter
+than those around them and that they are entitled to
+positions of power and wealth. These individuals see fraud as
+just a means to obtaining what they feel they are entitled to. Of course, there may be several
+motivations that play in any one case. The key is to understand that
+there are many factors that can motivate people to commit fraud. In addition to understanding the
+motivations to commit fraud, the fraud examiner and management
+should be alert to some of the behovely red flags
+related to fraud. This chart shows some of
+the most common behavioral characteristics that were
+present in fraud cases in the ACV's report of
+the nation survey. As you can see, the two most
+common characteristics were the individual living beyond his
+means and experiencing financial difficulties. This is consistent with the
+desire for money related to financial pressure, one of the
+legs of the fraud triangle. The presence of family problems
+or drug addiction were also common red flags, but notice
+some of the other factors; an unusually close association with
+a vendor can be a red flag of a bribery or kickback scheme. Unwillingness to share duties
+or take vacations can be signs a person is working to keep the
+fraud hidden and can't risk anyone else getting involved
+with his or her business. Pressure from within the
+organization or coercion is sometimes present as well. As you would expect, people
+that have a large ego or feel entitled to wealth would have
+many of the characteristics on this list, including complaints
+about adequate pay, complaints about lack of lack of
+authority, instability in life circumstances, and past
+employment or legal problems. To be sure, the presence of any
+of these red flags does not mean that fraud is occurring, but
+they do occur in a number of cases, therefore it is certainly
+prudent to be observant. Use these characteristics along
+with other factors to determine if fraud may exist. Dr. Richard Dull, PhD: Financial
+forensics is the intersection of financial principles
+and the law. It applies the technical
+skills of accounting, auditing, quantitative methods,
+law, and research. Investigative skills are
+required for the collection, analysis and
+evaluation of evidence. Critical thinking is required
+to interpret and communicate the results of an investigation. Critical thinking, sometimes is
+referred to as lateral thinking or thinking outside the box and
+is a disciplined approach to problem solving. It's used as a foundation to
+guide our thought process and related actions. Let's consider the following
+case as an example. Everything needed to answer the
+question "how did they die?" is contained in the
+following passage. [Reading words on screen] With this information,
+determine how they died. Here's a clue. List all of your assumptions
+from the example. This exercise requires you
+to guard against jumping to conclusions while the fraud
+examiner or forensic accountant needs to think critically. The direction of the
+investigation is often guided by assumptions. The difficult challenge is
+not the questioning of the assumptions that the
+investigators identified, but the assumptions the investigator
+is subconsciously making without even realizing it. That's why it's important
+that the investigator must continually challenge the
+investigative approach and outcomes to assure that the
+investigation is moving toward a resolution, a resolution that
+stands up to the scrutiny of others. Back to the example. Most students assume that
+Anthony and Cleopatra are people when in the scenario
+they are actually fish. Once the assumption of people is
+eliminated, the solution comes much more easily. Let's review the reasons
+for critical thinking. People who commit fraud
+do not think like us. We need to be flexible in how we
+approach other people's worlds. We have to consider each little
+piece of data individually because one fact may put
+everything into perspective. Keep digging and gathering
+information until you have adequate explanations. Our first class has covered
+a wide range of interrelated topics, beginning with the
+working definition of fraud. From there, we looked at the
+financial impact of fraud on organizations in society and
+then some nonfinancial problems caused by fraud. We then discussed the fraud
+triangle and the accidental fraudster, both helping you
+better understand the thought process of an individual
+that commits fraud. We finished the day with a
+discussion of the skills needed to be a forensic professional. You can find more information on
+this week's topics on the West Virginia University and
+Association of Certified Fraud Examiner websites. Thank you for your
+participation today. We look forward to working with
+you again next week and helping with your understanding of
+forensic accounting and fraud
+159
+00:08:28,800
+examination.

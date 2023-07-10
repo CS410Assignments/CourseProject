@@ -1,0 +1,227 @@
+Welcome to this tutorial on Upper Motor
+Neuronal Control. And what I really want to focus on in
+this session is the anatomical organization of the corticospinal and
+corticobulbar pathways. This topic relates to several of our core
+concepts in the field of neuroscience. I hope this subject will allow you to
+break down some of the complexity of the human brain.
+Nevertheless, I'm sure you appreciate by now that the brain is indeed the body's
+most complex organ. Now the pathways we're going to be
+discussing today are genetically determined.
+They provide a foundation for upper motor neuronal control of lower motor circuits.
+So it's very important that we understand their organization and anatomical
+distribution, but that's not to say that even these pathways can't be changed by
+life experiences. Indeed the strength of the connections
+between our upper motor neuronal pathways and lower motor circuits are subject to
+experience-dependent modification. And we think that this might be an
+important site of neuroplasticity, as we acquire new motor skills.
+Indeed, many neural systems are changed with practice and with the acquisition of
+skill, but let's not forget that even these pathways that we're going to be
+talking about today may themselves be modified by experience.
+So, I have several objectives for you in this session.
+I want you to be able to characterize the organization of the corticospinal pathway
+from the cortex to lower motor circuits in the spinal cord.
+I want you to be able to do the same thing for the corticobulbar pathway.
+Only as we'll come to define this pathway, this pathway terminates in the
+brain stem, not in the spinal cord. I want you to be able to recognize
+components of the corticospinal and corticobulbar pathways as we look at the
+brain from the outside, but also as we look at the brain in cross sections.
+Through the brainstem and the spinal cord and I even want you to be able to look
+into sections through the hemispheres and know where elements of these pathways
+will be located. Well one way to help you consolidate the
+information that I hope for you to learn in this tutorial is to draw, to make a
+sketch. that sketch could be on a white board, a
+chalkboard, a piece of paper, it could be made with a stick in the dirt at your
+feet, but what I would say about sketching is that the bigger the better.
+So I want you to be able to sketch the corticospinal and corticobulbar pathways.
+From cortex to lower motor circuits. And you might even want to include in
+your sketches the lower motor neurons themselves and their connection to the
+muscle fibers that they innervate. Okay, well let me give you a broad
+overview of our pathways of upper motor neurons to lower motor neurons, and this
+is a, a figure that you've already seen in conjunction with our studies of upper
+motor neurons. And this pathway that you see here,
+illustrates the way that circuits of upper motor neurons in the cortex and in
+the brain stem connect with lower motor circuits in the spinal cord.
+The main pathway that we're going to be concerned about today is the one that
+relates upper motor neurons in the posterior part of the frontal lobe, that
+is the motor cortex, to lower motor neurons that are found in the lateral
+part of the ventral horn of the spinal cord.
+Now there are other kinds of motor neurons that are involved in governing
+the output and spinal cord. Namely three major sources of motor
+neurons in the brain stem, probably most important would be the reticular
+formation of the brain stem, it supplies projections that terminate bilaterally,
+in the medial parts of the ventral horn of the spinal cord.
+There's also descending projections from the vestibular nuclei of the brain stem,
+also distributed to the medial parts of the ventral horn of the spinal cord.
+An thirdly there are projections from the superior colliculus to the upper part of
+the cervical cord. Although, in humans, we think that this
+effect of the superior colliculus on the orientation movements of the head and
+neck may actually be mediated by the reticular spinal connections.
+Well, so this is the broad view of our perspective of the distribution of upper
+motor neurons to lower motor neurons. And I think it's very helpful for you to
+keep in mind this medial to lateral somatotopy that we find in the spinal
+cord. So when we talk about our lateral
+corticospinal fibers that are found here in the lateral white matter of the spinal
+cord. I want you to relate function to this
+anatomical location. And appreciate that these axons are
+terminating among the lower motor neurons that are concerned with the skilled
+movements of the distal extremities. Meanwhile those axons that we find in the
+anterior and medial part of the spinal cord, are giving rise to projections that
+typically terminate bilaterally on the medial part of the ventral horn.
+So these would terminations on columns of cells that are concerned more with
+posture. And with the gross movements of the limbs
+via the actions of proximal limb muscles. So I want you to be able to associate
+these two different anatomical locations with two kinds of functions.
+The lateral column of the spinal cord is concerned with the expression of skill,
+[SOUND] whereas these medial systems are more concerned with the maintenance and
+adjustment of posture. Okay.
+Well, let's talk now about our corticospinal and corticobulbar pathways.
+And to begin, we need to consider once again the organization of the motor
+cortex. So, recall that the motor cortex is found
+in the posterior part of the frontal lobe, and we can divide it into a
+posterior primary motor cortex that occupies the anterior bank of the central
+sulcus and the precentral gyrus. And then just anterior to that primary
+motor cortex we find the premotor cortex. Which begins at the interior part of the
+precentral gyrus and continues on into the posterior part of those three long
+parallel gyri that come to meet the precentral gyrus almost at a right angle.
+The superior, the middle, and the inferior frontal gyri.
+Okay, so that's what we have here. In our premotor cortex.
+While both the primary motor cortex and the premotor cortex give rise to
+descending projections that contribute to the corticospinal and corticobulbar
+pathways. And to understand the difference one
+needs to be reminded a bit of the somatotopy.
+That we find in the precentral gyrus, and that extends into the premotor cortex as
+well. Now, recall that the somatotopy in the
+motor cortex is a gross reflection of the somatotopy that we find in the somatic
+sensory cortex, across the central sulcus and the post central gyrus.
+But the detail is quite different. Rather than there being a faithful
+representation in a point-by-point fashion of the contralateral body
+surface, what we see in the motor cortex is a map of movement intention.
+And that intention is roughly somatotopically organized in the
+following way. With movements that we intend to make
+involving our lower extremity being represented here in the paracentral
+lobule on the medial face of the hemisphere, and just out a bit into the
+dorsal medial margin of the hemisphere. Well, as we progress in a lateral and
+inferior direction, we move from the lower extremity up through the trunk and
+into a large expansive region near the center of the motor cortex that is
+concerned with the movements that we intend to make with our arms and our
+hands. So there's a large upper extremity
+representation near the middle of the precentral gyrus and extending into
+premotor cortex. While just inferior to that
+representation of that upper extremity, in this lower third, approximately, of
+the motor cortex. We find a large representation of the
+contralateral face and specifically the lower part of the face.
+Now, I want you to learn more about the way the upper motor neurons of the cortex
+control the movements of the face in a separate tutorial that I've prepared
+called, Upper Motor Neuronal Control of Facial Expressions.
+So, I will refer you there for more detail about how the face is governed by,
+not only this lateral inferior precentral gyrus, but also a fairly newly discovered
+region, right about here, in the banks of the cingulate sulcus that we call the
+cingulate motor area. And it will be important for you to
+understand how these two parts of our motor cortex relate to the divisions of
+the facial motor nucleus that govern the upper and lower parts of the face.
+So, please see this other tutorial for a fuller expla, explanation of this aspect
+of the connection between the motor cortex and the facial motor nuclei.
+Well, for the rest of our time, I'd like for us to focus then on the organization
+of these descending pathways, principally the corticospinal pathway.
+I'll say a little bit about the corticobulbar pathway, but I'll refer you
+mainly to this additional tutorial for some deeper explanation of the
+connections between cortex and those relevant cranial nerve motor nuclei.
+All right, so let's use this figure from our text book, which I suspect is really
+quite small on the screen that you're viewing this on, but I'll try to use it
+nevertheless, and refer you to the additional figure that we have in the
+tutorial notes. And then I want us to jump into Sylvius
+and really find the elements of this pathway and cross-section as they are
+displayed for you in the tutorial notes. Well, let's focus on the pathway shown in
+red. This is the cortical spinal pathway.
+So, what we're illustrating, for example, will be the descending projections.
+Of a motor cortex neuron that might be found near the middle of the precentral
+gyrus. So we imagine this as a neuron that's
+concerned with the movements of the contralateral arm and hand.
+So this neuron grows an axon that runs through the white matter of the
+hemisphere and it enters the posterior limb of the internal capsule.
+This is the means that allows this axon to pass through the hemisphere between
+the basal ganglia and thalamus, and then eventually down into the brain stem.
+And these axons are component of this massive stalk of white matter that we
+find on the ventrolateral surface of the midbrain.
+Called the cerebral peduncle. So these axons pass through the cerebral
+peduncle, and then they enter the pons. Now, along the way these axons might
+sprout collaterals that supply additional structures that they may pass.
+for example, there may be a branch that supplies the red nucleus, which is a
+large nucleus of the midbrain. There may be axons that terminate among
+the pontine nuclei here at the base of the pons.
+There may be axons that pass through the core of the brain stem and terminate in
+the reticular formation. Which is going to receive information
+from the motor cortex about the intention of movement.
+Well, in order to actually express the movement these neurons have to make their
+way through the brain stem and into the spinal cord.
+And here's what happens as these axon pass through the medulla and enter the
+caudal part of the medulla, where the spinal cord medullary junction is found.
+The vast majority of these axons will cross the midline in a structure that we
+call the pyramidal decussation. We can think of this maybe as, as a
+folding of the arms, where one medullary pyramid crosses over the other.
+And consequently, the bulk of the axons that were present in one medullary
+pyramid are now found in the opposite side of the white matter of the spinal
+cord. It's at that point that we call this the
+lateral corticospinal track. So, roughly 90 to 95% of the axons.
+That are present in one medullary pyramid will cross the midline and end up in the
+lateral column of white matter of the spinal cord on the opposite side of the
+midline. The remaining 5 to 10% of the axons or
+so, remain on the same side of the spinal cord.
+And they are present in this anterior and medial white matter.
+From there they tend to branch and give rise to bilateral connections, to that
+medial part of the ventral horn that controls the more proximal muscles of the
+limbs. So this is a picture of our descending
+corticospinal pathway. And I hope you're not too distracted by
+these collaterals, to structures in the brain stem, this will serve the purpose
+of informing important circuits in the brain stem about the intention of
+movement. Okay, now let's turn our attention to the
+corticobulbar pathway, which is shown here in this yellow colored axon.
+Now notice where this axon begins. It grows out of a neuron in the inferior
+and lateral part of the precentral gyrus. That's where we would expect
+representation of the facial region. In our motor cortex.
+So this axon, then, runs through the white matter of the hemisphere, just as
+we saw for the corticospinal track axon, through the posterior limb of the
+internal capsule, into the brain stem, where it runs through the cerebral
+peduncle. And perhaps along the way, it too might
+give rise to branches that terminate in structures like the red nucleus.
+Now, as this axon passes into the brain stem, it will be directing its
+projections, its terminal fields, primarily towards one or another.
+Of the cranial nerve motor nuclei. Now in this illustration I think just for
+artistic simplicity the branches are shown only to ipsilateral structures.
+But as is detailed, both in the tutorial notes and in the separate video tutorial
+that I have for you. On the control of the facial muscles, we
+know that these collaterals are actually bilaterally distributed.
+And for some structures, including the trigeminal motor nucleus, there may
+actually be a contralateral bias in that distribution.
+We know that's certainly true for the lower motor neurons that are governing
+the lower part of the face. That is, the lower motor neurons in the
+facial motor nucleus. But for the most part, we can think of
+these corticobulbar pathways as bilateral.
+The only issue is the degree of contralateral bias.
+Okay, well, these axons are distributed only into the brain stem, they're
+corticobulbar. This term bulbar refers to the brain
+stem, and many authors choose to restrict it even further to projections from
+cortex to the motor nuclei of the cranial nerves.
+Not just all brain stem projections, but specifically those brain stem targets.
+I think we can compromise somewhat and consider the corticobulbar pathway to be
+the means by which the motor cortex motivates the output of our cranial nerve
+motor nuclei. Well, just one additional quantitative
+point that, that might give you some perspective on the projections from the
+cortex to the brain stem. the dominant projection, really, from the
+cerebral cortex to the brain stem, really is not corticobulbar in the sense that
+I'm using this term here in this tutorial.
+There are actually corticopontine fibers. So these are the projections that arise
+from all over the cerebral cortex of one hemisphere and terminate among the
+pontine nuclei that are present in the base of the pons.
+These cells, in turn, project across the midline into the cerebellar hemisphere,
+which is sitting out here somewhere. So if you review your understanding of
+the cerebellum and the cerebral pathways, you'll recall this connection from cortex
+to base of the pons, and then from base of the pons to the contralateral
+cerebellum. This quantitatively is actually the
+largest component of axons in the cerebral peduncle, the minor
+contributions are actually the corticospinal and the corticobulbar
+pathway. Okay, well let's return then to our focus
+on the anatomy of this corticospinal and corticobulbar pathway.
+And I'd like for us to look at some cross sections in Sylvius, and identify the
+locations of where we would find these axons if we were to look through
+histological sections of the brain stem and spinal cord.

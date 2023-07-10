@@ -1,0 +1,65 @@
+And I wanted to talk about
+an alternative to insurance. It's the idea of managing
+risk not through purchasing an insurance policy, but
+through diversification. Through owning a variety of assets. And here again, we're going to
+start by assuming a blank slate. You as an individual have no
+risks that are inherent to you. You don't live in an earthquake zone. We're not going to worry about that. But you do have to take on risks
+in order to get a good investment. So the idea is that risk
+is inherent to investing. You can't, ultimately, people who
+are providing you with investment opportunities are doing something
+in the real world, which is risky. And if it weren't risky,
+it wouldn't be giving you an extra return. That's the core idea
+that we want to develop. And that you have to manage your risk by
+diversifying across a number of different assets, not putting all
+your eggs in one basket. So that's the core idea that
+we want to develop today. So I said, put your eggs in one basket. I was wondering, you've heard that term. Don't put all your eggs in one basket. That's a very [INAUDIBLE]. Who said put all your eggs in one
+basket and watch that basket. That might have been Mark Twain. I have to look it up. But, more famous is don't put
+all your eggs in one basket. So, I tried to search where
+did that first appear? And I found it in a book by Alexander
+Crump in 1874 about how to invest. And then he says, there is an old saying. [LAUGH] That it is inadvisable to
+have all your eggs in one basket. So he doesn't provide a reference for his old saying but that's the earliest
+reference I could find for it. I like history of thought. I always wonder where it comes from. The portfolio theory approach
+describes everyone as the same. We don't, we don't have risks
+that have to be insured or we've already taken care of them. Any specific risk. I bought an insurance policy. And it's gone. So, that's the assumption. So, what if I calculate the optimal
+portfolio, the best diversified portfolio? The insight, the core insight of
+this theory is, you know what? It's going to be the same for everybody. I mean if I can serve quantified risks and
+returns and I calculate the optimum. Then why is it different
+from one person to another? Well, you could be different
+from another person because you might be more
+risk averse than others. You might have a greater or
+lesser tolerance for risk. But that variation and tolerance to risk could be adjusted by
+leveraging your portfolio up and down. So if you abstract from that adjustment,
+really, everyone should be doing the same thing. That's the key insight. So all that should matter to you as an individual is the performance
+of your whole portfolio, right? If you're a rational, economic person, an econ as they call them, why do you
+care if one stock goes up or down? It's the total that matters to you. So, what you would naturally
+care about is the mean and variance of the return
+on your whole portfolio. And you just don't care about
+what one asset or another does. Now, in fact, people boast about their investing
+skill with regard to individual assets. But they shouldn't because you
+win some and you lose some. It is the average that matters. So you care about the average
+return of your total portfolio, and you care about how uncertain the total
+return of the whole portfolio is. We are talking now about
+the capital asset pricing model, which I think, it's due to
+Harry Markowitz, in the early 1950s. He was a graduate student
+at University of Chicago. He had this neat idea. I can write down how to optimize risk? I'll assume risk can be
+described by a variance matrix, a little bit of technical apparatus,
+and statistics. And I suppose I know what the expected
+returns are in various assets. What should I do as a portfolio manager? And it was simple. It was like one page of math. He wrote it all down. Computed the optimal portfolio. And assuming that you know the variability of assets and their expected returns, it kind of amazes me that
+It wasn't known before. But there are moments in history when
+certain ideas suddenly crystallize. The idea of measuring risk
+by a standard deviation. And then doing some calculations that
+bring that down maybe to a minimum value or minimum compared to
+some expected return. That led to a big revolution in finance. So, but it's a mathematical discipline,
+not that we saw in class. I also think it can be overrated,
+I love mathematical models like that, but they're not the whole story either. But the idea is that somehow
+you have to take account of each asset that you invest in. How does it contribute to your
+overall portfolio variance and portfolio expected return? And there's a lot of
+complexity in the decision. Sometimes you want to be hold
+the positive amount of an asset, sometimes you want to
+hold a negative amount. And what you hold depends not just
+on that asset's expected return, but on the expected return of other assets and
+their covariance with this asset. It all sounds impossibly
+difficult problem, but it really isn't that difficult. It's simple calculus. Harry Markowitz just worked it out in his
+room at the university City of Chicago. And it's with us ever since. So that was one thing I wanted
+to cover early in the course. because I just like the model. I don't trust it either [LAUGH] but
+I like it.

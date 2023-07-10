@@ -1,0 +1,94 @@
+So I already mentioned a consol
+is one that pays a quantity. What I was saying c or whatever x forever. And the consol present this kind of
+value is x over or coupon over r. So it's kind of obvious in the case of a,
+why do we call them consols by the way? Because in Britain,
+in the 1700s, the government of the United Kingdom issued
+bonds with no maturity date. They promised to pay this coupon forever,
+and the only way they could get out
+of it was by buying them back. And those bonds, well, there was
+some adjustments made in the 1880s. They're still paying the coupon. The British government hasn't
+defaulted in all that time. And so it's not forever,
+but it's close to forever. I mean, several hundred years,
+a long time to be paying a coupon. Now it's simple to understand
+the consol present that says the price of the consol
+p is equal to c over r. You can just return that, turn it around. It says the yield to maturity
+on a consol is c over p, and that's kind of obvious, right? If the consol is paying a 3 pound coupon,
+and it's selling for 200 pounds,
+I say what is the yield to maturity on it? Well it's 3 pounds divided by 200 pounds. In that case it would be, if it was
+3% yield to maturity, I'm sorry if it was a 3% coupon issued,
+it's now paying one and a half percent yield to maturity
+because the price has gone up. This is an important point with bonds. The coupon is fixed at the time
+the bond is issued but the market price of the bond
+changes through time so if the British government
+issued a 3 pound consol for 100 pounds and
+that consol is selling for £200 today, the yield to maturity is
+down to 1.5% instead of 3%. But this is no fault of the British
+government, they are true to their word. They are paying the consol as promised,
+it's the market that does it so bonds are risky, they have market risk
+even if there is no default risk. If you buy a consol,
+you know you won't live forever. The British government may
+live forever but you won't, so you're going to want to sell
+the coupon at some point. The British government does not
+guarantee the rate that you will get, the price you will get for
+selling your consol. So, there's market risk for
+our consol and for any debt instrument,
+long term debt instrument. By the way, if a bank or a company or a government were to issue
+a usually companies don't issue consols because nobody
+believes they'll last forever. Patriots in Britain might believe that
+the British government will last forever. Although I can tell you it won't [LAUGH],
+not forever. Nothing is forever. But they imagine it's forever, so
+they're willing to buy British consols. But what if the British government
+did something even more dramatic? They say, we're going to have the coupon
+on the Consol growing at a constant rate. So, it's going to start out at 3 pounds,
+and then it's going to grow
+at a rate g per year. G is a percent of growth per year forever. Well what is the present
+value of an amount x if the rate is the yield to maturity or interest rate is r and
+the x is going to grow at rate g? Well, it turns out the growing consol
+present discounted value is x over r minus g. So, by the way, what happens if g is
+greater than r [LAUGH] or g equals r? Any idea on that? Well, I think you probably
+can figure this out. It's, if g equals r it's x divided by 0,
+it's infinite. That's because it's the series that
+you're summing is not convergent. If you're getting an amount that's
+growing at the rate of interest, the present value is infinite and if it's growing at greater than the rate
+of interest, well the formula breaks down. It's still infinite. So that's why we get puzzled
+about the present situation. If the interest rate is 0 then
+consols don't even converge. How can that be? Doesn't the interest rate always
+have to be above the growth rate. How can anything,
+nothing can have an infinite price. Well, I guess the answer is short
+term interest rates have 0 but longer term interest rates
+are still positive so and the US doesn't have consols, but we have something analogous to consols,
+like land, for example. That lasts forever, as far as we know. You can rent it out or you can plant
+crops on it, as far as we know, forever. Maybe those crop, what about land? Aren't crop values rising through time? So that g is a positive number? And if interest rates are,
+they can't be 0, they have to be, bond rates have to be above
+0 otherwise assets that have growing payments would be
+worth an infinite amount. Now this is an annuity
+present discounted value. Now an annuity is like
+a consol except that it stops after a certain number of years. In a typical annuity,
+a typical annuity is a home mortgage. When you buy a house,
+the typical financing you'll get, is that you will pay now
+the compounding integral is monthly. They think it's not realistic
+to ask ordinary people to pay their mortgage every six months
+because it's too hard for them. They'd have to,
+they wouldn't remember to save and they wouldn't have enough
+money to pay after six months. So we gotta move to a monthly schedule for
+individuals. A typical and that's not,
+this is not compounding monthly. This is the present value
+of X dollars every year, starting in one year and
+then again in two years, then again in three years and
+the last payment is T years. This is different from the present
+value for a corporate bond, or for a coupon carrying bond because there's
+no principle repayment at the end. I'm talking about,
+I think I have another slide on mortgages. I'll come back to that. But I tell you realistically, these financial instruments are designed
+around human imperfections. People find it difficult
+to pay back a mortgage. And what they'll find
+especially difficult, is to pay a balloon payment at the,
+they call it a balloon payment. There used to be mortgages like this. You would borrow to buy your house, you
+would say, I'm going back to the 1920s. The house cost $10,000,
+typical house in the 1920s. You borrowed $9,000. You've got your own money to put up. The $9,000, then you pay back
+the money at a rate interest. And then, but at the end, you don't owe
+anything except the last monthly payment. So that's what an annuity is. This is a little history of thought,
+actually the Growing Consol Formula has been
+called the Gordon Rule according to Myron Gordon who was a professor of
+economics about a half century ago. But actually it goes
+back to Jacob Bernoulli, I learned that from Will Goetzmann and
+his co author Geert Rouwenhorst here. So it's an old formula
