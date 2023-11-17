@@ -1,0 +1,1011 @@
+1700127513505	geckodriver	INFO	Listening on 127.0.0.1:60211
+1700127514535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile09LM5N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700127530927	Marionette	INFO	Marionette enabled
+1700127531414	Marionette	INFO	Listening on port 60294
+Read port: 60294
+1700127531653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700127561075	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700127679934	geckodriver	INFO	Listening on 127.0.0.1:61026
+1700127680957	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileTUbkKw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700127681465	Marionette	INFO	Marionette enabled
+1700127681835	Marionette	INFO	Listening on port 61045
+Read port: 61045
+1700127682056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700127685268	Marionette	INFO	Stopped listening on port 60294
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700127711505	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700127761093	geckodriver	INFO	Listening on 127.0.0.1:61458
+1700127762117	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilelCJAXc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700127762611	Marionette	INFO	Marionette enabled
+1700127762906	Marionette	INFO	Listening on port 61477
+Read port: 61477
+1700127763113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700127766234	Marionette	INFO	Stopped listening on port 61045
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700127792894	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+console.error: "Unable to find target with innerWindowId:6442450967"
+console.error: "Unable to find target with innerWindowId:6442450967"
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700128567696	Marionette	INFO	Stopped listening on port 61477
+1700128577366	geckodriver	INFO	Listening on 127.0.0.1:65228
+1700128578390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileft1KDm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700128579108	Marionette	INFO	Marionette enabled
+1700128579382	Marionette	INFO	Listening on port 65243
+Read port: 65243
+1700128579566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700128609169	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700130672665	Marionette	INFO	Stopped listening on port 65243
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700130675184	geckodriver	INFO	Listening on 127.0.0.1:55089
+1700130676207	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileWd3gJk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700130677702	Marionette	INFO	Marionette enabled
+1700130678074	Marionette	INFO	Listening on port 55112
+Read port: 55112
+1700130678209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700130710738	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+1700132043223	geckodriver	INFO	Listening on 127.0.0.1:58607
+1700132044251	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileskhVAw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700132046005	Marionette	INFO	Marionette enabled
+1700132046515	Marionette	INFO	Listening on port 58638
+Read port: 58638
+1700132046674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700132050940	Marionette	INFO	Stopped listening on port 55112
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700132077951	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700132236346	geckodriver	INFO	Listening on 127.0.0.1:59547
+1700132237372	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileUu8vtV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700132237985	Marionette	INFO	Marionette enabled
+1700132238551	Marionette	INFO	Listening on port 59566
+Read port: 59566
+1700132238765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700132244245	Marionette	INFO	Stopped listening on port 58638
+1700132268071	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700132521360	Marionette	INFO	Stopped listening on port 59566
+1700132524457	geckodriver	INFO	Listening on 127.0.0.1:61052
+1700132525481	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilegxA5jU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700132526794	Marionette	INFO	Marionette enabled
+1700132527158	Marionette	INFO	Listening on port 61075
+Read port: 61075
+1700132527392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700132556826	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700132897583	geckodriver	INFO	Listening on 127.0.0.1:62794
+1700132898611	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileFrNLXR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700132899502	Marionette	INFO	Marionette enabled
+1700132900026	Marionette	INFO	Listening on port 62813
+Read port: 62813
+1700132900172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700132903514	Marionette	INFO	Stopped listening on port 61075
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700132929815	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700132982291	geckodriver	INFO	Listening on 127.0.0.1:63343
+1700132983326	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile8P1p8x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700132983850	Marionette	INFO	Marionette enabled
+1700132984132	Marionette	INFO	Listening on port 63358
+Read port: 63358
+1700132984305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+1700132988326	Marionette	INFO	Stopped listening on port 62813
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700133014703	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+1700133092197	Marionette	INFO	Stopped listening on port 63358
+1700133097250	geckodriver	INFO	Listening on 127.0.0.1:64018
+1700133098273	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileP5WYJN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700133098763	Marionette	INFO	Marionette enabled
+1700133098938	Marionette	INFO	Listening on port 64037
+Read port: 64037
+1700133099167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700133128888	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700176420420	geckodriver	INFO	Listening on 127.0.0.1:59096
+1700176421449	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile8nTq3D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700176423235	Marionette	INFO	Marionette enabled
+1700176423710	Marionette	INFO	Listening on port 59119
+Read port: 59119
+1700176423809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700176453318	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+1700176498297	Marionette	INFO	Stopped listening on port 59119
+1700177955176	geckodriver	INFO	Listening on 127.0.0.1:49464
+1700177956182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilej1Beo0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700177957409	Marionette	INFO	Marionette enabled
+1700177957791	Marionette	INFO	Listening on port 49494
+Read port: 49494
+1700177958032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700177988696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700178080698	geckodriver	INFO	Listening on 127.0.0.1:50151
+1700178081712	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileuKhj7f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700178082496	Marionette	INFO	Marionette enabled
+1700178082813	Marionette	INFO	Listening on port 50170
+Read port: 50170
+1700178082998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700178087077	Marionette	INFO	Stopped listening on port 49494
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700178112729	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+1700178301520	Marionette	INFO	Stopped listening on port 50170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+1700178350270	Marionette	INFO	Stopped listening on port 64037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1700178355107	geckodriver	INFO	Listening on 127.0.0.1:51502
+1700178356129	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileIRu7sp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700178356860	Marionette	INFO	Marionette enabled
+1700178357228	Marionette	INFO	Listening on port 51513
+Read port: 51513
+1700178357398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700178387183	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700178742776	Marionette	INFO	Stopped listening on port 51513
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700180031920	geckodriver	INFO	Listening on 127.0.0.1:56930
+1700180032936	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile75aoM8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180033746	Marionette	INFO	Marionette enabled
+1700180034157	Marionette	INFO	Listening on port 56949
+Read port: 56949
+1700180034301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700180063922	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56317
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700180180136	geckodriver	INFO	Listening on 127.0.0.1:57652
+1700180181162	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileLqGiwD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180181767	Marionette	INFO	Marionette enabled
+1700180181980	Marionette	INFO	Listening on port 57671
+Read port: 57671
+1700180182051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700180211987	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1700180481274	geckodriver	INFO	Listening on 127.0.0.1:59023
+1700180482297	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilexmWM72"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180482935	Marionette	INFO	Marionette enabled
+1700180483175	Marionette	INFO	Listening on port 59038
+Read port: 59038
+1700180483330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700180486554	Marionette	INFO	Stopped listening on port 57671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700180513101	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700180735537	geckodriver	INFO	Listening on 127.0.0.1:60179
+1700180736564	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileaC3zVC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180737953	Marionette	INFO	Marionette enabled
+1700180738370	Marionette	INFO	Listening on port 60202
+Read port: 60202
+1700180738622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700180741302	Marionette	INFO	Stopped listening on port 59038
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700180768095	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700180870626	Marionette	INFO	Stopped listening on port 60202
+1700180873669	geckodriver	INFO	Listening on 127.0.0.1:60886
+1700180874693	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileR9cihB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180875190	Marionette	INFO	Marionette enabled
+1700180875471	Marionette	INFO	Listening on port 60905
+Read port: 60905
+1700180875676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700180905340	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700180992552	geckodriver	INFO	Listening on 127.0.0.1:61491
+1700180993576	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileM1Cv6l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700180994104	Marionette	INFO	Marionette enabled
+1700180994298	Marionette	INFO	Listening on port 61510
+Read port: 61510
+1700180994544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700180997818	Marionette	INFO	Stopped listening on port 60905
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700181024188	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700181099096	geckodriver	INFO	Listening on 127.0.0.1:62056
+1700181100121	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile6iWxmJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700181100705	Marionette	INFO	Marionette enabled
+1700181101051	Marionette	INFO	Listening on port 62078
+Read port: 
+1700181101052	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 62078
+1700181101290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700181104360	Marionette	INFO	Stopped listening on port 61510
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700181131450	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700183897304	geckodriver	INFO	Listening on 127.0.0.1:50678
+1700183898326	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileJcqKfb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700183899996	Marionette	INFO	Marionette enabled
+1700183900435	Marionette	INFO	Listening on port 50701
+Read port: 50701
+1700183900730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700183930044	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700184032541	geckodriver	INFO	Listening on 127.0.0.1:51371
+1700184033569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile0dZr3G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700184034484	Marionette	INFO	Marionette enabled
+1700184034969	Marionette	INFO	Listening on port 51394
+Read port: 51394
+1700184035167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700184039174	Marionette	INFO	Stopped listening on port 62078
+1700184042444	Marionette	INFO	Stopped listening on port 50701
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700184065056	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700184610126	geckodriver	INFO	Listening on 127.0.0.1:53854
+1700184611150	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileOzEfYH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700184611905	Marionette	INFO	Marionette enabled
+1700184612297	Marionette	INFO	Listening on port 53873
+Read port: 53873
+1700184612558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700184643561	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700184799256	geckodriver	INFO	Listening on 127.0.0.1:54787
+1700184800279	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilesKufTW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700184801779	Marionette	INFO	Marionette enabled
+1700184802144	Marionette	INFO	Listening on port 54813
+Read port: 54813
+1700184802398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700184804214	Marionette	INFO	Stopped listening on port 51394
+1700184806995	Marionette	INFO	Stopped listening on port 53873
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700184831986	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700184941801	geckodriver	INFO	Listening on 127.0.0.1:55546
+1700184942826	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileuryE4b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700184943387	Marionette	INFO	Marionette enabled
+1700184943672	Marionette	INFO	Listening on port 55566
+Read port: 55566
+1700184943874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700184973441	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700185071848	Marionette	INFO	Stopped listening on port 54813
+1700185074740	Marionette	INFO	Stopped listening on port 55566
+1700185269583	geckodriver	INFO	Listening on 127.0.0.1:57020
+1700185270606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileSmwtry"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700185272191	Marionette	INFO	Marionette enabled
+1700185272537	Marionette	INFO	Listening on port 57043
+Read port: 57043
+1700185272777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700185302252	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700186871774	geckodriver	INFO	Listening on 127.0.0.1:63647
+1700186872800	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileDRdGGG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700186873902	Marionette	INFO	Marionette enabled
+1700186874342	Marionette	INFO	Listening on port 63666
+Read port: 63666
+1700186874438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700186903996	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700186921289	Marionette	INFO	Stopped listening on port 57043
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700187101503	geckodriver	INFO	Listening on 127.0.0.1:64706
+1700187102531	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofiledehudU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700187103335	Marionette	INFO	Marionette enabled
+1700187103743	Marionette	INFO	Listening on port 64725
+Read port: 64725
+1700187103832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700187105923	Marionette	INFO	Stopped listening on port 63666
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700187133443	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700187540440	geckodriver	INFO	Listening on 127.0.0.1:50229
+1700187541460	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileSI75X3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700187542282	Marionette	INFO	Marionette enabled
+1700187542781	Marionette	INFO	Listening on port 50248
+Read port: 50248
+1700187542977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+1700187572378	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700189346255	geckodriver	INFO	Listening on 127.0.0.1:55607
+1700189347279	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofile8T0yyG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700189348465	Marionette	INFO	Marionette enabled
+1700189348799	Marionette	INFO	Listening on port 55618
+Read port: 55618
+1700189348965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700189352236	Marionette	INFO	Stopped listening on port 50248
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700189379187	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700189470259	geckodriver	INFO	Listening on 127.0.0.1:55786
+1700189471284	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilekoIluN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700189471877	Marionette	INFO	Marionette enabled
+1700189472185	Marionette	INFO	Listening on port 55797
+Read port: 55797
+1700189472360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700189474896	Marionette	INFO	Stopped listening on port 55618
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700189501902	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700189635856	geckodriver	INFO	Listening on 127.0.0.1:55928
+1700189636879	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilefcM2Pu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700189637501	Marionette	INFO	Marionette enabled
+1700189637724	Marionette	INFO	Listening on port 55941
+Read port: 55941
+1700189637966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700189640551	Marionette	INFO	Stopped listening on port 55797
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700189667685	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+1700192432865	geckodriver	INFO	Listening on 127.0.0.1:56305
+1700192433879	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileqWnPm6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700192434440	Marionette	INFO	Marionette enabled
+1700192434642	Marionette	INFO	Listening on port 56316
+Read port: 56316
+1700192434855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700192438296	Marionette	INFO	Stopped listening on port 55941
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700192464531	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=11a8f0500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177ce300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26684, MediaDecoderStateMachine #1] WARNING: Decoder=1177cf200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700194457241	geckodriver	INFO	Listening on 127.0.0.1:56698
+1700194458264	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofileXHQJda"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700194459573	Marionette	INFO	Marionette enabled
+1700194459924	Marionette	INFO	Listening on port 56709
+Read port: 56709
+1700194460236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+1700194489848	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.091289f0b6b4c8cdbbf1.js, line 2: unreachable code after return statement
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11cabfd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118e94200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118e94200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118e94200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118e94200 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=118475000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a1db700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a1db700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=117d26100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=119327100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=119327100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d6a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=1193dff00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a127100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d4000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
