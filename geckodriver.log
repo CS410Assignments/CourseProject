@@ -1009,3 +1009,97 @@ JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/o
 [Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a128900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
 [Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11a127100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
 [Child 26957, MediaDecoderStateMachine #1] WARNING: Decoder=11b7d4000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.43.0/bundle.tracing.es5.min.js:2:56209
+
+1700197719100	Marionette	INFO	Stopped listening on port 56709
+1700282301441	geckodriver	INFO	Listening on 127.0.0.1:51098
+1700282302430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tw/dsz1bcq13jv3kfqhpry4gzb80000gn/T/rust_mozprofilevwP3Vf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700282304372	Marionette	INFO	Marionette enabled
+1700282304859	Marionette	INFO	Listening on port 51114
+Read port: 51114
+1700282305123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/front-page/8.fbc20739412558aeeb50.js, line 2: unreachable code after return statement
+1700282335095	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.coursera.org."
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/logged-in-home/0.04e1f07f3d9e768e7c6b.js, line 2: unreachable code after return statement
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mapixl.com/scripts/pixlv2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=116320900 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=116320900 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=116320900 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+JavaScript warning: https://d3njjcbhbojbot.cloudfront.net/webapps/r2-builds/br/ondemand/en.asyncCommonJS.6620ac81c5edf1fef492.js, line 2: unreachable code after return statement
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=115ba4700 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117110e00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=115bd6f00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c151c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c160d00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=117111400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c158a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e583800 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e583800 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e583800 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e583800 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4ba00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=115bd5a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=115bd5a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=115bd5a00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=10c159300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e52cd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e52cd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=12e52cd00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae48100 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4b400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4b400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 37216, MediaDecoderStateMachine #1] WARNING: Decoder=11ae4b400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166

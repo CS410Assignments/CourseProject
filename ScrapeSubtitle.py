@@ -87,7 +87,7 @@ def get_lecture_subtitles(lecture_url):
         text_content = ' '.join(phrase.get_text().strip() for phrase in phrases)
 
         # Append the subtitles to the list as a dictionary
-        subtitles.append({timestamp: text_content})
+        subtitles.append({'time': timestamp, 'text': text_content, 'url': lecture_url})
 
     # Print or process the subtitles
     # print(subtitles)
