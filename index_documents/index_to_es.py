@@ -5,10 +5,11 @@ import sys, os
 from datetime import datetime
 from elasticsearch import Elasticsearch
 
-ES_URL = os.environ.get("ES_URL", "https://cs410-project.es.us-central1.gcp.cloud.es.io")
+#ES_URL = os.environ.get("ES_URL", "https://cs410-project.es.us-central1.gcp.cloud.es.io")
+ES_URL = os.environ.get("ES_URL", "https://search-cs410-project-hw5dhpc4jsg3m74vnbalajt754.aos.us-east-1.on.aws")
 ES_USER = os.environ.get("ES_USER", "elastic")
-#ES_PASSWORD = os.environ.get("ES_PASSWORD", "CS410-project") ##"pciWclpLNdXuicUhXV8bhgk2")
-ES_PASSWORD = os.environ.get("ES_PASSWORD", "pciWclpLNdXuicUhXV8bhgk2")
+ES_PASSWORD = os.environ.get("ES_PASSWORD", "CS410-project")
+#ES_PASSWORD = os.environ.get("ES_PASSWORD", "pciWclpLNdXuicUhXV8bhgk2")
 
 
 

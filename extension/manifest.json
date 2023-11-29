@@ -5,6 +5,6 @@
     "manifest_version": 3,
     "action": {
       "default_popup": "index.html",
-      "default_icon": "CS410_Fall2023_CourseProject_TeamCAHJ.png"
+      "default_icon": "img/CS410_Fall2023_CourseProject_TeamCAHJ.png"
     }
   }
