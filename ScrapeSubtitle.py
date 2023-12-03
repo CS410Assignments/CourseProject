@@ -128,6 +128,7 @@ class CourseraWeekParser:
         subtitles = []
 
         # Find all div elements contain subtitles
+        # TODO: Take another look at this and see if XPATH is more accurate. Looks like this pattern isn't consistent across classes
         pattern = re.compile(r'\bcss-1shylkf\b')
         elements = soup.find_all('div', class_=pattern)
         if len(elements) == 0:
@@ -154,7 +155,8 @@ class CourseraWeekParser:
         # Take driver to specified URL
         self.driver.get(url)
         # Insert a sleep timer to avoid being flagged as a bot
-        time.sleep(2)
+        # TODO: Replace this with a wait call to make sure the required element loads correctly
+        time.sleep(4)
 
         # get the page source and parse the HTML content into a BeautifulSoup object
         parge_source = self.driver.page_source
