@@ -3,6 +3,7 @@ import time
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
+
 # from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
@@ -14,7 +15,6 @@ from selenium.common.exceptions import TimeoutException
 
 class CourseraScraper:
     def __init__(self, course_url: str, username: str, password: str) -> None:
-
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
         self.url = course_url
         self.username = username
@@ -65,7 +65,6 @@ class CourseraScraperLogin:
         input("Finalize CAPTCHA and then press Enter in the shell")
 
 
-
 class CourseraCourseParser:
     def __init__(self, driver: webdriver.Chrome) -> None:
         self.driver = driver
@@ -81,7 +80,7 @@ class CourseraCourseParser:
         self.landing_page = self.driver.current_url
         # Coursera defaults to saving the user's last accessed week, so need to get the true landing
         # page once it's been navigated to
-        self.landing_page = self.landing_page.split('week')[0]
+        self.landing_page = self.landing_page.split("week")[0]
 
         week_url_list = []
         if "https://www.coursera.org/learn/" in self.landing_page:
@@ -89,15 +88,15 @@ class CourseraCourseParser:
             week_list_xpath_pattern = "//*[@class='cds-108 css-1mxkpit cds-110']"
             # Need to make sure the element loads on the page before it can be scraped
             try:
-                myElem = WebDriverWait(self.driver, 2).until(EC.presence_of_element_located((By.XPATH, week_list_xpath_pattern)))
+                myElem = WebDriverWait(self.driver, 2).until(
+                    EC.presence_of_element_located((By.XPATH, week_list_xpath_pattern))
+                )
             except TimeoutException:
                 print("Loading took too much time!")
             # Get all elements from the sidebare containing links to the course's week lectures
-            week_elements = self.driver.find_elements(
-                By.XPATH,
-                week_list_xpath_pattern)
+            week_elements = self.driver.find_elements(By.XPATH, week_list_xpath_pattern)
 
-            for week_number in range(1, len(week_elements)+1):
+            for week_number in range(1, len(week_elements) + 1):
                 week_url_list.append(self.landing_page + f"week/{week_number}")
         else:
             self.get_week_urls()
@@ -117,9 +116,9 @@ class CourseraWeekParser:
         elements = soup.find_all("div", attrs={"data-test": "WeekSingleItemDisplay-lecture"})
 
         for element in elements:
-            a_tag = element.find('a')
-            if a_tag and 'href' in a_tag.attrs:
-                href_value = a_tag['href']
+            a_tag = element.find("a")
+            if a_tag and "href" in a_tag.attrs:
+                href_value = a_tag["href"]
                 lecture_urls.append("https://www.coursera.org" + href_value)
             else:
                 print("href attribute not found")
@@ -131,8 +130,8 @@ class CourseraWeekParser:
 
         # Find all div elements contain subtitles
         # TODO: Take another look at this and see if XPATH is more accurate. Looks like this pattern isn't consistent across classes
-        pattern = re.compile(r'\bcss-1shylkf\b')
-        elements = soup.find_all('div', class_=pattern)
+        pattern = re.compile(r"\bcss-1shylkf\b")
+        elements = soup.find_all("div", class_=pattern)
         if len(elements) == 0:
             print("No value retrieved")
         else:
@@ -140,15 +139,15 @@ class CourseraWeekParser:
 
         for element in elements:
             # Extract the timestamp
-            button = element.find('button', class_='timestamp')
+            button = element.find("button", class_="timestamp")
             timestamp = button.contents[-1].strip()
 
             # Extract all phrase elements and concatenate the text of all subtitles
-            phrases = element.find_all('div', class_='phrases')
-            text_content = ' '.join(phrase.get_text().strip() for phrase in phrases)
+            phrases = element.find_all("div", class_="phrases")
+            text_content = " ".join(phrase.get_text().strip() for phrase in phrases)
 
             # Append the subtitles to the list as a dictionary
-            subtitles.append({'time': timestamp, 'text': text_content, 'url': lecture_url})
+            subtitles.append({"time": timestamp, "text": text_content, "url": lecture_url})
 
         # Process the subtitles
         return subtitles
@@ -162,6 +161,6 @@ class CourseraWeekParser:
 
         # get the page source and parse the HTML content into a BeautifulSoup object
         parge_source = self.driver.page_source
-        soup = BeautifulSoup(parge_source, 'html.parser')
+        soup = BeautifulSoup(parge_source, "html.parser")
 
         return soup
