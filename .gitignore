@@ -6,3 +6,5 @@ node_modules
 *.DS_Store
 *.iml
 *.json
+*.log
+*.csv
