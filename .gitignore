@@ -5,3 +5,4 @@ node_modules
 *.docx
 *.DS_Store
 *.iml
+*.json

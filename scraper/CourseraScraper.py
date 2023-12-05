@@ -1,4 +1,3 @@
-import json
 import re
 import time
 
@@ -14,13 +13,16 @@ from selenium.common.exceptions import TimeoutException
 
 
 class CourseraScraper:
-    def __init__(self) -> None:
+    def __init__(self, course_url: str, username: str, password: str) -> None:
 
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-        self.coursera_url = "https://www.coursera.org"
+        self.url = course_url
+        self.username = username
+        self.password = password
         self.course_transcript_for_json = {}
         # Login to Coursera to allow scraper to parse pages
-        CourseraScraperLogin(self.driver).login()
+        CourseraScraperLogin(self.driver, self.username, self.password).login()
+        self.driver.get(self.url)
 
     def run_scraper(self):
         # Parse course to get list of urls for each week to scrape
@@ -42,40 +44,40 @@ class CourseraScraper:
                 lecture_subtitles = week_parser.get_lecture_subtitles(lecture_url)
                 week_transcripts.append({lecture_title: lecture_subtitles})
 
-            print('*'*50)
-            print(week_str)
-            print(week_transcripts)
-            print('*'*50)
-
             course_transcripts.append({week_str: week_transcripts})
 
         self.course_transcript_for_json[course_name] = course_transcripts
 
 
 class CourseraScraperLogin:
-    def __init__(self, driver: webdriver.Chrome) -> None:
+    def __init__(self, driver: webdriver.Chrome, email: str, password: str) -> None:
         self.driver = driver
         self.url = "https://www.coursera.org"
+        self.login_email = email
+        self.login_password = password
 
     def login(self) -> None:
         login_url = self.url + "/?authMode=login"
         self.driver.get(login_url)
+        self.driver.find_element("id", "email").send_keys(self.login_email)
+        self.driver.find_element("id", "password").send_keys(self.login_password)
+        self.driver.find_element("xpath", "//button[@type='submit']").click()
+        input("Finalize CAPTCHA and then press Enter in the shell")
+
 
 
 class CourseraCourseParser:
     def __init__(self, driver: webdriver.Chrome) -> None:
         self.driver = driver
-        self.prompt = "Navigate to the home page for the course you wish to scrape and press enter"
-        self.parse_course()
-
-    def parse_course(self):
-        # TODO: Automatically parse course name
-        self.course_name = "TODO"
+        self.course_name = self.parse_course_name()
         self.get_week_urls()
+
+    def parse_course_name(self) -> str:
+        # TODO: Automatically parse course name
+        return "TODO"
 
     def get_week_urls(self) -> None:
         """Initialize the URLs for each week of the course"""
-        input(self.prompt)
         self.landing_page = self.driver.current_url
         # Coursera defaults to saving the user's last accessed week, so need to get the true landing
         # page once it's been navigated to
@@ -163,13 +165,3 @@ class CourseraWeekParser:
         soup = BeautifulSoup(parge_source, 'html.parser')
 
         return soup
-
-
-if __name__ == "__main__":
-    scraper = CourseraScraper()
-    scraper.run_scraper()
-    print(scraper.course_transcript_for_json)
-
-    # Writing a JSON file
-    with open('subtitles.json', 'w') as json_file:
-        json.dump(scraper.course_transcript_for_json, json_file, indent=4)
