@@ -1,5 +1,7 @@
+__pycache__/*
 .idea
 .idea/*
-*.iml
 node_modules
+*.docx
 *.DS_Store
+*.iml
