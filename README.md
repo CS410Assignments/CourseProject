@@ -25,12 +25,12 @@ A step-by-step guide for the above is below.:
 2. Install the appropriate ChromeDriver for your computer's enviornment from [this linke](https://googlechromelabs.github.io/chrome-for-testing/#stable), unzip it, and move the `Google Chrome for Testing` application to the `CS410__Fall2023_CourseProject_TeamCAHJ` directory created in Step 1, above.
 3. Open Google Chrome.
 4. Go to the Extensions page on Google Chrome by following [this link](chrome://extensions).
-5. Activate Developer Mode by toggling the switch in the upper right corner labeled `Developer mode`.
-![Screenshot of Devloper Mode toggle](/Documentation/README_images/Chrome%20Developer%20Mode.png)
-6. Load the extension from the codebase pulled to your computer in Step 1 by clicking the `Load unpacked` button in the top left corner:
-![Screenshot of load unpacked button](/Documentation/README_images/Chrome%20Load%20Unpacked.png)
-7. Select the `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/extension` directory in the popup and click `Select`
-![Screenshot of load unpacked button](/Documentation/README_images/Chrome%20Extension%20Directory.png)
+5. Activate Developer Mode by toggling the switch in the upper right corner labeled `Developer mode`. <br>
+![Screenshot of Devloper Mode toggle](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Developer%20Mode.png)
+6. Load the extension from the codebase pulled to your computer in Step 1 by clicking the `Load unpacked` button in the top left corner: <br>
+![Screenshot of load unpacked button](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Load%20Unpacked.png)
+7. Select the `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/ChromeExtension` directory in the popup and click `Select` <br>
+![Screenshot of load unpacked button](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Extension%20Directory.png)
 8. The extension should now be available to you in your Google Chrome Extensions list.
 
 ## Usage Instructions
