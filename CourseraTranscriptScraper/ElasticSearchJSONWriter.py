@@ -25,10 +25,13 @@ class ElasticSearchJSONWriter:
 
     def index_subtitles(self) -> None:
         for weeks in self.subtitles_json["Text Mining and Analytics"]:
+            week_val = list(weeks.keys())[0]
             for week in weeks.values():
                 for lecture_titles in week:
                     for lecture_title in lecture_titles:
                         for subtitles in lecture_titles[lecture_title]:
+                            subtitles['lecture_title'] = lecture_title
+                            subtitles['week'] = week_val
                             self.write_to_elasticsearch(subtitles)
 
     def write_to_elasticsearch(self, doc) -> None:
