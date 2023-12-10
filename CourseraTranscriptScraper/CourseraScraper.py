@@ -1,6 +1,4 @@
 import re
-import time
-
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
@@ -27,7 +25,7 @@ class CourseraScraper:
         course_transcripts = []
 
         course_parser = CourseraCourseParser(self.driver)
-        course_name = course_parser.course_name
+        self.course_name = course_parser.course_name
 
         # Parse each week url to get list of lecture URLs to scrape
         for week_url in course_parser.week_urls:
@@ -44,7 +42,7 @@ class CourseraScraper:
 
             course_transcripts.append({week_str: week_transcripts})
 
-        self.course_transcript_for_json[course_name] = course_transcripts
+        self.course_transcript_for_json[self.course_name] = course_transcripts
 
 
 class CourseraScraperLogin:
@@ -88,7 +86,7 @@ class CourseraCourseParser:
             week_list_xpath_pattern = "//*[@class='cds-108 css-1mxkpit cds-110']"
             # Need to make sure the element loads on the page before it can be scraped
             try:
-                myElem = WebDriverWait(self.driver, 2).until(
+                _ = WebDriverWait(self.driver, 2).until(
                     EC.presence_of_element_located((By.XPATH, week_list_xpath_pattern))
                 )
             except TimeoutException:
@@ -154,8 +152,14 @@ class CourseraWeekParser:
     def get_page_soup(self, url: str) -> BeautifulSoup:
         # Take driver to specified URL
         self.driver.get(url)
-        # Insert a sleep timer to avoid being flagged as a bot
-        time.sleep(4)
+        # Need to make sure the element loads on the page before it can be scraped
+        try:
+            transcript_xpath = "//*[@class='phrases']"
+            _ = WebDriverWait(self.driver, 2).until(
+                EC.presence_of_element_located((By.XPATH, transcript_xpath))
+            )
+        except TimeoutException:
+            print("Loading took too much time!")
 
         # get the page source and parse the HTML content into a BeautifulSoup object
         parge_source = self.driver.page_source

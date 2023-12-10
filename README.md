@@ -21,7 +21,6 @@ A step-by-step guide for the above is below.:
  cd desiredDirectory
  git clone https://github.com/christianopperman/CS410_Fall2023_CourseProject_TeamCAHJ.git
  ```
-
 2. Install the appropriate ChromeDriver for your computer's enviornment from [this linke](https://googlechromelabs.github.io/chrome-for-testing/#stable), unzip it, and move the `Google Chrome for Testing` application to the `CS410__Fall2023_CourseProject_TeamCAHJ` directory created in Step 1, above.
 3. Open Google Chrome.
 4. Go to the Extensions page on Google Chrome by following [this link](chrome://extensions).
@@ -34,3 +33,30 @@ A step-by-step guide for the above is below.:
 8. The extension should now be available to you in your Google Chrome Extensions list.
 
 ## Usage Instructions
+
+### <u>Coursera Transcript Scraper</u>
+As mentioned in [Requirements](#requirements) above, in order to scrape your own Coursera course transcripts into the extension, you will need a working version of Python that satisfies the required packages outlined in the `CourseraTranscriptScraper\requirements.txt` file.
+Once you have that, scraping a new course into ElasticSearch is very easy:
+1. Navigate to `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/CourseraTranscriptScraper` in your shell
+2. Call the course scraper script with, with the following command line arguments:
+```
+python scrape_coursera_course.py -c "course_url" -u "coursera_username" -p "coursera_password" [-e]
+```
+* Required Arguments
+    * -c : The link to the landing page of the Coursera course you'd like to scrape
+    * -u : The username to your Coursera account which has access to the course you'd like to scrape
+    * -p : The password to your Coursera account which has access to the course you'd like to scrape
+
+* Optional Arguments:
+    * -e : A boolean flag. If included, the script will automatically push the scraped course transcriptions to ElasticSearch after saving them to disk. If not included, the transcriptions will be saved to disk but not pushed to ElasticSearch.
+    * -o : The output path to write the transcriptions to, if you would like to save the transcriptions to a specific filename.
+
+3. Once you run the above command, a window will pop up and automatically log you into Coursera. It is likely that you will be required to complete a CAPTCHA.
+4. Once you complete the CAPTCHA, return to your shell and press Enter, as prompted.
+![Screenshot of running the Coursera course scraper from the command line](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_LoginPostCaptcha.png)
+5. The script will begin scraping, as evidenced by the pop-up window navigating between video pages in the course and the `Retrieved` messages in the shell window.
+![Screenshot of running the Coursera course scraper from the command line](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_SuccessfulScrapes.png)
+6. The script will write any scraped transcriptions to the filepath specified by the `-o` command line argument, if present, and to `subtitles.json` if not.
+7. If the `-e` flag was passed to the script, the script will automatically push the scraped course's transcriptions to ElasticSearch.
+
+### <u>Chrome Extension</u>
