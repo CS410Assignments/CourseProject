@@ -3,8 +3,6 @@ import time
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
-
-# from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -72,8 +70,10 @@ class CourseraCourseParser:
         self.get_week_urls()
 
     def parse_course_name(self) -> str:
-        # TODO: Automatically parse course name
-        return "TODO"
+        title_xpath = "//*[@class='cds-108 cds-Typography-base css-e7lgfl cds-110']"
+        title_elements = self.driver.find_elements(By.XPATH, title_xpath)
+        title = title_elements[0].text
+        return title
 
     def get_week_urls(self) -> None:
         """Initialize the URLs for each week of the course"""
@@ -129,7 +129,6 @@ class CourseraWeekParser:
         subtitles = []
 
         # Find all div elements contain subtitles
-        # TODO: Take another look at this and see if XPATH is more accurate. Looks like this pattern isn't consistent across classes
         pattern = re.compile(r"\bcss-1shylkf\b")
         elements = soup.find_all("div", class_=pattern)
         if len(elements) == 0:
@@ -156,7 +155,6 @@ class CourseraWeekParser:
         # Take driver to specified URL
         self.driver.get(url)
         # Insert a sleep timer to avoid being flagged as a bot
-        # TODO: Replace this with a wait call to make sure the required element loads correctly
         time.sleep(4)
 
         # get the page source and parse the HTML content into a BeautifulSoup object

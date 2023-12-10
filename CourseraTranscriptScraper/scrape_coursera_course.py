@@ -21,7 +21,7 @@ if __name__ == "__main__":
         "--output_path",
         type=str,
         default="./subtitles.json",
-        help="Path to write JSON file containing scraped transcripts to. Defaults to subtitles.json in this directory",
+        help="Path to write JSON file containing scraped transcripts to",
     )
     args = parser.parse_args()
 
