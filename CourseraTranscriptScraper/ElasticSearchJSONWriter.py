@@ -13,10 +13,10 @@ class ElasticSearchJSONWriter:
 
     def __init__(self, json_path: str = "./subtitles.json"):
         self.url = os.environ.get(
-            "ES_URL", "https://search-cs410-project-hw5dhpc4jsg3m74vnbalajt754.aos.us-east-1.on.aws"
+            "ES_URL", "https://ac55987c83844faa90726d4e5efe92b9.us-central1.gcp.cloud.es.io"
         )
         self.user = os.environ.get("ES_USER", "elastic")
-        self.password = os.environ.get("ES_PASSWORD", "CS410-project")
+        self.password = os.environ.get("ES_PASSWORD", "pciWclpLNdXuicUhXV8bhgk2")
         self.json_path = json_path
         self.subtitles_json = self.load_json()
 
