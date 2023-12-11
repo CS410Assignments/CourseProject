@@ -71,7 +71,7 @@ async function search_api() {
         body: JSON.stringify(query_payload)
     };
 
-    const response = await fetch("https://ac55987c83844faa90726d4e5efe92b9.us-central1.gcp.cloud.es.io/subtitles_4/_search", requestOptions)
+    const response = await fetch("https://ac55987c83844faa90726d4e5efe92b9.us-central1.gcp.cloud.es.io/subtitles/_search", requestOptions)
     const record = await response.json()
     // console.log("record ", record)
     if(record.hits.total.value > 0) {
