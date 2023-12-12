@@ -4,43 +4,42 @@ import openai
 import os
 from langchain.document_loaders import JSONLoader
 from langchain.text_splitter import (
-    MarkdownHeaderTextSplitter,
     RecursiveCharacterTextSplitter,
 )
-from langchain import Query
-
 
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv()) # read local .env file
-openai.api_key = os.environ[""]
-
 loader = JSONLoader(
     file_path='./chat_subtitles.json',
-    jq_schema='.introduction-to-text-mining-and-analytics[].content',
+    jq_schema='.filler[].text',
     text_content=False)
 
 docs = loader.load()
+r_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=150,
+    chunk_overlap=0,
+    separators=["\n\n", "\n", "\. ", " ", ""]
+)
 trans_docs = r_splitter.split_documents(docs)
 
 # print(trans_docs)
-
+from langchain.vectorstores.chroma import Chroma
 from langchain.embeddings.openai import OpenAIEmbeddings
-import pinecone
-from langchain.retrievers.self_query.base import SelfQueryRetriever
-
+persist_directory = 'docs/chroma/'
+embedding = OpenAIEmbeddings()
+vectordb = Chroma(
+    persist_directory=persist_directory,
+    embedding_function=embedding
+)
+vectordb.add_documents(docs)
 
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 
 llm = ChatOpenAI(model="gpt-4-1106-preview", temperature=0)
 
-# qa_chain = RetrievalQA.from_chain_type(llm, retriever=retriever)
+qa_chain = RetrievalQA.from_chain_type(llm, retriever=vectordb.as_retriever())
 while True:
     question = input()
-    docs = retriever.get_relevant_documents(question)
-    for d in docs:
-        print(d.metadata)
-    # print(len(docs))
-    # print(docs)
-    # result = qa_chain({"query": question})
-    # print(result["result"])
+    result = qa_chain({"query": question})
+    print(result["result"])
