@@ -167,7 +167,7 @@ function remove_all_children(element) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-    const parent = document.querySelector('.result__container');
+    const parent = document.querySelector('.result__container--transcript');
 
     parent.addEventListener('click', function (event) {
         // Check if the clicked element or its parent has the class 'container'
