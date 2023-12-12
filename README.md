@@ -1,8 +1,7 @@
 # CS410 CourseProject (Team CAHJ) - Coursera Search with ChatGPT Extension
 
 ## Project Overview
-
-
+Under construction
 
 ## Requirements
 This project is fairly straightforward with regards to requirements on the user's machine, but there are a few baselines that are required to be hit:
@@ -36,6 +35,8 @@ A step-by-step guide for the above is below.:
 
 ### <u>Chrome Extension</u>
 
+Under construction
+
 ### <u>Coursera Transcript Scraper</u>
 As mentioned in [Requirements](#requirements) above, in order to scrape your own Coursera course transcripts into the extension, you will need a working version of Python that satisfies the required packages outlined in the `CourseraTranscriptScraper\requirements.txt` file.
 Once you have that, scraping a new course into ElasticSearch is very easy:
@@ -60,5 +61,10 @@ python scrape_coursera_course.py -c "course_url" -u "coursera_username" -p "cour
 6. The script will write any scraped transcriptions to the filepath `subtitles_cs###.json`, where `###` is the three digit course code of the class you are scraping.
 7. If the `-e` flag was passed to the script, the script will automatically push the scraped course's transcriptions to ElasticSearch.
 8. Once the script is finished, you will see a success message, and the web driver window will automatically exit.
+![Screenshot of Coursera course scraper successfully pushing subtitles to ElasticSearch](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_SuccessfulESPush.png)
+
+#### <u>Note</u>
+Please be careful not to scrape too many courses at once. Coursera may block you if you issue too many requests to it in too short a time frame. As such, we recommend that you only scrape one course at a time.
 
 ### <u>ChatGPT Integration</u>
+Under construction
