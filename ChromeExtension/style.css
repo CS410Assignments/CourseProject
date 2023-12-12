@@ -34,20 +34,6 @@ body {
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 
-.result__tabs {
-  display: flex;
-  /* box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2); */
-  border-bottom: 1px solid rgb(225, 225, 225);
-}
-
-.result__tab--button {
-  flex: 1;
-  text-align: center;
-  height: 30px;
-  border: none;
-  background-color: white;
-}
-
 .result__container--transcript {
   flex-grow: 1;
   background: rgb(245,245,245);
@@ -106,13 +92,6 @@ body {
   overflow: hidden;
   position: relative; 
 }
-
-/* .result__item p::after {
-  content: '...';
-  position: absolute;
-  bottom: 0;
-  right: 0;
-} */
 
 .footer__input {
   display: flex;
