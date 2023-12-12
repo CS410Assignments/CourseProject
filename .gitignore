@@ -7,5 +7,5 @@ node_modules
 *.iml
 *.log
 *.csv
-*.pyc
+*.pyc 
 */subtitles.json
