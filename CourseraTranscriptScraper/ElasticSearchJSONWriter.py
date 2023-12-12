@@ -41,6 +41,7 @@ class ElasticSearchJSONWriter:
                         for subtitles in lecture_titles[lecture_title]:
                             subtitles["lecture_title"] = lecture_title
                             subtitles["week"] = week_val
+                            subtitles['course_name'] = course_name
                             self.write_to_elasticsearch(subtitles)
         print(f"Successfully indexed subtitles for {course_name}")
 
