@@ -92,6 +92,7 @@ async function search_api() {
             result_dict["url"] = result.url
             result_dict["time"] = result.time
             result_dict["subtitles"] = result.text
+            result_dict["course_name"] = result.course_name
             set_result_format(result_dict)
         }
     } else {
