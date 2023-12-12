@@ -1,5 +1,5 @@
 const search_btn = document.getElementById("submit-button");
-const result_container = document.querySelector('#result-container')
+const result_container = document.querySelector('#result-container-transcript')
 
 search_btn.addEventListener('click', function () {
     if (result_container.childElementCount > 0) {
@@ -87,7 +87,7 @@ async function search_api() {
                  + '<strong> Subtitles </strong> : '+result.text
                  + '</br>'
             console.log("Resoponse :: ", response_str)
-            result_dict["week"] = result.week
+            result_dict["week"] = "Week " + result.week.slice(-1)
             result_dict["lecture_title"] = result.lecture_title
             result_dict["url"] = result.url
             result_dict["time"] = result.time
@@ -107,22 +107,27 @@ function set_result_format(result_dict) {
 
     // Initiate html components
     const result_item = document.createElement('div')
+    const result_first_row = document.createElement('div')
     const result_second_row = document.createElement('div')
     const result_url = document.createElement('a')
     const result_week = document.createElement('h4')
+    const result_course_name = document.createElement('h4')
     const result_time = document.createElement('h4')
     const result_lecture_title = document.createElement('h4')
     const result_subtitles = document.createElement('p')
 
     // Set up class/ id for some components
     result_item.classList.add("result__item")
+    result_first_row.classList.add("result__first--row")
     result_second_row.classList.add("result__second--row")
+    result_course_name.classList.add("result__course--name")
     result_time.classList.add("timestamp")
     result_url.classList.add("lecture__url")
 
     // Set the content of components
     result_url.href = result_dict["url"]
     result_week.innerHTML = result_dict["week"]
+    result_course_name.innerHTML = result_dict["course_name"]
     time_reformat = format_time(result_dict["time"])
     result_time.innerHTML = time_reformat
     result_lecture_title.innerHTML = result_dict["lecture_title"]
@@ -130,7 +135,9 @@ function set_result_format(result_dict) {
 
     // Organize html component structure
     result_item.appendChild(result_url)
-    result_item.appendChild(result_week)
+    result_item.appendChild(result_first_row)
+    result_first_row.append(result_week)
+    result_first_row.append(result_course_name)
     result_item.appendChild(result_second_row)
     result_second_row.appendChild(result_time)
     result_second_row.appendChild(result_lecture_title)

@@ -26,28 +26,28 @@ body {
 .header__course {
   display: flex;
   align-items: center;
+  color:rgba(50, 50, 50, 100);
   background: white;
-  border-bottom: 1px solid rgb(225, 225, 225);
-  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 10px 0 rgba(0, 0, 0, 0.19);
-  height: 60px;
+  height: 50px;
   margin: 0;
   padding: 10px;
 }
 
-
-#course-options {
-  border: none;
-  background-color: transparent;
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: rgb(55, 55, 55);
-  flex-grow: 1;
-  word-wrap: break-word; 
-  overflow: hidden;
-  max-height: 1.5em; 
+.result__tabs {
+  display: flex;
+  /* box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2); */
+  border-bottom: 1px solid rgb(225, 225, 225);
 }
 
-.result__container {
+.result__tab--button {
+  flex: 1;
+  text-align: center;
+  height: 30px;
+  border: none;
+  background-color: white;
+}
+
+.result__container--transcript {
   flex-grow: 1;
   background: rgb(245,245,245);
   overflow-y: auto;
@@ -55,8 +55,10 @@ body {
   padding: 15px;
 }
 
-.result__container .result__item:hover {
+
+.result__container--transcript .result__item:hover {
     cursor: pointer;
+    background-color: rgb(236, 239, 243);
 }
 
 .result__item {
@@ -77,9 +79,18 @@ body {
   max-height: 1.5em; 
 }
 
+.result__first--row {
+  display: flex;
+  flex-direction: row;
+}
+
 .result__second--row {
   display: flex;
   flex-direction: row;
+}
+
+.result__course--name { 
+  padding-left: 8px;
 }
 
 .timestamp {
