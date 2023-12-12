@@ -42,6 +42,7 @@ class ElasticSearchJSONWriter:
                             subtitles["lecture_title"] = lecture_title
                             subtitles["week"] = week_val
                             self.write_to_elasticsearch(subtitles)
+        print(f"Successfully indexed subtitles for {course_name}")
 
     def write_to_elasticsearch(self, doc) -> None:
         es = Elasticsearch(self.url, http_auth=(self.user, self.password))
