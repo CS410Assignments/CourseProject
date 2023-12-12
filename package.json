@@ -1,0 +1,8 @@
+{
+  "name": "CS410_Fall2023_CourseProject_TeamCAHJ",
+  "version": "1.0.0",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.10.0",
+    "elasticsearch": "^16.7.3"
+  }
+}

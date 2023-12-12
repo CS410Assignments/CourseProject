@@ -1,0 +1,11 @@
+__pycache__/*
+.idea
+.idea/*
+node_modules
+*.docx
+*.DS_Store
+*.iml
+*.log
+*.csv
+*.pyc
+*/subtitles.json
