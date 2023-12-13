@@ -18,6 +18,8 @@ The ChatGPT Integration, also written in Python, uses the `langchain` module to 
 
 The Chrome Extension UI is written in HTML and CSS, while the functionality uses JavaScript.
 
+![Workflow Diagram for Project](./Documentation/README_images/WorkflowDiagram.png)
+
 
 ### <u>Project Requirements</u>
 This project is fairly straightforward with regards to requirements on the user's machine, but there are a few baselines that are required to be hit:
