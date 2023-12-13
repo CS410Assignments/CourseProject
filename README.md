@@ -7,7 +7,7 @@ For our project, we wanted to solve two problems: 1) the difficulty of searching
 Essentialy, our project provides a way for UIUC students using the Coursera platform for their degree to find concepts in their video lectures without having to tediously scroll through each video in a course and use their browser's search function to find a term. Often, a class can have many weeks of content, and each week can have many videos. If you know there's a video that you want to re-watch in order to study a concept, but can't remember in which video (or even which week!) that concept can be found, this project will hopefully make your life a lot easier! In addition, the ChatGPT module is a queryable script trained on the Coursera video transcripts that power the Chrome Extension, allowing students to query a specialized verison of ChatGPT about their course content.
 
 ### <u>Project Workflow</u>
-Overall, the project is quite simple. It consists of three parts:
+Overall, the project consists of three parts:
 1. Coursera Course Transcript Scraper
 2. ChatGPT Integration
 3. Coursera Search Chrome Extension
@@ -96,3 +96,7 @@ Please be careful not to scrape too many courses at once. Coursera may block you
 
 ### <u>ChatGPT Integration</u>
 Under construction
+
+## Future Improvements
+
+While we didn't have enough time to figure this out, we would have really liked to integrate the two Python components (Coursera Course Transcript Scraper and ChatGPT Integration) into the Chrome Extension as well. As far as we could tell, triggering a local Python script from a Chrome extension is non-trivial (if possible at all), and we had neither the time nor the funds to host the scripts on the cloud for this project. However, we would have loved to have multiple tabs on our Chrome extension, one with an entry point for scraping course transcripts (that could run in the background) and one with a text-entry field that would allow you to query the ChatGPT integration directly from Chrome.
