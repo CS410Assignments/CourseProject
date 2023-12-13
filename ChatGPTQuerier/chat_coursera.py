@@ -1,13 +1,15 @@
-#! /usr/bin/env python3
-
 import openai
 import os
+from langchain.chains import RetrievalQA
+from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import JSONLoader
-from langchain.text_splitter import (
-    RecursiveCharacterTextSplitter,
-)
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.vectorstores.chroma import Chroma
 
 from dotenv import load_dotenv, find_dotenv
+
+
 _ = load_dotenv(find_dotenv()) # read local .env file
 loader = JSONLoader(
     file_path='./chat_subtitles.json',
@@ -23,8 +25,7 @@ r_splitter = RecursiveCharacterTextSplitter(
 trans_docs = r_splitter.split_documents(docs)
 
 # print(trans_docs)
-from langchain.vectorstores.chroma import Chroma
-from langchain.embeddings.openai import OpenAIEmbeddings
+
 persist_directory = 'docs/chroma/'
 embedding = OpenAIEmbeddings()
 vectordb = Chroma(
@@ -33,8 +34,6 @@ vectordb = Chroma(
 )
 vectordb.add_documents(docs)
 
-from langchain.chat_models import ChatOpenAI
-from langchain.chains import RetrievalQA
 
 llm = ChatOpenAI(model="gpt-4-1106-preview", temperature=0)
 
