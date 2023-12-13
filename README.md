@@ -42,15 +42,15 @@ A step-by-step guide for the above is below.:
 4. Go to the Extensions page on Google Chrome by following [this link](chrome://extensions).
 5. Activate Developer Mode by toggling the switch in the upper right corner labeled `Developer mode`. <br>
 
-![Screenshot of Devloper Mode toggle](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Developer%20Mode.png)
+![Screenshot of Devloper Mode toggle](./Documentation/README_images/Chrome%20Developer%20Mode.png)
 
 6. Load the extension from the codebase pulled to your computer in Step 1 by clicking the `Load unpacked` button in the top left corner: <br>
 
-![Screenshot of load unpacked button](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Load%20Unpacked.png)
+![Screenshot of load unpacked button](./Documentation/README_images/Chrome%20Load%20Unpacked.png)
 
 7. Select the `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/ChromeExtension` directory in the popup and click `Select` <br>
 
-![Screenshot of load unpacked button](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/Chrome%20Extension%20Directory.png)
+![Screenshot of load unpacked button](./Documentation/README_images/Chrome%20Extension%20Directory.png)
 
 8. The extension should now be available to you in your Google Chrome Extensions list.
 
@@ -79,17 +79,17 @@ python scrape_coursera_course.py -c "course_url" -u "coursera_username" -p "cour
 3. Once you run the above command, a window will pop up and automatically log you into Coursera. It is likely that you will be required to complete a CAPTCHA.
 4. Once you complete the CAPTCHA, return to your shell and press Enter, as prompted.
 
-![Screenshot of running the Coursera course scraper from the command line](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_LoginPostCaptcha.png)
+![Screenshot of running the Coursera course scraper from the command line](./Documentation/README_images/CourseraScraper_LoginPostCaptcha.png)
 
 5. The script will begin scraping, as evidenced by the pop-up window navigating between video pages in the course and the `Retrieved` messages in the shell window.
 
-![Screenshot of running the Coursera course scraper from the command line](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_SuccessfulScrapes.png)
+![Screenshot of running the Coursera course scraper from the command line](./Documentation/README_images/CourseraScraper_SuccessfulScrapes.png)
 
 6. The script will write any scraped transcriptions to the filepath `subtitles_cs###.json`, where `###` is the three digit course code of the class you are scraping.
 7. If the `-e` flag was passed to the script, the script will automatically push the scraped course's transcriptions to ElasticSearch.
 8. Once the script is finished, you will see a success message, and the web driver window will automatically exit.
 
-![Screenshot of Coursera course scraper successfully pushing subtitles to ElasticSearch](/project/CS410_Fall2023_CourseProject_TeamCAHJ/Documentation/README_images/CourseraScraper_SuccessfulESPush.png)
+![Screenshot of Coursera course scraper successfully pushing subtitles to ElasticSearch](./Documentation/README_images/CourseraScraper_SuccessfulESPush.png)
 
 #### <u>Note</u>
 Please be careful not to scrape too many courses at once. Coursera may block you if you issue too many requests to it in too short a time frame. As such, we recommend that you only scrape one course at a time.
