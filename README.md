@@ -44,15 +44,15 @@ A step-by-step guide for the above is below.:
 4. Go to the Extensions page on Google Chrome by following [this link](chrome://extensions).
 5. Activate Developer Mode by toggling the switch in the upper right corner labeled `Developer mode`. <br>
 
-![Screenshot of Devloper Mode toggle](./Documentation/README_images/Chrome%20Developer%20Mode.png)
+[<img src = "./Documentation/README_images/Chrome%20Developer%20Mode.png" width="1000">](./Documentation/README_images/Chrome%20Developer%20Mode.png)
 
 6. Load the extension from the codebase pulled to your computer in Step 1 by clicking the `Load unpacked` button in the top left corner: <br>
 
-![Screenshot of load unpacked button](./Documentation/README_images/Chrome%20Load%20Unpacked.png)
+[<img src = "./Documentation/README_images/Chrome%20Load%20Unpacked.png" width="1000">](./Documentation/README_images/Chrome%20Load%20Unpacked.png)
 
 7. Select the `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/ChromeExtension` directory in the popup and click `Select` <br>
 
-![Screenshot of load unpacked button](./Documentation/README_images/Chrome%20Extension%20Directory.png)
+[<img src = "./Documentation/README_images/Chrome%20Extension%20Directory.png" width="1000">](./Documentation/README_images/Chrome%20Extension%20Directory.png)
 
 8. The extension should now be available to you in your Google Chrome Extensions list.
 
@@ -60,7 +60,18 @@ A step-by-step guide for the above is below.:
 
 ### <u>Chrome Extension</u>
 
-Under construction
+Once installed, the Chrome Extension can be used from any page on Chrome with the following steps:
+1. Open the extension from Google Chrome's Extension menu, located to the right of the URL bar.
+
+[<img src = "./Documentation/README_images/ChromeExtension_Activation.png" width="750">](./Documentation/README_images/ChromeExtension_Activation.png)
+
+2. Enter your desired search term in the search field and hit `Submit`.
+
+[<img src = "./Documentation/README_images/ChromeExtension_Query.png" width="750">](./Documentation/README_images/ChromeExtension_Query.png)
+
+3. See the results. Each result is a link that will take you to the Coursera video page that is linked.
+
+[<img src = "./Documentation/README_images/ChromeExtension_Results.png" width="750">](./Documentation/README_images/ChromeExtension_Results.png)
 
 ### <u>Coursera Transcript Scraper</u>
 As mentioned in [Requirements](#requirements) above, in order to scrape your own Coursera course transcripts into the extension, you will need a working version of Python that satisfies the required packages outlined in the `CourseraTranscriptScraper\requirements.txt` file.
@@ -81,17 +92,17 @@ python scrape_coursera_course.py -c "course_url" -u "coursera_username" -p "cour
 3. Once you run the above command, a window will pop up and automatically log you into Coursera. It is likely that you will be required to complete a CAPTCHA.
 4. Once you complete the CAPTCHA, return to your shell and press Enter, as prompted.
 
-![Screenshot of running the Coursera course scraper from the command line](./Documentation/README_images/CourseraScraper_LoginPostCaptcha.png)
+[<img src = "./Documentation/README_images/CourseraScraper_LoginPostCaptcha.png" width="1000">](./Documentation/README_images/CourseraScraper_LoginPostCaptcha.png)
 
 5. The script will begin scraping, as evidenced by the pop-up window navigating between video pages in the course and the `Retrieved` messages in the shell window.
 
-![Screenshot of running the Coursera course scraper from the command line](./Documentation/README_images/CourseraScraper_SuccessfulScrapes.png)
+[<img src = "./Documentation/README_images/CourseraScraper_SuccessfulScrapes.png" width="1000">](./Documentation/README_images/CourseraScraper_SuccessfulScrapes.png)
 
 6. The script will write any scraped transcriptions to the filepath `subtitles_cs###.json`, where `###` is the three digit course code of the class you are scraping.
 7. If the `-e` flag was passed to the script, the script will automatically push the scraped course's transcriptions to ElasticSearch.
 8. Once the script is finished, you will see a success message, and the web driver window will automatically exit.
 
-![Screenshot of Coursera course scraper successfully pushing subtitles to ElasticSearch](./Documentation/README_images/CourseraScraper_SuccessfulESPush.png)
+[<img src = "./Documentation/README_images/CourseraScraper_SuccessfulESPush.png" width="1000">](./Documentation/README_images/CourseraScraper_SuccessfulESPush.png)
 
 #### <u>Note</u>
 Please be careful not to scrape too many courses at once. Coursera may block you if you issue too many requests to it in too short a time frame. As such, we recommend that you only scrape one course at a time.
