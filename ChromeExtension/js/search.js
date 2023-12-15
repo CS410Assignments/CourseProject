@@ -3,58 +3,20 @@ const result_container = document.querySelector('#result-container-transcript')
 
 search_btn.addEventListener('click', function () {
     if (result_container.childElementCount > 0) {
-        // console.log("Has child(ren)")
         remove_all_children(result_container)
     }
 
     search_api()
 });
 
-async function search_wild() {
-    // console.log("Inside search_wild..")
-    //import {Client} from '@elastic'
-
-    const ES_URL = "https://search-cs410-project-hw5dhpc4jsg3m74vnbalajt754.aos.us-east-1.on.aws"
-    const ES_USER = "elastic"
-    const ES_PASSWORD = "replace me"
-
-    const client = new Client({
-        node: ES_URL,
-        auth: {
-            username: ES_USER,
-            password: ES_PASSWORD
-        }
-    })
-
-
-    const query_str = document.getElementById("searchbox").textContent
-    // console.log("query_str ", query_str)
-    const result = await client.search({
-        index: 'subtitles',
-        size: 1,
-        from: 0,
-        query: {
-            "query_string": {
-                "query": query_str,
-                "default_field": "search_for"
-            }
-        }
-    })
-    const timestam_obj = result.hits.hits[0]._source
-    return timestam_obj;
-}
-
-
 async function search_api() {
-
-    // console.log("Inside search_api..")
 
     var headers = new Headers();
     headers.append("Content-Type", "application/json");
     headers.append("Authorization", "Basic ZWxhc3RpYzpwY2lXY2xwTE5kWHVpY1VoWFY4YmhnazI=");
 
     const query_txt = document.getElementById("searchbox").value
-    // console.log("query_txt ", query_txt)
+    // Query string to send to elasticSearch
     const query_payload = {
         size: 5,
         from: 0,
@@ -64,22 +26,19 @@ async function search_api() {
             }
         }
     }
-    // console.log("query_payload ", query_payload)
     var requestOptions = {
         method: 'POST',
         headers: headers,
         body: JSON.stringify(query_payload)
     };
 
+    // Calling ES _search API to retrieve results from "subtitles" API
     const response = await fetch("https://ac55987c83844faa90726d4e5efe92b9.us-central1.gcp.cloud.es.io/subtitles/_search", requestOptions)
     const record = await response.json()
-    // console.log("record ", record)
     if(record.hits.total.value > 0) {
         const result_num = Math.min(record.hits.total.value, 5)
-        // console.log("Maximum number of result: ", result_num)
         for (let i = 0; i < result_num; i++)  {
             const result = record.hits.hits[i]._source
-            // console.log(result)
             const result_dict = {}
             const response_str = '<strong>'+ result.week + ' </br> </strong>'
                 + '<strong> Title :: </strong>' + result.lecture_title + '</br>' +
