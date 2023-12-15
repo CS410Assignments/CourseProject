@@ -6,6 +6,10 @@ For our project, we wanted to solve two problems: 1) the difficulty of searching
 
 Essentialy, our project provides a way for UIUC students using the Coursera platform for their degree to find concepts in their video lectures without having to tediously scroll through each video in a course and use their browser's search function to find a term. Often, a class can have many weeks of content, and each week can have many videos. If you know there's a video that you want to re-watch in order to study a concept, but can't remember in which video (or even which week!) that concept can be found, this project will hopefully make your life a lot easier! In addition, the ChatGPT module is a queryable script trained on the Coursera video transcripts that power the Chrome Extension, allowing students to query a specialized verison of ChatGPT about their course content.
 
+### <u>Project Demo Video</u>
+Please find a demo video of the Coursera search functionality and the ChatGPT integration at [this YouTube link](https://youtu.be/wSEEVjIqoYE).
+Note that the Coursera transcript scraper is not included in this demo video because of privacy considerations (it requires login information to be input into the shell at runtime).
+
 ### <u>Project Workflow</u>
 Overall, the project consists of three parts:
 1. Coursera Course Transcript Scraper
