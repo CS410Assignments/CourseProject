@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  align-items: center;
+  justify-content:center;
+  height: 100%;
+  overflow: hidden;
+  margin: 0px;
+}
+
+.extension__container{
+  display: flex;
+  flex-direction: column;
+  outline: 1px solid black;
+  height: 600px;
+  width: 450px;
+  margin: 0px;
+}
+
+.header__course {
+  display: flex;
+  align-items: center;
+  color:rgba(50, 50, 50, 100);
+  background: white;
+  height: 50px;
+  margin: 0;
+  padding: 10px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.result__container--transcript {
+  flex-grow: 1;
+  background: rgb(245,245,245);
+  overflow-y: auto;
+  margin: 0;
+  padding: 15px;
+}
+
+
+.result__container--transcript .result__item:hover {
+    cursor: pointer;
+    background-color: rgb(236, 239, 243);
+}
+
+.result__item {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.result__item h4 {
+  line-height: 1rem;
+  margin: 4px;
+  word-wrap: break-word; 
+  overflow: hidden;
+  max-height: 1.5em; 
+}
+
+.result__first--row {
+  display: flex;
+  flex-direction: row;
+}
+
+.result__second--row {
+  display: flex;
+  flex-direction: row;
+}
+
+.result__course--name { 
+  padding-left: 8px;
+}
+
+.timestamp {
+  color: rgb(47, 151, 242);
+}
+
+.result__item p {
+  margin: 4px;
+  word-wrap: break-word; 
+  line-height: 1em; 
+  max-height: 3em; 
+  overflow: hidden;
+  position: relative; 
+}
+
+.footer__input {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgb(225, 225, 225);
+  margin: 0;
+  padding: 10px;
+}
+
+#searchbox{
+  flex-grow: 1;
+  margin-right: 10px;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 5px;
+  height: 30px;
+}
+
+#submit-button {
+    color: white;
+    background-color: rgb(96, 176, 246);
+    border: none;
+    height: 30px;
+    border-radius: 3px;
+}
+
