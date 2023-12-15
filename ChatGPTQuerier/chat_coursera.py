@@ -10,7 +10,7 @@ from langchain.vectorstores.chroma import Chroma
 from dotenv import load_dotenv, find_dotenv
 
 
-_ = load_dotenv(find_dotenv()) # read local .env file
+_ = load_dotenv(find_dotenv())  # read local .env file
 loader = JSONLoader(
     file_path='./chat_subtitles.json',
     jq_schema='.filler[].text',

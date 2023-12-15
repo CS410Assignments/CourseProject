@@ -108,7 +108,20 @@ python scrape_coursera_course.py -c "course_url" -u "coursera_username" -p "cour
 Please be careful not to scrape too many courses at once. Coursera may block you if you issue too many requests to it in too short a time frame. As such, we recommend that you only scrape one course at a time.
 
 ### <u>ChatGPT Integration</u>
-Under construction
+To use the ChatGPT Integration function, ensure all Python package requirements are installed and you have your OpenAI API Key set up as an environment variable called `OPENAI_API_KEY`, and then follow these steps:
+
+1. Navigate to `desiredDirectory/CS410_Fall2023_CourseProject_TeamCAHJ/ChatGPTQuerier` in your terminal shell
+2. Run the `chat_coursera.py` script with `python3 chat_coursera.py`
+
+[<img src = "./Documentation/README_images/ChatGPT_Initialization.png" width="1000">](./Documentation/README_images/ChatGPT_Initialization.png)
+
+3. Enter your query into the shell and hit `Enter`
+
+[<img src = "./Documentation/README_images/ChatGPT_Query.png" width="1000">](./Documentation/README_images/ChatGPT_Query.png)
+
+4. The results of the ChatGPT query, informed by the course transcripts, will print to the shell
+
+[<img src = "./Documentation/README_images/ChatGPT_Response.png" width="1000">](./Documentation/README_images/ChatGPT_Response.png)
 
 ## Future Improvements
 
